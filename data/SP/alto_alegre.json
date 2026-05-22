@@ -1,0 +1,271 @@
+{
+  "populacao": 3746,
+  "votosValidos": 3142,
+  "abstencao": 13.72,
+  "prefeito": {
+    "nome": "CARLOS SUSSUMI IVAMA",
+    "nomeUrna": "CARLINHOS SUSSUMI",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1928,
+    "percentual": 61.36,
+    "situacao": "Eleito",
+    "sqcand": "250001996297",
+    "vice": "ADHEMAR MARTINS FLORES",
+    "viceNomeUrna": "ADHEMAR FLORES",
+    "partidoVice": "MDB",
+    "sqcandVice": "250001996298",
+    "coligacao": "MDB / PODE / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "NATÁLIA FERNANDES DE SOUZA",
+      "nomeUrna": "NATÁLIA ENFERMEIRA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 315,
+      "percentual": 10.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002025577"
+    },
+    {
+      "nome": "WALTER CEZÁRIO",
+      "nomeUrna": "WALTER DA ARLETE",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 234,
+      "percentual": 7.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002062040"
+    },
+    {
+      "nome": "ROGÉRIO DOS SANTOS LARANJEIRA",
+      "nomeUrna": "MÃO",
+      "partido": "PODE",
+      "numero": "20555",
+      "votos": 220,
+      "percentual": 6.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002025535"
+    },
+    {
+      "nome": "VLAUDEMIR CAETANO FERREIRA",
+      "nomeUrna": "NÊ DO CIRÇO",
+      "partido": "PP",
+      "numero": "11600",
+      "votos": 207,
+      "percentual": 6.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002025297"
+    },
+    {
+      "nome": "JUNIOR ANTONIO DIAS DOMINGUES",
+      "nomeUrna": "JUNIOR DOMINGUES",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 175,
+      "percentual": 5.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002025301"
+    },
+    {
+      "nome": "ARIÉLLI CANTAZINI XAVIER",
+      "nomeUrna": "ARIÉLLI",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 169,
+      "percentual": 5.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002025571"
+    },
+    {
+      "nome": "ANTONIO CARLOS BERTO",
+      "nomeUrna": "CARLOS BERTO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 168,
+      "percentual": 5.34,
+      "situacao": "Eleito por média",
+      "sqcand": "250002025572"
+    },
+    {
+      "nome": "JOSMAIR FRANCISCO ZAPATA ROCHA",
+      "nomeUrna": "NENO ROCHA",
+      "partido": "PP",
+      "numero": "11637",
+      "votos": 161,
+      "percentual": 5.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002025298"
+    },
+    {
+      "nome": "ÉMERSON DOS PASSOS GROPO",
+      "nomeUrna": "ÉMERSON ENFERMEIRO",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 144,
+      "percentual": 4.57,
+      "situacao": "Eleito por média",
+      "sqcand": "250002025530"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1512,
+      "percentual": 65.65,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 588,
+      "percentual": 25.53,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 177,
+      "percentual": 7.69,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ARLINDO CHIGNALIA JUNIOR",
+      "nomeUrna": "ARLINDO CHINAGLIA",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 318,
+      "percentual": 12.99,
+      "sqcand": "250001610712"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 216,
+      "percentual": 8.82,
+      "sqcand": "250001611315"
+    },
+    {
+      "nome": "ALEXANDRE LEITE DA SILVA",
+      "nomeUrna": "ALEXANDRE LEITE",
+      "partido": "UNIÃO",
+      "numero": "4425",
+      "votos": 201,
+      "percentual": 8.21,
+      "sqcand": "250001602036"
+    },
+    {
+      "nome": "REINALDO DE SOUZA ALGUZ",
+      "nomeUrna": "REINALDO ALGUZ",
+      "partido": "UNIÃO",
+      "numero": "4436",
+      "votos": 149,
+      "percentual": 6.09,
+      "sqcand": "250001602077"
+    },
+    {
+      "nome": "MANOEL MAURICIO SILVA NEVES",
+      "nomeUrna": "MAURICIO NEVES",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 123,
+      "percentual": 5.02,
+      "sqcand": "250001611990"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 115,
+      "percentual": 4.7,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 110,
+      "percentual": 4.49,
+      "sqcand": "250001611345"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 484,
+      "percentual": 20.62,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "ROQUE BARBIERE",
+      "nomeUrna": "ROQUE BARBIERE ROQUINHO",
+      "partido": "AVANTE",
+      "numero": "70160",
+      "votos": 354,
+      "percentual": 15.08,
+      "sqcand": "250001621713"
+    },
+    {
+      "nome": "FÁBIO ANDRÉ CAPUTO FERRACINI",
+      "nomeUrna": "FÁBIO FERRACINI",
+      "partido": "PODE",
+      "numero": "19209",
+      "votos": 234,
+      "percentual": 9.97,
+      "sqcand": "250001610478"
+    },
+    {
+      "nome": "MILTON LEITE DA SILVA FILHO",
+      "nomeUrna": "MILTON LEITE FILHO",
+      "partido": "UNIÃO",
+      "numero": "44250",
+      "votos": 179,
+      "percentual": 7.63,
+      "sqcand": "250001602142"
+    },
+    {
+      "nome": "LUCAS PAVAN ZANATTA",
+      "nomeUrna": "LUCAS ZANATTA",
+      "partido": "PL",
+      "numero": "22550",
+      "votos": 176,
+      "percentual": 7.5,
+      "sqcand": "250001610135"
+    },
+    {
+      "nome": "JEFERSON MODESTO SILVA",
+      "nomeUrna": "JEFERSON MODESTO JÉ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 86,
+      "percentual": 3.66,
+      "sqcand": "250001612312"
+    },
+    {
+      "nome": "EVERTON LUIZ FERNANDES SODARIO RAIMUNDO",
+      "nomeUrna": "EVERTON SODARIO",
+      "partido": "PATRIOTA",
+      "numero": "51051",
+      "votos": 75,
+      "percentual": 3.2,
+      "sqcand": "250001621461"
+    }
+  ]
+}

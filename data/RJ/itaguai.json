@@ -1,0 +1,291 @@
+{
+  "populacao": 100590,
+  "votosValidos": 73982,
+  "abstencao": 20.85,
+  "prefeito": {
+    "nome": "RUBEM VIEIRA DE SOUZA",
+    "nomeUrna": "DR RUBÃO",
+    "partido": "PODE",
+    "numero": "20",
+    "votos": 29192,
+    "percentual": 39.46,
+    "situacao": "Não eleito",
+    "sqcand": "190002365829",
+    "vice": "FERNANDO STEIN KUCHENBECKER JUNIOR",
+    "viceNomeUrna": "JUNIOR DO SITIO ",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "190002365830",
+    "coligacao": "PODE / REPUBLICANOS / PDT / PP / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "FABIO LUIS DA SILVA ROCHA",
+      "nomeUrna": "FABINHO PRIME",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 3089,
+      "percentual": 4.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002073165"
+    },
+    {
+      "nome": "ALECSANDRO ALVES DE AZEVEDO",
+      "nomeUrna": "ALEX ALVES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 3030,
+      "percentual": 3.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002073171"
+    },
+    {
+      "nome": "HAROLDO RODRIGUES JESUS NETO",
+      "nomeUrna": "HAROLDO JESUS",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 2789,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002076219"
+    },
+    {
+      "nome": "GUILHERME SEVERINO CAMPOS DE FARIAS KIFER RIBEIRO",
+      "nomeUrna": "GUILHERME FARIAS ",
+      "partido": "PODE",
+      "numero": "20620",
+      "votos": 2325,
+      "percentual": 3.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002076704"
+    },
+    {
+      "nome": "ADILSON PEREIRA CAMPOS JÚNIOR",
+      "nomeUrna": "ADILSON PIMPO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 2246,
+      "percentual": 2.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002012056"
+    },
+    {
+      "nome": "FABIANO JOSÉ NUNES",
+      "nomeUrna": "FABINHO TACIANO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 2047,
+      "percentual": 2.69,
+      "situacao": "Eleito por média",
+      "sqcand": "190002012054"
+    },
+    {
+      "nome": "ALEXANDRO VALENÇA DE PAULA",
+      "nomeUrna": "SANDRO DA HERMÍNIO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1969,
+      "percentual": 2.59,
+      "situacao": "Eleito por média",
+      "sqcand": "190002073166"
+    },
+    {
+      "nome": "RACHEL SECUNDO DA SILVA",
+      "nomeUrna": "RACHEL SECUNDO ",
+      "partido": "PODE",
+      "numero": "20896",
+      "votos": 1840,
+      "percentual": 2.42,
+      "situacao": "Eleito por média",
+      "sqcand": "190002076696"
+    },
+    {
+      "nome": "AGENOR DE OLIVEIRA TEIXEIRA",
+      "nomeUrna": "AGENOR TEIXEIRA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 1703,
+      "percentual": 2.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001900904"
+    },
+    {
+      "nome": "PATRICIA FERNANDA KUCHENBECKER",
+      "nomeUrna": "PATY BUMERANGUE ",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 1479,
+      "percentual": 1.95,
+      "situacao": "Eleito por média",
+      "sqcand": "190002076694"
+    },
+    {
+      "nome": "OINEGUELANDO RODRIGUES EUGENIO DA SILVA",
+      "nomeUrna": "NANDO RODRIGUES",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 1402,
+      "percentual": 1.85,
+      "situacao": "Eleito por média",
+      "sqcand": "190002076223"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 22160,
+      "percentual": 44.61,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "CLARISSA GAROTINHO BARROS ASSED MATHEUS DE OLIVEIRA",
+      "nomeUrna": "CLARISSA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 10793,
+      "percentual": 21.73,
+      "sqcand": "190001645824"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 7078,
+      "percentual": 14.25,
+      "sqcand": "190001609504"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUCIANO VIEIRA MENDES",
+      "nomeUrna": "LUCIANO VIEIRA",
+      "partido": "PL",
+      "numero": "2256",
+      "votos": 6250,
+      "percentual": 9.85,
+      "sqcand": "190001596803"
+    },
+    {
+      "nome": "ALTINEU CORTES FREITAS COUTINHO",
+      "nomeUrna": "ALTINEU CORTES",
+      "partido": "PL",
+      "numero": "2269",
+      "votos": 3243,
+      "percentual": 5.11,
+      "sqcand": "190001596785"
+    },
+    {
+      "nome": "ANTÔNIO FERNANDES ANTUNES",
+      "nomeUrna": "DR ANTÔNIO ANTUNES",
+      "partido": "PRTB",
+      "numero": "2855",
+      "votos": 3233,
+      "percentual": 5.09,
+      "sqcand": "190001639071"
+    },
+    {
+      "nome": "MARCELO ANDRÉ CID HERÁCLITO DO PORTO QUEIROZ",
+      "nomeUrna": "MARCELO QUEIROZ",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 2562,
+      "percentual": 4.04,
+      "sqcand": "190001605581"
+    },
+    {
+      "nome": "DANIELA MOTÉ DE SOUZA CARNEIRO",
+      "nomeUrna": "DANIELA DO WAGUINHO",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 1863,
+      "percentual": 2.93,
+      "sqcand": "190001619522"
+    },
+    {
+      "nome": "EDUARDO PAZUELLO",
+      "nomeUrna": "GENERAL  PAZUELLO",
+      "partido": "PL",
+      "numero": "2212",
+      "votos": 1609,
+      "percentual": 2.53,
+      "sqcand": "190001596794"
+    },
+    {
+      "nome": "JOÃO FRANCISCO INÁCIO BRAZÃO",
+      "nomeUrna": "CHIQUINHO BRAZÃO",
+      "partido": "UNIÃO",
+      "numero": "4401",
+      "votos": 1429,
+      "percentual": 2.25,
+      "sqcand": "190001619502"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ CLAUDIO DE SOUZA RIBEIRO",
+      "nomeUrna": "LUIZ CLAUDIO RIBEIRO",
+      "partido": "PSD",
+      "numero": "55567",
+      "votos": 10952,
+      "percentual": 17.95,
+      "sqcand": "190001612200"
+    },
+    {
+      "nome": "KELAINE NUNES DE ALVARENGA DE SOUZA DE AVILA",
+      "nomeUrna": "KELAINE GOULART",
+      "partido": "PP",
+      "numero": "11345",
+      "votos": 3971,
+      "percentual": 6.51,
+      "sqcand": "190001609546"
+    },
+    {
+      "nome": "GUILHERME JANDRE DELAROLI",
+      "nomeUrna": "DELAROLI",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 2430,
+      "percentual": 3.98,
+      "sqcand": "190001596756"
+    },
+    {
+      "nome": "FABIO FRANCISCO DA SILVA",
+      "nomeUrna": "FABIO SILVA ",
+      "partido": "UNIÃO",
+      "numero": "44300",
+      "votos": 2427,
+      "percentual": 3.98,
+      "sqcand": "190001619464"
+    },
+    {
+      "nome": "JESUÉ ALVES",
+      "nomeUrna": "JESUÉ ALVES",
+      "partido": "PRTB",
+      "numero": "28157",
+      "votos": 1885,
+      "percentual": 3.09,
+      "sqcand": "190001645292"
+    },
+    {
+      "nome": "FRANCIANE CONCEIÇÃO GAGO MOTTA",
+      "nomeUrna": "FRANCIANE MOTTA",
+      "partido": "UNIÃO",
+      "numero": "44288",
+      "votos": 1540,
+      "percentual": 2.52,
+      "sqcand": "190001619418"
+    },
+    {
+      "nome": "GUILHERME NOGUEIRA SCHLEDER",
+      "nomeUrna": "GUILHERME SCHLEDER",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1317,
+      "percentual": 2.16,
+      "sqcand": "190001612210"
+    }
+  ]
+}

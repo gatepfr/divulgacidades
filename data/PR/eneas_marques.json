@@ -1,0 +1,271 @@
+{
+  "populacao": 5477,
+  "votosValidos": 3746,
+  "abstencao": 11.98,
+  "prefeito": {
+    "nome": "EDSON LUPATINI",
+    "nomeUrna": "LUPATINI",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 3746,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "160002073905",
+    "vice": "MAIKON ANDRÉ PARZIANELLO",
+    "viceNomeUrna": "MAIKON PARZIANELLO",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002073906",
+    "coligacao": "PP / PODE / PL / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ADAO BIANCATTI",
+      "nomeUrna": "ADAO BIANCATTI",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 475,
+      "percentual": 10.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002222793"
+    },
+    {
+      "nome": "MARCELO ADRIANO ANTUNES",
+      "nomeUrna": "MARCELO ANTUNES",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 440,
+      "percentual": 9.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002074787"
+    },
+    {
+      "nome": "ADEMIR DE SOUZA LAURENTINO",
+      "nomeUrna": "TITÃO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 408,
+      "percentual": 8.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002338297"
+    },
+    {
+      "nome": "MARTA RAZERA",
+      "nomeUrna": "MARTA RAZERA",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 357,
+      "percentual": 7.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002074791"
+    },
+    {
+      "nome": "JAIR FORMAIO",
+      "nomeUrna": "JAIR FORMAIO",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 356,
+      "percentual": 7.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002074784"
+    },
+    {
+      "nome": "JUSSANDRA CARDOSO MOREIRA CATTÂNEO",
+      "nomeUrna": "JUSSANDRA  CATTÂNEO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 322,
+      "percentual": 6.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002074789"
+    },
+    {
+      "nome": "GILMAR JACOB HEINZ",
+      "nomeUrna": "GILMAR HEINZ - ZIMO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 292,
+      "percentual": 6.34,
+      "situacao": "Eleito por média",
+      "sqcand": "160002222788"
+    },
+    {
+      "nome": "SIDMAR ONOFRE",
+      "nomeUrna": "SIDI ONOFRE",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 283,
+      "percentual": 6.14,
+      "situacao": "Eleito por média",
+      "sqcand": "160002074785"
+    },
+    {
+      "nome": "PEDRO DA ROZA",
+      "nomeUrna": "PEDRO DA ROZA",
+      "partido": "REPUBLICANOS",
+      "numero": "10120",
+      "votos": 207,
+      "percentual": 4.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002286853"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1345,
+      "percentual": 34.67,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1213,
+      "percentual": 31.27,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 729,
+      "percentual": 18.79,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1441,
+      "percentual": 35.26,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "PAULO HENRIQUE COLETTI FERNANDES",
+      "nomeUrna": "PAULO LITRO",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 415,
+      "percentual": 10.15,
+      "sqcand": "160001622301"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 308,
+      "percentual": 7.54,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 298,
+      "percentual": 7.29,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "LEANDRE DAL PONTE",
+      "nomeUrna": "LEANDRE",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 270,
+      "percentual": 6.61,
+      "sqcand": "160001622296"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 225,
+      "percentual": 5.51,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 197,
+      "percentual": 4.82,
+      "sqcand": "160001622285"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 1699,
+      "percentual": 43.33,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "WILMAR REICHEMBACH",
+      "nomeUrna": "REICHEMBACH",
+      "partido": "PSD",
+      "numero": "55012",
+      "votos": 478,
+      "percentual": 12.19,
+      "sqcand": "160001623121"
+    },
+    {
+      "nome": "LUCIANA GUZELLA RAFAGNIN",
+      "nomeUrna": "LUCIANA RAFAGNIN",
+      "partido": "PT",
+      "numero": "13233",
+      "votos": 432,
+      "percentual": 11.02,
+      "sqcand": "160001615035"
+    },
+    {
+      "nome": "ADAO FERNANDES DA SILVA",
+      "nomeUrna": "ADAO FERNANDES LITRO",
+      "partido": "PSD",
+      "numero": "55125",
+      "votos": 231,
+      "percentual": 5.89,
+      "sqcand": "160001739397"
+    },
+    {
+      "nome": "ALDINO JORGE BUENO",
+      "nomeUrna": "GUGU BUENO",
+      "partido": "PSD",
+      "numero": "55022",
+      "votos": 197,
+      "percentual": 5.02,
+      "sqcand": "160001623097"
+    },
+    {
+      "nome": "LUIS RAIMUNDO CORTI",
+      "nomeUrna": "LUIS CORTI",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 130,
+      "percentual": 3.32,
+      "sqcand": "160001621887"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 98,
+      "percentual": 2.5,
+      "sqcand": "160001614823"
+    }
+  ]
+}

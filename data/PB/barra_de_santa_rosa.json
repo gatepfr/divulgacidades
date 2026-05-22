@@ -1,0 +1,271 @@
+{
+  "populacao": 11356,
+  "votosValidos": 9884,
+  "abstencao": 10.81,
+  "prefeito": {
+    "nome": "ALEX SANDRO AZEVEDO VIEIRA",
+    "nomeUrna": "ALEX  CONDA",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 5134,
+    "percentual": 51.94,
+    "situacao": "Eleito",
+    "sqcand": "150002241323",
+    "vice": "ALEX SILVA OLIVEIRA",
+    "viceNomeUrna": "ALEX DE FANCA",
+    "partidoVice": "PSB",
+    "sqcandVice": "150002241324",
+    "coligacao": "UNIÃO / PSB / REPUBLICANOS / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSÉ EWERTON OLIVEIRA ALMEIDA",
+      "nomeUrna": "VETINHO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 603,
+      "percentual": 6.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002178919"
+    },
+    {
+      "nome": "JOSÉ DIOGENES MEDEIROS",
+      "nomeUrna": "DIOGE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 589,
+      "percentual": 5.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002178936"
+    },
+    {
+      "nome": "JOSÉ DE OLIVEIRA NUNES",
+      "nomeUrna": "PEL NUNES",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 578,
+      "percentual": 5.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002241272"
+    },
+    {
+      "nome": "JOSE MARTINS",
+      "nomeUrna": "PRETO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 543,
+      "percentual": 5.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002241271"
+    },
+    {
+      "nome": "ADRIANO SOUSA LEITE",
+      "nomeUrna": "ADRIANO DO SINDICATO ",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 528,
+      "percentual": 5.31,
+      "situacao": "Eleito por média",
+      "sqcand": "150002106589"
+    },
+    {
+      "nome": "JOSE ELMIR DE SOUSA",
+      "nomeUrna": "ELMIR",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 520,
+      "percentual": 5.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002241268"
+    },
+    {
+      "nome": "EDSON GUEDES MONTEIRO",
+      "nomeUrna": "EDSON GUEDES",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 508,
+      "percentual": 5.11,
+      "situacao": "Eleito por média",
+      "sqcand": "150002241273"
+    },
+    {
+      "nome": "JOSE LUCIANO SILVA MELO",
+      "nomeUrna": "ZE LUCIANO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 490,
+      "percentual": 4.93,
+      "situacao": "Eleito por média",
+      "sqcand": "150002241269"
+    },
+    {
+      "nome": "JOSÉ ADRIANO DIAS DE MARIA",
+      "nomeUrna": "ADRIANO ELISEU",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 468,
+      "percentual": 4.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002178918"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 3566,
+      "percentual": 47.65,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 3116,
+      "percentual": 41.64,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 513,
+      "percentual": 6.85,
+      "sqcand": "150001718470"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "AGUINALDO VELLOSO BORGES RIBEIRO",
+      "nomeUrna": "AGUINALDO RIBEIRO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 2282,
+      "percentual": 29.34,
+      "sqcand": "150001612065"
+    },
+    {
+      "nome": "JOSÉ WILSON SANTIAGO",
+      "nomeUrna": "WILSON SANTIAGO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 2230,
+      "percentual": 28.67,
+      "sqcand": "150001619548"
+    },
+    {
+      "nome": "ISIS RAFAELA RODRIGUES DA SILVA",
+      "nomeUrna": "RAFAELA CAMARAENSE",
+      "partido": "PSB",
+      "numero": "4013",
+      "votos": 1071,
+      "percentual": 13.77,
+      "sqcand": "150001621682"
+    },
+    {
+      "nome": "ANTONIO RIBEIRO",
+      "nomeUrna": "FREI ANASTÁCIO",
+      "partido": "PT",
+      "numero": "1345",
+      "votos": 708,
+      "percentual": 9.1,
+      "sqcand": "150001619539"
+    },
+    {
+      "nome": "GULLIEM CHARLES BEZERRA LEMOS",
+      "nomeUrna": "JULIAN LEMOS",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 338,
+      "percentual": 4.35,
+      "sqcand": "150001603201"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 166,
+      "percentual": 2.13,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "MARIA SILVA DA CUNHA",
+      "nomeUrna": "SILVIA DA PESCA",
+      "partido": "REPUBLICANOS",
+      "numero": "1033",
+      "votos": 109,
+      "percentual": 1.4,
+      "sqcand": "150001619550"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GILMA VASCONCELOS DA SILVA GERMANO",
+      "nomeUrna": "GILMA  GERMANO",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 2493,
+      "percentual": 33.92,
+      "sqcand": "150001727458"
+    },
+    {
+      "nome": "TANILSON TARSO NOBREGA SOARES",
+      "nomeUrna": "TANILSON SOARES",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 2301,
+      "percentual": 31.31,
+      "sqcand": "150001621658"
+    },
+    {
+      "nome": "MELCHIOR NAELSON BATISTA DA SILVA",
+      "nomeUrna": "CHIÓ",
+      "partido": "REDE",
+      "numero": "18789",
+      "votos": 1032,
+      "percentual": 14.04,
+      "sqcand": "150001621578"
+    },
+    {
+      "nome": "MARCIO ROBERTO DA SILVA",
+      "nomeUrna": "MARCIO ROBERTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10234",
+      "votos": 293,
+      "percentual": 3.99,
+      "sqcand": "150001619559"
+    },
+    {
+      "nome": "GEORGE VENTURA MORAIS",
+      "nomeUrna": "GEORGE MORAIS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 181,
+      "percentual": 2.46,
+      "sqcand": "150001603122"
+    },
+    {
+      "nome": "SEBASTIAO TIAO GOMES PEREIRA",
+      "nomeUrna": "TIAO GOMES ",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 128,
+      "percentual": 1.74,
+      "sqcand": "150001621667"
+    },
+    {
+      "nome": "ANDERSON MONTEIRO COSTA",
+      "nomeUrna": "ANDERSON MONTEIRO",
+      "partido": "MDB",
+      "numero": "15147",
+      "votos": 64,
+      "percentual": 0.87,
+      "sqcand": "150001718105"
+    }
+  ]
+}

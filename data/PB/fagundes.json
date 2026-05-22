@@ -1,0 +1,271 @@
+{
+  "populacao": 10570,
+  "votosValidos": 8218,
+  "abstencao": 17.16,
+  "prefeito": {
+    "nome": "WILMAR LEMOS MARANHÃO JÚNIOR",
+    "nomeUrna": "JÚNIOR MARANHÃO",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 4991,
+    "percentual": 60.73,
+    "situacao": "Eleito",
+    "sqcand": "150001961845",
+    "vice": "JOSÉ RICARDO MARTINS DOS SANTOS",
+    "viceNomeUrna": "RICARDO MARTINS",
+    "partidoVice": "PP",
+    "sqcandVice": "150001961844",
+    "coligacao": "PSB / PP / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "SEVERINO VEIGA DE FREITAS",
+      "nomeUrna": "TÃO VEIGA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 601,
+      "percentual": 7.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001960141"
+    },
+    {
+      "nome": "JANDUÍ BARBOSA DE ANDRADE",
+      "nomeUrna": "DR. JANDUÍ",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 529,
+      "percentual": 6.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001960709"
+    },
+    {
+      "nome": "RODRIGO PEREIRA GOMES",
+      "nomeUrna": "RODRIGO GOMES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 515,
+      "percentual": 6.22,
+      "situacao": "Eleito por média",
+      "sqcand": "150001960714"
+    },
+    {
+      "nome": "JOSÉ FERREIRA DA SILVA",
+      "nomeUrna": "ZÉ DE ADOLFO",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 485,
+      "percentual": 5.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001960136"
+    },
+    {
+      "nome": "JOÃO BATISTA DE OLIVEIRA BARBOSA",
+      "nomeUrna": "BATISTA DO GAVIÃO",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 466,
+      "percentual": 5.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001960139"
+    },
+    {
+      "nome": "ANA PAULA EMILIANO MARTINS",
+      "nomeUrna": "ANA PAULA MARTINS",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 371,
+      "percentual": 4.48,
+      "situacao": "Eleito por média",
+      "sqcand": "150001960140"
+    },
+    {
+      "nome": "TAMIRIS BORGES MARINHO DE SOUZA",
+      "nomeUrna": "TAMIRIS DE MARIA MEDEIROS",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 358,
+      "percentual": 4.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001905331"
+    },
+    {
+      "nome": "EDUARDA DE FATIMA DANTAS VIDAL",
+      "nomeUrna": "EDUARDA DANTAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 347,
+      "percentual": 4.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001961549"
+    },
+    {
+      "nome": "ARNALDO FRANCISCO DE MEDEIROS",
+      "nomeUrna": "ARNALDO MEDEIROS",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 346,
+      "percentual": 4.18,
+      "situacao": "Eleito por média",
+      "sqcand": "150001961555"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1846,
+      "percentual": 30.42,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1404,
+      "percentual": 23.14,
+      "sqcand": "150001718470"
+    },
+    {
+      "nome": "SERGIO AUGUSTO DE QUEIROZ",
+      "nomeUrna": "SERGIO QUEIROZ",
+      "partido": "PRTB",
+      "numero": "282",
+      "votos": 1366,
+      "percentual": 22.51,
+      "sqcand": "150001636649"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LEONARDO DE MELO GADELHA",
+      "nomeUrna": "LÉO GADELHA",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 1692,
+      "percentual": 25.69,
+      "sqcand": "150001612080"
+    },
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 1212,
+      "percentual": 18.4,
+      "sqcand": "150001619544"
+    },
+    {
+      "nome": "RUY MANUEL CARNEIRO BARBOSA DE AÇA BELCHIOR",
+      "nomeUrna": "RUY CARNEIRO",
+      "partido": "PSC",
+      "numero": "2030",
+      "votos": 1148,
+      "percentual": 17.43,
+      "sqcand": "150001612089"
+    },
+    {
+      "nome": "BENJAMIN GOMES MARANHAO NETO",
+      "nomeUrna": "BENJAMIN MARANHÃO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 503,
+      "percentual": 7.64,
+      "sqcand": "150001643333"
+    },
+    {
+      "nome": "ROMERO RODRIGUES VEIGA",
+      "nomeUrna": "ROMERO RODRIGUES",
+      "partido": "PSC",
+      "numero": "2011",
+      "votos": 449,
+      "percentual": 6.82,
+      "sqcand": "150001612086"
+    },
+    {
+      "nome": "JACÓ MOREIRA MACIEL",
+      "nomeUrna": "JACÓ MACIEL",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 304,
+      "percentual": 4.62,
+      "sqcand": "150001603194"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 187,
+      "percentual": 2.84,
+      "sqcand": "150001619538"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOÃO PAULO BARBOSA LEAL SEGUNDO",
+      "nomeUrna": "JOÃO PAULO",
+      "partido": "PP",
+      "numero": "11369",
+      "votos": 1713,
+      "percentual": 27.74,
+      "sqcand": "150001612056"
+    },
+    {
+      "nome": "TOVAR ALVES CORREIA LIMA",
+      "nomeUrna": "TOVAR",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 1501,
+      "percentual": 24.31,
+      "sqcand": "150001621370"
+    },
+    {
+      "nome": "SILVIA FERNANDA AIRES BENJAMIN",
+      "nomeUrna": "SILVIA BENJAMIN",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 1071,
+      "percentual": 17.34,
+      "sqcand": "150001619562"
+    },
+    {
+      "nome": "FABIO RAMALHO DA SILVA",
+      "nomeUrna": "FABIO RAMALHO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 322,
+      "percentual": 5.21,
+      "sqcand": "150001621377"
+    },
+    {
+      "nome": "ARON RENE MARTINS DE ANDRADE",
+      "nomeUrna": "ARON ANDRADE",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 207,
+      "percentual": 3.35,
+      "sqcand": "150001612059"
+    },
+    {
+      "nome": "MOACIR BARBOSA DA VEIGA FILHO",
+      "nomeUrna": "MOACIR RODRIGUES",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 147,
+      "percentual": 2.38,
+      "sqcand": "150001718207"
+    },
+    {
+      "nome": "JOÃO GOMES DE SOUZA NETO",
+      "nomeUrna": "SARGENTO NETO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 104,
+      "percentual": 1.68,
+      "sqcand": "150001718221"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "populacao": 45432,
+  "votosValidos": 38065,
+  "abstencao": 13.42,
+  "prefeito": {
+    "nome": "LUIS EDUARDO PIMENTEL SOARES",
+    "nomeUrna": "DR LULA",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 20257,
+    "percentual": 53.22,
+    "situacao": "Eleito",
+    "sqcand": "200001937615",
+    "vice": "ISABELA DE ALMEIDA MORAIS",
+    "viceNomeUrna": "DRA ISABELA",
+    "partidoVice": "PT",
+    "sqcandVice": "200001937614",
+    "coligacao": "REPUBLICANOS / MDB / PDT / PSB / PSD / SOLIDARIEDADE / CIDADANIA / PSDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ANA PRISCILA LOPES DE MEDEIROS CORSINO",
+      "nomeUrna": "PRISCILA DE TERCEIRO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 1739,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002109459"
+    },
+    {
+      "nome": "GIRLEIDE LOPES RODRIGUES MARINHO",
+      "nomeUrna": "GIGI DA SAÚDE",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 1691,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002109463"
+    },
+    {
+      "nome": "ODELMO DE MOURA RODRIGUES",
+      "nomeUrna": "ODELMO",
+      "partido": "MDB",
+      "numero": "15670",
+      "votos": 1669,
+      "percentual": 4.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002109464"
+    },
+    {
+      "nome": "JOSÉ VALTERLÂNIO DE SOUZA",
+      "nomeUrna": "JOSÉ VALTERLÂNIO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1523,
+      "percentual": 4.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002109469"
+    },
+    {
+      "nome": "PAULO CÉSAR DE BRITO",
+      "nomeUrna": "PAULO BRITO",
+      "partido": "PP",
+      "numero": "11640",
+      "votos": 1464,
+      "percentual": 3.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002025766"
+    },
+    {
+      "nome": "JULIA LETICIA FERNANDES BERTO",
+      "nomeUrna": "LETICIA DE JOÃO PAULO",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 1435,
+      "percentual": 3.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001987470"
+    },
+    {
+      "nome": "PAULO SÉRGIO DA SILVA",
+      "nomeUrna": "PAULINHO DE MARLENE",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 1406,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002104398"
+    },
+    {
+      "nome": "JOAO BATISTA DE SOUZA JUNIOR",
+      "nomeUrna": "JUNIOR DO TRAPIÁ",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 1370,
+      "percentual": 3.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002112681"
+    },
+    {
+      "nome": "ERICO CORTES ALVES FILHO",
+      "nomeUrna": "DR ERICO ALVES",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 1352,
+      "percentual": 3.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002104393"
+    },
+    {
+      "nome": "PEDRO CAVALCANTE ALBANO FILHO",
+      "nomeUrna": "PEDRO FILHO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 1340,
+      "percentual": 3.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001964629"
+    },
+    {
+      "nome": "JOAO WALACE DA SILVA",
+      "nomeUrna": "WALACE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1269,
+      "percentual": 3.34,
+      "situacao": "Eleito por média",
+      "sqcand": "200002025761"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS SOUTO",
+      "nomeUrna": "TÊ",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 1151,
+      "percentual": 3.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001987459"
+    },
+    {
+      "nome": "FLAVIO CRUZ DA FONSECA",
+      "nomeUrna": "PIPA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 1078,
+      "percentual": 2.84,
+      "situacao": "Eleito por média",
+      "sqcand": "200002104396"
+    },
+    {
+      "nome": "CLEBSON ELVES CORSINO DE MELO",
+      "nomeUrna": "CLEBSON CORSINO",
+      "partido": "PV",
+      "numero": "43444",
+      "votos": 1055,
+      "percentual": 2.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002112672"
+    },
+    {
+      "nome": "WEDSON NAZARENO DA SILVA",
+      "nomeUrna": "WEDSON",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 975,
+      "percentual": 2.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001987473"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 11895,
+      "percentual": 40.35,
+      "sqcand": "200001612334"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 9116,
+      "percentual": 30.93,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 8128,
+      "percentual": 27.57,
+      "sqcand": "200001603037"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VANESSA PINTO BRASILEIRO LOPES",
+      "nomeUrna": "DRA VANESSA",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 15262,
+      "percentual": 47.55,
+      "sqcand": "200001608806"
+    },
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 5185,
+      "percentual": 16.16,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 1491,
+      "percentual": 4.65,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS SOUTO",
+      "nomeUrna": "TÊ",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7700",
+      "votos": 1242,
+      "percentual": 3.87,
+      "sqcand": "200001601302"
+    },
+    {
+      "nome": "VICTOR HUGO DE ASSIS CRUZ",
+      "nomeUrna": "VICTOR HUGO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 829,
+      "percentual": 2.58,
+      "sqcand": "200001603381"
+    },
+    {
+      "nome": "LAWRENCE CARLOS AMORIM DE ARAUJO",
+      "nomeUrna": "LAWRENCE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7778",
+      "votos": 692,
+      "percentual": 2.16,
+      "sqcand": "200001601298"
+    },
+    {
+      "nome": "HENRIQUE EDUARDO LYRA ALVES",
+      "nomeUrna": "HENRIQUE ALVES",
+      "partido": "PSB",
+      "numero": "4015",
+      "votos": 640,
+      "percentual": 1.99,
+      "sqcand": "200001612238"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GEORGE MONTENEGRO SOARES",
+      "nomeUrna": "GEORGE SOARES",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 15531,
+      "percentual": 49.46,
+      "sqcand": "200001603616"
+    },
+    {
+      "nome": "NELTER LULA DE QUEIROZ SANTOS",
+      "nomeUrna": "NELTER QUEIROZ",
+      "partido": "PSDB",
+      "numero": "45122",
+      "votos": 3069,
+      "percentual": 9.77,
+      "sqcand": "200001606001"
+    },
+    {
+      "nome": "TÉRCIO BARRETO RAMOS TINOCO",
+      "nomeUrna": "TÉRCIO TINOCO",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 2141,
+      "percentual": 6.82,
+      "sqcand": "200001652899"
+    },
+    {
+      "nome": "PAULO HENRIQUE DO NASCIMENTO",
+      "nomeUrna": "PAULINHO DO ACREDITO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 2060,
+      "percentual": 6.56,
+      "sqcand": "200001652904"
+    },
+    {
+      "nome": "GUSTAVO HENRIQUE LIMA DE CARVALHO",
+      "nomeUrna": "GUSTAVO CARVALHO",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 1035,
+      "percentual": 3.3,
+      "sqcand": "200001606002"
+    },
+    {
+      "nome": "WENDEL FAGNER CORTEZ DE ALMEIDA",
+      "nomeUrna": "WENDEL LAGARTIXA",
+      "partido": "PL",
+      "numero": "22762",
+      "votos": 764,
+      "percentual": 2.43,
+      "sqcand": "200001604709"
+    },
+    {
+      "nome": "MARIA ISOLDA DANTAS DE MOURA",
+      "nomeUrna": "ISOLDA DANTAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 553,
+      "percentual": 1.76,
+      "sqcand": "200001603626"
+    }
+  ]
+}

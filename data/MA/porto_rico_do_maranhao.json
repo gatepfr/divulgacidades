@@ -1,0 +1,271 @@
+{
+  "populacao": 7607,
+  "votosValidos": 6293,
+  "abstencao": 15.13,
+  "prefeito": {
+    "nome": "ALDENE NOGUEIRA PASSINHO",
+    "nomeUrna": "ALDO BROWN",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 4031,
+    "percentual": 64.06,
+    "situacao": "Eleito",
+    "sqcand": "100002043400",
+    "vice": "JOSE BENEDITO MARTINS BARBOSA",
+    "viceNomeUrna": "ZEQUINHA",
+    "partidoVice": "PRD",
+    "sqcandVice": "100002043401",
+    "coligacao": "PL / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "VALDIR DE JESUS",
+      "nomeUrna": "VALDIR AMORIM",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 440,
+      "percentual": 6.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002140182"
+    },
+    {
+      "nome": "WANDERLY MONTEIRO GONÇALVES",
+      "nomeUrna": "NANDO",
+      "partido": "PRD",
+      "numero": "25456",
+      "votos": 389,
+      "percentual": 6.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002139364"
+    },
+    {
+      "nome": "NATONIEL PINTO MACÁRIO",
+      "nomeUrna": "MACÁRIO",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 384,
+      "percentual": 6.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002140181"
+    },
+    {
+      "nome": "ÍNDIA IARA LOUSEIRO COIMBRA",
+      "nomeUrna": "IARA",
+      "partido": "PRD",
+      "numero": "25222",
+      "votos": 300,
+      "percentual": 4.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002139365"
+    },
+    {
+      "nome": "JOCINELSON SANTOS SILVA",
+      "nomeUrna": "NELSINHO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 296,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002140185"
+    },
+    {
+      "nome": "JOUD FRAN DOS SANTOS MENDES",
+      "nomeUrna": "JOUD MENDES",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 275,
+      "percentual": 4.33,
+      "situacao": "Eleito por média",
+      "sqcand": "100002139366"
+    },
+    {
+      "nome": "DINO CESAR SILVA DOS SANTOS",
+      "nomeUrna": "DINO CÉSAR",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 250,
+      "percentual": 3.94,
+      "situacao": "Eleito por média",
+      "sqcand": "100002140187"
+    },
+    {
+      "nome": "NELCI MARIA RIBEIRO MENDES",
+      "nomeUrna": "COTA",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 242,
+      "percentual": 3.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002282303"
+    },
+    {
+      "nome": "IDACIO ANTONIO NOGUEIRA FILHO",
+      "nomeUrna": "IDACIO NOGUEIRA",
+      "partido": "PRD",
+      "numero": "25444",
+      "votos": 215,
+      "percentual": 3.39,
+      "situacao": "Eleito por média",
+      "sqcand": "100002139363"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 3336,
+      "percentual": 77.06,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 969,
+      "percentual": 22.38,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "IVO NOGUEIRA",
+      "nomeUrna": "PASTOR IVO NOGUEIRA",
+      "partido": "DC",
+      "numero": "277",
+      "votos": 11,
+      "percentual": 0.25,
+      "sqcand": "100001613450"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSIMAR CUNHA RODRIGUES",
+      "nomeUrna": "JOSIMAR MARANHÃOZINHO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1508,
+      "percentual": 33.32,
+      "sqcand": "100001603114"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CARVALHO RIBEIRO",
+      "nomeUrna": "ANDRÉ FUFUCA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 842,
+      "percentual": 18.6,
+      "sqcand": "100001608075"
+    },
+    {
+      "nome": "ANTONIO DA CRUZ FILGUEIRA NETO",
+      "nomeUrna": "MARRECA FILHO",
+      "partido": "PATRIOTA",
+      "numero": "5122",
+      "votos": 334,
+      "percentual": 7.38,
+      "sqcand": "100001608201"
+    },
+    {
+      "nome": "KELLY INAIANE NALVA DOS SANTOS DIAS",
+      "nomeUrna": "KELLY DA ENFERMAGEM",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 333,
+      "percentual": 7.36,
+      "sqcand": "100001599080"
+    },
+    {
+      "nome": "ROSEANA SARNEY MURAD",
+      "nomeUrna": "ROSEANA SARNEY",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 318,
+      "percentual": 7.03,
+      "sqcand": "100001599082"
+    },
+    {
+      "nome": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+      "nomeUrna": "AMANDA GENTIL ",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 159,
+      "percentual": 3.51,
+      "sqcand": "100001608073"
+    },
+    {
+      "nome": "FÁBIO HENRIQUE DIAS DE MACEDO",
+      "nomeUrna": "FÁBIO MACEDO",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 117,
+      "percentual": 2.59,
+      "sqcand": "100001614966"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "KARLOS PARABUCU SANTOS FIGUEIREDO DOS ANJOS",
+      "nomeUrna": "PARÁ FIGUEIREDO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 1035,
+      "percentual": 23.31,
+      "sqcand": "100001603171"
+    },
+    {
+      "nome": "GUILHERME FONSECA PAZ",
+      "nomeUrna": "GUILHERME PAZ",
+      "partido": "PATRIOTA",
+      "numero": "51000",
+      "votos": 644,
+      "percentual": 14.5,
+      "sqcand": "100001608121"
+    },
+    {
+      "nome": "ANA DE NAZARÉ PEREIRA SILVA MACEDO MENDONÇA",
+      "nomeUrna": "ANA DO GÁS",
+      "partido": "PC do B",
+      "numero": "65000",
+      "votos": 641,
+      "percentual": 14.44,
+      "sqcand": "100001613728"
+    },
+    {
+      "nome": "YGLESIO LUCIANO MOYSES SILVA DE SOUZA",
+      "nomeUrna": "DR. YGLÉSIO",
+      "partido": "PSB",
+      "numero": "40321",
+      "votos": 638,
+      "percentual": 14.37,
+      "sqcand": "100001607076"
+    },
+    {
+      "nome": "CLAUDIO LUIZ LIMA CUNHA",
+      "nomeUrna": "CLAUDIO CUNHA",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 129,
+      "percentual": 2.91,
+      "sqcand": "100001603167"
+    },
+    {
+      "nome": "HAMILTON NOGUEIRA ARAGÃO",
+      "nomeUrna": "MILTINHO ARAGÃO",
+      "partido": "PSB",
+      "numero": "40240",
+      "votos": 83,
+      "percentual": 1.87,
+      "sqcand": "100001607080"
+    },
+    {
+      "nome": "JOSÉ ADRIANO CORDEIRO SARNEY",
+      "nomeUrna": "ADRIANO SARNEY",
+      "partido": "PV",
+      "numero": "43123",
+      "votos": 69,
+      "percentual": 1.55,
+      "sqcand": "100001613730"
+    }
+  ]
+}

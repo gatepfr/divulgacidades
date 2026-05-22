@@ -1,0 +1,271 @@
+{
+  "populacao": 4180,
+  "votosValidos": 3721,
+  "abstencao": 9.23,
+  "prefeito": {
+    "nome": "JOSE MARIA CANTUARIA",
+    "nomeUrna": "ZÉ MARIA CANTUÁRIA",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1947,
+    "percentual": 52.32,
+    "situacao": "Eleito",
+    "sqcand": "130002244707",
+    "vice": "EDVALDO FABRICIO DA ROSA",
+    "viceNomeUrna": "DIVALDINHO FABRÍCIO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "130002244706",
+    "coligacao": "UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSUÉ SEVERINO DA SILVA",
+      "nomeUrna": "DEDÉ",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 343,
+      "percentual": 9.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001988832"
+    },
+    {
+      "nome": "IVAN JOSE DE GODOI",
+      "nomeUrna": "IVAN DO MERCADO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 312,
+      "percentual": 8.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002133740"
+    },
+    {
+      "nome": "ADEMAR FRANCISCO PEREIRA",
+      "nomeUrna": "ADEMAR AMARELO",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 267,
+      "percentual": 7.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002133738"
+    },
+    {
+      "nome": "DENIS HENRIQUE DE FARIA",
+      "nomeUrna": "DENIS",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 239,
+      "percentual": 6.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001988833"
+    },
+    {
+      "nome": "ANTONIO ORESTEDES DOS REIS",
+      "nomeUrna": "ORESTES EUGENIO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 236,
+      "percentual": 6.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002133744"
+    },
+    {
+      "nome": "CECÍLIA MARIA DA SILVA ALMEIDA",
+      "nomeUrna": "CECÍLIA",
+      "partido": "PSDB",
+      "numero": "45258",
+      "votos": 226,
+      "percentual": 6.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001994183"
+    },
+    {
+      "nome": "BÁRBARA DE PAULA PEREIRA",
+      "nomeUrna": "BÁRBARA PEREIRA",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 209,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002133746"
+    },
+    {
+      "nome": "IZAEL BENTO DE SOUZA",
+      "nomeUrna": "NEM DO PAREDES",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 204,
+      "percentual": 5.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001994184"
+    },
+    {
+      "nome": "ANDERSON SERGIO DE ANGELIS",
+      "nomeUrna": "MAGRÃO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 188,
+      "percentual": 5.11,
+      "situacao": "Eleito por média",
+      "sqcand": "130002133739"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1389,
+      "percentual": 51.48,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 676,
+      "percentual": 25.06,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 610,
+      "percentual": 22.61,
+      "sqcand": "130001671677"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RAFAEL TADEU SIMÕES",
+      "nomeUrna": "RAFAEL SIMOES",
+      "partido": "UNIÃO",
+      "numero": "4445",
+      "votos": 1342,
+      "percentual": 44.41,
+      "sqcand": "130001607619"
+    },
+    {
+      "nome": "RODRIGO BATISTA DE CASTRO",
+      "nomeUrna": "RODRIGO DE CASTRO",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 1003,
+      "percentual": 33.19,
+      "sqcand": "130001607620"
+    },
+    {
+      "nome": "ODAIR JOSÉ DA CUNHA",
+      "nomeUrna": "ODAIR CUNHA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 301,
+      "percentual": 9.96,
+      "sqcand": "130001607254"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 54,
+      "percentual": 1.79,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "BERNARDO AUGUSTO PEREIRA NORTE",
+      "nomeUrna": "DR BERNARDO NORTE",
+      "partido": "PATRIOTA",
+      "numero": "5111",
+      "votos": 39,
+      "percentual": 1.29,
+      "sqcand": "130001596008"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 14,
+      "percentual": 0.46,
+      "sqcand": "130001608227"
+    },
+    {
+      "nome": "KATIA REGINA OLIVEIRA DIAS",
+      "nomeUrna": "KATIA DIAS",
+      "partido": "PSC",
+      "numero": "2012",
+      "votos": 12,
+      "percentual": 0.4,
+      "sqcand": "130001671780"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TITO BRUNO MIRANDA TORRES DUARTE",
+      "nomeUrna": "TITO TORRES",
+      "partido": "PSD",
+      "numero": "55240",
+      "votos": 1118,
+      "percentual": 40.17,
+      "sqcand": "130001604353"
+    },
+    {
+      "nome": "MAURÍCIO LEMES DE CARVALHO",
+      "nomeUrna": "DR MAURÍCIO",
+      "partido": "NOVO",
+      "numero": "30230",
+      "votos": 568,
+      "percentual": 20.41,
+      "sqcand": "130001598556"
+    },
+    {
+      "nome": "ULYSSES GOMES DE OLIVEIRA NETO",
+      "nomeUrna": "ULYSSES GOMES",
+      "partido": "PT",
+      "numero": "13077",
+      "votos": 300,
+      "percentual": 10.78,
+      "sqcand": "130001607390"
+    },
+    {
+      "nome": "PAULO VALDIR FERREIRA",
+      "nomeUrna": "DR. PAULO",
+      "partido": "PATRIOTA",
+      "numero": "51051",
+      "votos": 275,
+      "percentual": 9.88,
+      "sqcand": "130001596299"
+    },
+    {
+      "nome": "ADRIANO ROGERIO DOMICIANO",
+      "nomeUrna": "TONHO PRADO",
+      "partido": "PMN",
+      "numero": "33012",
+      "votos": 222,
+      "percentual": 7.98,
+      "sqcand": "130001605858"
+    },
+    {
+      "nome": "NORALDINO LUCIO DIAS JUNIOR",
+      "nomeUrna": "NORALDINO JÚNIOR",
+      "partido": "PSC",
+      "numero": "20123",
+      "votos": 32,
+      "percentual": 1.15,
+      "sqcand": "130001671870"
+    },
+    {
+      "nome": "DALMO ROBERTO RIBEIRO SILVA",
+      "nomeUrna": "DALMO RIBEIRO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 32,
+      "percentual": 1.15,
+      "sqcand": "130001613315"
+    }
+  ]
+}

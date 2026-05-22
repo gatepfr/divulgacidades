@@ -1,0 +1,271 @@
+{
+  "populacao": 4000,
+  "votosValidos": 2984,
+  "abstencao": 9.73,
+  "prefeito": {
+    "nome": "ELI GONÇALVES SIQUEIRA",
+    "nomeUrna": "ELIZÃO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2984,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "90002058976",
+    "vice": "JOSE CARLOS DA SILVA",
+    "viceNomeUrna": "ZÉ CARLOS",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "90002058975",
+    "coligacao": "MDB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "DEUSDETH MOREIRA VAZ",
+      "nomeUrna": "DETINHO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 348,
+      "percentual": 9.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002058415"
+    },
+    {
+      "nome": "ROGERIO ANTONIO DE JESUS",
+      "nomeUrna": "ROGÉRIO PRETO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 347,
+      "percentual": 9.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002058416"
+    },
+    {
+      "nome": "ANTONIO XAVIER VAZ",
+      "nomeUrna": "TOIZIN ELOY",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 319,
+      "percentual": 8.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002058423"
+    },
+    {
+      "nome": "LUCAS SILAN ROBERTO DE SOUZA",
+      "nomeUrna": "LUCAS DO OTÍLIO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 303,
+      "percentual": 8.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002049820"
+    },
+    {
+      "nome": "HEDERLY SOARES SIQUEIRA",
+      "nomeUrna": "HEDERLY SIQUEIRA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 280,
+      "percentual": 7.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002058417"
+    },
+    {
+      "nome": "SANDRA LUIZA DE SOUZA NASCIMENTO",
+      "nomeUrna": "SANDRA DO NATAIR",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 264,
+      "percentual": 7.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002058419"
+    },
+    {
+      "nome": "LUCAS MOREIRA SANTOS",
+      "nomeUrna": "LUCAS XILICÃO",
+      "partido": "UNIÃO",
+      "numero": "44456",
+      "votos": 238,
+      "percentual": 6.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002052498"
+    },
+    {
+      "nome": "LUCAS SERGIO FERREIRA DA COSTA",
+      "nomeUrna": "LUCAS SERGIO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 237,
+      "percentual": 6.68,
+      "situacao": "Eleito por média",
+      "sqcand": "90002052502"
+    },
+    {
+      "nome": "CELIO MOREIRA ALVES",
+      "nomeUrna": "CELIO MEXICANO",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 219,
+      "percentual": 6.17,
+      "situacao": "Eleito por média",
+      "sqcand": "90002058421"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1310,
+      "percentual": 48.94,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 555,
+      "percentual": 20.73,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 433,
+      "percentual": 16.17,
+      "sqcand": "90001615126"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+      "nomeUrna": "JOSÉ NELTO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 1335,
+      "percentual": 47.61,
+      "sqcand": "90001700974"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 123,
+      "percentual": 4.39,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 122,
+      "percentual": 4.35,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nomeUrna": "MARUSSA BOLDRIN",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 112,
+      "percentual": 3.99,
+      "sqcand": "90001621102"
+    },
+    {
+      "nome": "FRANCISCO RODRIGUES VALE JUNIOR",
+      "nomeUrna": "FRANCISCO JR",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 110,
+      "percentual": 3.92,
+      "sqcand": "90001651580"
+    },
+    {
+      "nome": "RUBENS OTONI GOMIDE",
+      "nomeUrna": "RUBENS OTONI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 108,
+      "percentual": 3.85,
+      "sqcand": "90001648112"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 104,
+      "percentual": 3.71,
+      "sqcand": "90001614055"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BRUNO REGIANY PEIXOTO PIMENTA",
+      "nomeUrna": "BRUNO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 828,
+      "percentual": 30.09,
+      "sqcand": "90001648400"
+    },
+    {
+      "nome": "TALLES ALVES BARRETO",
+      "nomeUrna": "TALLES BARRETO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 373,
+      "percentual": 13.55,
+      "sqcand": "90001648411"
+    },
+    {
+      "nome": "EDUARDO JOSE DO PRADO",
+      "nomeUrna": "DELEGADO EDUARDO PRADO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 340,
+      "percentual": 12.35,
+      "sqcand": "90001653796"
+    },
+    {
+      "nome": "HENRIQUE PAULISTA ARANTES",
+      "nomeUrna": "HENRIQUE ARANTES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 115,
+      "percentual": 4.18,
+      "sqcand": "90001653185"
+    },
+    {
+      "nome": "GIVAGO ARAUJO VALADARES",
+      "nomeUrna": "GIVAGO VALADARES",
+      "partido": "PRTB",
+      "numero": "28223",
+      "votos": 92,
+      "percentual": 3.34,
+      "sqcand": "90001644192"
+    },
+    {
+      "nome": "RODRIGO RODOLFO FERNANDES SILVA",
+      "nomeUrna": "DR RODRIGO FERNANDES",
+      "partido": "AVANTE",
+      "numero": "70456",
+      "votos": 90,
+      "percentual": 3.27,
+      "sqcand": "90001651127"
+    },
+    {
+      "nome": "RUBENS MARQUES VIEIRA DOS SANTOS",
+      "nomeUrna": "RUBENS MARQUES",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 67,
+      "percentual": 2.43,
+      "sqcand": "90001648402"
+    }
+  ]
+}

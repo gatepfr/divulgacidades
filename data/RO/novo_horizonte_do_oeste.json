@@ -1,0 +1,271 @@
+{
+  "populacao": 7188,
+  "votosValidos": 5730,
+  "abstencao": 17.46,
+  "prefeito": {
+    "nome": "RONALDO DELAZARI",
+    "nomeUrna": "RONALDO DELAZARI",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 3581,
+    "percentual": 62.5,
+    "situacao": "Eleito",
+    "sqcand": "220002367750",
+    "vice": "VILSON PREVE PEIXER",
+    "viceNomeUrna": "LOBÃO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "220002367749",
+    "coligacao": "UNIÃO / REPUBLICANOS / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "DIOGO FARIAS PADILHA",
+      "nomeUrna": "DIOGO PADILHA",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 613,
+      "percentual": 10.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002363058"
+    },
+    {
+      "nome": "JOAO VITOR GUIMARAES LOPES",
+      "nomeUrna": "JOAO VITOR LOPES",
+      "partido": "UNIÃO",
+      "numero": "44164",
+      "votos": 501,
+      "percentual": 8.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002363062"
+    },
+    {
+      "nome": "REGINALDO PEREIRA DE AQUINO",
+      "nomeUrna": "REGINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 357,
+      "percentual": 6.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002363411"
+    },
+    {
+      "nome": "NATAN CARVALHO DE MELO",
+      "nomeUrna": "NATAN DO GAS",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 346,
+      "percentual": 5.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002305546"
+    },
+    {
+      "nome": "OZIEL DA SILVA GOMES",
+      "nomeUrna": "OZIEL GOMES",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 326,
+      "percentual": 5.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002363057"
+    },
+    {
+      "nome": "UEMERSON ROMULO LOPES DA SILVA",
+      "nomeUrna": "UEMERSON POPULAR BILI",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 323,
+      "percentual": 5.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002305547"
+    },
+    {
+      "nome": "ITAMAR ANTONIO CONSTANCIO",
+      "nomeUrna": "ITAMAR CORRENTAO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 244,
+      "percentual": 4.22,
+      "situacao": "Eleito por média",
+      "sqcand": "220002305545"
+    },
+    {
+      "nome": "JACONIAS CARLOS DE ANDRADE",
+      "nomeUrna": "JACO DE ANDRADE",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 196,
+      "percentual": 3.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002363056"
+    },
+    {
+      "nome": "SIDINEY DE SOUZA PEREIRA",
+      "nomeUrna": "DINEY",
+      "partido": "UNIÃO",
+      "numero": "44160",
+      "votos": 168,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "220002363065"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIANA FONSECA RIBEIRO CARVALHO DE MORAES",
+      "nomeUrna": "MARIANA CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1907,
+      "percentual": 38.39,
+      "sqcand": "220001614361"
+    },
+    {
+      "nome": "EXPEDITO GONÇALVES FERREIRA JUNIOR",
+      "nomeUrna": "EXPEDITO JUNIOR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1172,
+      "percentual": 23.59,
+      "sqcand": "220001713936"
+    },
+    {
+      "nome": "JAIME MAXIMINO BAGATTOLI",
+      "nomeUrna": "JAIME BAGATTOLI",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 959,
+      "percentual": 19.3,
+      "sqcand": "220001713729"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUCIO ANTONIO MOSQUINI",
+      "nomeUrna": "LUCIO MOSQUINI",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 815,
+      "percentual": 16.29,
+      "sqcand": "220001604140"
+    },
+    {
+      "nome": "EXPEDITO GONÇALVES FERREIRA NETTO",
+      "nomeUrna": "EXPEDITO NETTO",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 506,
+      "percentual": 10.11,
+      "sqcand": "220001635101"
+    },
+    {
+      "nome": "CRISTIANE LOPES DA LUZ BENARROSH",
+      "nomeUrna": "CRISTIANE LOPES",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 444,
+      "percentual": 8.87,
+      "sqcand": "220001600709"
+    },
+    {
+      "nome": "ELIAS REZENDE DE OLIVEIRA",
+      "nomeUrna": "ELIAS REZENDE",
+      "partido": "UNIÃO",
+      "numero": "4417",
+      "votos": 393,
+      "percentual": 7.85,
+      "sqcand": "220001605552"
+    },
+    {
+      "nome": "SÍLVIA CRISTINA AMANCIO CHAGAS",
+      "nomeUrna": "SILVIA CRISTINA",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 352,
+      "percentual": 7.03,
+      "sqcand": "220001643593"
+    },
+    {
+      "nome": "ALESSANDRA DA COSTA LUNAS",
+      "nomeUrna": "ALESSANDRA DA FETAGRO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 233,
+      "percentual": 4.66,
+      "sqcand": "220001612150"
+    },
+    {
+      "nome": "FERNANDO RODRIGUES MÁXIMO",
+      "nomeUrna": "DR FERNANDO MÁXIMO",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 215,
+      "percentual": 4.3,
+      "sqcand": "220001600708"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JEAN CARLOS SCHEFFER OLIVEIRA",
+      "nomeUrna": "JEAN OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15140",
+      "votos": 925,
+      "percentual": 18.74,
+      "sqcand": "220001609500"
+    },
+    {
+      "nome": "ELCIRONE MOREIRA DEIRÓ",
+      "nomeUrna": "CIRONE DEIRÓ",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 453,
+      "percentual": 9.18,
+      "sqcand": "220001600704"
+    },
+    {
+      "nome": "ISEQUIEL NEIVA DE CARVALHO",
+      "nomeUrna": "EZEQUIEL NEIVA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 442,
+      "percentual": 8.96,
+      "sqcand": "220001605542"
+    },
+    {
+      "nome": "LUIZ CARLOS FERRARI",
+      "nomeUrna": "DR LUIZ FERRARI",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 428,
+      "percentual": 8.67,
+      "sqcand": "220001615042"
+    },
+    {
+      "nome": "ISMAEL CRISPIN DIAS",
+      "nomeUrna": "ISMAEL CRISPIN",
+      "partido": "PSB",
+      "numero": "40777",
+      "votos": 339,
+      "percentual": 6.87,
+      "sqcand": "220001614399"
+    },
+    {
+      "nome": "LAERTE GOMES",
+      "nomeUrna": "LAERTE GOMES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 310,
+      "percentual": 6.28,
+      "sqcand": "220001643234"
+    },
+    {
+      "nome": "LUIZ ALBERTO GOEBEL",
+      "nomeUrna": "LUIZINHO GOEBEL",
+      "partido": "PSC",
+      "numero": "20123",
+      "votos": 290,
+      "percentual": 5.88,
+      "sqcand": "220001596847"
+    }
+  ]
+}

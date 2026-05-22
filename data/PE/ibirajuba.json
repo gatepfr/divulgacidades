@@ -1,0 +1,271 @@
+{
+  "populacao": 7066,
+  "votosValidos": 5678,
+  "abstencao": 15.68,
+  "prefeito": {
+    "nome": "MARIA IZALTA SILVA LOPES GAMA",
+    "nomeUrna": "IZALTA",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 3083,
+    "percentual": 54.3,
+    "situacao": "Eleito",
+    "sqcand": "170002007634",
+    "vice": "MARCOS GOMES DA CRUZ",
+    "viceNomeUrna": "MARCOS GOMES",
+    "partidoVice": "PODE",
+    "sqcandVice": "170002007635",
+    "coligacao": "PODE / MDB / CIDADANIA / PSDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "SANTIAGO JUSTINO DUARTE",
+      "nomeUrna": "TIAGUINHO",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 658,
+      "percentual": 11.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002110016"
+    },
+    {
+      "nome": "CARLOS EDUARDO TEIXEIRA",
+      "nomeUrna": "NEGO TEIXEIRA",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 403,
+      "percentual": 7.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002243313"
+    },
+    {
+      "nome": "ADNILDO ALVES DOS SANTOS",
+      "nomeUrna": "ADNILDO DA AMBULÂNCIA",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 380,
+      "percentual": 6.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002110017"
+    },
+    {
+      "nome": "JOSE ADILSON DA SILVA",
+      "nomeUrna": "PINDUCA DO CAJÁ",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 357,
+      "percentual": 6.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002110021"
+    },
+    {
+      "nome": "EUSEBIO FERREIRA BARROS SILVA",
+      "nomeUrna": "EUSÉBIO DO ALTO",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 317,
+      "percentual": 5.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002243311"
+    },
+    {
+      "nome": "SAMUEL SIMPLICIO DUARTE",
+      "nomeUrna": "SAMUEL DA ASSOCIAÇÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 296,
+      "percentual": 5.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002244271"
+    },
+    {
+      "nome": "PALOMA DUARTE RODRIGUES GUTIERRY",
+      "nomeUrna": "PALOMA DUARTE",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 290,
+      "percentual": 5.1,
+      "situacao": "Eleito por média",
+      "sqcand": "170002110018"
+    },
+    {
+      "nome": "ERIVALDO GONÇALVES DE OLIVEIRA",
+      "nomeUrna": "PETINHA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 289,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002180032"
+    },
+    {
+      "nome": "ADÁLIO ALVES DA SILVA",
+      "nomeUrna": "ADÁLIO",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 230,
+      "percentual": 4.05,
+      "situacao": "Eleito por média",
+      "sqcand": "170002244270"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2405,
+      "percentual": 58.25,
+      "sqcand": "170001610248"
+    },
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 746,
+      "percentual": 18.07,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 530,
+      "percentual": 12.84,
+      "sqcand": "170001604083"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SILVIO SERAFIM COSTA FILHO",
+      "nomeUrna": "SILVIO COSTA FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 2000,
+      "percentual": 43.03,
+      "sqcand": "170001595473"
+    },
+    {
+      "nome": "JOSÉ MENDONÇA BEZERRA FILHO",
+      "nomeUrna": "MENDONÇA FILHO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 904,
+      "percentual": 19.45,
+      "sqcand": "170001609111"
+    },
+    {
+      "nome": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+      "nomeUrna": "IZA ARRUDA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 348,
+      "percentual": 7.49,
+      "sqcand": "170001613278"
+    },
+    {
+      "nome": "GUILHERME ARISTOTELES UCHOA CAVALCANTI PESSOA DE MELO JUNIOR",
+      "nomeUrna": "GUILHERME UCHOA JUNIOR",
+      "partido": "PSB",
+      "numero": "4019",
+      "votos": 288,
+      "percentual": 6.2,
+      "sqcand": "170001619889"
+    },
+    {
+      "nome": "WOLNEY QUEIROZ MACIEL",
+      "nomeUrna": "WOLNEY QUEIROZ",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 192,
+      "percentual": 4.13,
+      "sqcand": "170001618856"
+    },
+    {
+      "nome": "LUCIANO CALDAS BIVAR",
+      "nomeUrna": "LUCIANO BIVAR",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 100,
+      "percentual": 2.15,
+      "sqcand": "170001609112"
+    },
+    {
+      "nome": "FRANCISCO EURICO DA SILVA",
+      "nomeUrna": "PASTOR EURICO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 97,
+      "percentual": 2.09,
+      "sqcand": "170001609087"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JARBAS DE ANDRADE VASCONCELOS FILHO",
+      "nomeUrna": "JARBAS FILHO",
+      "partido": "PSB",
+      "numero": "40156",
+      "votos": 1669,
+      "percentual": 37.62,
+      "sqcand": "170001620402"
+    },
+    {
+      "nome": "ROSSINE BLESMANY DOS SANTOS CORDEIRO",
+      "nomeUrna": "DELEGADO ROSSINE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77888",
+      "votos": 1258,
+      "percentual": 28.35,
+      "sqcand": "170001610714"
+    },
+    {
+      "nome": "DEBORA LUZINETE DE ALMEIDA SEVERO",
+      "nomeUrna": "DEBORA ALMEIDA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 399,
+      "percentual": 8.99,
+      "sqcand": "170001605482"
+    },
+    {
+      "nome": "JOÃO TENÓRIO VAZ CAVALCANTI JÚNIOR",
+      "nomeUrna": "JOÃOZINHO TENÓRIO",
+      "partido": "PATRIOTA",
+      "numero": "51555",
+      "votos": 281,
+      "percentual": 6.33,
+      "sqcand": "170001609868"
+    },
+    {
+      "nome": "JOSÉ QUEIROZ DE LIMA",
+      "nomeUrna": "ZÉ QUEIROZ",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 155,
+      "percentual": 3.49,
+      "sqcand": "170001618937"
+    },
+    {
+      "nome": "JOSE CUNTO GUERREIRO NETO",
+      "nomeUrna": "NETO G DE GALEGO DE IBIRAJUBA",
+      "partido": "UNIÃO",
+      "numero": "44844",
+      "votos": 137,
+      "percentual": 3.09,
+      "sqcand": "170001739178"
+    },
+    {
+      "nome": "TIAGO PONTES QUEIROZ",
+      "nomeUrna": "TIAGO PONTES",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 71,
+      "percentual": 1.6,
+      "sqcand": "170001595450"
+    }
+  ]
+}

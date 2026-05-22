@@ -1,0 +1,291 @@
+{
+  "populacao": 29663,
+  "votosValidos": 20839,
+  "abstencao": 23.84,
+  "prefeito": {
+    "nome": "JORGE GABRIEL GRASI",
+    "nomeUrna": "GABRIEL THOR",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 14696,
+    "percentual": 70.52,
+    "situacao": "Eleito",
+    "sqcand": "250002129796",
+    "vice": "MURILO SANTIAGO SPADINI",
+    "viceNomeUrna": "MURILO SPADINI",
+    "partidoVice": "PL",
+    "sqcandVice": "250002129795",
+    "coligacao": "PODE / PL / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "GILSON MOREIRA",
+      "nomeUrna": "PROF. GILSÃO",
+      "partido": "PSD",
+      "numero": "55620",
+      "votos": 1026,
+      "percentual": 5.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002149922"
+    },
+    {
+      "nome": "JULIANE FERNANDA POMPILIO",
+      "nomeUrna": "DRA. JULIANE",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 951,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002142092"
+    },
+    {
+      "nome": "MAX LEONARDO DEFINE NETO",
+      "nomeUrna": "MAX DEFINE",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 831,
+      "percentual": 4.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002141399"
+    },
+    {
+      "nome": "RAFAEL PALMA DE ARAÚJO",
+      "nomeUrna": "RAFAEL PALMA",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 771,
+      "percentual": 3.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002149932"
+    },
+    {
+      "nome": "CLODOALDO SANTANA DA SILVA",
+      "nomeUrna": "CLODOALDO SANTANA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 768,
+      "percentual": 3.77,
+      "situacao": "Eleito por média",
+      "sqcand": "250002142098"
+    },
+    {
+      "nome": "VITOR FÁVARO TONETTO",
+      "nomeUrna": "VITIM FAVARO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 746,
+      "percentual": 3.67,
+      "situacao": "Eleito por média",
+      "sqcand": "250002149925"
+    },
+    {
+      "nome": "LUIS DONIZETI DA CRUZ",
+      "nomeUrna": "RATINHO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 746,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002013480"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS LEITE",
+      "nomeUrna": "DR. LEITE",
+      "partido": "PODE",
+      "numero": "20111",
+      "votos": 728,
+      "percentual": 3.58,
+      "situacao": "Eleito por média",
+      "sqcand": "250002141396"
+    },
+    {
+      "nome": "SEBASTIAO ATILIO DA SILVA",
+      "nomeUrna": "NEGO DA MARUCA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 591,
+      "percentual": 2.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002013478"
+    },
+    {
+      "nome": "PAULO RODRIGUES ALVES PEREIRA",
+      "nomeUrna": "PORKIM",
+      "partido": "REPUBLICANOS",
+      "numero": "10016",
+      "votos": 587,
+      "percentual": 2.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002046374"
+    },
+    {
+      "nome": "JOAO VITOR ALVES",
+      "nomeUrna": "JOAO PARDALL",
+      "partido": "REPUBLICANOS",
+      "numero": "10010",
+      "votos": 572,
+      "percentual": 2.81,
+      "situacao": "Eleito por média",
+      "sqcand": "250002046367"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 11373,
+      "percentual": 60.01,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 5373,
+      "percentual": 28.35,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1320,
+      "percentual": 6.96,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCO ANTONIO FELICIANO",
+      "nomeUrna": "PASTOR MARCO FELICIANO",
+      "partido": "PL",
+      "numero": "2270",
+      "votos": 6095,
+      "percentual": 30.46,
+      "sqcand": "250001611335"
+    },
+    {
+      "nome": "RICARDO AUGUSTO MACHADO DA SILVA",
+      "nomeUrna": "RICARDO SILVA",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 1748,
+      "percentual": 8.74,
+      "sqcand": "250001604967"
+    },
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 1675,
+      "percentual": 8.37,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 1161,
+      "percentual": 5.8,
+      "sqcand": "250001612102"
+    },
+    {
+      "nome": "BRUNO MARCELLO DE OLIVEIRA LIMA",
+      "nomeUrna": "DELEGADO BRUNO LIMA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 790,
+      "percentual": 3.95,
+      "sqcand": "250001611973"
+    },
+    {
+      "nome": "ARLINDO CHIGNALIA JUNIOR",
+      "nomeUrna": "ARLINDO CHINAGLIA",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 631,
+      "percentual": 3.15,
+      "sqcand": "250001610712"
+    },
+    {
+      "nome": "GUILHERME CASTRO BOULOS",
+      "nomeUrna": "GUILHERME BOULOS",
+      "partido": "PSOL",
+      "numero": "5010",
+      "votos": 506,
+      "percentual": 2.53,
+      "sqcand": "250001613761"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JORGE GABRIEL GRASI",
+      "nomeUrna": "GABRIEL THOR",
+      "partido": "PODE",
+      "numero": "19030",
+      "votos": 6368,
+      "percentual": 32.01,
+      "sqcand": "250001610512"
+    },
+    {
+      "nome": "GILSON MOREIRA",
+      "nomeUrna": "PROFESSOR GILSAO",
+      "partido": "PTB",
+      "numero": "14620",
+      "votos": 2864,
+      "percentual": 14.39,
+      "sqcand": "250001614926"
+    },
+    {
+      "nome": "FLAVIA MENDES GOMES",
+      "nomeUrna": "FLÁVIA MENDES",
+      "partido": "UNIÃO",
+      "numero": "44450",
+      "votos": 1974,
+      "percentual": 9.92,
+      "sqcand": "250001602143"
+    },
+    {
+      "nome": "RAFAEL ANTONIO DA SILVA",
+      "nomeUrna": "RAFAEL SILVA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 1369,
+      "percentual": 6.88,
+      "sqcand": "250001605053"
+    },
+    {
+      "nome": "MARCIA APARECIDA OVEJANEDA LIA",
+      "nomeUrna": "MARCIA LIA",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 770,
+      "percentual": 3.87,
+      "sqcand": "250001611775"
+    },
+    {
+      "nome": "OCIMAR DONIZETI LEO OLIVEIRA",
+      "nomeUrna": "LEO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 736,
+      "percentual": 3.7,
+      "sqcand": "250001610005"
+    },
+    {
+      "nome": "MARINA MEDEIROS HELOU",
+      "nomeUrna": "MARINA HELOU",
+      "partido": "REDE",
+      "numero": "18000",
+      "votos": 553,
+      "percentual": 2.78,
+      "sqcand": "250001619311"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 10700,
+  "votosValidos": 8885,
+  "abstencao": 11.76,
+  "prefeito": {
+    "nome": "PATRICIA RODRIGUES SILVA OLIVEIRA DE FARIAS",
+    "nomeUrna": "PATRICIA FARIAS",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 5775,
+    "percentual": 65.0,
+    "situacao": "Eleito",
+    "sqcand": "150002116109",
+    "vice": "JOSE ALBERTO ALVES FRANCO",
+    "viceNomeUrna": "DUDA VENENO",
+    "partidoVice": "PSB",
+    "sqcandVice": "150002116110",
+    "coligacao": "REPUBLICANOS / PP / PSB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE JONAS MONTEIRO",
+      "nomeUrna": "JONAS MOTOPEÇAS",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 854,
+      "percentual": 9.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002053229"
+    },
+    {
+      "nome": "ONALDO DA SILVA",
+      "nomeUrna": "NADO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 806,
+      "percentual": 8.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002038458"
+    },
+    {
+      "nome": "TALLES FERREIRA DA COSTA",
+      "nomeUrna": "TALLES DE PINTINHO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 801,
+      "percentual": 8.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002038456"
+    },
+    {
+      "nome": "LANDOALDO CESAR DA SILVA",
+      "nomeUrna": "LANDO",
+      "partido": "PP",
+      "numero": "11611",
+      "votos": 667,
+      "percentual": 7.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002038452"
+    },
+    {
+      "nome": "EDMILSON MONTEIRO DA SILVA",
+      "nomeUrna": "MISSO",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 661,
+      "percentual": 7.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002053223"
+    },
+    {
+      "nome": "JOSENILTON PEREIRA FIRMINO",
+      "nomeUrna": "JOSENILTON",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 479,
+      "percentual": 5.25,
+      "situacao": "Eleito por média",
+      "sqcand": "150002038460"
+    },
+    {
+      "nome": "RODOLFO LUIZ ALVES DA FONCECA",
+      "nomeUrna": "RODOLFO DE JACARÉ",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 463,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002053228"
+    },
+    {
+      "nome": "WESLEY RICARDO FIGUEIREDO DE OLIVEIRA",
+      "nomeUrna": "NEGO RICARDO",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 343,
+      "percentual": 3.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002052678"
+    },
+    {
+      "nome": "PATRÍCIO FARIAS DE PONTES",
+      "nomeUrna": "TICO",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 262,
+      "percentual": 2.87,
+      "situacao": "Eleito por média",
+      "sqcand": "150002052310"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 3558,
+      "percentual": 54.05,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 1601,
+      "percentual": 24.32,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 587,
+      "percentual": 8.92,
+      "sqcand": "150001718470"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "AGUINALDO VELLOSO BORGES RIBEIRO",
+      "nomeUrna": "AGUINALDO RIBEIRO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 2467,
+      "percentual": 36.27,
+      "sqcand": "150001612065"
+    },
+    {
+      "nome": "RUY MANUEL CARNEIRO BARBOSA DE AÇA BELCHIOR",
+      "nomeUrna": "RUY CARNEIRO",
+      "partido": "PSC",
+      "numero": "2030",
+      "votos": 1047,
+      "percentual": 15.39,
+      "sqcand": "150001612089"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 389,
+      "percentual": 5.72,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "ISIS RAFAELA RODRIGUES DA SILVA",
+      "nomeUrna": "RAFAELA CAMARAENSE",
+      "partido": "PSB",
+      "numero": "4013",
+      "votos": 383,
+      "percentual": 5.63,
+      "sqcand": "150001621682"
+    },
+    {
+      "nome": "ANTONIO RIBEIRO",
+      "nomeUrna": "FREI ANASTÁCIO",
+      "partido": "PT",
+      "numero": "1345",
+      "votos": 319,
+      "percentual": 4.69,
+      "sqcand": "150001619539"
+    },
+    {
+      "nome": "ROMERO RODRIGUES VEIGA",
+      "nomeUrna": "ROMERO RODRIGUES",
+      "partido": "PSC",
+      "numero": "2011",
+      "votos": 264,
+      "percentual": 3.88,
+      "sqcand": "150001612086"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 217,
+      "percentual": 3.19,
+      "sqcand": "150001619538"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DANIELLE DO NASCIMENTO RODRIGUES PESSOA",
+      "nomeUrna": "DANIELLE DO VALE",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 2262,
+      "percentual": 33.61,
+      "sqcand": "150001619567"
+    },
+    {
+      "nome": "TOVAR ALVES CORREIA LIMA",
+      "nomeUrna": "TOVAR",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 652,
+      "percentual": 9.69,
+      "sqcand": "150001621370"
+    },
+    {
+      "nome": "MARIA APARECIDA RAMOS DE MENESES",
+      "nomeUrna": "CIDA RAMOS",
+      "partido": "PT",
+      "numero": "13400",
+      "votos": 435,
+      "percentual": 6.46,
+      "sqcand": "150001643182"
+    },
+    {
+      "nome": "SHIRLEY COSTA DA SILVA",
+      "nomeUrna": "SHIRLEY",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 392,
+      "percentual": 5.82,
+      "sqcand": "150001612055"
+    },
+    {
+      "nome": "TANILSON TARSO NOBREGA SOARES",
+      "nomeUrna": "TANILSON SOARES",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 310,
+      "percentual": 4.61,
+      "sqcand": "150001621658"
+    },
+    {
+      "nome": "PEDRO GOMES PEREIRA",
+      "nomeUrna": "PEDRITO",
+      "partido": "UNIÃO",
+      "numero": "44800",
+      "votos": 300,
+      "percentual": 4.46,
+      "sqcand": "150001603143"
+    },
+    {
+      "nome": "JOAO GONÇALVES DE AMORIM SOBRINHO",
+      "nomeUrna": "JOAO GONÇALVES",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 165,
+      "percentual": 2.45,
+      "sqcand": "150001621669"
+    }
+  ]
+}

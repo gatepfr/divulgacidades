@@ -1,0 +1,311 @@
+{
+  "populacao": 25161,
+  "votosValidos": 18265,
+  "abstencao": 24.52,
+  "prefeito": {
+    "nome": "JAELSON RAMALHO MATTA",
+    "nomeUrna": "JAELSON MATTA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 8365,
+    "percentual": 45.8,
+    "situacao": "Eleito",
+    "sqcand": "160002112336",
+    "vice": "MANOEL AFFONSO PIROLLA VIEIRA",
+    "viceNomeUrna": "MANO VIEIRA",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "160002112337",
+    "coligacao": "AVANTE / UNIÃO / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCOS BATISTA DAS SILVA",
+      "nomeUrna": "MARQUINHOS ASSISTENTE SOCIAL",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 789,
+      "percentual": 4.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002235751"
+    },
+    {
+      "nome": "DENISE CRISTINA CAPI",
+      "nomeUrna": "DENISE CAPI",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 621,
+      "percentual": 3.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002235748"
+    },
+    {
+      "nome": "TIAGO FRAXINO DE ALMEIDA",
+      "nomeUrna": "TIAGO POBREZA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 615,
+      "percentual": 3.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002052438"
+    },
+    {
+      "nome": "ROBERTO CARLOS DE CASTRO",
+      "nomeUrna": "DR CASTRO",
+      "partido": "PL",
+      "numero": "22007",
+      "votos": 606,
+      "percentual": 3.34,
+      "situacao": "Eleito por média",
+      "sqcand": "160002235746"
+    },
+    {
+      "nome": "SONIA REGINA ZAMBONE",
+      "nomeUrna": "SONIA ZAMBONE",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 514,
+      "percentual": 2.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002052467"
+    },
+    {
+      "nome": "ROBERTO MAGALHÃES TRINDADE",
+      "nomeUrna": "ROBERTINHO TRINDADE",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 508,
+      "percentual": 2.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002150836"
+    },
+    {
+      "nome": "SANDRO APARECIDO SARTORIO",
+      "nomeUrna": "SANDRO SARTORIO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 487,
+      "percentual": 2.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002052470"
+    },
+    {
+      "nome": "VINICIUS MURIEL PALUGAN",
+      "nomeUrna": "VINICIUS PALUGAN",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 472,
+      "percentual": 2.6,
+      "situacao": "Eleito por média",
+      "sqcand": "160002052471"
+    },
+    {
+      "nome": "FLAVIA APARECIDA DA SILVA",
+      "nomeUrna": "FLÁVIA SILVA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 457,
+      "percentual": 2.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002052431"
+    },
+    {
+      "nome": "WILSON APARECIDO DE SOUZA",
+      "nomeUrna": "MINEIRINHO",
+      "partido": "PP",
+      "numero": "11630",
+      "votos": 444,
+      "percentual": 2.45,
+      "situacao": "Eleito por média",
+      "sqcand": "160002052433"
+    },
+    {
+      "nome": "LUIZ GUSTAVO DOS SANTOS",
+      "nomeUrna": "GUSTAVO DO TÉ",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 406,
+      "percentual": 2.24,
+      "situacao": "Eleito por média",
+      "sqcand": "160002235749"
+    },
+    {
+      "nome": "ANTONIO CARLOS DEMICIO",
+      "nomeUrna": "CARLAO DEMICIO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77555",
+      "votos": 378,
+      "percentual": 2.08,
+      "situacao": "Eleito por média",
+      "sqcand": "160002287260"
+    },
+    {
+      "nome": "HUMBERTO LUIZ DOS SANTOS",
+      "nomeUrna": "HUMBERTO",
+      "partido": "AVANTE",
+      "numero": "70456",
+      "votos": 313,
+      "percentual": 1.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002287490"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 7656,
+      "percentual": 45.94,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 5176,
+      "percentual": 31.06,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 2605,
+      "percentual": 15.63,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 3698,
+      "percentual": 21.12,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "DIEGO ALEXSANDER GONÇALO PAULA GARCIA",
+      "nomeUrna": "DIEGO GARCIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 2587,
+      "percentual": 14.78,
+      "sqcand": "160001654834"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 1467,
+      "percentual": 8.38,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "MARCO AURELIO RIBEIRO",
+      "nomeUrna": "MARCO BRASIL",
+      "partido": "PP",
+      "numero": "1155",
+      "votos": 854,
+      "percentual": 4.88,
+      "sqcand": "160001603313"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 847,
+      "percentual": 4.84,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 756,
+      "percentual": 4.32,
+      "sqcand": "160001654655"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 666,
+      "percentual": 3.8,
+      "sqcand": "160001622297"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 5373,
+      "percentual": 31.49,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "MANOEL AFFONSO PIROLLA VIEIRA",
+      "nomeUrna": "MANO VIEIRA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 5152,
+      "percentual": 30.19,
+      "sqcand": "160001716030"
+    },
+    {
+      "nome": "ALISSON ANTHONY WANDSCHEER",
+      "nomeUrna": "ALISSON WANDSCHEER",
+      "partido": "PROS",
+      "numero": "90000",
+      "votos": 586,
+      "percentual": 3.43,
+      "sqcand": "160001622180"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 524,
+      "percentual": 3.07,
+      "sqcand": "160001623099"
+    },
+    {
+      "nome": "EVANDRO JOSE DA CRUZ ARAUJO",
+      "nomeUrna": "EVANDRO ARAUJO",
+      "partido": "PSD",
+      "numero": "55120",
+      "votos": 518,
+      "percentual": 3.04,
+      "sqcand": "160001623098"
+    },
+    {
+      "nome": "TERCILIO LUIZ TURINI",
+      "nomeUrna": "TERCILIO TURINI",
+      "partido": "PSD",
+      "numero": "55043",
+      "votos": 458,
+      "percentual": 2.68,
+      "sqcand": "160001623105"
+    },
+    {
+      "nome": "MARCUS MAURICIO DE SOUZA TESSEROLLI",
+      "nomeUrna": "PROFESSOR MARQUINHOS",
+      "partido": "PSD",
+      "numero": "55321",
+      "votos": 366,
+      "percentual": 2.14,
+      "sqcand": "160001623114"
+    }
+  ]
+}

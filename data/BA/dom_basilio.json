@@ -1,0 +1,271 @@
+{
+  "populacao": 10611,
+  "votosValidos": 9348,
+  "abstencao": 9.27,
+  "prefeito": {
+    "nome": "FERNANDO SILVA SANTOS",
+    "nomeUrna": "FERNANDO SANTOS",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 5609,
+    "percentual": 60.0,
+    "situacao": "Eleito",
+    "sqcand": "50001948704",
+    "vice": "ÁLVARO OLIVEIRA E SILVA NETO",
+    "viceNomeUrna": "DR ÁLVARO",
+    "partidoVice": "PT",
+    "sqcandVice": "50001948705",
+    "coligacao": "PC do B / PT / PV / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "GONÇALO FERREIRA SANTANA",
+      "nomeUrna": "GONÇALO ZÉ DE JÚLIO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 1008,
+      "percentual": 10.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001948703"
+    },
+    {
+      "nome": "ZORIZETH OLIVEIRA PIRES",
+      "nomeUrna": "ZORY OLIVEIRA",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 935,
+      "percentual": 10.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001948699"
+    },
+    {
+      "nome": "GELSON CAIRES DA SILVA",
+      "nomeUrna": "GELSON CAIRES",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 921,
+      "percentual": 9.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001948697"
+    },
+    {
+      "nome": "JOÃO EDMILSON CHAVES DE QUEIROZ",
+      "nomeUrna": "LOURO QUEIROZ",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 915,
+      "percentual": 9.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001948695"
+    },
+    {
+      "nome": "ZILMAR COELHO CHAVES",
+      "nomeUrna": "ZILMAR",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 693,
+      "percentual": 7.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001948702"
+    },
+    {
+      "nome": "JOSÉ ALBERTO DE LIMA SOUZA",
+      "nomeUrna": "DÉ DA PADARIA",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 577,
+      "percentual": 6.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002152598"
+    },
+    {
+      "nome": "JOÃO MARCOS ALMEIDA OLIVEIRA",
+      "nomeUrna": "MARCÃO",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 568,
+      "percentual": 6.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002152597"
+    },
+    {
+      "nome": "LUIZ EUGÊNIO CAIRES SANTOS",
+      "nomeUrna": "PROFESSOR LUIZ EUGÊNIO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 564,
+      "percentual": 6.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001948698"
+    },
+    {
+      "nome": "LOURIVAL DE JESUS NEVES",
+      "nomeUrna": "LOURÃO DA BOA VISTA",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 530,
+      "percentual": 5.71,
+      "situacao": "Eleito por média",
+      "sqcand": "50001948700"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 5865,
+      "percentual": 81.09,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1060,
+      "percentual": 14.66,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 290,
+      "percentual": 4.01,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CHARLES FERNANDES SILVEIRA SANTANA",
+      "nomeUrna": "CHARLES FERNANDES",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 2023,
+      "percentual": 26.13,
+      "sqcand": "50001607219"
+    },
+    {
+      "nome": "WALDENOR ALVES PEREIRA FILHO",
+      "nomeUrna": "WALDENOR PEREIRA",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 1461,
+      "percentual": 18.87,
+      "sqcand": "50001605361"
+    },
+    {
+      "nome": "JORGE JOSE SANTOS PEREIRA SOLLA",
+      "nomeUrna": "JORGE SOLLA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 1253,
+      "percentual": 16.18,
+      "sqcand": "50001605359"
+    },
+    {
+      "nome": "JOSÉ ALVES ROCHA",
+      "nomeUrna": "JOSÉ ROCHA",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 976,
+      "percentual": 12.6,
+      "sqcand": "50001634584"
+    },
+    {
+      "nome": "SEVERIANO ALVES DE SOUZA",
+      "nomeUrna": "SEVERIANO ALVES",
+      "partido": "PTB",
+      "numero": "1414",
+      "votos": 256,
+      "percentual": 3.31,
+      "sqcand": "50001645896"
+    },
+    {
+      "nome": "PAULO VELLOSO DANTAS AZI",
+      "nomeUrna": "PAULO AZI",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 211,
+      "percentual": 2.73,
+      "sqcand": "50001634593"
+    },
+    {
+      "nome": "ALICE MAZZUCO PORTUGAL",
+      "nomeUrna": "ALICE PORTUGAL",
+      "partido": "PC do B",
+      "numero": "6522",
+      "votos": 164,
+      "percentual": 2.12,
+      "sqcand": "50001605368"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "IVANA TEIXEIRA BASTOS",
+      "nomeUrna": "IVANA BASTOS",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 4615,
+      "percentual": 64.95,
+      "sqcand": "50001607307"
+    },
+    {
+      "nome": "MANUEL AZEVEDO ROCHA",
+      "nomeUrna": "MANUEL ROCHA",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 483,
+      "percentual": 6.8,
+      "sqcand": "50001648303"
+    },
+    {
+      "nome": "MARCOS AGUIAR VIANA",
+      "nomeUrna": "MARQUINHO VIANA",
+      "partido": "PV",
+      "numero": "43888",
+      "votos": 481,
+      "percentual": 6.77,
+      "sqcand": "50001606436"
+    },
+    {
+      "nome": "JOSÉ LUCIANO SANTOS RIBEIRO",
+      "nomeUrna": "LUCIANO RIBEIRO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 240,
+      "percentual": 3.38,
+      "sqcand": "50001648289"
+    },
+    {
+      "nome": "JOÃO VITOR DE CASTRO LINO BONFIM",
+      "nomeUrna": "VITOR BONFIM",
+      "partido": "PV",
+      "numero": "43700",
+      "votos": 225,
+      "percentual": 3.17,
+      "sqcand": "50001606406"
+    },
+    {
+      "nome": "JOSÉ RAIMUNDO FONTES",
+      "nomeUrna": "ZÉ RAIMUNDO FONTES",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 182,
+      "percentual": 2.56,
+      "sqcand": "50001606439"
+    },
+    {
+      "nome": "JEAN FABRÍCIO FALCÃO",
+      "nomeUrna": "FABRÍCIO",
+      "partido": "PC do B",
+      "numero": "65333",
+      "votos": 149,
+      "percentual": 2.1,
+      "sqcand": "50001606408"
+    }
+  ]
+}

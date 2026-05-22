@@ -1,0 +1,271 @@
+{
+  "populacao": 8867,
+  "votosValidos": 7080,
+  "abstencao": 16.47,
+  "prefeito": {
+    "nome": "JEAN PIERR CATTO",
+    "nomeUrna": "JEAN CATTO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 3953,
+    "percentual": 55.83,
+    "situacao": "Eleito",
+    "sqcand": "160002162422",
+    "vice": "ONEIDE MIGUEL MATCIULEVICZ JUNIOR",
+    "viceNomeUrna": "JUNIOR MATCIULEVICZ",
+    "partidoVice": "AVANTE",
+    "sqcandVice": "160002162423",
+    "coligacao": "PSD / AVANTE / PP / PL / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "EDUARDO LIEGEL MARTINS",
+      "nomeUrna": "EDUARDO MARTINS",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 596,
+      "percentual": 8.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002161018"
+    },
+    {
+      "nome": "ERICA ISABEL DO NASCIMENTO",
+      "nomeUrna": "PROFESSORA ERICA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 413,
+      "percentual": 5.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002161375"
+    },
+    {
+      "nome": "LEONIR PESSINI",
+      "nomeUrna": "NI PESSINI",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 368,
+      "percentual": 5.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002232906"
+    },
+    {
+      "nome": "CLEVERSON RAMPANELLI",
+      "nomeUrna": "CLEVERSON RAMPANELLI (BODE)",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 362,
+      "percentual": 5.15,
+      "situacao": "Eleito por média",
+      "sqcand": "160002161011"
+    },
+    {
+      "nome": "ELIVELTON AGAZZI",
+      "nomeUrna": "ELIVELTON AGAZZI",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 298,
+      "percentual": 4.24,
+      "situacao": "Eleito por média",
+      "sqcand": "160002232904"
+    },
+    {
+      "nome": "NILSO GARCIA DO NASCIMENTO",
+      "nomeUrna": "NEGUINHO",
+      "partido": "PP",
+      "numero": "11112",
+      "votos": 261,
+      "percentual": 3.72,
+      "situacao": "Eleito por média",
+      "sqcand": "160002161379"
+    },
+    {
+      "nome": "VILSON DE JESUS MATCIULEVICZ",
+      "nomeUrna": "VILSON",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 233,
+      "percentual": 3.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002347664"
+    },
+    {
+      "nome": "VILMAR GLOWACKI",
+      "nomeUrna": "VILMAR GLOWACKI",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 222,
+      "percentual": 3.16,
+      "situacao": "Eleito por média",
+      "sqcand": "160002340397"
+    },
+    {
+      "nome": "VALDECIR LAZAROTTO",
+      "nomeUrna": "VALDECIR LAZAROTTO",
+      "partido": "AVANTE",
+      "numero": "70234",
+      "votos": 212,
+      "percentual": 3.02,
+      "situacao": "Eleito por média",
+      "sqcand": "160002233675"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2593,
+      "percentual": 41.61,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1770,
+      "percentual": 28.41,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 931,
+      "percentual": 14.94,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NELSI COGUETTO MARIA",
+      "nomeUrna": "VERMELHO",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 2400,
+      "percentual": 36.35,
+      "sqcand": "160001622020"
+    },
+    {
+      "nome": "PAULO HENRIQUE COLETTI FERNANDES",
+      "nomeUrna": "PAULO LITRO",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 711,
+      "percentual": 10.77,
+      "sqcand": "160001622301"
+    },
+    {
+      "nome": "NELSON FERNANDO PADOVANI",
+      "nomeUrna": "PADOVANI",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 574,
+      "percentual": 8.69,
+      "sqcand": "160001654666"
+    },
+    {
+      "nome": "LEANDRE DAL PONTE",
+      "nomeUrna": "LEANDRE",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 504,
+      "percentual": 7.63,
+      "sqcand": "160001622296"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 408,
+      "percentual": 6.18,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 407,
+      "percentual": 6.16,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 232,
+      "percentual": 3.51,
+      "sqcand": "160001614556"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 2429,
+      "percentual": 38.68,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "NELSON LAURO LUERSEN",
+      "nomeUrna": "NELSON LUERSEN",
+      "partido": "UNIÃO",
+      "numero": "44680",
+      "votos": 812,
+      "percentual": 12.93,
+      "sqcand": "160001716022"
+    },
+    {
+      "nome": "ADAO FERNANDES DA SILVA",
+      "nomeUrna": "ADAO FERNANDES LITRO",
+      "partido": "PSD",
+      "numero": "55125",
+      "votos": 532,
+      "percentual": 8.47,
+      "sqcand": "160001739397"
+    },
+    {
+      "nome": "LUCIANA GUZELLA RAFAGNIN",
+      "nomeUrna": "LUCIANA RAFAGNIN",
+      "partido": "PT",
+      "numero": "13233",
+      "votos": 359,
+      "percentual": 5.72,
+      "sqcand": "160001615035"
+    },
+    {
+      "nome": "WILMAR REICHEMBACH",
+      "nomeUrna": "REICHEMBACH",
+      "partido": "PSD",
+      "numero": "55012",
+      "votos": 357,
+      "percentual": 5.68,
+      "sqcand": "160001623121"
+    },
+    {
+      "nome": "MATHEUS VELOSO MARIA",
+      "nomeUrna": "MATHEUS VERMELHO",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 238,
+      "percentual": 3.79,
+      "sqcand": "160001603347"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 206,
+      "percentual": 3.28,
+      "sqcand": "160001615032"
+    }
+  ]
+}

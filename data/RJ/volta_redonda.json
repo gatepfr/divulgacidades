@@ -1,0 +1,391 @@
+{
+  "populacao": 225626,
+  "votosValidos": 150043,
+  "abstencao": 26.25,
+  "prefeito": {
+    "nome": "ANTONIO FRANCISCO NETO",
+    "nomeUrna": "NETO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 109688,
+    "percentual": 73.1,
+    "situacao": "Eleito",
+    "sqcand": "190002166950",
+    "vice": "SEBASTIÃO FARIA DE SOUZA",
+    "viceNomeUrna": "ENG. FARIA",
+    "partidoVice": "PL",
+    "sqcandVice": "190002166951",
+    "coligacao": "PP / PSD / AGIR / PRD / PODE / UNIÃO / REPUBLICANOS / SOLIDARIEDADE / DC / PDT / PL / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "RENAN TEIXEIRA E CURY",
+      "nomeUrna": "RENAN CURY",
+      "partido": "PP",
+      "numero": "11600",
+      "votos": 5059,
+      "percentual": 3.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001974136"
+    },
+    {
+      "nome": "RAONE CASSIN MAIA FERREIRA",
+      "nomeUrna": "RAONE FERREIRA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 4474,
+      "percentual": 2.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002124848"
+    },
+    {
+      "nome": "LUCIANO DE SOUZA PORTES",
+      "nomeUrna": "LUCIANO MINEIRINHO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 3425,
+      "percentual": 2.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001968441"
+    },
+    {
+      "nome": "JOSE HUMBERTO ALBERTASSI JUNIOR",
+      "nomeUrna": "BETINHO ALBERTASSI",
+      "partido": "REPUBLICANOS",
+      "numero": "10088",
+      "votos": 3170,
+      "percentual": 2.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002047759"
+    },
+    {
+      "nome": "NILTON ALVES DE FARIA",
+      "nomeUrna": "NENEM",
+      "partido": "PP",
+      "numero": "11670",
+      "votos": 2864,
+      "percentual": 1.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001974141"
+    },
+    {
+      "nome": "CARLA PASSOS DUARTE",
+      "nomeUrna": "CARLA DUARTE",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 2668,
+      "percentual": 1.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002050603"
+    },
+    {
+      "nome": "EDSON CARLOS QUINTO",
+      "nomeUrna": "EDSON QUINTO",
+      "partido": "PL",
+      "numero": "22622",
+      "votos": 2571,
+      "percentual": 1.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001996481"
+    },
+    {
+      "nome": "RODRIGO CEZAR FURTADO DE ALMEIDA",
+      "nomeUrna": "DR RODRIGO FURTADO",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 2364,
+      "percentual": 1.53,
+      "situacao": "Eleito por média",
+      "sqcand": "190001996474"
+    },
+    {
+      "nome": "FRANCISCO NOVAES FILHO",
+      "nomeUrna": "NOVAES",
+      "partido": "PP",
+      "numero": "11622",
+      "votos": 2305,
+      "percentual": 1.49,
+      "situacao": "Eleito por média",
+      "sqcand": "190001974142"
+    },
+    {
+      "nome": "RODRIGO DE AVILA MENDES",
+      "nomeUrna": "RODRIGO NÓS DO POVO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 2265,
+      "percentual": 1.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001987201"
+    },
+    {
+      "nome": "PAULO CESAR LIMA CONRADO",
+      "nomeUrna": "PAULO CONRADO",
+      "partido": "PODE",
+      "numero": "20120",
+      "votos": 2138,
+      "percentual": 1.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001943200"
+    },
+    {
+      "nome": "SEVERIANO DE SOUZA CÂMARA",
+      "nomeUrna": "SEVERIANO CÂMARA",
+      "partido": "UNIÃO",
+      "numero": "44678",
+      "votos": 2125,
+      "percentual": 1.38,
+      "situacao": "Eleito por média",
+      "sqcand": "190001968431"
+    },
+    {
+      "nome": "WILSEMAR MAXIMO CURTY",
+      "nomeUrna": "SIMAR O BAIXINHO DO ESTÁDIO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 2031,
+      "percentual": 1.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002050602"
+    },
+    {
+      "nome": "WELDERSON SIDNEY DA SILVA TEIXEIRA",
+      "nomeUrna": "SIDNEY DINHO",
+      "partido": "PRD",
+      "numero": "25028",
+      "votos": 2025,
+      "percentual": 1.31,
+      "situacao": "Eleito por média",
+      "sqcand": "190001886601"
+    },
+    {
+      "nome": "PAULO CESAR LIMA DA SILVA",
+      "nomeUrna": "PAULINHO DO RAIO X",
+      "partido": "REPUBLICANOS",
+      "numero": "10010",
+      "votos": 1958,
+      "percentual": 1.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002047762"
+    },
+    {
+      "nome": "GEMILSON EDUARDO",
+      "nomeUrna": "GEMILSON SUKINHO",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 1923,
+      "percentual": 1.24,
+      "situacao": "Eleito por média",
+      "sqcand": "190002050604"
+    },
+    {
+      "nome": "JOSÉ ONOFRE DA SILVA",
+      "nomeUrna": "CACAU DA PADARIA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77299",
+      "votos": 1831,
+      "percentual": 1.19,
+      "situacao": "Eleito por média",
+      "sqcand": "190002229405"
+    },
+    {
+      "nome": "JORGE DE OLIVEIRA",
+      "nomeUrna": "ZOINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10615",
+      "votos": 1782,
+      "percentual": 1.15,
+      "situacao": "Eleito por média",
+      "sqcand": "190002047769"
+    },
+    {
+      "nome": "GISELE LOPES KLINGLER",
+      "nomeUrna": "GISELE KLINGLER",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 1493,
+      "percentual": 0.97,
+      "situacao": "Eleito por média",
+      "sqcand": "190002124846"
+    },
+    {
+      "nome": "VAIR DE OLIVEIRA MOURA",
+      "nomeUrna": "VAIR DURÉ",
+      "partido": "PP",
+      "numero": "11690",
+      "votos": 1486,
+      "percentual": 0.96,
+      "situacao": "Eleito por média",
+      "sqcand": "190001974155"
+    },
+    {
+      "nome": "RODRIGO ÁLVARO DUARTE CHAGAS",
+      "nomeUrna": "RODRIGO DUARTE",
+      "partido": "AGIR",
+      "numero": "36222",
+      "votos": 1416,
+      "percentual": 0.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002167575"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 46643,
+      "percentual": 37.84,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 33049,
+      "percentual": 26.82,
+      "sqcand": "190001609504"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CECILIANO",
+      "nomeUrna": "ANDRE CECILIANO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 24190,
+      "percentual": 19.63,
+      "sqcand": "190001614199"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANTONIO DA LUZ FURTADO",
+      "nomeUrna": "DELEGADO ANTÔNIO FURTADO",
+      "partido": "UNIÃO",
+      "numero": "4493",
+      "votos": 17223,
+      "percentual": 11.15,
+      "sqcand": "190001619520"
+    },
+    {
+      "nome": "WANDERLEY ALVES DE OLIVEIRA",
+      "nomeUrna": "DELEY",
+      "partido": "PSD",
+      "numero": "5599",
+      "votos": 16264,
+      "percentual": 10.53,
+      "sqcand": "190001603431"
+    },
+    {
+      "nome": "PAULO CESAR BALTAZAR DA NÓBREGA",
+      "nomeUrna": "BALTAZAR",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 11741,
+      "percentual": 7.6,
+      "sqcand": "190001619504"
+    },
+    {
+      "nome": "JOSÉ GERALDO VICTORIO GONÇALVES",
+      "nomeUrna": "GERALDINHO DO GELO",
+      "partido": "UNIÃO",
+      "numero": "4430",
+      "votos": 4920,
+      "percentual": 3.18,
+      "sqcand": "190001619484"
+    },
+    {
+      "nome": "RAONE CASSIN MAIA FERREIRA",
+      "nomeUrna": "RAONE FERREIRA",
+      "partido": "PSB",
+      "numero": "4070",
+      "votos": 4626,
+      "percentual": 2.99,
+      "sqcand": "190001645396"
+    },
+    {
+      "nome": "JORGE ALBERTO FELIPE CURY",
+      "nomeUrna": "JORGINHO FUEDE",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 4581,
+      "percentual": 2.96,
+      "sqcand": "190001613495"
+    },
+    {
+      "nome": "HERMITON BATISTA MOURA",
+      "nomeUrna": "HERMITON MOURA VEM PRA DIREITA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 4537,
+      "percentual": 2.94,
+      "sqcand": "190001596806"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MUNIR FRANCISCO",
+      "nomeUrna": "MUNIR NETO",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 27350,
+      "percentual": 17.96,
+      "sqcand": "190001612214"
+    },
+    {
+      "nome": "JARI SIMÃO DE OLIVEIRA JUNIOR",
+      "nomeUrna": "JARI",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 22032,
+      "percentual": 14.47,
+      "sqcand": "190001639134"
+    },
+    {
+      "nome": "RENAN TEIXEIRA E CURY",
+      "nomeUrna": "RENAN CURY",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77600",
+      "votos": 15517,
+      "percentual": 10.19,
+      "sqcand": "190001601400"
+    },
+    {
+      "nome": "JOSÉ HUMBERTO ALBERTASSI JUNIOR",
+      "nomeUrna": "BETINHO ALBERTASSI",
+      "partido": "UNIÃO",
+      "numero": "44088",
+      "votos": 13122,
+      "percentual": 8.62,
+      "sqcand": "190001619444"
+    },
+    {
+      "nome": "NELSON DOS SANTOS GONÇALVES FILHO",
+      "nomeUrna": "NELSON GONÇALVES",
+      "partido": "PSD",
+      "numero": "55190",
+      "votos": 5291,
+      "percentual": 3.47,
+      "sqcand": "190001612170"
+    },
+    {
+      "nome": "GUSTAVO REIS FERREIRA",
+      "nomeUrna": "GUSTAVO TUTUCA",
+      "partido": "PP",
+      "numero": "11212",
+      "votos": 4047,
+      "percentual": 2.66,
+      "sqcand": "190001609544"
+    },
+    {
+      "nome": "JORGE DE OLIVEIRA",
+      "nomeUrna": "ZOINHO",
+      "partido": "PROS",
+      "numero": "90116",
+      "votos": 3356,
+      "percentual": 2.2,
+      "sqcand": "190001613673"
+    }
+  ]
+}

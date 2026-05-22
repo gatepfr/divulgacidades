@@ -1,0 +1,271 @@
+{
+  "populacao": 3827,
+  "votosValidos": 3297,
+  "abstencao": 10.53,
+  "prefeito": {
+    "nome": "CARLOS ALBERTO SILVESTRE DE SOUSA",
+    "nomeUrna": "ALBERTO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2257,
+    "percentual": 68.46,
+    "situacao": "Eleito",
+    "sqcand": "180001979037",
+    "vice": "JOSÉ ALFREDO PEREIRA LIMA JUNIOR",
+    "viceNomeUrna": "ALFREDO JUNIOR",
+    "partidoVice": "PSD",
+    "sqcandVice": "180001979038",
+    "coligacao": "PP / MDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "EDVAR FERREIRA NUNES",
+      "nomeUrna": "EDVAR NUNES",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 384,
+      "percentual": 11.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002008479"
+    },
+    {
+      "nome": "JULIA MARQUES CASTELO BRANCO",
+      "nomeUrna": "JULIA  MARQUES",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 255,
+      "percentual": 7.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915723"
+    },
+    {
+      "nome": "JOSÉ DOS SANTOS SILVA",
+      "nomeUrna": "SANTILO",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 252,
+      "percentual": 7.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002008481"
+    },
+    {
+      "nome": "MARINALVA DA SILVA BARROS",
+      "nomeUrna": "MARINALVA BARROS",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 251,
+      "percentual": 7.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915724"
+    },
+    {
+      "nome": "JOSUÉ DA SILVA SOARES FILHO",
+      "nomeUrna": "JOTA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 238,
+      "percentual": 7.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002008476"
+    },
+    {
+      "nome": "RAIMUNDO LUIZ FERREIRA DE ARAÚJO",
+      "nomeUrna": "LUIZ DE ALCIDES",
+      "partido": "MDB",
+      "numero": "15432",
+      "votos": 238,
+      "percentual": 7.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002008475"
+    },
+    {
+      "nome": "LUIZ RODRIGUES ARAÚJO FILHO",
+      "nomeUrna": "FIO",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 214,
+      "percentual": 6.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002008482"
+    },
+    {
+      "nome": "FRANCISCO SOARES DA SILVA FILHO",
+      "nomeUrna": "ÍNDIO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 210,
+      "percentual": 6.38,
+      "situacao": "Eleito por média",
+      "sqcand": "180002008478"
+    },
+    {
+      "nome": "JOSE ALVES DE SOUSA NETO",
+      "nomeUrna": "ZE NETO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 181,
+      "percentual": 5.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915732"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1462,
+      "percentual": 56.45,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1125,
+      "percentual": 43.44,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "JOÃO GERVÁSIO DOS SANTOS NETO",
+      "nomeUrna": "GERVÁSIO SANTOS",
+      "partido": "PSTU",
+      "numero": "166",
+      "votos": 1,
+      "percentual": 0.04,
+      "sqcand": "180001613584"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ÁTILA DE MELO LIRA",
+      "nomeUrna": "ATILA",
+      "partido": "PP",
+      "numero": "1110",
+      "votos": 1294,
+      "percentual": 50.12,
+      "sqcand": "180001602514"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS DE OLIVEIRA COSTA",
+      "nomeUrna": "DR. FRANCISCO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 881,
+      "percentual": 34.12,
+      "sqcand": "180001610755"
+    },
+    {
+      "nome": "WILSON NUNES MARTINS",
+      "nomeUrna": "WILSON MARTINS",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 89,
+      "percentual": 3.45,
+      "sqcand": "180001610757"
+    },
+    {
+      "nome": "JULIO FERRAZ ARCOVERDE",
+      "nomeUrna": "JULIO ARCOVERDE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 55,
+      "percentual": 2.13,
+      "sqcand": "180001602515"
+    },
+    {
+      "nome": "MARINA SANTOS BATISTA DIAS",
+      "nomeUrna": "DRA MARINA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 47,
+      "percentual": 1.82,
+      "sqcand": "180001608866"
+    },
+    {
+      "nome": "REJANE RIBEIRO SOUSA DIAS",
+      "nomeUrna": "REJANE DIAS",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 44,
+      "percentual": 1.7,
+      "sqcand": "180001610756"
+    },
+    {
+      "nome": "FLORENTINO ALVES VERAS NETO",
+      "nomeUrna": "FLORENTINO NETO",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 39,
+      "percentual": 1.51,
+      "sqcand": "180001610762"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BESSAH ARAUJO COSTA REIS SÁ",
+      "nomeUrna": "B. SÁ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1133,
+      "percentual": 46.32,
+      "sqcand": "180001604055"
+    },
+    {
+      "nome": "ANTONIO HENRIQUE DE CARVALHO PIRES",
+      "nomeUrna": "HENRIQUE PIRES",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 403,
+      "percentual": 16.48,
+      "sqcand": "180001605752"
+    },
+    {
+      "nome": "GEORGIANO FERNANDES LIMA NETO",
+      "nomeUrna": "GEORGIANO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 314,
+      "percentual": 12.84,
+      "sqcand": "180001605763"
+    },
+    {
+      "nome": "FRANCISCO DAS CHAGAS LIMMA",
+      "nomeUrna": "LIMMA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 182,
+      "percentual": 7.44,
+      "sqcand": "180001605693"
+    },
+    {
+      "nome": "VANESSA ANGELINE TAPETY",
+      "nomeUrna": "VANESSA TAPETY",
+      "partido": "MDB",
+      "numero": "15112",
+      "votos": 69,
+      "percentual": 2.82,
+      "sqcand": "180001605760"
+    },
+    {
+      "nome": "MARDEN LUIS BRITO CAVALCANTE E MENESES",
+      "nomeUrna": "MARDEN MENEZES",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 61,
+      "percentual": 2.49,
+      "sqcand": "180001604051"
+    },
+    {
+      "nome": "TIAGO MENDES VASCONCELOS",
+      "nomeUrna": "TIAGO VASCONCELOS",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 44,
+      "percentual": 1.8,
+      "sqcand": "180001605759"
+    }
+  ]
+}

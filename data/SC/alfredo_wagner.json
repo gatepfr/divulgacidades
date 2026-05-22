@@ -1,0 +1,271 @@
+{
+  "populacao": 8052,
+  "votosValidos": 7098,
+  "abstencao": 9.6,
+  "prefeito": {
+    "nome": "GILMAR SANI",
+    "nomeUrna": "GILMAR SANI",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 4090,
+    "percentual": 57.62,
+    "situacao": "Eleito",
+    "sqcand": "240002264178",
+    "vice": "FABIO DORIGON",
+    "viceNomeUrna": "FABIO DORIGON",
+    "partidoVice": "PSDB",
+    "sqcandVice": "240002264179",
+    "coligacao": "PP / PL / PODE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCIO CORREIA",
+      "nomeUrna": "MARCIO CORREIA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 586,
+      "percentual": 8.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002265866"
+    },
+    {
+      "nome": "ANDERSON LUIZ MARTINI",
+      "nomeUrna": "TITICHA DO MARTINI",
+      "partido": "MDB",
+      "numero": "15611",
+      "votos": 520,
+      "percentual": 7.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002203312"
+    },
+    {
+      "nome": "ADILSON MARIOTTI",
+      "nomeUrna": "ADILSON MARIOTTI",
+      "partido": "PSDB",
+      "numero": "45456",
+      "votos": 493,
+      "percentual": 6.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002349895"
+    },
+    {
+      "nome": "MOACIR HAMES",
+      "nomeUrna": "MOACIR DA SAÚDE",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 456,
+      "percentual": 6.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002203308"
+    },
+    {
+      "nome": "VITORIO SCHAFFER",
+      "nomeUrna": "VITORIO SCHAFFER",
+      "partido": "PODE",
+      "numero": "20620",
+      "votos": 445,
+      "percentual": 6.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002265863"
+    },
+    {
+      "nome": "EMÍLIO CARLOS PETRIS",
+      "nomeUrna": "DR. EMÍLIO",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 403,
+      "percentual": 5.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002265015"
+    },
+    {
+      "nome": "SINESIO VITOR",
+      "nomeUrna": "SINESIO VITOR (TIO NORI)",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 337,
+      "percentual": 4.72,
+      "situacao": "Eleito por média",
+      "sqcand": "240002349890"
+    },
+    {
+      "nome": "EVELISE ALTHOFF HEIDERSCHEIDT",
+      "nomeUrna": "EVELISE LITA",
+      "partido": "MDB",
+      "numero": "15650",
+      "votos": 306,
+      "percentual": 4.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002203313"
+    },
+    {
+      "nome": "ANAOR VITOR",
+      "nomeUrna": "ANAOR TUTUCA",
+      "partido": "MDB",
+      "numero": "15369",
+      "votos": 268,
+      "percentual": 3.75,
+      "situacao": "Eleito por média",
+      "sqcand": "240002203311"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2153,
+      "percentual": 36.67,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 1443,
+      "percentual": 24.58,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1131,
+      "percentual": 19.26,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RAFAEL PEZENTI",
+      "nomeUrna": "RAFAEL PEZENTI",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 1907,
+      "percentual": 31.18,
+      "sqcand": "240001602681"
+    },
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 632,
+      "percentual": 10.33,
+      "sqcand": "240001611938"
+    },
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 456,
+      "percentual": 7.45,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "RICARDO ZANATTA GUIDI",
+      "nomeUrna": "RICARDO GUIDI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 423,
+      "percentual": 6.92,
+      "sqcand": "240001611144"
+    },
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 307,
+      "percentual": 5.02,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 283,
+      "percentual": 4.63,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "DARCI DE MATOS",
+      "nomeUrna": "DARCI DE MATOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 256,
+      "percentual": 4.19,
+      "sqcand": "240001611136"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JERRY EDSON COMPER",
+      "nomeUrna": "JERRY COMPER",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 1390,
+      "percentual": 23.4,
+      "sqcand": "240001605920"
+    },
+    {
+      "nome": "CAMILO NAZARENO PAGANI MARTINS",
+      "nomeUrna": "CAMILO MARTINS",
+      "partido": "PODE",
+      "numero": "19369",
+      "votos": 755,
+      "percentual": 12.71,
+      "sqcand": "240001610835"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 585,
+      "percentual": 9.85,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "DIRCE APARECIDA HEIDERSCHEIDT",
+      "nomeUrna": "DIRCE HEIDERSCHEIDT",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 543,
+      "percentual": 9.14,
+      "sqcand": "240001605925"
+    },
+    {
+      "nome": "MAURICIO JOSE ESKUDLARK",
+      "nomeUrna": "MAURICIO ESKUDLARK",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 335,
+      "percentual": 5.64,
+      "sqcand": "240001614331"
+    },
+    {
+      "nome": "MARCIUS DA SILVA MACHADO",
+      "nomeUrna": "MARCIUS MACHADO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 169,
+      "percentual": 2.85,
+      "sqcand": "240001614339"
+    },
+    {
+      "nome": "NEODI SARETTA",
+      "nomeUrna": "NEODI SARETTA",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 146,
+      "percentual": 2.46,
+      "sqcand": "240001679646"
+    }
+  ]
+}

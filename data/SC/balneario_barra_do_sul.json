@@ -1,0 +1,271 @@
+{
+  "populacao": 11019,
+  "votosValidos": 8724,
+  "abstencao": 18.15,
+  "prefeito": {
+    "nome": "ADEMAR HENRIQUE BORGES",
+    "nomeUrna": "ADEMAR BORGES",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 4345,
+    "percentual": 49.81,
+    "situacao": "Eleito",
+    "sqcand": "240002082103",
+    "vice": "VALDECI MEURER SILVA",
+    "viceNomeUrna": "VAL MEURER",
+    "partidoVice": "PL",
+    "sqcandVice": "240002082104",
+    "coligacao": "PSD / PL / AVANTE / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "RUAN DAVI DA CUNHA",
+      "nomeUrna": "RUAN CUNHA",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 478,
+      "percentual": 5.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002082431"
+    },
+    {
+      "nome": "WESLLEY FELIPPE DE FREITAS",
+      "nomeUrna": "WESLLEY DAS BOLACHAS ",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 447,
+      "percentual": 5.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002209117"
+    },
+    {
+      "nome": "VANDERLEI JULIO DOS SANTOS",
+      "nomeUrna": "VANDE MÓVEIS",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 434,
+      "percentual": 4.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002082427"
+    },
+    {
+      "nome": "JONATHAS LUIZ LOPES",
+      "nomeUrna": "JONATHAS LOPES ",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 424,
+      "percentual": 4.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002209118"
+    },
+    {
+      "nome": "MANOEL HENRIQUE BORGES NETO",
+      "nomeUrna": "NELINHO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 422,
+      "percentual": 4.83,
+      "situacao": "Eleito por média",
+      "sqcand": "240002082432"
+    },
+    {
+      "nome": "NAZÁRIO DE BORBA MENDES",
+      "nomeUrna": "KEMPO DA PEIXARIA ",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 402,
+      "percentual": 4.6,
+      "situacao": "Eleito por média",
+      "sqcand": "240002209119"
+    },
+    {
+      "nome": "LIDIA MARA JESUINO",
+      "nomeUrna": "MARA",
+      "partido": "PODE",
+      "numero": "20500",
+      "votos": 341,
+      "percentual": 3.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002282665"
+    },
+    {
+      "nome": "VINICIUS JOSE SOARES CORREA",
+      "nomeUrna": "VINICIUS SOARES",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 297,
+      "percentual": 3.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002281660"
+    },
+    {
+      "nome": "CHARLENE BEATRIZ SILVANO MARQUES",
+      "nomeUrna": "PROFESSORA CHARLENE ",
+      "partido": "PODE",
+      "numero": "20777",
+      "votos": 240,
+      "percentual": 2.75,
+      "situacao": "Eleito por média",
+      "sqcand": "240002282663"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2611,
+      "percentual": 36.36,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CLARIKENNEDY NUNES",
+      "nomeUrna": "KENNEDY NUNES",
+      "partido": "PTB",
+      "numero": "142",
+      "votos": 1866,
+      "percentual": 25.99,
+      "sqcand": "240001644895"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1146,
+      "percentual": 15.96,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RODRIGO COELHO",
+      "nomeUrna": "RODRIGO COELHO",
+      "partido": "PODE",
+      "numero": "1922",
+      "votos": 1124,
+      "percentual": 15.46,
+      "sqcand": "240001610855"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 578,
+      "percentual": 7.95,
+      "sqcand": "240001611140"
+    },
+    {
+      "nome": "DARCI DE MATOS",
+      "nomeUrna": "DARCI DE MATOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 571,
+      "percentual": 7.85,
+      "sqcand": "240001611136"
+    },
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 459,
+      "percentual": 6.31,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "LUIZ ARMANDO SCHROEDER REIS",
+      "nomeUrna": "CORONEL ARMANDO",
+      "partido": "PL",
+      "numero": "2262",
+      "votos": 435,
+      "percentual": 5.98,
+      "sqcand": "240001610967"
+    },
+    {
+      "nome": "MARCOS ANTONIO PEREIRA GOMES",
+      "nomeUrna": "ZÉ TROVÃO",
+      "partido": "PL",
+      "numero": "2220",
+      "votos": 368,
+      "percentual": 5.06,
+      "sqcand": "240001610976"
+    },
+    {
+      "nome": "DIANA SILVA DE OLIVEIRA",
+      "nomeUrna": "DIANA DA EDUCAÇÃO",
+      "partido": "AVANTE",
+      "numero": "7007",
+      "votos": 343,
+      "percentual": 4.72,
+      "sqcand": "240001602978"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANA PAULA DA SILVA",
+      "nomeUrna": "PAULINHA",
+      "partido": "PODE",
+      "numero": "19010",
+      "votos": 864,
+      "percentual": 12.13,
+      "sqcand": "240001610824"
+    },
+    {
+      "nome": "CARLOS HENRIQUE DE LIMA",
+      "nomeUrna": "SARGENTO LIMA",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 776,
+      "percentual": 10.9,
+      "sqcand": "240001614329"
+    },
+    {
+      "nome": "FERNANDO KRELLING",
+      "nomeUrna": "FERNANDO KRELLING",
+      "partido": "MDB",
+      "numero": "15655",
+      "votos": 543,
+      "percentual": 7.63,
+      "sqcand": "240001605919"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 287,
+      "percentual": 4.03,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "RODRIGO JOÃO FACHINI",
+      "nomeUrna": "RODRIGO FACHINI",
+      "partido": "PODE",
+      "numero": "19220",
+      "votos": 247,
+      "percentual": 3.47,
+      "sqcand": "240001610832"
+    },
+    {
+      "nome": "MAURICIO FERNANDO PEIXER",
+      "nomeUrna": "MAURÍCIO PEIXER",
+      "partido": "PL",
+      "numero": "22620",
+      "votos": 239,
+      "percentual": 3.36,
+      "sqcand": "240001614353"
+    },
+    {
+      "nome": "SERGIO MOTTA RIBEIRO",
+      "nomeUrna": "SERGIO MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 236,
+      "percentual": 3.31,
+      "sqcand": "240001610226"
+    }
+  ]
+}

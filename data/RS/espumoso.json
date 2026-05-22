@@ -1,0 +1,271 @@
+{
+  "populacao": 12642,
+  "votosValidos": 10606,
+  "abstencao": 14.74,
+  "prefeito": {
+    "nome": "GERSON LOPES RODRIGUES MACHADO",
+    "nomeUrna": "DR GERSON",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 5701,
+    "percentual": 53.75,
+    "situacao": "Eleito",
+    "sqcand": "210002231521",
+    "vice": "JULIANO CAMARGO PAZINATO",
+    "viceNomeUrna": "JULIANO PAZINATO",
+    "partidoVice": "PL",
+    "sqcandVice": "210002231522",
+    "coligacao": "PP / MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "LEONARDO COMIN",
+      "nomeUrna": "LÉO COMIN",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 968,
+      "percentual": 9.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002225094"
+    },
+    {
+      "nome": "EDUARDO SIGNOR",
+      "nomeUrna": "EDUARDO SIGNOR",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 836,
+      "percentual": 7.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002116765"
+    },
+    {
+      "nome": "LEANDRO KELLER COLLERAUS",
+      "nomeUrna": "COLLERAUS",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 666,
+      "percentual": 6.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002116699"
+    },
+    {
+      "nome": "TOMAZ FIUZA",
+      "nomeUrna": "TOMAZ FIUZA",
+      "partido": "PP",
+      "numero": "11611",
+      "votos": 658,
+      "percentual": 6.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002225097"
+    },
+    {
+      "nome": "DAYANA SOARES DE CAMARGO",
+      "nomeUrna": "PROFE DAYA",
+      "partido": "PDT",
+      "numero": "12612",
+      "votos": 541,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002116700"
+    },
+    {
+      "nome": "FABIANA DOLCI OTONI",
+      "nomeUrna": "FABIANA DOLCI OTONI",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 443,
+      "percentual": 4.21,
+      "situacao": "Eleito por média",
+      "sqcand": "210002225099"
+    },
+    {
+      "nome": "DENNER FERNANDO DUARTE SENHOR",
+      "nomeUrna": "DENNER SENHOR",
+      "partido": "PL",
+      "numero": "22001",
+      "votos": 408,
+      "percentual": 3.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002190852"
+    },
+    {
+      "nome": "ODIRLEI COMIN",
+      "nomeUrna": "ODIRLEI VIOLEIRO",
+      "partido": "PL",
+      "numero": "22722",
+      "votos": 398,
+      "percentual": 3.78,
+      "situacao": "Eleito por média",
+      "sqcand": "210002190848"
+    },
+    {
+      "nome": "PAULO FLORES DE MORAES",
+      "nomeUrna": "PAULO FLORES DE MORAES",
+      "partido": "PDT",
+      "numero": "12512",
+      "votos": 380,
+      "percentual": 3.61,
+      "situacao": "Eleito por média",
+      "sqcand": "210002187996"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 4101,
+      "percentual": 44.31,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 3399,
+      "percentual": 36.72,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1667,
+      "percentual": 18.01,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 3973,
+      "percentual": 42.02,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 788,
+      "percentual": 8.33,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 438,
+      "percentual": 4.63,
+      "sqcand": "210001621256"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 401,
+      "percentual": 4.24,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "ANGÉLICA MENEGAS",
+      "nomeUrna": "ANGÉLICA MENEGAS",
+      "partido": "PSDB",
+      "numero": "4546",
+      "votos": 363,
+      "percentual": 3.84,
+      "sqcand": "210001620041"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 254,
+      "percentual": 2.69,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 236,
+      "percentual": 2.5,
+      "sqcand": "210001604643"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 3844,
+      "percentual": 42.15,
+      "sqcand": "210001621320"
+    },
+    {
+      "nome": "CLAIR TOMÉ KUHN",
+      "nomeUrna": "CLAIR KUHN",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 680,
+      "percentual": 7.46,
+      "sqcand": "210001647986"
+    },
+    {
+      "nome": "ALISSON FERRONATO DOS SANTOS",
+      "nomeUrna": "ALISSON FERRONATO",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 543,
+      "percentual": 5.95,
+      "sqcand": "210001610597"
+    },
+    {
+      "nome": "SALMO DIAS DE OLIVEIRA",
+      "nomeUrna": "SALMO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 337,
+      "percentual": 3.7,
+      "sqcand": "210001647178"
+    },
+    {
+      "nome": "ADOLFO JOSÉ BRITO",
+      "nomeUrna": "ADOLFO BRITO",
+      "partido": "PP",
+      "numero": "11240",
+      "votos": 245,
+      "percentual": 2.69,
+      "sqcand": "210001647147"
+    },
+    {
+      "nome": "LUIRCE TEIXEIRA PAZ HERNANDEZ",
+      "nomeUrna": "LUIRCE PAZ",
+      "partido": "PODE",
+      "numero": "19019",
+      "votos": 210,
+      "percentual": 2.3,
+      "sqcand": "210001596185"
+    },
+    {
+      "nome": "RODINEI ESCOBAR XAVIER CANDEIA",
+      "nomeUrna": "RODINEI CANDEIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 186,
+      "percentual": 2.04,
+      "sqcand": "210001601666"
+    }
+  ]
+}

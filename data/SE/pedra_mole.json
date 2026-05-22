@@ -1,0 +1,271 @@
+{
+  "populacao": 3476,
+  "votosValidos": 3147,
+  "abstencao": 7.08,
+  "prefeito": {
+    "nome": "JOSE AUGUSTO DE ANDRADE",
+    "nomeUrna": "ZÉ AUGUSTO DE ZÉ DE LOLÓ",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1759,
+    "percentual": 55.89,
+    "situacao": "Eleito",
+    "sqcand": "260002105489",
+    "vice": "ANTONIO MARCOS DOS SANTOS",
+    "viceNomeUrna": "TONHO DE NETINHO",
+    "partidoVice": "PP",
+    "sqcandVice": "260002105488",
+    "coligacao": "PSD / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSEFA ALINE SANTOS ANDRADE",
+      "nomeUrna": "ALINE DE MARIA DE HERIBALDO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 334,
+      "percentual": 10.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002105223"
+    },
+    {
+      "nome": "JOÃO MARTINS FILHO",
+      "nomeUrna": "JOÃO DE DORCAS",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 255,
+      "percentual": 8.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002105235"
+    },
+    {
+      "nome": "PAULO JORGE DOS PASSOS",
+      "nomeUrna": "JORGE DA TOPIC",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 249,
+      "percentual": 7.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002105233"
+    },
+    {
+      "nome": "CLAUDIO MONTEIRO DOS SANTOS",
+      "nomeUrna": "CLAUDIO MONTEIRO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 237,
+      "percentual": 7.52,
+      "situacao": "Eleito por média",
+      "sqcand": "260002105234"
+    },
+    {
+      "nome": "JOSE ALBERTO FONSECA",
+      "nomeUrna": "ZÉ DE LAVE",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 231,
+      "percentual": 7.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001911351"
+    },
+    {
+      "nome": "PAULO ROBERTO OLIVEIRA SANTOS",
+      "nomeUrna": "PAULO DE NALDINHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 230,
+      "percentual": 7.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002105222"
+    },
+    {
+      "nome": "BRUNO SOUZA ALMEIDA",
+      "nomeUrna": "BRUNO DE EDIVANILSON",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 209,
+      "percentual": 6.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001911349"
+    },
+    {
+      "nome": "MILTON BATISTA CARVALHO",
+      "nomeUrna": "MILTON BATISTA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 196,
+      "percentual": 6.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001911354"
+    },
+    {
+      "nome": "JACKSON SANTANA CARVALHO",
+      "nomeUrna": "JACKSON DO BAR",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 190,
+      "percentual": 6.03,
+      "situacao": "Eleito por média",
+      "sqcand": "260001911345"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "LAERCIO JOSE DE OLIVEIRA",
+      "nomeUrna": "LAÉRCIO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 946,
+      "percentual": 41.86,
+      "sqcand": "260001635426"
+    },
+    {
+      "nome": "EDUARDO ALVES DO AMORIM",
+      "nomeUrna": "DR. EDUARDO AMORIM",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 770,
+      "percentual": 34.07,
+      "sqcand": "260001693738"
+    },
+    {
+      "nome": "ANTONIO CARLOS VALADARES FILHO",
+      "nomeUrna": "VALADARES FILHO",
+      "partido": "PSB",
+      "numero": "404",
+      "votos": 264,
+      "percentual": 11.68,
+      "sqcand": "260001666588"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOAO SOMARIVA DANIEL",
+      "nomeUrna": "JOAO DANIEL",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 694,
+      "percentual": 29.56,
+      "sqcand": "260001667975"
+    },
+    {
+      "nome": "YANDRA BARRETO FERREIRA",
+      "nomeUrna": "YANDRA DE ANDRÉ",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 597,
+      "percentual": 25.43,
+      "sqcand": "260001728384"
+    },
+    {
+      "nome": "ICARO BARBOSA COSTA",
+      "nomeUrna": "ICARO DE VALMIR",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 334,
+      "percentual": 14.22,
+      "sqcand": "260001737580"
+    },
+    {
+      "nome": "KATARINA FEITOZA LIMA SANTANA",
+      "nomeUrna": "DELEGADA KATARINA",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 134,
+      "percentual": 5.71,
+      "sqcand": "260001619667"
+    },
+    {
+      "nome": "ITAMAR DE SANTANA NASCIMENTO",
+      "nomeUrna": "ITAMAR SANTANA",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 97,
+      "percentual": 4.13,
+      "sqcand": "260001600239"
+    },
+    {
+      "nome": "ELIANE AQUINO CUSTODIO",
+      "nomeUrna": "ELIANE AQUINO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 89,
+      "percentual": 3.79,
+      "sqcand": "260001667976"
+    },
+    {
+      "nome": "SONIA MEIRE SANTOS AZEVEDO DE JESUS",
+      "nomeUrna": "PROFESSORA SONIA MEIRE",
+      "partido": "PSOL",
+      "numero": "5050",
+      "votos": 57,
+      "percentual": 2.43,
+      "sqcand": "260001636661"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADAILTON MARTINS DE OLIVEIRA FILHO",
+      "nomeUrna": "ADAILTON MARTINS",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 610,
+      "percentual": 26.49,
+      "sqcand": "260001636403"
+    },
+    {
+      "nome": "MARCOS VINICIUS LIMA DE OLIVEIRA",
+      "nomeUrna": "MARCOS OLIVEIRA",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 336,
+      "percentual": 14.59,
+      "sqcand": "260001712248"
+    },
+    {
+      "nome": "MARIA VIEIRA DE MENDONÇA",
+      "nomeUrna": "MARIA MENDONÇA",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 241,
+      "percentual": 10.46,
+      "sqcand": "260001669439"
+    },
+    {
+      "nome": "MARIVAL SILVA SANTANA",
+      "nomeUrna": "MARIVAL SANTANA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 156,
+      "percentual": 6.77,
+      "sqcand": "260001646910"
+    },
+    {
+      "nome": "ARTUR SERGIO DE ALMEIDA REIS",
+      "nomeUrna": "SERGIO REIS",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 142,
+      "percentual": 6.17,
+      "sqcand": "260001636415"
+    },
+    {
+      "nome": "JOSÉ CARLOS MACHADO",
+      "nomeUrna": "MACHADO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 117,
+      "percentual": 5.08,
+      "sqcand": "260001712254"
+    },
+    {
+      "nome": "GEORGEO ANTONIO CESPEDES PASSOS",
+      "nomeUrna": "GEORGEO PASSOS",
+      "partido": "CIDADANIA",
+      "numero": "23777",
+      "votos": 82,
+      "percentual": 3.56,
+      "sqcand": "260001600214"
+    }
+  ]
+}

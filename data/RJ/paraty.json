@@ -1,0 +1,291 @@
+{
+  "populacao": 35398,
+  "votosValidos": 16266,
+  "abstencao": 21.54,
+  "prefeito": {
+    "nome": "JOSÉ CARLOS PORTO NETO",
+    "nomeUrna": "ZEZÉ PORTO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 14235,
+    "percentual": 87.51,
+    "situacao": "Eleito",
+    "sqcand": "190002236368",
+    "vice": "LUIZ CLAUDIO ALCANTARA DA COSTA",
+    "viceNomeUrna": "LULU",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "190002236367",
+    "coligacao": "REPUBLICANOS / AVANTE / PSD / DC / PODE / MOBILIZA / AGIR"
+  },
+  "vereadores": [
+    {
+      "nome": "ERIC DA SILVA PORTO",
+      "nomeUrna": "ERIC PORTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1113,
+      "percentual": 4.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002288906"
+    },
+    {
+      "nome": "LUCAS DE OLIVEIRA CORDEIRO",
+      "nomeUrna": "LUCAS CORDEIRO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 1050,
+      "percentual": 3.91,
+      "situacao": "Eleito por média",
+      "sqcand": "190002370417"
+    },
+    {
+      "nome": "LAION JUNIO CAMPOS CARLOS",
+      "nomeUrna": "LAION CAMPOS",
+      "partido": "AVANTE",
+      "numero": "70888",
+      "votos": 958,
+      "percentual": 3.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002371264"
+    },
+    {
+      "nome": "PAULO SÉRGIO CONCEIÇÃO DOS SANTOS",
+      "nomeUrna": "PAULO SÉRGIO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 909,
+      "percentual": 3.38,
+      "situacao": "Eleito por média",
+      "sqcand": "190002357797"
+    },
+    {
+      "nome": "ANTONIO CARLOS DE VASCONCELLOS GAMA",
+      "nomeUrna": "TUNICO GAMA",
+      "partido": "PP",
+      "numero": "11425",
+      "votos": 852,
+      "percentual": 3.17,
+      "situacao": "Eleito por média",
+      "sqcand": "190002371418"
+    },
+    {
+      "nome": "VAGNO MARTINS DA CRUZ",
+      "nomeUrna": "VAGUINHO DE SAO GONÇALO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 792,
+      "percentual": 2.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002370021"
+    },
+    {
+      "nome": "RUAN CARLOS MINEIRO MARCELINO",
+      "nomeUrna": "JA É RUAN",
+      "partido": "PRD",
+      "numero": "25678",
+      "votos": 778,
+      "percentual": 2.89,
+      "situacao": "Eleito por média",
+      "sqcand": "190002370308"
+    },
+    {
+      "nome": "BENEDITO CRISPIM DE ALCANTARA",
+      "nomeUrna": "PICÓ",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 609,
+      "percentual": 2.27,
+      "situacao": "Eleito por média",
+      "sqcand": "190002371259"
+    },
+    {
+      "nome": "CLAUDNEI ALCANTARA DA COSTA",
+      "nomeUrna": "NEY",
+      "partido": "REPUBLICANOS",
+      "numero": "10201",
+      "votos": 597,
+      "percentual": 2.22,
+      "situacao": "Eleito por média",
+      "sqcand": "190002288898"
+    },
+    {
+      "nome": "ANDERSON MAIA DOS SANTOS",
+      "nomeUrna": "SANTOS COQUINHO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 588,
+      "percentual": 2.19,
+      "situacao": "Eleito por média",
+      "sqcand": "190002370861"
+    },
+    {
+      "nome": "RICARDO DOS SANTOS",
+      "nomeUrna": "RICARDO SANTOS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77222",
+      "votos": 302,
+      "percentual": 1.12,
+      "situacao": "Eleito por média",
+      "sqcand": "190002369641"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 9156,
+      "percentual": 52.35,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 4175,
+      "percentual": 23.87,
+      "sqcand": "190001609504"
+    },
+    {
+      "nome": "CLARISSA GAROTINHO BARROS ASSED MATHEUS DE OLIVEIRA",
+      "nomeUrna": "CLARISSA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1821,
+      "percentual": 10.41,
+      "sqcand": "190001645824"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ CARLOS PORTO NETO",
+      "nomeUrna": "ZEZÉ PORTO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7714",
+      "votos": 4525,
+      "percentual": 20.23,
+      "sqcand": "190001601713"
+    },
+    {
+      "nome": "LUIZ ANTONIO DE SOUZA TEIXEIRA JUNIOR",
+      "nomeUrna": "DOUTOR LUIZINHO",
+      "partido": "PP",
+      "numero": "1177",
+      "votos": 1114,
+      "percentual": 4.98,
+      "sqcand": "190001605591"
+    },
+    {
+      "nome": "MARTHA DOS SANTOS CARDOSO",
+      "nomeUrna": "DRA. MARTHA CARDOSO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 960,
+      "percentual": 4.29,
+      "sqcand": "190001644814"
+    },
+    {
+      "nome": "MARCUS VENISSIUS DA SILVA BARBOSA",
+      "nomeUrna": "VENISSIUS",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 906,
+      "percentual": 4.05,
+      "sqcand": "190001609688"
+    },
+    {
+      "nome": "VINICIUS MEDEIROS FARAH",
+      "nomeUrna": "VINICIUS FARAH",
+      "partido": "UNIÃO",
+      "numero": "4415",
+      "votos": 838,
+      "percentual": 3.75,
+      "sqcand": "190001619495"
+    },
+    {
+      "nome": "FRANCISCO JOSE D ANGELO",
+      "nomeUrna": "CHICO D ANGELO",
+      "partido": "PDT",
+      "numero": "1210",
+      "votos": 624,
+      "percentual": 2.79,
+      "sqcand": "190001640615"
+    },
+    {
+      "nome": "TALÍRIA PETRONE SOARES",
+      "nomeUrna": "TALIRIA PETRONE",
+      "partido": "PSOL",
+      "numero": "5077",
+      "votos": 603,
+      "percentual": 2.7,
+      "sqcand": "190001600487"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GUSTAVO REIS FERREIRA",
+      "nomeUrna": "GUSTAVO TUTUCA",
+      "partido": "PP",
+      "numero": "11212",
+      "votos": 4470,
+      "percentual": 21.31,
+      "sqcand": "190001609544"
+    },
+    {
+      "nome": "GIOVANI LEITE DE ABREU",
+      "nomeUrna": "GIOVANI RATINHO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 2073,
+      "percentual": 9.88,
+      "sqcand": "190001601358"
+    },
+    {
+      "nome": "ELOÁ SILVA DE MORAES",
+      "nomeUrna": "ELOA MORAES",
+      "partido": "PT",
+      "numero": "13024",
+      "votos": 1357,
+      "percentual": 6.47,
+      "sqcand": "190001620497"
+    },
+    {
+      "nome": "CELIA CRISTINA AMORIM SILVA JORDÃO",
+      "nomeUrna": "CÉLIA JORDÃO",
+      "partido": "PL",
+      "numero": "22220",
+      "votos": 1069,
+      "percentual": 5.1,
+      "sqcand": "190001596754"
+    },
+    {
+      "nome": "OTONI MOURA DE PAULO",
+      "nomeUrna": "OTONI DE PAULA PAI",
+      "partido": "MDB",
+      "numero": "15022",
+      "votos": 499,
+      "percentual": 2.38,
+      "sqcand": "190001645662"
+    },
+    {
+      "nome": "ILSON DE ARAUJO",
+      "nomeUrna": "ILSON ARAUJO",
+      "partido": "PRTB",
+      "numero": "28193",
+      "votos": 427,
+      "percentual": 2.04,
+      "sqcand": "190001645313"
+    },
+    {
+      "nome": "RODRIGO DA SILVA BACELLAR",
+      "nomeUrna": "RODRIGO BACELLAR",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 394,
+      "percentual": 1.88,
+      "sqcand": "190001596728"
+    }
+  ]
+}

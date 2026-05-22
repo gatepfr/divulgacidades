@@ -1,0 +1,291 @@
+{
+  "populacao": 20400,
+  "votosValidos": 16933,
+  "abstencao": 11.54,
+  "prefeito": {
+    "nome": "ELIAS BATISTA DE LIMA",
+    "nomeUrna": "ELIAS MEU FII",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 7316,
+    "percentual": 43.21,
+    "situacao": "Eleito",
+    "sqcand": "170002117894",
+    "vice": "REBECA EVANGELISTA LINS",
+    "viceNomeUrna": "DRA REBECA",
+    "partidoVice": "MDB",
+    "sqcandVice": "170002117895",
+    "coligacao": "MDB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE ROBERTO DOS SANTOS",
+      "nomeUrna": "BETO DA AMBULÂNCIA ",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 884,
+      "percentual": 5.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002119518"
+    },
+    {
+      "nome": "RIVONALDO JOSÉ DE FREITAS ANDRADE",
+      "nomeUrna": "NANDINHO DE ZEZO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 837,
+      "percentual": 4.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002239038"
+    },
+    {
+      "nome": "LUANA LAÍS DA SILVA",
+      "nomeUrna": "LUANA DA FARMÁCIA",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 779,
+      "percentual": 4.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002239045"
+    },
+    {
+      "nome": "JOSÉ ROBERTO BELARMINO DE LIRA",
+      "nomeUrna": "BETO LANCHE",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 769,
+      "percentual": 4.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002119522"
+    },
+    {
+      "nome": "ELIANE VALDECI DOS SANTOS ARRUDA",
+      "nomeUrna": "ELIANE DA PAMONHA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 765,
+      "percentual": 4.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002119523"
+    },
+    {
+      "nome": "ANTONIO SEVERINO DA COSTA",
+      "nomeUrna": "BAIBADO DA FRUTA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 741,
+      "percentual": 4.38,
+      "situacao": "Eleito por média",
+      "sqcand": "170002119521"
+    },
+    {
+      "nome": "CARMELUCE VERÇOSA DE MELO",
+      "nomeUrna": "LUCINHA DA MATERNIDADE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 636,
+      "percentual": 3.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002239018"
+    },
+    {
+      "nome": "WASHINGTON DA SILVA OLIVEIRA",
+      "nomeUrna": "WASHINGTON LANCHES",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 621,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001946544"
+    },
+    {
+      "nome": "JOSE AGLAILSON LINO",
+      "nomeUrna": "AGLAILSON DA CARNE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 583,
+      "percentual": 3.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001946549"
+    },
+    {
+      "nome": "JOÃO LUIZ FERREIRA",
+      "nomeUrna": "NANINHO BAÉ",
+      "partido": "PP",
+      "numero": "11635",
+      "votos": 567,
+      "percentual": 3.35,
+      "situacao": "Eleito por média",
+      "sqcand": "170002119524"
+    },
+    {
+      "nome": "ALFREDO BATISTA BARBOSA",
+      "nomeUrna": "ALFREDO DE BIU BATISTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10234",
+      "votos": 525,
+      "percentual": 3.1,
+      "situacao": "Eleito por média",
+      "sqcand": "170001946542"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 5736,
+      "percentual": 47.16,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4004,
+      "percentual": 32.92,
+      "sqcand": "170001604083"
+    },
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1380,
+      "percentual": 11.34,
+      "sqcand": "170001610248"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+      "nomeUrna": "IZA ARRUDA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 3039,
+      "percentual": 22.43,
+      "sqcand": "170001613278"
+    },
+    {
+      "nome": "ANDRÉ FERREIRA RODRIGUES",
+      "nomeUrna": "ANDRÉ FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2593,
+      "percentual": 19.14,
+      "sqcand": "170001609080"
+    },
+    {
+      "nome": "MARIA DO SOCORRO ALVARES MARIZ",
+      "nomeUrna": "SOCORRINHO DA APAMI",
+      "partido": "UNIÃO",
+      "numero": "4411",
+      "votos": 1235,
+      "percentual": 9.11,
+      "sqcand": "170001609132"
+    },
+    {
+      "nome": "ERICA CLARISSA BORBA CORDEIRO DE MOURA",
+      "nomeUrna": "CLARISSA TÉRCIO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 512,
+      "percentual": 3.78,
+      "sqcand": "170001618605"
+    },
+    {
+      "nome": "PEDRO HENRIQUE DE ANDRADE LIMA CARNEIRO CAMPOS",
+      "nomeUrna": "PEDRO CAMPOS",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 490,
+      "percentual": 3.62,
+      "sqcand": "170001619899"
+    },
+    {
+      "nome": "SILVIO SERAFIM COSTA FILHO",
+      "nomeUrna": "SILVIO COSTA FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 469,
+      "percentual": 3.46,
+      "sqcand": "170001595473"
+    },
+    {
+      "nome": "FERNANDO DANTAS FERRO",
+      "nomeUrna": "FERNANDO FERRO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 409,
+      "percentual": 3.02,
+      "sqcand": "170001609023"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOAQUIM ELIAS CARNEIRO DE LIRA",
+      "nomeUrna": "JOAQUIM LIRA",
+      "partido": "PV",
+      "numero": "43555",
+      "votos": 2295,
+      "percentual": 18.2,
+      "sqcand": "170001608973"
+    },
+    {
+      "nome": "VICTOR MORAES QUERALVARES",
+      "nomeUrna": "AGLAILSON VICTOR",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 1984,
+      "percentual": 15.73,
+      "sqcand": "170001620371"
+    },
+    {
+      "nome": "CLÉBER JOSÉ DE AGUIAR DA SILVA",
+      "nomeUrna": "CHAPARRAL",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 739,
+      "percentual": 5.86,
+      "sqcand": "170001609297"
+    },
+    {
+      "nome": "HENRIQUE JOSE QUEIROZ COSTA FILHO",
+      "nomeUrna": "HENRIQUE QUEIROZ FILHO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 650,
+      "percentual": 5.16,
+      "sqcand": "170001618759"
+    },
+    {
+      "nome": "JOSÉ IVANILDO DE MOURA JUNIOR",
+      "nomeUrna": "PASTOR JUNIOR TERCIO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 454,
+      "percentual": 3.6,
+      "sqcand": "170001618752"
+    },
+    {
+      "nome": "GLEIDE NASCIMENTO ANGELO",
+      "nomeUrna": "DELEGADA GLEIDE ANGELO",
+      "partido": "PSB",
+      "numero": "40190",
+      "votos": 430,
+      "percentual": 3.41,
+      "sqcand": "170001620397"
+    },
+    {
+      "nome": "SAULO BARROS DE ALBUQUERQUE",
+      "nomeUrna": "DOUTOR SAULO",
+      "partido": "PATRIOTA",
+      "numero": "51123",
+      "votos": 396,
+      "percentual": 3.14,
+      "sqcand": "170001609857"
+    }
+  ]
+}

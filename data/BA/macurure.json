@@ -1,0 +1,271 @@
+{
+  "populacao": 6610,
+  "votosValidos": 5686,
+  "abstencao": 10.3,
+  "prefeito": {
+    "nome": "LEANDRO BERGUE GOMES DA CRUZ",
+    "nomeUrna": "BERGUE DE JOSIAS",
+    "partido": "PC do B",
+    "numero": "65",
+    "votos": 3727,
+    "percentual": 65.55,
+    "situacao": "Eleito",
+    "sqcand": "50002125256",
+    "vice": "ANTÔNIO CARLOS GONÇALVES",
+    "viceNomeUrna": "ANTÔNIO CARLOS",
+    "partidoVice": "MDB",
+    "sqcandVice": "50002125257",
+    "coligacao": "PC do B / PT / PV / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JONAS ALVES DA SILVA GOMES",
+      "nomeUrna": "GATO",
+      "partido": "PC do B",
+      "numero": "65456",
+      "votos": 899,
+      "percentual": 15.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002253613"
+    },
+    {
+      "nome": "RISONILTON CELSO RAMOS DA CRUZ",
+      "nomeUrna": "CELSO RAMOS",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 578,
+      "percentual": 10.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002175316"
+    },
+    {
+      "nome": "ADEMIR XAVIER VARJÃO",
+      "nomeUrna": "ADEMIR VARJÃO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 550,
+      "percentual": 9.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002175318"
+    },
+    {
+      "nome": "JOACY LAERTE SIMPLICIO GOMES",
+      "nomeUrna": "LAERTE",
+      "partido": "PC do B",
+      "numero": "65555",
+      "votos": 472,
+      "percentual": 8.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002253617"
+    },
+    {
+      "nome": "GILBERTO GOMES DA COSTA",
+      "nomeUrna": "BETO DO ÔNIBUS",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 392,
+      "percentual": 6.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002175315"
+    },
+    {
+      "nome": "CLOTILDES MANOEL FILHO",
+      "nomeUrna": "CLOTILDES MANOEL",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 366,
+      "percentual": 6.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002064428"
+    },
+    {
+      "nome": "FABIO PEREIRA MAIA",
+      "nomeUrna": "FABIO MAIA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 336,
+      "percentual": 5.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002064426"
+    },
+    {
+      "nome": "BRUNO GONÇALVES SILVA",
+      "nomeUrna": "BRUNO DE PELÉ",
+      "partido": "PC do B",
+      "numero": "65444",
+      "votos": 296,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002253614"
+    },
+    {
+      "nome": "VALENTIM XAVIER REIS",
+      "nomeUrna": "NEGUINHO DA ROÇA",
+      "partido": "PC do B",
+      "numero": "65333",
+      "votos": 254,
+      "percentual": 4.41,
+      "situacao": "Eleito por média",
+      "sqcand": "50002253615"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 3674,
+      "percentual": 78.93,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 779,
+      "percentual": 16.73,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 190,
+      "percentual": 4.08,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RICARDO MAIA CHAVES DE SOUZA",
+      "nomeUrna": "RICARDO MAIA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 1789,
+      "percentual": 36.3,
+      "sqcand": "50001614047"
+    },
+    {
+      "nome": "GABRIEL JOSE MOURA NUNES SOARES",
+      "nomeUrna": "GABRIEL NUNES",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 935,
+      "percentual": 18.97,
+      "sqcand": "50001607226"
+    },
+    {
+      "nome": "MÁRIO SÍLVIO MENDES NEGROMONTE JÚNIOR",
+      "nomeUrna": "MÁRIO NEGROMONTE JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 476,
+      "percentual": 9.66,
+      "sqcand": "50001621035"
+    },
+    {
+      "nome": "ADOLFO VIANA DE CASTRO NETO",
+      "nomeUrna": "ADOLFO VIANA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 451,
+      "percentual": 9.15,
+      "sqcand": "50001613575"
+    },
+    {
+      "nome": "DANIEL GOMES DE ALMEIDA",
+      "nomeUrna": "DANIEL",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 357,
+      "percentual": 7.24,
+      "sqcand": "50001605367"
+    },
+    {
+      "nome": "JOSE MARCELO DO NASCIMENTO NILO",
+      "nomeUrna": "MARCELO NILO",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 277,
+      "percentual": 5.62,
+      "sqcand": "50001619849"
+    },
+    {
+      "nome": "JOÃO CARLOS BACELAR BATISTA",
+      "nomeUrna": "BACELAR",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 121,
+      "percentual": 2.45,
+      "sqcand": "50001605351"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CRISOSTOMO ANTONIO LIMA",
+      "nomeUrna": "ZÓ",
+      "partido": "PC do B",
+      "numero": "65456",
+      "votos": 1737,
+      "percentual": 37.56,
+      "sqcand": "50001606432"
+    },
+    {
+      "nome": "MARCIO EVANGELISTA DE OLIVEIRA",
+      "nomeUrna": "MARCINHO OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 608,
+      "percentual": 13.15,
+      "sqcand": "50001648293"
+    },
+    {
+      "nome": "ADOLFO EMANUEL MONTEIRO DE MENEZES",
+      "nomeUrna": "ADOLFO MENEZES",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 563,
+      "percentual": 12.17,
+      "sqcand": "50001607292"
+    },
+    {
+      "nome": "JORDAVIO ALEXANDRE ESPINOLA RAMOS",
+      "nomeUrna": "JORDAVIO RAMOS",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 417,
+      "percentual": 9.02,
+      "sqcand": "50001613908"
+    },
+    {
+      "nome": "LAERTE LEANDRO DE ARAUJO FERNANDES",
+      "nomeUrna": "LAERTE DO VANDO",
+      "partido": "PSC",
+      "numero": "20777",
+      "votos": 276,
+      "percentual": 5.97,
+      "sqcand": "50001604617"
+    },
+    {
+      "nome": "ROBERTO CARLOS ALMEIDA LEAL",
+      "nomeUrna": "ROBERTO CARLOS",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 169,
+      "percentual": 3.65,
+      "sqcand": "50001606388"
+    },
+    {
+      "nome": "ANGELO MARIO CERQUEIRA DE ALMEIDA",
+      "nomeUrna": "ANGELO ALMEIDA",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 162,
+      "percentual": 3.5,
+      "sqcand": "50001605968"
+    }
+  ]
+}

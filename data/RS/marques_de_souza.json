@@ -1,0 +1,271 @@
+{
+  "populacao": 3555,
+  "votosValidos": 3093,
+  "abstencao": 11.65,
+  "prefeito": {
+    "nome": "FÁBIO ALEX MERTZ",
+    "nomeUrna": "FABIO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1650,
+    "percentual": 53.35,
+    "situacao": "Eleito",
+    "sqcand": "210002148085",
+    "vice": "LAIRTON FREDERICO HEINECK",
+    "viceNomeUrna": "LAIRTON",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "210002148084",
+    "coligacao": "REPUBLICANOS / PP / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "RODRIGO WOMMER",
+      "nomeUrna": "RODRIGO WOMMER",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 466,
+      "percentual": 15.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002209429"
+    },
+    {
+      "nome": "WILKYNS ARLINDO JUNIOR GROSS",
+      "nomeUrna": "WILKYNS GROSS",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 294,
+      "percentual": 9.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002208758"
+    },
+    {
+      "nome": "MARCELO LUIS STOLL",
+      "nomeUrna": "MARCELO STOLL",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 202,
+      "percentual": 6.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002209430"
+    },
+    {
+      "nome": "ROBERTO GIOVANELLA",
+      "nomeUrna": "BETO GIOVANELLA",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 198,
+      "percentual": 6.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002248578"
+    },
+    {
+      "nome": "FLÁVIO CÉSAR BRUCH",
+      "nomeUrna": "FLÁVIO BRUCH",
+      "partido": "REPUBLICANOS",
+      "numero": "10999",
+      "votos": 184,
+      "percentual": 5.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002148737"
+    },
+    {
+      "nome": "RUDI HEID",
+      "nomeUrna": "RUDI HEID",
+      "partido": "REPUBLICANOS",
+      "numero": "10633",
+      "votos": 174,
+      "percentual": 5.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002148734"
+    },
+    {
+      "nome": "JÚLIO CESAR KERBER CARDOSO",
+      "nomeUrna": "JÚLIO CESAR CARDOSO",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 164,
+      "percentual": 5.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002209435"
+    },
+    {
+      "nome": "LORIVAL PAULO FLECK",
+      "nomeUrna": "PAULO FLECK TODY",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 162,
+      "percentual": 5.25,
+      "situacao": "Eleito por média",
+      "sqcand": "210002209428"
+    },
+    {
+      "nome": "AMENÓFIS STACKE",
+      "nomeUrna": "AMENÓFIS STAKE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 151,
+      "percentual": 4.89,
+      "situacao": "Eleito por média",
+      "sqcand": "210002148742"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1402,
+      "percentual": 58.44,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 612,
+      "percentual": 25.51,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 371,
+      "percentual": 15.46,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANTONIO CARLOS GOMES DA SILVA",
+      "nomeUrna": "CARLOS GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 488,
+      "percentual": 19.13,
+      "sqcand": "210001601602"
+    },
+    {
+      "nome": "ENIO EGON BERGMANN BACCI",
+      "nomeUrna": "ENIO BACCI",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 303,
+      "percentual": 11.88,
+      "sqcand": "210001601882"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 152,
+      "percentual": 5.96,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 135,
+      "percentual": 5.29,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "RICARDO WAGNER",
+      "nomeUrna": "RICARDO WAGNER",
+      "partido": "PTB",
+      "numero": "1415",
+      "votos": 131,
+      "percentual": 5.14,
+      "sqcand": "210001649220"
+    },
+    {
+      "nome": "LUCIANO PALMA DE AZEVEDO",
+      "nomeUrna": "LUCIANO AZEVEDO",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 115,
+      "percentual": 4.51,
+      "sqcand": "210001613993"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 94,
+      "percentual": 3.68,
+      "sqcand": "210001597011"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "WILKYNS ARLINDO JUNIOR GROSS",
+      "nomeUrna": "WILKYNS GROSS",
+      "partido": "PTB",
+      "numero": "14000",
+      "votos": 868,
+      "percentual": 34.32,
+      "sqcand": "210001649773"
+    },
+    {
+      "nome": "JOÃO AGOSTINHO BRAUN",
+      "nomeUrna": "JOÃO BRAUN",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 224,
+      "percentual": 8.86,
+      "sqcand": "210001647161"
+    },
+    {
+      "nome": "SERGIO PERES ALOS",
+      "nomeUrna": "SERGIO PERES",
+      "partido": "REPUBLICANOS",
+      "numero": "10300",
+      "votos": 212,
+      "percentual": 8.38,
+      "sqcand": "210001601643"
+    },
+    {
+      "nome": "DOUGLAS SANDRI",
+      "nomeUrna": "DOUGLAS SANDRI",
+      "partido": "NOVO",
+      "numero": "30111",
+      "votos": 167,
+      "percentual": 6.6,
+      "sqcand": "210001597029"
+    },
+    {
+      "nome": "GLÁUCIA SCHUMACHER",
+      "nomeUrna": "GLÁUCIA SCHUMACHER",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 148,
+      "percentual": 5.85,
+      "sqcand": "210001647168"
+    },
+    {
+      "nome": "MARCIA SCHERER",
+      "nomeUrna": "MÁRCIA SCHERER",
+      "partido": "MDB",
+      "numero": "15069",
+      "votos": 139,
+      "percentual": 5.5,
+      "sqcand": "210001647996"
+    },
+    {
+      "nome": "JOSÉ ODAIR SCORSATTO",
+      "nomeUrna": "JOSÉ SCORSATTO",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 75,
+      "percentual": 2.97,
+      "sqcand": "210001621290"
+    }
+  ]
+}

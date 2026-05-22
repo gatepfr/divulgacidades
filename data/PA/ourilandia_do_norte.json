@@ -1,0 +1,311 @@
+{
+  "populacao": 25334,
+  "votosValidos": 19824,
+  "abstencao": 20.03,
+  "prefeito": {
+    "nome": "JULIO CESAR DAIREL",
+    "nomeUrna": "DR JULIO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 15112,
+    "percentual": 76.23,
+    "situacao": "Eleito",
+    "sqcand": "140002107375",
+    "vice": "ALESSANDRO MACHADO SILVA",
+    "viceNomeUrna": "ALESSANDRO",
+    "partidoVice": "PL",
+    "sqcandVice": "140002107376",
+    "coligacao": "PL / MDB / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCIO OLIVEIRA DA SILVA",
+      "nomeUrna": "MARCIO NEGÃO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 957,
+      "percentual": 4.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002107729"
+    },
+    {
+      "nome": "ANTONIA AUDERISA DE OLIVEIRA ALENCAR",
+      "nomeUrna": "AUDERISA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 915,
+      "percentual": 4.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002107720"
+    },
+    {
+      "nome": "EDIVALDO BORGES GOMES",
+      "nomeUrna": "IRMÃO EDIVALDO",
+      "partido": "MDB",
+      "numero": "15345",
+      "votos": 848,
+      "percentual": 4.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002107721"
+    },
+    {
+      "nome": "CLEBER SOARES DE OLIVEIRA",
+      "nomeUrna": "CLEBER DO LAU",
+      "partido": "MDB",
+      "numero": "15622",
+      "votos": 839,
+      "percentual": 4.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002107731"
+    },
+    {
+      "nome": "EUDE DA COSTA LEITE",
+      "nomeUrna": "EUDER LEITE",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 823,
+      "percentual": 4.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002107359"
+    },
+    {
+      "nome": "ROMILDO VELOSO E SILVA",
+      "nomeUrna": "DR VELOSO",
+      "partido": "PP",
+      "numero": "11279",
+      "votos": 737,
+      "percentual": 3.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002281118"
+    },
+    {
+      "nome": "FABRICIO CALIL GALVAO FERREIRA",
+      "nomeUrna": "FABRICIO POUCA SOMBRA",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 724,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002107350"
+    },
+    {
+      "nome": "GENIVAM DA MATA",
+      "nomeUrna": "GENIVAM DA MATA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 718,
+      "percentual": 3.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002107354"
+    },
+    {
+      "nome": "WALMY CESAR COSTA RODRIGUES",
+      "nomeUrna": "CESAR GOLEIRO",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 685,
+      "percentual": 3.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002281111"
+    },
+    {
+      "nome": "CHARLES GUTIERE MARTINS DE MELO",
+      "nomeUrna": "CHARLES GUTIERRE",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 625,
+      "percentual": 3.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002281735"
+    },
+    {
+      "nome": "RAIMUNDO DE OLIVEIRA DA SILVA",
+      "nomeUrna": "RAIMUNDIN ONZE IRMAOS",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 614,
+      "percentual": 3.11,
+      "situacao": "Eleito por média",
+      "sqcand": "140002107723"
+    },
+    {
+      "nome": "REGINALDO PEREIRA DA SILVA",
+      "nomeUrna": "REGINALDO ACAPU",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 458,
+      "percentual": 2.32,
+      "situacao": "Eleito por média",
+      "sqcand": "140002281116"
+    },
+    {
+      "nome": "RENIVALDO MARTINS NUNES",
+      "nomeUrna": "RENIVALDO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 360,
+      "percentual": 1.82,
+      "situacao": "Eleito por média",
+      "sqcand": "140002281733"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 10241,
+      "percentual": 65.86,
+      "sqcand": "140001600249"
+    },
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 3986,
+      "percentual": 25.64,
+      "sqcand": "140001611661"
+    },
+    {
+      "nome": "FERNANDO DE SOUZA FLEXA RIBEIRO",
+      "nomeUrna": "FLEXA RIBEIRO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 940,
+      "percentual": 6.05,
+      "sqcand": "140001611666"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LENILDO MENDES DOS SANTOS SERTÃO",
+      "nomeUrna": "DELEGADO CAVEIRA",
+      "partido": "PL",
+      "numero": "2217",
+      "votos": 3363,
+      "percentual": 21.19,
+      "sqcand": "140001598314"
+    },
+    {
+      "nome": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+      "nomeUrna": "JOAQUIM PASSARINHO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 3003,
+      "percentual": 18.92,
+      "sqcand": "140001598308"
+    },
+    {
+      "nome": "RENILCE CONCEIÇÃO NICODEMOS DE ALBUQUERQUE",
+      "nomeUrna": "RENILCE NICODEMOS",
+      "partido": "MDB",
+      "numero": "1577",
+      "votos": 1652,
+      "percentual": 10.41,
+      "sqcand": "140001621348"
+    },
+    {
+      "nome": "WAGNE COSTA MACHADO",
+      "nomeUrna": "WAGNE MACHADO",
+      "partido": "MDB",
+      "numero": "1501",
+      "votos": 1008,
+      "percentual": 6.35,
+      "sqcand": "140001621347"
+    },
+    {
+      "nome": "CELSO SABINO DE OLIVEIRA",
+      "nomeUrna": "CELSO SABINO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 823,
+      "percentual": 5.18,
+      "sqcand": "140001604547"
+    },
+    {
+      "nome": "CÁSSIO COELHO ANDRADE",
+      "nomeUrna": "CÁSSIO ANDRADE",
+      "partido": "PSB",
+      "numero": "4011",
+      "votos": 587,
+      "percentual": 3.7,
+      "sqcand": "140001604460"
+    },
+    {
+      "nome": "MARCIO DESIDERIO TEIXEIRA MIRANDA",
+      "nomeUrna": "MARCIO MIRANDA",
+      "partido": "PTB",
+      "numero": "1400",
+      "votos": 406,
+      "percentual": 2.56,
+      "sqcand": "140001615570"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROMILDO VELOSO E SILVA",
+      "nomeUrna": "DR VELOSO",
+      "partido": "MDB",
+      "numero": "15279",
+      "votos": 2999,
+      "percentual": 19.31,
+      "sqcand": "140001676881"
+    },
+    {
+      "nome": "FRANCISCO TORRES DE PAULA FILHO",
+      "nomeUrna": "TORRINHO",
+      "partido": "PODE",
+      "numero": "19279",
+      "votos": 2002,
+      "percentual": 12.89,
+      "sqcand": "140001651433"
+    },
+    {
+      "nome": "JOAO JOSE DE SOUSA",
+      "nomeUrna": "J SOUSA",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 1534,
+      "percentual": 9.88,
+      "sqcand": "140001601813"
+    },
+    {
+      "nome": "ALEX JOSE DE AQUINO SANTIAGO",
+      "nomeUrna": "ALEX SANTIAGO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 878,
+      "percentual": 5.65,
+      "sqcand": "140001611619"
+    },
+    {
+      "nome": "HELOISA MARIA MELO E SILVA GUIMARÃES",
+      "nomeUrna": "DRA. HELOISA",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 817,
+      "percentual": 5.26,
+      "sqcand": "140001615520"
+    },
+    {
+      "nome": "ANTONIO CARLOS CUNHA SÁ",
+      "nomeUrna": "DELEGADO TONI CUNHA",
+      "partido": "PSC",
+      "numero": "20000",
+      "votos": 729,
+      "percentual": 4.69,
+      "sqcand": "140001600261"
+    },
+    {
+      "nome": "JEOVÁ GONÇALVES DE ANDRADE",
+      "nomeUrna": "JEOVÁ ANDRADE",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 439,
+      "percentual": 2.83,
+      "sqcand": "140001676882"
+    }
+  ]
+}

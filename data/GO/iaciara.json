@@ -1,0 +1,271 @@
+{
+  "populacao": 8760,
+  "votosValidos": 7140,
+  "abstencao": 15.95,
+  "prefeito": {
+    "nome": "WAGNER NERY SAMPAIO",
+    "nomeUrna": "WAGUINHA DE DELZA",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 3168,
+    "percentual": 44.37,
+    "situacao": "Eleito",
+    "sqcand": "90002137838",
+    "vice": "SEBASTIÃO JOSÉ AMANCIO DA SILVA",
+    "viceNomeUrna": "ZÉ DO SABONETE",
+    "partidoVice": "PP",
+    "sqcandVice": "90002137839",
+    "coligacao": "PP / MDB / AVANTE / UNIÃO / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "CLAUDIO JOSE DA CUNHA",
+      "nomeUrna": "CLAUDIO CARVOEIRO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 384,
+      "percentual": 5.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002266355"
+    },
+    {
+      "nome": "DHOUGLAS MOREIRA LOPES DE BARROS",
+      "nomeUrna": "DR. DHOUGLAS LOPES",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 346,
+      "percentual": 4.81,
+      "situacao": "Eleito por média",
+      "sqcand": "90002266354"
+    },
+    {
+      "nome": "CARLOS CESAR BATISTA DE SOUZA",
+      "nomeUrna": "CARLOS CESAR CARLINHOS",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 301,
+      "percentual": 4.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002115880"
+    },
+    {
+      "nome": "VALDIR LOURENÇO PEREIRA DA SILVA",
+      "nomeUrna": "PROFESSOR VALDIR",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 290,
+      "percentual": 4.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002115160"
+    },
+    {
+      "nome": "LUCILENE EMIDIO DE OLIVEIRA",
+      "nomeUrna": "PROFESSORA LUCILENE",
+      "partido": "PRD",
+      "numero": "25678",
+      "votos": 288,
+      "percentual": 4.0,
+      "situacao": "Eleito por média",
+      "sqcand": "90002356848"
+    },
+    {
+      "nome": "JOSEMIR EVANGELISTA DE SOUZA",
+      "nomeUrna": "JOSEMIR GALO VELHO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 283,
+      "percentual": 3.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002115886"
+    },
+    {
+      "nome": "CLAUDIONOR RODRIGUES DA SILVA",
+      "nomeUrna": "BRANCO ELETRICISTA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 275,
+      "percentual": 3.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002116392"
+    },
+    {
+      "nome": "FABIO CRISTIAN NERY SABATH",
+      "nomeUrna": "FABIM DE JOAO CLEUBER",
+      "partido": "PSD",
+      "numero": "55615",
+      "votos": 244,
+      "percentual": 3.39,
+      "situacao": "Eleito por média",
+      "sqcand": "90002115166"
+    },
+    {
+      "nome": "MAURO JOSE BATISTA PEREIRA",
+      "nomeUrna": "MAURO BATISTA ",
+      "partido": "PL",
+      "numero": "22007",
+      "votos": 198,
+      "percentual": 2.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002375581"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 2266,
+      "percentual": 43.14,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 917,
+      "percentual": 17.46,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 808,
+      "percentual": 15.38,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MAGDA MOFATTO HON",
+      "nomeUrna": "MAGDA MOFATTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1984,
+      "percentual": 35.52,
+      "sqcand": "90001652511"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 763,
+      "percentual": 13.66,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nomeUrna": "MARUSSA BOLDRIN",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 429,
+      "percentual": 7.68,
+      "sqcand": "90001621102"
+    },
+    {
+      "nome": "PAULO CEZAR KRAUSPENHAR",
+      "nomeUrna": "PAULO TRABALHO",
+      "partido": "PL",
+      "numero": "2290",
+      "votos": 370,
+      "percentual": 6.62,
+      "sqcand": "90001652519"
+    },
+    {
+      "nome": "SABRINA GARCEZ HENRIQUE SILVA",
+      "nomeUrna": "SABRINA GARCEZ",
+      "partido": "REPUBLICANOS",
+      "numero": "1033",
+      "votos": 340,
+      "percentual": 6.09,
+      "sqcand": "90001651348"
+    },
+    {
+      "nome": "LUIZ CARLOS PIMENTA",
+      "nomeUrna": "LUIZ CARLOS PIMENTINHA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7799",
+      "votos": 189,
+      "percentual": 3.38,
+      "sqcand": "90001615695"
+    },
+    {
+      "nome": "LUCAS DE CASTRO SANTOS",
+      "nomeUrna": "LUCAS VERGÍLIO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 189,
+      "percentual": 3.38,
+      "sqcand": "90001615694"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CLAUDIO OLINTO MEIRELLES",
+      "nomeUrna": "CLAUDIO MEIRELLES",
+      "partido": "PL",
+      "numero": "22690",
+      "votos": 992,
+      "percentual": 18.85,
+      "sqcand": "90001653803"
+    },
+    {
+      "nome": "ALESSANDRO MOREIRA DOS SANTOS",
+      "nomeUrna": "ALESSANDRO MOREIRA",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 698,
+      "percentual": 13.26,
+      "sqcand": "90001712181"
+    },
+    {
+      "nome": "GEORGE MORAIS FERREIRA",
+      "nomeUrna": "DR GEORGE MORAIS",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 519,
+      "percentual": 9.86,
+      "sqcand": "90001611924"
+    },
+    {
+      "nome": "TALLES ALVES BARRETO",
+      "nomeUrna": "TALLES BARRETO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 400,
+      "percentual": 7.6,
+      "sqcand": "90001648411"
+    },
+    {
+      "nome": "LUIZ GUSTAVO ROSA SAMPAIO",
+      "nomeUrna": "LUIZ SAMPAIO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 348,
+      "percentual": 6.61,
+      "sqcand": "90001643092"
+    },
+    {
+      "nome": "HENRIQUE PAULISTA ARANTES",
+      "nomeUrna": "HENRIQUE ARANTES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 288,
+      "percentual": 5.47,
+      "sqcand": "90001653185"
+    },
+    {
+      "nome": "DOMINGAS OLIVEIRA DE SOUSA",
+      "nomeUrna": "DOMINGAS DA SAÚDE",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 145,
+      "percentual": 2.76,
+      "sqcand": "90001653189"
+    }
+  ]
+}

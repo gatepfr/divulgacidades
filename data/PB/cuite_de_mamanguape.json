@@ -1,0 +1,271 @@
+{
+  "populacao": 8051,
+  "votosValidos": 6638,
+  "abstencao": 13.3,
+  "prefeito": {
+    "nome": "HÉLIO SEVERINO DE SOUZA",
+    "nomeUrna": "HELHINHO SOUZA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3633,
+    "percentual": 54.73,
+    "situacao": "Eleito",
+    "sqcand": "150002011281",
+    "vice": "FÁTIMA DAYANE MEIRELES DANTAS",
+    "viceNomeUrna": "DAYANE DANTAS",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "150002011282",
+    "coligacao": "PP / PDT / SOLIDARIEDADE / PL / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSIVALDO MANOEL DA SILVA",
+      "nomeUrna": "JOSIVALDO DE CANABRAVA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 367,
+      "percentual": 5.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002042031"
+    },
+    {
+      "nome": "ELIVÂNIA MARIA DA SILVA SANTOS",
+      "nomeUrna": "ELIVANIA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 336,
+      "percentual": 4.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002133352"
+    },
+    {
+      "nome": "JOÃO BATISTA DOS SANTOS",
+      "nomeUrna": "JOQUINHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 327,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "150002133092"
+    },
+    {
+      "nome": "TATIANE DOMINGOS DA SILVA",
+      "nomeUrna": "TATI DO POVO",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 313,
+      "percentual": 4.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002042027"
+    },
+    {
+      "nome": "LUCIANO DA SILVA MORAIS",
+      "nomeUrna": "LUCIANO DO TRATOR",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 311,
+      "percentual": 4.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002133355"
+    },
+    {
+      "nome": "LEONILDO DA GAMA PEREIRA",
+      "nomeUrna": "NILDO DO ÔNIBUS",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 309,
+      "percentual": 4.58,
+      "situacao": "Eleito por média",
+      "sqcand": "150002133354"
+    },
+    {
+      "nome": "LUIZ FERNANDO DA SILVA",
+      "nomeUrna": "FERNANDO DO ARROZ",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 254,
+      "percentual": 3.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002137050"
+    },
+    {
+      "nome": "SEVERINO PEDRO DE LIMA",
+      "nomeUrna": "BIU DA GALINHA",
+      "partido": "UNIÃO",
+      "numero": "44678",
+      "votos": 235,
+      "percentual": 3.48,
+      "situacao": "Eleito por média",
+      "sqcand": "150002137057"
+    },
+    {
+      "nome": "IRANEIDE RODRIGUES MAXIMO",
+      "nomeUrna": "NEIDE DA LAGOA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77555",
+      "votos": 211,
+      "percentual": 3.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002042131"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "BRUNO FIGUEIREDO ROBERTO",
+      "nomeUrna": "BRUNO ROBERTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1523,
+      "percentual": 34.22,
+      "sqcand": "150001718240"
+    },
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1384,
+      "percentual": 31.1,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 1131,
+      "percentual": 25.42,
+      "sqcand": "150001643372"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ WELLINGTON ROBERTO",
+      "nomeUrna": "WELLINGTON ROBERTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1380,
+      "percentual": 29.2,
+      "sqcand": "150001718233"
+    },
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 657,
+      "percentual": 13.9,
+      "sqcand": "150001619544"
+    },
+    {
+      "nome": "ROMERO RODRIGUES VEIGA",
+      "nomeUrna": "ROMERO RODRIGUES",
+      "partido": "PSC",
+      "numero": "2011",
+      "votos": 545,
+      "percentual": 11.53,
+      "sqcand": "150001612086"
+    },
+    {
+      "nome": "RUY MANUEL CARNEIRO BARBOSA DE AÇA BELCHIOR",
+      "nomeUrna": "RUY CARNEIRO",
+      "partido": "PSC",
+      "numero": "2030",
+      "votos": 509,
+      "percentual": 10.77,
+      "sqcand": "150001612089"
+    },
+    {
+      "nome": "DAMIÃO FELICIANO DA SILVA",
+      "nomeUrna": "DR. DAMIÃO",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 371,
+      "percentual": 7.85,
+      "sqcand": "150001603195"
+    },
+    {
+      "nome": "RICARDO BARBOSA",
+      "nomeUrna": "RICARDO BARBOSA",
+      "partido": "PSB",
+      "numero": "4022",
+      "votos": 324,
+      "percentual": 6.86,
+      "sqcand": "150001621684"
+    },
+    {
+      "nome": "GULLIEM CHARLES BEZERRA LEMOS",
+      "nomeUrna": "JULIAN LEMOS",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 141,
+      "percentual": 2.98,
+      "sqcand": "150001603201"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EDUARDO JORGE SOARES CARNEIRO",
+      "nomeUrna": "EDUARDO CARNEIRO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77222",
+      "votos": 1619,
+      "percentual": 35.31,
+      "sqcand": "150001620808"
+    },
+    {
+      "nome": "DANIELLE DO NASCIMENTO RODRIGUES PESSOA",
+      "nomeUrna": "DANIELLE DO VALE",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 940,
+      "percentual": 20.5,
+      "sqcand": "150001619567"
+    },
+    {
+      "nome": "CAMILA ARAUJO TOSCANO",
+      "nomeUrna": "CAMILA TOSCANO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 623,
+      "percentual": 13.59,
+      "sqcand": "150001621355"
+    },
+    {
+      "nome": "EDUARDO CARNEIRO DE BRITO",
+      "nomeUrna": "DR. EDUARDO BRITO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 481,
+      "percentual": 10.49,
+      "sqcand": "150001620828"
+    },
+    {
+      "nome": "TANILSON TARSO NOBREGA SOARES",
+      "nomeUrna": "TANILSON SOARES",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 279,
+      "percentual": 6.09,
+      "sqcand": "150001621658"
+    },
+    {
+      "nome": "FELIPE MATOS LEITÃO",
+      "nomeUrna": "FELIPE LEITÃO",
+      "partido": "PSD",
+      "numero": "55999",
+      "votos": 52,
+      "percentual": 1.13,
+      "sqcand": "150001620790"
+    },
+    {
+      "nome": "JOAO GONÇALVES DE AMORIM SOBRINHO",
+      "nomeUrna": "JOAO GONÇALVES",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 34,
+      "percentual": 0.74,
+      "sqcand": "150001621669"
+    }
+  ]
+}

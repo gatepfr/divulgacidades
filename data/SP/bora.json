@@ -1,0 +1,271 @@
+{
+  "populacao": 1094,
+  "votosValidos": 727,
+  "abstencao": 10.79,
+  "prefeito": {
+    "nome": "LUIZ CARLOS RODRIGUES",
+    "nomeUrna": "LUIZ",
+    "partido": "PODE",
+    "numero": "20",
+    "votos": 727,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "250001954915",
+    "vice": "CLAUDIO AUGUSTO MERCI",
+    "viceNomeUrna": "CLAUDIO MERCI",
+    "partidoVice": "PSD",
+    "sqcandVice": "250001954916",
+    "coligacao": "MDB / PODE / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "PAULO ROBERTO GONÇALVES GUSMÃO",
+      "nomeUrna": "PAULINHO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 99,
+      "percentual": 10.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001955309"
+    },
+    {
+      "nome": "IGOR DONISETE GUIDO",
+      "nomeUrna": "IGOR MOTORISTA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 87,
+      "percentual": 9.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001955146"
+    },
+    {
+      "nome": "PAULO SÉRGIO DOS SANTOS",
+      "nomeUrna": "PAULO MECANICO",
+      "partido": "MDB",
+      "numero": "15650",
+      "votos": 81,
+      "percentual": 8.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001955313"
+    },
+    {
+      "nome": "ADVALDO CELESTINO TEIXEIRA",
+      "nomeUrna": "DU",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 63,
+      "percentual": 6.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001996178"
+    },
+    {
+      "nome": "CECILIA MACEDO DE AMORIM",
+      "nomeUrna": "CECILIA MACEDO",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 59,
+      "percentual": 6.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001955142"
+    },
+    {
+      "nome": "DANILO PIETRO",
+      "nomeUrna": "DANILO DO AÇOUGUE",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 51,
+      "percentual": 5.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001955140"
+    },
+    {
+      "nome": "PEDRO CORREIA DA COSTA",
+      "nomeUrna": "PEDRO CORREIA",
+      "partido": "PSD",
+      "numero": "55520",
+      "votos": 46,
+      "percentual": 4.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001996180"
+    },
+    {
+      "nome": "IVANETE MAXIMINA DE CARVALHO",
+      "nomeUrna": "NETE",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 38,
+      "percentual": 4.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001955317"
+    },
+    {
+      "nome": "LUIZ ANTONIO VINHANDO",
+      "nomeUrna": "LUIZ SERINGUEIRA",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 35,
+      "percentual": 3.77,
+      "situacao": "Eleito por média",
+      "sqcand": "250001955308"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 364,
+      "percentual": 50.21,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 183,
+      "percentual": 25.24,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "JOSÉ ALDO REBELO FIGUEIREDO",
+      "nomeUrna": "ALDO REBELO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 134,
+      "percentual": 18.48,
+      "sqcand": "250001639699"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "WALTER SHINDI IIHOSHI",
+      "nomeUrna": "WALTER IHOSHI",
+      "partido": "PSD",
+      "numero": "5570",
+      "votos": 128,
+      "percentual": 16.93,
+      "sqcand": "250001604962"
+    },
+    {
+      "nome": "REINALDO DE SOUZA ALGUZ",
+      "nomeUrna": "REINALDO ALGUZ",
+      "partido": "UNIÃO",
+      "numero": "4436",
+      "votos": 95,
+      "percentual": 12.57,
+      "sqcand": "250001602077"
+    },
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 70,
+      "percentual": 9.26,
+      "sqcand": "250001611345"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 33,
+      "percentual": 4.37,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "JEFFERSON ALVES DE CAMPOS",
+      "nomeUrna": "JEFFERSON CAMPOS",
+      "partido": "PL",
+      "numero": "2274",
+      "votos": 29,
+      "percentual": 3.84,
+      "sqcand": "250001611329"
+    },
+    {
+      "nome": "NILTO IGNÁCIO TATTO",
+      "nomeUrna": "NILTO TATTO",
+      "partido": "PT",
+      "numero": "1353",
+      "votos": 27,
+      "percentual": 3.57,
+      "sqcand": "250001610688"
+    },
+    {
+      "nome": "APARECIDO SARAIVA DA ROCHA",
+      "nomeUrna": "CIDO SARAIVA",
+      "partido": "MDB",
+      "numero": "1558",
+      "votos": 20,
+      "percentual": 2.65,
+      "sqcand": "250001611276"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 140,
+      "percentual": 19.44,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "RICARDO ROSSI MADALENA",
+      "nomeUrna": "RICARDO MADALENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 104,
+      "percentual": 14.44,
+      "sqcand": "250001610138"
+    },
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 50,
+      "percentual": 6.94,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "nomeUrna": "DANI ALONSO",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 43,
+      "percentual": 5.97,
+      "sqcand": "250001610113"
+    },
+    {
+      "nome": "CARLOS CEZAR DA SILVA",
+      "nomeUrna": "CARLOS CEZAR",
+      "partido": "PL",
+      "numero": "22112",
+      "votos": 35,
+      "percentual": 4.86,
+      "sqcand": "250001610158"
+    },
+    {
+      "nome": "MARIANA ROSSETO SANTOS",
+      "nomeUrna": "PROFESSORA MARIANA",
+      "partido": "PT",
+      "numero": "13147",
+      "votos": 32,
+      "percentual": 4.44,
+      "sqcand": "250001611742"
+    },
+    {
+      "nome": "SÉRGIO DONIZETE FERREIRA",
+      "nomeUrna": "AGENTE POLICIAL SERGINHO",
+      "partido": "PODE",
+      "numero": "19196",
+      "votos": 26,
+      "percentual": 3.61,
+      "sqcand": "250001610462"
+    }
+  ]
+}

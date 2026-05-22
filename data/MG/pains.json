@@ -1,0 +1,271 @@
+{
+  "populacao": 7063,
+  "votosValidos": 5985,
+  "abstencao": 13.61,
+  "prefeito": {
+    "nome": "ITAMAR RAFAEL DE CASTRO",
+    "nomeUrna": "ITAMAR DA TAMAFE",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 3155,
+    "percentual": 52.72,
+    "situacao": "Eleito",
+    "sqcand": "130001970112",
+    "vice": "PEDRO HENRIQUE MARIANO VILELA",
+    "viceNomeUrna": "PEDRO VILELA",
+    "partidoVice": "PL",
+    "sqcandVice": "130001970111",
+    "coligacao": "PDT / PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "THIAGO SILVA MELO",
+      "nomeUrna": "THIAGO DO HOSPITAL",
+      "partido": "PV",
+      "numero": "43555",
+      "votos": 470,
+      "percentual": 7.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001970484"
+    },
+    {
+      "nome": "GERALDO ÉDER DA SILVA",
+      "nomeUrna": "NENÉM DO VELOSO",
+      "partido": "PV",
+      "numero": "43222",
+      "votos": 407,
+      "percentual": 6.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001970481"
+    },
+    {
+      "nome": "WEULIS FRANCISCO DOS SANTOS",
+      "nomeUrna": "WEULIS SANTOS",
+      "partido": "PV",
+      "numero": "43777",
+      "votos": 347,
+      "percentual": 5.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001970482"
+    },
+    {
+      "nome": "EDUARDO DA SILVA",
+      "nomeUrna": "EDUARDO TOMÁS",
+      "partido": "UNIÃO",
+      "numero": "44602",
+      "votos": 280,
+      "percentual": 4.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002158082"
+    },
+    {
+      "nome": "MARCELO DONIZETTI DA CUNHA",
+      "nomeUrna": "MARCELO DETETIVE",
+      "partido": "PV",
+      "numero": "43197",
+      "votos": 266,
+      "percentual": 4.49,
+      "situacao": "Eleito por média",
+      "sqcand": "130001970483"
+    },
+    {
+      "nome": "ROSIMAR MACHADO",
+      "nomeUrna": "ROSIMAR MACHADO",
+      "partido": "PV",
+      "numero": "43999",
+      "votos": 232,
+      "percentual": 3.92,
+      "situacao": "Eleito por média",
+      "sqcand": "130001970479"
+    },
+    {
+      "nome": "ROBSON SOARES CAMBRAIA",
+      "nomeUrna": "ROBSON CAMBRAIA",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 210,
+      "percentual": 3.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002157162"
+    },
+    {
+      "nome": "JOAO DE OLIVEIRA COSTA",
+      "nomeUrna": "JOÃO DA MERENDA",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 177,
+      "percentual": 2.99,
+      "situacao": "Eleito por média",
+      "sqcand": "130002067512"
+    },
+    {
+      "nome": "ANDERSON CAMARGO DA FONSECA",
+      "nomeUrna": "SANSÃO",
+      "partido": "PP",
+      "numero": "11500",
+      "votos": 172,
+      "percentual": 2.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002111642"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 2707,
+      "percentual": 57.35,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1594,
+      "percentual": 33.77,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 370,
+      "percentual": 7.84,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ODAIR JOSÉ DA CUNHA",
+      "nomeUrna": "ODAIR CUNHA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 1942,
+      "percentual": 40.08,
+      "sqcand": "130001607254"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 640,
+      "percentual": 13.21,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "RODRIGO BATISTA DE CASTRO",
+      "nomeUrna": "RODRIGO DE CASTRO",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 451,
+      "percentual": 9.31,
+      "sqcand": "130001607620"
+    },
+    {
+      "nome": "LUIZ FERNANDO RAMOS FARIA",
+      "nomeUrna": "LUIZ FERNANDO",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 293,
+      "percentual": 6.05,
+      "sqcand": "130001604306"
+    },
+    {
+      "nome": "EMIDIO ALVES MADEIRA JUNIOR",
+      "nomeUrna": "EMIDINHO MADEIRA",
+      "partido": "PL",
+      "numero": "2240",
+      "votos": 141,
+      "percentual": 2.91,
+      "sqcand": "130001611018"
+    },
+    {
+      "nome": "FREDERICO BORGES DA COSTA",
+      "nomeUrna": "FRED COSTA",
+      "partido": "PATRIOTA",
+      "numero": "5133",
+      "votos": 134,
+      "percentual": 2.77,
+      "sqcand": "130001596009"
+    },
+    {
+      "nome": "DENILSON FRANCISCO TEIXEIRA",
+      "nomeUrna": "DENILSON TEIXEIRA",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 122,
+      "percentual": 2.52,
+      "sqcand": "130001604333"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ULYSSES GOMES DE OLIVEIRA NETO",
+      "nomeUrna": "ULYSSES GOMES",
+      "partido": "PT",
+      "numero": "13077",
+      "votos": 988,
+      "percentual": 21.13,
+      "sqcand": "130001607390"
+    },
+    {
+      "nome": "ANTONIO CARLOS ARANTES",
+      "nomeUrna": "ANTONIO CARLOS ARANTES",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 758,
+      "percentual": 16.21,
+      "sqcand": "130001619030"
+    },
+    {
+      "nome": "CATHYA GUIMÁRIA GOULART",
+      "nomeUrna": "KATIA GOULART",
+      "partido": "PATRIOTA",
+      "numero": "51333",
+      "votos": 725,
+      "percentual": 15.51,
+      "sqcand": "130001596324"
+    },
+    {
+      "nome": "JOSÉ GERALDO DA CUNHA",
+      "nomeUrna": "CABO CUNHA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 377,
+      "percentual": 8.06,
+      "sqcand": "130001607736"
+    },
+    {
+      "nome": "WENDEL CRISTIANO SOARES DE MESQUITA",
+      "nomeUrna": "PROFESSOR WENDEL MESQUITA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 292,
+      "percentual": 6.25,
+      "sqcand": "130001613029"
+    },
+    {
+      "nome": "NACIB DUARTE BECHIR",
+      "nomeUrna": "DUARTE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 265,
+      "percentual": 5.67,
+      "sqcand": "130001604390"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 166,
+      "percentual": 3.55,
+      "sqcand": "130001619045"
+    }
+  ]
+}

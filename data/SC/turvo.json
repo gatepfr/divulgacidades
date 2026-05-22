@@ -1,0 +1,271 @@
+{
+  "populacao": 10270,
+  "votosValidos": 9014,
+  "abstencao": 10.63,
+  "prefeito": {
+    "nome": "HERIBERTO AFONSO SCHMIDT",
+    "nomeUrna": "HERIBERTO AFONSO SCHMIDT",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3670,
+    "percentual": 40.71,
+    "situacao": "Eleito",
+    "sqcand": "240002361757",
+    "vice": "LAERTE CORREA CASAGRANDE",
+    "viceNomeUrna": "LAERTE CASAGRANDE",
+    "partidoVice": "PSDB",
+    "sqcandVice": "240002361756",
+    "coligacao": "MDB / CIDADANIA / PSDB / REPUBLICANOS / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ROGERIO DAGOSTIN",
+      "nomeUrna": "ROGÉRIO DAGOSTIN",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 587,
+      "percentual": 6.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002360061"
+    },
+    {
+      "nome": "VALCIR VASSOLER MILANEZ",
+      "nomeUrna": "VALCIR ZEBRA",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 565,
+      "percentual": 6.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002358869"
+    },
+    {
+      "nome": "CLAUDIO BERNARDINO JANUARIO",
+      "nomeUrna": "CLÁUDIO JANUÁRIO",
+      "partido": "PP",
+      "numero": "11470",
+      "votos": 535,
+      "percentual": 5.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002360060"
+    },
+    {
+      "nome": "IVONIR ARCARO",
+      "nomeUrna": "NEJA ARCARO",
+      "partido": "PL",
+      "numero": "22202",
+      "votos": 509,
+      "percentual": 5.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002360738"
+    },
+    {
+      "nome": "LAONE COELHO",
+      "nomeUrna": "LAONE COELHO",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 487,
+      "percentual": 5.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002323130"
+    },
+    {
+      "nome": "RENATA PACHECO RIBEIRO",
+      "nomeUrna": "RENATA DA SAÚDE",
+      "partido": "PP",
+      "numero": "11192",
+      "votos": 477,
+      "percentual": 5.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002360059"
+    },
+    {
+      "nome": "RENATO OSVALDINO FAVARO",
+      "nomeUrna": "RENATO FAVARO",
+      "partido": "MDB",
+      "numero": "15520",
+      "votos": 460,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002358871"
+    },
+    {
+      "nome": "ALESSANDRA MANENTI BÚRIGO",
+      "nomeUrna": "MANA BÚRIGO",
+      "partido": "PP",
+      "numero": "11670",
+      "votos": 385,
+      "percentual": 4.29,
+      "situacao": "Eleito por média",
+      "sqcand": "240002360064"
+    },
+    {
+      "nome": "CLEONICE LIMA SILVANO",
+      "nomeUrna": "CLEONICE LIMA SILVANO",
+      "partido": "MDB",
+      "numero": "15515",
+      "votos": 376,
+      "percentual": 4.19,
+      "situacao": "Eleito por média",
+      "sqcand": "240002358873"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3264,
+      "percentual": 42.72,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CLARIKENNEDY NUNES",
+      "nomeUrna": "KENNEDY NUNES",
+      "partido": "PTB",
+      "numero": "142",
+      "votos": 1870,
+      "percentual": 24.47,
+      "sqcand": "240001644895"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1243,
+      "percentual": 16.27,
+      "sqcand": "240001647359"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nomeUrna": "JULIA ZANATTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 967,
+      "percentual": 12.37,
+      "sqcand": "240001610974"
+    },
+    {
+      "nome": "DANIEL COSTA DE FREITAS",
+      "nomeUrna": "DANIEL FREITAS",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 797,
+      "percentual": 10.19,
+      "sqcand": "240001610972"
+    },
+    {
+      "nome": "ADA LILI FARACO DE LUCA",
+      "nomeUrna": "ADA DE LUCA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 744,
+      "percentual": 9.51,
+      "sqcand": "240001602687"
+    },
+    {
+      "nome": "LUIZ FERNANDO CARDOSO",
+      "nomeUrna": "VAMPIRO",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 710,
+      "percentual": 9.08,
+      "sqcand": "240001602682"
+    },
+    {
+      "nome": "VALMIR FRANCISCO COMIN",
+      "nomeUrna": "VALMIR COMIN",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 704,
+      "percentual": 9.0,
+      "sqcand": "240001644890"
+    },
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 450,
+      "percentual": 5.75,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "JEFERSON CARDOZO",
+      "nomeUrna": "PROF JEFERSON",
+      "partido": "PTB",
+      "numero": "1411",
+      "votos": 366,
+      "percentual": 4.68,
+      "sqcand": "240001610786"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TIAGO ZILLI",
+      "nomeUrna": "TIAGO ZILLI",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 3019,
+      "percentual": 38.08,
+      "sqcand": "240001605911"
+    },
+    {
+      "nome": "JOSÉ MILTON SCHEFFER",
+      "nomeUrna": "ZÉ MILTON",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 1559,
+      "percentual": 19.66,
+      "sqcand": "240001644756"
+    },
+    {
+      "nome": "VOLNEI WEBER",
+      "nomeUrna": "VOLNEI WEBER",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 381,
+      "percentual": 4.81,
+      "sqcand": "240001605921"
+    },
+    {
+      "nome": "JESSÉ DE FARIA LOPES",
+      "nomeUrna": "JESSÉ LOPES",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 380,
+      "percentual": 4.79,
+      "sqcand": "240001614350"
+    },
+    {
+      "nome": "ANDRÉ CASAGRANDE TEIXEIRA",
+      "nomeUrna": "ANDRÉ CASAGRANDE",
+      "partido": "NOVO",
+      "numero": "30300",
+      "votos": 353,
+      "percentual": 4.45,
+      "sqcand": "240001597543"
+    },
+    {
+      "nome": "MAURO DE NADAL",
+      "nomeUrna": "MAURO DE NADAL",
+      "partido": "MDB",
+      "numero": "15220",
+      "votos": 189,
+      "percentual": 2.38,
+      "sqcand": "240001605913"
+    },
+    {
+      "nome": "RODRIGO MINOTTO",
+      "nomeUrna": "RODRIGO MINOTTO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 175,
+      "percentual": 2.21,
+      "sqcand": "240001644398"
+    }
+  ]
+}

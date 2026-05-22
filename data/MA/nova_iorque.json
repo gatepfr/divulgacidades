@@ -1,0 +1,271 @@
+{
+  "populacao": 4242,
+  "votosValidos": 3562,
+  "abstencao": 13.74,
+  "prefeito": {
+    "nome": "DANIEL FRANCO DE CASTRO",
+    "nomeUrna": "DANIEL CASTRO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2040,
+    "percentual": 57.27,
+    "situacao": "Eleito",
+    "sqcand": "100002135533",
+    "vice": "EVA MARIA PEREIRA VIEIRA",
+    "viceNomeUrna": "EVA VIEIRA",
+    "partidoVice": "MOBILIZA",
+    "sqcandVice": "100002135532",
+    "coligacao": "REPUBLICANOS / MDB / MOBILIZA / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "FRANCIMARIO DE SOUSA GONCALVES",
+      "nomeUrna": "MARIN DA EVA VIEIRA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 391,
+      "percentual": 10.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002135911"
+    },
+    {
+      "nome": "WASHINGTON CARVALHO ALVES",
+      "nomeUrna": "WASHINGTON CARVALHO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 302,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002135492"
+    },
+    {
+      "nome": "KATY MILA MORAIS LIMA",
+      "nomeUrna": "KATY MILA ENFERMEIRA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 284,
+      "percentual": 7.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002301289"
+    },
+    {
+      "nome": "FRANCISCO SEBASTIAO DE SOUSA",
+      "nomeUrna": "CHICO DO BARIN",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 263,
+      "percentual": 7.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002135487"
+    },
+    {
+      "nome": "NILSON CONSTATINO PORTO",
+      "nomeUrna": "NILSON PORTO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 235,
+      "percentual": 6.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002324135"
+    },
+    {
+      "nome": "JOAO ALVES BATISTA",
+      "nomeUrna": "LALÔ DO PROGRESSO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 231,
+      "percentual": 6.39,
+      "situacao": "Eleito por média",
+      "sqcand": "100002135489"
+    },
+    {
+      "nome": "FLORENCIO SANTANA LOPES",
+      "nomeUrna": "NETO RICO",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 228,
+      "percentual": 6.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002135914"
+    },
+    {
+      "nome": "LUIZ CARLOS DA COSTA AGUIAR",
+      "nomeUrna": "LUIZ CARLOS",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 206,
+      "percentual": 5.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002324141"
+    },
+    {
+      "nome": "ARLIS DE OLIVEIRA BEZERRA",
+      "nomeUrna": "JABA DO POVO",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 158,
+      "percentual": 4.37,
+      "situacao": "Eleito por média",
+      "sqcand": "100002135912"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 2247,
+      "percentual": 81.77,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 494,
+      "percentual": 17.98,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 3,
+      "percentual": 0.11,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ LOURENÇO BONFIM JÚNIOR",
+      "nomeUrna": "JÚNIOR LOURENÇO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 1084,
+      "percentual": 37.73,
+      "sqcand": "100001603111"
+    },
+    {
+      "nome": "MARCIO JERRY SARAIVA BARROSO",
+      "nomeUrna": "MARCIO JERRY",
+      "partido": "PC do B",
+      "numero": "6513",
+      "votos": 716,
+      "percentual": 24.92,
+      "sqcand": "100001613708"
+    },
+    {
+      "nome": "HILDO AUGUSTO DA ROCHA NETO",
+      "nomeUrna": "HILDO ROCHA",
+      "partido": "MDB",
+      "numero": "1516",
+      "votos": 356,
+      "percentual": 12.39,
+      "sqcand": "100001599078"
+    },
+    {
+      "nome": "ANTÔNIO ELIZABETH GONÇALO DE SOUSA",
+      "nomeUrna": "COLETIVO DR. GONÇALO",
+      "partido": "PODE",
+      "numero": "1933",
+      "votos": 170,
+      "percentual": 5.92,
+      "sqcand": "100001614972"
+    },
+    {
+      "nome": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+      "nomeUrna": "AMANDA GENTIL ",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 167,
+      "percentual": 5.81,
+      "sqcand": "100001608073"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CARVALHO RIBEIRO",
+      "nomeUrna": "ANDRÉ FUFUCA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 57,
+      "percentual": 1.98,
+      "sqcand": "100001608075"
+    },
+    {
+      "nome": "MÁRCIO JOSÉ DE OLIVEIRA LIMA",
+      "nomeUrna": "MÁRCIO KIZOEIRA",
+      "partido": "PATRIOTA",
+      "numero": "5151",
+      "votos": 46,
+      "percentual": 1.6,
+      "sqcand": "100001608215"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARISTON RIBEIRO DE SOUSA",
+      "nomeUrna": "ARISTON GONÇALO",
+      "partido": "PSB",
+      "numero": "40233",
+      "votos": 1056,
+      "percentual": 38.5,
+      "sqcand": "100001607069"
+    },
+    {
+      "nome": "OTHELINO NOVA ALVES NETO",
+      "nomeUrna": "OTHELINO NETO",
+      "partido": "PC do B",
+      "numero": "65065",
+      "votos": 663,
+      "percentual": 24.17,
+      "sqcand": "100001613745"
+    },
+    {
+      "nome": "MATHEUS MOTA GONÇALO",
+      "nomeUrna": "MATHEUS MOTA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 284,
+      "percentual": 10.35,
+      "sqcand": "100001619970"
+    },
+    {
+      "nome": "DANIELLA JADÃO MENESES",
+      "nomeUrna": "DANIELLA",
+      "partido": "PSB",
+      "numero": "40258",
+      "votos": 199,
+      "percentual": 7.25,
+      "sqcand": "100001607072"
+    },
+    {
+      "nome": "AUGUSTO INÁCIO PINHEIRO JUNIOR",
+      "nomeUrna": "JÚNIOR CASCARIA",
+      "partido": "PODE",
+      "numero": "19888",
+      "votos": 108,
+      "percentual": 3.94,
+      "sqcand": "100001614806"
+    },
+    {
+      "nome": "ADELMO DE ANDRADE SOARES",
+      "nomeUrna": "ADELMO SOARES",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 57,
+      "percentual": 2.08,
+      "sqcand": "100001607087"
+    },
+    {
+      "nome": "VIVIANNE MARTINS COELHO E SILVA",
+      "nomeUrna": "DRA VIVIANNE",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 44,
+      "percentual": 1.6,
+      "sqcand": "100001599580"
+    }
+  ]
+}

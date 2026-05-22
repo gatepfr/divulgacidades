@@ -1,0 +1,271 @@
+{
+  "populacao": 7542,
+  "votosValidos": 6592,
+  "abstencao": 10.87,
+  "prefeito": {
+    "nome": "MARCOS MIGUEL BEUX",
+    "nomeUrna": "MARCOS BEUX",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 4431,
+    "percentual": 67.22,
+    "situacao": "Eleito",
+    "sqcand": "210002265237",
+    "vice": "VITOR  ROQUE CAVAZINI",
+    "viceNomeUrna": "VITOR CAVAZINI",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002265236",
+    "coligacao": "PDT / MDB / PP / CIDADANIA / PSDB / UNIÃO / PSD / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "TIAGO ANTÔNIO SOARES",
+      "nomeUrna": "TIAGÃO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 690,
+      "percentual": 10.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002265984"
+    },
+    {
+      "nome": "LIZANE GRACIOLLI PANDOLFI",
+      "nomeUrna": "LIZANE GRACIOLLI PANDOLFI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 623,
+      "percentual": 9.54,
+      "situacao": "Eleito por média",
+      "sqcand": "210002265983"
+    },
+    {
+      "nome": "SANDRO GADINI",
+      "nomeUrna": "SANDRO GADINI",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 528,
+      "percentual": 8.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002350784"
+    },
+    {
+      "nome": "LUCIMAR ZANCHET",
+      "nomeUrna": "NEGO ZANCHET",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 524,
+      "percentual": 8.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002266225"
+    },
+    {
+      "nome": "EDIVAN LUNARDI",
+      "nomeUrna": "EDIVAN LUNARDI",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 510,
+      "percentual": 7.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002266230"
+    },
+    {
+      "nome": "BRAULIO ROBERTO ALVES",
+      "nomeUrna": "BRAULIO ALVES",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 424,
+      "percentual": 6.49,
+      "situacao": "Eleito por média",
+      "sqcand": "210002265987"
+    },
+    {
+      "nome": "JULIANO RUBENS PEREGO",
+      "nomeUrna": "JULIANO PEREGO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 335,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002266228"
+    },
+    {
+      "nome": "SILVANIO ROQUE LUCCA",
+      "nomeUrna": "LUCCA",
+      "partido": "PT",
+      "numero": "13513",
+      "votos": 319,
+      "percentual": 4.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002350778"
+    },
+    {
+      "nome": "KLEBER LUIS CIVARDI",
+      "nomeUrna": "GALO",
+      "partido": "PT",
+      "numero": "13630",
+      "votos": 294,
+      "percentual": 4.5,
+      "situacao": "Eleito por média",
+      "sqcand": "210002350786"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2987,
+      "percentual": 53.38,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2062,
+      "percentual": 36.85,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 520,
+      "percentual": 9.29,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 1919,
+      "percentual": 33.54,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1058,
+      "percentual": 18.49,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 398,
+      "percentual": 6.96,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 241,
+      "percentual": 4.21,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 238,
+      "percentual": 4.16,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 208,
+      "percentual": 3.64,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 186,
+      "percentual": 3.25,
+      "sqcand": "210001621256"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GERRI SAWARIS",
+      "nomeUrna": "GERRI SAWARIS",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 1261,
+      "percentual": 23.32,
+      "sqcand": "210001610610"
+    },
+    {
+      "nome": "GILBERTO CAPOANI",
+      "nomeUrna": "GILBERTO CAPOANI",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 418,
+      "percentual": 7.73,
+      "sqcand": "210001647990"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 341,
+      "percentual": 6.31,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 309,
+      "percentual": 5.71,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 309,
+      "percentual": 5.71,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "GILMAR SOSSELLA",
+      "nomeUrna": "SOSSELLA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 230,
+      "percentual": 4.25,
+      "sqcand": "210001621287"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 165,
+      "percentual": 3.05,
+      "sqcand": "210001601942"
+    }
+  ]
+}

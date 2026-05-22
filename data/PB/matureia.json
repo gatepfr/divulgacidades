@@ -1,0 +1,271 @@
+{
+  "populacao": 5854,
+  "votosValidos": 4749,
+  "abstencao": 15.65,
+  "prefeito": {
+    "nome": "ELIANDRO MACEDO SANTOS",
+    "nomeUrna": "LEANDRO LAIA",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 2625,
+    "percentual": 55.27,
+    "situacao": "Eleito",
+    "sqcand": "150002118881",
+    "vice": "GLEUSON DINIZ LIMA",
+    "viceNomeUrna": "GLEUSON DE DEDA",
+    "partidoVice": "PSDB",
+    "sqcandVice": "150002118880",
+    "coligacao": "REPUBLICANOS / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "BRUNO WANDERLEY RAMOS MONTEIRO",
+      "nomeUrna": "BRUNO WANDERLEY",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 442,
+      "percentual": 9.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002132910"
+    },
+    {
+      "nome": "NORMAELIO DE LIMA RODRIGUES",
+      "nomeUrna": "PRETA DE NORMACI",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 376,
+      "percentual": 7.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002132912"
+    },
+    {
+      "nome": "FRANCISCO JOSÉ DO NASCIMENTO",
+      "nomeUrna": "CHICO MANÉ",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 347,
+      "percentual": 7.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002132914"
+    },
+    {
+      "nome": "ALADI RAMALHO DA COSTA",
+      "nomeUrna": "ALADIN RAMALHO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 342,
+      "percentual": 7.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001962046"
+    },
+    {
+      "nome": "MATHEUS JERÔNIMO DE AQUINO SILVA",
+      "nomeUrna": "MATHEUS JERÔNIMO",
+      "partido": "REPUBLICANOS",
+      "numero": "10369",
+      "votos": 340,
+      "percentual": 7.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002132919"
+    },
+    {
+      "nome": "EDNALDO BARBOSA DE AMORIM",
+      "nomeUrna": "EDNALDO AMORIM",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 309,
+      "percentual": 6.51,
+      "situacao": "Eleito por média",
+      "sqcand": "150002132916"
+    },
+    {
+      "nome": "JOSE CARLOS ALVES DE SOUZA",
+      "nomeUrna": "CARRINHO DE DECA",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 253,
+      "percentual": 5.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002350320"
+    },
+    {
+      "nome": "JOSÉ JACKES RODRIGUES DO NASCIMENTO",
+      "nomeUrna": "JACKES RODRIGUES",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 217,
+      "percentual": 4.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002350314"
+    },
+    {
+      "nome": "ARIANO DANTAS MONTEIRO",
+      "nomeUrna": "ARIANO DANTAS",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 207,
+      "percentual": 4.36,
+      "situacao": "Eleito por média",
+      "sqcand": "150002350321"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1685,
+      "percentual": 50.71,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 1301,
+      "percentual": 39.15,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 170,
+      "percentual": 5.12,
+      "sqcand": "150001718470"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HUGO MOTTA WANDERLEY DA NOBREGA",
+      "nomeUrna": "HUGO MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 1849,
+      "percentual": 52.68,
+      "sqcand": "150001619545"
+    },
+    {
+      "nome": "LEONARDO DE MELO GADELHA",
+      "nomeUrna": "LÉO GADELHA",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 489,
+      "percentual": 13.93,
+      "sqcand": "150001612080"
+    },
+    {
+      "nome": "GERVASIO AGRIPINO MAIA",
+      "nomeUrna": "GERVASIO MAIA",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 322,
+      "percentual": 9.17,
+      "sqcand": "150001621679"
+    },
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 114,
+      "percentual": 3.25,
+      "sqcand": "150001619544"
+    },
+    {
+      "nome": "ROMERO RODRIGUES VEIGA",
+      "nomeUrna": "ROMERO RODRIGUES",
+      "partido": "PSC",
+      "numero": "2011",
+      "votos": 109,
+      "percentual": 3.11,
+      "sqcand": "150001612086"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 93,
+      "percentual": 2.65,
+      "sqcand": "150001619538"
+    },
+    {
+      "nome": "FRANCISCO EMERSON ASSIS DE LUCENA",
+      "nomeUrna": "MERSINHO LUCENA",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 59,
+      "percentual": 1.68,
+      "sqcand": "150001612074"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADRIANO CEZAR GALDINO DE ARAÚJO",
+      "nomeUrna": "ADRIANO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 1355,
+      "percentual": 40.32,
+      "sqcand": "150001619565"
+    },
+    {
+      "nome": "ANDRE AVELINO DE PAIVA GADELHA NETO",
+      "nomeUrna": "ANDRE GADELHA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 443,
+      "percentual": 13.18,
+      "sqcand": "150001718098"
+    },
+    {
+      "nome": "FRANCISCA GOMES ARAÚJO MOTA",
+      "nomeUrna": "FRANCISCA MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 432,
+      "percentual": 12.85,
+      "sqcand": "150001619570"
+    },
+    {
+      "nome": "ANDERSON MONTEIRO COSTA",
+      "nomeUrna": "ANDERSON MONTEIRO",
+      "partido": "MDB",
+      "numero": "15147",
+      "votos": 255,
+      "percentual": 7.59,
+      "sqcand": "150001718105"
+    },
+    {
+      "nome": "REBECA LOPES DE SOUZA BARROS",
+      "nomeUrna": "TENENTE REBECA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 242,
+      "percentual": 7.2,
+      "sqcand": "150001621371"
+    },
+    {
+      "nome": "JOSÉ ALEDSON DE SOUSA MOURA",
+      "nomeUrna": "DR. ALEDSON MOURA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 68,
+      "percentual": 2.02,
+      "sqcand": "150001603136"
+    },
+    {
+      "nome": "GERMANA NUNES WANDERLEY DE ALENCAR",
+      "nomeUrna": "GERMANA WANDERLEY",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 56,
+      "percentual": 1.67,
+      "sqcand": "150001620827"
+    }
+  ]
+}

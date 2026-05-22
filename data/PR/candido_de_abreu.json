@@ -1,0 +1,271 @@
+{
+  "populacao": 11944,
+  "votosValidos": 9378,
+  "abstencao": 18.78,
+  "prefeito": {
+    "nome": "RENAN MENCK ROMANICHEN",
+    "nomeUrna": "RENAN",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 5858,
+    "percentual": 62.47,
+    "situacao": "Eleito",
+    "sqcand": "160001992336",
+    "vice": "NEWTON RODRIGO KUDREK SOUZA",
+    "viceNomeUrna": "RODRIGO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "160002337363",
+    "coligacao": "PSD / REPUBLICANOS / MDB / UNIÃO / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "ELCIO ERNESTO EICHELBAUM",
+      "nomeUrna": "ELCIO",
+      "partido": "PSD",
+      "numero": "55010",
+      "votos": 780,
+      "percentual": 8.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002067332"
+    },
+    {
+      "nome": "CLAUDINEI ROTA",
+      "nomeUrna": "DINHO ROTA",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 436,
+      "percentual": 4.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002067333"
+    },
+    {
+      "nome": "ALCEU DE JESUS SOUZA BATISTA",
+      "nomeUrna": "ALCEU BATISTA",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 407,
+      "percentual": 4.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002023909"
+    },
+    {
+      "nome": "PEDRO CESAR DERBLI",
+      "nomeUrna": "PEDRO DERBLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 380,
+      "percentual": 4.09,
+      "situacao": "Eleito por média",
+      "sqcand": "160002067335"
+    },
+    {
+      "nome": "MARCELO DOS SANTOS",
+      "nomeUrna": "MARCELINHO MOTORISTA",
+      "partido": "UNIÃO",
+      "numero": "44033",
+      "votos": 330,
+      "percentual": 3.55,
+      "situacao": "Eleito por média",
+      "sqcand": "160002023912"
+    },
+    {
+      "nome": "VITOR REINALDO DOS SANTOS",
+      "nomeUrna": "REINALDO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 309,
+      "percentual": 3.32,
+      "situacao": "Eleito por média",
+      "sqcand": "160002067331"
+    },
+    {
+      "nome": "GUSTAVO PEREIRA MICHALICHEN",
+      "nomeUrna": "GUSTAVO LOCUTOR",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 289,
+      "percentual": 3.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001991802"
+    },
+    {
+      "nome": "JOAO AIRTON DERBLI",
+      "nomeUrna": "ITO",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 226,
+      "percentual": 2.43,
+      "situacao": "Eleito por média",
+      "sqcand": "160002194865"
+    },
+    {
+      "nome": "JOAO EDMAR DERBLI",
+      "nomeUrna": "NEGO TURCO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 207,
+      "percentual": 2.23,
+      "situacao": "Eleito por média",
+      "sqcand": "160002042109"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 2073,
+      "percentual": 26.88,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1706,
+      "percentual": 22.12,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "ALINE SLEUTJES",
+      "nomeUrna": "ALINE SLEUTJES",
+      "partido": "PROS",
+      "numero": "900",
+      "votos": 1400,
+      "percentual": 18.16,
+      "sqcand": "160001654975"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 2033,
+      "percentual": 24.68,
+      "sqcand": "160001622297"
+    },
+    {
+      "nome": "HELOISA IVASZEK JENSEN",
+      "nomeUrna": "PROF HELOISA IVASZEK JENSEN",
+      "partido": "PP",
+      "numero": "1147",
+      "votos": 1759,
+      "percentual": 21.35,
+      "sqcand": "160001603309"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 1015,
+      "percentual": 12.32,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 392,
+      "percentual": 4.76,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 277,
+      "percentual": 3.36,
+      "sqcand": "160001614525"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 269,
+      "percentual": 3.27,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 252,
+      "percentual": 3.06,
+      "sqcand": "160001654655"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARTAGÃO DE MATTOS LEÃO JÚNIOR",
+      "nomeUrna": "ARTAGÃO JÚNIOR",
+      "partido": "PSD",
+      "numero": "55015",
+      "votos": 3124,
+      "percentual": 40.8,
+      "sqcand": "160001623107"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 502,
+      "percentual": 6.56,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 315,
+      "percentual": 4.11,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "DIRCEU MORAES",
+      "nomeUrna": "SARGENTO MORAES",
+      "partido": "PP",
+      "numero": "11400",
+      "votos": 310,
+      "percentual": 4.05,
+      "sqcand": "160001603360"
+    },
+    {
+      "nome": "NELSON ROBERTO PLACIDO SILVA JUSTUS",
+      "nomeUrna": "NELSON JUSTUS",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 281,
+      "percentual": 3.67,
+      "sqcand": "160001716017"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 251,
+      "percentual": 3.28,
+      "sqcand": "160001614823"
+    },
+    {
+      "nome": "MARCELO RANGEL CRUZ DE OLIVEIRA",
+      "nomeUrna": "MARCELO RANGEL",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 239,
+      "percentual": 3.12,
+      "sqcand": "160001623135"
+    }
+  ]
+}

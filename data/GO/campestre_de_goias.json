@@ -1,0 +1,271 @@
+{
+  "populacao": 4294,
+  "votosValidos": 3542,
+  "abstencao": 14.63,
+  "prefeito": {
+    "nome": "ESMERALDO CORREIA GUIMARÂES",
+    "nomeUrna": "ESMERALDO",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 2271,
+    "percentual": 64.12,
+    "situacao": "Eleito",
+    "sqcand": "90002227028",
+    "vice": "CICERO GOMES DA COSTA NETO",
+    "viceNomeUrna": "CICERO",
+    "partidoVice": "MDB",
+    "sqcandVice": "90002227027",
+    "coligacao": "PDT / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ROGÉRIO RIBEIRO DOS SANTOS",
+      "nomeUrna": "ROGÉRIO DO CARLOS",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 317,
+      "percentual": 8.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002273578"
+    },
+    {
+      "nome": "RICARDO RAMOS PEREIRA",
+      "nomeUrna": "RICARDO PELOTA",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 260,
+      "percentual": 7.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002273868"
+    },
+    {
+      "nome": "MICHELLE DE SOUZA FORTUNATO VILAÇA",
+      "nomeUrna": "MICHELLE FORTUNATO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 243,
+      "percentual": 6.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002296473"
+    },
+    {
+      "nome": "AURO FERNANDO SANTANA PRESTES FILHO",
+      "nomeUrna": "AURO FILHO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 234,
+      "percentual": 6.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002273577"
+    },
+    {
+      "nome": "WENISON RAMOS GONÇALVES",
+      "nomeUrna": "TCHUTCHUCA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 223,
+      "percentual": 6.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002273865"
+    },
+    {
+      "nome": "ALTIENES ADRIANO LEMES DE OLIVEIRA",
+      "nomeUrna": "TIANIM",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 199,
+      "percentual": 5.51,
+      "situacao": "Eleito por média",
+      "sqcand": "90002273870"
+    },
+    {
+      "nome": "AGUIMAR PEREIRA DA SILVA",
+      "nomeUrna": "NIM DA SIMONE",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 186,
+      "percentual": 5.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002273576"
+    },
+    {
+      "nome": "THIAGO MARCOS RODRIGUES DO CARMO",
+      "nomeUrna": "THIAGÃO DO ASSENTAMENTO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 182,
+      "percentual": 5.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002296477"
+    },
+    {
+      "nome": "ALEXANDRE RIBEIRO FERREIRA",
+      "nomeUrna": "ALEXANDRE DA VALCI",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 159,
+      "percentual": 4.4,
+      "situacao": "Eleito por média",
+      "sqcand": "90002296475"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 1576,
+      "percentual": 60.27,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 386,
+      "percentual": 14.76,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "DENISE APARECIDA CARVALHO",
+      "nomeUrna": "DENISE CARVALHO",
+      "partido": "PC do B",
+      "numero": "651",
+      "votos": 200,
+      "percentual": 7.65,
+      "sqcand": "90001649070"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 1730,
+      "percentual": 63.79,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "SILVYE ALVES DA SILVA",
+      "nomeUrna": "SILVYE ALVES",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 122,
+      "percentual": 4.5,
+      "sqcand": "90001614749"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 72,
+      "percentual": 2.65,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "ADRIANA SAUTHIER ACCORSI",
+      "nomeUrna": "DELEGADA ADRIANA ACCORSI",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 56,
+      "percentual": 2.06,
+      "sqcand": "90001648110"
+    },
+    {
+      "nome": "JOSÉ VALDIR MISNEROVICZ",
+      "nomeUrna": "VALDIR DO MST",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 54,
+      "percentual": 1.99,
+      "sqcand": "90001648105"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 52,
+      "percentual": 1.92,
+      "sqcand": "90001614055"
+    },
+    {
+      "nome": "ZACARIAS CALIL HAMU",
+      "nomeUrna": "DR ZACHARIAS CALIL",
+      "partido": "UNIÃO",
+      "numero": "4480",
+      "votos": 50,
+      "percentual": 1.84,
+      "sqcand": "90001614746"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GEORGE MORAIS FERREIRA",
+      "nomeUrna": "DR GEORGE MORAIS",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 721,
+      "percentual": 27.91,
+      "sqcand": "90001611924"
+    },
+    {
+      "nome": "THIAGO ALBERNAZ PEREIRA",
+      "nomeUrna": "THIAGO ALBERNAZ",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 378,
+      "percentual": 14.63,
+      "sqcand": "90001653172"
+    },
+    {
+      "nome": "AMAURI RIBEIRO",
+      "nomeUrna": "AMAURI RIBEIRO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 229,
+      "percentual": 8.87,
+      "sqcand": "90001648384"
+    },
+    {
+      "nome": "CRISTIANO GALINDO DE CARVALHO",
+      "nomeUrna": "CRISTIANO GALINDO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77099",
+      "votos": 146,
+      "percentual": 5.65,
+      "sqcand": "90001643080"
+    },
+    {
+      "nome": "MILTON JUSTUS",
+      "nomeUrna": "MILTON JUSTUS",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 120,
+      "percentual": 4.65,
+      "sqcand": "90001611926"
+    },
+    {
+      "nome": "KATIA MARIA DOS SANTOS",
+      "nomeUrna": "KÁTIA",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 106,
+      "percentual": 4.1,
+      "sqcand": "90001649519"
+    },
+    {
+      "nome": "LINCOLN GRAZIANI PEREIRA DA ROCHA TEJOTA",
+      "nomeUrna": "LINCOLN TEJOTA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 66,
+      "percentual": 2.56,
+      "sqcand": "90001648385"
+    }
+  ]
+}

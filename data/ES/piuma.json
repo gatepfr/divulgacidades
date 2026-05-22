@@ -1,0 +1,291 @@
+{
+  "populacao": 17035,
+  "votosValidos": 13936,
+  "abstencao": 14.63,
+  "prefeito": {
+    "nome": "PAULO CELSO COLA PEREIRA",
+    "nomeUrna": "PAULO COLA",
+    "partido": "CIDADANIA",
+    "numero": "23",
+    "votos": 11061,
+    "percentual": 79.37,
+    "situacao": "Eleito",
+    "sqcand": "80002183961",
+    "vice": "EZEQUIAS FERREIRA DO NASCIMENTO",
+    "viceNomeUrna": "PASTOR EZEQUIAS",
+    "partidoVice": "PODE",
+    "sqcandVice": "80002183962",
+    "coligacao": "CIDADANIA / PSDB / REPUBLICANOS / PP / PDT / MDB / PODE / UNIÃO / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "HELIOMAR DA SILVA ZUCOLOTO",
+      "nomeUrna": "ALEMÃO DE NITERÓI",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1177,
+      "percentual": 8.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002184430"
+    },
+    {
+      "nome": "WALLACE CAMPI",
+      "nomeUrna": "WALLACE CAMPI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 641,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002184434"
+    },
+    {
+      "nome": "LEONARDO DA SILVA BONIOLO",
+      "nomeUrna": "LEO BONIOLO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 583,
+      "percentual": 4.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002020445"
+    },
+    {
+      "nome": "BRUNO HERNANDES DE FREITAS",
+      "nomeUrna": "BRUNO DA OI",
+      "partido": "CIDADANIA",
+      "numero": "23444",
+      "votos": 553,
+      "percentual": 3.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002191929"
+    },
+    {
+      "nome": "JORGE MIGUEL FERES MIRANDA",
+      "nomeUrna": "JORGE MIRANDA",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 504,
+      "percentual": 3.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002268774"
+    },
+    {
+      "nome": "RUAN CARLOS MIRANDA VIQUIETTI",
+      "nomeUrna": "RUAN MIRANDA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 479,
+      "percentual": 3.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002185660"
+    },
+    {
+      "nome": "ELIEZER DIAS FREIRE",
+      "nomeUrna": "ELIEZER DIAS FREIRE",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 418,
+      "percentual": 2.99,
+      "situacao": "Eleito por média",
+      "sqcand": "80002185656"
+    },
+    {
+      "nome": "BERNARDETE MARIA CALENZANI",
+      "nomeUrna": "BERNADETE MUITA RAÇA",
+      "partido": "MDB",
+      "numero": "15007",
+      "votos": 407,
+      "percentual": 2.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002269041"
+    },
+    {
+      "nome": "ELBER LUIZ MULINARI LOYOLA",
+      "nomeUrna": "ELBER LUIZ",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 381,
+      "percentual": 2.72,
+      "situacao": "Eleito por média",
+      "sqcand": "80002184439"
+    },
+    {
+      "nome": "FABRICIO TAYLOR MARVILA",
+      "nomeUrna": "FABRICIO TAYLOR",
+      "partido": "CIDADANIA",
+      "numero": "23123",
+      "votos": 362,
+      "percentual": 2.59,
+      "situacao": "Eleito por média",
+      "sqcand": "80002191930"
+    },
+    {
+      "nome": "DANIEL ETCHEVERRY",
+      "nomeUrna": "DANIELZINHO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 321,
+      "percentual": 2.29,
+      "situacao": "Eleito por média",
+      "sqcand": "80002020437"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 5176,
+      "percentual": 45.94,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 4722,
+      "percentual": 41.91,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1175,
+      "percentual": 10.43,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSIAS MARIO DA VITÓRIA",
+      "nomeUrna": "DA VITÓRIA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1278,
+      "percentual": 11.16,
+      "sqcand": "80001650200"
+    },
+    {
+      "nome": "RENZO DE VASCONCELOS",
+      "nomeUrna": "RENZO VASCONCELOS",
+      "partido": "PSC",
+      "numero": "2023",
+      "votos": 1072,
+      "percentual": 9.36,
+      "sqcand": "80001615362"
+    },
+    {
+      "nome": "GILVAN AGUIAR COSTA",
+      "nomeUrna": "GILVAN O FEDERAL DA DIREITA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 877,
+      "percentual": 7.66,
+      "sqcand": "80001615730"
+    },
+    {
+      "nome": "MARCOS ANTONIO FERNANDES GARCIA",
+      "nomeUrna": "MARCOS GARCIA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 600,
+      "percentual": 5.24,
+      "sqcand": "80001650192"
+    },
+    {
+      "nome": "VICTOR GAROZI LINHALIS",
+      "nomeUrna": "DR. VICTOR",
+      "partido": "PODE",
+      "numero": "1900",
+      "votos": 491,
+      "percentual": 4.29,
+      "sqcand": "80001604731"
+    },
+    {
+      "nome": "GILSON DANIEL BATISTA",
+      "nomeUrna": "GILSON DANIEL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 444,
+      "percentual": 3.88,
+      "sqcand": "80001604734"
+    },
+    {
+      "nome": "HELDER IGNÁCIO SALOMÃO",
+      "nomeUrna": "HELDER SALOMÃO",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 417,
+      "percentual": 3.64,
+      "sqcand": "80001719429"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 1175,
+      "percentual": 10.33,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "ALEXANDRE QUINTINO MOREIRA",
+      "nomeUrna": "ALEXANDRE QUINTINO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 1086,
+      "percentual": 9.54,
+      "sqcand": "80001720067"
+    },
+    {
+      "nome": "ALEXANDRE MARCELO COUTINHO SANTOS",
+      "nomeUrna": "MARCELO SANTOS",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 600,
+      "percentual": 5.27,
+      "sqcand": "80001609613"
+    },
+    {
+      "nome": "EMILIO MAMERI NETO",
+      "nomeUrna": "DR EMÍLIO MAMERI",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 521,
+      "percentual": 4.58,
+      "sqcand": "80001602764"
+    },
+    {
+      "nome": "ADRIANO PEREIRA",
+      "nomeUrna": "PR ADRIANO DA CAIOCAR",
+      "partido": "PSC",
+      "numero": "20777",
+      "votos": 481,
+      "percentual": 4.23,
+      "sqcand": "80001645476"
+    },
+    {
+      "nome": "BRUNO DA COSTA RESENDE",
+      "nomeUrna": "DR BRUNO RESENDE",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 467,
+      "percentual": 4.1,
+      "sqcand": "80001609916"
+    },
+    {
+      "nome": "LUIZ CANDIDO DURÃO",
+      "nomeUrna": "LUIZ DURÃO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 449,
+      "percentual": 3.95,
+      "sqcand": "80001720064"
+    }
+  ]
+}

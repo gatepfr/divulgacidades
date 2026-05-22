@@ -1,0 +1,271 @@
+{
+  "populacao": 5469,
+  "votosValidos": 4573,
+  "abstencao": 12.45,
+  "prefeito": {
+    "nome": "MARCUS AURÉLIUS RODRIGUES",
+    "nomeUrna": "MARCUS DE ZE WILSON",
+    "partido": "AVANTE",
+    "numero": "70",
+    "votos": 2816,
+    "percentual": 61.58,
+    "situacao": "Eleito",
+    "sqcand": "130002045730",
+    "vice": "MARGARIDA MAXAKALI",
+    "viceNomeUrna": "MARGARIDA MAXAKALI",
+    "partidoVice": "AVANTE",
+    "sqcandVice": "130002045729",
+    "coligacao": "MOBILIZA / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "CRISLANE DUARTE OLIVEIRA",
+      "nomeUrna": "CRISLANE DE MEUZINHO",
+      "partido": "MOBILIZA",
+      "numero": "33333",
+      "votos": 374,
+      "percentual": 8.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002046118"
+    },
+    {
+      "nome": "SILVANIO ALVES COELHO",
+      "nomeUrna": "SILVANIO DE CHIQUINHO",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 327,
+      "percentual": 7.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002046306"
+    },
+    {
+      "nome": "JULIANA NERES WLINGER",
+      "nomeUrna": "JULIANA WLINGER",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 299,
+      "percentual": 6.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002046303"
+    },
+    {
+      "nome": "EDENILSON NUNES SANTOS",
+      "nomeUrna": "DEDA DE TIAO CAPEBA",
+      "partido": "MOBILIZA",
+      "numero": "33123",
+      "votos": 297,
+      "percentual": 6.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002046125"
+    },
+    {
+      "nome": "EDMILSON BARBOSA DA SILVA",
+      "nomeUrna": "EDMILSON DE BEU",
+      "partido": "MOBILIZA",
+      "numero": "33789",
+      "votos": 280,
+      "percentual": 6.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002046119"
+    },
+    {
+      "nome": "CARLOS MOREIRA DE CARVALHO NETO",
+      "nomeUrna": "CARLINHOS BIDO DA SAUDE",
+      "partido": "MOBILIZA",
+      "numero": "33000",
+      "votos": 265,
+      "percentual": 5.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002046120"
+    },
+    {
+      "nome": "VICENTE FRANCISCO DE OLIVEIRA",
+      "nomeUrna": "VICENTE DO CORREGO DO NORTE",
+      "partido": "AVANTE",
+      "numero": "70456",
+      "votos": 210,
+      "percentual": 4.56,
+      "situacao": "Eleito por média",
+      "sqcand": "130002046308"
+    },
+    {
+      "nome": "GEROLINO COSTA E SILVA",
+      "nomeUrna": "GEROLINO COSTA",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 178,
+      "percentual": 3.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002221317"
+    },
+    {
+      "nome": "LUTIMAR RIBEIRO DA FONSECA",
+      "nomeUrna": "TILU",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 157,
+      "percentual": 3.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002221316"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1580,
+      "percentual": 48.57,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1151,
+      "percentual": 35.38,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 497,
+      "percentual": 15.28,
+      "sqcand": "130001671677"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIS HENRIQUE DE OLIVEIRA RESENDE",
+      "nomeUrna": "LUIS TIBÉ",
+      "partido": "AVANTE",
+      "numero": "7070",
+      "votos": 1905,
+      "percentual": 53.97,
+      "sqcand": "130001603563"
+    },
+    {
+      "nome": "AÉCIO NEVES DA CUNHA",
+      "nomeUrna": "AÉCIO NEVES",
+      "partido": "PSDB",
+      "numero": "4500",
+      "votos": 395,
+      "percentual": 11.19,
+      "sqcand": "130001613348"
+    },
+    {
+      "nome": "BRUNO SOUZA FARIAS",
+      "nomeUrna": "BRUNO FARIAS",
+      "partido": "AVANTE",
+      "numero": "7077",
+      "votos": 156,
+      "percentual": 4.42,
+      "sqcand": "130001603602"
+    },
+    {
+      "nome": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+      "nomeUrna": "ROGÉRIO CORREIA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 148,
+      "percentual": 4.19,
+      "sqcand": "130001607258"
+    },
+    {
+      "nome": "CÉLIA NUNES CORREA",
+      "nomeUrna": "CÉLIA XAKRIABÁ",
+      "partido": "PSOL",
+      "numero": "5088",
+      "votos": 135,
+      "percentual": 3.82,
+      "sqcand": "130001615168"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 128,
+      "percentual": 3.63,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "GLEIDE ANDRADE DE OLIVEIRA",
+      "nomeUrna": "GLEIDE ANDRADE",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 101,
+      "percentual": 2.86,
+      "sqcand": "130001607246"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "NEILANDO ALVES PIMENTA",
+      "nomeUrna": "NEILANDO PIMENTA",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 1407,
+      "percentual": 45.64,
+      "sqcand": "130001613144"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 475,
+      "percentual": 15.41,
+      "sqcand": "130001607392"
+    },
+    {
+      "nome": "JOÃO LÚCIO MAGALHÃES BIFANO",
+      "nomeUrna": "JOÃO MAGALHÃES",
+      "partido": "MDB",
+      "numero": "15133",
+      "votos": 217,
+      "percentual": 7.04,
+      "sqcand": "130001678188"
+    },
+    {
+      "nome": "JOSÉ CÉLIO DE ALVARENGA",
+      "nomeUrna": "CELINHO SINTROCEL",
+      "partido": "PC do B",
+      "numero": "65112",
+      "votos": 177,
+      "percentual": 5.74,
+      "sqcand": "130001607400"
+    },
+    {
+      "nome": "MARIA ALVES DE SOUZA",
+      "nomeUrna": "MARIA ALVES",
+      "partido": "PT",
+      "numero": "13567",
+      "votos": 154,
+      "percentual": 5.0,
+      "sqcand": "130001607428"
+    },
+    {
+      "nome": "GUSTAVO DA CUNHA PEREIRA VALADARES",
+      "nomeUrna": "GUSTAVO VALADARES",
+      "partido": "PMN",
+      "numero": "33333",
+      "votos": 142,
+      "percentual": 4.61,
+      "sqcand": "130001605805"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 60,
+      "percentual": 1.95,
+      "sqcand": "130001619045"
+    }
+  ]
+}

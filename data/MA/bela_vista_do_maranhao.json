@@ -1,0 +1,271 @@
+{
+  "populacao": 10086,
+  "votosValidos": 8686,
+  "abstencao": 11.89,
+  "prefeito": {
+    "nome": "ADILSON DA SILVA SOUSA",
+    "nomeUrna": "ADILSON DO GURI",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 4713,
+    "percentual": 54.26,
+    "situacao": "Eleito",
+    "sqcand": "100002098120",
+    "vice": "JOSE CARLOS SOARES MELO",
+    "viceNomeUrna": "SALES",
+    "partidoVice": "PP",
+    "sqcandVice": "100002098119",
+    "coligacao": "PP / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE LIMA PEREIRA",
+      "nomeUrna": "SILVAN MILHÕES",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 671,
+      "percentual": 7.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002294926"
+    },
+    {
+      "nome": "EUFRAIM FÉLIX DA SILVA",
+      "nomeUrna": "EUFRAIM FÉLIX",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 585,
+      "percentual": 6.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002088226"
+    },
+    {
+      "nome": "DOUGLAS RODRIGUES DE JESUS GARCES",
+      "nomeUrna": "DOUGLAS BINA GORDO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 565,
+      "percentual": 6.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002294925"
+    },
+    {
+      "nome": "KLAISON VIANA MACEDO",
+      "nomeUrna": "BABALU MACEDO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 526,
+      "percentual": 6.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002294930"
+    },
+    {
+      "nome": "BRENO HENRIQUE LIMA ARAUJO",
+      "nomeUrna": "BRENO DO EVALDO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 488,
+      "percentual": 5.61,
+      "situacao": "Eleito por média",
+      "sqcand": "100002294923"
+    },
+    {
+      "nome": "ALAN DELLON DA SILVA AGUIAR",
+      "nomeUrna": "ALAN AGUIAR",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 446,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002088234"
+    },
+    {
+      "nome": "IVANILMA SOUSA",
+      "nomeUrna": "NILMA",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 359,
+      "percentual": 4.13,
+      "situacao": "Eleito por média",
+      "sqcand": "100002088233"
+    },
+    {
+      "nome": "JOSÉ FRANCISCO PEREIRA DE OLIVEIRA",
+      "nomeUrna": "ZÉ FRANCISCO",
+      "partido": "PL",
+      "numero": "22888",
+      "votos": 350,
+      "percentual": 4.03,
+      "situacao": "Eleito por média",
+      "sqcand": "100002149082"
+    },
+    {
+      "nome": "ZENON COSTA DIAS",
+      "nomeUrna": "ZENON DIAS",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 339,
+      "percentual": 3.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002326904"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 4742,
+      "percentual": 72.19,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 1776,
+      "percentual": 27.04,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "IVO NOGUEIRA",
+      "nomeUrna": "PASTOR IVO NOGUEIRA",
+      "partido": "DC",
+      "numero": "277",
+      "votos": 38,
+      "percentual": 0.58,
+      "sqcand": "100001613450"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ LOURENÇO BONFIM JÚNIOR",
+      "nomeUrna": "JÚNIOR LOURENÇO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 2875,
+      "percentual": 41.16,
+      "sqcand": "100001603111"
+    },
+    {
+      "nome": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+      "nomeUrna": "DETINHA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 1003,
+      "percentual": 14.36,
+      "sqcand": "100001603115"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CARVALHO RIBEIRO",
+      "nomeUrna": "ANDRÉ FUFUCA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 634,
+      "percentual": 9.08,
+      "sqcand": "100001608075"
+    },
+    {
+      "nome": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+      "nomeUrna": "AMANDA GENTIL ",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 554,
+      "percentual": 7.93,
+      "sqcand": "100001608073"
+    },
+    {
+      "nome": "WOLMER DE AZEVEDO ARAUJO",
+      "nomeUrna": "WOLMER ARAUJO",
+      "partido": "PATRIOTA",
+      "numero": "5188",
+      "votos": 227,
+      "percentual": 3.25,
+      "sqcand": "100001608217"
+    },
+    {
+      "nome": "GILLIANO FRED NASCIMENTO CUTRIM",
+      "nomeUrna": "GIL CUTRIM",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 210,
+      "percentual": 3.01,
+      "sqcand": "100001602010"
+    },
+    {
+      "nome": "GILDENEMIR DE LIMA SOUSA",
+      "nomeUrna": "PASTOR  GIL",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 164,
+      "percentual": 2.35,
+      "sqcand": "100001603099"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JUSCELINO DA CRUZ FILGUEIRA JUNIOR",
+      "nomeUrna": "JUSCELINO MARRECA",
+      "partido": "PATRIOTA",
+      "numero": "51444",
+      "votos": 2235,
+      "percentual": 33.37,
+      "sqcand": "100001608131"
+    },
+    {
+      "nome": "SOLANGE DE ARAUJO SOUSA",
+      "nomeUrna": "SOLANGE ALMEIDA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 1467,
+      "percentual": 21.91,
+      "sqcand": "100001603166"
+    },
+    {
+      "nome": "JOSE GEOVANI LOPES DE QUEIROZ JUNIOR",
+      "nomeUrna": "JUNIOR FRANÇA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 921,
+      "percentual": 13.75,
+      "sqcand": "100001608097"
+    },
+    {
+      "nome": "KARLOS PARABUCU SANTOS FIGUEIREDO DOS ANJOS",
+      "nomeUrna": "PARÁ FIGUEIREDO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 460,
+      "percentual": 6.87,
+      "sqcand": "100001603171"
+    },
+    {
+      "nome": "EDSON CUNHA DE ARAUJO",
+      "nomeUrna": "EDSON ARAUJO",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 153,
+      "percentual": 2.28,
+      "sqcand": "100001607088"
+    },
+    {
+      "nome": "GUILHERME FONSECA PAZ",
+      "nomeUrna": "GUILHERME PAZ",
+      "partido": "PATRIOTA",
+      "numero": "51000",
+      "votos": 139,
+      "percentual": 2.08,
+      "sqcand": "100001608121"
+    },
+    {
+      "nome": "MICAL SILVA DAMASCENO",
+      "nomeUrna": "MICAL DAMASCENO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 122,
+      "percentual": 1.82,
+      "sqcand": "100001607113"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 8226,
+  "votosValidos": 3630,
+  "abstencao": 16.4,
+  "prefeito": {
+    "nome": "OZIEL CARLEBE RANGEL",
+    "nomeUrna": "OZIEL RANGEL",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3630,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "210002099816",
+    "vice": "CLARA ELISA PAULA MACHADO OLIVEIRA",
+    "viceNomeUrna": "LISA",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002099817",
+    "coligacao": "REPUBLICANOS / PP / PDT / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "RAFAEL PERCI DE PAULA DA CRUZ",
+      "nomeUrna": "RAFAEL GORDINHO",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 837,
+      "percentual": 12.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002223058"
+    },
+    {
+      "nome": "CLEOMAR DA SILVA",
+      "nomeUrna": "MANO MOTORISTA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 543,
+      "percentual": 8.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001984937"
+    },
+    {
+      "nome": "VOLMIR ANTÔNIO NICKHORN",
+      "nomeUrna": "VOLMIR PORCO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 331,
+      "percentual": 4.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001985554"
+    },
+    {
+      "nome": "LEONEL FAGUNDES DA ROSA",
+      "nomeUrna": "LEONEL",
+      "partido": "PP",
+      "numero": "11345",
+      "votos": 306,
+      "percentual": 4.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001984935"
+    },
+    {
+      "nome": "FELIPE ALEXANDRE DE CARVALHO BORBA",
+      "nomeUrna": "FELIPE BORBA",
+      "partido": "REPUBLICANOS",
+      "numero": "10010",
+      "votos": 295,
+      "percentual": 4.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002001952"
+    },
+    {
+      "nome": "LISETE MARIA BRIXNER DE ALMEIDA",
+      "nomeUrna": "LISETE",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 292,
+      "percentual": 4.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001984932"
+    },
+    {
+      "nome": "DILCEU DA CONCEIÇÃO",
+      "nomeUrna": "DILCEU BICUDO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 285,
+      "percentual": 4.3,
+      "situacao": "Eleito por média",
+      "sqcand": "210001984933"
+    },
+    {
+      "nome": "TIAGO NUNES",
+      "nomeUrna": "TIAGO PARECI",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 264,
+      "percentual": 3.98,
+      "situacao": "Eleito por média",
+      "sqcand": "210002213881"
+    },
+    {
+      "nome": "JULIO CEZAR BONDAM DA SILVA",
+      "nomeUrna": "JÚLIO BOCA BRAVA",
+      "partido": "PODE",
+      "numero": "20600",
+      "votos": 248,
+      "percentual": 3.74,
+      "situacao": "Eleito por média",
+      "sqcand": "210002223055"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2428,
+      "percentual": 45.68,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2184,
+      "percentual": 41.09,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 622,
+      "percentual": 11.7,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 2981,
+      "percentual": 50.29,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 902,
+      "percentual": 15.22,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 206,
+      "percentual": 3.48,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 171,
+      "percentual": 2.88,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 162,
+      "percentual": 2.73,
+      "sqcand": "210001596134"
+    },
+    {
+      "nome": "ANTONIO CARLOS GOMES DA SILVA",
+      "nomeUrna": "CARLOS GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 111,
+      "percentual": 1.87,
+      "sqcand": "210001601602"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 105,
+      "percentual": 1.77,
+      "sqcand": "210001621272"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ISSUR ISRAEL KOCH",
+      "nomeUrna": "PROFESSOR ISSUR",
+      "partido": "PP",
+      "numero": "11012",
+      "votos": 1987,
+      "percentual": 35.18,
+      "sqcand": "210001647171"
+    },
+    {
+      "nome": "TALIS ROMEU POHREN FERREIRA",
+      "nomeUrna": "TALIS FERREIRA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 646,
+      "percentual": 11.44,
+      "sqcand": "210001647174"
+    },
+    {
+      "nome": "ANA INES AFFONSO",
+      "nomeUrna": "ANA AFFONSO",
+      "partido": "PT",
+      "numero": "13813",
+      "votos": 317,
+      "percentual": 5.61,
+      "sqcand": "210001610598"
+    },
+    {
+      "nome": "MARGARETE SIMON FERRETTI",
+      "nomeUrna": "PROFESSORA MARGARETE",
+      "partido": "PT",
+      "numero": "13114",
+      "votos": 163,
+      "percentual": 2.89,
+      "sqcand": "210001610632"
+    },
+    {
+      "nome": "ADOLFO JOSÉ BRITO",
+      "nomeUrna": "ADOLFO BRITO",
+      "partido": "PP",
+      "numero": "11240",
+      "votos": 141,
+      "percentual": 2.5,
+      "sqcand": "210001647147"
+    },
+    {
+      "nome": "EDER ANTONIO DE AZEREDO",
+      "nomeUrna": "ÉDER AZEREDO (CANHÃO DO VALE)",
+      "partido": "REPUBLICANOS",
+      "numero": "10800",
+      "votos": 116,
+      "percentual": 2.05,
+      "sqcand": "210001601636"
+    },
+    {
+      "nome": "SALMO DIAS DE OLIVEIRA",
+      "nomeUrna": "SALMO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 110,
+      "percentual": 1.95,
+      "sqcand": "210001647178"
+    }
+  ]
+}

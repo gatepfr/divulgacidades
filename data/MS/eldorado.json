@@ -1,0 +1,271 @@
+{
+  "populacao": 9335,
+  "votosValidos": 6765,
+  "abstencao": 25.05,
+  "prefeito": {
+    "nome": "FABIANA MARIA LORENCI",
+    "nomeUrna": "FABIANA",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3475,
+    "percentual": 51.37,
+    "situacao": "Eleito",
+    "sqcand": "120001997235",
+    "vice": "SIMONI PALONIS DA SILVA",
+    "viceNomeUrna": "SIMONI PALONIS",
+    "partidoVice": "PP",
+    "sqcandVice": "120001997236",
+    "coligacao": "PP / PODE / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "VALDEIR DE SOUZA LOPES",
+      "nomeUrna": "VALDEIR LOPES",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 428,
+      "percentual": 6.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002024935"
+    },
+    {
+      "nome": "MARIA ANGELA DIAS",
+      "nomeUrna": "ANGELA DIAS",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 388,
+      "percentual": 5.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001997923"
+    },
+    {
+      "nome": "ALCIMARA LIMA MELGES",
+      "nomeUrna": "MARA MELGES MEL",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 352,
+      "percentual": 5.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002024597"
+    },
+    {
+      "nome": "ADENIR EMIDIO PEDRO",
+      "nomeUrna": "TENENTE",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 342,
+      "percentual": 5.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001997395"
+    },
+    {
+      "nome": "DEVANIR APARECIDO PITTON",
+      "nomeUrna": "PROF DEVANIR PITTON",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 321,
+      "percentual": 4.78,
+      "situacao": "Eleito por média",
+      "sqcand": "120002024605"
+    },
+    {
+      "nome": "ANDERSON FREITAS DA SILVA",
+      "nomeUrna": "NENNY ANDERSON",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 307,
+      "percentual": 4.57,
+      "situacao": "Eleito por média",
+      "sqcand": "120001997925"
+    },
+    {
+      "nome": "ANTÔNIO JORGE DOS SANTOS",
+      "nomeUrna": "TONINHO DO TAXI",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 277,
+      "percentual": 4.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001998038"
+    },
+    {
+      "nome": "KLEVERSON FREITAS DA SILVA",
+      "nomeUrna": "POLACO DA SUPOFARMA",
+      "partido": "AVANTE",
+      "numero": "70555",
+      "votos": 268,
+      "percentual": 3.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002025560"
+    },
+    {
+      "nome": "DAIANE GOMES LACERDA",
+      "nomeUrna": "DAIANE LACERDA",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 184,
+      "percentual": 2.74,
+      "situacao": "Eleito por média",
+      "sqcand": "120002024939"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 4550,
+      "percentual": 80.5,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "TIAGO RESENDE BOTELHO",
+      "nomeUrna": "PROFESSOR TIAGO BOTELHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 511,
+      "percentual": 9.04,
+      "sqcand": "120001652251"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 315,
+      "percentual": 5.57,
+      "sqcand": "120001609096"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MÁRCIO ANDRÉ SCARLASSARA",
+      "nomeUrna": "MÁRCIO ARAGUAIA ",
+      "partido": "PP",
+      "numero": "1140",
+      "votos": 762,
+      "percentual": 13.29,
+      "sqcand": "120001645936"
+    },
+    {
+      "nome": "VANDER LUIZ DOS SANTOS LOUBET",
+      "nomeUrna": "VANDER LOUBET",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 751,
+      "percentual": 13.1,
+      "sqcand": "120001652595"
+    },
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 737,
+      "percentual": 12.85,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "LUANA RUIZ SILVA DE FIGUEIREDO",
+      "nomeUrna": "LUANA RUIZ",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 668,
+      "percentual": 11.65,
+      "sqcand": "120001614254"
+    },
+    {
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nomeUrna": "DR. GERALDO RESENDE",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 608,
+      "percentual": 10.6,
+      "sqcand": "120001612324"
+    },
+    {
+      "nome": "WALTER BENEDITO CARNEIRO JUNIOR",
+      "nomeUrna": "WALTER CARNEIRO JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 303,
+      "percentual": 5.28,
+      "sqcand": "120001645938"
+    },
+    {
+      "nome": "RODOLFO OLIVEIRA NOGUEIRA",
+      "nomeUrna": "RODOLFO NOGUEIRA",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 286,
+      "percentual": 4.99,
+      "sqcand": "120001614260"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARA ELISA NAVACCHI CASEIRO",
+      "nomeUrna": "MARA CASEIRO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 2616,
+      "percentual": 46.19,
+      "sqcand": "120001613592"
+    },
+    {
+      "nome": "LIDIO NOGUEIRA LOPES",
+      "nomeUrna": "LIDIO LOPES",
+      "partido": "PATRIOTA",
+      "numero": "51777",
+      "votos": 1150,
+      "percentual": 20.3,
+      "sqcand": "120001651197"
+    },
+    {
+      "nome": "ADENIR EMIDIO PEDRO",
+      "nomeUrna": "TENENTE COLETIVO PROGRESSISTA",
+      "partido": "PSOL",
+      "numero": "50999",
+      "votos": 233,
+      "percentual": 4.11,
+      "sqcand": "120001597628"
+    },
+    {
+      "nome": "HUMBERTO CARLOS RAMOS AMADUCCI",
+      "nomeUrna": "HUMBERTO AMADUCCI",
+      "partido": "PT",
+      "numero": "13007",
+      "votos": 190,
+      "percentual": 3.35,
+      "sqcand": "120001652319"
+    },
+    {
+      "nome": "RUBENS DE GOMES PRATES",
+      "nomeUrna": "SARGENTO PRATES",
+      "partido": "PRTB",
+      "numero": "28222",
+      "votos": 144,
+      "percentual": 2.54,
+      "sqcand": "120001646516"
+    },
+    {
+      "nome": "PAULO JOSÉ ARAÚJO CORRÊA",
+      "nomeUrna": "PAULO CORRÊA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 132,
+      "percentual": 2.33,
+      "sqcand": "120001613595"
+    },
+    {
+      "nome": "JOSÉ ORCÍRIO MIRANDA DOS SANTOS",
+      "nomeUrna": "ZECA DO PT",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 93,
+      "percentual": 1.64,
+      "sqcand": "120001652312"
+    }
+  ]
+}

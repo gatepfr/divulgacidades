@@ -1,0 +1,271 @@
+{
+  "populacao": 10034,
+  "votosValidos": 7975,
+  "abstencao": 16.81,
+  "prefeito": {
+    "nome": "VICENTE TEIXEIRA SAMPAIO NETO",
+    "nomeUrna": "TETO TEIXEIRA",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 5310,
+    "percentual": 66.58,
+    "situacao": "Eleito",
+    "sqcand": "170002136286",
+    "vice": "AUGUSTO ALVES PEIXOTO ALENCAR",
+    "viceNomeUrna": "AUGUSTO PEIXOTO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "170002136285",
+    "coligacao": "REPUBLICANOS / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JESUS FELISARDO DE SÁ",
+      "nomeUrna": "JESUS FELISARDO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 858,
+      "percentual": 10.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002138797"
+    },
+    {
+      "nome": "IVAN ALVES PESSOA",
+      "nomeUrna": "PANCA MARINHEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 812,
+      "percentual": 10.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002137925"
+    },
+    {
+      "nome": "MARCOS DANIEL SOARES",
+      "nomeUrna": "DANIEL SOARES",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 642,
+      "percentual": 8.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002138801"
+    },
+    {
+      "nome": "CARLOS AUGUSTO BEZERRA CRUZ",
+      "nomeUrna": "CARLOS BEZERRA",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 579,
+      "percentual": 7.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002138796"
+    },
+    {
+      "nome": "YANNE PEREIRA ANGELIM",
+      "nomeUrna": "YANNE ANGELIM",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77999",
+      "votos": 542,
+      "percentual": 6.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002328564"
+    },
+    {
+      "nome": "GUSTAVO MOURÃO DE SÁ",
+      "nomeUrna": "GUSTAVO DE JESER",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 534,
+      "percentual": 6.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002137928"
+    },
+    {
+      "nome": "MARIA HEDUARDA OLIVEIRA FERREIRA",
+      "nomeUrna": "HEDUARDA OLIVEIRA",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 406,
+      "percentual": 5.1,
+      "situacao": "Eleito por média",
+      "sqcand": "170002138800"
+    },
+    {
+      "nome": "VITOR HUGO DE SÁ QUEIROZ",
+      "nomeUrna": "VITOR QUEIROZ",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 395,
+      "percentual": 4.96,
+      "situacao": "Eleito por média",
+      "sqcand": "170002137924"
+    },
+    {
+      "nome": "GÍGLIO ARIEL SOARES OLIVEIRA",
+      "nomeUrna": "GIGLIO SOARES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 393,
+      "percentual": 4.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002328560"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 4553,
+      "percentual": 76.19,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 485,
+      "percentual": 8.12,
+      "sqcand": "170001604083"
+    },
+    {
+      "nome": "CARLOS ANTONIO GOMES DE ANDRADE LIMA",
+      "nomeUrna": "CARLOS ANDRADE LIMA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 435,
+      "percentual": 7.28,
+      "sqcand": "170001609174"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FERNANDO MONTEIRO DE ALBUQUERQUE",
+      "nomeUrna": "FERNANDO MONTEIRO",
+      "partido": "PP",
+      "numero": "1190",
+      "votos": 3538,
+      "percentual": 54.62,
+      "sqcand": "170001618622"
+    },
+    {
+      "nome": "FRANCISCO TADEU BARBOSA DE ALENCAR",
+      "nomeUrna": "TADEU ALENCAR",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 630,
+      "percentual": 9.73,
+      "sqcand": "170001619892"
+    },
+    {
+      "nome": "FERNANDO BEZERRA DE SOUZA COELHO FILHO",
+      "nomeUrna": "FERNANDO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4401",
+      "votos": 572,
+      "percentual": 8.83,
+      "sqcand": "170001609122"
+    },
+    {
+      "nome": "RAUL JEAN LOUIS HENRY JÚNIOR",
+      "nomeUrna": "RAUL HENRY",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 282,
+      "percentual": 4.35,
+      "sqcand": "170001613277"
+    },
+    {
+      "nome": "JOSÉ CARLOS VERAS DOS SANTOS",
+      "nomeUrna": "CARLOS VERAS",
+      "partido": "PT",
+      "numero": "1314",
+      "votos": 227,
+      "percentual": 3.5,
+      "sqcand": "170001609028"
+    },
+    {
+      "nome": "MARIA LEAL ARRAES DE ALENCAR",
+      "nomeUrna": "MARIA ARRAES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7713",
+      "votos": 188,
+      "percentual": 2.9,
+      "sqcand": "170001610574"
+    },
+    {
+      "nome": "JOSÉ MENDONÇA BEZERRA FILHO",
+      "nomeUrna": "MENDONÇA FILHO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 152,
+      "percentual": 2.35,
+      "sqcand": "170001609111"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROBERTA MACEDO BERTINO ARRAES",
+      "nomeUrna": "ROBERTA ARRAES",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 3573,
+      "percentual": 58.43,
+      "sqcand": "170001618757"
+    },
+    {
+      "nome": "JOSÉ CAVALCANTI ALVES JÚNIOR",
+      "nomeUrna": "ZECA",
+      "partido": "UNIÃO",
+      "numero": "44144",
+      "votos": 555,
+      "percentual": 9.08,
+      "sqcand": "170001613821"
+    },
+    {
+      "nome": "RODRIGO CAVALCANTI NOVAES",
+      "nomeUrna": "RODRIGO NOVAES",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 513,
+      "percentual": 8.39,
+      "sqcand": "170001620381"
+    },
+    {
+      "nome": "DORIEL SATURNINO DE BARROS",
+      "nomeUrna": "DORIEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 272,
+      "percentual": 4.45,
+      "sqcand": "170001608977"
+    },
+    {
+      "nome": "JARBAS DE ANDRADE VASCONCELOS FILHO",
+      "nomeUrna": "JARBAS FILHO",
+      "partido": "PSB",
+      "numero": "40156",
+      "votos": 171,
+      "percentual": 2.8,
+      "sqcand": "170001620402"
+    },
+    {
+      "nome": "HENRIQUE JOSE QUEIROZ COSTA FILHO",
+      "nomeUrna": "HENRIQUE QUEIROZ FILHO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 163,
+      "percentual": 2.67,
+      "sqcand": "170001618759"
+    },
+    {
+      "nome": "JOSÉ ADALTO DOS SANTOS",
+      "nomeUrna": "ADALTO SANTOS",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 87,
+      "percentual": 1.42,
+      "sqcand": "170001618735"
+    }
+  ]
+}

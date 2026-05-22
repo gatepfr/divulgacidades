@@ -1,0 +1,271 @@
+{
+  "populacao": 7415,
+  "votosValidos": 6514,
+  "abstencao": 11.27,
+  "prefeito": {
+    "nome": "ORLANDO PIRES FRANKLIN",
+    "nomeUrna": "SANTOS FRANKLIN",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 4514,
+    "percentual": 69.3,
+    "situacao": "Eleito",
+    "sqcand": "100001970547",
+    "vice": "CASSIO GEORDANE DA SILVA",
+    "viceNomeUrna": "CASSIO",
+    "partidoVice": "PSB",
+    "sqcandVice": "100001970546",
+    "coligacao": "PL / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "MATHEUS FELIPE SILVA DE SOUSA",
+      "nomeUrna": "MATHEUS DO DADO",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 974,
+      "percentual": 15.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001969376"
+    },
+    {
+      "nome": "WILSON ALVES FERNANDES",
+      "nomeUrna": "WILSON FERNANDES",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 631,
+      "percentual": 9.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001969377"
+    },
+    {
+      "nome": "MARIA DESSÂNIA LEÃO FERREIRA",
+      "nomeUrna": "DESSÂNIA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 569,
+      "percentual": 8.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001969382"
+    },
+    {
+      "nome": "ANTONIO ERASMO PINHEIRO DE SOUSA",
+      "nomeUrna": "ERASMO LOBO",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 547,
+      "percentual": 8.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001969383"
+    },
+    {
+      "nome": "ANTONIO ALVES DE OLIVEIRA FILHO",
+      "nomeUrna": "FILHO DO DADÁ",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 468,
+      "percentual": 7.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001969385"
+    },
+    {
+      "nome": "KARILENE RODRIGUES CHAVES",
+      "nomeUrna": "KARILENE CHAVES",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 449,
+      "percentual": 6.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002321228"
+    },
+    {
+      "nome": "RAIMUNDO NONATO DA SILVA FILHO",
+      "nomeUrna": "NONATO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 431,
+      "percentual": 6.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001969380"
+    },
+    {
+      "nome": "CICERO REGO BARBOSA",
+      "nomeUrna": "G DO VITAL",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 405,
+      "percentual": 6.26,
+      "situacao": "Eleito por média",
+      "sqcand": "100001969381"
+    },
+    {
+      "nome": "ANTONIA FERREIRA DA SILVA RODRIGUES",
+      "nomeUrna": "TOINHA DO DENGA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 304,
+      "percentual": 4.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002321226"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 3934,
+      "percentual": 79.96,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 964,
+      "percentual": 19.59,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 11,
+      "percentual": 0.22,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+      "nomeUrna": "DETINHA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 2697,
+      "percentual": 52.51,
+      "sqcand": "100001603115"
+    },
+    {
+      "nome": "JOSÉ JUSCELINO DOS SANTOS REZENDE FILHO",
+      "nomeUrna": "JUSCELINO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4410",
+      "votos": 1292,
+      "percentual": 25.16,
+      "sqcand": "100001610561"
+    },
+    {
+      "nome": "FLAVIA MARIA GOMES PARENTE ALVES MACIEL",
+      "nomeUrna": "FLAVIA ALVES",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 177,
+      "percentual": 3.45,
+      "sqcand": "100001613706"
+    },
+    {
+      "nome": "GILLIANO FRED NASCIMENTO CUTRIM",
+      "nomeUrna": "GIL CUTRIM",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 124,
+      "percentual": 2.41,
+      "sqcand": "100001602010"
+    },
+    {
+      "nome": "ANTONIO DA CRUZ FILGUEIRA NETO",
+      "nomeUrna": "MARRECA FILHO",
+      "partido": "PATRIOTA",
+      "numero": "5122",
+      "votos": 108,
+      "percentual": 2.1,
+      "sqcand": "100001608201"
+    },
+    {
+      "nome": "JOSÉ CARLOS NUNES JÚNIOR",
+      "nomeUrna": "ZÉ CARLOS",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 101,
+      "percentual": 1.97,
+      "sqcand": "100001613717"
+    },
+    {
+      "nome": "MARCIO JOSE HONAISER",
+      "nomeUrna": "MÁRCIO HONAISER",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 47,
+      "percentual": 0.92,
+      "sqcand": "100001601143"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SOLANGE DE ARAUJO SOUSA",
+      "nomeUrna": "SOLANGE ALMEIDA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 2352,
+      "percentual": 47.93,
+      "sqcand": "100001603166"
+    },
+    {
+      "nome": "DAVI BRANDÃO FARIAS",
+      "nomeUrna": "DAVI BRANDÃO",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 753,
+      "percentual": 15.35,
+      "sqcand": "100001607064"
+    },
+    {
+      "nome": "JUSCELINO DA CRUZ FILGUEIRA JUNIOR",
+      "nomeUrna": "JUSCELINO MARRECA",
+      "partido": "PATRIOTA",
+      "numero": "51444",
+      "votos": 492,
+      "percentual": 10.03,
+      "sqcand": "100001608131"
+    },
+    {
+      "nome": "GUILHERME FONSECA PAZ",
+      "nomeUrna": "GUILHERME PAZ",
+      "partido": "PATRIOTA",
+      "numero": "51000",
+      "votos": 234,
+      "percentual": 4.77,
+      "sqcand": "100001608121"
+    },
+    {
+      "nome": "JOSE GEOVANI LOPES DE QUEIROZ JUNIOR",
+      "nomeUrna": "JUNIOR FRANÇA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 137,
+      "percentual": 2.79,
+      "sqcand": "100001608097"
+    },
+    {
+      "nome": "EDNA SANTOS SILVA",
+      "nomeUrna": "EDNA SILVA",
+      "partido": "PATRIOTA",
+      "numero": "51222",
+      "votos": 118,
+      "percentual": 2.4,
+      "sqcand": "100001608109"
+    },
+    {
+      "nome": "ANDREIA LOPES MARTINS REZENDE",
+      "nomeUrna": "ANDREIA MARTINS REZENDE",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 86,
+      "percentual": 1.75,
+      "sqcand": "100001607086"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 3732,
+  "votosValidos": 3049,
+  "abstencao": 15.76,
+  "prefeito": {
+    "nome": "SERGINO DA SILVA PRADO",
+    "nomeUrna": "NENZINHO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1394,
+    "percentual": 45.72,
+    "situacao": "Eleito",
+    "sqcand": "250002153562",
+    "vice": "DONIZETE DA SILVA DE SOUSA",
+    "viceNomeUrna": "DONIZETE DE SOUSA",
+    "partidoVice": "PP",
+    "sqcandVice": "250002153561",
+    "coligacao": "PP / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "VICTOR ANTÔNIO MURGO COSTA",
+      "nomeUrna": "VITINHO DA FARMÁCIA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 250,
+      "percentual": 8.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002235264"
+    },
+    {
+      "nome": "RUAN CARLOS SILVA PEREIRA",
+      "nomeUrna": "RUAN CARLOS",
+      "partido": "PODE",
+      "numero": "20600",
+      "votos": 165,
+      "percentual": 5.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002061008"
+    },
+    {
+      "nome": "GILMARA LATORRE GARCIA MELO",
+      "nomeUrna": "GILMARA",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 161,
+      "percentual": 5.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001973125"
+    },
+    {
+      "nome": "GUILHERME DA SILVA PRIMO",
+      "nomeUrna": "GUILHERME PRIMO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 158,
+      "percentual": 5.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002235266"
+    },
+    {
+      "nome": "ADRIANO PEREIRA DA SILVA",
+      "nomeUrna": "DICA MARIBONDO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 158,
+      "percentual": 5.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002071402"
+    },
+    {
+      "nome": "CÁTIA NUNES DE ABREU",
+      "nomeUrna": "PROFESSORA CÁTIA ABREU",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 151,
+      "percentual": 5.01,
+      "situacao": "Eleito por média",
+      "sqcand": "250002071407"
+    },
+    {
+      "nome": "CESAR DA SILVA PRADO",
+      "nomeUrna": "CESAR PRADO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 138,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002235321"
+    },
+    {
+      "nome": "ADRIANO SERGIO DOURADO MIURA",
+      "nomeUrna": "ADRIANO JAPONÊS",
+      "partido": "PODE",
+      "numero": "20555",
+      "votos": 131,
+      "percentual": 4.35,
+      "situacao": "Eleito por média",
+      "sqcand": "250002061010"
+    },
+    {
+      "nome": "CHEIZON TAVARES MANOEL",
+      "nomeUrna": "CHEIZON",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 128,
+      "percentual": 4.25,
+      "situacao": "Eleito por média",
+      "sqcand": "250001973121"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1366,
+      "percentual": 65.8,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 495,
+      "percentual": 23.84,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 164,
+      "percentual": 7.9,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FAUSTO RUY PINATO",
+      "nomeUrna": "FAUSTO PINATO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 355,
+      "percentual": 15.88,
+      "sqcand": "250001611957"
+    },
+    {
+      "nome": "CATIA NUNES DE ABREU",
+      "nomeUrna": "PROFESSORA CATIA ABREU",
+      "partido": "PL",
+      "numero": "2262",
+      "votos": 285,
+      "percentual": 12.75,
+      "sqcand": "250001611372"
+    },
+    {
+      "nome": "MANOEL MAURICIO SILVA NEVES",
+      "nomeUrna": "MAURICIO NEVES",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 167,
+      "percentual": 7.47,
+      "sqcand": "250001611990"
+    },
+    {
+      "nome": "LUIZ PAULO TEIXEIRA FERREIRA",
+      "nomeUrna": "PAULO TEIXEIRA",
+      "partido": "PT",
+      "numero": "1398",
+      "votos": 130,
+      "percentual": 5.82,
+      "sqcand": "250001610668"
+    },
+    {
+      "nome": "FABIO SOARES DE OLIVEIRA",
+      "nomeUrna": "FABIO SOARES",
+      "partido": "PSDB",
+      "numero": "4532",
+      "votos": 115,
+      "percentual": 5.15,
+      "sqcand": "250001612117"
+    },
+    {
+      "nome": "ALENCAR SANTANA BRAGA",
+      "nomeUrna": "ALENCAR SANTANA",
+      "partido": "PT",
+      "numero": "1358",
+      "votos": 97,
+      "percentual": 4.34,
+      "sqcand": "250001610663"
+    },
+    {
+      "nome": "ALEXANDRE ROCHA SANTOS PADILHA",
+      "nomeUrna": "ALEXANDRE PADILHA",
+      "partido": "PT",
+      "numero": "1354",
+      "votos": 86,
+      "percentual": 3.85,
+      "sqcand": "250001610710"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 219,
+      "percentual": 10.5,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "DEOMERCE DE SOUZA DAMASCENO",
+      "nomeUrna": "DEOMERCE DAMASCENO",
+      "partido": "UNIÃO",
+      "numero": "44018",
+      "votos": 187,
+      "percentual": 8.97,
+      "sqcand": "250001602176"
+    },
+    {
+      "nome": "PAULO ROBERTO FIORILO",
+      "nomeUrna": "PAULO FIORILO",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 176,
+      "percentual": 8.44,
+      "sqcand": "250001611759"
+    },
+    {
+      "nome": "JEFERSON MODESTO SILVA",
+      "nomeUrna": "JEFERSON MODESTO JÉ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 136,
+      "percentual": 6.52,
+      "sqcand": "250001612312"
+    },
+    {
+      "nome": "MARIA IZABEL AZEVEDO NORONHA",
+      "nomeUrna": "PROFESSORA BEBEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 103,
+      "percentual": 4.94,
+      "sqcand": "250001611800"
+    },
+    {
+      "nome": "MARCIA APARECIDA OVEJANEDA LIA",
+      "nomeUrna": "MARCIA LIA",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 100,
+      "percentual": 4.8,
+      "sqcand": "250001611775"
+    },
+    {
+      "nome": "THIAGO REIS AURICCHIO",
+      "nomeUrna": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "numero": "22343",
+      "votos": 89,
+      "percentual": 4.27,
+      "sqcand": "250001610134"
+    }
+  ]
+}

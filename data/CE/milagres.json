@@ -1,0 +1,291 @@
+{
+  "populacao": 22536,
+  "votosValidos": 17869,
+  "abstencao": 16.05,
+  "prefeito": {
+    "nome": "ANDERSON EUGÊNIO DE OLIVEIRA",
+    "nomeUrna": "DERSON",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 9396,
+    "percentual": 52.58,
+    "situacao": "Eleito",
+    "sqcand": "60002006050",
+    "vice": "MARIA ELISANGELA CRISOSTOMO LANDIM",
+    "viceNomeUrna": "ELISANGELA CRISOSTOMO",
+    "partidoVice": "PDT",
+    "sqcandVice": "60002006051",
+    "coligacao": "PDT / MDB / PODE / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "APARECIDA MICHELYANE ALVES BRAGA DE FREITAS",
+      "nomeUrna": "MICHELYANE",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 1617,
+      "percentual": 8.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002124512"
+    },
+    {
+      "nome": "FRANCISCO WESLEY MOREIRA DE MORAIS",
+      "nomeUrna": "TETÉ MORAIS",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 1592,
+      "percentual": 8.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002037397"
+    },
+    {
+      "nome": "GERALDO DE FIGUEIREDO ANDRADE NETTO",
+      "nomeUrna": "GERALDO NETTO",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 1498,
+      "percentual": 8.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002124519"
+    },
+    {
+      "nome": "HÉRICA AMANDA CAVALCANTE MOURA",
+      "nomeUrna": "AMANDA DE UBELARDO",
+      "partido": "PT",
+      "numero": "13777",
+      "votos": 1228,
+      "percentual": 6.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002124515"
+    },
+    {
+      "nome": "OZÓRIO ALVES DANTAS",
+      "nomeUrna": "OZÓRIO DANTAS",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 1221,
+      "percentual": 6.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002124517"
+    },
+    {
+      "nome": "JOSÉ AILTON CRISÓSTOMO PEREIRA",
+      "nomeUrna": "AILTON CRISÓSTOMO",
+      "partido": "PDT",
+      "numero": "12555",
+      "votos": 1166,
+      "percentual": 6.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002037393"
+    },
+    {
+      "nome": "FRANCISCO PEREIRA LEANDRO",
+      "nomeUrna": "CHIQUIM DO SÃO TOMÉ",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 1127,
+      "percentual": 6.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002124518"
+    },
+    {
+      "nome": "FRANCISCO PEREIRA DA SILVA NETO",
+      "nomeUrna": "NETO NAPOLEÃO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 1078,
+      "percentual": 5.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002123141"
+    },
+    {
+      "nome": "ANTONIO ARYLDO DE SOUZA RODRIGUES",
+      "nomeUrna": "ARYLDO DE IVAN",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1040,
+      "percentual": 5.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002124513"
+    },
+    {
+      "nome": "MARTA COELHO BEZERRA DANTAS",
+      "nomeUrna": "MARTA DANTAS",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 891,
+      "percentual": 4.92,
+      "situacao": "Eleito por média",
+      "sqcand": "60002124514"
+    },
+    {
+      "nome": "JADER DOS SANTOS MACHADO",
+      "nomeUrna": "JADER MACHADO",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 453,
+      "percentual": 2.5,
+      "situacao": "Eleito por média",
+      "sqcand": "60002122088"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 12878,
+      "percentual": 83.07,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1680,
+      "percentual": 10.84,
+      "sqcand": "60001731829"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 945,
+      "percentual": 6.1,
+      "sqcand": "60001633970"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "EUNÍCIO LOPES DE OLIVEIRA",
+      "nomeUrna": "EUNÍCIO",
+      "partido": "MDB",
+      "numero": "1533",
+      "votos": 3885,
+      "percentual": 24.66,
+      "sqcand": "60001643110"
+    },
+    {
+      "nome": "MATHEUS SOARES NORONHA",
+      "nomeUrna": "MATHEUS NORONHA",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 2106,
+      "percentual": 13.37,
+      "sqcand": "60001614168"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 1731,
+      "percentual": 10.99,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "YURY BRUNO ALENCAR ARAÚJO",
+      "nomeUrna": "YURY DO PAREDÃO",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 1679,
+      "percentual": 10.66,
+      "sqcand": "60001614155"
+    },
+    {
+      "nome": "FRANCISCA ELIANE BRAZ DE CARVALHO",
+      "nomeUrna": "ELIANE BRAZ",
+      "partido": "PSD",
+      "numero": "5588",
+      "votos": 1233,
+      "percentual": 7.83,
+      "sqcand": "60001601192"
+    },
+    {
+      "nome": "HEITOR RODRIGO PEREIRA FREIRE",
+      "nomeUrna": "HEITOR FREIRE",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1111,
+      "percentual": 7.05,
+      "sqcand": "60001608890"
+    },
+    {
+      "nome": "LUIZ GASTÃO BITTENCOURT DA SILVA",
+      "nomeUrna": "LUIZ GASTÃO",
+      "partido": "PSD",
+      "numero": "5533",
+      "votos": 495,
+      "percentual": 3.14,
+      "sqcand": "60001601188"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GUILHERME SAMPAIO LANDIM",
+      "nomeUrna": "GUILHERME LANDIM",
+      "partido": "PDT",
+      "numero": "12114",
+      "votos": 5009,
+      "percentual": 33.98,
+      "sqcand": "60001603525"
+    },
+    {
+      "nome": "SIMÃO PEDRO ALVES PEQUENO",
+      "nomeUrna": "SIMÃO PEDRO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 2072,
+      "percentual": 14.06,
+      "sqcand": "60001613526"
+    },
+    {
+      "nome": "FERNANDO MATOS SANTANA",
+      "nomeUrna": "FERNANDO SANTANA",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 1741,
+      "percentual": 11.81,
+      "sqcand": "60001633655"
+    },
+    {
+      "nome": "DANNIEL LOPES DE OLIVEIRA SOUSA",
+      "nomeUrna": "DANNIEL OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 1424,
+      "percentual": 9.66,
+      "sqcand": "60001635805"
+    },
+    {
+      "nome": "AUDIC CAVALCANTE MOTA DIAS",
+      "nomeUrna": "AUDIC MOTA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1388,
+      "percentual": 9.42,
+      "sqcand": "60001635804"
+    },
+    {
+      "nome": "DAVID NEY GONÇALVES DE MACÊDO",
+      "nomeUrna": "DAVI DE RAIMUNDÃO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 601,
+      "percentual": 4.08,
+      "sqcand": "60001635812"
+    },
+    {
+      "nome": "EVANDRO SÁ BARRETO LEITÃO",
+      "nomeUrna": "EVANDRO LEITÃO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 175,
+      "percentual": 1.19,
+      "sqcand": "60001603535"
+    }
+  ]
+}

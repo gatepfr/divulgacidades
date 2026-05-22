@@ -1,0 +1,271 @@
+{
+  "populacao": 2080,
+  "votosValidos": 1922,
+  "abstencao": 5.72,
+  "prefeito": {
+    "nome": "GILBERTO SZIMAINSKI",
+    "nomeUrna": "GILBERTO SZIMAINSKI",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 999,
+    "percentual": 51.98,
+    "situacao": "Eleito",
+    "sqcand": "210002136291",
+    "vice": "RONI TRENTINI",
+    "viceNomeUrna": "RONI TRENTINI",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002136292",
+    "coligacao": "REPUBLICANOS / PP / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JUAREZ PAULO MATTIELLO",
+      "nomeUrna": "JUAREZ MATTIELLO",
+      "partido": "REPUBLICANOS",
+      "numero": "10150",
+      "votos": 150,
+      "percentual": 7.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002220761"
+    },
+    {
+      "nome": "JULIANE IRENE MARCZINSKI",
+      "nomeUrna": "JULIANE",
+      "partido": "PT",
+      "numero": "13666",
+      "votos": 128,
+      "percentual": 6.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002141678"
+    },
+    {
+      "nome": "CLAUDIOMIRO GOTARDO RIGO",
+      "nomeUrna": "RIGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10620",
+      "votos": 127,
+      "percentual": 6.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002220758"
+    },
+    {
+      "nome": "DOUGLAS LUCAS ANDRETTA",
+      "nomeUrna": "DOUGLAS ANDRETTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10345",
+      "votos": 121,
+      "percentual": 6.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002220759"
+    },
+    {
+      "nome": "NILSA GONÇALVES DO NASCIMENTO PRESSI",
+      "nomeUrna": "PROFE NILSA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 116,
+      "percentual": 6.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002220767"
+    },
+    {
+      "nome": "CESAR SEMANSKI",
+      "nomeUrna": "CESAR",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 84,
+      "percentual": 4.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002141681"
+    },
+    {
+      "nome": "ANDRESSA DE DEUS MARCYNSKI",
+      "nomeUrna": "ANDRESSA MARCYNSKI",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 82,
+      "percentual": 4.25,
+      "situacao": "Eleito por média",
+      "sqcand": "210002141675"
+    },
+    {
+      "nome": "LUIZ ODACIR SBERSE",
+      "nomeUrna": "LUIZ SBERSE",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 80,
+      "percentual": 4.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002142684"
+    },
+    {
+      "nome": "BENILDO ANTONIO GRANDO",
+      "nomeUrna": "BENILDO A GRANDO",
+      "partido": "PL",
+      "numero": "22068",
+      "votos": 71,
+      "percentual": 3.68,
+      "situacao": "Eleito por média",
+      "sqcand": "210002164197"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 654,
+      "percentual": 45.42,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 613,
+      "percentual": 42.57,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 133,
+      "percentual": 9.24,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 212,
+      "percentual": 14.15,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "ALEXANDRE DUARTE LINDENMEYER",
+      "nomeUrna": "ALEXANDRE LINDENMEYER",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 124,
+      "percentual": 8.28,
+      "sqcand": "210001604656"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 118,
+      "percentual": 7.88,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 108,
+      "percentual": 7.21,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 106,
+      "percentual": 7.08,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 98,
+      "percentual": 6.54,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "MARIA DO ROSÁRIO NUNES",
+      "nomeUrna": "MARIA DO ROSÁRIO",
+      "partido": "PT",
+      "numero": "1370",
+      "votos": 82,
+      "percentual": 5.47,
+      "sqcand": "210001604650"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 160,
+      "percentual": 11.07,
+      "sqcand": "210001647982"
+    },
+    {
+      "nome": "CLAUDIOMIRO FRACASSO",
+      "nomeUrna": "CLAUDIÃO DE IBIAÇÁ",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 123,
+      "percentual": 8.51,
+      "sqcand": "210001610602"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 116,
+      "percentual": 8.02,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 113,
+      "percentual": 7.81,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 106,
+      "percentual": 7.33,
+      "sqcand": "210001602904"
+    },
+    {
+      "nome": "JOSÉ SIDNEY NUNES DE ALMEIDA",
+      "nomeUrna": "ZÉ NUNES",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 101,
+      "percentual": 6.98,
+      "sqcand": "210001610623"
+    },
+    {
+      "nome": "GILMAR SOSSELLA",
+      "nomeUrna": "SOSSELLA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 97,
+      "percentual": 6.71,
+      "sqcand": "210001621287"
+    }
+  ]
+}

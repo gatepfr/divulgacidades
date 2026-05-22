@@ -1,0 +1,271 @@
+{
+  "populacao": 3790,
+  "votosValidos": 3006,
+  "abstencao": 18.31,
+  "prefeito": {
+    "nome": "MARCO ANTONIO MONTEIRO CARDOSO",
+    "nomeUrna": "MARCO CARDOSO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1503,
+    "percentual": 50.0,
+    "situacao": "Eleito",
+    "sqcand": "210002223875",
+    "vice": "REGINALDO CARVALHO BARBOSA",
+    "viceNomeUrna": "REGINALDO BARBOSA",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002223876",
+    "coligacao": "MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JESUELO DA SILVA",
+      "nomeUrna": "JÉSU SILVA",
+      "partido": "PP",
+      "numero": "11500",
+      "votos": 348,
+      "percentual": 11.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002201614"
+    },
+    {
+      "nome": "MARILIA DOS SANTOS OLIVEIRA",
+      "nomeUrna": "MARILIA BUENO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 220,
+      "percentual": 7.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002224422"
+    },
+    {
+      "nome": "PAULO RENATO DA SILVA LEAL",
+      "nomeUrna": "RENATO LEAL",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 162,
+      "percentual": 5.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002290554"
+    },
+    {
+      "nome": "ISABEL CRISTINA PEREIRA BUENO",
+      "nomeUrna": "CRISTINA BUENO",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 133,
+      "percentual": 4.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002228759"
+    },
+    {
+      "nome": "JOSE ROBERTO CAMARGO DOS REIS",
+      "nomeUrna": "BETO CAMARGO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 131,
+      "percentual": 4.35,
+      "situacao": "Eleito por média",
+      "sqcand": "210002224423"
+    },
+    {
+      "nome": "PAULO ROBERTO CONCEIÇÃO TERRA",
+      "nomeUrna": "PAULINHO XAVIER",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 129,
+      "percentual": 4.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002201616"
+    },
+    {
+      "nome": "TATIANE DOS PASSOS KESTERING MEYER",
+      "nomeUrna": "PROF TATI",
+      "partido": "CIDADANIA",
+      "numero": "23023",
+      "votos": 110,
+      "percentual": 3.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002346569"
+    },
+    {
+      "nome": "DANIEL DOS SANTOS VARGAS",
+      "nomeUrna": "PROF DANIEL VARGAS",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 96,
+      "percentual": 3.19,
+      "situacao": "Eleito por média",
+      "sqcand": "210002201613"
+    },
+    {
+      "nome": "SANDRA MARA SILVA CARDOSO",
+      "nomeUrna": "PROF SANDRINHA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 82,
+      "percentual": 2.72,
+      "situacao": "Eleito por média",
+      "sqcand": "210002228756"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1178,
+      "percentual": 44.66,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 887,
+      "percentual": 33.62,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 490,
+      "percentual": 18.57,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANY MACHADO ORTIZ",
+      "nomeUrna": "ANY ORTIZ",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 346,
+      "percentual": 12.65,
+      "sqcand": "210001620037"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 227,
+      "percentual": 8.3,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 178,
+      "percentual": 6.51,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 166,
+      "percentual": 6.07,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "LAVINA DIAS DE SOUZA",
+      "nomeUrna": "PROFESSORA LAVINA",
+      "partido": "PDT",
+      "numero": "1250",
+      "votos": 161,
+      "percentual": 5.89,
+      "sqcand": "210001621268"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 130,
+      "percentual": 4.75,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "NELSON MARCHEZAN JÚNIOR",
+      "nomeUrna": "NELSON MARCHEZAN JÚNIOR",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 105,
+      "percentual": 3.84,
+      "sqcand": "210001620058"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCUS VINÍCIUS VIEIRA DE ALMEIDA",
+      "nomeUrna": "MARCUS VINÍCIUS",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 199,
+      "percentual": 7.63,
+      "sqcand": "210001647184"
+    },
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 185,
+      "percentual": 7.09,
+      "sqcand": "210001621320"
+    },
+    {
+      "nome": "JOSÉ OLAVO ROSA BISOL",
+      "nomeUrna": "BISOL",
+      "partido": "PDT",
+      "numero": "12233",
+      "votos": 116,
+      "percentual": 4.45,
+      "sqcand": "210001621291"
+    },
+    {
+      "nome": "PATRICIA BAZOTTI",
+      "nomeUrna": "PATRICIA ALBA",
+      "partido": "MDB",
+      "numero": "15715",
+      "votos": 97,
+      "percentual": 3.72,
+      "sqcand": "210001648001"
+    },
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 90,
+      "percentual": 3.45,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "LAURA SOARES SITO SILVEIRA",
+      "nomeUrna": "LAURA SITO",
+      "partido": "PT",
+      "numero": "13300",
+      "votos": 89,
+      "percentual": 3.41,
+      "sqcand": "210001610626"
+    },
+    {
+      "nome": "CHRISTIAN WYSE DE LEMOS",
+      "nomeUrna": "CHRISTIAN LEMOS ",
+      "partido": "PSDB",
+      "numero": "45101",
+      "votos": 88,
+      "percentual": 3.37,
+      "sqcand": "210001620184"
+    }
+  ]
+}

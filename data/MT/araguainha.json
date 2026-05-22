@@ -1,0 +1,271 @@
+{
+  "populacao": 1253,
+  "votosValidos": 1127,
+  "abstencao": 8.22,
+  "prefeito": {
+    "nome": "FRANCISCO GONÇALVES NAVES",
+    "nomeUrna": "CHIQUINHO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 878,
+    "percentual": 77.91,
+    "situacao": "Eleito",
+    "sqcand": "110002036403",
+    "vice": "GILLIARD MENDES DA SILVA",
+    "viceNomeUrna": "GILLIARD MENDES",
+    "partidoVice": "PSB",
+    "sqcandVice": "110002036404",
+    "coligacao": "UNIÃO / MDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "ELZI NAVES MARQUES",
+      "nomeUrna": "ELZI",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 126,
+      "percentual": 11.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002036405"
+    },
+    {
+      "nome": "DHENEFFER NAVES DIAS",
+      "nomeUrna": "DHENEFFER",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 109,
+      "percentual": 9.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002036340"
+    },
+    {
+      "nome": "JHONATAN INOCENCIO RODRIGUES",
+      "nomeUrna": "JHONATAN RODRIGUES",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 74,
+      "percentual": 6.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002036406"
+    },
+    {
+      "nome": "ALEX MENDES CLEMENTE",
+      "nomeUrna": "ALEX MENDES",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 67,
+      "percentual": 5.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002311527"
+    },
+    {
+      "nome": "LUIZ CLAUDIO DE SOUZA",
+      "nomeUrna": "CARECA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 66,
+      "percentual": 5.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002036343"
+    },
+    {
+      "nome": "ARNALDO BARRETO",
+      "nomeUrna": "BARRETO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 64,
+      "percentual": 5.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002036412"
+    },
+    {
+      "nome": "ANTONIO MARCOS DA SILVA",
+      "nomeUrna": "ANTONIO MARCOS",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 54,
+      "percentual": 4.77,
+      "situacao": "Eleito por média",
+      "sqcand": "110002036411"
+    },
+    {
+      "nome": "DEVAIR ALVES SANZIONE DA SILVEIRA",
+      "nomeUrna": "DEVAIR SANZIONE",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 53,
+      "percentual": 4.68,
+      "situacao": "Eleito por média",
+      "sqcand": "110002311526"
+    },
+    {
+      "nome": "WEDER MENDES DE OLIVEIRA",
+      "nomeUrna": "WEDER MENDES",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 48,
+      "percentual": 4.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002036269"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 334,
+      "percentual": 78.04,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 70,
+      "percentual": 16.36,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "FELICIANO LHANOS AZUAGA",
+      "nomeUrna": "FELICIANO AZUAGA",
+      "partido": "NOVO",
+      "numero": "300",
+      "votos": 10,
+      "percentual": 2.34,
+      "sqcand": "110001593948"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NELSON NED PREVIDENTE",
+      "nomeUrna": "NELSON BARBUDO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 299,
+      "percentual": 39.19,
+      "sqcand": "110001612759"
+    },
+    {
+      "nome": "JUAREZ ALVES DA COSTA",
+      "nomeUrna": "JUAREZ COSTA",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 255,
+      "percentual": 33.42,
+      "sqcand": "110001623293"
+    },
+    {
+      "nome": "NEUMA DE MORAIS",
+      "nomeUrna": "DONA NEUMA",
+      "partido": "PSB",
+      "numero": "4080",
+      "votos": 52,
+      "percentual": 6.82,
+      "sqcand": "110001601574"
+    },
+    {
+      "nome": "FÁBIO PAULINO GARCIA",
+      "nomeUrna": "FÁBIO GARCIA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 20,
+      "percentual": 2.62,
+      "sqcand": "110001612770"
+    },
+    {
+      "nome": "JOSÉ ANTÔNIO DOS SANTOS MEDEIROS",
+      "nomeUrna": "JOSÉ MEDEIROS",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 20,
+      "percentual": 2.62,
+      "sqcand": "110001612757"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 18,
+      "percentual": 2.36,
+      "sqcand": "110001675052"
+    },
+    {
+      "nome": "VALTENIR LUIZ PEREIRA",
+      "nomeUrna": "VALTENIR PEREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 16,
+      "percentual": 2.1,
+      "sqcand": "110001623299"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ONDANIR BORTOLINI",
+      "nomeUrna": "NININHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 311,
+      "percentual": 40.65,
+      "sqcand": "110001643417"
+    },
+    {
+      "nome": "PRISCILA DOURADO MARTINS DA SILVA",
+      "nomeUrna": "PRISCILA DOURADO",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 123,
+      "percentual": 16.08,
+      "sqcand": "110001604923"
+    },
+    {
+      "nome": "ARLAN SOARES CATULÉ FILHO",
+      "nomeUrna": "ARLAN CATULÉ",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 95,
+      "percentual": 12.42,
+      "sqcand": "110001612946"
+    },
+    {
+      "nome": "JANAÍNA GREYCE RIVA FAGUNDES",
+      "nomeUrna": "JANAÍNA RIVA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 55,
+      "percentual": 7.19,
+      "sqcand": "110001623186"
+    },
+    {
+      "nome": "DILMAR DAL BOSCO",
+      "nomeUrna": "DILMAR DAL BOSCO",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 27,
+      "percentual": 3.53,
+      "sqcand": "110001612944"
+    },
+    {
+      "nome": "LUDIO FRANK MENDES CABRAL",
+      "nomeUrna": "LÚDIO CABRAL",
+      "partido": "PT",
+      "numero": "13130",
+      "votos": 23,
+      "percentual": 3.01,
+      "sqcand": "110001719779"
+    },
+    {
+      "nome": "ALBERTO MACHADO",
+      "nomeUrna": "BETO DOIS A UM",
+      "partido": "PSB",
+      "numero": "40321",
+      "votos": 22,
+      "percentual": 2.88,
+      "sqcand": "110001604930"
+    }
+  ]
+}

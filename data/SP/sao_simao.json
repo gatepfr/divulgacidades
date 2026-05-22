@@ -1,0 +1,271 @@
+{
+  "populacao": 11301,
+  "votosValidos": 8307,
+  "abstencao": 22.32,
+  "prefeito": {
+    "nome": "IZAIAS LEAO DE SOUZA",
+    "nomeUrna": "DR IZAIAS",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 4129,
+    "percentual": 49.71,
+    "situacao": "Eleito",
+    "sqcand": "250001885266",
+    "vice": "ADAUTO LUIZ PEREIRA DOS REIS",
+    "viceNomeUrna": "GATO GORDO",
+    "partidoVice": "PSB",
+    "sqcandVice": "250001885267",
+    "coligacao": "PSD / PSB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "MAX ALEXANDRE GONÇALVES DOMINGOS",
+      "nomeUrna": "MAX",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 673,
+      "percentual": 8.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001885250"
+    },
+    {
+      "nome": "VICTOR GABRIEL MURILO DE SOUZA",
+      "nomeUrna": "VICTOR MURILO",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 554,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001885255"
+    },
+    {
+      "nome": "MATHEUS AUGUSTO AMBRÓSIO",
+      "nomeUrna": "MATHEUS AMBRÓSIO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 531,
+      "percentual": 6.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001991222"
+    },
+    {
+      "nome": "SORAIA DOS SANTOS CARNEIRO DEPIRO",
+      "nomeUrna": "SORAIA DO BANCO",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 500,
+      "percentual": 6.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001884383"
+    },
+    {
+      "nome": "CLAUDEMIR APARECIDO DOLMEN",
+      "nomeUrna": "CLAUDEMIR MI",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 322,
+      "percentual": 3.92,
+      "situacao": "Eleito por média",
+      "sqcand": "250001991217"
+    },
+    {
+      "nome": "ECIVAM PEREIRA SANTOS",
+      "nomeUrna": "VAM",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 242,
+      "percentual": 2.94,
+      "situacao": "Eleito por média",
+      "sqcand": "250001977553"
+    },
+    {
+      "nome": "ANA LUIZA MARCANTONIO",
+      "nomeUrna": "ANA LUIZA MARCANTONIO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 224,
+      "percentual": 2.72,
+      "situacao": "Eleito por média",
+      "sqcand": "250001884381"
+    },
+    {
+      "nome": "MARCIA CRISTINA GRANEIRO",
+      "nomeUrna": "MARCIA GRANEIRO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 197,
+      "percentual": 2.4,
+      "situacao": "Eleito por média",
+      "sqcand": "250001885252"
+    },
+    {
+      "nome": "LUIZ APARECIDO MACHADO SANTOS",
+      "nomeUrna": "NETINHO CABELEIREIRO",
+      "partido": "AGIR",
+      "numero": "36036",
+      "votos": 171,
+      "percentual": 2.08,
+      "situacao": "Eleito por média",
+      "sqcand": "250001977870"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4004,
+      "percentual": 54.2,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 2278,
+      "percentual": 30.83,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 811,
+      "percentual": 10.98,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS HENRIQUE FOCESI SAMPAIO",
+      "nomeUrna": "CARLOS SAMPAIO",
+      "partido": "PSDB",
+      "numero": "4500",
+      "votos": 1651,
+      "percentual": 20.91,
+      "sqcand": "250001612116"
+    },
+    {
+      "nome": "RICARDO AUGUSTO MACHADO DA SILVA",
+      "nomeUrna": "RICARDO SILVA",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 819,
+      "percentual": 10.37,
+      "sqcand": "250001604967"
+    },
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 674,
+      "percentual": 8.54,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "NICOLINO BOZZELLA JUNIOR",
+      "nomeUrna": "JÚNIOR BOZZELLA",
+      "partido": "UNIÃO",
+      "numero": "4470",
+      "votos": 519,
+      "percentual": 6.57,
+      "sqcand": "250001602068"
+    },
+    {
+      "nome": "ALEXANDRE ROCHA SANTOS PADILHA",
+      "nomeUrna": "ALEXANDRE PADILHA",
+      "partido": "PT",
+      "numero": "1354",
+      "votos": 240,
+      "percentual": 3.04,
+      "sqcand": "250001610710"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 220,
+      "percentual": 2.79,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 205,
+      "percentual": 2.6,
+      "sqcand": "250001611315"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SORAIA DOS SANTOS CARNEIRO D EPIRO",
+      "nomeUrna": "SORAIA DO BANCO",
+      "partido": "UNIÃO",
+      "numero": "44041",
+      "votos": 2046,
+      "percentual": 27.03,
+      "sqcand": "250001602104"
+    },
+    {
+      "nome": "RAFAEL ANTONIO DA SILVA",
+      "nomeUrna": "RAFAEL SILVA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 800,
+      "percentual": 10.57,
+      "sqcand": "250001605053"
+    },
+    {
+      "nome": "DAMARIS DIAS MOURA KUO",
+      "nomeUrna": "DRA DAMARIS MOURA",
+      "partido": "PSDB",
+      "numero": "45245",
+      "votos": 615,
+      "percentual": 8.13,
+      "sqcand": "250001611428"
+    },
+    {
+      "nome": "JOSÉ CARLOS CARRASCOSA DOS SANTOS",
+      "nomeUrna": "BOI",
+      "partido": "PSDB",
+      "numero": "45445",
+      "votos": 491,
+      "percentual": 6.49,
+      "sqcand": "250001611456"
+    },
+    {
+      "nome": "OCIMAR DONIZETI LEO OLIVEIRA",
+      "nomeUrna": "LEO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 422,
+      "percentual": 5.58,
+      "sqcand": "250001610005"
+    },
+    {
+      "nome": "THAINARA KAROLINE FARIA",
+      "nomeUrna": "THAINARA FARIA",
+      "partido": "PT",
+      "numero": "13016",
+      "votos": 255,
+      "percentual": 3.37,
+      "sqcand": "250001611769"
+    },
+    {
+      "nome": "MARDQUEU SILVIO FRANCA FILHO",
+      "nomeUrna": "SAMURAI CAÇADOR",
+      "partido": "PRTB",
+      "numero": "28357",
+      "votos": 147,
+      "percentual": 1.94,
+      "sqcand": "250001699831"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 3707,
+  "votosValidos": 2181,
+  "abstencao": 12.0,
+  "prefeito": {
+    "nome": "ODACIR BOAVENTURA MANHABOSCO DE MELLO",
+    "nomeUrna": "ODACIR",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 2181,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "210002050973",
+    "vice": "JOSÉ ALDO TIBOLA",
+    "viceNomeUrna": "KINHA",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002050974",
+    "coligacao": "MDB / PSB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ADELAR MELLO DE MORAES",
+      "nomeUrna": "QUEXO",
+      "partido": "MDB",
+      "numero": "15147",
+      "votos": 411,
+      "percentual": 13.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002055185"
+    },
+    {
+      "nome": "WILLIAN LUIZ LOPES",
+      "nomeUrna": "WILLIAN LOPES",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 312,
+      "percentual": 9.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002055192"
+    },
+    {
+      "nome": "EVERTON CAMPANHARO RODRIGUES",
+      "nomeUrna": "EVERTON",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 286,
+      "percentual": 9.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002065390"
+    },
+    {
+      "nome": "JOLDERIO BRAGAGNOL MORESCO",
+      "nomeUrna": "JOLDERIO MORESCO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 280,
+      "percentual": 8.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002055188"
+    },
+    {
+      "nome": "LUIZ CARLOS KLANOVICZ",
+      "nomeUrna": "LUIZ CARLOS",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 264,
+      "percentual": 8.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002342505"
+    },
+    {
+      "nome": "ANA PAULA DE OLIVEIRA",
+      "nomeUrna": "PAULA",
+      "partido": "PP",
+      "numero": "11024",
+      "votos": 245,
+      "percentual": 7.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002342507"
+    },
+    {
+      "nome": "ARY SEGALA",
+      "nomeUrna": "ARY SEGALA",
+      "partido": "PT",
+      "numero": "13610",
+      "votos": 228,
+      "percentual": 7.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002065392"
+    },
+    {
+      "nome": "MATEUS BERTON VIECILLI",
+      "nomeUrna": "MATEUS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 198,
+      "percentual": 6.32,
+      "situacao": "Eleito por média",
+      "sqcand": "210002065389"
+    },
+    {
+      "nome": "PEDRO ASSIS DA LUZ",
+      "nomeUrna": "PEDRINHO DA LUZ",
+      "partido": "MDB",
+      "numero": "15400",
+      "votos": 154,
+      "percentual": 4.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002055189"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1198,
+      "percentual": 44.04,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 985,
+      "percentual": 36.21,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 423,
+      "percentual": 15.55,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 469,
+      "percentual": 16.25,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "ANY MACHADO ORTIZ",
+      "nomeUrna": "ANY ORTIZ",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 350,
+      "percentual": 12.13,
+      "sqcand": "210001620037"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 321,
+      "percentual": 11.12,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 299,
+      "percentual": 10.36,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "LUCIANO PALMA DE AZEVEDO",
+      "nomeUrna": "LUCIANO AZEVEDO",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 219,
+      "percentual": 7.59,
+      "sqcand": "210001613993"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 172,
+      "percentual": 5.96,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 148,
+      "percentual": 5.13,
+      "sqcand": "210001647867"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARLINDO ANTONIO LOPES",
+      "nomeUrna": "ARLINDO LOPES",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 1934,
+      "percentual": 68.12,
+      "sqcand": "210001647974"
+    },
+    {
+      "nome": "GILMAR SOSSELLA",
+      "nomeUrna": "SOSSELLA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 119,
+      "percentual": 4.19,
+      "sqcand": "210001621287"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 112,
+      "percentual": 3.95,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "SERGIO PERES ALOS",
+      "nomeUrna": "SERGIO PERES",
+      "partido": "REPUBLICANOS",
+      "numero": "10300",
+      "votos": 83,
+      "percentual": 2.92,
+      "sqcand": "210001601643"
+    },
+    {
+      "nome": "GUILHERME RECH PASIN",
+      "nomeUrna": "GUILHERME PASIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 65,
+      "percentual": 2.29,
+      "sqcand": "210001647169"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 59,
+      "percentual": 2.08,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "RODINEI ESCOBAR XAVIER CANDEIA",
+      "nomeUrna": "RODINEI CANDEIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 33,
+      "percentual": 1.16,
+      "sqcand": "210001601666"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 6009,
+  "votosValidos": 4415,
+  "abstencao": 22.12,
+  "prefeito": {
+    "nome": "MARIA LUISA ZANONI PRATA",
+    "nomeUrna": "MARIA LUISA DO ILDEBRAN",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2978,
+    "percentual": 67.45,
+    "situacao": "Eleito",
+    "sqcand": "250002397332",
+    "vice": "JOSE ANTONIO DE CAMPOS",
+    "viceNomeUrna": "ZÉ BANANA",
+    "partidoVice": "PSD",
+    "sqcandVice": "250001959914",
+    "coligacao": "PODE / REPUBLICANOS / PSB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "VALDECI REIS PINA",
+      "nomeUrna": "VAL PINA",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 235,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002132047"
+    },
+    {
+      "nome": "ZENILDE SANTOS DAS NEVES",
+      "nomeUrna": "ZENI",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 223,
+      "percentual": 5.0,
+      "situacao": "Eleito por média",
+      "sqcand": "250002132044"
+    },
+    {
+      "nome": "CLEITON PAULO DOS SANTOS",
+      "nomeUrna": "PR CLEITON PAULO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 190,
+      "percentual": 4.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002310235"
+    },
+    {
+      "nome": "ADRIANA APARECIDA BELOTTI",
+      "nomeUrna": "DRI BELOTTI",
+      "partido": "PODE",
+      "numero": "20777",
+      "votos": 180,
+      "percentual": 4.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002129705"
+    },
+    {
+      "nome": "IVAN PASETO",
+      "nomeUrna": "IVAN PASETO",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 161,
+      "percentual": 3.61,
+      "situacao": "Eleito por média",
+      "sqcand": "250002310693"
+    },
+    {
+      "nome": "ARLEI MATOS CARDOSO",
+      "nomeUrna": "ARLEI LEINHO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 153,
+      "percentual": 3.43,
+      "situacao": "Eleito por média",
+      "sqcand": "250002131744"
+    },
+    {
+      "nome": "LUCIANO LUIZ MURBACH",
+      "nomeUrna": "LUCIANO DO PORTAL",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 151,
+      "percentual": 3.38,
+      "situacao": "Eleito por média",
+      "sqcand": "250002131007"
+    },
+    {
+      "nome": "ADRIANA RIBEIRO DA SILVA",
+      "nomeUrna": "ADRIANA RIBEIRO",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 126,
+      "percentual": 2.82,
+      "situacao": "Eleito por média",
+      "sqcand": "250002311008"
+    },
+    {
+      "nome": "ELAINE CRISTINA COSMO",
+      "nomeUrna": "ELAINE DA SAÚDE",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 119,
+      "percentual": 2.67,
+      "situacao": "Eleito por média",
+      "sqcand": "250002310581"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2575,
+      "percentual": 69.58,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 699,
+      "percentual": 18.89,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 277,
+      "percentual": 7.48,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JEFFERSON ALVES DE CAMPOS",
+      "nomeUrna": "JEFFERSON CAMPOS",
+      "partido": "PL",
+      "numero": "2274",
+      "votos": 319,
+      "percentual": 8.33,
+      "sqcand": "250001611329"
+    },
+    {
+      "nome": "GUILHERME MURARO DERRITE",
+      "nomeUrna": "CAPITÃO DERRITE",
+      "partido": "PL",
+      "numero": "2290",
+      "votos": 313,
+      "percentual": 8.17,
+      "sqcand": "250001611359"
+    },
+    {
+      "nome": "GUILHERME CAMPOS JUNIOR",
+      "nomeUrna": "GUILHERME CAMPOS",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 275,
+      "percentual": 7.18,
+      "sqcand": "250001604972"
+    },
+    {
+      "nome": "PAULO ROBERTO FREIRE DA COSTA",
+      "nomeUrna": "PAULO FREIRE DA COSTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 176,
+      "percentual": 4.59,
+      "sqcand": "250001611351"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 157,
+      "percentual": 4.1,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 149,
+      "percentual": 3.89,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "RODRIGO GAMBALE VIEIRA",
+      "nomeUrna": "RODRIGO GAMBALE",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 105,
+      "percentual": 2.74,
+      "sqcand": "250001610316"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "HELIO DONIZETE ZANATTA",
+      "nomeUrna": "HELINHO ZANATTA",
+      "partido": "PSC",
+      "numero": "20123",
+      "votos": 516,
+      "percentual": 13.99,
+      "sqcand": "250001643762"
+    },
+    {
+      "nome": "CARLOS CEZAR DA SILVA",
+      "nomeUrna": "CARLOS CEZAR",
+      "partido": "PL",
+      "numero": "22112",
+      "votos": 323,
+      "percentual": 8.76,
+      "sqcand": "250001610158"
+    },
+    {
+      "nome": "ROBERTO TURCHI DE MORAIS",
+      "nomeUrna": "ROBERTO MORAIS",
+      "partido": "CIDADANIA",
+      "numero": "23623",
+      "votos": 319,
+      "percentual": 8.65,
+      "sqcand": "250001611439"
+    },
+    {
+      "nome": "ANTONIO ASSUNÇÃO DE OLIM",
+      "nomeUrna": "DELEGADO OLIM",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 245,
+      "percentual": 6.64,
+      "sqcand": "250001612298"
+    },
+    {
+      "nome": "JOSE ALDO DEMARCHI",
+      "nomeUrna": "ALDO DEMARCHI",
+      "partido": "UNIÃO",
+      "numero": "44122",
+      "votos": 214,
+      "percentual": 5.8,
+      "sqcand": "250001602169"
+    },
+    {
+      "nome": "MARTA MARIA FREIRE DA COSTA",
+      "nomeUrna": "MARTA COSTA",
+      "partido": "PSD",
+      "numero": "55400",
+      "votos": 180,
+      "percentual": 4.88,
+      "sqcand": "250001605001"
+    },
+    {
+      "nome": "JOÃO GUILHERME BENETTI RAMOS",
+      "nomeUrna": "JOÃO GUILHERME",
+      "partido": "PT",
+      "numero": "13019",
+      "votos": 130,
+      "percentual": 3.52,
+      "sqcand": "250001611772"
+    }
+  ]
+}

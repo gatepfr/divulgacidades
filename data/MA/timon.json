@@ -1,0 +1,391 @@
+{
+  "populacao": 122386,
+  "votosValidos": 99930,
+  "abstencao": 14.39,
+  "prefeito": {
+    "nome": "RAFAEL DE BRITO SOUSA",
+    "nomeUrna": "RAFAEL",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 44307,
+    "percentual": 44.34,
+    "situacao": "Eleito",
+    "sqcand": "100002025269",
+    "vice": "MARIA DO SOCORRO ALMEIDA WAQUIM",
+    "viceNomeUrna": "PROFª SOCORRO",
+    "partidoVice": "PP",
+    "sqcandVice": "100002025270",
+    "coligacao": "PSB / PP / MDB / CIDADANIA / PSDB / PODE / REPUBLICANOS / PMB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ULYSSES ALMEIDA WAQUIM",
+      "nomeUrna": "ULYSSES WAQUIM",
+      "partido": "MDB",
+      "numero": "15900",
+      "votos": 2520,
+      "percentual": 2.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001916544"
+    },
+    {
+      "nome": "MARCIO DE SOUZA SÁ",
+      "nomeUrna": "MARCIO SÁ",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 2258,
+      "percentual": 2.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002191089"
+    },
+    {
+      "nome": "THIAGO DE CARVALHO SANTOS",
+      "nomeUrna": "THIAGO CARVALHO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 2163,
+      "percentual": 2.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002006647"
+    },
+    {
+      "nome": "IVAN BATISTA DA SILVA",
+      "nomeUrna": "IVAN DO SABOREAR",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 2160,
+      "percentual": 2.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002006639"
+    },
+    {
+      "nome": "PEDRO AUGUSTO MORAES DOS SANTOS",
+      "nomeUrna": "P.A PEDRO AUGUSTO",
+      "partido": "PRTB",
+      "numero": "28333",
+      "votos": 2106,
+      "percentual": 2.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002241797"
+    },
+    {
+      "nome": "AMANDA PIRES DE ARAUJO",
+      "nomeUrna": "AMANDA PIRES",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 2065,
+      "percentual": 2.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918374"
+    },
+    {
+      "nome": "MARIA DA LUZ DE SOUSA SILVA FLOR",
+      "nomeUrna": "DA LUZ SETE ESTRELAS",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 1954,
+      "percentual": 1.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002313787"
+    },
+    {
+      "nome": "HELDER KAIC NASCIMENTO DE ALENCAR",
+      "nomeUrna": "KAIC",
+      "partido": "PRTB",
+      "numero": "28144",
+      "votos": 1906,
+      "percentual": 1.88,
+      "situacao": "Eleito por média",
+      "sqcand": "100002241795"
+    },
+    {
+      "nome": "MARCOS VINICIUS CARVALHO DE MOURA",
+      "nomeUrna": "MARCOS MOURA",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 1889,
+      "percentual": 1.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001916377"
+    },
+    {
+      "nome": "THALLYS MONTEIRO BORGES",
+      "nomeUrna": "THALLYS MONTEIRO",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 1769,
+      "percentual": 1.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001916382"
+    },
+    {
+      "nome": "JOSÉ WILMA DA SILVA RESENDE",
+      "nomeUrna": "UILMA RESENDE",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 1738,
+      "percentual": 1.71,
+      "situacao": "Eleito por média",
+      "sqcand": "100001918378"
+    },
+    {
+      "nome": "LAZARO MARTINS ARAUJO",
+      "nomeUrna": "LAZARO MARTINS",
+      "partido": "UNIÃO",
+      "numero": "44212",
+      "votos": 1578,
+      "percentual": 1.56,
+      "situacao": "Eleito por média",
+      "sqcand": "100002006643"
+    },
+    {
+      "nome": "FRANCISCO DE MORAIS REIS",
+      "nomeUrna": "CHAGAS CIGARREIRO",
+      "partido": "MOBILIZA",
+      "numero": "33121",
+      "votos": 1557,
+      "percentual": 1.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002241970"
+    },
+    {
+      "nome": "LUIS CARLOS DA SILVA SÁ",
+      "nomeUrna": "KAKÁ DO FRIGO SÁ",
+      "partido": "AGIR",
+      "numero": "36789",
+      "votos": 1471,
+      "percentual": 1.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002349044"
+    },
+    {
+      "nome": "FRANCISCA CLARA DA SILVA SOUSA PRADO",
+      "nomeUrna": "CLARA PRADO DA RAÇÃO",
+      "partido": "PSB",
+      "numero": "40212",
+      "votos": 1426,
+      "percentual": 1.41,
+      "situacao": "Eleito por média",
+      "sqcand": "100001916386"
+    },
+    {
+      "nome": "LUCAS PINHEIRO PINTO",
+      "nomeUrna": "LUCAS DA FARMÁCIA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 1354,
+      "percentual": 1.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001916550"
+    },
+    {
+      "nome": "DENISVALDO GINO DE SOUSA",
+      "nomeUrna": "COCA DO MATAPASTO",
+      "partido": "AVANTE",
+      "numero": "70369",
+      "votos": 1353,
+      "percentual": 1.33,
+      "situacao": "Eleito por média",
+      "sqcand": "100002313781"
+    },
+    {
+      "nome": "JOSÉ CARLOS FERNANDES DE ASSUNÇÃO",
+      "nomeUrna": "JOSÉ CARLOS ASSUNÇÃO",
+      "partido": "PDT",
+      "numero": "12567",
+      "votos": 1327,
+      "percentual": 1.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002191081"
+    },
+    {
+      "nome": "PHILLIP ANGELO DA CUNHA ANDRADE",
+      "nomeUrna": "FELIPE ANDRADE",
+      "partido": "PDT",
+      "numero": "12300",
+      "votos": 1280,
+      "percentual": 1.26,
+      "situacao": "Eleito por média",
+      "sqcand": "100002191095"
+    },
+    {
+      "nome": "JUAREZ JULIO DE MORAIS SILVA FILHO",
+      "nomeUrna": "JUAREZ MORAIS",
+      "partido": "MOBILIZA",
+      "numero": "33456",
+      "votos": 1265,
+      "percentual": 1.25,
+      "situacao": "Eleito por média",
+      "sqcand": "100002241972"
+    },
+    {
+      "nome": "LUIS ANTONIO BARBOSA DA SILVA",
+      "nomeUrna": "LUIS BARBOSA",
+      "partido": "REPUBLICANOS",
+      "numero": "10147",
+      "votos": 1263,
+      "percentual": 1.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001938001"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 51566,
+      "percentual": 66.6,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 24032,
+      "percentual": 31.04,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "IVO NOGUEIRA",
+      "nomeUrna": "PASTOR IVO NOGUEIRA",
+      "partido": "DC",
+      "numero": "277",
+      "votos": 878,
+      "percentual": 1.13,
+      "sqcand": "100001613450"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HENRIQUE CESAR FERREIRA DE MELO LIMA JUNIOR",
+      "nomeUrna": "HENRIQUE JUNIOR",
+      "partido": "PL",
+      "numero": "2225",
+      "votos": 17107,
+      "percentual": 20.52,
+      "sqcand": "100001603110"
+    },
+    {
+      "nome": "JOSÉ JUSCELINO DOS SANTOS REZENDE FILHO",
+      "nomeUrna": "JUSCELINO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4410",
+      "votos": 12896,
+      "percentual": 15.47,
+      "sqcand": "100001610561"
+    },
+    {
+      "nome": "CLAYTON NOLETO SILVA",
+      "nomeUrna": "CLAYTON NOLETO",
+      "partido": "PSB",
+      "numero": "4011",
+      "votos": 7103,
+      "percentual": 8.52,
+      "sqcand": "100001607054"
+    },
+    {
+      "nome": "JECONIAS DA SILVA MORAES",
+      "nomeUrna": "JACONIAS MORAES",
+      "partido": "PSC",
+      "numero": "2011",
+      "votos": 6609,
+      "percentual": 7.93,
+      "sqcand": "100001615468"
+    },
+    {
+      "nome": "FÁBIO HENRIQUE DIAS DE MACEDO",
+      "nomeUrna": "FÁBIO MACEDO",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 4714,
+      "percentual": 5.66,
+      "sqcand": "100001614966"
+    },
+    {
+      "nome": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+      "nomeUrna": "AMANDA GENTIL ",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 4219,
+      "percentual": 5.06,
+      "sqcand": "100001608073"
+    },
+    {
+      "nome": "FLAVIA MARIA GOMES PARENTE ALVES MACIEL",
+      "nomeUrna": "FLAVIA ALVES",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 2978,
+      "percentual": 3.57,
+      "sqcand": "100001613706"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCIANO FERREIRA DE SOUSA",
+      "nomeUrna": "LUCIANO LEITOA",
+      "partido": "PDT",
+      "numero": "12600",
+      "votos": 19728,
+      "percentual": 24.0,
+      "sqcand": "100001724765"
+    },
+    {
+      "nome": "RAFAEL DE BRITO SOUSA",
+      "nomeUrna": "RAFAEL LEITOA",
+      "partido": "PSB",
+      "numero": "40212",
+      "votos": 16112,
+      "percentual": 19.6,
+      "sqcand": "100001607074"
+    },
+    {
+      "nome": "MARIA DO SOCORRO ALMEIDA WAQUIM",
+      "nomeUrna": "PROFESSORA SOCORRO WAQUIM",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 13732,
+      "percentual": 16.7,
+      "sqcand": "100001608088"
+    },
+    {
+      "nome": "HORMANN SCHNNEYDER ALMEIDA DA SILVA",
+      "nomeUrna": "SCHNNEYDER",
+      "partido": "MDB",
+      "numero": "15156",
+      "votos": 9419,
+      "percentual": 11.46,
+      "sqcand": "100001606613"
+    },
+    {
+      "nome": "LEANDRO BELLO DE SÁ ROSAS COSTA",
+      "nomeUrna": "LEANDRO BELLO",
+      "partido": "PODE",
+      "numero": "19456",
+      "votos": 4932,
+      "percentual": 6.0,
+      "sqcand": "100001614815"
+    },
+    {
+      "nome": "JANAINA LIMA ARAÚJO RAMOS",
+      "nomeUrna": "JANAINA RAMOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 2114,
+      "percentual": 2.57,
+      "sqcand": "100001602653"
+    },
+    {
+      "nome": "RODRIGO PIRES FERREIRA LAGO",
+      "nomeUrna": "RODRIGO LAGO",
+      "partido": "PC do B",
+      "numero": "65400",
+      "votos": 1263,
+      "percentual": 1.54,
+      "sqcand": "100001613741"
+    }
+  ]
+}

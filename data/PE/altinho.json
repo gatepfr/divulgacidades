@@ -1,0 +1,291 @@
+{
+  "populacao": 17175,
+  "votosValidos": 13985,
+  "abstencao": 13.59,
+  "prefeito": {
+    "nome": "MARIVALDO PENA",
+    "nomeUrna": "MARIVALDO PENA",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 6860,
+    "percentual": 49.05,
+    "situacao": "Eleito",
+    "sqcand": "170002329999",
+    "vice": "ADNAILSON PEDRO BARBOSA DA SILVA",
+    "viceNomeUrna": "ADNAILSON BARBOSA",
+    "partidoVice": "PP",
+    "sqcandVice": "170002330000",
+    "coligacao": "REPUBLICANOS / PP / PSB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "RICARDO CÍCERO DE CARVALHO RODRIGUES",
+      "nomeUrna": "RICARDO RODRIGUES",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 861,
+      "percentual": 6.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002246392"
+    },
+    {
+      "nome": "CÍCERO ANTONIO DE MACEDO",
+      "nomeUrna": "BODINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 609,
+      "percentual": 4.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002246391"
+    },
+    {
+      "nome": "LEOMAR CÍCERO FARIAS DE LIMA",
+      "nomeUrna": "LEOMAR DE LANCO",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 561,
+      "percentual": 3.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002324799"
+    },
+    {
+      "nome": "ANTONIO SEVERINO DA SILVA",
+      "nomeUrna": "TONHO DA PADARIA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 534,
+      "percentual": 3.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002327909"
+    },
+    {
+      "nome": "ANTONIO MARCOS DA SILVA",
+      "nomeUrna": "TONHO DO BATINGAL",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 528,
+      "percentual": 3.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002248877"
+    },
+    {
+      "nome": "INALDO DE OLIVEIRA LEITE",
+      "nomeUrna": "INALDO DO LETREIRO",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 527,
+      "percentual": 3.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002251313"
+    },
+    {
+      "nome": "ROMILSON JORGE DE BARROS",
+      "nomeUrna": "NANINHO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 514,
+      "percentual": 3.66,
+      "situacao": "Eleito por média",
+      "sqcand": "170002327903"
+    },
+    {
+      "nome": "JOSÉ VANILSON DE MELO",
+      "nomeUrna": "TUTA DE ZÉ DE JÚLIO",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 507,
+      "percentual": 3.61,
+      "situacao": "Eleito por média",
+      "sqcand": "170002251319"
+    },
+    {
+      "nome": "ALINE PATRIZIA DE ANDRADE ALVES",
+      "nomeUrna": "ALINE DE ARMANDO",
+      "partido": "PP",
+      "numero": "11666",
+      "votos": 500,
+      "percentual": 3.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002248885"
+    },
+    {
+      "nome": "LORENA LAIS TORRES RODRIGUES",
+      "nomeUrna": "LORENA VAQUEIRA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 420,
+      "percentual": 2.99,
+      "situacao": "Eleito por média",
+      "sqcand": "170002248880"
+    },
+    {
+      "nome": "JOSÉ AMARO DA SILVA FILHO",
+      "nomeUrna": "NOVINHO DA AUTOESCOLA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 394,
+      "percentual": 2.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002317669"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 5465,
+      "percentual": 56.92,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2366,
+      "percentual": 24.64,
+      "sqcand": "170001604083"
+    },
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1383,
+      "percentual": 14.4,
+      "sqcand": "170001610248"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FRANCISCO TADEU BARBOSA DE ALENCAR",
+      "nomeUrna": "TADEU ALENCAR",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 4579,
+      "percentual": 40.71,
+      "sqcand": "170001619892"
+    },
+    {
+      "nome": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+      "nomeUrna": "IZA ARRUDA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 1251,
+      "percentual": 11.12,
+      "sqcand": "170001613278"
+    },
+    {
+      "nome": "GUILHERME ARISTOTELES UCHOA CAVALCANTI PESSOA DE MELO JUNIOR",
+      "nomeUrna": "GUILHERME UCHOA JUNIOR",
+      "partido": "PSB",
+      "numero": "4019",
+      "votos": 1081,
+      "percentual": 9.61,
+      "sqcand": "170001619889"
+    },
+    {
+      "nome": "FRANCISCO EURICO DA SILVA",
+      "nomeUrna": "PASTOR EURICO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 623,
+      "percentual": 5.54,
+      "sqcand": "170001609087"
+    },
+    {
+      "nome": "ANDRÉ FERREIRA RODRIGUES",
+      "nomeUrna": "ANDRÉ FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 579,
+      "percentual": 5.15,
+      "sqcand": "170001609080"
+    },
+    {
+      "nome": "SUEDILSON PEDRO DE OLIVEIRA",
+      "nomeUrna": "DILSON OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "4456",
+      "votos": 458,
+      "percentual": 4.07,
+      "sqcand": "170001609114"
+    },
+    {
+      "nome": "CLODOALDO MAGALHÃES OLIVEIRA LYRA",
+      "nomeUrna": "CLODOALDO MAGALHÃES",
+      "partido": "PV",
+      "numero": "4333",
+      "votos": 355,
+      "percentual": 3.16,
+      "sqcand": "170001609025"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CLOVIS JOSÉ PRAGANA PAIVA",
+      "nomeUrna": "CLÓVIS PAIVA",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 3097,
+      "percentual": 29.25,
+      "sqcand": "170001618736"
+    },
+    {
+      "nome": "ROSSINE BLESMANY DOS SANTOS CORDEIRO",
+      "nomeUrna": "DELEGADO ROSSINE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77888",
+      "votos": 1291,
+      "percentual": 12.19,
+      "sqcand": "170001610714"
+    },
+    {
+      "nome": "EDSON DE SOUZA VIEIRA",
+      "nomeUrna": "EDSON VIEIRA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 1183,
+      "percentual": 11.17,
+      "sqcand": "170001609260"
+    },
+    {
+      "nome": "DANNILO CAVALCANTE VIEIRA",
+      "nomeUrna": "DANNILO GODOY",
+      "partido": "PSB",
+      "numero": "40234",
+      "votos": 576,
+      "percentual": 5.44,
+      "sqcand": "170001620384"
+    },
+    {
+      "nome": "JOÃO TENÓRIO VAZ CAVALCANTI JÚNIOR",
+      "nomeUrna": "JOÃOZINHO TENÓRIO",
+      "partido": "PATRIOTA",
+      "numero": "51555",
+      "votos": 475,
+      "percentual": 4.49,
+      "sqcand": "170001609868"
+    },
+    {
+      "nome": "JARBAS DE ANDRADE VASCONCELOS FILHO",
+      "nomeUrna": "JARBAS FILHO",
+      "partido": "PSB",
+      "numero": "40156",
+      "votos": 284,
+      "percentual": 2.68,
+      "sqcand": "170001620402"
+    },
+    {
+      "nome": "ERICK DA SILVA LESSA",
+      "nomeUrna": "DELEGADO LESSA",
+      "partido": "PP",
+      "numero": "11022",
+      "votos": 264,
+      "percentual": 2.49,
+      "sqcand": "170001618743"
+    }
+  ]
+}

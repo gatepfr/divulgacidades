@@ -1,0 +1,311 @@
+{
+  "populacao": 28561,
+  "votosValidos": 24492,
+  "abstencao": 11.77,
+  "prefeito": {
+    "nome": "JOÃO BATISTA MELO DE CARVALHO",
+    "nomeUrna": "TISTA DE DEDA",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 11530,
+    "percentual": 47.08,
+    "situacao": "Eleito",
+    "sqcand": "50001941899",
+    "vice": "FÁBIO RIOS DE ALMEIDA",
+    "viceNomeUrna": "FABIO DA SECOF",
+    "partidoVice": "MDB",
+    "sqcandVice": "50001941900",
+    "coligacao": "PSD / MDB / UNIÃO / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCELO ROMÃO GAMA",
+      "nomeUrna": "MARCELO DE DEDÉ",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 1463,
+      "percentual": 6.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001951910"
+    },
+    {
+      "nome": "JOSEFA ALBERTINA CARVALHO DOS SANTOS",
+      "nomeUrna": "ALBERTINA DE DERI",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 1461,
+      "percentual": 6.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002070883"
+    },
+    {
+      "nome": "DOMINGOS PINTO DOS SANTOS",
+      "nomeUrna": "NEGUINHO DE LIÉ",
+      "partido": "PSD",
+      "numero": "55999",
+      "votos": 1449,
+      "percentual": 6.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001951899"
+    },
+    {
+      "nome": "SIDNEI DOS REIS MACEDO",
+      "nomeUrna": "DR SIDNEY MACEDO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 1287,
+      "percentual": 5.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001951905"
+    },
+    {
+      "nome": "CARLOS HENRIQUE DANTAS DE OLIVEIRA",
+      "nomeUrna": "KAKÁ DE SONSO",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 1255,
+      "percentual": 5.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001951901"
+    },
+    {
+      "nome": "BENEDITO OLIVEIRA DOS SANTOS",
+      "nomeUrna": "BINO",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 1200,
+      "percentual": 4.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001951900"
+    },
+    {
+      "nome": "ALLYSON MUTTI MARTINS DE ALMEIDA",
+      "nomeUrna": "ALLYSON MUTTI",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 1078,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002078528"
+    },
+    {
+      "nome": "ANTONIO JOSE DOS SANTOS",
+      "nomeUrna": "NETO DE ZE CRISPIM",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 1069,
+      "percentual": 4.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002078527"
+    },
+    {
+      "nome": "ERIKS JEAN RIBEIRO DE JESUS VARJÃO",
+      "nomeUrna": "ERIKS DE JOÃO FERREIRA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1047,
+      "percentual": 4.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001951904"
+    },
+    {
+      "nome": "JOSE RAIMUNDO DE JESUS REIS",
+      "nomeUrna": "ZE MIUDO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1031,
+      "percentual": 4.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002070879"
+    },
+    {
+      "nome": "EDRIANE SANTANA DOS SANTOS",
+      "nomeUrna": "DIANA DE IRENE",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 1014,
+      "percentual": 4.2,
+      "situacao": "Eleito por média",
+      "sqcand": "50001951898"
+    },
+    {
+      "nome": "DAYANA CORREIA SANTOS",
+      "nomeUrna": "DAY DE JAIRO DO SERTÃO",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 715,
+      "percentual": 2.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001982058"
+    },
+    {
+      "nome": "JAILTON LOURENÇO ALVES PORCIUNCULA",
+      "nomeUrna": "LULA DE ZE PINTO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 542,
+      "percentual": 2.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001982046"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 11310,
+      "percentual": 58.1,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 6724,
+      "percentual": 34.54,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1329,
+      "percentual": 6.83,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MÁRIO SÍLVIO MENDES NEGROMONTE JÚNIOR",
+      "nomeUrna": "MÁRIO NEGROMONTE JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 7005,
+      "percentual": 33.85,
+      "sqcand": "50001621035"
+    },
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR FILHO",
+      "nomeUrna": "OTTO FILHO",
+      "partido": "PSD",
+      "numero": "5588",
+      "votos": 4466,
+      "percentual": 21.58,
+      "sqcand": "50001607228"
+    },
+    {
+      "nome": "RICARDO MAIA CHAVES DE SOUZA",
+      "nomeUrna": "RICARDO MAIA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 3134,
+      "percentual": 15.15,
+      "sqcand": "50001614047"
+    },
+    {
+      "nome": "JOSE MARCELO DO NASCIMENTO NILO",
+      "nomeUrna": "MARCELO NILO",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 1262,
+      "percentual": 6.1,
+      "sqcand": "50001619849"
+    },
+    {
+      "nome": "JOSIAS GOMES DA SILVA",
+      "nomeUrna": "JOSIAS GOMES",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 822,
+      "percentual": 3.97,
+      "sqcand": "50001605379"
+    },
+    {
+      "nome": "ELANE ALVES DE ALMEIDA",
+      "nomeUrna": "DRA ELANE",
+      "partido": "PSD",
+      "numero": "5533",
+      "votos": 542,
+      "percentual": 2.62,
+      "sqcand": "50001607230"
+    },
+    {
+      "nome": "VALMIR CARLOS DA ASSUNÇÃO",
+      "nomeUrna": "VALMIR ASSUNÇÃO",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 302,
+      "percentual": 1.46,
+      "sqcand": "50001605371"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "NILTON SILVA BASTOS JUNIOR",
+      "nomeUrna": "NILTINHO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 5304,
+      "percentual": 27.45,
+      "sqcand": "50001647048"
+    },
+    {
+      "nome": "ALEX LOPES DA SILVA",
+      "nomeUrna": "ALEX DA PIATÃ",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 3338,
+      "percentual": 17.27,
+      "sqcand": "50001607306"
+    },
+    {
+      "nome": "MARIA DE FATIMA NUNES DOS ANJOS",
+      "nomeUrna": "FATIMA NUNES",
+      "partido": "PT",
+      "numero": "13567",
+      "votos": 2822,
+      "percentual": 14.6,
+      "sqcand": "50001606437"
+    },
+    {
+      "nome": "LAERTE LEANDRO DE ARAUJO FERNANDES",
+      "nomeUrna": "LAERTE DO VANDO",
+      "partido": "PSC",
+      "numero": "20777",
+      "votos": 2116,
+      "percentual": 10.95,
+      "sqcand": "50001604617"
+    },
+    {
+      "nome": "LUDMILLA FONSECA FISCINA",
+      "nomeUrna": "LUDMILLA FISCINA",
+      "partido": "PV",
+      "numero": "43444",
+      "votos": 643,
+      "percentual": 3.33,
+      "sqcand": "50001606389"
+    },
+    {
+      "nome": "PAULO FERNANDO RANGEL DE LIMA",
+      "nomeUrna": "PAULO RANGEL",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 556,
+      "percentual": 2.88,
+      "sqcand": "50001606403"
+    },
+    {
+      "nome": "MARCELO DANTAS VEIGA",
+      "nomeUrna": "MARCELINHO VEIGA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 509,
+      "percentual": 2.63,
+      "sqcand": "50001648309"
+    }
+  ]
+}

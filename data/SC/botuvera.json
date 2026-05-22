@@ -1,0 +1,271 @@
+{
+  "populacao": 4698,
+  "votosValidos": 4141,
+  "abstencao": 9.37,
+  "prefeito": {
+    "nome": "VICTOR JOSE WIETCOWSKY",
+    "nomeUrna": "VICTOR",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2339,
+    "percentual": 56.48,
+    "situacao": "Eleito",
+    "sqcand": "240002375278",
+    "vice": "KAIORAN PALOSCHI PAULINI",
+    "viceNomeUrna": "KAIO",
+    "partidoVice": "PP",
+    "sqcandVice": "240002375284",
+    "coligacao": "PP / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ODIRLEI BISSONI",
+      "nomeUrna": "ODIRLEI",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 452,
+      "percentual": 10.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002273342"
+    },
+    {
+      "nome": "LUIZ FERNANDO DA SILVA",
+      "nomeUrna": "NANDO",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 313,
+      "percentual": 7.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002382154"
+    },
+    {
+      "nome": "VANDERSON BETINELLI",
+      "nomeUrna": "NENE BETINELLI",
+      "partido": "MDB",
+      "numero": "15258",
+      "votos": 307,
+      "percentual": 7.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002273338"
+    },
+    {
+      "nome": "MAIARA LUISE COLOMBI",
+      "nomeUrna": "MAIARA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 258,
+      "percentual": 6.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002273335"
+    },
+    {
+      "nome": "LEOMAR BUSQUIROLLI",
+      "nomeUrna": "TOREIRO",
+      "partido": "PP",
+      "numero": "11766",
+      "votos": 257,
+      "percentual": 6.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002180108"
+    },
+    {
+      "nome": "ALAERCIO PAULINI",
+      "nomeUrna": "ALAERCIO",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 215,
+      "percentual": 5.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002273341"
+    },
+    {
+      "nome": "JAKELINE HODECKER COLZANI",
+      "nomeUrna": "PROF JAKE",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 203,
+      "percentual": 4.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002180115"
+    },
+    {
+      "nome": "KAIKY LUIZ FOSTER",
+      "nomeUrna": "KAIKY FOSTER",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 186,
+      "percentual": 4.51,
+      "situacao": "Eleito por média",
+      "sqcand": "240002273339"
+    },
+    {
+      "nome": "GENESIO MARTINENGHI",
+      "nomeUrna": "GENESIO MARTINENGHI",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 183,
+      "percentual": 4.44,
+      "situacao": "Eleito por média",
+      "sqcand": "240002180111"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1242,
+      "percentual": 41.9,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 726,
+      "percentual": 24.49,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 376,
+      "percentual": 12.69,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RAFAEL PEZENTI",
+      "nomeUrna": "RAFAEL PEZENTI",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 1144,
+      "percentual": 36.2,
+      "sqcand": "240001602681"
+    },
+    {
+      "nome": "ALESSANDRO ANDRÉ MOREIRA SIMAS",
+      "nomeUrna": "ALESSANDRO SIMAS",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 529,
+      "percentual": 16.74,
+      "sqcand": "240001644881"
+    },
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 185,
+      "percentual": 5.85,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "ANA PAULA DE SOUZA LIMA",
+      "nomeUrna": "ANA PAULA LIMA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 144,
+      "percentual": 4.56,
+      "sqcand": "240001645213"
+    },
+    {
+      "nome": "DARCI DE MATOS",
+      "nomeUrna": "DARCI DE MATOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 95,
+      "percentual": 3.01,
+      "sqcand": "240001611136"
+    },
+    {
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nomeUrna": "JULIA ZANATTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 89,
+      "percentual": 2.82,
+      "sqcand": "240001610974"
+    },
+    {
+      "nome": "RICARDO JOÃO PELUSO ALBA",
+      "nomeUrna": "ALBA",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 83,
+      "percentual": 2.63,
+      "sqcand": "240001604515"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JERRY EDSON COMPER",
+      "nomeUrna": "JERRY COMPER",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 1285,
+      "percentual": 41.51,
+      "sqcand": "240001605920"
+    },
+    {
+      "nome": "ALMIR VIEIRA",
+      "nomeUrna": "ALMIR VIEIRA",
+      "partido": "PP",
+      "numero": "11677",
+      "votos": 387,
+      "percentual": 12.5,
+      "sqcand": "240001644761"
+    },
+    {
+      "nome": "JONAS OSCAR PAEGLE",
+      "nomeUrna": "DR. JONAS",
+      "partido": "PATRIOTA",
+      "numero": "51022",
+      "votos": 218,
+      "percentual": 7.04,
+      "sqcand": "240001647204"
+    },
+    {
+      "nome": "PAULO ROBERTO ECCEL",
+      "nomeUrna": "PAULO ECCEL",
+      "partido": "PT",
+      "numero": "13030",
+      "votos": 155,
+      "percentual": 5.01,
+      "sqcand": "240001679657"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 135,
+      "percentual": 4.36,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "ANDRÉ CARLOS XAVIER",
+      "nomeUrna": "ANDRÉ XAVIER",
+      "partido": "PSC",
+      "numero": "20222",
+      "votos": 102,
+      "percentual": 3.29,
+      "sqcand": "240001645225"
+    },
+    {
+      "nome": "MARCOS AURÉLIO HABITZREUTER",
+      "nomeUrna": "MARCOS HABITZREUTER",
+      "partido": "DC",
+      "numero": "27000",
+      "votos": 96,
+      "percentual": 3.1,
+      "sqcand": "240001643357"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "populacao": 20234,
+  "votosValidos": 16926,
+  "abstencao": 12.59,
+  "prefeito": {
+    "nome": "RICARDO MARCOS BATISTA LOPES",
+    "nomeUrna": "RICARDO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 8855,
+    "percentual": 52.32,
+    "situacao": "Eleito",
+    "sqcand": "50001947180",
+    "vice": "ANDRÉ LUIS DE AMORIM RODRIGUES",
+    "viceNomeUrna": "ANDRÉ DE EDIVALDO",
+    "partidoVice": "PSB",
+    "sqcandVice": "50001947179",
+    "coligacao": "REPUBLICANOS / PL / PSB / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE ARIEL RODRIGUES DE OLIVEIRA",
+      "nomeUrna": "ARIEL DA MARTINS",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1077,
+      "percentual": 6.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001978102"
+    },
+    {
+      "nome": "ANTÔNIO MARCOS ARAÚJO DOS SANTOS",
+      "nomeUrna": "GORDO DE PININHO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 821,
+      "percentual": 4.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001958814"
+    },
+    {
+      "nome": "FÁBIO VASCO SILVA",
+      "nomeUrna": "FÁBIO PROFESSOR",
+      "partido": "PSB",
+      "numero": "40666",
+      "votos": 805,
+      "percentual": 4.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001938949"
+    },
+    {
+      "nome": "PAULINO FERREIRA DA SILVA",
+      "nomeUrna": "PAULO DO RIACHO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 786,
+      "percentual": 4.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001978435"
+    },
+    {
+      "nome": "ANDRE BATISTA DE OLIVEIRA",
+      "nomeUrna": "ANDRE DE MAURINHO",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 782,
+      "percentual": 4.61,
+      "situacao": "Eleito por média",
+      "sqcand": "50001978437"
+    },
+    {
+      "nome": "GIVALDO EVANGELISTA DE JESUS",
+      "nomeUrna": "GIVALDO DE BIMBA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 755,
+      "percentual": 4.45,
+      "situacao": "Eleito por média",
+      "sqcand": "50001978104"
+    },
+    {
+      "nome": "AGNALDO DOS SANTOS COELHO",
+      "nomeUrna": "NETO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 661,
+      "percentual": 3.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001958466"
+    },
+    {
+      "nome": "IVANIVALDA QUEIROZ DOS SANTOS SILVA",
+      "nomeUrna": "VALDA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 614,
+      "percentual": 3.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001938950"
+    },
+    {
+      "nome": "ALAN WILSON SANTOS DE OLIVEIRA COSTA DIAS",
+      "nomeUrna": "ALAN DA CARLANGE",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 584,
+      "percentual": 3.44,
+      "situacao": "Eleito por média",
+      "sqcand": "50001958462"
+    },
+    {
+      "nome": "TONIERLEY GUIMARAES QUEIROZ",
+      "nomeUrna": "TONINHO",
+      "partido": "PODE",
+      "numero": "20777",
+      "votos": 570,
+      "percentual": 3.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001978088"
+    },
+    {
+      "nome": "CLEMENTE ARAUJO FILHO",
+      "nomeUrna": "PASTOR CLEMENTE",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 551,
+      "percentual": 3.25,
+      "situacao": "Eleito por média",
+      "sqcand": "50001958815"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 8901,
+      "percentual": 68.5,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2279,
+      "percentual": 17.54,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1773,
+      "percentual": 13.64,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSIAS GOMES DA SILVA",
+      "nomeUrna": "JOSIAS GOMES",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 4748,
+      "percentual": 34.37,
+      "sqcand": "50001605379"
+    },
+    {
+      "nome": "ROBERTA DE ARAÚJO COSTA ROMA",
+      "nomeUrna": "ROBERTA ROMA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2342,
+      "percentual": 16.95,
+      "sqcand": "50001609349"
+    },
+    {
+      "nome": "GABRIEL JOSE MOURA NUNES SOARES",
+      "nomeUrna": "GABRIEL NUNES",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 1480,
+      "percentual": 10.71,
+      "sqcand": "50001607226"
+    },
+    {
+      "nome": "JOSEILDO RIBEIRO RAMOS",
+      "nomeUrna": "JOSEILDO RAMOS",
+      "partido": "PT",
+      "numero": "1361",
+      "votos": 897,
+      "percentual": 6.49,
+      "sqcand": "50001605369"
+    },
+    {
+      "nome": "ADOLFO VIANA DE CASTRO NETO",
+      "nomeUrna": "ADOLFO VIANA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 586,
+      "percentual": 4.24,
+      "sqcand": "50001613575"
+    },
+    {
+      "nome": "PAULO VELLOSO DANTAS AZI",
+      "nomeUrna": "PAULO AZI",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 369,
+      "percentual": 2.67,
+      "sqcand": "50001634593"
+    },
+    {
+      "nome": "LUIZ PIMENTEL SOBRAL",
+      "nomeUrna": "LUIZINHO SOBRAL",
+      "partido": "PSC",
+      "numero": "2044",
+      "votos": 249,
+      "percentual": 1.8,
+      "sqcand": "50001600782"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DENIVALDO MUNIZ LOPES JUNIOR",
+      "nomeUrna": "JUNIOR MUNIZ",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 3505,
+      "percentual": 26.7,
+      "sqcand": "50001606416"
+    },
+    {
+      "nome": "MARCIO EVANGELISTA DE OLIVEIRA",
+      "nomeUrna": "MARCINHO OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 1959,
+      "percentual": 14.92,
+      "sqcand": "50001648293"
+    },
+    {
+      "nome": "ALEX LOPES DA SILVA",
+      "nomeUrna": "ALEX DA PIATÃ",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 1721,
+      "percentual": 13.11,
+      "sqcand": "50001607306"
+    },
+    {
+      "nome": "LUCIANO SIMOES DE CASTRO BARBOSA FILHO",
+      "nomeUrna": "LUCIANO SIMÕES",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 1265,
+      "percentual": 9.64,
+      "sqcand": "50001648313"
+    },
+    {
+      "nome": "ANGELO MARIO CERQUEIRA DE ALMEIDA",
+      "nomeUrna": "ANGELO ALMEIDA",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 762,
+      "percentual": 5.81,
+      "sqcand": "50001605968"
+    },
+    {
+      "nome": "SANDRO DE OLIVEIRA RÉGIS",
+      "nomeUrna": "SANDRO RÉGIS",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 502,
+      "percentual": 3.82,
+      "sqcand": "50001648297"
+    },
+    {
+      "nome": "JORDAVIO ALEXANDRE ESPINOLA RAMOS",
+      "nomeUrna": "JORDAVIO RAMOS",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 426,
+      "percentual": 3.25,
+      "sqcand": "50001613908"
+    }
+  ]
+}

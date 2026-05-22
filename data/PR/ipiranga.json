@@ -1,0 +1,271 @@
+{
+  "populacao": 11386,
+  "votosValidos": 9361,
+  "abstencao": 13.9,
+  "prefeito": {
+    "nome": "DOUGLAS DAVI CRUZ",
+    "nomeUrna": "DOUGLAS MODESTO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 7280,
+    "percentual": 77.77,
+    "situacao": "Eleito",
+    "sqcand": "160002028090",
+    "vice": "IVONETE GOBEL COSTA",
+    "viceNomeUrna": "IVONETE COSTA",
+    "partidoVice": "PODE",
+    "sqcandVice": "160002395279",
+    "coligacao": "MDB / PODE / PL / AVANTE / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "MEIRIANE MENDES LEPKA CORREIA",
+      "nomeUrna": "MEIRI LEPKA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 505,
+      "percentual": 5.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002064458"
+    },
+    {
+      "nome": "DIEGO GONÇALVES DA SILVA",
+      "nomeUrna": "DIEGO SILVA AUTO PEÇAS",
+      "partido": "UNIÃO",
+      "numero": "44630",
+      "votos": 469,
+      "percentual": 5.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002074647"
+    },
+    {
+      "nome": "LAERTES PRESTES",
+      "nomeUrna": "LAERTES PRESTES",
+      "partido": "PODE",
+      "numero": "20789",
+      "votos": 396,
+      "percentual": 4.24,
+      "situacao": "Eleito por média",
+      "sqcand": "160002068481"
+    },
+    {
+      "nome": "EDENILSON DENCK",
+      "nomeUrna": "EDENILSON DENCK",
+      "partido": "PSD",
+      "numero": "55234",
+      "votos": 392,
+      "percentual": 4.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002074244"
+    },
+    {
+      "nome": "VALDEMAR JORGE DUARTE",
+      "nomeUrna": "PUDIM",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 361,
+      "percentual": 3.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002027158"
+    },
+    {
+      "nome": "AIRTON JOSE DOS SANTOS",
+      "nomeUrna": "AIRTON JAPONÊS",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 343,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002033511"
+    },
+    {
+      "nome": "PAULO SERGIO DE CAMARGO",
+      "nomeUrna": "PAULINHO PINTOR",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 333,
+      "percentual": 3.56,
+      "situacao": "Eleito por média",
+      "sqcand": "160002027156"
+    },
+    {
+      "nome": "LUIZ FERNANDO BETINARDI",
+      "nomeUrna": "DR LUIZ",
+      "partido": "PL",
+      "numero": "22615",
+      "votos": 281,
+      "percentual": 3.01,
+      "situacao": "Eleito por média",
+      "sqcand": "160002064457"
+    },
+    {
+      "nome": "SILVANA CORREIA FAGUNDES",
+      "nomeUrna": "SILVANA FAGUNDES",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 223,
+      "percentual": 2.39,
+      "situacao": "Eleito por média",
+      "sqcand": "160002069279"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 2616,
+      "percentual": 33.58,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 2345,
+      "percentual": 30.1,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1737,
+      "percentual": 22.29,
+      "sqcand": "160001621868"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 2922,
+      "percentual": 35.3,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "JOSELITO CANTO",
+      "nomeUrna": "JOCELITO CANTO",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 1546,
+      "percentual": 18.68,
+      "sqcand": "160001603733"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1156,
+      "percentual": 13.97,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 262,
+      "percentual": 3.17,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "RODRIGO TLUSTIK VENEK",
+      "nomeUrna": "RODRIGO ESTACHO",
+      "partido": "PSD",
+      "numero": "5556",
+      "votos": 243,
+      "percentual": 2.94,
+      "sqcand": "160001622309"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 193,
+      "percentual": 2.33,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 175,
+      "percentual": 2.11,
+      "sqcand": "160001654655"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MABEL CORÁ CANTO",
+      "nomeUrna": "MABEL CANTO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 2146,
+      "percentual": 27.31,
+      "sqcand": "160001612405"
+    },
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 754,
+      "percentual": 9.6,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "PLAUTO MIRÓ GUIMARÃES FILHO",
+      "nomeUrna": "PLAUTO",
+      "partido": "UNIÃO",
+      "numero": "44110",
+      "votos": 655,
+      "percentual": 8.34,
+      "sqcand": "160001716039"
+    },
+    {
+      "nome": "EMERSON GIELINSKI BACIL",
+      "nomeUrna": "EMERSON BACIL",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 548,
+      "percentual": 6.97,
+      "sqcand": "160001716026"
+    },
+    {
+      "nome": "RICARDO ALBERTUS ZAMPIERI",
+      "nomeUrna": "RICARDO ZAMPIERI",
+      "partido": "PTB",
+      "numero": "14222",
+      "votos": 468,
+      "percentual": 5.96,
+      "sqcand": "160001723062"
+    },
+    {
+      "nome": "MARCELO RANGEL CRUZ DE OLIVEIRA",
+      "nomeUrna": "MARCELO RANGEL",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 395,
+      "percentual": 5.03,
+      "sqcand": "160001623135"
+    },
+    {
+      "nome": "MARCOS JUNIOR BRAMBILLA",
+      "nomeUrna": "MARCOS BRAMBILLA",
+      "partido": "REPUBLICANOS",
+      "numero": "10127",
+      "votos": 363,
+      "percentual": 4.62,
+      "sqcand": "160001716140"
+    }
+  ]
+}

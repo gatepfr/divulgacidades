@@ -1,0 +1,271 @@
+{
+  "populacao": 10006,
+  "votosValidos": 7865,
+  "abstencao": 16.9,
+  "prefeito": {
+    "nome": "MARCOS GERALDO GUERRA",
+    "nomeUrna": "MARCOS GUERRA",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 6347,
+    "percentual": 80.7,
+    "situacao": "Eleito",
+    "sqcand": "80001972708",
+    "vice": "GABRIEL FORÇA SILVESTRE",
+    "viceNomeUrna": "GABRIEL SILVESTRE",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "80001972709",
+    "coligacao": "REPUBLICANOS / PP / MDB / PODE / PSB / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ERIVELTI MARIANELLI",
+      "nomeUrna": "ERIVELTI MARIANELLI",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 656,
+      "percentual": 8.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001969685"
+    },
+    {
+      "nome": "JUNIOR PRIORI PERINNI",
+      "nomeUrna": "JUNINHO BAIUCA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 631,
+      "percentual": 7.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001969939"
+    },
+    {
+      "nome": "GILMAR MEIRELES",
+      "nomeUrna": "GILMAR MEIRELES",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 454,
+      "percentual": 5.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002294035"
+    },
+    {
+      "nome": "LEONARDO CASOTTI PERONI",
+      "nomeUrna": "LÉO PERONI",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 446,
+      "percentual": 5.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001969049"
+    },
+    {
+      "nome": "FABIO LOSS LUCHI",
+      "nomeUrna": "FABIO LUCHI",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 417,
+      "percentual": 5.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001970026"
+    },
+    {
+      "nome": "JOÃO CARLOS VALADÃO",
+      "nomeUrna": "LELO VALADÃO",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 406,
+      "percentual": 5.05,
+      "situacao": "Eleito por média",
+      "sqcand": "80001969689"
+    },
+    {
+      "nome": "OLGA MARIA DALA BARBA SIMONELLI",
+      "nomeUrna": "OLGA SIMONELLI",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 399,
+      "percentual": 4.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001970031"
+    },
+    {
+      "nome": "VALMIR ANTONIO BOSCHETTI",
+      "nomeUrna": "TITE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 373,
+      "percentual": 4.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001969944"
+    },
+    {
+      "nome": "FLAVIA CYRILLO DE AZEVEDO",
+      "nomeUrna": "FLAVIA FERRARI",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 350,
+      "percentual": 4.35,
+      "situacao": "Eleito por média",
+      "sqcand": "80001969044"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 3980,
+      "percentual": 60.58,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2004,
+      "percentual": 30.5,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 514,
+      "percentual": 7.82,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSIAS MARIO DA VITÓRIA",
+      "nomeUrna": "DA VITÓRIA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1596,
+      "percentual": 23.41,
+      "sqcand": "80001650200"
+    },
+    {
+      "nome": "PAULO ROBERTO FOLETTO",
+      "nomeUrna": "PAULO FOLETTO",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 805,
+      "percentual": 11.81,
+      "sqcand": "80001620975"
+    },
+    {
+      "nome": "RENZO DE VASCONCELOS",
+      "nomeUrna": "RENZO VASCONCELOS",
+      "partido": "PSC",
+      "numero": "2023",
+      "votos": 765,
+      "percentual": 11.22,
+      "sqcand": "80001615362"
+    },
+    {
+      "nome": "GIVALDO VIEIRA DA SILVA",
+      "nomeUrna": "GIVALDO VIEIRA",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 470,
+      "percentual": 6.89,
+      "sqcand": "80001620974"
+    },
+    {
+      "nome": "RAFAEL FAVATTO GARCIA",
+      "nomeUrna": "DR RAFAEL FAVATTO",
+      "partido": "PATRIOTA",
+      "numero": "5151",
+      "votos": 440,
+      "percentual": 6.45,
+      "sqcand": "80001620359"
+    },
+    {
+      "nome": "GILSON DANIEL BATISTA",
+      "nomeUrna": "GILSON DANIEL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 419,
+      "percentual": 6.15,
+      "sqcand": "80001604734"
+    },
+    {
+      "nome": "EVAIR VIEIRA DE MELO",
+      "nomeUrna": "EVAIR DE MELO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 232,
+      "percentual": 3.4,
+      "sqcand": "80001650199"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VANDERSON ALONSO LEITE",
+      "nomeUrna": "VANDINHO LEITE",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 2166,
+      "percentual": 32.52,
+      "sqcand": "80001602777"
+    },
+    {
+      "nome": "VINICIUS BRAGATTO GON",
+      "nomeUrna": "VINICIUS BRAGATTO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 918,
+      "percentual": 13.78,
+      "sqcand": "80001646719"
+    },
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 793,
+      "percentual": 11.91,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "LUCAS DA RE POLESE",
+      "nomeUrna": "LUCAS POLESE",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 384,
+      "percentual": 5.76,
+      "sqcand": "80001648800"
+    },
+    {
+      "nome": "GILSON DOS SANTOS LOPES FILHO",
+      "nomeUrna": "GILSINHO LOPES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77300",
+      "votos": 278,
+      "percentual": 4.17,
+      "sqcand": "80001646710"
+    },
+    {
+      "nome": "JOLIMAR BARBOSA DA SILVA",
+      "nomeUrna": "JOLIMAR BARBOSA",
+      "partido": "PSC",
+      "numero": "20022",
+      "votos": 219,
+      "percentual": 3.29,
+      "sqcand": "80001645480"
+    },
+    {
+      "nome": "TYAGO RIBEIRO HOFFMANN",
+      "nomeUrna": "TYAGO HOFFMANN",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 196,
+      "percentual": 2.94,
+      "sqcand": "80001621155"
+    }
+  ]
+}

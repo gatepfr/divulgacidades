@@ -1,0 +1,291 @@
+{
+  "populacao": 24222,
+  "votosValidos": 17177,
+  "abstencao": 24.4,
+  "prefeito": {
+    "nome": "NEMROD EMERICK",
+    "nomeUrna": "NIRRÔ",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 13925,
+    "percentual": 81.07,
+    "situacao": "Eleito",
+    "sqcand": "80001946222",
+    "vice": "KAYDMAN MARTINS JORDEM",
+    "viceNomeUrna": "PROFESSORA KAYDMAN",
+    "partidoVice": "PSDB",
+    "sqcandVice": "80001946221",
+    "coligacao": "REPUBLICANOS / PP / PDT / MDB / PODE / PL / PRD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LUIZ ANTÔNIO DA SILVA",
+      "nomeUrna": "LUIZ DA SAÚDE",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 975,
+      "percentual": 5.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001945885"
+    },
+    {
+      "nome": "JOSÉ SOPRIANO MERÇON",
+      "nomeUrna": "MERÇON",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 930,
+      "percentual": 5.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001946234"
+    },
+    {
+      "nome": "WILLIAN ANGELETE BESTETE",
+      "nomeUrna": "WILLIAN BESTETE",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 916,
+      "percentual": 5.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001946232"
+    },
+    {
+      "nome": "ROMAR AZEVEDO MENDES",
+      "nomeUrna": "ROMAR",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 852,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "80001946230"
+    },
+    {
+      "nome": "RENATA ALVES DA SILVA",
+      "nomeUrna": "RENATA ALVES",
+      "partido": "PT",
+      "numero": "13100",
+      "votos": 711,
+      "percentual": 4.04,
+      "situacao": "Eleito por média",
+      "sqcand": "80001893778"
+    },
+    {
+      "nome": "PATRÍCIA DE SOUZA BRAVO",
+      "nomeUrna": "PATRÍCIA BRAVO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 635,
+      "percentual": 3.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001945892"
+    },
+    {
+      "nome": "TAIZA GARCIA VARGAS PIROVANI",
+      "nomeUrna": "TAIZA GARCIA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 622,
+      "percentual": 3.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001954435"
+    },
+    {
+      "nome": "RILDO MENDES DE SOUZA",
+      "nomeUrna": "RILDO MENDES",
+      "partido": "PSB",
+      "numero": "40040",
+      "votos": 615,
+      "percentual": 3.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002235698"
+    },
+    {
+      "nome": "CARLOS RENATO VIANA",
+      "nomeUrna": "RENATO VIANA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 516,
+      "percentual": 2.93,
+      "situacao": "Eleito por média",
+      "sqcand": "80001954442"
+    },
+    {
+      "nome": "SERGIO BITTENCOURT RIDOLPHI",
+      "nomeUrna": "SERGINHO RIDOLPHI",
+      "partido": "PODE",
+      "numero": "20777",
+      "votos": 475,
+      "percentual": 2.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001954894"
+    },
+    {
+      "nome": "GILBERTO PASCOAL MONTEIRO",
+      "nomeUrna": "GILBERTO DO TRAILER",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 378,
+      "percentual": 2.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001946056"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 6808,
+      "percentual": 43.0,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 6684,
+      "percentual": 42.22,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2059,
+      "percentual": 13.01,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SORAYA DE SOUZA MANNATO",
+      "nomeUrna": "SORAYA MANATO",
+      "partido": "PTB",
+      "numero": "1422",
+      "votos": 6173,
+      "percentual": 37.89,
+      "sqcand": "80001723280"
+    },
+    {
+      "nome": "LUCIANO MANOEL MACHADO",
+      "nomeUrna": "LUCIANO MACHADO",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 1994,
+      "percentual": 12.24,
+      "sqcand": "80001620968"
+    },
+    {
+      "nome": "ANA CLÁUDIA HEBLING MEIRA",
+      "nomeUrna": "PROFESSORA ANA CLÁUDIA",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 1123,
+      "percentual": 6.89,
+      "sqcand": "80001719425"
+    },
+    {
+      "nome": "EVAIR VIEIRA DE MELO",
+      "nomeUrna": "EVAIR DE MELO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 915,
+      "percentual": 5.62,
+      "sqcand": "80001650199"
+    },
+    {
+      "nome": "NORMA AYUB ALVES",
+      "nomeUrna": "NORMA AYUB",
+      "partido": "PP",
+      "numero": "1125",
+      "votos": 865,
+      "percentual": 5.31,
+      "sqcand": "80001650193"
+    },
+    {
+      "nome": "GILSON DANIEL BATISTA",
+      "nomeUrna": "GILSON DANIEL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 551,
+      "percentual": 3.38,
+      "sqcand": "80001604734"
+    },
+    {
+      "nome": "HELDER IGNÁCIO SALOMÃO",
+      "nomeUrna": "HELDER SALOMÃO",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 395,
+      "percentual": 2.42,
+      "sqcand": "80001719429"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ CARLOS DE OLIVEIRA",
+      "nomeUrna": "CALÉU",
+      "partido": "PTB",
+      "numero": "14100",
+      "votos": 3252,
+      "percentual": 20.25,
+      "sqcand": "80001653394"
+    },
+    {
+      "nome": "JOSÉ SOPRIANO MERÇON",
+      "nomeUrna": "MERÇON",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 2341,
+      "percentual": 14.58,
+      "sqcand": "80001609901"
+    },
+    {
+      "nome": "VANDERSON ALONSO LEITE",
+      "nomeUrna": "VANDINHO LEITE",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 1166,
+      "percentual": 7.26,
+      "sqcand": "80001602777"
+    },
+    {
+      "nome": "JOSE ESMERALDO DE FREITAS",
+      "nomeUrna": "JOSE ESMERALDO",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 888,
+      "percentual": 5.53,
+      "sqcand": "80001720058"
+    },
+    {
+      "nome": "THEODORICO DE ASSIS FERRAÇO",
+      "nomeUrna": "FERRAÇO",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 717,
+      "percentual": 4.47,
+      "sqcand": "80001649877"
+    },
+    {
+      "nome": "ALEXANDRE MARCELO COUTINHO SANTOS",
+      "nomeUrna": "MARCELO SANTOS",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 529,
+      "percentual": 3.29,
+      "sqcand": "80001609613"
+    },
+    {
+      "nome": "MARCIO LUIS VARANDA CEZARIO",
+      "nomeUrna": "MARCIO VARANDA",
+      "partido": "PTB",
+      "numero": "14200",
+      "votos": 512,
+      "percentual": 3.19,
+      "sqcand": "80001653392"
+    }
+  ]
+}

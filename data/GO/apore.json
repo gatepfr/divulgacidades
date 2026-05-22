@@ -1,0 +1,271 @@
+{
+  "populacao": 3592,
+  "votosValidos": 2926,
+  "abstencao": 15.87,
+  "prefeito": {
+    "nome": "LEONARDO DE MORAES CARVALHO",
+    "nomeUrna": "LEONARDO CARVALHO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1470,
+    "percentual": 50.24,
+    "situacao": "Eleito",
+    "sqcand": "90002305501",
+    "vice": "VALDINEY SOUZA DA COSTA",
+    "viceNomeUrna": "VALDINEY NEGUINHO",
+    "partidoVice": "PSD",
+    "sqcandVice": "90002305502",
+    "coligacao": "PP / PSD / PDT / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "ROBERTA CRISTINA DA SILVA CARVALHO",
+      "nomeUrna": "ROBERTA",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 240,
+      "percentual": 8.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002306429"
+    },
+    {
+      "nome": "CLAUDIA APARECIDA DA SILVA SANTOS",
+      "nomeUrna": "CLAUDIA DO POVO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 211,
+      "percentual": 7.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002306427"
+    },
+    {
+      "nome": "CYNTHIA GABRIELLA SILVA SOUZA BARBOSA",
+      "nomeUrna": "CYNTHIA BARBOSA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 208,
+      "percentual": 7.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002307519"
+    },
+    {
+      "nome": "JOSUE ALVES",
+      "nomeUrna": "JOSUE BOCÃO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 165,
+      "percentual": 5.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002307517"
+    },
+    {
+      "nome": "CLAUDIA REGINA ALVES GONDIM",
+      "nomeUrna": "CLAUDIA DO CELSO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 158,
+      "percentual": 5.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002307329"
+    },
+    {
+      "nome": "FERNANDA NEVES DE OLIVEIRA",
+      "nomeUrna": "FERNANDA NEVES",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 153,
+      "percentual": 5.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002306428"
+    },
+    {
+      "nome": "JULIO CESAR RIBEIRO",
+      "nomeUrna": "CESINHA DA JACIRA",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 148,
+      "percentual": 5.13,
+      "situacao": "Eleito por média",
+      "sqcand": "90002307327"
+    },
+    {
+      "nome": "LEANDRO PAULO DE FREITAS LIMA",
+      "nomeUrna": "LEANDRO COZINHEIRO",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 141,
+      "percentual": 4.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002306943"
+    },
+    {
+      "nome": "LUIZ ANTÔNIO NUNES DE SOUZA",
+      "nomeUrna": "LUIZINHO DO SINDICATO",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 128,
+      "percentual": 4.44,
+      "situacao": "Eleito por média",
+      "sqcand": "90002306426"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE BALDY DE SANT ANNA BRAGA",
+      "nomeUrna": "ALEXANDRE BALDY",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 772,
+      "percentual": 40.46,
+      "sqcand": "90001609092"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 512,
+      "percentual": 26.83,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 334,
+      "percentual": 17.51,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 550,
+      "percentual": 27.31,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 399,
+      "percentual": 19.81,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nomeUrna": "MARUSSA BOLDRIN",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 222,
+      "percentual": 11.02,
+      "sqcand": "90001621102"
+    },
+    {
+      "nome": "JOSE ANTONIO PRADO NUNES CARVALHO",
+      "nomeUrna": "CARAPÔ",
+      "partido": "PROS",
+      "numero": "9006",
+      "votos": 118,
+      "percentual": 5.86,
+      "sqcand": "90001719256"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 77,
+      "percentual": 3.82,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "RUBENS OTONI GOMIDE",
+      "nomeUrna": "RUBENS OTONI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 75,
+      "percentual": 3.72,
+      "sqcand": "90001648112"
+    },
+    {
+      "nome": "ALCIDES RIBEIRO FILHO",
+      "nomeUrna": "PROFESSOR ALCIDES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 72,
+      "percentual": 3.57,
+      "sqcand": "90001652505"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "KARLOS MÁRCIO VIEIRA CABRAL",
+      "nomeUrna": "KARLOS CABRAL",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 335,
+      "percentual": 17.44,
+      "sqcand": "90001605405"
+    },
+    {
+      "nome": "FRANCISCO SOBRINHO DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 285,
+      "percentual": 14.84,
+      "sqcand": "90001653178"
+    },
+    {
+      "nome": "ÁLVARO SOARES GUIMARÃES",
+      "nomeUrna": "ÁLVARO GUIMARÃES",
+      "partido": "UNIÃO",
+      "numero": "44122",
+      "votos": 186,
+      "percentual": 9.68,
+      "sqcand": "90001648390"
+    },
+    {
+      "nome": "PAULO CEZAR MARTINS",
+      "nomeUrna": "PAULO CEZAR MARTINS",
+      "partido": "PL",
+      "numero": "22601",
+      "votos": 122,
+      "percentual": 6.35,
+      "sqcand": "90001653821"
+    },
+    {
+      "nome": "GILMAR ALVES DA SILVA",
+      "nomeUrna": "GILMAR ALVES",
+      "partido": "AGIR",
+      "numero": "36600",
+      "votos": 108,
+      "percentual": 5.62,
+      "sqcand": "90001614654"
+    },
+    {
+      "nome": "LUCAS MARTINS DO VALE",
+      "nomeUrna": "LUCAS DO VALE",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 98,
+      "percentual": 5.1,
+      "sqcand": "90001653165"
+    },
+    {
+      "nome": "JOAO PEREIRA DA SILVA JUNIOR",
+      "nomeUrna": "JOAO JUNIOR",
+      "partido": "PRTB",
+      "numero": "28888",
+      "votos": 79,
+      "percentual": 4.11,
+      "sqcand": "90001644176"
+    }
+  ]
+}

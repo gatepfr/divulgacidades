@@ -1,0 +1,291 @@
+{
+  "populacao": 15667,
+  "votosValidos": 12944,
+  "abstencao": 14.35,
+  "prefeito": {
+    "nome": "LÉO MIRANDA SÃO MATEUS",
+    "nomeUrna": "DR.LÉO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 6458,
+    "percentual": 49.89,
+    "situacao": "Eleito",
+    "sqcand": "50002234603",
+    "vice": "ARIOSVALDO PINHEIRO DE SOUZA",
+    "viceNomeUrna": "ARI DO CAMINHÃO",
+    "partidoVice": "PP",
+    "sqcandVice": "50002397951",
+    "coligacao": "PP / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ODAIR RIBEIRO DE SOUZA",
+      "nomeUrna": "ODAIR RIBEIRO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 1085,
+      "percentual": 8.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002003312"
+    },
+    {
+      "nome": "UALLAS DAS CHAGAS OLIVEIRA",
+      "nomeUrna": "UALLAS DE JOTA DE TERMÍCIO",
+      "partido": "UNIÃO",
+      "numero": "44615",
+      "votos": 809,
+      "percentual": 6.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002397036"
+    },
+    {
+      "nome": "ADRIANO ALVES DOS SANTOS",
+      "nomeUrna": "DADÁ DE SEU GERSON",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 722,
+      "percentual": 5.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002003782"
+    },
+    {
+      "nome": "RAQUEL SILVA DO VALE",
+      "nomeUrna": "RAQUEL",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 690,
+      "percentual": 5.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002271774"
+    },
+    {
+      "nome": "MATEUS MARQUES JACOBINA",
+      "nomeUrna": "MATEUS DE OSLINDO",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 681,
+      "percentual": 5.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002003317"
+    },
+    {
+      "nome": "VICTOR OLIVEIRA DE SOUZA",
+      "nomeUrna": "VICTOR",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 619,
+      "percentual": 4.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002396985"
+    },
+    {
+      "nome": "WALLAS PINHEIRO DE ALMEIDA",
+      "nomeUrna": "WALLAS DE GETÚLIO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 602,
+      "percentual": 4.61,
+      "situacao": "Eleito por média",
+      "sqcand": "50002271766"
+    },
+    {
+      "nome": "ISRAEL JOSÉ DA SILVA",
+      "nomeUrna": "ISRAEL SILVA",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 587,
+      "percentual": 4.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002003786"
+    },
+    {
+      "nome": "EVANILDO SIMOES DE SOUZA",
+      "nomeUrna": "DÚ DOS MORRINHOS",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 558,
+      "percentual": 4.28,
+      "situacao": "Eleito por média",
+      "sqcand": "50002003315"
+    },
+    {
+      "nome": "CELSO RIBEIRO DOS SANTOS",
+      "nomeUrna": "CELSINHO",
+      "partido": "UNIÃO",
+      "numero": "44611",
+      "votos": 508,
+      "percentual": 3.89,
+      "situacao": "Eleito por média",
+      "sqcand": "50002003784"
+    },
+    {
+      "nome": "MAURO SOUZA SILVA",
+      "nomeUrna": "MAURO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 461,
+      "percentual": 3.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002169083"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4870,
+      "percentual": 49.74,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 4351,
+      "percentual": 44.44,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 557,
+      "percentual": 5.69,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ARTHUR DE OLIVEIRA MAIA DA SILVA",
+      "nomeUrna": "ARTHUR MAIA",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 2352,
+      "percentual": 21.28,
+      "sqcand": "50001634596"
+    },
+    {
+      "nome": "MÁRIO SÍLVIO MENDES NEGROMONTE JÚNIOR",
+      "nomeUrna": "MÁRIO NEGROMONTE JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1104,
+      "percentual": 9.99,
+      "sqcand": "50001621035"
+    },
+    {
+      "nome": "MARISETE DE SOUSA BASTOS",
+      "nomeUrna": "MARISETE",
+      "partido": "UNIÃO",
+      "numero": "4447",
+      "votos": 995,
+      "percentual": 9.0,
+      "sqcand": "50001634586"
+    },
+    {
+      "nome": "AFONSO BANDEIRA FLORENCE",
+      "nomeUrna": "AFONSO FLORENCE",
+      "partido": "PT",
+      "numero": "1301",
+      "votos": 913,
+      "percentual": 8.26,
+      "sqcand": "50001605378"
+    },
+    {
+      "nome": "CARLOS TITO MARQUES CORDEIRO",
+      "nomeUrna": "TITO",
+      "partido": "AVANTE",
+      "numero": "7070",
+      "votos": 683,
+      "percentual": 6.18,
+      "sqcand": "50001602951"
+    },
+    {
+      "nome": "JOÃO FELIPE DE SOUZA LEÃO",
+      "nomeUrna": "JOÃO LEÃO",
+      "partido": "PP",
+      "numero": "1115",
+      "votos": 642,
+      "percentual": 5.81,
+      "sqcand": "50001621034"
+    },
+    {
+      "nome": "ELMAR JOSE VIEIRA NASCIMENTO",
+      "nomeUrna": "ELMAR NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 630,
+      "percentual": 5.7,
+      "sqcand": "50001634583"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PEDRO PAULO TAVARES BATISTA DE MELLO E SILVA",
+      "nomeUrna": "PEDRO TAVARES",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 3680,
+      "percentual": 37.76,
+      "sqcand": "50001648327"
+    },
+    {
+      "nome": "TIAGO BRANDAO CORREIA",
+      "nomeUrna": "TIAGO CORREIA",
+      "partido": "PSDB",
+      "numero": "45556",
+      "votos": 894,
+      "percentual": 9.17,
+      "sqcand": "50001613902"
+    },
+    {
+      "nome": "EDICLEY SOUZA BARRETO",
+      "nomeUrna": "CAFU BARRETO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 805,
+      "percentual": 8.26,
+      "sqcand": "50001607305"
+    },
+    {
+      "nome": "NEUSA CADORE",
+      "nomeUrna": "NEUSA CADORE",
+      "partido": "PT",
+      "numero": "13690",
+      "votos": 802,
+      "percentual": 8.23,
+      "sqcand": "50001606395"
+    },
+    {
+      "nome": "DENIVALDO MUNIZ LOPES JUNIOR",
+      "nomeUrna": "JUNIOR MUNIZ",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 612,
+      "percentual": 6.28,
+      "sqcand": "50001606416"
+    },
+    {
+      "nome": "JOSE RICARDO RODRIGUES BARBOSA",
+      "nomeUrna": "RICARDO RODRIGUES",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 472,
+      "percentual": 4.84,
+      "sqcand": "50001607297"
+    },
+    {
+      "nome": "MARCELO DANTAS VEIGA",
+      "nomeUrna": "MARCELINHO VEIGA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 309,
+      "percentual": 3.17,
+      "sqcand": "50001648309"
+    }
+  ]
+}

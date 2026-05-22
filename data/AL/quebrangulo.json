@@ -1,0 +1,271 @@
+{
+  "populacao": 10470,
+  "votosValidos": 8230,
+  "abstencao": 18.83,
+  "prefeito": {
+    "nome": "MANOEL COSTA TENÓRIO",
+    "nomeUrna": "MANOEL TENÓRIO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 2964,
+    "percentual": 36.01,
+    "situacao": "Eleito",
+    "sqcand": "20002048530",
+    "vice": "ALFREDO FREDERICO MEDEIROS MAIA FILHO",
+    "viceNomeUrna": "FEU MAIA",
+    "partidoVice": "PSDB",
+    "sqcandVice": "20002048531",
+    "coligacao": "CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ELÂNIO HENRIQUE SANTOS LIMA",
+      "nomeUrna": "ELÂNIO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 849,
+      "percentual": 10.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002085079"
+    },
+    {
+      "nome": "JOSÉ GILSON DA SILVA",
+      "nomeUrna": "GILSON",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 709,
+      "percentual": 8.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002085075"
+    },
+    {
+      "nome": "REGINALDO FERREIRA DA SILVA",
+      "nomeUrna": "REGINALDO FERREIRA JARDINEIRO",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 596,
+      "percentual": 7.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002048411"
+    },
+    {
+      "nome": "CLÁUDIA MARIA DE OLIVEIRA",
+      "nomeUrna": "CLÁUDIA TENÓRIO",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 506,
+      "percentual": 6.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002019278"
+    },
+    {
+      "nome": "PAULO DAMIÃO GUEDES CAVALCANTE",
+      "nomeUrna": "PAULO DAMIÃO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 504,
+      "percentual": 6.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002048410"
+    },
+    {
+      "nome": "WANDERLEY DE BARROS LIMA",
+      "nomeUrna": "JAU DO CARRO DE SOM",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 447,
+      "percentual": 5.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002019271"
+    },
+    {
+      "nome": "JOAO BATISTA CARDOSO DE ALBUQUERQUE",
+      "nomeUrna": "BATISTA CARDOSO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 442,
+      "percentual": 5.4,
+      "situacao": "Eleito por média",
+      "sqcand": "20002085076"
+    },
+    {
+      "nome": "MARCELO TENÓRIO CABRAL",
+      "nomeUrna": "MARCELO CABRAL",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 432,
+      "percentual": 5.28,
+      "situacao": "Eleito por média",
+      "sqcand": "20002019274"
+    },
+    {
+      "nome": "ANDRE LUIZ CHAVES TEIXEIRA CAVALCANTE",
+      "nomeUrna": "ANDRE TEIXEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 311,
+      "percentual": 3.8,
+      "situacao": "Eleito por média",
+      "sqcand": "20002244578"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSÉ RENAN VASCONCELOS CALHEIROS FILHO",
+      "nomeUrna": "RENAN FILHO",
+      "partido": "MDB",
+      "numero": "151",
+      "votos": 3387,
+      "percentual": 53.73,
+      "sqcand": "20001698127"
+    },
+    {
+      "nome": "DAVID CABRAL DAVINO FILHO",
+      "nomeUrna": "DAVI DAVINO FILHO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2899,
+      "percentual": 45.99,
+      "sqcand": "20001653095"
+    },
+    {
+      "nome": "MARIO AGRA JÚNIOR",
+      "nomeUrna": "MARIO AGRA",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 18,
+      "percentual": 0.29,
+      "sqcand": "20001611211"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALFREDO GASPAR DE MENDONÇA NETO",
+      "nomeUrna": "ALFREDO GASPAR",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1007,
+      "percentual": 14.62,
+      "sqcand": "20001611726"
+    },
+    {
+      "nome": "PEDRO TORRES BRANDAO VILELA",
+      "nomeUrna": "PEDRO VILELA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 897,
+      "percentual": 13.02,
+      "sqcand": "20001716825"
+    },
+    {
+      "nome": "JOÃO ANTÔNIO HOLANDA CALDAS",
+      "nomeUrna": "DR JHC",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 872,
+      "percentual": 12.66,
+      "sqcand": "20001652750"
+    },
+    {
+      "nome": "LUIZ GUSTAVO DA SILVA LIMA",
+      "nomeUrna": "GUSTAVO LIMA",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 715,
+      "percentual": 10.38,
+      "sqcand": "20001652302"
+    },
+    {
+      "nome": "BRUNO RODRIGO VALENÇA DE ARAUJO",
+      "nomeUrna": "RODRIGO VALENÇA",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 687,
+      "percentual": 9.97,
+      "sqcand": "20001611721"
+    },
+    {
+      "nome": "MARX BELTRÃO LIMA SIQUEIRA",
+      "nomeUrna": "MARX BELTRÃO",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 597,
+      "percentual": 8.67,
+      "sqcand": "20001614180"
+    },
+    {
+      "nome": "GILVAN GOMES BARROS",
+      "nomeUrna": "GILVAN BARROS",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 479,
+      "percentual": 6.95,
+      "sqcand": "20001614177"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DAVID MAIA DE VASCONCELOS LIMA",
+      "nomeUrna": "DAVI MAIA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 2764,
+      "percentual": 41.23,
+      "sqcand": "20001612386"
+    },
+    {
+      "nome": "JOSE FRANCISCO CERQUEIRA TENORIO",
+      "nomeUrna": "FRANCISCO TENORIO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1259,
+      "percentual": 18.78,
+      "sqcand": "20001636046"
+    },
+    {
+      "nome": "ALESSON LOUREIRO CAVALCANTE",
+      "nomeUrna": "LÉO LOUREIRO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 329,
+      "percentual": 4.91,
+      "sqcand": "20001653523"
+    },
+    {
+      "nome": "MARCELO VICTOR CORREIA DOS SANTOS",
+      "nomeUrna": "MARCELO VICTOR",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 308,
+      "percentual": 4.59,
+      "sqcand": "20001653508"
+    },
+    {
+      "nome": "KARLA DAYANNA TAVARES CAVALCANTE SILVA",
+      "nomeUrna": "DRA KARLA",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 262,
+      "percentual": 3.91,
+      "sqcand": "20001638572"
+    },
+    {
+      "nome": "RICARDO PEREIRA MELO",
+      "nomeUrna": "RICARDO NEZINHO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 238,
+      "percentual": 3.55,
+      "sqcand": "20001653512"
+    },
+    {
+      "nome": "BRUNO ALBUQUERQUE TOLEDO",
+      "nomeUrna": "BRUNO TOLEDO",
+      "partido": "MDB",
+      "numero": "15155",
+      "votos": 202,
+      "percentual": 3.01,
+      "sqcand": "20001653525"
+    }
+  ]
+}

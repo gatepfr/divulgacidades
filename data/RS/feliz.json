@@ -1,0 +1,271 @@
+{
+  "populacao": 11100,
+  "votosValidos": 6926,
+  "abstencao": 18.86,
+  "prefeito": {
+    "nome": "CLÓVIS FREIBERGER JUNIOR",
+    "nomeUrna": "JUNIOR FREIBERGER",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 6926,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "210001995506",
+    "vice": "JAIRO NIENOW",
+    "viceNomeUrna": "JAIRO NIENOW NEGO",
+    "partidoVice": "PL",
+    "sqcandVice": "210001995507",
+    "coligacao": "PSD / PL / PDT / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "DIRCEU GODOI DE QUADROS",
+      "nomeUrna": "DIRCEU QUADROS",
+      "partido": "PL",
+      "numero": "22300",
+      "votos": 710,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001920907"
+    },
+    {
+      "nome": "IGOR GERMANO SEIBERT",
+      "nomeUrna": "IGOR SEIBERT",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 475,
+      "percentual": 5.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002005346"
+    },
+    {
+      "nome": "JOSEANE HAHN",
+      "nomeUrna": "PROFESSORA JOSEANE HAHN",
+      "partido": "PDT",
+      "numero": "12670",
+      "votos": 469,
+      "percentual": 5.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002065824"
+    },
+    {
+      "nome": "ANTÔNIO WINTER",
+      "nomeUrna": "ANTÔNIO WINTER",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 463,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002005343"
+    },
+    {
+      "nome": "ARTHUR POERSCH",
+      "nomeUrna": "ARTHUR POERSCH TUCA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 411,
+      "percentual": 4.83,
+      "situacao": "Eleito por média",
+      "sqcand": "210002005345"
+    },
+    {
+      "nome": "VALDECIR KRONITZKY",
+      "nomeUrna": "VALDECIR KRONITZKY",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 405,
+      "percentual": 4.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001920910"
+    },
+    {
+      "nome": "MOSAR MARTINI",
+      "nomeUrna": "MOSAR MARTINI",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 375,
+      "percentual": 4.41,
+      "situacao": "Eleito por média",
+      "sqcand": "210001920909"
+    },
+    {
+      "nome": "RAFAEL AULER",
+      "nomeUrna": "RAFAEL AULER",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 293,
+      "percentual": 3.44,
+      "situacao": "Eleito por média",
+      "sqcand": "210002103715"
+    },
+    {
+      "nome": "MARCELO ANTONIO MULLER",
+      "nomeUrna": "XITS",
+      "partido": "PP",
+      "numero": "11500",
+      "votos": 277,
+      "percentual": 3.26,
+      "situacao": "Eleito por média",
+      "sqcand": "210002286379"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 3630,
+      "percentual": 45.51,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2243,
+      "percentual": 28.12,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1995,
+      "percentual": 25.01,
+      "sqcand": "210001619906"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nomeUrna": "DANRLEI DE DEUS GOLEIRO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 2758,
+      "percentual": 33.92,
+      "sqcand": "210001613990"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 819,
+      "percentual": 10.07,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 781,
+      "percentual": 9.61,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 528,
+      "percentual": 6.49,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "MAURICIO BEDIN MARCON",
+      "nomeUrna": "MAURICIO MARCON",
+      "partido": "PODE",
+      "numero": "1922",
+      "votos": 306,
+      "percentual": 3.76,
+      "sqcand": "210001596133"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 197,
+      "percentual": 2.42,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 170,
+      "percentual": 2.09,
+      "sqcand": "210001601587"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EVERTON KREMER",
+      "nomeUrna": "EVERTON KREMER BRANQUINHO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 2279,
+      "percentual": 28.51,
+      "sqcand": "210001647989"
+    },
+    {
+      "nome": "DIRCEU GODOI DE QUADROS",
+      "nomeUrna": "DIRCEU QUADROS",
+      "partido": "NOVO",
+      "numero": "30300",
+      "votos": 1120,
+      "percentual": 14.01,
+      "sqcand": "210001597038"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 605,
+      "percentual": 7.57,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "GILBERTO JOSÉ SPIER VARGAS",
+      "nomeUrna": "PEPE VARGAS",
+      "partido": "PT",
+      "numero": "13001",
+      "votos": 585,
+      "percentual": 7.32,
+      "sqcand": "210001610611"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 360,
+      "percentual": 4.5,
+      "sqcand": "210001602904"
+    },
+    {
+      "nome": "REGIS LUIZ HAHN",
+      "nomeUrna": "LELO HAHN",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 283,
+      "percentual": 3.54,
+      "sqcand": "210001647180"
+    },
+    {
+      "nome": "GUILHERME RECH PASIN",
+      "nomeUrna": "GUILHERME PASIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 146,
+      "percentual": 1.83,
+      "sqcand": "210001647169"
+    }
+  ]
+}

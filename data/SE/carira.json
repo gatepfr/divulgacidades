@@ -1,0 +1,291 @@
+{
+  "populacao": 17195,
+  "votosValidos": 13021,
+  "abstencao": 17.09,
+  "prefeito": {
+    "nome": "DIOGO MENEZES MACHADO",
+    "nomeUrna": "DIOGO MACHADO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 10755,
+    "percentual": 82.6,
+    "situacao": "Eleito",
+    "sqcand": "260001886321",
+    "vice": "JOSEFA JOILDA ALMEIDA DUTRA LEAL",
+    "viceNomeUrna": "JOILDA DUTRA",
+    "partidoVice": "PP",
+    "sqcandVice": "260001886320",
+    "coligacao": "PSD / PP / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ISAEL PAULINO PORFIRO DA SILVA",
+      "nomeUrna": "ISAEL DO GÁS",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 1093,
+      "percentual": 7.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001886331"
+    },
+    {
+      "nome": "JOSÉ ERIVALDO DOS REIS",
+      "nomeUrna": "ERIVALDO DE VALMIR",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1073,
+      "percentual": 7.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001886350"
+    },
+    {
+      "nome": "MIKAEL DOS SANTOS COSTA",
+      "nomeUrna": "MIKAEL DE ZÉ DO PÃO",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 1022,
+      "percentual": 7.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001886336"
+    },
+    {
+      "nome": "ALEQUIXSANDRO BARRETO SANTANA",
+      "nomeUrna": "ALEX BARRETO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 972,
+      "percentual": 7.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001886354"
+    },
+    {
+      "nome": "JOSÉ ERACLITO FERREIRA",
+      "nomeUrna": "ZE DE ERACLITO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 866,
+      "percentual": 6.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001886332"
+    },
+    {
+      "nome": "MARIA MARCIA GARDENIA SANTOS",
+      "nomeUrna": "GARDENIA DOS ALTOS VERDES",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 771,
+      "percentual": 5.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001977076"
+    },
+    {
+      "nome": "EDINALDO DA SILVA",
+      "nomeUrna": "NALDINHO DO SINDICATO",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 766,
+      "percentual": 5.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001886375"
+    },
+    {
+      "nome": "GEILDA DE ANDRADE NUNES",
+      "nomeUrna": "MIÚDA EX CONSELHEIRA TUTELAR",
+      "partido": "CIDADANIA",
+      "numero": "23444",
+      "votos": 735,
+      "percentual": 5.33,
+      "situacao": "Eleito por média",
+      "sqcand": "260002029321"
+    },
+    {
+      "nome": "JOSÉ ALVES DE JESUS",
+      "nomeUrna": "ZÉ ALVES",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 684,
+      "percentual": 4.96,
+      "situacao": "Eleito por média",
+      "sqcand": "260001886373"
+    },
+    {
+      "nome": "ADENILDO FRANCISCO FILHO",
+      "nomeUrna": "PENINHA DA FARMACIA",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 682,
+      "percentual": 4.95,
+      "situacao": "Eleito por média",
+      "sqcand": "260001886328"
+    },
+    {
+      "nome": "JOSINALDO COSTA",
+      "nomeUrna": "BRANCO DO TAXI",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 421,
+      "percentual": 3.05,
+      "situacao": "Eleito por média",
+      "sqcand": "260001886335"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EDUARDO ALVES DO AMORIM",
+      "nomeUrna": "DR. EDUARDO AMORIM",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4298,
+      "percentual": 38.15,
+      "sqcand": "260001693738"
+    },
+    {
+      "nome": "LAERCIO JOSE DE OLIVEIRA",
+      "nomeUrna": "LAÉRCIO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 3913,
+      "percentual": 34.73,
+      "sqcand": "260001635426"
+    },
+    {
+      "nome": "ANTONIO CARLOS VALADARES FILHO",
+      "nomeUrna": "VALADARES FILHO",
+      "partido": "PSB",
+      "numero": "404",
+      "votos": 1652,
+      "percentual": 14.66,
+      "sqcand": "260001666588"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FABIO DE ALMEIDA REIS",
+      "nomeUrna": "FABIO REIS",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 3659,
+      "percentual": 31.0,
+      "sqcand": "260001619673"
+    },
+    {
+      "nome": "ICARO BARBOSA COSTA",
+      "nomeUrna": "ICARO DE VALMIR",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 2568,
+      "percentual": 21.76,
+      "sqcand": "260001737580"
+    },
+    {
+      "nome": "YANDRA BARRETO FERREIRA",
+      "nomeUrna": "YANDRA DE ANDRÉ",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 984,
+      "percentual": 8.34,
+      "sqcand": "260001728384"
+    },
+    {
+      "nome": "JOSE HELENO DA SILVA",
+      "nomeUrna": "HELENO SILVA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 594,
+      "percentual": 5.03,
+      "sqcand": "260001618175"
+    },
+    {
+      "nome": "JOAO SOMARIVA DANIEL",
+      "nomeUrna": "JOAO DANIEL",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 511,
+      "percentual": 4.33,
+      "sqcand": "260001667975"
+    },
+    {
+      "nome": "ELIANE AQUINO CUSTODIO",
+      "nomeUrna": "ELIANE AQUINO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 453,
+      "percentual": 3.84,
+      "sqcand": "260001667976"
+    },
+    {
+      "nome": "LUIZ AUGUSTO CARVALHO RIBEIRO FILHO",
+      "nomeUrna": "GUSTINHO RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 438,
+      "percentual": 3.71,
+      "sqcand": "260001618176"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAISA CRUZ MITIDIERI",
+      "nomeUrna": "MAISA MITIDIERI",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 2421,
+      "percentual": 20.95,
+      "sqcand": "260001636409"
+    },
+    {
+      "nome": "MANOEL FABIO DOS SANTOS CHAGAS",
+      "nomeUrna": "FABIO DE DR JUNIOR CHAGAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 1841,
+      "percentual": 15.93,
+      "sqcand": "260001618236"
+    },
+    {
+      "nome": "MARCOS VINICIUS LIMA DE OLIVEIRA",
+      "nomeUrna": "MARCOS OLIVEIRA",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 1100,
+      "percentual": 9.52,
+      "sqcand": "260001712248"
+    },
+    {
+      "nome": "CHRISTIANO ROGÉRIO RÊGO CAVALCANTE",
+      "nomeUrna": "CRISTIANO CAVALCANTE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 836,
+      "percentual": 7.23,
+      "sqcand": "260001646915"
+    },
+    {
+      "nome": "PRISCILLA LIMA DA COSTA PINTO",
+      "nomeUrna": "KITTY LIMA",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 538,
+      "percentual": 4.66,
+      "sqcand": "260001600213"
+    },
+    {
+      "nome": "LIDIANE CECILIA AZEVEDO CARVALHO LUCENA",
+      "nomeUrna": "DRA LIDIANE LUCENA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 419,
+      "percentual": 3.63,
+      "sqcand": "260001618235"
+    },
+    {
+      "nome": "MARIA VIEIRA DE MENDONÇA",
+      "nomeUrna": "MARIA MENDONÇA",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 373,
+      "percentual": 3.23,
+      "sqcand": "260001669439"
+    }
+  ]
+}

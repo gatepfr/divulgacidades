@@ -1,0 +1,271 @@
+{
+  "populacao": 4911,
+  "votosValidos": 3963,
+  "abstencao": 15.07,
+  "prefeito": {
+    "nome": "SAMUEL CARLOS DO PRADO",
+    "nomeUrna": "SAMUEL DO PRADO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2760,
+    "percentual": 69.64,
+    "situacao": "Eleito",
+    "sqcand": "160002373862",
+    "vice": "RODRIGO ALESANDRO PARDINHO",
+    "viceNomeUrna": "RODRIGO PARDINHO",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002373863",
+    "coligacao": "PSD / MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "MAYK DA FÉ MASCARENHAS ANDRADE",
+      "nomeUrna": "MAYK ANDRADE",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 332,
+      "percentual": 8.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002310155"
+    },
+    {
+      "nome": "VALDECIR CARLOS MARTINS",
+      "nomeUrna": "GALEGO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 317,
+      "percentual": 7.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002310161"
+    },
+    {
+      "nome": "VITHORYA SUDERIO DO PRADO",
+      "nomeUrna": "VITHORYA DO PRADO",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 294,
+      "percentual": 7.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002310485"
+    },
+    {
+      "nome": "MARIA APARECIDA ROSA",
+      "nomeUrna": "MARIA DA SAÚDE",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 291,
+      "percentual": 7.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002310489"
+    },
+    {
+      "nome": "CORNÉLIO NOGUEIRA NETO",
+      "nomeUrna": "CORNELINHO",
+      "partido": "PSD",
+      "numero": "55566",
+      "votos": 257,
+      "percentual": 6.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002310156"
+    },
+    {
+      "nome": "THALES GERDULLI SERAFIM TAVARES",
+      "nomeUrna": "THALES TAVARES",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 253,
+      "percentual": 6.25,
+      "situacao": "Eleito por média",
+      "sqcand": "160002310493"
+    },
+    {
+      "nome": "FABIO AUGUSTO VALÉRIO",
+      "nomeUrna": "FABIO VALERIO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 206,
+      "percentual": 5.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002310335"
+    },
+    {
+      "nome": "JOÃO PAULO DA SILVA LOPES",
+      "nomeUrna": "JOÃO PAULO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 197,
+      "percentual": 4.87,
+      "situacao": "Eleito por média",
+      "sqcand": "160002310157"
+    },
+    {
+      "nome": "JOSUÉ DA SILVA SANTOS",
+      "nomeUrna": "JOEL SILVA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 175,
+      "percentual": 4.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002310180"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1429,
+      "percentual": 40.77,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1007,
+      "percentual": 28.73,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 794,
+      "percentual": 22.65,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1427,
+      "percentual": 39.43,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 507,
+      "percentual": 14.01,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 236,
+      "percentual": 6.52,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "DIEGO ALEXSANDER GONÇALO PAULA GARCIA",
+      "nomeUrna": "DIEGO GARCIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 180,
+      "percentual": 4.97,
+      "sqcand": "160001654834"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 178,
+      "percentual": 4.92,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "CARLOS ALBERTO RICHA",
+      "nomeUrna": "BETO RICHA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 170,
+      "percentual": 4.7,
+      "sqcand": "160001603723"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 105,
+      "percentual": 2.9,
+      "sqcand": "160001614512"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 1851,
+      "percentual": 52.35,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "TERCILIO LUIZ TURINI",
+      "nomeUrna": "TERCILIO TURINI",
+      "partido": "PSD",
+      "numero": "55043",
+      "votos": 298,
+      "percentual": 8.43,
+      "sqcand": "160001623105"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 188,
+      "percentual": 5.32,
+      "sqcand": "160001623099"
+    },
+    {
+      "nome": "MAURO RAFAEL MORAES E SILVA",
+      "nomeUrna": "MAURO MORAES",
+      "partido": "UNIÃO",
+      "numero": "44655",
+      "votos": 166,
+      "percentual": 4.69,
+      "sqcand": "160001716038"
+    },
+    {
+      "nome": "MAURICIO THADEU DE MELLO E SILVA",
+      "nomeUrna": "REQUIÃO FILHO",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 95,
+      "percentual": 2.69,
+      "sqcand": "160001615006"
+    },
+    {
+      "nome": "NELSON ROBERTO PLACIDO SILVA JUSTUS",
+      "nomeUrna": "NELSON JUSTUS",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 89,
+      "percentual": 2.52,
+      "sqcand": "160001716017"
+    },
+    {
+      "nome": "JAIRO TAMURA",
+      "nomeUrna": "JAIRO TAMURA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 85,
+      "percentual": 2.4,
+      "sqcand": "160001654934"
+    }
+  ]
+}

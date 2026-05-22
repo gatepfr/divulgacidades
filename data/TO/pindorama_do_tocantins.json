@@ -1,0 +1,271 @@
+{
+  "populacao": 3882,
+  "votosValidos": 3275,
+  "abstencao": 13.4,
+  "prefeito": {
+    "nome": "THIAGO TAPAJOS ALVES DE OLIVEIRA",
+    "nomeUrna": "DR  THIAGO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2070,
+    "percentual": 63.21,
+    "situacao": "Eleito",
+    "sqcand": "270002012497",
+    "vice": "ALMIR BATISTA SILVA AMARAL",
+    "viceNomeUrna": "SILVO GAS",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "270002012498",
+    "coligacao": "PP / REPUBLICANOS / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "GLENIO MARQUES OLIVEIRA",
+      "nomeUrna": "GLENIO OLIVEIRA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 306,
+      "percentual": 9.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002015127"
+    },
+    {
+      "nome": "KEDES LUIZ MENDES DE CASTRO",
+      "nomeUrna": "KEDSON",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 293,
+      "percentual": 8.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002015129"
+    },
+    {
+      "nome": "EDINON MENDES DOS SANTOS",
+      "nomeUrna": "EDINON MENDES",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 268,
+      "percentual": 8.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002052837"
+    },
+    {
+      "nome": "WELTON GASPAR RIBEIRO",
+      "nomeUrna": "NENÉM DE DETE",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 236,
+      "percentual": 7.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002325265"
+    },
+    {
+      "nome": "FRANCIELLY GASPAR XAVIER",
+      "nomeUrna": "CIEL",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 220,
+      "percentual": 6.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002052838"
+    },
+    {
+      "nome": "MARCIO JOSE FERNANDES DE MELO",
+      "nomeUrna": "MARCINHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 217,
+      "percentual": 6.57,
+      "situacao": "Eleito por média",
+      "sqcand": "270002015131"
+    },
+    {
+      "nome": "EUCLISIA TEIXEIRA BELEM",
+      "nomeUrna": "EUCLISIA",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 204,
+      "percentual": 6.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002325272"
+    },
+    {
+      "nome": "JOÃO VITOR ALVES DE SOUSA",
+      "nomeUrna": "JOÃO VITOR",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 200,
+      "percentual": 6.05,
+      "situacao": "Eleito por média",
+      "sqcand": "270002052836"
+    },
+    {
+      "nome": "DEUZENIR TEIXEIRA SILVA",
+      "nomeUrna": "DEKA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 193,
+      "percentual": 5.84,
+      "situacao": "Eleito por média",
+      "sqcand": "270002325267"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA AUXILIADORA SEABRA REZENDE",
+      "nomeUrna": "PROFESSORA DORINHA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1056,
+      "percentual": 40.84,
+      "sqcand": "270001649254"
+    },
+    {
+      "nome": "KATIA REGINA DE ABREU GOMES",
+      "nomeUrna": "KATIA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 910,
+      "percentual": 35.19,
+      "sqcand": "270001713170"
+    },
+    {
+      "nome": "ATAIDES DE OLIVEIRA",
+      "nomeUrna": "ATAÍDES DE OLIVEIRA",
+      "partido": "PROS",
+      "numero": "900",
+      "votos": 292,
+      "percentual": 11.29,
+      "sqcand": "270001609016"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VICENTE ALVES DE OLIVEIRA JUNIOR",
+      "nomeUrna": "VICENTINHO JUNIOR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1209,
+      "percentual": 45.15,
+      "sqcand": "270001643407"
+    },
+    {
+      "nome": "ANTONIO POINCARE ANDRADE FILHO",
+      "nomeUrna": "TOINHO ANDRADE",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 607,
+      "percentual": 22.67,
+      "sqcand": "270001654159"
+    },
+    {
+      "nome": "JOSÉ ROBERTO RIBEIRO FORZANI",
+      "nomeUrna": "ZÉ ROBERTO LULA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 322,
+      "percentual": 12.02,
+      "sqcand": "270001612034"
+    },
+    {
+      "nome": "FILIPE MARTINS DOS SANTOS",
+      "nomeUrna": "FILIPE MARTINS",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 121,
+      "percentual": 4.52,
+      "sqcand": "270001643553"
+    },
+    {
+      "nome": "OSIRES RODRIGUES DAMASO",
+      "nomeUrna": "OSIRES DAMASO",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 113,
+      "percentual": 4.22,
+      "sqcand": "270001672961"
+    },
+    {
+      "nome": "RICARDO AYRES DE CARVALHO",
+      "nomeUrna": "RICARDO AYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 94,
+      "percentual": 3.51,
+      "sqcand": "270001654164"
+    },
+    {
+      "nome": "ELI DIAS BORGES",
+      "nomeUrna": "ELI BORGES",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 26,
+      "percentual": 0.97,
+      "sqcand": "270001643551"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VILMAR ALVES DE OLIVEIRA",
+      "nomeUrna": "VILMAR",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77700",
+      "votos": 681,
+      "percentual": 26.42,
+      "sqcand": "270001651895"
+    },
+    {
+      "nome": "VALDEMAR RODRIGUES LIMA JUNIOR",
+      "nomeUrna": "VALDEMAR JUNIOR",
+      "partido": "REPUBLICANOS",
+      "numero": "10010",
+      "votos": 488,
+      "percentual": 18.93,
+      "sqcand": "270001654154"
+    },
+    {
+      "nome": "OTONIEL ANDRADE COSTA",
+      "nomeUrna": "OTONIEL ANDRADE",
+      "partido": "PSC",
+      "numero": "20111",
+      "votos": 256,
+      "percentual": 9.93,
+      "sqcand": "270001672851"
+    },
+    {
+      "nome": "CLEITON CARDOSO DE ALMEIDA",
+      "nomeUrna": "CLEITON CARDOSO",
+      "partido": "REPUBLICANOS",
+      "numero": "10700",
+      "votos": 189,
+      "percentual": 7.33,
+      "sqcand": "270001654142"
+    },
+    {
+      "nome": "EDVALDO SOARES OLIVEIRA",
+      "nomeUrna": "EDVALDO SOARES",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 110,
+      "percentual": 4.27,
+      "sqcand": "270001620117"
+    },
+    {
+      "nome": "NILTON BANDEIRA FRANCO",
+      "nomeUrna": "NILTON FRANCO",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 100,
+      "percentual": 3.88,
+      "sqcand": "270001654151"
+    },
+    {
+      "nome": "MANOEL DIAMANTINO DE SOUZA JUNIOR",
+      "nomeUrna": "JÚNIOR DIAMANTINO",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 66,
+      "percentual": 2.56,
+      "sqcand": "270001697322"
+    }
+  ]
+}

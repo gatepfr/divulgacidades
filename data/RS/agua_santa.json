@@ -1,0 +1,271 @@
+{
+  "populacao": 3369,
+  "votosValidos": 2997,
+  "abstencao": 9.11,
+  "prefeito": {
+    "nome": "JULIANO FAVRETTO",
+    "nomeUrna": "JULIANO",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 1948,
+    "percentual": 65.0,
+    "situacao": "Eleito",
+    "sqcand": "210002210081",
+    "vice": "JOSE LORENÇON",
+    "viceNomeUrna": "JUCA",
+    "partidoVice": "PP",
+    "sqcandVice": "210002210082",
+    "coligacao": "PP / CIDADANIA / PSDB / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "ALEXANDRE PITON",
+      "nomeUrna": "PATO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 362,
+      "percentual": 12.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002204670"
+    },
+    {
+      "nome": "MARIA LORIZETE DALMINA",
+      "nomeUrna": "LORE",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 268,
+      "percentual": 9.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002201116"
+    },
+    {
+      "nome": "LAIR TERRES DE QUADROS",
+      "nomeUrna": "LAIR DE QUADROS",
+      "partido": "MDB",
+      "numero": "15624",
+      "votos": 246,
+      "percentual": 8.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002159506"
+    },
+    {
+      "nome": "TIAGO LUIS DECESARO",
+      "nomeUrna": "TIAGO DECESARO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 220,
+      "percentual": 7.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002204665"
+    },
+    {
+      "nome": "FERNANDO AFONSO SPAGNOL",
+      "nomeUrna": "FERNANDO SPAGNOL",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 197,
+      "percentual": 6.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002159507"
+    },
+    {
+      "nome": "VALMIR RODIGHERI",
+      "nomeUrna": "VOLMA",
+      "partido": "MDB",
+      "numero": "15619",
+      "votos": 193,
+      "percentual": 6.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002159503"
+    },
+    {
+      "nome": "GILBERTO FAVRETTO",
+      "nomeUrna": "GIBA",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 135,
+      "percentual": 4.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002204667"
+    },
+    {
+      "nome": "CASSIO RODIGHERI",
+      "nomeUrna": "CASSIO",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 134,
+      "percentual": 4.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002201115"
+    },
+    {
+      "nome": "VERIDIANA OLIVEIRA DA SILVEIRA",
+      "nomeUrna": "VERIDIANA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 132,
+      "percentual": 4.47,
+      "situacao": "Eleito por média",
+      "sqcand": "210002204671"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1294,
+      "percentual": 53.92,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 683,
+      "percentual": 28.46,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 412,
+      "percentual": 17.17,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 769,
+      "percentual": 31.1,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 239,
+      "percentual": 9.66,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 197,
+      "percentual": 7.97,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "MARIA DO ROSÁRIO NUNES",
+      "nomeUrna": "MARIA DO ROSÁRIO",
+      "partido": "PT",
+      "numero": "1370",
+      "votos": 165,
+      "percentual": 6.67,
+      "sqcand": "210001604650"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 129,
+      "percentual": 5.22,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 116,
+      "percentual": 4.69,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 77,
+      "percentual": 3.11,
+      "sqcand": "210001647870"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARLINDO ANTONIO LOPES",
+      "nomeUrna": "ARLINDO LOPES",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 397,
+      "percentual": 16.5,
+      "sqcand": "210001647974"
+    },
+    {
+      "nome": "CLAUDIOMIRO FRACASSO",
+      "nomeUrna": "CLAUDIÃO DE IBIAÇÁ",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 343,
+      "percentual": 14.26,
+      "sqcand": "210001610602"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 287,
+      "percentual": 11.93,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 269,
+      "percentual": 11.18,
+      "sqcand": "210001647982"
+    },
+    {
+      "nome": "RODINEI ESCOBAR XAVIER CANDEIA",
+      "nomeUrna": "RODINEI CANDEIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 234,
+      "percentual": 9.73,
+      "sqcand": "210001601666"
+    },
+    {
+      "nome": "JULIANO FRANCZAK",
+      "nomeUrna": "GAÚCHO DA GERAL",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 133,
+      "percentual": 5.53,
+      "sqcand": "210001696192"
+    },
+    {
+      "nome": "GILMAR SOSSELLA",
+      "nomeUrna": "SOSSELLA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 106,
+      "percentual": 4.41,
+      "sqcand": "210001621287"
+    }
+  ]
+}

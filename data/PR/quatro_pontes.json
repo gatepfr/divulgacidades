@@ -1,0 +1,271 @@
+{
+  "populacao": 3973,
+  "votosValidos": 3489,
+  "abstencao": 10.95,
+  "prefeito": {
+    "nome": "CESAR ALEXANDRE SEIDEL",
+    "nomeUrna": "CESAR CANELA",
+    "partido": "PODE",
+    "numero": "20",
+    "votos": 1746,
+    "percentual": 50.04,
+    "situacao": "Eleito",
+    "sqcand": "160002087326",
+    "vice": "DELCIO JOSE TONELLI",
+    "viceNomeUrna": "SARGENTO TONELLI",
+    "partidoVice": "PP",
+    "sqcandVice": "160002087327",
+    "coligacao": "PP / PSD / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "DEBORA REGINA SCHERER",
+      "nomeUrna": "DEBORA SCHERER",
+      "partido": "MDB",
+      "numero": "15655",
+      "votos": 266,
+      "percentual": 7.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002087310"
+    },
+    {
+      "nome": "WILLIAM VIDAL VICENTE DA SILVA",
+      "nomeUrna": "POLICIAL VIDAL",
+      "partido": "PODE",
+      "numero": "20190",
+      "votos": 254,
+      "percentual": 7.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002069497"
+    },
+    {
+      "nome": "ARACELI BASSO TAUCHERT",
+      "nomeUrna": "PROFESSORA ARACELI",
+      "partido": "PP",
+      "numero": "11610",
+      "votos": 247,
+      "percentual": 7.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002069209"
+    },
+    {
+      "nome": "CIDINEI JONER",
+      "nomeUrna": "SASSA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 214,
+      "percentual": 6.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002069498"
+    },
+    {
+      "nome": "JEAN MARCOS CARAMORE STELTTER",
+      "nomeUrna": "JEAN STELTTER KINHO",
+      "partido": "PODE",
+      "numero": "20020",
+      "votos": 210,
+      "percentual": 6.06,
+      "situacao": "Eleito por média",
+      "sqcand": "160002069501"
+    },
+    {
+      "nome": "LURDES MARIA LUNKES KUNS",
+      "nomeUrna": "PROFESSORA LURDES",
+      "partido": "PL",
+      "numero": "22500",
+      "votos": 201,
+      "percentual": 5.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002068679"
+    },
+    {
+      "nome": "CLOVIS ROGERIO KLIEMANN",
+      "nomeUrna": "CLOVIS KLIEMANN",
+      "partido": "MDB",
+      "numero": "15072",
+      "votos": 193,
+      "percentual": 5.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002087309"
+    },
+    {
+      "nome": "ELLEN RUWER WICKERT DE SOUZA",
+      "nomeUrna": "ELLEN WICKERT",
+      "partido": "PL",
+      "numero": "22630",
+      "votos": 192,
+      "percentual": 5.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002068673"
+    },
+    {
+      "nome": "MAURO BERNARDI",
+      "nomeUrna": "MAURO BERNARDI",
+      "partido": "PP",
+      "numero": "11500",
+      "votos": 167,
+      "percentual": 4.82,
+      "situacao": "Eleito por média",
+      "sqcand": "160002069212"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2000,
+      "percentual": 64.91,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 528,
+      "percentual": 17.14,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 283,
+      "percentual": 9.19,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 788,
+      "percentual": 25.41,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "DILCEU JOÃO SPERAFICO",
+      "nomeUrna": "DILCEU SPERAFICO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 497,
+      "percentual": 16.03,
+      "sqcand": "160001603297"
+    },
+    {
+      "nome": "WASHINGTON LEE ABE",
+      "nomeUrna": "CORONEL LEE",
+      "partido": "DC",
+      "numero": "2777",
+      "votos": 249,
+      "percentual": 8.03,
+      "sqcand": "160001716203"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 200,
+      "percentual": 6.45,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 137,
+      "percentual": 4.42,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "TANIA APARECIDA MAION",
+      "nomeUrna": "TANIA MAION",
+      "partido": "PROS",
+      "numero": "9070",
+      "votos": 116,
+      "percentual": 3.74,
+      "sqcand": "160001621916"
+    },
+    {
+      "nome": "HERMES PARCIANELLO",
+      "nomeUrna": "HERMES FRANGAO PARCIANELLO",
+      "partido": "MDB",
+      "numero": "1540",
+      "votos": 112,
+      "percentual": 3.61,
+      "sqcand": "160001614542"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCEL HENRIQUE MICHELETTO",
+      "nomeUrna": "MARCEL MICHELETTO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 1067,
+      "percentual": 35.28,
+      "sqcand": "160001654935"
+    },
+    {
+      "nome": "HUSSEIN BAKRI",
+      "nomeUrna": "HUSSEIN BAKRI",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 365,
+      "percentual": 12.07,
+      "sqcand": "160001623131"
+    },
+    {
+      "nome": "ANDERSON BENTO MARIA",
+      "nomeUrna": "ANDERSON BENTO MARIA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 328,
+      "percentual": 10.85,
+      "sqcand": "160001603328"
+    },
+    {
+      "nome": "ADEMIR ANTONIO OSMAR BIER",
+      "nomeUrna": "ADEMIR BIER",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 325,
+      "percentual": 10.75,
+      "sqcand": "160001614820"
+    },
+    {
+      "nome": "ALDINO JORGE BUENO",
+      "nomeUrna": "GUGU BUENO",
+      "partido": "PSD",
+      "numero": "55022",
+      "votos": 245,
+      "percentual": 8.1,
+      "sqcand": "160001623097"
+    },
+    {
+      "nome": "ADEMAR LINEU DORFSCHMIDT",
+      "nomeUrna": "ADEMAR DORFSCHMIDT",
+      "partido": "UNIÃO",
+      "numero": "44500",
+      "votos": 137,
+      "percentual": 4.53,
+      "sqcand": "160001716008"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 77,
+      "percentual": 2.55,
+      "sqcand": "160001615032"
+    }
+  ]
+}

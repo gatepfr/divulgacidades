@@ -1,0 +1,271 @@
+{
+  "populacao": 4523,
+  "votosValidos": 3893,
+  "abstencao": 10.68,
+  "prefeito": {
+    "nome": "SAMUEL OLIVEIRA DE SOUTO",
+    "nomeUrna": "SAMUEL SOUTO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2375,
+    "percentual": 61.01,
+    "situacao": "Eleito",
+    "sqcand": "200002256780",
+    "vice": "FRANCISCO LUCENA DE ARAÚJO FILHO",
+    "viceNomeUrna": "DOUTOR ARAÚJO",
+    "partidoVice": "PP",
+    "sqcandVice": "200002256781",
+    "coligacao": "PP / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "FRANCISCO CELSO DA SILVA NETO",
+      "nomeUrna": "CELSO GAROFA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 370,
+      "percentual": 9.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002195834"
+    },
+    {
+      "nome": "JOSÉ NOGUEIRA DO NASCIMENTO JÚNIOR",
+      "nomeUrna": "JÚNIOR NOGUEIRA",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 354,
+      "percentual": 9.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002195835"
+    },
+    {
+      "nome": "ROGÉRIO AZEVEDO DE LUCENA",
+      "nomeUrna": "ROGÉRIO VEREADOR",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 311,
+      "percentual": 7.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002195829"
+    },
+    {
+      "nome": "ANA MAIZA DA SILVA MEDEIROS",
+      "nomeUrna": "MAIZA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 293,
+      "percentual": 7.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002195069"
+    },
+    {
+      "nome": "PAULO DANTAS DA SILVA",
+      "nomeUrna": "PAULO DANTAS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 288,
+      "percentual": 7.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002195837"
+    },
+    {
+      "nome": "JOSUÉ JOSEDEC DE MOURA",
+      "nomeUrna": "DEDÉ",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 283,
+      "percentual": 7.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002195072"
+    },
+    {
+      "nome": "AMARIUDO DOS SANTOS SILVA",
+      "nomeUrna": "AMARIUDO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 269,
+      "percentual": 6.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002195832"
+    },
+    {
+      "nome": "GENILSON JERÔNIMO DE OLIVEIRA",
+      "nomeUrna": "TURICA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 253,
+      "percentual": 6.48,
+      "situacao": "Eleito por média",
+      "sqcand": "200002195830"
+    },
+    {
+      "nome": "MARCOS ANTONIO DE MORAIS COSTA",
+      "nomeUrna": "MARCOS COSTA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 253,
+      "percentual": 6.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002195068"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1237,
+      "percentual": 42.31,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 1007,
+      "percentual": 34.44,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 653,
+      "percentual": 22.33,
+      "sqcand": "200001612334"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1544,
+      "percentual": 45.8,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "JULIA FERREIRA LOPES",
+      "nomeUrna": "DRA  JULIA FERREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 1353,
+      "percentual": 40.14,
+      "sqcand": "200001620541"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 206,
+      "percentual": 6.11,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "IRON LUCAS DE OLIVEIRA JÚNIOR",
+      "nomeUrna": "IRON JR",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 49,
+      "percentual": 1.45,
+      "sqcand": "200001653700"
+    },
+    {
+      "nome": "THABATTA PIMENTA DE MEDEIROS SILVA",
+      "nomeUrna": "THABATTA PIMENTA",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 28,
+      "percentual": 0.83,
+      "sqcand": "200001612241"
+    },
+    {
+      "nome": "ELIESER GIRÃO MONTEIRO FILHO",
+      "nomeUrna": "GENERAL GIRÃO",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 26,
+      "percentual": 0.77,
+      "sqcand": "200001603004"
+    },
+    {
+      "nome": "INÁCIO BRILHANTE DE ARAÚJO FILHO",
+      "nomeUrna": "MAJOR BRILHANTE",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 18,
+      "percentual": 0.53,
+      "sqcand": "200001600545"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADJUTO DIAS DE ARAUJO NETO",
+      "nomeUrna": "ADJUTO DIAS",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 1360,
+      "percentual": 41.58,
+      "sqcand": "200001653268"
+    },
+    {
+      "nome": "NELTER LULA DE QUEIROZ SANTOS",
+      "nomeUrna": "NELTER QUEIROZ",
+      "partido": "PSDB",
+      "numero": "45122",
+      "votos": 1186,
+      "percentual": 36.26,
+      "sqcand": "200001606001"
+    },
+    {
+      "nome": "FRANCISCO ASSIS DE MEDEIROS",
+      "nomeUrna": "FRANCISCO DO PT",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 129,
+      "percentual": 3.94,
+      "sqcand": "200001603618"
+    },
+    {
+      "nome": "UBALDO FERNANDES DA SILVA",
+      "nomeUrna": "UBALDO FERNANDES",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 104,
+      "percentual": 3.18,
+      "sqcand": "200001605990"
+    },
+    {
+      "nome": "EZEQUIEL GALVÃO FERREIRA DE SOUZA",
+      "nomeUrna": "EZEQUIEL FERREIRA",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 101,
+      "percentual": 3.09,
+      "sqcand": "200001606006"
+    },
+    {
+      "nome": "VIVALDO SILVINO DA COSTA",
+      "nomeUrna": "VIVALDO COSTA",
+      "partido": "PV",
+      "numero": "43222",
+      "votos": 67,
+      "percentual": 2.05,
+      "sqcand": "200001603633"
+    },
+    {
+      "nome": "JOSÉ JOAQUIM SOBRINHO",
+      "nomeUrna": "PROF. JOAQUIM",
+      "partido": "PSOL",
+      "numero": "50222",
+      "votos": 66,
+      "percentual": 2.02,
+      "sqcand": "200001617958"
+    }
+  ]
+}

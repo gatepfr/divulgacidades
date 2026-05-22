@@ -1,0 +1,271 @@
+{
+  "populacao": 8569,
+  "votosValidos": 6808,
+  "abstencao": 18.44,
+  "prefeito": {
+    "nome": "MANOEL MAIA BESERRA",
+    "nomeUrna": "MANOEL MAIA",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 4481,
+    "percentual": 65.82,
+    "situacao": "Eleito",
+    "sqcand": "10002273631",
+    "vice": "AMILTON CUNHA DA COSTA",
+    "viceNomeUrna": "AMILTON COSTA",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "10002381547",
+    "coligacao": "REPUBLICANOS / PP / PDT / PL / UNIÃO / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "RICHARD LIMA DE OLIVEIRA",
+      "nomeUrna": "RICHARD",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 406,
+      "percentual": 5.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "10002266961"
+    },
+    {
+      "nome": "WILLIAN TESSINARI XAVIER",
+      "nomeUrna": "WILLIAN TESSINARI",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 374,
+      "percentual": 5.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "10002266964"
+    },
+    {
+      "nome": "ADRIANO DE LIMA INGRE",
+      "nomeUrna": "ADRIANO MOTO TAXI",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 367,
+      "percentual": 5.37,
+      "situacao": "Eleito por média",
+      "sqcand": "10002266965"
+    },
+    {
+      "nome": "MARCONDE FREITAS DA SILVA",
+      "nomeUrna": "MARCONDE",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 348,
+      "percentual": 5.09,
+      "situacao": "Eleito por média",
+      "sqcand": "10002266960"
+    },
+    {
+      "nome": "FELIPE COSTA DE SOUZA",
+      "nomeUrna": "FELIPE PACHECO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 287,
+      "percentual": 4.2,
+      "situacao": "Eleito por média",
+      "sqcand": "10002008730"
+    },
+    {
+      "nome": "DIEGO SOUZA NASCIMENTO",
+      "nomeUrna": "DIEGO PAULISTA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 262,
+      "percentual": 3.83,
+      "situacao": "Eleito por média",
+      "sqcand": "10002183481"
+    },
+    {
+      "nome": "SEBASTIÃO OLIVEIRA DA SILVA",
+      "nomeUrna": "SEBASTIÃO OLIVEIRA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 192,
+      "percentual": 2.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "10002264238"
+    },
+    {
+      "nome": "BRUNO CAETANO SILVESTRE MACHADO",
+      "nomeUrna": "BRUNO MACHADO",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 192,
+      "percentual": 2.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "10002153579"
+    },
+    {
+      "nome": "ANGELA MARIA ALVES DE PAULA",
+      "nomeUrna": "DRA ANGELA PAULA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 154,
+      "percentual": 2.25,
+      "situacao": "Eleito por média",
+      "sqcand": "10002264241"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALAN RICK MIRANDA",
+      "nomeUrna": "ALAN RICK",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 2991,
+      "percentual": 52.11,
+      "sqcand": "10001714547"
+    },
+    {
+      "nome": "VANDA DENIR MILANI NOGUEIRA",
+      "nomeUrna": "DRA. VANDA MILANI",
+      "partido": "PROS",
+      "numero": "900",
+      "votos": 1233,
+      "percentual": 21.48,
+      "sqcand": "10001601615"
+    },
+    {
+      "nome": "MARIA DE NAZARETH MELLO DE ARAUJO LAMBERT",
+      "nomeUrna": "NAZARÉ ARAÚJO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 471,
+      "percentual": 8.21,
+      "sqcand": "10001643544"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FABIO GONÇALVES DE RUEDA",
+      "nomeUrna": "DR FABIO RUEDA",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 840,
+      "percentual": 14.53,
+      "sqcand": "10001612488"
+    },
+    {
+      "nome": "ROBERTO DUARTE JUNIOR",
+      "nomeUrna": "ROBERTO DUARTE",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 467,
+      "percentual": 8.08,
+      "sqcand": "10001619993"
+    },
+    {
+      "nome": "ANTÔNIA LUCILEIA CRUZ RAMOS CAMARA",
+      "nomeUrna": "ANTÔNIA LUCIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 442,
+      "percentual": 7.64,
+      "sqcand": "10001619990"
+    },
+    {
+      "nome": "GERALDO ISRAEL MILANI DE NOGUEIRA",
+      "nomeUrna": "ISRAEL MILANI",
+      "partido": "REPUBLICANOS",
+      "numero": "1080",
+      "votos": 423,
+      "percentual": 7.32,
+      "sqcand": "10001619994"
+    },
+    {
+      "nome": "MARIA DO SOCORRO NERI MEDEIROS DE SOUZA",
+      "nomeUrna": "SOCORRO NERI",
+      "partido": "PP",
+      "numero": "1101",
+      "votos": 407,
+      "percentual": 7.04,
+      "sqcand": "10001621643"
+    },
+    {
+      "nome": "ROZIMEIRE RIBEIRO ANDRADE",
+      "nomeUrna": "MEIRE SERAFIM",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 354,
+      "percentual": 6.12,
+      "sqcand": "10001612486"
+    },
+    {
+      "nome": "LEONARDO CUNHA DE BRITO",
+      "nomeUrna": "LEO DE BRITO",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 291,
+      "percentual": 5.03,
+      "sqcand": "10001613550"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTONIO PEDRO MENDONÇA",
+      "nomeUrna": "ANTONIO PEDRO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 566,
+      "percentual": 10.01,
+      "sqcand": "10001623547"
+    },
+    {
+      "nome": "FAGNER CALEGARIO DO NASCIMENTO",
+      "nomeUrna": "FAGNER CALEGÁRIO",
+      "partido": "PODE",
+      "numero": "19999",
+      "votos": 378,
+      "percentual": 6.68,
+      "sqcand": "10001650033"
+    },
+    {
+      "nome": "WHENDY SNANKY PRAXEDES PONCIANO DA SILVA LIMA",
+      "nomeUrna": "WHENDY LIMA",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 320,
+      "percentual": 5.66,
+      "sqcand": "10001623552"
+    },
+    {
+      "nome": "FRANCINEUDO SOUZA DA COSTA",
+      "nomeUrna": "FRANCINEUDO COSTA",
+      "partido": "UNIÃO",
+      "numero": "44004",
+      "votos": 304,
+      "percentual": 5.37,
+      "sqcand": "10001623538"
+    },
+    {
+      "nome": "GILBERTO LIRA DE ALMEIDA",
+      "nomeUrna": "GILBERTO LIRA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 279,
+      "percentual": 4.93,
+      "sqcand": "10001623533"
+    },
+    {
+      "nome": "JOSÉ LUIS SCHAFER",
+      "nomeUrna": "TCHÊ",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 260,
+      "percentual": 4.6,
+      "sqcand": "10001622761"
+    },
+    {
+      "nome": "NICOLAU CANDIDO DA SILVA JUNIOR",
+      "nomeUrna": "NICOLAU JUNIOR",
+      "partido": "PP",
+      "numero": "11122",
+      "votos": 213,
+      "percentual": 3.77,
+      "sqcand": "10001643428"
+    }
+  ]
+}

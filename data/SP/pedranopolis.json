@@ -1,0 +1,271 @@
+{
+  "populacao": 2688,
+  "votosValidos": 2168,
+  "abstencao": 12.91,
+  "prefeito": {
+    "nome": "FAUSTO LUANO ROSA",
+    "nomeUrna": "FAUSTO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 1697,
+    "percentual": 78.27,
+    "situacao": "Eleito",
+    "sqcand": "250002064554",
+    "vice": "VILMA APARECIDA MAZETI DE SÁ",
+    "viceNomeUrna": "VILMA DE SÁ",
+    "partidoVice": "PODE",
+    "sqcandVice": "250002064555",
+    "coligacao": "REPUBLICANOS / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "ELIAS ALVES DE REZENDE",
+      "nomeUrna": "PORTERÃO",
+      "partido": "PODE",
+      "numero": "20236",
+      "votos": 226,
+      "percentual": 9.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002200116"
+    },
+    {
+      "nome": "RICARDO FERREIRA DOS SANTOS",
+      "nomeUrna": "RICARDO CARTEIRO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 207,
+      "percentual": 9.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002324914"
+    },
+    {
+      "nome": "UBIRATAM REGIS MARTINS DE OLIVEIRA",
+      "nomeUrna": "UBIRATAM",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 202,
+      "percentual": 8.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002219080"
+    },
+    {
+      "nome": "CHEILA DONIZETE DOS SANTOS VICENTE",
+      "nomeUrna": "CHEILA",
+      "partido": "REPUBLICANOS",
+      "numero": "10010",
+      "votos": 182,
+      "percentual": 8.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002219076"
+    },
+    {
+      "nome": "AGNALDO ARLEI TIMPORIM",
+      "nomeUrna": "DINÁ TIMPORIM ",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 177,
+      "percentual": 7.78,
+      "situacao": "Eleito por média",
+      "sqcand": "250002324915"
+    },
+    {
+      "nome": "ARILDO RIBEIRO DONATO",
+      "nomeUrna": "ARILDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 145,
+      "percentual": 6.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002219072"
+    },
+    {
+      "nome": "ORIVALDO FERNANDES",
+      "nomeUrna": "ORIVALDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 144,
+      "percentual": 6.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002219074"
+    },
+    {
+      "nome": "LUIS CARLOS CARNEIRO MAXIMO",
+      "nomeUrna": "CARNEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10500",
+      "votos": 139,
+      "percentual": 6.11,
+      "situacao": "Eleito por média",
+      "sqcand": "250002219075"
+    },
+    {
+      "nome": "JOSÉ AFONSO MEDRADO DIAS",
+      "nomeUrna": "JOSÉ AFONSO",
+      "partido": "PODE",
+      "numero": "20111",
+      "votos": 113,
+      "percentual": 4.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002200118"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 811,
+      "percentual": 50.88,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 586,
+      "percentual": 36.76,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 165,
+      "percentual": 10.35,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCELO HERCOLIN",
+      "nomeUrna": "MARCELO HERCOLIN",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 175,
+      "percentual": 10.55,
+      "sqcand": "250001653330"
+    },
+    {
+      "nome": "FAUSTO RUY PINATO",
+      "nomeUrna": "FAUSTO PINATO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 150,
+      "percentual": 9.04,
+      "sqcand": "250001611957"
+    },
+    {
+      "nome": "ALEX SPINELLI MANENTE",
+      "nomeUrna": "ALEX MANENTE",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 134,
+      "percentual": 8.08,
+      "sqcand": "250001612129"
+    },
+    {
+      "nome": "PAULO PEREIRA DA SILVA",
+      "nomeUrna": "PAULINHO DA FORÇA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 97,
+      "percentual": 5.85,
+      "sqcand": "250001606095"
+    },
+    {
+      "nome": "VICENTE PAULO DA SILVA",
+      "nomeUrna": "VICENTINHO",
+      "partido": "PT",
+      "numero": "1390",
+      "votos": 87,
+      "percentual": 5.24,
+      "sqcand": "250001610646"
+    },
+    {
+      "nome": "GILMAR DA SILVA GIMENES",
+      "nomeUrna": "GILMAR GIMENES",
+      "partido": "PL",
+      "numero": "2252",
+      "votos": 80,
+      "percentual": 4.82,
+      "sqcand": "250001611330"
+    },
+    {
+      "nome": "LUIZ MARINHO",
+      "nomeUrna": "LUIZ MARINHO",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 67,
+      "percentual": 4.04,
+      "sqcand": "250001610678"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CARLOS EDUARDO PIGNATARI",
+      "nomeUrna": "CARLÃO PIGNATARI",
+      "partido": "PSDB",
+      "numero": "45232",
+      "votos": 244,
+      "percentual": 15.31,
+      "sqcand": "250001611488"
+    },
+    {
+      "nome": "THIAGO REIS AURICCHIO",
+      "nomeUrna": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "numero": "22343",
+      "votos": 140,
+      "percentual": 8.78,
+      "sqcand": "250001610134"
+    },
+    {
+      "nome": "ANALICE FERNANDES",
+      "nomeUrna": "ANALICE FERNANDES",
+      "partido": "PSDB",
+      "numero": "45400",
+      "votos": 129,
+      "percentual": 8.09,
+      "sqcand": "250001611452"
+    },
+    {
+      "nome": "ALEXANDRE PEREIRA DA SILVA",
+      "nomeUrna": "ALEXANDRE PEREIRA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 110,
+      "percentual": 6.9,
+      "sqcand": "250001606262"
+    },
+    {
+      "nome": "PAULO ROBERTO FIORILO",
+      "nomeUrna": "PAULO FIORILO",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 88,
+      "percentual": 5.52,
+      "sqcand": "250001611759"
+    },
+    {
+      "nome": "RICARDO RIBEIRO PEDROSO",
+      "nomeUrna": "SARGENTO PEDROSO",
+      "partido": "PL",
+      "numero": "22300",
+      "votos": 82,
+      "percentual": 5.14,
+      "sqcand": "250001610111"
+    },
+    {
+      "nome": "EMIDIO PEREIRA DE SOUZA",
+      "nomeUrna": "EMÍDIO DE SOUZA",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 52,
+      "percentual": 3.26,
+      "sqcand": "250001611811"
+    }
+  ]
+}

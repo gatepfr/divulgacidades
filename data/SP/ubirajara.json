@@ -1,0 +1,271 @@
+{
+  "populacao": 4121,
+  "votosValidos": 3377,
+  "abstencao": 16.26,
+  "prefeito": {
+    "nome": "LEILA ALVIM BORDIM",
+    "nomeUrna": "LEILA DO WALMIR",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 964,
+    "percentual": 28.55,
+    "situacao": "Eleito",
+    "sqcand": "250002394622",
+    "vice": "EDER AUGUSTO DOS SANTOS",
+    "viceNomeUrna": "SANTARI",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002395366",
+    "coligacao": "MDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "ELITÁNIA DE FÁTIMA MOREIRA",
+      "nomeUrna": "ELITÁNIA",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 240,
+      "percentual": 7.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002204882"
+    },
+    {
+      "nome": "ANGELICA GOMES",
+      "nomeUrna": "ANGELICA GOMES",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 219,
+      "percentual": 6.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002257240"
+    },
+    {
+      "nome": "EMERSON RICARDO BRIQUEZI",
+      "nomeUrna": "BAIXINHO BRIQUEZI",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 191,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002204879"
+    },
+    {
+      "nome": "ALTEMIR DOS SANTOS",
+      "nomeUrna": "TIMINHO DA MAQUINA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 183,
+      "percentual": 5.45,
+      "situacao": "Eleito por média",
+      "sqcand": "250002204885"
+    },
+    {
+      "nome": "MARCOS ANTONIO DE ARAUJO",
+      "nomeUrna": "MARCOS BAIANO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 181,
+      "percentual": 5.39,
+      "situacao": "Eleito por média",
+      "sqcand": "250002257237"
+    },
+    {
+      "nome": "ELIAS PEREIRA DA SILVA",
+      "nomeUrna": "ELIAS PEREIRA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 179,
+      "percentual": 5.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002219542"
+    },
+    {
+      "nome": "GERSON APARECIDO DOS SANTOS",
+      "nomeUrna": "TIZIL DO ESPORTE",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 171,
+      "percentual": 5.09,
+      "situacao": "Eleito por média",
+      "sqcand": "250002204878"
+    },
+    {
+      "nome": "EVERTON ANDRE OLIVEIRA SANTANA",
+      "nomeUrna": "BAIANINHO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 116,
+      "percentual": 3.45,
+      "situacao": "Eleito por média",
+      "sqcand": "250002147083"
+    },
+    {
+      "nome": "CELIO FERRARI RODRIGUES",
+      "nomeUrna": "CELINHODA OFICINA",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 92,
+      "percentual": 2.74,
+      "situacao": "Eleito por média",
+      "sqcand": "250002219546"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1629,
+      "percentual": 60.36,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 879,
+      "percentual": 32.57,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 161,
+      "percentual": 5.97,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCELO FABIÁN MERCAU FILHO",
+      "nomeUrna": "MARCELO MERCAU",
+      "partido": "PROS",
+      "numero": "9080",
+      "votos": 510,
+      "percentual": 18.1,
+      "sqcand": "250001677917"
+    },
+    {
+      "nome": "RICARDO IZAR JUNIOR",
+      "nomeUrna": "RICARDO IZAR",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 286,
+      "percentual": 10.15,
+      "sqcand": "250001611892"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 199,
+      "percentual": 7.06,
+      "sqcand": "250001612102"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 192,
+      "percentual": 6.82,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "RODRIGO ANTONIO DE AGOSTINHO MENDONÇA",
+      "nomeUrna": "RODRIGO AGOSTINHO",
+      "partido": "PSB",
+      "numero": "4015",
+      "votos": 168,
+      "percentual": 5.96,
+      "sqcand": "250001620299"
+    },
+    {
+      "nome": "ARLINDO CHIGNALIA JUNIOR",
+      "nomeUrna": "ARLINDO CHINAGLIA",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 107,
+      "percentual": 3.8,
+      "sqcand": "250001610712"
+    },
+    {
+      "nome": "FAUSTO RUY PINATO",
+      "nomeUrna": "FAUSTO PINATO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 82,
+      "percentual": 2.91,
+      "sqcand": "250001611957"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 517,
+      "percentual": 19.58,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 317,
+      "percentual": 12.01,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "LETICIA AGUIAR RESENDE ALVES",
+      "nomeUrna": "LETÍCIA AGUIAR",
+      "partido": "PP",
+      "numero": "11022",
+      "votos": 224,
+      "percentual": 8.48,
+      "sqcand": "250001612280"
+    },
+    {
+      "nome": "EMIDIO PEREIRA DE SOUZA",
+      "nomeUrna": "EMÍDIO DE SOUZA",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 179,
+      "percentual": 6.78,
+      "sqcand": "250001611811"
+    },
+    {
+      "nome": "JORGE TADEU MUDALEN",
+      "nomeUrna": "JORGE TADEU",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 166,
+      "percentual": 6.29,
+      "sqcand": "250001602084"
+    },
+    {
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "nomeUrna": "DANI ALONSO",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 165,
+      "percentual": 6.25,
+      "sqcand": "250001610113"
+    },
+    {
+      "nome": "EDMIR JOSE ABI CHEDID",
+      "nomeUrna": "EDMIR CHEDID",
+      "partido": "UNIÃO",
+      "numero": "44118",
+      "votos": 68,
+      "percentual": 2.58,
+      "sqcand": "250001602151"
+    }
+  ]
+}

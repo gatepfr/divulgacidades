@@ -1,0 +1,271 @@
+{
+  "populacao": 9575,
+  "votosValidos": 8149,
+  "abstencao": 12.46,
+  "prefeito": {
+    "nome": "JOADIR LOURENÇO MARQUES",
+    "nomeUrna": "JOADIR LOURENÇO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 4028,
+    "percentual": 49.43,
+    "situacao": "Eleito",
+    "sqcand": "80002262386",
+    "vice": "DOUGLAS FAGUNDES BRANDÃO",
+    "viceNomeUrna": "BRANDÃO",
+    "partidoVice": "PSDB",
+    "sqcandVice": "80002262385",
+    "coligacao": "REPUBLICANOS / PODE / AGIR / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "GEANN BUGGE RATUNDE",
+      "nomeUrna": "GEANN RATUNDE",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 472,
+      "percentual": 5.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002197117"
+    },
+    {
+      "nome": "SANDRA REGINA BEZERRA GOMES",
+      "nomeUrna": "SANDRA GOMES",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 432,
+      "percentual": 5.29,
+      "situacao": "Eleito por média",
+      "sqcand": "80002197116"
+    },
+    {
+      "nome": "ROBERTO KUSTER BECKER",
+      "nomeUrna": "ROBERTO DA SAÚDE",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 360,
+      "percentual": 4.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002269204"
+    },
+    {
+      "nome": "JAIRO MAYER",
+      "nomeUrna": "JAIRIM",
+      "partido": "PSDB",
+      "numero": "45611",
+      "votos": 359,
+      "percentual": 4.39,
+      "situacao": "Eleito por média",
+      "sqcand": "80002269207"
+    },
+    {
+      "nome": "VALÉRIO SARNÁLIA ALVES DEMONER",
+      "nomeUrna": "VALÉRIO DEMONER",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 329,
+      "percentual": 4.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002172410"
+    },
+    {
+      "nome": "JEFERSON JASKE",
+      "nomeUrna": "JÉ DA AGRICULTURA",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 324,
+      "percentual": 3.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002197384"
+    },
+    {
+      "nome": "JACKSON BULERIANM",
+      "nomeUrna": "JACKSON BULERIANM",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 301,
+      "percentual": 3.68,
+      "situacao": "Eleito por média",
+      "sqcand": "80002197382"
+    },
+    {
+      "nome": "JULIO MAURICIO BRAUN MENDES",
+      "nomeUrna": "JULIO BRAUN",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 289,
+      "percentual": 3.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002269294"
+    },
+    {
+      "nome": "MARLON WOLFGRAMM",
+      "nomeUrna": "MARLON DO BEM TE VI",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 281,
+      "percentual": 3.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002172319"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 3892,
+      "percentual": 58.49,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2075,
+      "percentual": 31.18,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 654,
+      "percentual": 9.83,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "EVAIR VIEIRA DE MELO",
+      "nomeUrna": "EVAIR DE MELO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 1050,
+      "percentual": 15.65,
+      "sqcand": "80001650199"
+    },
+    {
+      "nome": "PAULO ROBERTO FOLETTO",
+      "nomeUrna": "PAULO FOLETTO",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 931,
+      "percentual": 13.88,
+      "sqcand": "80001620975"
+    },
+    {
+      "nome": "RENZO DE VASCONCELOS",
+      "nomeUrna": "RENZO VASCONCELOS",
+      "partido": "PSC",
+      "numero": "2023",
+      "votos": 595,
+      "percentual": 8.87,
+      "sqcand": "80001615362"
+    },
+    {
+      "nome": "GILSON DANIEL BATISTA",
+      "nomeUrna": "GILSON DANIEL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 595,
+      "percentual": 8.87,
+      "sqcand": "80001604734"
+    },
+    {
+      "nome": "JOSIAS MARIO DA VITÓRIA",
+      "nomeUrna": "DA VITÓRIA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 399,
+      "percentual": 5.95,
+      "sqcand": "80001650200"
+    },
+    {
+      "nome": "GIVALDO VIEIRA DA SILVA",
+      "nomeUrna": "GIVALDO VIEIRA",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 370,
+      "percentual": 5.51,
+      "sqcand": "80001620974"
+    },
+    {
+      "nome": "SORAYA DE SOUZA MANNATO",
+      "nomeUrna": "SORAYA MANATO",
+      "partido": "PTB",
+      "numero": "1422",
+      "votos": 333,
+      "percentual": 4.96,
+      "sqcand": "80001723280"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DARY ALVES PAGUNG",
+      "nomeUrna": "DARY PAGUNG",
+      "partido": "PSB",
+      "numero": "40569",
+      "votos": 2301,
+      "percentual": 35.12,
+      "sqcand": "80001621151"
+    },
+    {
+      "nome": "VANDERSON ALONSO LEITE",
+      "nomeUrna": "VANDINHO LEITE",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 694,
+      "percentual": 10.59,
+      "sqcand": "80001602777"
+    },
+    {
+      "nome": "ADILSON ESPINDULA",
+      "nomeUrna": "ADILSON ESPINDULA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 670,
+      "percentual": 10.23,
+      "sqcand": "80001720062"
+    },
+    {
+      "nome": "HUDSON SOARES LEAL",
+      "nomeUrna": "HUDSON LEAL",
+      "partido": "REPUBLICANOS",
+      "numero": "10300",
+      "votos": 533,
+      "percentual": 8.14,
+      "sqcand": "80001604499"
+    },
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 322,
+      "percentual": 4.92,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "LUCINIO CASTELO DE ASSUMÇAO",
+      "nomeUrna": "CAPITÃO ASSUMÇÃO",
+      "partido": "PL",
+      "numero": "22190",
+      "votos": 259,
+      "percentual": 3.95,
+      "sqcand": "80001648792"
+    },
+    {
+      "nome": "JANETE SANTOS DE SA",
+      "nomeUrna": "JANETE DE SÁ",
+      "partido": "PSB",
+      "numero": "40800",
+      "votos": 177,
+      "percentual": 2.7,
+      "sqcand": "80001621165"
+    }
+  ]
+}

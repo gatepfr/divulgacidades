@@ -1,0 +1,291 @@
+{
+  "populacao": 19331,
+  "votosValidos": 16055,
+  "abstencao": 12.63,
+  "prefeito": {
+    "nome": "PATRICIA MARIA SANTOS BARRETO",
+    "nomeUrna": "PATRICIA BARRETO",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 10178,
+    "percentual": 63.39,
+    "situacao": "Eleito",
+    "sqcand": "60002163237",
+    "vice": "ROGERIO BARBOSA MESQUITA",
+    "viceNomeUrna": "ROGERIO MESQUITA",
+    "partidoVice": "PSB",
+    "sqcandVice": "60002163238",
+    "coligacao": "PSB / PSD / UNIÃO / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "RUBENS DE SOUSA AZEVEDO",
+      "nomeUrna": "BILEU",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 1013,
+      "percentual": 6.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002105394"
+    },
+    {
+      "nome": "CARLOS FELIPE DE SOUSA FERNANDES",
+      "nomeUrna": "FELIPE FERNANDES",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 974,
+      "percentual": 5.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002105493"
+    },
+    {
+      "nome": "FRANCISCO XAVIER ASEVEDO MESQUITA",
+      "nomeUrna": "XAVIER GUARIM",
+      "partido": "PSB",
+      "numero": "40777",
+      "votos": 962,
+      "percentual": 5.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002105496"
+    },
+    {
+      "nome": "JOAO BATISTA SOUSA SILVA",
+      "nomeUrna": "BATISTA SOUSA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 962,
+      "percentual": 5.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002105494"
+    },
+    {
+      "nome": "RAIMUNDO ALVES LOPES",
+      "nomeUrna": "RAIMUNDO DO MILTON",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 886,
+      "percentual": 5.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002322712"
+    },
+    {
+      "nome": "ORTOLONILDO ALEXANDRE ALMEIDA",
+      "nomeUrna": "XANDY DO PAREDAO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 762,
+      "percentual": 4.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002105391"
+    },
+    {
+      "nome": "MARIA DA PENHA SANTOS LOBATO",
+      "nomeUrna": "PENHA DA SAUDE",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 759,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002105395"
+    },
+    {
+      "nome": "FRANCISCO ADALBERTO MEDEIROS CUNHA",
+      "nomeUrna": "ADALBERTO CUNHA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 742,
+      "percentual": 4.57,
+      "situacao": "Eleito por média",
+      "sqcand": "60002105388"
+    },
+    {
+      "nome": "MARCOS ANTONIO MAGALHAES FELIX",
+      "nomeUrna": "KIM MAGALHAES",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 719,
+      "percentual": 4.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002105506"
+    },
+    {
+      "nome": "ANA CLARA RODRIGUES BRAGA",
+      "nomeUrna": "KLARA BRAGA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 467,
+      "percentual": 2.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002316067"
+    },
+    {
+      "nome": "VICENAR ARAUJO SOUSA",
+      "nomeUrna": "VICENAR FERNANDES",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 452,
+      "percentual": 2.78,
+      "situacao": "Eleito por média",
+      "sqcand": "60002105503"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 12264,
+      "percentual": 86.37,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 1849,
+      "percentual": 13.02,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 86,
+      "percentual": 0.61,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FRANCISCO DANILO BASTOS FORTE",
+      "nomeUrna": "DANILO FORTE",
+      "partido": "UNIÃO",
+      "numero": "4447",
+      "votos": 7029,
+      "percentual": 48.87,
+      "sqcand": "60001608893"
+    },
+    {
+      "nome": "DENIS ANDERSON DA ROCHA BEZERRA",
+      "nomeUrna": "DENIS BEZERRA",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 1404,
+      "percentual": 9.76,
+      "sqcand": "60001603454"
+    },
+    {
+      "nome": "HEITOR RODRIGO PEREIRA FREIRE",
+      "nomeUrna": "HEITOR FREIRE",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 853,
+      "percentual": 5.93,
+      "sqcand": "60001608890"
+    },
+    {
+      "nome": "JAZIEL PEREIRA DE SOUSA",
+      "nomeUrna": "DR JAZIEL",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 771,
+      "percentual": 5.36,
+      "sqcand": "60001614163"
+    },
+    {
+      "nome": "MOSES HAENDEL MELO RODRIGUES",
+      "nomeUrna": "MOSES RODRIGUES",
+      "partido": "UNIÃO",
+      "numero": "4488",
+      "votos": 478,
+      "percentual": 3.32,
+      "sqcand": "60001608894"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 414,
+      "percentual": 2.88,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "ANTONIO JOSÉ AGUIAR ALBUQUERQUE",
+      "nomeUrna": "AJ ALBUQUERQUE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 354,
+      "percentual": 2.46,
+      "sqcand": "60001619170"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FRANCISCO OSMAR DIÓGENES BAQUIT",
+      "nomeUrna": "OSMAR BAQUIT",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 7206,
+      "percentual": 52.01,
+      "sqcand": "60001603520"
+    },
+    {
+      "nome": "JOSE JACOME CARNEIRO ALBUQUERQUE",
+      "nomeUrna": "ZEZINHO ALBUQUERQUE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 832,
+      "percentual": 6.0,
+      "sqcand": "60001619179"
+    },
+    {
+      "nome": "FRANCISCO CLAUDIO PINTO PINHO",
+      "nomeUrna": "CLÁUDIO PINHO",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 802,
+      "percentual": 5.79,
+      "sqcand": "60001603529"
+    },
+    {
+      "nome": "SILVANA OLIVEIRA DE SOUSA",
+      "nomeUrna": "DRA SILVANA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 764,
+      "percentual": 5.51,
+      "sqcand": "60001633828"
+    },
+    {
+      "nome": "EDILARDO EUFRASIO DA CRUZ",
+      "nomeUrna": "EDILARDO EUFRASIO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 608,
+      "percentual": 4.39,
+      "sqcand": "60001635815"
+    },
+    {
+      "nome": "OSCAR SPINDOLA RODRIGUES JUNIOR",
+      "nomeUrna": "DR. OSCAR RODRIGUES",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 317,
+      "percentual": 2.29,
+      "sqcand": "60001608929"
+    },
+    {
+      "nome": "FRANCISCO JOSE QUEIROZ MAIA FILHO",
+      "nomeUrna": "QUEIROZ FILHO",
+      "partido": "PDT",
+      "numero": "12300",
+      "votos": 281,
+      "percentual": 2.03,
+      "sqcand": "60001603536"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 3777,
+  "votosValidos": 3265,
+  "abstencao": 12.05,
+  "prefeito": {
+    "nome": "DELMIRO DE OLIVEIRA CANO",
+    "nomeUrna": "DELMIRO CANO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 2279,
+    "percentual": 69.8,
+    "situacao": "Eleito",
+    "sqcand": "90001901251",
+    "vice": "HELISANIA MARIA DE SOUSA",
+    "viceNomeUrna": "HELISÂNIA MARIA DE SOUSA",
+    "partidoVice": "MDB",
+    "sqcandVice": "90001901250",
+    "coligacao": "UNIÃO / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "VALDEIR ALVES DE AMORIM",
+      "nomeUrna": "VALDEIR AMORIM",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 382,
+      "percentual": 11.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001900266"
+    },
+    {
+      "nome": "VOLNEY BATISTA DE ALMEIDA",
+      "nomeUrna": "VOLNEY BATISTA",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 260,
+      "percentual": 7.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001904884"
+    },
+    {
+      "nome": "VALDIVINO ETERNO DA SILVA MORAES",
+      "nomeUrna": "VININHO DO MANÉ MECANICO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 243,
+      "percentual": 7.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001900260"
+    },
+    {
+      "nome": "DEVAILTON GONÇALVES DA SILVA",
+      "nomeUrna": "DEVAILTON GONÇALVES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 206,
+      "percentual": 6.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001904881"
+    },
+    {
+      "nome": "CLODOVEU ROMA ALVES",
+      "nomeUrna": "CLODOVEU ROMA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 201,
+      "percentual": 6.16,
+      "situacao": "Eleito por média",
+      "sqcand": "90001904885"
+    },
+    {
+      "nome": "VALDECI PEREIRA DE ARAUJO",
+      "nomeUrna": "VALDECI ARAUJO",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 200,
+      "percentual": 6.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001900262"
+    },
+    {
+      "nome": "EDILSON JOSE DE SANTANA",
+      "nomeUrna": "FAISCA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 158,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "90001900265"
+    },
+    {
+      "nome": "ROBSON FERREIRA DE SOUSA",
+      "nomeUrna": "ROBSON FERREIRA",
+      "partido": "PRD",
+      "numero": "25123",
+      "votos": 107,
+      "percentual": 3.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002138273"
+    },
+    {
+      "nome": "JUAN PABLO ALMEIDA DUARTE",
+      "nomeUrna": "JUAN PABLO",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 102,
+      "percentual": 3.12,
+      "situacao": "Eleito por média",
+      "sqcand": "90002138275"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 1058,
+      "percentual": 44.6,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 442,
+      "percentual": 18.63,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "JOÃO CAMPOS DE ARAÚJO",
+      "nomeUrna": "JOÃO CAMPOS",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 260,
+      "percentual": 10.96,
+      "sqcand": "90001647805"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+      "nomeUrna": "JOSÉ NELTO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 1255,
+      "percentual": 50.1,
+      "sqcand": "90001700974"
+    },
+    {
+      "nome": "LÊDA BORGES DE MOURA",
+      "nomeUrna": "LÊDA BORGES",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 428,
+      "percentual": 17.09,
+      "sqcand": "90001621634"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 154,
+      "percentual": 6.15,
+      "sqcand": "90001614055"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 78,
+      "percentual": 3.11,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 50,
+      "percentual": 2.0,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 46,
+      "percentual": 1.84,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "RUBENS OTONI GOMIDE",
+      "nomeUrna": "RUBENS OTONI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 44,
+      "percentual": 1.76,
+      "sqcand": "90001648112"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CHARLES BENTO EVANGELISTA",
+      "nomeUrna": "CHARLES BENTO",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 873,
+      "percentual": 35.9,
+      "sqcand": "90001653182"
+    },
+    {
+      "nome": "GUSTAVO CARDOSO GOMIDES",
+      "nomeUrna": "DR GUSTAVO",
+      "partido": "PMB",
+      "numero": "35678",
+      "votos": 300,
+      "percentual": 12.34,
+      "sqcand": "90001674806"
+    },
+    {
+      "nome": "PAULO CEZAR MARTINS",
+      "nomeUrna": "PAULO CEZAR MARTINS",
+      "partido": "PL",
+      "numero": "22601",
+      "votos": 236,
+      "percentual": 9.7,
+      "sqcand": "90001653821"
+    },
+    {
+      "nome": "HENRIQUE CÉSAR PEREIRA",
+      "nomeUrna": "HENRIQUE CÉSAR",
+      "partido": "PSC",
+      "numero": "20100",
+      "votos": 149,
+      "percentual": 6.13,
+      "sqcand": "90001645561"
+    },
+    {
+      "nome": "BRUNO REGIANY PEIXOTO PIMENTA",
+      "nomeUrna": "BRUNO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 104,
+      "percentual": 4.28,
+      "sqcand": "90001648400"
+    },
+    {
+      "nome": "LUCAS MARTINS DO VALE",
+      "nomeUrna": "LUCAS DO VALE",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 69,
+      "percentual": 2.84,
+      "sqcand": "90001653165"
+    },
+    {
+      "nome": "POLLIANNA MENDES DA SILVA ALVES",
+      "nomeUrna": "POLLIANNA ALVES",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 66,
+      "percentual": 2.71,
+      "sqcand": "90001653179"
+    }
+  ]
+}

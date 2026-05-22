@@ -1,0 +1,271 @@
+{
+  "populacao": 4368,
+  "votosValidos": 3777,
+  "abstencao": 12.32,
+  "prefeito": {
+    "nome": "TIAGO JAPIASSU BATISTA DO NASCIMENTO ANDRADE",
+    "nomeUrna": "TIAGÃO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 1660,
+    "percentual": 43.95,
+    "situacao": "Eleito",
+    "sqcand": "90001990789",
+    "vice": "ANYELMA PEREIRA CASTILHO",
+    "viceNomeUrna": "ANYELMA DO MARLENILTON",
+    "partidoVice": "PP",
+    "sqcandVice": "90001990790",
+    "coligacao": "PP / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "ANDRE CORSINI DO CARMO",
+      "nomeUrna": "ANDRE DA NINICA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 325,
+      "percentual": 8.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002113983"
+    },
+    {
+      "nome": "BRUNO OLIVEIRA COSTA E SILVA",
+      "nomeUrna": "BRUNO OLIVEIRA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 317,
+      "percentual": 8.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002113986"
+    },
+    {
+      "nome": "SEBASTIÃO ALEXANDRE SOUTO FILHO",
+      "nomeUrna": "ALEXANDRE DO BAIANO",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 285,
+      "percentual": 7.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001943404"
+    },
+    {
+      "nome": "HERCULES MAGNO SOARES LIMA",
+      "nomeUrna": "LELEU",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 264,
+      "percentual": 7.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002113989"
+    },
+    {
+      "nome": "MAKSNEY VENANCIO DE ALMEIDA",
+      "nomeUrna": "MAKSNEY",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 264,
+      "percentual": 7.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001943407"
+    },
+    {
+      "nome": "ADAILSON DIAS SOUTO",
+      "nomeUrna": "ADAILSON DIAS",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 259,
+      "percentual": 6.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002113984"
+    },
+    {
+      "nome": "ELISMAR GONZAGA TAVARES",
+      "nomeUrna": "XILA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 254,
+      "percentual": 6.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001943406"
+    },
+    {
+      "nome": "JEOVANE ALVES DE ASSUNÇÃO",
+      "nomeUrna": "JEOVANE",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 194,
+      "percentual": 5.14,
+      "situacao": "Eleito por média",
+      "sqcand": "90002113988"
+    },
+    {
+      "nome": "FÁBIO PEREIRA DOS SANTOS",
+      "nomeUrna": "FABIM MOTORISTA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 169,
+      "percentual": 4.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001944409"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 886,
+      "percentual": 35.61,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 862,
+      "percentual": 34.65,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 374,
+      "percentual": 15.03,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CÉLIO ANTÔNIO DA SILVEIRA",
+      "nomeUrna": "CÉLIO SILVEIRA",
+      "partido": "MDB",
+      "numero": "1599",
+      "votos": 470,
+      "percentual": 18.1,
+      "sqcand": "90001621109"
+    },
+    {
+      "nome": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+      "nomeUrna": "JOSÉ NELTO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 445,
+      "percentual": 17.14,
+      "sqcand": "90001700974"
+    },
+    {
+      "nome": "ALCIDES RIBEIRO FILHO",
+      "nomeUrna": "PROFESSOR ALCIDES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 274,
+      "percentual": 10.55,
+      "sqcand": "90001652505"
+    },
+    {
+      "nome": "FRANCISCO RODRIGUES VALE JUNIOR",
+      "nomeUrna": "FRANCISCO JR",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 156,
+      "percentual": 6.01,
+      "sqcand": "90001651580"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 123,
+      "percentual": 4.74,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 104,
+      "percentual": 4.01,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "DANIEL VIEIRA RAMOS",
+      "nomeUrna": "DANIEL AGROBOM",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 83,
+      "percentual": 3.2,
+      "sqcand": "90001652507"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BRUNO REGIANY PEIXOTO PIMENTA",
+      "nomeUrna": "BRUNO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 466,
+      "percentual": 18.38,
+      "sqcand": "90001648400"
+    },
+    {
+      "nome": "TALLES ALVES BARRETO",
+      "nomeUrna": "TALLES BARRETO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 444,
+      "percentual": 17.51,
+      "sqcand": "90001648411"
+    },
+    {
+      "nome": "CARLOS CESAR SOUSA GONCALVES",
+      "nomeUrna": "CARLOS BUIU",
+      "partido": "AGIR",
+      "numero": "36333",
+      "votos": 329,
+      "percentual": 12.97,
+      "sqcand": "90001614659"
+    },
+    {
+      "nome": "GIVAGO ARAUJO VALADARES",
+      "nomeUrna": "GIVAGO VALADARES",
+      "partido": "PRTB",
+      "numero": "28223",
+      "votos": 214,
+      "percentual": 8.44,
+      "sqcand": "90001644192"
+    },
+    {
+      "nome": "LINCOLN GRAZIANI PEREIRA DA ROCHA TEJOTA",
+      "nomeUrna": "LINCOLN TEJOTA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 131,
+      "percentual": 5.17,
+      "sqcand": "90001648385"
+    },
+    {
+      "nome": "EDUARDO JOSE DO PRADO",
+      "nomeUrna": "DELEGADO EDUARDO PRADO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 94,
+      "percentual": 3.71,
+      "sqcand": "90001653796"
+    },
+    {
+      "nome": "SANTANA DA SILVA GOMES",
+      "nomeUrna": "SANTANA GOMES",
+      "partido": "PRTB",
+      "numero": "28010",
+      "votos": 72,
+      "percentual": 2.84,
+      "sqcand": "90001644214"
+    }
+  ]
+}

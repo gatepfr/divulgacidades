@@ -1,0 +1,271 @@
+{
+  "populacao": 3872,
+  "votosValidos": 2958,
+  "abstencao": 20.89,
+  "prefeito": {
+    "nome": "MARIA GOMES MOTOSO ROCHA",
+    "nomeUrna": "DONA LIA",
+    "partido": "SOLIDARIEDADE",
+    "numero": "77",
+    "votos": 1797,
+    "percentual": 60.75,
+    "situacao": "Eleito",
+    "sqcand": "130001940212",
+    "vice": "DEMA MARQUES PEREIRA",
+    "viceNomeUrna": "DEMA",
+    "partidoVice": "CIDADANIA",
+    "sqcandVice": "130001940213",
+    "coligacao": "PODE / PRD / SOLIDARIEDADE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "FABRICIO CORDEIRO DOS SANTOS",
+      "nomeUrna": "FABRÍCIO CORDEIRO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 349,
+      "percentual": 11.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001940336"
+    },
+    {
+      "nome": "JOSE MARIA ALVARENGA ALVES",
+      "nomeUrna": "ZÉ MARIA ALVARENGA",
+      "partido": "CIDADANIA",
+      "numero": "23333",
+      "votos": 224,
+      "percentual": 7.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001940350"
+    },
+    {
+      "nome": "JOSE MARIA BOTELHO MOTOSO",
+      "nomeUrna": "ZE VIANA",
+      "partido": "PRD",
+      "numero": "25123",
+      "votos": 184,
+      "percentual": 6.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001982256"
+    },
+    {
+      "nome": "JOSE ANTONIO LOPES CALDEIRA",
+      "nomeUrna": "ZÉ ANTÔNIO CALDEIRA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77888",
+      "votos": 162,
+      "percentual": 5.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001940341"
+    },
+    {
+      "nome": "DALVO CALDEIRA GOMES",
+      "nomeUrna": "DALVO CALDEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 150,
+      "percentual": 5.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001917837"
+    },
+    {
+      "nome": "ÉZZIA LAGO BOTELHO",
+      "nomeUrna": "EZZIA LAGO",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 143,
+      "percentual": 4.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001940347"
+    },
+    {
+      "nome": "ADILSON RAUL GOMES DA SILVA",
+      "nomeUrna": "PROFESSOR RAUL SILVA",
+      "partido": "PV",
+      "numero": "43123",
+      "votos": 125,
+      "percentual": 4.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001927691"
+    },
+    {
+      "nome": "VILMAR APARECIDO SOARES FERREIRA",
+      "nomeUrna": "VILMAR (BRANCO DO BREJO)",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 124,
+      "percentual": 4.18,
+      "situacao": "Eleito por média",
+      "sqcand": "130001940339"
+    },
+    {
+      "nome": "NELSON BORGES MEDEIROS",
+      "nomeUrna": "NELSON BORGES",
+      "partido": "PRD",
+      "numero": "25690",
+      "votos": 115,
+      "percentual": 3.87,
+      "situacao": "Eleito por média",
+      "sqcand": "130001982257"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 998,
+      "percentual": 44.14,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 741,
+      "percentual": 32.77,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 506,
+      "percentual": 22.38,
+      "sqcand": "130001671677"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ SILVA SOARES",
+      "nomeUrna": "ZÉ SILVA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 1341,
+      "percentual": 54.16,
+      "sqcand": "130001612991"
+    },
+    {
+      "nome": "IGOR TARCIANO TIMO",
+      "nomeUrna": "IGOR TIMO",
+      "partido": "PODE",
+      "numero": "1999",
+      "votos": 405,
+      "percentual": 16.36,
+      "sqcand": "130001634117"
+    },
+    {
+      "nome": "REGINALDO LÁZARO DE OLIVEIRA LOPES",
+      "nomeUrna": "REGINALDO LOPES",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 312,
+      "percentual": 12.6,
+      "sqcand": "130001607277"
+    },
+    {
+      "nome": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+      "nomeUrna": "DIEGO ANDRADE",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 130,
+      "percentual": 5.25,
+      "sqcand": "130001604337"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 60,
+      "percentual": 2.42,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "PAULO JOSÉ CARLOS GUEDES",
+      "nomeUrna": "PAULO GUEDES",
+      "partido": "PT",
+      "numero": "1378",
+      "votos": 29,
+      "percentual": 1.17,
+      "sqcand": "130001607265"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 24,
+      "percentual": 0.97,
+      "sqcand": "130001608227"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROBERTO DIAS DE ANDRADE",
+      "nomeUrna": "ROBERTO ANDRADE",
+      "partido": "PATRIOTA",
+      "numero": "51222",
+      "votos": 1168,
+      "percentual": 52.28,
+      "sqcand": "130001596287"
+    },
+    {
+      "nome": "NACIB DUARTE BECHIR",
+      "nomeUrna": "DUARTE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 287,
+      "percentual": 12.85,
+      "sqcand": "130001604390"
+    },
+    {
+      "nome": "NEILANDO ALVES PIMENTA",
+      "nomeUrna": "NEILANDO PIMENTA",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 275,
+      "percentual": 12.31,
+      "sqcand": "130001613144"
+    },
+    {
+      "nome": "LEONÍDIO HENRIQUE CORREA BOUÇAS",
+      "nomeUrna": "LEONÍDIO BOUÇAS",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 180,
+      "percentual": 8.06,
+      "sqcand": "130001613290"
+    },
+    {
+      "nome": "JEAN MARK FREIRE SILVA",
+      "nomeUrna": "DR. JEAN FREIRE",
+      "partido": "PT",
+      "numero": "13100",
+      "votos": 89,
+      "percentual": 3.98,
+      "sqcand": "130001607423"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 31,
+      "percentual": 1.39,
+      "sqcand": "130001607392"
+    },
+    {
+      "nome": "CRISTIANO TADEU DA SILVEIRA",
+      "nomeUrna": "CRISTIANO SILVEIRA",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 27,
+      "percentual": 1.21,
+      "sqcand": "130001607361"
+    }
+  ]
+}

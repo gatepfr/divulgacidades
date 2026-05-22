@@ -1,0 +1,271 @@
+{
+  "populacao": 3685,
+  "votosValidos": 3108,
+  "abstencao": 13.62,
+  "prefeito": {
+    "nome": "NEY FABIO DE NOVAES",
+    "nomeUrna": "NEY NOVAES",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 1601,
+    "percentual": 51.51,
+    "situacao": "Eleito",
+    "sqcand": "90001986726",
+    "vice": "FRANCISCO REGIS NORONHA",
+    "viceNomeUrna": "CHICÃO",
+    "partidoVice": "MDB",
+    "sqcandVice": "90001986725",
+    "coligacao": "MDB / PC do B / PT / PV / PRD / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ADHAMO ALVES VIEIRA",
+      "nomeUrna": "ADIM",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 252,
+      "percentual": 8.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002103821"
+    },
+    {
+      "nome": "FERNANDO DANTAS BUENO",
+      "nomeUrna": "FERNANDINHO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 212,
+      "percentual": 6.77,
+      "situacao": "Eleito por média",
+      "sqcand": "90002103818"
+    },
+    {
+      "nome": "HÉRCULES BRITO DE GOIÁS",
+      "nomeUrna": "HERCULES BRITO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 175,
+      "percentual": 5.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002012301"
+    },
+    {
+      "nome": "ERNANE BERNARDINO BARBOSA",
+      "nomeUrna": "ERNANE BARBOSA",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 165,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002012958"
+    },
+    {
+      "nome": "EUDIVALTER ALVES DE MORAIS",
+      "nomeUrna": "EUDIVALTER MORAIS",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 156,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002103743"
+    },
+    {
+      "nome": "TUILA VIEIRA DE LEMOS",
+      "nomeUrna": "TUILA",
+      "partido": "PRD",
+      "numero": "25222",
+      "votos": 151,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002103888"
+    },
+    {
+      "nome": "WILSON GERALDO BARBOSA",
+      "nomeUrna": "WILSON BARBOSA",
+      "partido": "PRD",
+      "numero": "25123",
+      "votos": 145,
+      "percentual": 4.63,
+      "situacao": "Eleito por média",
+      "sqcand": "90002103880"
+    },
+    {
+      "nome": "ALEIXO FERREIRA DE AGUIAR FILHO",
+      "nomeUrna": "ALEXIM DO GÁS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 132,
+      "percentual": 4.21,
+      "situacao": "Eleito por média",
+      "sqcand": "90002103741"
+    },
+    {
+      "nome": "PAULO CESAR BORGES",
+      "nomeUrna": "PAULINHO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 116,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001986822"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 419,
+      "percentual": 20.23,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 410,
+      "percentual": 19.8,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "ALEXANDRE BALDY DE SANT ANNA BRAGA",
+      "nomeUrna": "ALEXANDRE BALDY",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 319,
+      "percentual": 15.4,
+      "sqcand": "90001609092"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HELIO ANTONIO DE SOUSA",
+      "nomeUrna": "DR. HELIO DE SOUSA",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 254,
+      "percentual": 11.67,
+      "sqcand": "90001621630"
+    },
+    {
+      "nome": "RUBENS OTONI GOMIDE",
+      "nomeUrna": "RUBENS OTONI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 220,
+      "percentual": 10.11,
+      "sqcand": "90001648112"
+    },
+    {
+      "nome": "ALCIDES RIBEIRO FILHO",
+      "nomeUrna": "PROFESSOR ALCIDES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 219,
+      "percentual": 10.06,
+      "sqcand": "90001652505"
+    },
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 158,
+      "percentual": 7.26,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "MATHEUS ARAÚJO RIBEIRO",
+      "nomeUrna": "MATHEUS RIBEIRO",
+      "partido": "PSDB",
+      "numero": "4555",
+      "votos": 148,
+      "percentual": 6.8,
+      "sqcand": "90001621635"
+    },
+    {
+      "nome": "LÊDA BORGES DE MOURA",
+      "nomeUrna": "LÊDA BORGES",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 138,
+      "percentual": 6.34,
+      "sqcand": "90001621634"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 103,
+      "percentual": 4.73,
+      "sqcand": "90001614055"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "AMAURI RIBEIRO",
+      "nomeUrna": "AMAURI RIBEIRO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 353,
+      "percentual": 16.88,
+      "sqcand": "90001648384"
+    },
+    {
+      "nome": "MAX SANTOS DE MENEZES",
+      "nomeUrna": "MAX MENEZES",
+      "partido": "PSD",
+      "numero": "55010",
+      "votos": 250,
+      "percentual": 11.96,
+      "sqcand": "90001695745"
+    },
+    {
+      "nome": "BRUNO REGIANY PEIXOTO PIMENTA",
+      "nomeUrna": "BRUNO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 202,
+      "percentual": 9.66,
+      "sqcand": "90001648400"
+    },
+    {
+      "nome": "LINCOLN GRAZIANI PEREIRA DA ROCHA TEJOTA",
+      "nomeUrna": "LINCOLN TEJOTA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 190,
+      "percentual": 9.09,
+      "sqcand": "90001648385"
+    },
+    {
+      "nome": "PAULO SÉRGIO DE REZENDE",
+      "nomeUrna": "PAULINHO HIDROLÂNDIA",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 123,
+      "percentual": 5.88,
+      "sqcand": "90001647419"
+    },
+    {
+      "nome": "FRANCISCO SOBRINHO DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 97,
+      "percentual": 4.64,
+      "sqcand": "90001653178"
+    },
+    {
+      "nome": "ANTÔNIO PEREIRA CARNEIRO NETO",
+      "nomeUrna": "ANTÔNIO CARNEIRO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 80,
+      "percentual": 3.83,
+      "sqcand": "90001643077"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 8379,
+  "votosValidos": 6843,
+  "abstencao": 14.08,
+  "prefeito": {
+    "nome": "CLAUDIO MANNARINO",
+    "nomeUrna": "CLAUDIO MANNARINO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 5247,
+    "percentual": 76.68,
+    "situacao": "Eleito",
+    "sqcand": "190002124476",
+    "vice": "JOSE FERNANDO CHEFFER",
+    "viceNomeUrna": "FERNANDO CHEIFFER",
+    "partidoVice": "MDB",
+    "sqcandVice": "190002124475",
+    "coligacao": "MDB / PDT / PL / PRD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "SERGIO NEPOMUCENO DE SOUZA",
+      "nomeUrna": "SERJAO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 458,
+      "percentual": 6.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002154787"
+    },
+    {
+      "nome": "ROSILEA GAMA",
+      "nomeUrna": "LEA DA IMPERIO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 438,
+      "percentual": 6.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002119067"
+    },
+    {
+      "nome": "TIAGO FREDERICO MAIA",
+      "nomeUrna": "TIAGO MAIA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 429,
+      "percentual": 6.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002141270"
+    },
+    {
+      "nome": "CARLOS ALBERTO DE ANDRADE VASCONCELOS",
+      "nomeUrna": "TIM DO LOZA",
+      "partido": "MDB",
+      "numero": "15677",
+      "votos": 422,
+      "percentual": 6.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002154788"
+    },
+    {
+      "nome": "AMILTON MENDES HENRIQUE",
+      "nomeUrna": "LOSO",
+      "partido": "UNIÃO",
+      "numero": "44610",
+      "votos": 381,
+      "percentual": 5.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002119064"
+    },
+    {
+      "nome": "DIEGO SIMOES DE LIMA SALGADO",
+      "nomeUrna": "DIEGO DO FIQUINHO",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 362,
+      "percentual": 5.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002141272"
+    },
+    {
+      "nome": "THIAGO INES DE PAULA",
+      "nomeUrna": "THIAGO BOY",
+      "partido": "UNIÃO",
+      "numero": "44225",
+      "votos": 358,
+      "percentual": 5.17,
+      "situacao": "Eleito por média",
+      "sqcand": "190002119068"
+    },
+    {
+      "nome": "LEONARDO MARINHO RETTO",
+      "nomeUrna": "LEO RETTO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 280,
+      "percentual": 4.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002047690"
+    },
+    {
+      "nome": "LUIZ ROBERTO CARIAS",
+      "nomeUrna": "LUIZ CARIAS",
+      "partido": "PDT",
+      "numero": "12630",
+      "votos": 217,
+      "percentual": 3.13,
+      "situacao": "Eleito por média",
+      "sqcand": "190002047691"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2530,
+      "percentual": 51.18,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 956,
+      "percentual": 19.34,
+      "sqcand": "190001609504"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CECILIANO",
+      "nomeUrna": "ANDRE CECILIANO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 761,
+      "percentual": 15.4,
+      "sqcand": "190001614199"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MAX RODRIGUES LEMOS",
+      "nomeUrna": "MAX",
+      "partido": "PROS",
+      "numero": "9090",
+      "votos": 1622,
+      "percentual": 26.73,
+      "sqcand": "190001606579"
+    },
+    {
+      "nome": "MARCIO JOSÉ MATOS PONCIO DE SOUZA",
+      "nomeUrna": "MÁRCIO PONCIO",
+      "partido": "PROS",
+      "numero": "9012",
+      "votos": 953,
+      "percentual": 15.71,
+      "sqcand": "190001606539"
+    },
+    {
+      "nome": "VINICIUS MEDEIROS FARAH",
+      "nomeUrna": "VINICIUS FARAH",
+      "partido": "UNIÃO",
+      "numero": "4415",
+      "votos": 593,
+      "percentual": 9.77,
+      "sqcand": "190001619495"
+    },
+    {
+      "nome": "HUGO LEAL MELO DA SILVA",
+      "nomeUrna": "HUGO LEAL",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 447,
+      "percentual": 7.37,
+      "sqcand": "190001603404"
+    },
+    {
+      "nome": "MARCELO ANDRÉ CID HERÁCLITO DO PORTO QUEIROZ",
+      "nomeUrna": "MARCELO QUEIROZ",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 281,
+      "percentual": 4.63,
+      "sqcand": "190001605581"
+    },
+    {
+      "nome": "JORGE ESTEVES",
+      "nomeUrna": "JORGE ESTEVES",
+      "partido": "PROS",
+      "numero": "9099",
+      "votos": 120,
+      "percentual": 1.98,
+      "sqcand": "190001606574"
+    },
+    {
+      "nome": "DANIELLE DYTZ DA CUNHA",
+      "nomeUrna": "DANI CUNHA",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 118,
+      "percentual": 1.94,
+      "sqcand": "190001619524"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROSENVERG REIS DE OLIVEIRA",
+      "nomeUrna": "ROSENVERG REIS",
+      "partido": "MDB",
+      "numero": "15016",
+      "votos": 1623,
+      "percentual": 28.06,
+      "sqcand": "190001645656"
+    },
+    {
+      "nome": "EDILAINE DA CONCEIÇÃO DORICO",
+      "nomeUrna": "EDILAINE DA SAÚDE",
+      "partido": "UNIÃO",
+      "numero": "44012",
+      "votos": 1084,
+      "percentual": 18.74,
+      "sqcand": "190001619417"
+    },
+    {
+      "nome": "EURICO PINHEIRO BERNARDES JÚNIOR",
+      "nomeUrna": "EURICO JÚNIOR",
+      "partido": "PV",
+      "numero": "43126",
+      "votos": 503,
+      "percentual": 8.7,
+      "sqcand": "190001620523"
+    },
+    {
+      "nome": "JAIR DE SIQUEIRA BITTENCOURT JUNIOR",
+      "nomeUrna": "JAIR BITTENCOURT",
+      "partido": "PL",
+      "numero": "22300",
+      "votos": 204,
+      "percentual": 3.53,
+      "sqcand": "190001596713"
+    },
+    {
+      "nome": "DANNIEL LIBRELON DIAS DE CASTRO",
+      "nomeUrna": "DANNIEL LIBRELON",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 177,
+      "percentual": 3.06,
+      "sqcand": "190001636600"
+    },
+    {
+      "nome": "RODRIGO DA SILVA BACELLAR",
+      "nomeUrna": "RODRIGO BACELLAR",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 142,
+      "percentual": 2.46,
+      "sqcand": "190001596728"
+    },
+    {
+      "nome": "RODRIGO MARTINS PIRES DE AMORIM",
+      "nomeUrna": "RODRIGO AMORIM",
+      "partido": "PTB",
+      "numero": "14222",
+      "votos": 95,
+      "percentual": 1.64,
+      "sqcand": "190001603223"
+    }
+  ]
+}

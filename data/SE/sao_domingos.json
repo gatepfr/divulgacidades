@@ -1,0 +1,271 @@
+{
+  "populacao": 8725,
+  "votosValidos": 6800,
+  "abstencao": 17.54,
+  "prefeito": {
+    "nome": "JOSÉ VAGNER ALVES DE OLIVEIRA",
+    "nomeUrna": "BINHO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 3616,
+    "percentual": 53.18,
+    "situacao": "Eleito",
+    "sqcand": "260001998773",
+    "vice": "ADUILSON TEMOTEO MACEDO",
+    "viceNomeUrna": "ADUILSON",
+    "partidoVice": "PSD",
+    "sqcandVice": "260001998772",
+    "coligacao": "UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ADEVANILSON SANTANA MACEDO",
+      "nomeUrna": "DEDÉ DE ADUILSON",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 870,
+      "percentual": 12.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001998906"
+    },
+    {
+      "nome": "JOSÉ VALDEMIR DOS SANTOS",
+      "nomeUrna": "VALDEMIR DE PETRINO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 621,
+      "percentual": 9.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002262688"
+    },
+    {
+      "nome": "ACACIO TEMOTEO SANTIAGO",
+      "nomeUrna": "ACACIO DE JJ",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 584,
+      "percentual": 8.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001976577"
+    },
+    {
+      "nome": "WASHINGTON SOUZA SANTOS",
+      "nomeUrna": "WASHINGTON SOUZA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 514,
+      "percentual": 7.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001998907"
+    },
+    {
+      "nome": "ANDERSON SOUZA DE ALMEIDA",
+      "nomeUrna": "ANDERSON BURIL",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 491,
+      "percentual": 7.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001976580"
+    },
+    {
+      "nome": "JULIO RENOVATO DOS SANTOS",
+      "nomeUrna": "JULIO DA ASSOCIAÇÃO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 398,
+      "percentual": 5.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002262684"
+    },
+    {
+      "nome": "JOSIVALDO BARBOSA DOS SANTOS",
+      "nomeUrna": "JO CALUNGA",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 343,
+      "percentual": 5.01,
+      "situacao": "Eleito por média",
+      "sqcand": "260002262686"
+    },
+    {
+      "nome": "AVANILSON FERREIRA DOS SANTOS",
+      "nomeUrna": "AVANILSON",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 342,
+      "percentual": 4.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "260001998911"
+    },
+    {
+      "nome": "ISRAEL BISPO DOS SANTOS",
+      "nomeUrna": "ISRAEL BISPO ELZINHO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 327,
+      "percentual": 4.77,
+      "situacao": "Eleito por média",
+      "sqcand": "260001976578"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "LAERCIO JOSE DE OLIVEIRA",
+      "nomeUrna": "LAÉRCIO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2396,
+      "percentual": 50.28,
+      "sqcand": "260001635426"
+    },
+    {
+      "nome": "EDUARDO ALVES DO AMORIM",
+      "nomeUrna": "DR. EDUARDO AMORIM",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1601,
+      "percentual": 33.6,
+      "sqcand": "260001693738"
+    },
+    {
+      "nome": "ANTONIO CARLOS VALADARES FILHO",
+      "nomeUrna": "VALADARES FILHO",
+      "partido": "PSB",
+      "numero": "404",
+      "votos": 418,
+      "percentual": 8.77,
+      "sqcand": "260001666588"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "YANDRA BARRETO FERREIRA",
+      "nomeUrna": "YANDRA DE ANDRÉ",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 2267,
+      "percentual": 44.0,
+      "sqcand": "260001728384"
+    },
+    {
+      "nome": "ICARO BARBOSA COSTA",
+      "nomeUrna": "ICARO DE VALMIR",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 1079,
+      "percentual": 20.94,
+      "sqcand": "260001737580"
+    },
+    {
+      "nome": "FABIO DE ALMEIDA REIS",
+      "nomeUrna": "FABIO REIS",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 377,
+      "percentual": 7.32,
+      "sqcand": "260001619673"
+    },
+    {
+      "nome": "LUIZ AUGUSTO CARVALHO RIBEIRO FILHO",
+      "nomeUrna": "GUSTINHO RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 263,
+      "percentual": 5.1,
+      "sqcand": "260001618176"
+    },
+    {
+      "nome": "JOAO SOMARIVA DANIEL",
+      "nomeUrna": "JOAO DANIEL",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 157,
+      "percentual": 3.05,
+      "sqcand": "260001667975"
+    },
+    {
+      "nome": "SAMUEL ALVES BARRETO",
+      "nomeUrna": "CAPITÃO SAMUEL",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 124,
+      "percentual": 2.41,
+      "sqcand": "260001633056"
+    },
+    {
+      "nome": "SUELY FONTES DE CARVALHO OURO PEREIRA",
+      "nomeUrna": "SUELY OURO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 104,
+      "percentual": 2.02,
+      "sqcand": "260001619671"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ SIMPLICIANO DA FONSECA",
+      "nomeUrna": "LUIZ FONSECA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1941,
+      "percentual": 39.69,
+      "sqcand": "260001644226"
+    },
+    {
+      "nome": "MARCOS VINICIUS LIMA DE OLIVEIRA",
+      "nomeUrna": "MARCOS OLIVEIRA",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 654,
+      "percentual": 13.37,
+      "sqcand": "260001712248"
+    },
+    {
+      "nome": "JOSEFA AUREA DE SOUZA RIBEIRO",
+      "nomeUrna": "AUREA RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 266,
+      "percentual": 5.44,
+      "sqcand": "260001618227"
+    },
+    {
+      "nome": "MARIA VIEIRA DE MENDONÇA",
+      "nomeUrna": "MARIA MENDONÇA",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 247,
+      "percentual": 5.05,
+      "sqcand": "260001669439"
+    },
+    {
+      "nome": "LUCIANO AZEVEDO PIMENTEL",
+      "nomeUrna": "LUCIANO PIMENTEL",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 226,
+      "percentual": 4.62,
+      "sqcand": "260001644231"
+    },
+    {
+      "nome": "JOSE PEDRO DOS SANTOS",
+      "nomeUrna": "JP",
+      "partido": "PATRIOTA",
+      "numero": "51555",
+      "votos": 169,
+      "percentual": 3.46,
+      "sqcand": "260001712731"
+    },
+    {
+      "nome": "MANOEL FABIO DOS SANTOS CHAGAS",
+      "nomeUrna": "FABIO DE DR JUNIOR CHAGAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 131,
+      "percentual": 2.68,
+      "sqcand": "260001618236"
+    }
+  ]
+}

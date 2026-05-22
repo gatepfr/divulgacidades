@@ -1,0 +1,311 @@
+{
+  "populacao": 51089,
+  "votosValidos": 35666,
+  "abstencao": 25.17,
+  "prefeito": {
+    "nome": "EMERSON RODRIGO CAMARGO",
+    "nomeUrna": "PROFESSOR EMERSON",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 19905,
+    "percentual": 55.81,
+    "situacao": "Eleito",
+    "sqcand": "250001916731",
+    "vice": "ANDRÉA CRISTIANE FOGAÇA DE SOUZA NOGUEIRA",
+    "viceNomeUrna": "DRA ANDRÉA DELEGADA",
+    "partidoVice": "PODE",
+    "sqcandVice": "250001916732",
+    "coligacao": "REPUBLICANOS / MDB / PP / AVANTE / PODE / SOLIDARIEDADE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "GILBERTO DE FARIA",
+      "nomeUrna": "GILBERTO DE FARIA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1102,
+      "percentual": 3.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001946272"
+    },
+    {
+      "nome": "ANTÔNIO GREGÓRIO ROMBOLA CASAGRANDE",
+      "nomeUrna": "GREGORIO CASAGRANDE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 859,
+      "percentual": 2.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001944877"
+    },
+    {
+      "nome": "CELIO JOSE DE MORAIS",
+      "nomeUrna": "DR CÉLIO JOSÉ DE MORAIS",
+      "partido": "PL",
+      "numero": "22007",
+      "votos": 830,
+      "percentual": 2.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002259948"
+    },
+    {
+      "nome": "RENATA APARECIDA RONCAGLIO ASSIRATI",
+      "nomeUrna": "RENATA ASSIRATI",
+      "partido": "PODE",
+      "numero": "20120",
+      "votos": 818,
+      "percentual": 2.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001948834"
+    },
+    {
+      "nome": "WILSON APARECIDO DOS SANTOS",
+      "nomeUrna": "WILSINHO LOCUTOR",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 809,
+      "percentual": 2.28,
+      "situacao": "Eleito por média",
+      "sqcand": "250001946282"
+    },
+    {
+      "nome": "JOSÉ RONALDO BOLOGNEZZI",
+      "nomeUrna": "RONALDO BOLOGNEZZI",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 789,
+      "percentual": 2.22,
+      "situacao": "Eleito por média",
+      "sqcand": "250001946280"
+    },
+    {
+      "nome": "ADEMILSON APARECIDO SERVIDONE",
+      "nomeUrna": "PEPA SERVIDONE",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 758,
+      "percentual": 2.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002148234"
+    },
+    {
+      "nome": "EDNEI APARECIDO VALÊNCIO",
+      "nomeUrna": "EDNEI VALÊNCIO ",
+      "partido": "PL",
+      "numero": "22622",
+      "votos": 716,
+      "percentual": 2.02,
+      "situacao": "Eleito por média",
+      "sqcand": "250002259941"
+    },
+    {
+      "nome": "RONALDO PERUCI",
+      "nomeUrna": "RONALDINHO",
+      "partido": "AVANTE",
+      "numero": "70007",
+      "votos": 696,
+      "percentual": 1.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001949352"
+    },
+    {
+      "nome": "SAMUEL CESAR SCARPIM DA CUNHA",
+      "nomeUrna": "SAMUEL CUNHA",
+      "partido": "PODE",
+      "numero": "20444",
+      "votos": 689,
+      "percentual": 1.94,
+      "situacao": "Eleito por média",
+      "sqcand": "250001948836"
+    },
+    {
+      "nome": "JONATAS CESAR CARNEVALLI LOPES",
+      "nomeUrna": "DR JONATAS CARNEVALLI LOPES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77456",
+      "votos": 640,
+      "percentual": 1.8,
+      "situacao": "Eleito por média",
+      "sqcand": "250001944879"
+    },
+    {
+      "nome": "RENATO CARLOS TOFANI",
+      "nomeUrna": "MANDI SERRALHEIRO TOFANI",
+      "partido": "AVANTE",
+      "numero": "70070",
+      "votos": 637,
+      "percentual": 1.79,
+      "situacao": "Eleito por média",
+      "sqcand": "250001949349"
+    },
+    {
+      "nome": "JONAS ALEXANDRE DA SILVA",
+      "nomeUrna": "PROFESSOR JONAS",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 564,
+      "percentual": 1.59,
+      "situacao": "Eleito por média",
+      "sqcand": "250002148239"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 19525,
+      "percentual": 57.85,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 9015,
+      "percentual": 26.71,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 3446,
+      "percentual": 10.21,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RICARDO AUGUSTO MACHADO DA SILVA",
+      "nomeUrna": "RICARDO SILVA",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 3880,
+      "percentual": 11.08,
+      "sqcand": "250001604967"
+    },
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 2343,
+      "percentual": 6.69,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "SAMUEL MOREIRA DA SILVA JUNIOR",
+      "nomeUrna": "SAMUEL MOREIRA",
+      "partido": "PSDB",
+      "numero": "4580",
+      "votos": 2184,
+      "percentual": 6.24,
+      "sqcand": "250001612140"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 1947,
+      "percentual": 5.56,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 1363,
+      "percentual": 3.89,
+      "sqcand": "250001611315"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 1361,
+      "percentual": 3.89,
+      "sqcand": "250001612102"
+    },
+    {
+      "nome": "ADILSON BARROSO OLIVEIRA",
+      "nomeUrna": "ADILSON BARROSO",
+      "partido": "PL",
+      "numero": "2251",
+      "votos": 1182,
+      "percentual": 3.38,
+      "sqcand": "250001611352"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAFAEL ANTONIO DA SILVA",
+      "nomeUrna": "RAFAEL SILVA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 3808,
+      "percentual": 11.4,
+      "sqcand": "250001605053"
+    },
+    {
+      "nome": "BENEDITO DE VITTO JUNIOR",
+      "nomeUrna": "JÚNIOR DE VITTO",
+      "partido": "UNIÃO",
+      "numero": "44707",
+      "votos": 2644,
+      "percentual": 7.91,
+      "sqcand": "250001651009"
+    },
+    {
+      "nome": "RICARDO ROSSI MADALENA",
+      "nomeUrna": "RICARDO MADALENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 2318,
+      "percentual": 6.94,
+      "sqcand": "250001610138"
+    },
+    {
+      "nome": "OCIMAR DONIZETI LEO OLIVEIRA",
+      "nomeUrna": "LEO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1576,
+      "percentual": 4.72,
+      "sqcand": "250001610005"
+    },
+    {
+      "nome": "MATHEUS COIMBRA MARTINS DE AGUIAR",
+      "nomeUrna": "TENENTE COIMBRA",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 1138,
+      "percentual": 3.41,
+      "sqcand": "250001610136"
+    },
+    {
+      "nome": "FERNANDO GALVAO MOURA",
+      "nomeUrna": "FERNANDO GALVÃO",
+      "partido": "UNIÃO",
+      "numero": "44025",
+      "votos": 1055,
+      "percentual": 3.16,
+      "sqcand": "250001602174"
+    },
+    {
+      "nome": "FABIANA DE LIMA BARROSO",
+      "nomeUrna": "FABIANA B.",
+      "partido": "PL",
+      "numero": "22051",
+      "votos": 991,
+      "percentual": 2.97,
+      "sqcand": "250001610130"
+    }
+  ]
+}

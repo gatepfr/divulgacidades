@@ -1,0 +1,271 @@
+{
+  "populacao": 7257,
+  "votosValidos": 6268,
+  "abstencao": 11.6,
+  "prefeito": {
+    "nome": "JOÃO PAULO MAROSO",
+    "nomeUrna": "JOÃO PAULO MAROSO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3392,
+    "percentual": 54.12,
+    "situacao": "Eleito",
+    "sqcand": "210002070329",
+    "vice": "ANTONIO TAPPARO",
+    "viceNomeUrna": "ANTONIO TAPPARO",
+    "partidoVice": "PP",
+    "sqcandVice": "210002070330",
+    "coligacao": "PDT / PODE / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "JEAN CARLOS ANSOLIN",
+      "nomeUrna": "JEAN ANSOLIN",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 770,
+      "percentual": 12.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002071032"
+    },
+    {
+      "nome": "SADI ZANON",
+      "nomeUrna": "SADI ZANON",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 744,
+      "percentual": 11.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002071035"
+    },
+    {
+      "nome": "GILBERTO LUIS ARTIFON",
+      "nomeUrna": "BETO DA SAÚDE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 531,
+      "percentual": 8.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002071031"
+    },
+    {
+      "nome": "MÁRCIO DE CONTO",
+      "nomeUrna": "MÁRCIO DE CONTO (MARCIETO)",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 438,
+      "percentual": 7.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002362181"
+    },
+    {
+      "nome": "MARCIO TODESCHINI",
+      "nomeUrna": "MARCIO TODESCHINI",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 381,
+      "percentual": 6.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002071033"
+    },
+    {
+      "nome": "ODETE ZANON VICCARI",
+      "nomeUrna": "ODETE ZANON VICCARI",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 378,
+      "percentual": 6.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002362179"
+    },
+    {
+      "nome": "OSCAR FRANCISCO TODESCHINI",
+      "nomeUrna": "OSCAR FRANCISCO TODESCHINI",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 325,
+      "percentual": 5.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002362176"
+    },
+    {
+      "nome": "ELIAS DALL AGNOL",
+      "nomeUrna": "ELIAS DALL AGNOL",
+      "partido": "PP",
+      "numero": "11051",
+      "votos": 315,
+      "percentual": 5.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002071036"
+    },
+    {
+      "nome": "CIDANIA DE MORAES",
+      "nomeUrna": "CIDA DEFENDI",
+      "partido": "MDB",
+      "numero": "15622",
+      "votos": 295,
+      "percentual": 4.75,
+      "situacao": "Eleito por média",
+      "sqcand": "210002362173"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 3891,
+      "percentual": 72.87,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 716,
+      "percentual": 13.41,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 663,
+      "percentual": 12.42,
+      "sqcand": "210001619906"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 960,
+      "percentual": 17.18,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 528,
+      "percentual": 9.45,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 380,
+      "percentual": 6.8,
+      "sqcand": "210001596134"
+    },
+    {
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nomeUrna": "DANRLEI DE DEUS GOLEIRO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 352,
+      "percentual": 6.3,
+      "sqcand": "210001613990"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 347,
+      "percentual": 6.21,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 329,
+      "percentual": 5.89,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 265,
+      "percentual": 4.74,
+      "sqcand": "210001646696"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RONALDO SANTINI",
+      "nomeUrna": "SANTINI",
+      "partido": "PODE",
+      "numero": "19777",
+      "votos": 1130,
+      "percentual": 20.71,
+      "sqcand": "210001596147"
+    },
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 502,
+      "percentual": 9.2,
+      "sqcand": "210001647982"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 489,
+      "percentual": 8.96,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "ROSELI VANDA PIRES ALBUQUERQUE",
+      "nomeUrna": "ROSELI ALBUQUERQUE",
+      "partido": "PSD",
+      "numero": "55500",
+      "votos": 342,
+      "percentual": 6.27,
+      "sqcand": "210001696201"
+    },
+    {
+      "nome": "GUILHERME RECH PASIN",
+      "nomeUrna": "GUILHERME PASIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 313,
+      "percentual": 5.74,
+      "sqcand": "210001647169"
+    },
+    {
+      "nome": "CARLOS ANTÔNIO BÚRIGO",
+      "nomeUrna": "CARLOS BÚRIGO",
+      "partido": "MDB",
+      "numero": "15140",
+      "votos": 255,
+      "percentual": 4.67,
+      "sqcand": "210001647971"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 199,
+      "percentual": 3.65,
+      "sqcand": "210001602904"
+    }
+  ]
+}

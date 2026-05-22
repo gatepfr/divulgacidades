@@ -1,0 +1,271 @@
+{
+  "populacao": 4348,
+  "votosValidos": 3394,
+  "abstencao": 18.1,
+  "prefeito": {
+    "nome": "JUCIMAR FERREIRA DA SILVA",
+    "nomeUrna": "JUCIMAR",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2841,
+    "percentual": 83.71,
+    "situacao": "Eleito",
+    "sqcand": "250001958672",
+    "vice": "JOSE FRANCISCO DOS SANTOS",
+    "viceNomeUrna": "CHICO",
+    "partidoVice": "PL",
+    "sqcandVice": "250001958673",
+    "coligacao": "PP / PODE / PL / DC / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "WELLINGTON SONEI ALVES",
+      "nomeUrna": "GORDO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 285,
+      "percentual": 8.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001958636"
+    },
+    {
+      "nome": "GERALDO APARECIDO DA SILVA",
+      "nomeUrna": "PAÇOQUINHA",
+      "partido": "DC",
+      "numero": "27000",
+      "votos": 189,
+      "percentual": 5.5,
+      "situacao": "Eleito por média",
+      "sqcand": "250001958593"
+    },
+    {
+      "nome": "JOSÉ IVO ALVES PEREIRA",
+      "nomeUrna": "IVO",
+      "partido": "PODE",
+      "numero": "20995",
+      "votos": 187,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001958612"
+    },
+    {
+      "nome": "IGOR BARBOSA DOS SANTOS",
+      "nomeUrna": "IGOR VALENTIM",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 149,
+      "percentual": 4.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002077783"
+    },
+    {
+      "nome": "MARCOS JOEL DE FARIA",
+      "nomeUrna": "MARCOS JOEL LOCUTOR",
+      "partido": "PL",
+      "numero": "22258",
+      "votos": 140,
+      "percentual": 4.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001958631"
+    },
+    {
+      "nome": "EDNILSON APARECIDO ANGELO MEDEIROS",
+      "nomeUrna": "DENILSON JACU DA ROÇA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 130,
+      "percentual": 3.78,
+      "situacao": "Eleito por média",
+      "sqcand": "250001958627"
+    },
+    {
+      "nome": "JOSE ROBERTO SANTOS",
+      "nomeUrna": "BETINHO DA ILHA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 129,
+      "percentual": 3.75,
+      "situacao": "Eleito por média",
+      "sqcand": "250001958630"
+    },
+    {
+      "nome": "SEBASTIÃO DIAS",
+      "nomeUrna": "TIÃO DIAS",
+      "partido": "PP",
+      "numero": "11134",
+      "votos": 104,
+      "percentual": 3.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001958617"
+    },
+    {
+      "nome": "ISABEL CRISTINA DE OLIVEIRA",
+      "nomeUrna": "BEL DA PÊGA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 91,
+      "percentual": 2.65,
+      "situacao": "Eleito por média",
+      "sqcand": "250001958608"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1577,
+      "percentual": 59.49,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 770,
+      "percentual": 29.05,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 241,
+      "percentual": 9.09,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCIO LUIZ ALVINO DE SOUZA",
+      "nomeUrna": "MARCIO ALVINO",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 1000,
+      "percentual": 34.95,
+      "sqcand": "250001611336"
+    },
+    {
+      "nome": "JOSÉ AFONSO LOBATO",
+      "nomeUrna": "PADRE AFONSO LOBATO",
+      "partido": "PODE",
+      "numero": "1951",
+      "votos": 521,
+      "percentual": 18.21,
+      "sqcand": "250001610261"
+    },
+    {
+      "nome": "MARCO AURELIO BERTAIOLLI",
+      "nomeUrna": "MARCO BERTAIOLLI",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 234,
+      "percentual": 8.18,
+      "sqcand": "250001604939"
+    },
+    {
+      "nome": "LORENY MAYARA CAETANO ROBERTO",
+      "nomeUrna": "LORENY",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7791",
+      "votos": 122,
+      "percentual": 4.26,
+      "sqcand": "250001606090"
+    },
+    {
+      "nome": "CARLOS ALBERTO DE SOUZA",
+      "nomeUrna": "CAPITÃO SOUZA",
+      "partido": "PL",
+      "numero": "2212",
+      "votos": 98,
+      "percentual": 3.43,
+      "sqcand": "250001611363"
+    },
+    {
+      "nome": "WAGNER OCIMAR BALIEIRO",
+      "nomeUrna": "WAGNER BALIEIRO",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 89,
+      "percentual": 3.11,
+      "sqcand": "250001610667"
+    },
+    {
+      "nome": "ANTONIO CARLOS RODRIGUES",
+      "nomeUrna": "ANTONIO CARLOS RODRIGUES",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 52,
+      "percentual": 1.82,
+      "sqcand": "250001611362"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANDRE LUIS DO PRADO",
+      "nomeUrna": "ANDRÉ DO PRADO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 1157,
+      "percentual": 42.84,
+      "sqcand": "250001610161"
+    },
+    {
+      "nome": "JOSÉ BERNARDO ORTIZ MONTEIRO JÚNIOR",
+      "nomeUrna": "ORTIZ JUNIOR",
+      "partido": "PSDB",
+      "numero": "45151",
+      "votos": 208,
+      "percentual": 7.7,
+      "sqcand": "250001611495"
+    },
+    {
+      "nome": "MARCOS ROBERTO DAMASIO DA SILVA",
+      "nomeUrna": "MARCOS DAMASIO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 94,
+      "percentual": 3.48,
+      "sqcand": "250001610193"
+    },
+    {
+      "nome": "EMIDIO PEREIRA DE SOUZA",
+      "nomeUrna": "EMÍDIO DE SOUZA",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 91,
+      "percentual": 3.37,
+      "sqcand": "250001611811"
+    },
+    {
+      "nome": "MARCIO PASCHOAL GIUDICIO",
+      "nomeUrna": "MARCIO DA FARMÁCIA",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 91,
+      "percentual": 3.37,
+      "sqcand": "250001610472"
+    },
+    {
+      "nome": "VANILDA APARECIDA PEREIRA DA SILVA",
+      "nomeUrna": "SUPERVISORA VANILDA SILVA",
+      "partido": "PSD",
+      "numero": "55855",
+      "votos": 79,
+      "percentual": 2.92,
+      "sqcand": "250001605025"
+    },
+    {
+      "nome": "REGIS LEANDRO YASUMURA",
+      "nomeUrna": "REGIS YASUMURA",
+      "partido": "PL",
+      "numero": "22002",
+      "votos": 74,
+      "percentual": 2.74,
+      "sqcand": "250001610198"
+    }
+  ]
+}

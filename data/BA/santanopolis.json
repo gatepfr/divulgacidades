@@ -1,0 +1,271 @@
+{
+  "populacao": 9650,
+  "votosValidos": 7851,
+  "abstencao": 12.27,
+  "prefeito": {
+    "nome": "GILSON CERQUEIRA ALMEIDA",
+    "nomeUrna": "VITOR DO POVO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 6144,
+    "percentual": 78.26,
+    "situacao": "Eleito",
+    "sqcand": "50002235640",
+    "vice": "MARIO PAULO FERNANDES RIBEIRO",
+    "viceNomeUrna": "PAULO RIBEIRO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "50002235641",
+    "coligacao": "REPUBLICANOS / MDB / UNIÃO / PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "JOTAMAR FERREIRA SANTOS",
+      "nomeUrna": "JOTAMAR",
+      "partido": "PSD",
+      "numero": "55601",
+      "votos": 483,
+      "percentual": 5.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002248965"
+    },
+    {
+      "nome": "GIVALDO FERREIRA SANTOS",
+      "nomeUrna": "VADÃO FERREIRA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 474,
+      "percentual": 5.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002274102"
+    },
+    {
+      "nome": "JOSELITA DE JESUS OLIVEIRA",
+      "nomeUrna": "LITA DE TONHÓ",
+      "partido": "REPUBLICANOS",
+      "numero": "10666",
+      "votos": 438,
+      "percentual": 5.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002288492"
+    },
+    {
+      "nome": "ALMIR RAMOS DA SILVA",
+      "nomeUrna": "ALMIR RAMOS",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 402,
+      "percentual": 4.93,
+      "situacao": "Eleito por média",
+      "sqcand": "50002274099"
+    },
+    {
+      "nome": "OLEGARIO DOS ANJOS SOUZA",
+      "nomeUrna": "OLEGARIO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 377,
+      "percentual": 4.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002248964"
+    },
+    {
+      "nome": "MURILLO DOS ANJOS COSTA",
+      "nomeUrna": "MURILO DE SEU MANÉ",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 351,
+      "percentual": 4.3,
+      "situacao": "Eleito por média",
+      "sqcand": "50002293771"
+    },
+    {
+      "nome": "VALDIR DE OLIVEIRA GOMES",
+      "nomeUrna": "VALDIR DO SINDICATO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 304,
+      "percentual": 3.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002235686"
+    },
+    {
+      "nome": "PAULO ROBERTO BRITO LIMA",
+      "nomeUrna": "ROBERTÃO DA SAUDE",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 303,
+      "percentual": 3.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002278277"
+    },
+    {
+      "nome": "MARCOS SANTOS SOUSA",
+      "nomeUrna": "MARQUINHO BAIANO",
+      "partido": "UNIÃO",
+      "numero": "44100",
+      "votos": 240,
+      "percentual": 2.94,
+      "situacao": "Eleito por média",
+      "sqcand": "50002235684"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4402,
+      "percentual": 75.18,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1093,
+      "percentual": 18.67,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 324,
+      "percentual": 5.53,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DIEGO HENRIQUE SILVA CERQUEIRA MARTINS",
+      "nomeUrna": "DIEGO CORONEL",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 1426,
+      "percentual": 22.84,
+      "sqcand": "50001607221"
+    },
+    {
+      "nome": "ORLANDO SULZ DE ALMEIDA NETO",
+      "nomeUrna": "NETO CARLETTO",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 1284,
+      "percentual": 20.57,
+      "sqcand": "50001621029"
+    },
+    {
+      "nome": "LEONARDO SILVA PRATES",
+      "nomeUrna": "LÉO PRATES",
+      "partido": "PDT",
+      "numero": "1244",
+      "votos": 1004,
+      "percentual": 16.08,
+      "sqcand": "50001620881"
+    },
+    {
+      "nome": "MARCELO DE OLIVEIRA GUIMARAES FILHO",
+      "nomeUrna": "MARCELO GUIMARÃES FILHO",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 415,
+      "percentual": 6.65,
+      "sqcand": "50001634585"
+    },
+    {
+      "nome": "JOSÉ CERQUEIRA DE SANTANA NETO",
+      "nomeUrna": "ZÉ NETO",
+      "partido": "PT",
+      "numero": "1323",
+      "votos": 319,
+      "percentual": 5.11,
+      "sqcand": "50001605365"
+    },
+    {
+      "nome": "JOSÉ FRANCISCO PINTO",
+      "nomeUrna": "ZÉ CHICO",
+      "partido": "UNIÃO",
+      "numero": "4470",
+      "votos": 200,
+      "percentual": 3.2,
+      "sqcand": "50001634607"
+    },
+    {
+      "nome": "MARCIO CARLOS MARINHO",
+      "nomeUrna": "MARCIO MARINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 161,
+      "percentual": 2.58,
+      "sqcand": "50001619869"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALEX LOPES DA SILVA",
+      "nomeUrna": "ALEX DA PIATÃ",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 1325,
+      "percentual": 22.9,
+      "sqcand": "50001607306"
+    },
+    {
+      "nome": "MATHEUS DE OLIVEIRA FERREIRA",
+      "nomeUrna": "MATHEUS DE GERALDO JÚNIOR",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 917,
+      "percentual": 15.85,
+      "sqcand": "50001614689"
+    },
+    {
+      "nome": "ANGELO MARIO CORONEL DE AZEVEDO MARTINS II",
+      "nomeUrna": "ANGELO CORONEL FILHO",
+      "partido": "PSD",
+      "numero": "55255",
+      "votos": 586,
+      "percentual": 10.13,
+      "sqcand": "50001607294"
+    },
+    {
+      "nome": "MARCELO DANTAS VEIGA",
+      "nomeUrna": "MARCELINHO VEIGA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 457,
+      "percentual": 7.9,
+      "sqcand": "50001648309"
+    },
+    {
+      "nome": "LUCIANO SIMOES DE CASTRO BARBOSA FILHO",
+      "nomeUrna": "LUCIANO SIMÕES",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 392,
+      "percentual": 6.77,
+      "sqcand": "50001648313"
+    },
+    {
+      "nome": "PABLO ROBERTO GONÇALVES DA SILVA",
+      "nomeUrna": "PABLO ROBERTO ",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 222,
+      "percentual": 3.84,
+      "sqcand": "50001613913"
+    },
+    {
+      "nome": "VALERIO RIBEIRO COELHO",
+      "nomeUrna": "MISSIONÁRIO VALÉRIO RIBEIRO",
+      "partido": "CIDADANIA",
+      "numero": "23123",
+      "votos": 216,
+      "percentual": 3.73,
+      "sqcand": "50001613916"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 3240,
+  "votosValidos": 2920,
+  "abstencao": 7.69,
+  "prefeito": {
+    "nome": "GILBERTO LOPES ROLDÃO",
+    "nomeUrna": "BETO ROLDÃO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 1582,
+    "percentual": 54.18,
+    "situacao": "Eleito",
+    "sqcand": "210002109214",
+    "vice": "VALMIR ROLDÃO EVALDT",
+    "viceNomeUrna": "VALMIR PETO",
+    "partidoVice": "PP",
+    "sqcandVice": "210002109215",
+    "coligacao": "PP / CIDADANIA / PSDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "IVAM CARLOS MATOS",
+      "nomeUrna": "IVAM MATOS",
+      "partido": "MDB",
+      "numero": "15515",
+      "votos": 252,
+      "percentual": 8.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002299680"
+    },
+    {
+      "nome": "LUCAS SANTOS DE OLIVEIRA",
+      "nomeUrna": "LUCAS DOS SANTOS DE OLIVEIRA",
+      "partido": "PSDB",
+      "numero": "45456",
+      "votos": 225,
+      "percentual": 7.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002161435"
+    },
+    {
+      "nome": "NOERCI ROLDÃO DA SILVA",
+      "nomeUrna": "CESAR",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 189,
+      "percentual": 6.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002161437"
+    },
+    {
+      "nome": "JOÃO PACHECO LOPES",
+      "nomeUrna": "JOÃO INDIO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 187,
+      "percentual": 6.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002299677"
+    },
+    {
+      "nome": "DANIELA BROCCA LIMA",
+      "nomeUrna": "DANIELA BROCCA",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 178,
+      "percentual": 6.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002194312"
+    },
+    {
+      "nome": "JOSÉ DALMEI CORREA BORGES",
+      "nomeUrna": "DALMEI BORGES",
+      "partido": "MDB",
+      "numero": "15200",
+      "votos": 174,
+      "percentual": 5.9,
+      "situacao": "Eleito por média",
+      "sqcand": "210002299685"
+    },
+    {
+      "nome": "RICARDO DOS SANTOS",
+      "nomeUrna": "RICARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10200",
+      "votos": 162,
+      "percentual": 5.49,
+      "situacao": "Eleito por média",
+      "sqcand": "210002194311"
+    },
+    {
+      "nome": "RONILTO ROLDÃO SELAU",
+      "nomeUrna": "ASTENGO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 149,
+      "percentual": 5.05,
+      "situacao": "Eleito por média",
+      "sqcand": "210002161436"
+    },
+    {
+      "nome": "DORIZETE DA SILVA ROLDÃO",
+      "nomeUrna": "DORIZETE",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 133,
+      "percentual": 4.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002301358"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 821,
+      "percentual": 39.34,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 746,
+      "percentual": 35.75,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 499,
+      "percentual": 23.91,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 990,
+      "percentual": 44.72,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 206,
+      "percentual": 9.3,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 150,
+      "percentual": 6.78,
+      "sqcand": "210001596134"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 108,
+      "percentual": 4.88,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 96,
+      "percentual": 4.34,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 67,
+      "percentual": 3.03,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "MARIA DO ROSÁRIO NUNES",
+      "nomeUrna": "MARIA DO ROSÁRIO",
+      "partido": "PT",
+      "numero": "1370",
+      "votos": 51,
+      "percentual": 2.3,
+      "sqcand": "210001604650"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EDIVILSON MEURER BRUM",
+      "nomeUrna": "EDIVILSON BRUM",
+      "partido": "MDB",
+      "numero": "15200",
+      "votos": 481,
+      "percentual": 22.67,
+      "sqcand": "210001647977"
+    },
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 450,
+      "percentual": 21.21,
+      "sqcand": "210001647995"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 191,
+      "percentual": 9.0,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "RONALDO SANTINI",
+      "nomeUrna": "SANTINI",
+      "partido": "PODE",
+      "numero": "19777",
+      "votos": 141,
+      "percentual": 6.64,
+      "sqcand": "210001596147"
+    },
+    {
+      "nome": "JOSÉ SAMUEL DA SILVA SANTOS",
+      "nomeUrna": "SAMUEL",
+      "partido": "PT",
+      "numero": "13030",
+      "votos": 132,
+      "percentual": 6.22,
+      "sqcand": "210001610622"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 129,
+      "percentual": 6.08,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "LUCIANO PINTO DA SILVA",
+      "nomeUrna": "LUCIANO PINTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10852",
+      "votos": 91,
+      "percentual": 4.29,
+      "sqcand": "210001601630"
+    }
+  ]
+}

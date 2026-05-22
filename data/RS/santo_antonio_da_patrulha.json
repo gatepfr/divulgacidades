@@ -1,0 +1,311 @@
+{
+  "populacao": 34148,
+  "votosValidos": 25072,
+  "abstencao": 23.37,
+  "prefeito": {
+    "nome": "RODRIGO GOMES MASSULO",
+    "nomeUrna": "RODRIGO MASSULO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 21583,
+    "percentual": 86.08,
+    "situacao": "Eleito",
+    "sqcand": "210002016561",
+    "vice": "MARCELO SANTOS DA SILVA",
+    "viceNomeUrna": "MARCELO GAUCHO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "210002016562",
+    "coligacao": "PP / PDT / REPUBLICANOS / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "JACIRA CONCEIÇÃO DOS SANTOS",
+      "nomeUrna": "JACIRA SANTOS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 2042,
+      "percentual": 8.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002016963"
+    },
+    {
+      "nome": "DIEGO GOMES PORTAL",
+      "nomeUrna": "DIEGO PORTAL",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 1546,
+      "percentual": 6.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002071450"
+    },
+    {
+      "nome": "JOÃO LUIS MOREIRA DA SILVA",
+      "nomeUrna": "BACANA",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 1347,
+      "percentual": 5.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002207068"
+    },
+    {
+      "nome": "GABRIEL MENEZES DIEDRICH",
+      "nomeUrna": "GABRIEL DIEDRICH",
+      "partido": "MDB",
+      "numero": "15800",
+      "votos": 1269,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002207065"
+    },
+    {
+      "nome": "ANDRÉ OLIVEIRA MACHADO",
+      "nomeUrna": "ANDRÉ MACHADO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 1195,
+      "percentual": 4.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002166854"
+    },
+    {
+      "nome": "SERGIO ALEXANDRE AIROLDI",
+      "nomeUrna": "SERGIO CANARIO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1144,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002016961"
+    },
+    {
+      "nome": "JORGE ELOY DE OLIVEIRA",
+      "nomeUrna": "JORGINHO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 976,
+      "percentual": 3.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002016958"
+    },
+    {
+      "nome": "VALTAIR  COELHO DE ANDRADE",
+      "nomeUrna": "VALTAIR PELADO",
+      "partido": "PP",
+      "numero": "11112",
+      "votos": 911,
+      "percentual": 3.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002016956"
+    },
+    {
+      "nome": "EZEQUIEL PEIXOTO MUNIZ",
+      "nomeUrna": "EZEQUIEL PEIXOTO",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 894,
+      "percentual": 3.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002016955"
+    },
+    {
+      "nome": "ANDRE LUIZ DE OLIVEIRA SELISTRE",
+      "nomeUrna": "ANDRE SELISTRE",
+      "partido": "PP",
+      "numero": "11500",
+      "votos": 751,
+      "percentual": 3.01,
+      "situacao": "Eleito por média",
+      "sqcand": "210002016960"
+    },
+    {
+      "nome": "ANTÔNIO IRAPOAN VIEIRA DIAS",
+      "nomeUrna": "VIEIRA",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 706,
+      "percentual": 2.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002207071"
+    },
+    {
+      "nome": "GERUSA SILVEIRA DA SILVA",
+      "nomeUrna": "GERUSA SILVEIRA",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 674,
+      "percentual": 2.7,
+      "situacao": "Eleito por média",
+      "sqcand": "210002016962"
+    },
+    {
+      "nome": "ANDRÉ ANTÔNIO RANDAZZO DOS REIS",
+      "nomeUrna": "DECO ANDRÉ RANDAZZO",
+      "partido": "MDB",
+      "numero": "15001",
+      "votos": 651,
+      "percentual": 2.61,
+      "situacao": "Eleito por média",
+      "sqcand": "210002207070"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 9044,
+      "percentual": 41.02,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 7245,
+      "percentual": 32.86,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 5509,
+      "percentual": 24.99,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 4084,
+      "percentual": 18.1,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "VICENTE PAULO DE OLIVEIRA SELISTRE",
+      "nomeUrna": "VICENTE SELISTRE",
+      "partido": "PSB",
+      "numero": "4050",
+      "votos": 1312,
+      "percentual": 5.82,
+      "sqcand": "210001596994"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 1130,
+      "percentual": 5.01,
+      "sqcand": "210001596134"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 1128,
+      "percentual": 5.0,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 1105,
+      "percentual": 4.9,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 1050,
+      "percentual": 4.65,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "CLAUDIA LUIZ DOS SANTOS",
+      "nomeUrna": "CLAUDINHA SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "1003",
+      "votos": 935,
+      "percentual": 4.14,
+      "sqcand": "210001601609"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ SAMUEL DA SILVA SANTOS",
+      "nomeUrna": "SAMUEL",
+      "partido": "PT",
+      "numero": "13030",
+      "votos": 3716,
+      "percentual": 16.87,
+      "sqcand": "210001610622"
+    },
+    {
+      "nome": "JOSE FRANCISCO FERREIRA DA LUZ",
+      "nomeUrna": "ZEZO",
+      "partido": "UNIÃO",
+      "numero": "44114",
+      "votos": 3700,
+      "percentual": 16.8,
+      "sqcand": "210001601914"
+    },
+    {
+      "nome": "ANDRÉ OLIVEIRA MACHADO",
+      "nomeUrna": "ANDRÉ MACHADO",
+      "partido": "PL",
+      "numero": "22142",
+      "votos": 2417,
+      "percentual": 10.97,
+      "sqcand": "210001648935"
+    },
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1523,
+      "percentual": 6.92,
+      "sqcand": "210001647995"
+    },
+    {
+      "nome": "DIOGO PAZ BIER",
+      "nomeUrna": "MANO CHANGES",
+      "partido": "PSDB",
+      "numero": "45456",
+      "votos": 717,
+      "percentual": 3.26,
+      "sqcand": "210001620200"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 639,
+      "percentual": 2.9,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 515,
+      "percentual": 2.34,
+      "sqcand": "210001647164"
+    }
+  ]
+}

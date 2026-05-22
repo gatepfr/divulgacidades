@@ -1,0 +1,391 @@
+{
+  "populacao": 142159,
+  "votosValidos": 112141,
+  "abstencao": 17.53,
+  "prefeito": {
+    "nome": "HELIO LEITE DA SILVA",
+    "nomeUrna": "HELIO LEITE",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 49082,
+    "percentual": 43.77,
+    "situacao": "Eleito",
+    "sqcand": "140002011260",
+    "vice": "MYLENE COSTA DA SILVEIRA",
+    "viceNomeUrna": "DRA MYLENE",
+    "partidoVice": "PSD",
+    "sqcandVice": "140002011261",
+    "coligacao": "UNIÃO / PRTB / REPUBLICANOS / PP / PODE / PSD / AVANTE / PC do B / PT / PV / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "DIEGO DE OLIVEIRA SALIBA RIBEIRO",
+      "nomeUrna": "DIEGO SALIBA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 2895,
+      "percentual": 2.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002163040"
+    },
+    {
+      "nome": "VANIA NASCIMENTO DA SILVA",
+      "nomeUrna": "VANIA NASCIMENTO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 2800,
+      "percentual": 2.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002163039"
+    },
+    {
+      "nome": "EVERTON JOYLSON ABREU DE OLIVEIRA",
+      "nomeUrna": "EVERTON MATOS",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 2308,
+      "percentual": 2.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001980673"
+    },
+    {
+      "nome": "CLAUDIA ALAINE GOMES SEABRA",
+      "nomeUrna": "CLAUDIA SEABRA",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 2195,
+      "percentual": 1.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002250194"
+    },
+    {
+      "nome": "SÉRGIO LEAL RODRIGUES",
+      "nomeUrna": "SÉRGIO LEAL",
+      "partido": "PDT",
+      "numero": "12190",
+      "votos": 2170,
+      "percentual": 1.92,
+      "situacao": "Eleito por média",
+      "sqcand": "140002250200"
+    },
+    {
+      "nome": "JOSE ARLEDO MARQUES DE SOUZA",
+      "nomeUrna": "ZÉ DO OVO",
+      "partido": "PV",
+      "numero": "43111",
+      "votos": 2151,
+      "percentual": 1.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002164946"
+    },
+    {
+      "nome": "NIVAN SETUBAL NORONHA",
+      "nomeUrna": "NIVAN NORONHA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 1977,
+      "percentual": 1.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002011125"
+    },
+    {
+      "nome": "FRANCINALDO ARAUJO MONTEL",
+      "nomeUrna": "NALDO IMPERIAL",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1975,
+      "percentual": 1.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001980661"
+    },
+    {
+      "nome": "WELTON MARLON DA SILVA COSTA",
+      "nomeUrna": "MARLON DO DAMA",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 1972,
+      "percentual": 1.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002163048"
+    },
+    {
+      "nome": "REGINA DE FATIMA DA SILVA RODRIGUES",
+      "nomeUrna": "REGINA ABREU",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1899,
+      "percentual": 1.68,
+      "situacao": "Eleito por média",
+      "sqcand": "140002163032"
+    },
+    {
+      "nome": "ELINAI MESQUITA FELIX",
+      "nomeUrna": "ADONAY FELIX",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 1823,
+      "percentual": 1.61,
+      "situacao": "Eleito por média",
+      "sqcand": "140002163036"
+    },
+    {
+      "nome": "MARCELO MOREIRA DOS SANTOS",
+      "nomeUrna": "MARCELINHO LEGALIZAÇÕES",
+      "partido": "PV",
+      "numero": "43777",
+      "votos": 1767,
+      "percentual": 1.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002164941"
+    },
+    {
+      "nome": "PAULO HENRIQUE RIBEIRO SOARES JÚNIOR",
+      "nomeUrna": "DELEGADO PAULO HENRIQUE",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 1737,
+      "percentual": 1.53,
+      "situacao": "Eleito por média",
+      "sqcand": "140002340376"
+    },
+    {
+      "nome": "CARLOS ALBERTO DE SOUSA SAMPAIO",
+      "nomeUrna": "CARLINHOS BACABAL",
+      "partido": "PRD",
+      "numero": "25643",
+      "votos": 1646,
+      "percentual": 1.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002163914"
+    },
+    {
+      "nome": "RITA DE CASSIA OLIVEIRA DE SOUZA",
+      "nomeUrna": "RITA",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 1485,
+      "percentual": 1.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002164094"
+    },
+    {
+      "nome": "ALACIR VIEIRA CANDIDO JUNIOR",
+      "nomeUrna": "JUNIOR DA MICOS",
+      "partido": "PSD",
+      "numero": "55650",
+      "votos": 1452,
+      "percentual": 1.28,
+      "situacao": "Eleito por média",
+      "sqcand": "140001980680"
+    },
+    {
+      "nome": "ELTON SAMPAIO DA SILVA",
+      "nomeUrna": "ELTON SAMPAIO",
+      "partido": "PRD",
+      "numero": "25678",
+      "votos": 1435,
+      "percentual": 1.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002163915"
+    },
+    {
+      "nome": "JURACI DOS ANJOS",
+      "nomeUrna": "JURINHA",
+      "partido": "UNIÃO",
+      "numero": "44007",
+      "votos": 1424,
+      "percentual": 1.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002011123"
+    },
+    {
+      "nome": "RAFAEL EVANGELISTA GALVÃO",
+      "nomeUrna": "RAFAEL GALVÃO",
+      "partido": "PSDB",
+      "numero": "45155",
+      "votos": 1339,
+      "percentual": 1.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002336667"
+    },
+    {
+      "nome": "VALDECIR ELIAS SOUSA SANTIAGO",
+      "nomeUrna": "VALDECIR SANTIAGO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 1318,
+      "percentual": 1.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002011138"
+    },
+    {
+      "nome": "ANTONIO ALFREDO DA SILVA BARBOSA",
+      "nomeUrna": "ALFREDO CASTANHAL",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 1227,
+      "percentual": 1.08,
+      "situacao": "Eleito por média",
+      "sqcand": "140002164097"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 44351,
+      "percentual": 44.28,
+      "sqcand": "140001600249"
+    },
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 39183,
+      "percentual": 39.12,
+      "sqcand": "140001611661"
+    },
+    {
+      "nome": "FERNANDO DE SOUZA FLEXA RIBEIRO",
+      "nomeUrna": "FLEXA RIBEIRO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 6804,
+      "percentual": 6.79,
+      "sqcand": "140001611666"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HÉLIO LEITE DA SILVA",
+      "nomeUrna": "HÉLIO LEITE",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 17079,
+      "percentual": 16.21,
+      "sqcand": "140001604543"
+    },
+    {
+      "nome": "MARCIO DESIDERIO TEIXEIRA MIRANDA",
+      "nomeUrna": "MARCIO MIRANDA",
+      "partido": "PTB",
+      "numero": "1400",
+      "votos": 17060,
+      "percentual": 16.2,
+      "sqcand": "140001615570"
+    },
+    {
+      "nome": "EDER MAURO CARDOSO BARRA",
+      "nomeUrna": "DELEGADO EDER MAURO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 9954,
+      "percentual": 9.45,
+      "sqcand": "140001598311"
+    },
+    {
+      "nome": "JOSE EDUARDO PEREIRA DA COSTA",
+      "nomeUrna": "EDUARDO COSTA",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 7807,
+      "percentual": 7.41,
+      "sqcand": "140001620799"
+    },
+    {
+      "nome": "ANTONIO LEOCADIO DOS SANTOS",
+      "nomeUrna": "ANTONIO DOIDO",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 5564,
+      "percentual": 5.28,
+      "sqcand": "140001621342"
+    },
+    {
+      "nome": "RENILCE CONCEIÇÃO NICODEMOS DE ALBUQUERQUE",
+      "nomeUrna": "RENILCE NICODEMOS",
+      "partido": "MDB",
+      "numero": "1577",
+      "votos": 4967,
+      "percentual": 4.72,
+      "sqcand": "140001621348"
+    },
+    {
+      "nome": "PAULO EDUARDO MAESTRI BENGTSON",
+      "nomeUrna": "PAULO BENGTSON",
+      "partido": "PTB",
+      "numero": "1456",
+      "votos": 2659,
+      "percentual": 2.52,
+      "sqcand": "140001615571"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PAULA CRISTINA TITAN REBELLO",
+      "nomeUrna": "PAULA TITAN",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 33104,
+      "percentual": 31.74,
+      "sqcand": "140001676883"
+    },
+    {
+      "nome": "PAULO HENRIQUE RIBEIRO SOARES JUNIOR",
+      "nomeUrna": "DELEGADO PAULO HENRIQUE",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 12350,
+      "percentual": 11.84,
+      "sqcand": "140001601798"
+    },
+    {
+      "nome": "JOSE ALFREDO SILVA HAGE JUNIOR",
+      "nomeUrna": "JÚNIOR HAGE",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 6127,
+      "percentual": 5.87,
+      "sqcand": "140001611620"
+    },
+    {
+      "nome": "RAFAEL EVANGELISTA GALVÃO",
+      "nomeUrna": "RAFAEL GALVÃO",
+      "partido": "PODE",
+      "numero": "19155",
+      "votos": 5643,
+      "percentual": 5.41,
+      "sqcand": "140001651426"
+    },
+    {
+      "nome": "EDIVAM SOUSA DAMASCENO",
+      "nomeUrna": "EDIVAM DAMASCENO",
+      "partido": "PODE",
+      "numero": "19222",
+      "votos": 3323,
+      "percentual": 3.19,
+      "sqcand": "140001651421"
+    },
+    {
+      "nome": "ANTONIO LEITE DE OLIVEIRA",
+      "nomeUrna": "PROFESSOR LEITE",
+      "partido": "MDB",
+      "numero": "15215",
+      "votos": 2617,
+      "percentual": 2.51,
+      "sqcand": "140001676887"
+    },
+    {
+      "nome": "MARTINHO ARNALDO CAMPOS CARMONA",
+      "nomeUrna": "MARTINHO CARMONA",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 2242,
+      "percentual": 2.15,
+      "sqcand": "140001676893"
+    }
+  ]
+}

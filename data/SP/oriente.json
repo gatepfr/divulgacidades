@@ -1,0 +1,271 @@
+{
+  "populacao": 5147,
+  "votosValidos": 2755,
+  "abstencao": 20.26,
+  "prefeito": {
+    "nome": "GERALDO MATHEUS MORIS",
+    "nomeUrna": "MATHEUS",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2755,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "250001975355",
+    "vice": "CRISTIANO JOSE DOS SANTOS",
+    "viceNomeUrna": "CRIS",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "250001975356",
+    "coligacao": "PP / REPUBLICANOS / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE RODOLPHO MORIS",
+      "nomeUrna": "RODOLPHO MORIS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 304,
+      "percentual": 8.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001996034"
+    },
+    {
+      "nome": "CRISTHIAN CESAR BATISTA CLARO",
+      "nomeUrna": "CRISTHIAN ADVOGADO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 259,
+      "percentual": 6.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002043136"
+    },
+    {
+      "nome": "FLAVIO AMOROSINE",
+      "nomeUrna": "FLAVIO AMOROSINE",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 243,
+      "percentual": 6.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002186970"
+    },
+    {
+      "nome": "DIEGO RODRIGUES CORRÊA",
+      "nomeUrna": "DIEGO DIÓ",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 211,
+      "percentual": 5.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001996037"
+    },
+    {
+      "nome": "OSVALDO ALONGE",
+      "nomeUrna": "OSVALDO ALONGE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77456",
+      "votos": 203,
+      "percentual": 5.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002215179"
+    },
+    {
+      "nome": "MONICA SOARES DE OLIVEIRA RAYMUNDI",
+      "nomeUrna": "MONICA DE ORIENTE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 193,
+      "percentual": 5.21,
+      "situacao": "Eleito por média",
+      "sqcand": "250002215180"
+    },
+    {
+      "nome": "JAIR TEIXEIRA ALVES",
+      "nomeUrna": "JAIR",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 184,
+      "percentual": 4.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002043138"
+    },
+    {
+      "nome": "SERGIO RICARDO MARQUES MATTAR",
+      "nomeUrna": "SALGADINHO",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 153,
+      "percentual": 4.13,
+      "situacao": "Eleito por média",
+      "sqcand": "250002043135"
+    },
+    {
+      "nome": "JAIME PESSOA DA SILVA",
+      "nomeUrna": "JAIME DO ÔNIBUS",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 131,
+      "percentual": 3.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001996041"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2176,
+      "percentual": 63.26,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 979,
+      "percentual": 28.46,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 202,
+      "percentual": 5.87,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALEX SPINELLI MANENTE",
+      "nomeUrna": "ALEX MANENTE",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 819,
+      "percentual": 22.85,
+      "sqcand": "250001612129"
+    },
+    {
+      "nome": "WALTER SHINDI IIHOSHI",
+      "nomeUrna": "WALTER IHOSHI",
+      "partido": "PSD",
+      "numero": "5570",
+      "votos": 500,
+      "percentual": 13.95,
+      "sqcand": "250001604962"
+    },
+    {
+      "nome": "REINALDO DE SOUZA ALGUZ",
+      "nomeUrna": "REINALDO ALGUZ",
+      "partido": "UNIÃO",
+      "numero": "4436",
+      "votos": 253,
+      "percentual": 7.06,
+      "sqcand": "250001602077"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 196,
+      "percentual": 5.47,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "JUVENAL DE AGUIAR PENTEADO NETO",
+      "nomeUrna": "PROFESSOR JUVENAL",
+      "partido": "PT",
+      "numero": "1347",
+      "votos": 192,
+      "percentual": 5.36,
+      "sqcand": "250001610653"
+    },
+    {
+      "nome": "PAULO PEREIRA DA SILVA",
+      "nomeUrna": "PAULINHO DA FORÇA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 125,
+      "percentual": 3.49,
+      "sqcand": "250001606095"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 101,
+      "percentual": 2.82,
+      "sqcand": "250001611365"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSE ANTONIO BARROS MUNHOZ",
+      "nomeUrna": "BARROS MUNHOZ",
+      "partido": "PSDB",
+      "numero": "45545",
+      "votos": 1092,
+      "percentual": 32.0,
+      "sqcand": "250001611434"
+    },
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 474,
+      "percentual": 13.89,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "nomeUrna": "DANI ALONSO",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 310,
+      "percentual": 9.08,
+      "sqcand": "250001610113"
+    },
+    {
+      "nome": "TANIA CRISTINA FRUCHI",
+      "nomeUrna": "TÂNIA FRUCHI",
+      "partido": "UNIÃO",
+      "numero": "44363",
+      "votos": 194,
+      "percentual": 5.68,
+      "sqcand": "250001602159"
+    },
+    {
+      "nome": "MARIA IZABEL AZEVEDO NORONHA",
+      "nomeUrna": "PROFESSORA BEBEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 182,
+      "percentual": 5.33,
+      "sqcand": "250001611800"
+    },
+    {
+      "nome": "CARLOS ALBERTO GIANNASI",
+      "nomeUrna": "CARLOS GIANNAZI",
+      "partido": "PSOL",
+      "numero": "50789",
+      "votos": 74,
+      "percentual": 2.17,
+      "sqcand": "250001619320"
+    },
+    {
+      "nome": "SEBASTIÃO DOS SANTOS FILHO",
+      "nomeUrna": "SEBASTIÃO SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10321",
+      "votos": 73,
+      "percentual": 2.14,
+      "sqcand": "250001639573"
+    }
+  ]
+}

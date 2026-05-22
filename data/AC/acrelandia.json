@@ -1,0 +1,271 @@
+{
+  "populacao": 10235,
+  "votosValidos": 7808,
+  "abstencao": 21.87,
+  "prefeito": {
+    "nome": "OLAVO FRANCELINO DE REZENDE",
+    "nomeUrna": "OLAVINHO BOIADEIRO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 5768,
+    "percentual": 73.87,
+    "situacao": "Eleito",
+    "sqcand": "10001917321",
+    "vice": "ERAIDES CAETANO DE SOUZA",
+    "viceNomeUrna": "GRAIA",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "10001917322",
+    "coligacao": "REPUBLICANOS / PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "VITOR LIMA MARTINELI",
+      "nomeUrna": "DR VITOR MARTINELI",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 528,
+      "percentual": 6.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "10002006750"
+    },
+    {
+      "nome": "ROZENO DA SILVA MELO",
+      "nomeUrna": "ROZENO MELO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 517,
+      "percentual": 6.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "10001917413"
+    },
+    {
+      "nome": "IVANIR VASCONCELOS DE SOUZA",
+      "nomeUrna": "IVANIR VASCONCELOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 509,
+      "percentual": 6.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "10001917417"
+    },
+    {
+      "nome": "GILBERTO SALMENTES GALVÃO",
+      "nomeUrna": "BETINHO DO TRAZIBE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 490,
+      "percentual": 6.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "10001917416"
+    },
+    {
+      "nome": "ROSANGELA SILVA DOS SANTOS",
+      "nomeUrna": "ROSA DO EURICO",
+      "partido": "UNIÃO",
+      "numero": "44445",
+      "votos": 400,
+      "percentual": 5.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "10002006757"
+    },
+    {
+      "nome": "RENATO ALMEIDA MENDONÇA",
+      "nomeUrna": "PATRAOZINHO",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 391,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "10001984538"
+    },
+    {
+      "nome": "WELISON ROGERIO DE BARROS SOUSA",
+      "nomeUrna": "PROF ROGÉRIO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 366,
+      "percentual": 4.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "10001984245"
+    },
+    {
+      "nome": "CLEUSON DE OLIVEIRA",
+      "nomeUrna": "CLEUSON",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 335,
+      "percentual": 4.27,
+      "situacao": "Eleito por média",
+      "sqcand": "10001984239"
+    },
+    {
+      "nome": "JERSON MOTA CORRÊA",
+      "nomeUrna": "JERSON CORRÊA",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 301,
+      "percentual": 3.83,
+      "situacao": "Eleito por média",
+      "sqcand": "10002002864"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALAN RICK MIRANDA",
+      "nomeUrna": "ALAN RICK",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 3764,
+      "percentual": 56.83,
+      "sqcand": "10001714547"
+    },
+    {
+      "nome": "MARCIA ESPINOSA BITTAR",
+      "nomeUrna": "MARCIA BITTAR",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 957,
+      "percentual": 14.45,
+      "sqcand": "10001643706"
+    },
+    {
+      "nome": "VANDA DENIR MILANI NOGUEIRA",
+      "nomeUrna": "DRA. VANDA MILANI",
+      "partido": "PROS",
+      "numero": "900",
+      "votos": 562,
+      "percentual": 8.49,
+      "sqcand": "10001601615"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANTÔNIA LUCILEIA CRUZ RAMOS CAMARA",
+      "nomeUrna": "ANTÔNIA LUCIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 647,
+      "percentual": 9.69,
+      "sqcand": "10001619990"
+    },
+    {
+      "nome": "MINORU MARTINS KINPARA",
+      "nomeUrna": "MINORU KINPARA",
+      "partido": "PSDB",
+      "numero": "4500",
+      "votos": 569,
+      "percentual": 8.52,
+      "sqcand": "10001716346"
+    },
+    {
+      "nome": "ROBERTO DUARTE JUNIOR",
+      "nomeUrna": "ROBERTO DUARTE",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 473,
+      "percentual": 7.09,
+      "sqcand": "10001619993"
+    },
+    {
+      "nome": "WHERLES FERNANDES DA ROCHA",
+      "nomeUrna": "MAJOR ROCHA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 400,
+      "percentual": 5.99,
+      "sqcand": "10001642339"
+    },
+    {
+      "nome": "GERALDO ISRAEL MILANI DE NOGUEIRA",
+      "nomeUrna": "ISRAEL MILANI",
+      "partido": "REPUBLICANOS",
+      "numero": "1080",
+      "votos": 394,
+      "percentual": 5.9,
+      "sqcand": "10001619994"
+    },
+    {
+      "nome": "ULYSSES FREITAS PEREIRA DE ARAUJO",
+      "nomeUrna": "CORONEL ULYSSES",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 369,
+      "percentual": 5.53,
+      "sqcand": "10001612487"
+    },
+    {
+      "nome": "EDUARDO OVIDIO BORGES DE VELLOSO VIANNA",
+      "nomeUrna": "DR EDUARDO VELLOSO",
+      "partido": "UNIÃO",
+      "numero": "4488",
+      "votos": 324,
+      "percentual": 4.85,
+      "sqcand": "10001612484"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VILSEU FERREIRA DA SILVA",
+      "nomeUrna": "VILSEU FERREIRA",
+      "partido": "PROS",
+      "numero": "90456",
+      "votos": 702,
+      "percentual": 10.68,
+      "sqcand": "10001606210"
+    },
+    {
+      "nome": "NESIO MENDES DE CARVALHO",
+      "nomeUrna": "NESIO CARVALHO",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 573,
+      "percentual": 8.72,
+      "sqcand": "10001642310"
+    },
+    {
+      "nome": "MARCIO HELENO SCHIAVO SIMOES",
+      "nomeUrna": "MINEIRINHO",
+      "partido": "UNIÃO",
+      "numero": "44007",
+      "votos": 372,
+      "percentual": 5.66,
+      "sqcand": "10001623539"
+    },
+    {
+      "nome": "PABLO THYAGO BREGENSE DE SOUZA",
+      "nomeUrna": "PABLO BREGENSE",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 355,
+      "percentual": 5.4,
+      "sqcand": "10001601427"
+    },
+    {
+      "nome": "FAGNER CALEGARIO DO NASCIMENTO",
+      "nomeUrna": "FAGNER CALEGÁRIO",
+      "partido": "PODE",
+      "numero": "19999",
+      "votos": 305,
+      "percentual": 4.64,
+      "sqcand": "10001650033"
+    },
+    {
+      "nome": "JOSÉ RAIMUNDO BARROSO BESTENE",
+      "nomeUrna": "BESTENE",
+      "partido": "PP",
+      "numero": "11106",
+      "votos": 276,
+      "percentual": 4.2,
+      "sqcand": "10001643439"
+    },
+    {
+      "nome": "PEDRO LUÍS LONGO",
+      "nomeUrna": "PEDRO LONGO",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 267,
+      "percentual": 4.06,
+      "sqcand": "10001622763"
+    }
+  ]
+}

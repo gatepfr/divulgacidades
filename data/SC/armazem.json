@@ -1,0 +1,271 @@
+{
+  "populacao": 7212,
+  "votosValidos": 6456,
+  "abstencao": 8.96,
+  "prefeito": {
+    "nome": "LUIZ PAULO RODRIGUES MENDES",
+    "nomeUrna": "LUIZ MENDES",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 3638,
+    "percentual": 56.35,
+    "situacao": "Eleito",
+    "sqcand": "240002152081",
+    "vice": "GUILHERME JOSÉ HEERDT CORREA",
+    "viceNomeUrna": "GUILHERME PENACHO",
+    "partidoVice": "PL",
+    "sqcandVice": "240002152082",
+    "coligacao": "PL / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ZACARIAS CARDOSO NUNES",
+      "nomeUrna": "ZACA MOTORISTA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 535,
+      "percentual": 8.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002354655"
+    },
+    {
+      "nome": "JAMIR MICHELS MENDES",
+      "nomeUrna": "JAMIR MENDES",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 490,
+      "percentual": 7.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002215269"
+    },
+    {
+      "nome": "MARCIO CLAUDINO MIGUEL",
+      "nomeUrna": "MARCINHO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 437,
+      "percentual": 6.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002154881"
+    },
+    {
+      "nome": "ANDRESA VIEIRA MACHADO DA SILVA",
+      "nomeUrna": "ANDRESA DO VANCLEI",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 409,
+      "percentual": 6.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002154880"
+    },
+    {
+      "nome": "NAUAN ALVES LAURETH",
+      "nomeUrna": "NAUAN LAURETH",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 397,
+      "percentual": 6.1,
+      "situacao": "Eleito por média",
+      "sqcand": "240002154882"
+    },
+    {
+      "nome": "CENARIO MONTEIRO MARCELINO",
+      "nomeUrna": "CENARIO MONTEIRO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 370,
+      "percentual": 5.68,
+      "situacao": "Eleito por média",
+      "sqcand": "240002215270"
+    },
+    {
+      "nome": "REGIS MACIANO BECKHAUSER",
+      "nomeUrna": "REGIS BECKHAUSER",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 308,
+      "percentual": 4.73,
+      "situacao": "Eleito por média",
+      "sqcand": "240002354654"
+    },
+    {
+      "nome": "JOÃO VITOR NASARIO DOS SANTOS",
+      "nomeUrna": "JOÃO VITOR",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 240,
+      "percentual": 3.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002353949"
+    },
+    {
+      "nome": "MURIEL GONÇALVES DA ROSA",
+      "nomeUrna": "MURIEL DA ROSA",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 238,
+      "percentual": 3.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002346036"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2163,
+      "percentual": 43.21,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 1329,
+      "percentual": 26.55,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "CLARIKENNEDY NUNES",
+      "nomeUrna": "KENNEDY NUNES",
+      "partido": "PTB",
+      "numero": "142",
+      "votos": 661,
+      "percentual": 13.2,
+      "sqcand": "240001644895"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RICARDO ZANATTA GUIDI",
+      "nomeUrna": "RICARDO GUIDI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 1649,
+      "percentual": 31.67,
+      "sqcand": "240001611144"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 389,
+      "percentual": 7.47,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "JOÃO ALBERTO PIZZOLATTI NETO",
+      "nomeUrna": "JOÃO PIZZOLATTI",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 302,
+      "percentual": 5.8,
+      "sqcand": "240001644878"
+    },
+    {
+      "nome": "FABIO LUIZ SCHIOCHET FILHO",
+      "nomeUrna": "FABIO SCHIOCHET",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 236,
+      "percentual": 4.53,
+      "sqcand": "240001604521"
+    },
+    {
+      "nome": "LUIZ ARMANDO SCHROEDER REIS",
+      "nomeUrna": "CORONEL ARMANDO",
+      "partido": "PL",
+      "numero": "2262",
+      "votos": 213,
+      "percentual": 4.09,
+      "sqcand": "240001610967"
+    },
+    {
+      "nome": "CAIO CESAR TOKARSKI",
+      "nomeUrna": "CAIO TOKARSKI",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 191,
+      "percentual": 3.67,
+      "sqcand": "240001604510"
+    },
+    {
+      "nome": "VALMIR FRANCISCO COMIN",
+      "nomeUrna": "VALMIR COMIN",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 176,
+      "percentual": 3.38,
+      "sqcand": "240001644890"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JULIO CÉSAR GARCIA",
+      "nomeUrna": "JULIO GARCIA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 868,
+      "percentual": 16.93,
+      "sqcand": "240001614390"
+    },
+    {
+      "nome": "ESTENER SORATTO DA SILVA JUNIOR",
+      "nomeUrna": "SORATTO",
+      "partido": "PL",
+      "numero": "22500",
+      "votos": 584,
+      "percentual": 11.39,
+      "sqcand": "240001614334"
+    },
+    {
+      "nome": "JOSÉ MILTON SCHEFFER",
+      "nomeUrna": "ZÉ MILTON",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 529,
+      "percentual": 10.32,
+      "sqcand": "240001644756"
+    },
+    {
+      "nome": "EGIDIO DA ROSA BECKHAUSER",
+      "nomeUrna": "EGÍDIO BECKHAUSER",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 449,
+      "percentual": 8.76,
+      "sqcand": "240001610208"
+    },
+    {
+      "nome": "VOLNEI WEBER",
+      "nomeUrna": "VOLNEI WEBER",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 353,
+      "percentual": 6.89,
+      "sqcand": "240001605921"
+    },
+    {
+      "nome": "FELIPE ESTEVÃO",
+      "nomeUrna": "FELIPE ESTEVÃO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 306,
+      "percentual": 5.97,
+      "sqcand": "240001616206"
+    },
+    {
+      "nome": "RODRIGO MINOTTO",
+      "nomeUrna": "RODRIGO MINOTTO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 231,
+      "percentual": 4.51,
+      "sqcand": "240001644398"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 8408,
+  "votosValidos": 6883,
+  "abstencao": 15.6,
+  "prefeito": {
+    "nome": "JULIANO POZZI PEREIRA",
+    "nomeUrna": "JULIANO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 3767,
+    "percentual": 54.73,
+    "situacao": "Eleito",
+    "sqcand": "240001923771",
+    "vice": "CIRCE NEPPEL SFAIR",
+    "viceNomeUrna": "CIRCE",
+    "partidoVice": "PSDB",
+    "sqcandVice": "240001923770",
+    "coligacao": "CIDADANIA / PSDB / PP / PSD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "WANDERLEI LEZAN",
+      "nomeUrna": "WANDERLEI LEZAN",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 382,
+      "percentual": 5.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002072251"
+    },
+    {
+      "nome": "LAUDAIR MOREIRA",
+      "nomeUrna": "POLACO DO SALÃO",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 374,
+      "percentual": 5.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001910308"
+    },
+    {
+      "nome": "GILVANE BUENO",
+      "nomeUrna": "PROFESSOR GILVANE",
+      "partido": "PL",
+      "numero": "22007",
+      "votos": 373,
+      "percentual": 5.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001961711"
+    },
+    {
+      "nome": "ELENI BAUM",
+      "nomeUrna": "ELENI DO SINDICATO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 363,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001910309"
+    },
+    {
+      "nome": "DIRCELIA APARECIDA SENFF NICOLUZZI",
+      "nomeUrna": "PROFESSORA DIRCELIA NICOLUZZI",
+      "partido": "MDB",
+      "numero": "15700",
+      "votos": 340,
+      "percentual": 4.94,
+      "situacao": "Eleito por média",
+      "sqcand": "240002072249"
+    },
+    {
+      "nome": "ELTON ALESSANDRO RUCKL NICOLUZZI",
+      "nomeUrna": "ELTON NICOLUZZI",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 337,
+      "percentual": 4.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001913441"
+    },
+    {
+      "nome": "TANIA REGINA RUCKL PEREIRA",
+      "nomeUrna": "TANIA PEREIRA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 300,
+      "percentual": 4.36,
+      "situacao": "Eleito por média",
+      "sqcand": "240001910317"
+    },
+    {
+      "nome": "FERNANDO CATAPAN",
+      "nomeUrna": "FERNANDO CATAPAN",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 251,
+      "percentual": 3.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002072060"
+    },
+    {
+      "nome": "GILMAR NIEDZEILSKI",
+      "nomeUrna": "GILMAR BORAL",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 239,
+      "percentual": 3.47,
+      "situacao": "Eleito por média",
+      "sqcand": "240001910316"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLARIKENNEDY NUNES",
+      "nomeUrna": "KENNEDY NUNES",
+      "partido": "PTB",
+      "numero": "142",
+      "votos": 1619,
+      "percentual": 30.16,
+      "sqcand": "240001644895"
+    },
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1312,
+      "percentual": 24.44,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 985,
+      "percentual": 18.35,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 1440,
+      "percentual": 25.27,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 514,
+      "percentual": 9.02,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 480,
+      "percentual": 8.42,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "NORMA PETERMANN PEREIRA",
+      "nomeUrna": "NORMA PEREIRA",
+      "partido": "PODE",
+      "numero": "1988",
+      "votos": 330,
+      "percentual": 5.79,
+      "sqcand": "240001610846"
+    },
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 327,
+      "percentual": 5.74,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 310,
+      "percentual": 5.44,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 273,
+      "percentual": 4.79,
+      "sqcand": "240001611140"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VICENTE AUGUSTO CAROPRESO",
+      "nomeUrna": "DR. VICENTE",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 1827,
+      "percentual": 32.95,
+      "sqcand": "240001612510"
+    },
+    {
+      "nome": "ARI JOSE GALESKI",
+      "nomeUrna": "ARI GALESKI",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 279,
+      "percentual": 5.03,
+      "sqcand": "240001605926"
+    },
+    {
+      "nome": "SUELEN GEREMIA",
+      "nomeUrna": "SUELEN GEREMIA",
+      "partido": "MDB",
+      "numero": "15700",
+      "votos": 269,
+      "percentual": 4.85,
+      "sqcand": "240001605914"
+    },
+    {
+      "nome": "ANA PAULA DA SILVA",
+      "nomeUrna": "PAULINHA",
+      "partido": "PODE",
+      "numero": "19010",
+      "votos": 228,
+      "percentual": 4.11,
+      "sqcand": "240001610824"
+    },
+    {
+      "nome": "LUCIANE MARIA CARMINATTI",
+      "nomeUrna": "LUCIANE CARMINATTI",
+      "partido": "PT",
+      "numero": "13601",
+      "votos": 225,
+      "percentual": 4.06,
+      "sqcand": "240001679643"
+    },
+    {
+      "nome": "JANICE APARECIDA STEIDEL KRASNIAK",
+      "nomeUrna": "JANICE KRASNIAK",
+      "partido": "PODE",
+      "numero": "19190",
+      "votos": 219,
+      "percentual": 3.95,
+      "sqcand": "240001610821"
+    },
+    {
+      "nome": "CARLOS HENRIQUE DE LIMA",
+      "nomeUrna": "SARGENTO LIMA",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 183,
+      "percentual": 3.3,
+      "sqcand": "240001614329"
+    }
+  ]
+}

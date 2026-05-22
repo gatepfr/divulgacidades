@@ -1,0 +1,271 @@
+{
+  "populacao": 11824,
+  "votosValidos": 8824,
+  "abstencao": 22.32,
+  "prefeito": {
+    "nome": "ADRIANO MARCHESANI LEVORIN",
+    "nomeUrna": "ADRIANO LEVORIN",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 6801,
+    "percentual": 77.07,
+    "situacao": "Eleito",
+    "sqcand": "250001911277",
+    "vice": "HELCIO LUIZ CASTELLO DE MORAES FILHO",
+    "viceNomeUrna": "HELCINHO",
+    "partidoVice": "PL",
+    "sqcandVice": "250001911278",
+    "coligacao": "REPUBLICANOS / MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "JOÃO BATISTA DE ALMEIDA JUNIOR",
+      "nomeUrna": "JUNIOR MINEIRO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 606,
+      "percentual": 6.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001911172"
+    },
+    {
+      "nome": "KALISA TEIXEIRA E SILVA MONTEIRO LOBATO",
+      "nomeUrna": "KALISA DO JOTA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 450,
+      "percentual": 5.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001911176"
+    },
+    {
+      "nome": "WELLINGTON CANDIDO DA SILVA LEME",
+      "nomeUrna": "WELLINGTON PENETRA",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 349,
+      "percentual": 4.02,
+      "situacao": "Eleito por média",
+      "sqcand": "250002363287"
+    },
+    {
+      "nome": "JUAN JIMENEZ JURADO JUNIOR",
+      "nomeUrna": "JUAN RUAN BATUCANDO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 333,
+      "percentual": 3.84,
+      "situacao": "Eleito por média",
+      "sqcand": "250001911175"
+    },
+    {
+      "nome": "JOSUÉ NOGUEIRA MARQUES",
+      "nomeUrna": "JOSUÉ NOGUEIRA",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 298,
+      "percentual": 3.43,
+      "situacao": "Eleito por média",
+      "sqcand": "250001911174"
+    },
+    {
+      "nome": "RONILHON RICHARD DOS SANTOS",
+      "nomeUrna": "CABO RONI",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 285,
+      "percentual": 3.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001910877"
+    },
+    {
+      "nome": "EDSON LUIZ DE SOUSA LEMES",
+      "nomeUrna": "PROFESSOR EDSON",
+      "partido": "PODE",
+      "numero": "20888",
+      "votos": 284,
+      "percentual": 3.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002361958"
+    },
+    {
+      "nome": "IAGO RIBEIRO MOREIRA BARBOSA",
+      "nomeUrna": "IAGO BARBOSA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 235,
+      "percentual": 2.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001911011"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS NUNES DA SILVA",
+      "nomeUrna": "ASSIS DA AUTO ELÉTRICA",
+      "partido": "REPUBLICANOS",
+      "numero": "10999",
+      "votos": 208,
+      "percentual": 2.4,
+      "situacao": "Eleito por média",
+      "sqcand": "250001910875"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4305,
+      "percentual": 56.59,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 2294,
+      "percentual": 30.15,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 643,
+      "percentual": 8.45,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCIO LUIZ ALVINO DE SOUZA",
+      "nomeUrna": "MARCIO ALVINO",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 2504,
+      "percentual": 30.75,
+      "sqcand": "250001611336"
+    },
+    {
+      "nome": "RODRIGO GAMBALE VIEIRA",
+      "nomeUrna": "RODRIGO GAMBALE",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 484,
+      "percentual": 5.94,
+      "sqcand": "250001610316"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 266,
+      "percentual": 3.27,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "MARCO AURELIO BERTAIOLLI",
+      "nomeUrna": "MARCO BERTAIOLLI",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 239,
+      "percentual": 2.93,
+      "sqcand": "250001604939"
+    },
+    {
+      "nome": "EDUARDO PEDROSA CURY",
+      "nomeUrna": "EDUARDO CURY",
+      "partido": "PSDB",
+      "numero": "4515",
+      "votos": 235,
+      "percentual": 2.89,
+      "sqcand": "250001612109"
+    },
+    {
+      "nome": "NILTO IGNÁCIO TATTO",
+      "nomeUrna": "NILTO TATTO",
+      "partido": "PT",
+      "numero": "1353",
+      "votos": 221,
+      "percentual": 2.71,
+      "sqcand": "250001610688"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 212,
+      "percentual": 2.6,
+      "sqcand": "250001611374"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANDRE LUIS DO PRADO",
+      "nomeUrna": "ANDRÉ DO PRADO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 3040,
+      "percentual": 38.95,
+      "sqcand": "250001610161"
+    },
+    {
+      "nome": "EDSON RODRIGUES",
+      "nomeUrna": "DR EDSON DA PAIOL",
+      "partido": "PODE",
+      "numero": "19777",
+      "votos": 490,
+      "percentual": 6.28,
+      "sqcand": "250001610501"
+    },
+    {
+      "nome": "EDGARD TAKASHI SASAKI",
+      "nomeUrna": "EDGARD SASAKI",
+      "partido": "PSDB",
+      "numero": "45012",
+      "votos": 294,
+      "percentual": 3.77,
+      "sqcand": "250001611480"
+    },
+    {
+      "nome": "LETICIA AGUIAR RESENDE ALVES",
+      "nomeUrna": "LETÍCIA AGUIAR",
+      "partido": "PP",
+      "numero": "11022",
+      "votos": 238,
+      "percentual": 3.05,
+      "sqcand": "250001612280"
+    },
+    {
+      "nome": "CÉLIA CAMARGO LEÃO EDELMUTH",
+      "nomeUrna": "CÉLIA LEÃO",
+      "partido": "PSDB",
+      "numero": "45200",
+      "votos": 219,
+      "percentual": 2.81,
+      "sqcand": "250001611496"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 138,
+      "percentual": 1.77,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "ENIO FRANCISCO TATTO",
+      "nomeUrna": "ENIO TATTO",
+      "partido": "PT",
+      "numero": "13114",
+      "votos": 134,
+      "percentual": 1.72,
+      "sqcand": "250001611799"
+    }
+  ]
+}

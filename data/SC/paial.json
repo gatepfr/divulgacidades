@@ -1,0 +1,271 @@
+{
+  "populacao": 2013,
+  "votosValidos": 1884,
+  "abstencao": 5.22,
+  "prefeito": {
+    "nome": "ADELMO LUIS BRAATZ",
+    "nomeUrna": "ADELMO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 743,
+    "percentual": 39.44,
+    "situacao": "Eleito",
+    "sqcand": "240002203694",
+    "vice": "EDSON PLAUTH",
+    "viceNomeUrna": "TILOCO",
+    "partidoVice": "PSD",
+    "sqcandVice": "240002203695",
+    "coligacao": "MDB / PSD / PODE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "RONES TIAGO BRAGA",
+      "nomeUrna": "RONES TIAGO BRAGA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 143,
+      "percentual": 7.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002203341"
+    },
+    {
+      "nome": "DARLAN JEFERSON KERSCHNER",
+      "nomeUrna": "DARLAN KERSCHNER",
+      "partido": "PSDB",
+      "numero": "45600",
+      "votos": 130,
+      "percentual": 6.87,
+      "situacao": "Eleito por média",
+      "sqcand": "240002202461"
+    },
+    {
+      "nome": "JACI VIZZOTO",
+      "nomeUrna": "BARRIGA",
+      "partido": "MDB",
+      "numero": "15611",
+      "votos": 122,
+      "percentual": 6.45,
+      "situacao": "Eleito por média",
+      "sqcand": "240002203342"
+    },
+    {
+      "nome": "JOSEMAR REIS DA SILVA",
+      "nomeUrna": "JUCE REIS",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 105,
+      "percentual": 5.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002204419"
+    },
+    {
+      "nome": "NILO ANDRE CROMIANSKI",
+      "nomeUrna": "NILO ANDRE CROMIANSKI",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 99,
+      "percentual": 5.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002271761"
+    },
+    {
+      "nome": "VILSON ENOR GRUEN",
+      "nomeUrna": "ALEMÃO",
+      "partido": "PT",
+      "numero": "13011",
+      "votos": 80,
+      "percentual": 4.23,
+      "situacao": "Eleito por média",
+      "sqcand": "240002271754"
+    },
+    {
+      "nome": "LUIS CARLOS CAPELESSO",
+      "nomeUrna": "LUIS",
+      "partido": "PP",
+      "numero": "11560",
+      "votos": 76,
+      "percentual": 4.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002143649"
+    },
+    {
+      "nome": "JANIA LUCIA DALA VALE",
+      "nomeUrna": "JANIA",
+      "partido": "PP",
+      "numero": "11133",
+      "votos": 73,
+      "percentual": 3.86,
+      "situacao": "Eleito por média",
+      "sqcand": "240002143650"
+    },
+    {
+      "nome": "NILVO VALDIR AULER",
+      "nomeUrna": "NILVO  AULER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 52,
+      "percentual": 2.75,
+      "situacao": "Eleito por média",
+      "sqcand": "240002204417"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 486,
+      "percentual": 35.12,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 274,
+      "percentual": 19.8,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 238,
+      "percentual": 17.2,
+      "sqcand": "240001647359"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 364,
+      "percentual": 25.09,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 213,
+      "percentual": 14.68,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 115,
+      "percentual": 7.93,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "ITAMAR ANTONIO AGNOLETTO",
+      "nomeUrna": "ITAMAR AGNOLETTO",
+      "partido": "PP",
+      "numero": "1155",
+      "votos": 101,
+      "percentual": 6.96,
+      "sqcand": "240001644882"
+    },
+    {
+      "nome": "VALDIR COLATTO",
+      "nomeUrna": "VALDIR COLATTO",
+      "partido": "PL",
+      "numero": "2216",
+      "votos": 66,
+      "percentual": 4.55,
+      "sqcand": "240001610966"
+    },
+    {
+      "nome": "DARCI DE MATOS",
+      "nomeUrna": "DARCI DE MATOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 65,
+      "percentual": 4.48,
+      "sqcand": "240001611136"
+    },
+    {
+      "nome": "LEANDRO SORGATO",
+      "nomeUrna": "SORGATTO",
+      "partido": "MDB",
+      "numero": "1544",
+      "votos": 64,
+      "percentual": 4.41,
+      "sqcand": "240001602680"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOÃO MARIA MARQUES ROSA",
+      "nomeUrna": "DR JOÃO",
+      "partido": "UNIÃO",
+      "numero": "44400",
+      "votos": 220,
+      "percentual": 15.48,
+      "sqcand": "240001616181"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 147,
+      "percentual": 10.34,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "ALTAIR DA SILVA",
+      "nomeUrna": "ALTAIR SILVA",
+      "partido": "PP",
+      "numero": "11130",
+      "votos": 105,
+      "percentual": 7.39,
+      "sqcand": "240001644767"
+    },
+    {
+      "nome": "MAURO DE NADAL",
+      "nomeUrna": "MAURO DE NADAL",
+      "partido": "MDB",
+      "numero": "15220",
+      "votos": 93,
+      "percentual": 6.54,
+      "sqcand": "240001605913"
+    },
+    {
+      "nome": "NEODI SARETTA",
+      "nomeUrna": "NEODI SARETTA",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 90,
+      "percentual": 6.33,
+      "sqcand": "240001679646"
+    },
+    {
+      "nome": "CESAR ANTONIO VALDUGA",
+      "nomeUrna": "VALDUGA",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 90,
+      "percentual": 6.33,
+      "sqcand": "240001679638"
+    },
+    {
+      "nome": "FABIANO DA LUZ",
+      "nomeUrna": "FABIANO DA LUZ",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 74,
+      "percentual": 5.21,
+      "sqcand": "240001679627"
+    }
+  ]
+}

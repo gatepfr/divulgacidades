@@ -1,0 +1,331 @@
+{
+  "populacao": 90130,
+  "votosValidos": 67159,
+  "abstencao": 17.47,
+  "prefeito": {
+    "nome": "CESAR DA SILVA NASCIMENTO",
+    "nomeUrna": "CESAR",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 27180,
+    "percentual": 40.47,
+    "situacao": "Eleito",
+    "sqcand": "250002029947",
+    "vice": "ANDREA MARIA DE CASTRO",
+    "viceNomeUrna": "ANDREA CASTRO",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002029948",
+    "coligacao": "PSD / CIDADANIA / PSDB / AGIR / MDB / UNIÃO / PDT / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "ALEXANDRE MENDES DA SILVA",
+      "nomeUrna": "TOPETE",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 4336,
+      "percentual": 6.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002030199"
+    },
+    {
+      "nome": "GUILHERME AMARAL BELO NOGUEIRA",
+      "nomeUrna": "GUILHERME AMARAL",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 2273,
+      "percentual": 3.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002030192"
+    },
+    {
+      "nome": "RONIELE MARTINS DA SILVA",
+      "nomeUrna": "RONY DO BAR",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 2201,
+      "percentual": 3.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002030202"
+    },
+    {
+      "nome": "RONALDO ARAUJO QUEIROZ",
+      "nomeUrna": "RONALDO DA COMISSÃO",
+      "partido": "PSD",
+      "numero": "55007",
+      "votos": 2050,
+      "percentual": 2.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002030194"
+    },
+    {
+      "nome": "MARCOS ROBERTO SILVA",
+      "nomeUrna": "TINHO",
+      "partido": "PSD",
+      "numero": "55699",
+      "votos": 1972,
+      "percentual": 2.8,
+      "situacao": "Eleito por média",
+      "sqcand": "250002030196"
+    },
+    {
+      "nome": "JOEMERSON ALVES DE SOUZA",
+      "nomeUrna": "CLEBER DO CAVACO",
+      "partido": "PSD",
+      "numero": "55500",
+      "votos": 1857,
+      "percentual": 2.63,
+      "situacao": "Eleito por média",
+      "sqcand": "250002030188"
+    },
+    {
+      "nome": "DANIEL BARBOSA DE ASSIS SILVA",
+      "nomeUrna": "XUXA",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 1640,
+      "percentual": 2.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002138409"
+    },
+    {
+      "nome": "JAIR FERREIRA LUCAS",
+      "nomeUrna": "JAIR DO BAR",
+      "partido": "PSDB",
+      "numero": "45133",
+      "votos": 1635,
+      "percentual": 2.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002138415"
+    },
+    {
+      "nome": "ALLAN MATIAS BARBOZA DE SOUZA",
+      "nomeUrna": "ALLAN MATIAS",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 1593,
+      "percentual": 2.26,
+      "situacao": "Eleito por média",
+      "sqcand": "250002030200"
+    },
+    {
+      "nome": "EDSON MENEZES MOTA",
+      "nomeUrna": "EDSON MOTA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 1552,
+      "percentual": 2.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002140107"
+    },
+    {
+      "nome": "ALESSANDRO DONIZETE DE OLIVEIRA",
+      "nomeUrna": "ALESSANDRO OLIVEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1234,
+      "percentual": 1.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001906950"
+    },
+    {
+      "nome": "GUILHERME DOS SANTOS MALAQUIAS",
+      "nomeUrna": "GUILHERME DO SALÃO",
+      "partido": "PSB",
+      "numero": "40099",
+      "votos": 1188,
+      "percentual": 1.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001906982"
+    },
+    {
+      "nome": "MARCIO SILVA NASCIMENTO",
+      "nomeUrna": "MARCINHO",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 1089,
+      "percentual": 1.54,
+      "situacao": "Eleito por média",
+      "sqcand": "250001906987"
+    },
+    {
+      "nome": "IVAN DA SILVA",
+      "nomeUrna": "IVAN HIDELBRANDO",
+      "partido": "PSDB",
+      "numero": "45622",
+      "votos": 1073,
+      "percentual": 1.52,
+      "situacao": "Eleito por média",
+      "sqcand": "250002138414"
+    },
+    {
+      "nome": "JOSE ELAN DOS SANTOS GOMES",
+      "nomeUrna": "BATORÉ",
+      "partido": "AGIR",
+      "numero": "36000",
+      "votos": 635,
+      "percentual": 0.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002029494"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 29330,
+      "percentual": 48.08,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 26408,
+      "percentual": 43.29,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 2708,
+      "percentual": 4.44,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO ALEXANDRE PEREIRA BARBOSA",
+      "nomeUrna": "PAULO ALEXANDRE BARBOSA",
+      "partido": "PSDB",
+      "numero": "4533",
+      "votos": 12404,
+      "percentual": 18.9,
+      "sqcand": "250001612092"
+    },
+    {
+      "nome": "ROSANA DE OLIVEIRA VALLE",
+      "nomeUrna": "ROSANA VALLE",
+      "partido": "PL",
+      "numero": "2227",
+      "votos": 10382,
+      "percentual": 15.82,
+      "sqcand": "250001611311"
+    },
+    {
+      "nome": "ALBERTO PEREIRA MOURÃO",
+      "nomeUrna": "ALBERTO MOURÃO",
+      "partido": "MDB",
+      "numero": "1599",
+      "votos": 5425,
+      "percentual": 8.27,
+      "sqcand": "250001611244"
+    },
+    {
+      "nome": "FABIO JOSÉ RODRIGUES DE MELLO",
+      "nomeUrna": "FABIO MELLO",
+      "partido": "PSOL",
+      "numero": "5013",
+      "votos": 3119,
+      "percentual": 4.75,
+      "sqcand": "250001613794"
+    },
+    {
+      "nome": "APARECIDO BARBOSA DA SILVA",
+      "nomeUrna": "CIDO BARBOZA",
+      "partido": "PODE",
+      "numero": "1955",
+      "votos": 1914,
+      "percentual": 2.92,
+      "sqcand": "250001610301"
+    },
+    {
+      "nome": "JILMAR AUGUSTINHO TATTO",
+      "nomeUrna": "JILMAR TATTO",
+      "partido": "PT",
+      "numero": "1380",
+      "votos": 1879,
+      "percentual": 2.86,
+      "sqcand": "250001610654"
+    },
+    {
+      "nome": "NICOLINO BOZZELLA JUNIOR",
+      "nomeUrna": "JÚNIOR BOZZELLA",
+      "partido": "UNIÃO",
+      "numero": "4470",
+      "votos": 1864,
+      "percentual": 2.84,
+      "sqcand": "250001602068"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MATHEUS COIMBRA MARTINS DE AGUIAR",
+      "nomeUrna": "TENENTE COIMBRA",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 5711,
+      "percentual": 9.33,
+      "sqcand": "250001610136"
+    },
+    {
+      "nome": "PAULO ALVES CORRÊA JUNIOR",
+      "nomeUrna": "PAULO CORRÊA JR",
+      "partido": "PSD",
+      "numero": "55699",
+      "votos": 4716,
+      "percentual": 7.7,
+      "sqcand": "250001605044"
+    },
+    {
+      "nome": "SOLANGE CRISTINA DE FREITAS",
+      "nomeUrna": "SOLANGE FREITAS",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 4659,
+      "percentual": 7.61,
+      "sqcand": "250001602162"
+    },
+    {
+      "nome": "TELMA SANDRA AUGUSTO DE SOUZA",
+      "nomeUrna": "TELMA DE SOUZA",
+      "partido": "PT",
+      "numero": "13004",
+      "votos": 3028,
+      "percentual": 4.94,
+      "sqcand": "250001611808"
+    },
+    {
+      "nome": "CAIO FRANÇA DE GOUVÊA GOMES",
+      "nomeUrna": "CAIO FRANÇA",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 2852,
+      "percentual": 4.66,
+      "sqcand": "250001620641"
+    },
+    {
+      "nome": "MARIA IZABEL AZEVEDO NORONHA",
+      "nomeUrna": "PROFESSORA BEBEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 2652,
+      "percentual": 4.33,
+      "sqcand": "250001611800"
+    },
+    {
+      "nome": "PHILIPE DE PAULA DA SILVA",
+      "nomeUrna": "PHILLIPE PH",
+      "partido": "MDB",
+      "numero": "15220",
+      "votos": 2532,
+      "percentual": 4.13,
+      "sqcand": "250001609972"
+    }
+  ]
+}

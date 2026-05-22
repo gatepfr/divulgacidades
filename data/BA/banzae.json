@@ -1,0 +1,271 @@
+{
+  "populacao": 11060,
+  "votosValidos": 8969,
+  "abstencao": 15.51,
+  "prefeito": {
+    "nome": "PATRÍCIA NASCIMENTO ALMEIDA",
+    "nomeUrna": "PATRÍCIA",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 5326,
+    "percentual": 59.38,
+    "situacao": "Eleito",
+    "sqcand": "50001958739",
+    "vice": "ADRIANO DE SOUZA",
+    "viceNomeUrna": "ADRIANO DE SOUZA",
+    "partidoVice": "PT",
+    "sqcandVice": "50001958738",
+    "coligacao": "PC do B / PT / PV / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ROGER BRUNO FREITAS DE SANTANA",
+      "nomeUrna": "ROGER ENFERMEIRO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 621,
+      "percentual": 6.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001997487"
+    },
+    {
+      "nome": "ELTON SILVA DE JESUS",
+      "nomeUrna": "ELTON TRÊS IRMÃOS",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 579,
+      "percentual": 6.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001997492"
+    },
+    {
+      "nome": "GILSON OLIVEIRA DA GAMA",
+      "nomeUrna": "GILSON DO CAMAMUM",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 569,
+      "percentual": 6.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001978610"
+    },
+    {
+      "nome": "SEBASTIANA SILVA DOS SANTOS",
+      "nomeUrna": "SESSÉ",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 538,
+      "percentual": 5.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002145316"
+    },
+    {
+      "nome": "MARIA VERALUCIA GAMA MORAES",
+      "nomeUrna": "VERA LEAL",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 522,
+      "percentual": 5.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001997490"
+    },
+    {
+      "nome": "JOSÉ VANDERLEI CHAVES BITENCOURT",
+      "nomeUrna": "VANDERLEI DO TAMBURIL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 486,
+      "percentual": 5.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001978606"
+    },
+    {
+      "nome": "JOÃO SOUZA DO NASCIMENTO",
+      "nomeUrna": "JOÃOZINHO DO SALGADO",
+      "partido": "PT",
+      "numero": "13777",
+      "votos": 414,
+      "percentual": 4.54,
+      "situacao": "Eleito por média",
+      "sqcand": "50001978611"
+    },
+    {
+      "nome": "JOSÉ ROSÉLIO CALASANS DE MACEDO",
+      "nomeUrna": "DELO KIRIRI",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 361,
+      "percentual": 3.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002112446"
+    },
+    {
+      "nome": "JOSE FERREIRA PEIXINHO",
+      "nomeUrna": "ZÉ PEIXINHO",
+      "partido": "AGIR",
+      "numero": "36666",
+      "votos": 329,
+      "percentual": 3.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002145952"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4850,
+      "percentual": 66.29,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2126,
+      "percentual": 29.06,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 305,
+      "percentual": 4.17,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GABRIEL JOSE MOURA NUNES SOARES",
+      "nomeUrna": "GABRIEL NUNES",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 3687,
+      "percentual": 47.26,
+      "sqcand": "50001607226"
+    },
+    {
+      "nome": "RICARDO MAIA CHAVES DE SOUZA",
+      "nomeUrna": "RICARDO MAIA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 2854,
+      "percentual": 36.58,
+      "sqcand": "50001614047"
+    },
+    {
+      "nome": "JOÃO CARLOS PAOLILO BACELAR FILHO",
+      "nomeUrna": "JOÃO CARLOS BACELAR",
+      "partido": "PL",
+      "numero": "2288",
+      "votos": 319,
+      "percentual": 4.09,
+      "sqcand": "50001609371"
+    },
+    {
+      "nome": "LUZINAIDE DE QUEIROZ MACIEL",
+      "nomeUrna": "NAY GRILO",
+      "partido": "PDT",
+      "numero": "1211",
+      "votos": 111,
+      "percentual": 1.42,
+      "sqcand": "50001620848"
+    },
+    {
+      "nome": "ELANE ALVES DE ALMEIDA",
+      "nomeUrna": "DRA ELANE",
+      "partido": "PSD",
+      "numero": "5533",
+      "votos": 98,
+      "percentual": 1.26,
+      "sqcand": "50001607230"
+    },
+    {
+      "nome": "DANIEL GOMES DE ALMEIDA",
+      "nomeUrna": "DANIEL",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 84,
+      "percentual": 1.08,
+      "sqcand": "50001605367"
+    },
+    {
+      "nome": "JORGE JOSE SANTOS PEREIRA SOLLA",
+      "nomeUrna": "JORGE SOLLA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 70,
+      "percentual": 0.9,
+      "sqcand": "50001605359"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADOLFO EMANUEL MONTEIRO DE MENEZES",
+      "nomeUrna": "ADOLFO MENEZES",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 3225,
+      "percentual": 44.18,
+      "sqcand": "50001607292"
+    },
+    {
+      "nome": "CARLOS UBALDINO DE SANTANA",
+      "nomeUrna": "PASTOR UBALDINO",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 1674,
+      "percentual": 22.93,
+      "sqcand": "50001620924"
+    },
+    {
+      "nome": "MARCIO EVANGELISTA DE OLIVEIRA",
+      "nomeUrna": "MARCINHO OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 725,
+      "percentual": 9.93,
+      "sqcand": "50001648293"
+    },
+    {
+      "nome": "MARIA DE FATIMA NUNES DOS ANJOS",
+      "nomeUrna": "FATIMA NUNES",
+      "partido": "PT",
+      "numero": "13567",
+      "votos": 384,
+      "percentual": 5.26,
+      "sqcand": "50001606437"
+    },
+    {
+      "nome": "KATIA HELENA BACELAR RIBEIRO DOS SANTOS",
+      "nomeUrna": "KATIA BACELAR",
+      "partido": "PL",
+      "numero": "22888",
+      "votos": 272,
+      "percentual": 3.73,
+      "sqcand": "50001609481"
+    },
+    {
+      "nome": "VITOR VIANA PARANHOS DE AZEVEDO",
+      "nomeUrna": "VITOR AZEVEDO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 129,
+      "percentual": 1.77,
+      "sqcand": "50001609449"
+    },
+    {
+      "nome": "LUDMILLA FONSECA FISCINA",
+      "nomeUrna": "LUDMILLA FISCINA",
+      "partido": "PV",
+      "numero": "43444",
+      "votos": 89,
+      "percentual": 1.22,
+      "sqcand": "50001606389"
+    }
+  ]
+}

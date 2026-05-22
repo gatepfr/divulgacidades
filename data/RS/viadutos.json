@@ -1,0 +1,271 @@
+{
+  "populacao": 4113,
+  "votosValidos": 3628,
+  "abstencao": 9.38,
+  "prefeito": {
+    "nome": "GIOVAN ANDRÉ SPEROTTO",
+    "nomeUrna": "ANDRÉ",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2209,
+    "percentual": 60.89,
+    "situacao": "Eleito",
+    "sqcand": "210002265852",
+    "vice": "SÉRGIO LUIZ BEBBER",
+    "viceNomeUrna": "THILECA",
+    "partidoVice": "PP",
+    "sqcandVice": "210002265851",
+    "coligacao": "PP / MDB / PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "HELENA IRENE BONATTO BASSO",
+      "nomeUrna": "IRENE BASSO",
+      "partido": "MDB",
+      "numero": "15610",
+      "votos": 287,
+      "percentual": 7.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002268735"
+    },
+    {
+      "nome": "ODIR LUIZ BOCCA",
+      "nomeUrna": "BOCCA",
+      "partido": "MDB",
+      "numero": "15605",
+      "votos": 270,
+      "percentual": 7.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002268736"
+    },
+    {
+      "nome": "VERGILIO BICZ",
+      "nomeUrna": "POLAQUINHO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 251,
+      "percentual": 6.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002279578"
+    },
+    {
+      "nome": "OSLEN MELCHIOR CHAVES",
+      "nomeUrna": "GUETO CHAVES",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 235,
+      "percentual": 6.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002306050"
+    },
+    {
+      "nome": "ALVADI JOSE BEBER",
+      "nomeUrna": "DICO BEBER",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 233,
+      "percentual": 6.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002279576"
+    },
+    {
+      "nome": "CLEITON FERNANDO MACHAJEWSKI",
+      "nomeUrna": "CLEITON",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 224,
+      "percentual": 6.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002305636"
+    },
+    {
+      "nome": "ROBERTO CESAR PICCOLI",
+      "nomeUrna": "BETO",
+      "partido": "MDB",
+      "numero": "15611",
+      "votos": 198,
+      "percentual": 5.43,
+      "situacao": "Eleito por média",
+      "sqcand": "210002268738"
+    },
+    {
+      "nome": "FLÁVIO JUNIOR BORTOLETTI",
+      "nomeUrna": "FLÁVIO BORTOLETTI PICA-PAU",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 198,
+      "percentual": 5.43,
+      "situacao": "Eleito por média",
+      "sqcand": "210002268732"
+    },
+    {
+      "nome": "LEOCIR JORGE ZORTEA",
+      "nomeUrna": "ZORTEA",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 121,
+      "percentual": 3.32,
+      "situacao": "Eleito por média",
+      "sqcand": "210002305635"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1477,
+      "percentual": 49.83,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 794,
+      "percentual": 26.79,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 661,
+      "percentual": 22.3,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 703,
+      "percentual": 22.0,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 494,
+      "percentual": 15.46,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "ANACLETO ZANELLA",
+      "nomeUrna": "ANACLETO ZANELLA",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 194,
+      "percentual": 6.07,
+      "sqcand": "210001604637"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 189,
+      "percentual": 5.92,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 179,
+      "percentual": 5.6,
+      "sqcand": "210001596134"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 120,
+      "percentual": 3.76,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 79,
+      "percentual": 2.47,
+      "sqcand": "210001596984"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GILBERTO CAPOANI",
+      "nomeUrna": "GILBERTO CAPOANI",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 822,
+      "percentual": 27.33,
+      "sqcand": "210001647990"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 520,
+      "percentual": 17.29,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 291,
+      "percentual": 9.67,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "IVAR PAVAN",
+      "nomeUrna": "IVAR PAVAN",
+      "partido": "PT",
+      "numero": "13240",
+      "votos": 209,
+      "percentual": 6.95,
+      "sqcand": "210001610618"
+    },
+    {
+      "nome": "RENAN AUGUSTO SOCCOL",
+      "nomeUrna": "RENAN SOCCOL",
+      "partido": "PP",
+      "numero": "11110",
+      "votos": 163,
+      "percentual": 5.42,
+      "sqcand": "210001647179"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 134,
+      "percentual": 4.45,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "NEIVA INÊS LAZZAROTTO",
+      "nomeUrna": "NEIVA LAZZAROTTO",
+      "partido": "PSOL",
+      "numero": "50001",
+      "votos": 110,
+      "percentual": 3.66,
+      "sqcand": "210001604748"
+    }
+  ]
+}

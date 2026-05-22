@@ -1,0 +1,271 @@
+{
+  "populacao": 4071,
+  "votosValidos": 3537,
+  "abstencao": 9.48,
+  "prefeito": {
+    "nome": "EDSON JULIO WOLINGER",
+    "nomeUrna": "EDSON WOLINGER",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 2092,
+    "percentual": 59.15,
+    "situacao": "Eleito",
+    "sqcand": "240002053766",
+    "vice": "LAURI ANTUNES DA SILVA",
+    "viceNomeUrna": "LAURI ANTUNES",
+    "partidoVice": "MDB",
+    "sqcandVice": "240002053767",
+    "coligacao": "MDB / PODE / PL / UNIÃO / CIDADANIA / PSDB / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "CLEBER RODRIGUES GONÇALVES",
+      "nomeUrna": "PROFESSOR CLEBER",
+      "partido": "REPUBLICANOS",
+      "numero": "10999",
+      "votos": 240,
+      "percentual": 6.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002150454"
+    },
+    {
+      "nome": "VIVIANI REBELIM COELHO",
+      "nomeUrna": "VIVIANI",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 236,
+      "percentual": 6.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002150457"
+    },
+    {
+      "nome": "LUCAS DO CAMPO",
+      "nomeUrna": "LUCAS DO CAMPO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 230,
+      "percentual": 6.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002147791"
+    },
+    {
+      "nome": "GILSON PEREIRA DOS SANTOS",
+      "nomeUrna": "GILSON PEREIRA DOS SANTOS BIDU",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 166,
+      "percentual": 4.62,
+      "situacao": "Eleito por média",
+      "sqcand": "240002150453"
+    },
+    {
+      "nome": "VALDEMIRA APARECIDA DE OLIVEIRA",
+      "nomeUrna": "NEGA ",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 146,
+      "percentual": 4.06,
+      "situacao": "Eleito por média",
+      "sqcand": "240002147788"
+    },
+    {
+      "nome": "ELENICE BERNARDI DUARTE DE LIZ",
+      "nomeUrna": "ELENICE BERNARDI",
+      "partido": "REPUBLICANOS",
+      "numero": "10963",
+      "votos": 140,
+      "percentual": 3.9,
+      "situacao": "Eleito por média",
+      "sqcand": "240002150451"
+    },
+    {
+      "nome": "THIAGO DE LIZ PEREIRA",
+      "nomeUrna": "THIAGO PEREIRA",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 112,
+      "percentual": 3.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002020722"
+    },
+    {
+      "nome": "MARILDA DE OLIVEIRA PIRES",
+      "nomeUrna": "MARILDA PIRES",
+      "partido": "PSDB",
+      "numero": "45456",
+      "votos": 110,
+      "percentual": 3.06,
+      "situacao": "Eleito por média",
+      "sqcand": "240002159382"
+    },
+    {
+      "nome": "ELIAS MOREIRA JUNIOR",
+      "nomeUrna": "JUNIOR",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 80,
+      "percentual": 2.23,
+      "situacao": "Eleito por média",
+      "sqcand": "240002158887"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 737,
+      "percentual": 26.64,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 690,
+      "percentual": 24.94,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 566,
+      "percentual": 20.46,
+      "sqcand": "240001647359"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 428,
+      "percentual": 14.62,
+      "sqcand": "240001611938"
+    },
+    {
+      "nome": "ANA PAULA DE SOUZA LIMA",
+      "nomeUrna": "ANA PAULA LIMA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 350,
+      "percentual": 11.96,
+      "sqcand": "240001645213"
+    },
+    {
+      "nome": "MARLENE FENGLER",
+      "nomeUrna": "MARLENE FENGLER",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 306,
+      "percentual": 10.45,
+      "sqcand": "240001611141"
+    },
+    {
+      "nome": "LUCAS DE SOUZA ESMERALDINO",
+      "nomeUrna": "LUCAS ESMERALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 267,
+      "percentual": 9.12,
+      "sqcand": "240001610240"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 194,
+      "percentual": 6.63,
+      "sqcand": "240001611140"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 154,
+      "percentual": 5.26,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "SILVIO DREVECK",
+      "nomeUrna": "SILVIO DREVECK",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 96,
+      "percentual": 3.28,
+      "sqcand": "240001644885"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCIUS DA SILVA MACHADO",
+      "nomeUrna": "MARCIUS MACHADO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 555,
+      "percentual": 19.26,
+      "sqcand": "240001614339"
+    },
+    {
+      "nome": "ADELIANA DAL PONT",
+      "nomeUrna": "ADELIANA DAL PONT",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 246,
+      "percentual": 8.54,
+      "sqcand": "240001614378"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 198,
+      "percentual": 6.87,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "LUCAS FELIPE MELO NEVES",
+      "nomeUrna": "LUCAS NEVES",
+      "partido": "PODE",
+      "numero": "19282",
+      "votos": 187,
+      "percentual": 6.49,
+      "sqcand": "240001610819"
+    },
+    {
+      "nome": "LUCIANE MARIA CARMINATTI",
+      "nomeUrna": "LUCIANE CARMINATTI",
+      "partido": "PT",
+      "numero": "13601",
+      "votos": 185,
+      "percentual": 6.42,
+      "sqcand": "240001679643"
+    },
+    {
+      "nome": "ANTONIO CARLOS COELHO DE SOUZA",
+      "nomeUrna": "ANTONIO CARLOS",
+      "partido": "PSB",
+      "numero": "40023",
+      "votos": 146,
+      "percentual": 5.07,
+      "sqcand": "240001647254"
+    },
+    {
+      "nome": "ANA PAULA DA SILVA",
+      "nomeUrna": "PAULINHA",
+      "partido": "PODE",
+      "numero": "19010",
+      "votos": 133,
+      "percentual": 4.62,
+      "sqcand": "240001610824"
+    }
+  ]
+}

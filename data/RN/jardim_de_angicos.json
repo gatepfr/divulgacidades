@@ -1,0 +1,271 @@
+{
+  "populacao": 3148,
+  "votosValidos": 2865,
+  "abstencao": 6.35,
+  "prefeito": {
+    "nome": "CARLOS ANDRE CAMARA BEZERRA",
+    "nomeUrna": "CARLINHOS",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1973,
+    "percentual": 68.87,
+    "situacao": "Eleito",
+    "sqcand": "200001960580",
+    "vice": "MOACIR ALVES GUIMARAES JUNIOR",
+    "viceNomeUrna": "MOACIR JUNIOR",
+    "partidoVice": "PL",
+    "sqcandVice": "200001960581",
+    "coligacao": "PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "ANTONIO JOÃO DE SOUZA NETO",
+      "nomeUrna": "SOUZA NETO",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 317,
+      "percentual": 11.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001960790"
+    },
+    {
+      "nome": "SANDRA MERCIA DE MELO LIMA",
+      "nomeUrna": "SANDRA MELO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 291,
+      "percentual": 10.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001960791"
+    },
+    {
+      "nome": "SEBASTIAO SOARES SILVA",
+      "nomeUrna": "BASTIÃO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 277,
+      "percentual": 9.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001960788"
+    },
+    {
+      "nome": "LEANDRO ROCHA DE MELO",
+      "nomeUrna": "LEANDRO ROCHA",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 258,
+      "percentual": 8.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001960785"
+    },
+    {
+      "nome": "FRANCISCO NOBRE NETO",
+      "nomeUrna": "CHICO MAGO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 248,
+      "percentual": 8.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001960787"
+    },
+    {
+      "nome": "JOAO BATISTA DE MELO",
+      "nomeUrna": "BATISTA MELO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 245,
+      "percentual": 8.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001960784"
+    },
+    {
+      "nome": "JOSE DE LIMA BARRETO",
+      "nomeUrna": "ZE NOBRE",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 230,
+      "percentual": 7.99,
+      "situacao": "Eleito por média",
+      "sqcand": "200001960789"
+    },
+    {
+      "nome": "ALEXIS LIMA MAURICIO",
+      "nomeUrna": "ALEXIS LIMA",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 197,
+      "percentual": 6.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002313440"
+    },
+    {
+      "nome": "JOSE HUMBERTO DE LIMA JUNIOR",
+      "nomeUrna": "BETINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 169,
+      "percentual": 5.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002313442"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 965,
+      "percentual": 43.57,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 667,
+      "percentual": 30.11,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 561,
+      "percentual": 25.33,
+      "sqcand": "200001612334"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ BENES LEOCÁDIO DE ARAÚJO",
+      "nomeUrna": "BENES LEOCÁDIO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1279,
+      "percentual": 55.61,
+      "sqcand": "200001608805"
+    },
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 293,
+      "percentual": 12.74,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "GARIBALDI ALVES FILHO",
+      "nomeUrna": "GARIBALDI FILHO",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 204,
+      "percentual": 8.87,
+      "sqcand": "200001653701"
+    },
+    {
+      "nome": "KALINE CRISTIANE FERREIRA DE ANDRADE AMORIM",
+      "nomeUrna": "KALINE DE DR BERNARDO",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 103,
+      "percentual": 4.48,
+      "sqcand": "200001653699"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 81,
+      "percentual": 3.52,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "ELIESER GIRÃO MONTEIRO FILHO",
+      "nomeUrna": "GENERAL GIRÃO",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 37,
+      "percentual": 1.61,
+      "sqcand": "200001603004"
+    },
+    {
+      "nome": "HILKEA CARLA DE SOUZA MEDEIROS LIMA",
+      "nomeUrna": "CARLA DICKSON",
+      "partido": "UNIÃO",
+      "numero": "4411",
+      "votos": 34,
+      "percentual": 1.48,
+      "sqcand": "200001608803"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "HERMANO DA COSTA MORAES",
+      "nomeUrna": "HERMANO MORAIS",
+      "partido": "PV",
+      "numero": "43100",
+      "votos": 982,
+      "percentual": 43.68,
+      "sqcand": "200001603625"
+    },
+    {
+      "nome": "MAURICIO CAETANO DAMACENA FILHO",
+      "nomeUrna": "MAURÍCIO FILHO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 601,
+      "percentual": 26.73,
+      "sqcand": "200001652914"
+    },
+    {
+      "nome": "GEORGE MONTENEGRO SOARES",
+      "nomeUrna": "GEORGE SOARES",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 172,
+      "percentual": 7.65,
+      "sqcand": "200001603616"
+    },
+    {
+      "nome": "BERNARDO CÉSAR CARLOS BELARMINO DE AMORIM",
+      "nomeUrna": "DR BERNARDO AMORIM",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 138,
+      "percentual": 6.14,
+      "sqcand": "200001605989"
+    },
+    {
+      "nome": "WENDEL FAGNER CORTEZ DE ALMEIDA",
+      "nomeUrna": "WENDEL LAGARTIXA",
+      "partido": "PL",
+      "numero": "22762",
+      "votos": 64,
+      "percentual": 2.85,
+      "sqcand": "200001604709"
+    },
+    {
+      "nome": "GUSTAVO HENRIQUE LIMA DE CARVALHO",
+      "nomeUrna": "GUSTAVO CARVALHO",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 30,
+      "percentual": 1.33,
+      "sqcand": "200001606002"
+    },
+    {
+      "nome": "MARIA DIVANEIDE BASÍLIO",
+      "nomeUrna": "DIVANEIDE",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 22,
+      "percentual": 0.98,
+      "sqcand": "200001603631"
+    }
+  ]
+}

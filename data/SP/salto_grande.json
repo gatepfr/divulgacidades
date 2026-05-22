@@ -1,0 +1,271 @@
+{
+  "populacao": 6673,
+  "votosValidos": 5175,
+  "abstencao": 18.18,
+  "prefeito": {
+    "nome": "MARIO LUCIANO ROSA",
+    "nomeUrna": "MARIO ROSA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2995,
+    "percentual": 57.87,
+    "situacao": "Eleito",
+    "sqcand": "250001918328",
+    "vice": "RAFAEL HENRIQUE MORALEZ",
+    "viceNomeUrna": "RAFAEL MORALEZ",
+    "partidoVice": "NOVO",
+    "sqcandVice": "250001918329",
+    "coligacao": "PL / NOVO / UNIÃO / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "MARISABELLE LIMA GUERRA VIANA",
+      "nomeUrna": "MARISABELLE GUERRA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 368,
+      "percentual": 7.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001918359"
+    },
+    {
+      "nome": "WILLIAN BORILIO TASSINARI",
+      "nomeUrna": "WILLIAN TASSINARI ",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77456",
+      "votos": 278,
+      "percentual": 5.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002247302"
+    },
+    {
+      "nome": "PAULO ROBERTO VARIANI DE ARAÚJO",
+      "nomeUrna": "PAULO VARIANI",
+      "partido": "NOVO",
+      "numero": "30123",
+      "votos": 275,
+      "percentual": 5.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001960914"
+    },
+    {
+      "nome": "ODAIR SANTANA",
+      "nomeUrna": "DAIO",
+      "partido": "UNIÃO",
+      "numero": "44620",
+      "votos": 266,
+      "percentual": 5.16,
+      "situacao": "Eleito por média",
+      "sqcand": "250001918358"
+    },
+    {
+      "nome": "MAICON BENTO SILVEIRA",
+      "nomeUrna": "GOIANÃO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 200,
+      "percentual": 3.88,
+      "situacao": "Eleito por média",
+      "sqcand": "250002247301"
+    },
+    {
+      "nome": "VALDUR DE OLIVEIRA",
+      "nomeUrna": "VALDUR",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 192,
+      "percentual": 3.72,
+      "situacao": "Eleito por média",
+      "sqcand": "250001918350"
+    },
+    {
+      "nome": "CLAUDINEI ANTONANGELO",
+      "nomeUrna": "PISCUILA",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 163,
+      "percentual": 3.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001918344"
+    },
+    {
+      "nome": "JOÃO NEWTON CESAR GERDULI",
+      "nomeUrna": "NILTON CESAR DA RADIO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 163,
+      "percentual": 3.16,
+      "situacao": "Eleito por média",
+      "sqcand": "250001918356"
+    },
+    {
+      "nome": "ADEMAR FERREIRA DA ROCHA",
+      "nomeUrna": "ADEMARZINHO",
+      "partido": "PL",
+      "numero": "22616",
+      "votos": 147,
+      "percentual": 2.85,
+      "situacao": "Eleito por média",
+      "sqcand": "250001918347"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2565,
+      "percentual": 61.53,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1191,
+      "percentual": 28.57,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 304,
+      "percentual": 7.29,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 2012,
+      "percentual": 45.05,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "NILTO IGNÁCIO TATTO",
+      "nomeUrna": "NILTO TATTO",
+      "partido": "PT",
+      "numero": "1353",
+      "votos": 133,
+      "percentual": 2.98,
+      "sqcand": "250001610688"
+    },
+    {
+      "nome": "MILTON ANTONIO CASQUEL MONTI",
+      "nomeUrna": "MILTON MONTI",
+      "partido": "PSD",
+      "numero": "5599",
+      "votos": 128,
+      "percentual": 2.87,
+      "sqcand": "250001604979"
+    },
+    {
+      "nome": "MARCIO LUIZ ALVINO DE SOUZA",
+      "nomeUrna": "MARCIO ALVINO",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 113,
+      "percentual": 2.53,
+      "sqcand": "250001611336"
+    },
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 99,
+      "percentual": 2.22,
+      "sqcand": "250001611345"
+    },
+    {
+      "nome": "VINICIUS RAPOZO DE CARVALHO",
+      "nomeUrna": "VINICIUS CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1085",
+      "votos": 91,
+      "percentual": 2.04,
+      "sqcand": "250001611851"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 86,
+      "percentual": 1.93,
+      "sqcand": "250001612102"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "nomeUrna": "DANI ALONSO",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 934,
+      "percentual": 21.97,
+      "sqcand": "250001610113"
+    },
+    {
+      "nome": "GUILHERME ANDREW GONÇALVES DA SILVA",
+      "nomeUrna": "GUILHERME GONÇALVES",
+      "partido": "PODE",
+      "numero": "19333",
+      "votos": 561,
+      "percentual": 13.19,
+      "sqcand": "250001610535"
+    },
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 360,
+      "percentual": 8.47,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "THIAGO ANTONIO BRIGANO",
+      "nomeUrna": "THIAGO BRIGANÓ",
+      "partido": "REPUBLICANOS",
+      "numero": "10422",
+      "votos": 348,
+      "percentual": 8.18,
+      "sqcand": "250001639550"
+    },
+    {
+      "nome": "RICARDO ROSSI MADALENA",
+      "nomeUrna": "RICARDO MADALENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 236,
+      "percentual": 5.55,
+      "sqcand": "250001610138"
+    },
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 146,
+      "percentual": 3.43,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "ENIO FRANCISCO TATTO",
+      "nomeUrna": "ENIO TATTO",
+      "partido": "PT",
+      "numero": "13114",
+      "votos": 114,
+      "percentual": 2.68,
+      "sqcand": "250001611799"
+    }
+  ]
+}

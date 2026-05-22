@@ -1,0 +1,271 @@
+{
+  "populacao": 3985,
+  "votosValidos": 3164,
+  "abstencao": 15.61,
+  "prefeito": {
+    "nome": "JOEL CELSO BUSCARIOL",
+    "nomeUrna": "JOEL CELSO BUSCARIOL",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2257,
+    "percentual": 71.33,
+    "situacao": "Eleito",
+    "sqcand": "160002263965",
+    "vice": "JOSÉ CARLOS DA SILVA",
+    "viceNomeUrna": "CARLINHOS DONATO",
+    "partidoVice": "MDB",
+    "sqcandVice": "160002263966",
+    "coligacao": "MDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "CLAUDIA ANNE DE OLIVEIRA GOTARDO",
+      "nomeUrna": "CLAUDIA GOTARDO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 304,
+      "percentual": 9.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001986273"
+    },
+    {
+      "nome": "MARCOS ANTÔNIO BUSCARIOL",
+      "nomeUrna": "MARCÃO BUSCARIOL",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 263,
+      "percentual": 8.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002265100"
+    },
+    {
+      "nome": "VALMIR DUMINELLI",
+      "nomeUrna": "MILÃO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 253,
+      "percentual": 7.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002265094"
+    },
+    {
+      "nome": "REINALDO ADRIANO DOS SANTOS",
+      "nomeUrna": "RONALDINHO DO ZÉ ARLENO",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 213,
+      "percentual": 6.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002265098"
+    },
+    {
+      "nome": "EDUARDO AILTON FRANCO DOS SANTOS PINHO",
+      "nomeUrna": "PINHO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 182,
+      "percentual": 5.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002142680"
+    },
+    {
+      "nome": "GILSON MARTINS",
+      "nomeUrna": "GILSON MARTINS",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 160,
+      "percentual": 4.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001986264"
+    },
+    {
+      "nome": "OSMAR PETERLINI",
+      "nomeUrna": "OSMAR PETERLINI",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 149,
+      "percentual": 4.56,
+      "situacao": "Eleito por média",
+      "sqcand": "160001986265"
+    },
+    {
+      "nome": "EDSON BURAK",
+      "nomeUrna": "NEGUINHO DO ALEXANDRÃO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 138,
+      "percentual": 4.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002142676"
+    },
+    {
+      "nome": "LETICIA APOLINARIO DA SILVA",
+      "nomeUrna": "SOLDADO LETÍCIA APOLINÁRIO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 119,
+      "percentual": 3.64,
+      "situacao": "Eleito por média",
+      "sqcand": "160002142673"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1560,
+      "percentual": 56.93,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 565,
+      "percentual": 20.62,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 508,
+      "percentual": 18.54,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 807,
+      "percentual": 28.27,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "HERMES PARCIANELLO",
+      "nomeUrna": "HERMES FRANGAO PARCIANELLO",
+      "partido": "MDB",
+      "numero": "1540",
+      "votos": 555,
+      "percentual": 19.44,
+      "sqcand": "160001614542"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 254,
+      "percentual": 8.9,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 225,
+      "percentual": 7.88,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "MARCO AURELIO RIBEIRO",
+      "nomeUrna": "MARCO BRASIL",
+      "partido": "PP",
+      "numero": "1155",
+      "votos": 207,
+      "percentual": 7.25,
+      "sqcand": "160001603313"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 120,
+      "percentual": 4.2,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 78,
+      "percentual": 2.73,
+      "sqcand": "160001622297"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 1016,
+      "percentual": 37.19,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 582,
+      "percentual": 21.3,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "REINALDO JOSE DA COSTA",
+      "nomeUrna": "PROFESSOR REINALDO",
+      "partido": "PSC",
+      "numero": "20000",
+      "votos": 240,
+      "percentual": 8.78,
+      "sqcand": "160001717454"
+    },
+    {
+      "nome": "MARCEL HENRIQUE MICHELETTO",
+      "nomeUrna": "MARCEL MICHELETTO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 200,
+      "percentual": 7.32,
+      "sqcand": "160001654935"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 99,
+      "percentual": 3.62,
+      "sqcand": "160001614823"
+    },
+    {
+      "nome": "MARIA VICTORIA BORGHETTI BARROS",
+      "nomeUrna": "MARIA VICTORIA",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 75,
+      "percentual": 2.75,
+      "sqcand": "160001603357"
+    },
+    {
+      "nome": "JOÃO DOUGLAS FABRÍCIO",
+      "nomeUrna": "DOUGLAS FABRICIO",
+      "partido": "CIDADANIA",
+      "numero": "23600",
+      "votos": 67,
+      "percentual": 2.45,
+      "sqcand": "160001612410"
+    }
+  ]
+}

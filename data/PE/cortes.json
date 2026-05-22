@@ -1,0 +1,271 @@
+{
+  "populacao": 11421,
+  "votosValidos": 9132,
+  "abstencao": 16.86,
+  "prefeito": {
+    "nome": "MARIA DE FATIMA CYSNEIROS SAMPAIO BORBA",
+    "nomeUrna": "FATIMA BORBA",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 3910,
+    "percentual": 42.82,
+    "situacao": "Eleito",
+    "sqcand": "170001973565",
+    "vice": "ANTONIO MAURO DA COSTA",
+    "viceNomeUrna": "DR MAURO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "170001973564",
+    "coligacao": "REPUBLICANOS / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ALEX ISAIAS DA SILVA",
+      "nomeUrna": "ALEX DO POVO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 985,
+      "percentual": 10.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002048456"
+    },
+    {
+      "nome": "LETICIA NASCIMENTO BORBA",
+      "nomeUrna": "LETICIA BORBA",
+      "partido": "REPUBLICANOS",
+      "numero": "10610",
+      "votos": 832,
+      "percentual": 9.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002005951"
+    },
+    {
+      "nome": "IVO SEVERINO DA SILVA",
+      "nomeUrna": "PREFESSOR IVO",
+      "partido": "REPUBLICANOS",
+      "numero": "10234",
+      "votos": 574,
+      "percentual": 6.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002005948"
+    },
+    {
+      "nome": "JAFE LOPES FERREIRA",
+      "nomeUrna": "PROFESSOR JAFE",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 477,
+      "percentual": 5.24,
+      "situacao": "Eleito por média",
+      "sqcand": "170002005949"
+    },
+    {
+      "nome": "CELSO CLEITON SANTOS DA SILVA",
+      "nomeUrna": "CELSO",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 459,
+      "percentual": 5.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002048454"
+    },
+    {
+      "nome": "JOSINALDO SILVA DO NASCIMENTO",
+      "nomeUrna": "JOSINALDO NASCIMENTO",
+      "partido": "PSB",
+      "numero": "40567",
+      "votos": 455,
+      "percentual": 5.0,
+      "situacao": "Eleito por média",
+      "sqcand": "170002048457"
+    },
+    {
+      "nome": "JOSIMAR SEBASTIÃO DA SILVA",
+      "nomeUrna": "IRMÃO JOSIMAR",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 434,
+      "percentual": 4.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001973579"
+    },
+    {
+      "nome": "JOSÉ ALEX XAVIER DA SILVA",
+      "nomeUrna": "IRMÃO ALEX XAVIER",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 380,
+      "percentual": 4.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002048477"
+    },
+    {
+      "nome": "JOSE EDSON LIMA DA SILVA",
+      "nomeUrna": "PROFESSOR EDSON",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 343,
+      "percentual": 3.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001973578"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 3339,
+      "percentual": 50.43,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2322,
+      "percentual": 35.07,
+      "sqcand": "170001604083"
+    },
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 723,
+      "percentual": 10.92,
+      "sqcand": "170001610248"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "AUGUSTO RODRIGUES COUTINHO DE MELO",
+      "nomeUrna": "AUGUSTO COUTINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 1338,
+      "percentual": 18.51,
+      "sqcand": "170001595454"
+    },
+    {
+      "nome": "SILVIO SERAFIM COSTA FILHO",
+      "nomeUrna": "SILVIO COSTA FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 1316,
+      "percentual": 18.2,
+      "sqcand": "170001595473"
+    },
+    {
+      "nome": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+      "nomeUrna": "IZA ARRUDA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 952,
+      "percentual": 13.17,
+      "sqcand": "170001613278"
+    },
+    {
+      "nome": "LUCIANO CALDAS BIVAR",
+      "nomeUrna": "LUCIANO BIVAR",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 746,
+      "percentual": 10.32,
+      "sqcand": "170001609112"
+    },
+    {
+      "nome": "FRANCISCO EURICO DA SILVA",
+      "nomeUrna": "PASTOR EURICO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 371,
+      "percentual": 5.13,
+      "sqcand": "170001609087"
+    },
+    {
+      "nome": "JOSE ERIBERTO MEDEIROS DE OLIVEIRA",
+      "nomeUrna": "ERIBERTO MEDEIROS",
+      "partido": "PSB",
+      "numero": "4044",
+      "votos": 371,
+      "percentual": 5.13,
+      "sqcand": "170001619893"
+    },
+    {
+      "nome": "FERNANDO RODOLFO TENÓRIO DE VASCONCELOS",
+      "nomeUrna": "FERNANDO RODOLFO",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 326,
+      "percentual": 4.51,
+      "sqcand": "170001609086"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CLOVIS JOSÉ PRAGANA PAIVA",
+      "nomeUrna": "CLÓVIS PAIVA",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 1082,
+      "percentual": 15.62,
+      "sqcand": "170001618736"
+    },
+    {
+      "nome": "ANTONIO DE SOUZA LEAO COELHO",
+      "nomeUrna": "ANTONIO COELHO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 1053,
+      "percentual": 15.2,
+      "sqcand": "170001609285"
+    },
+    {
+      "nome": "HENRIQUE JOSE QUEIROZ COSTA FILHO",
+      "nomeUrna": "HENRIQUE QUEIROZ FILHO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 905,
+      "percentual": 13.06,
+      "sqcand": "170001618759"
+    },
+    {
+      "nome": "SIMONE ALICE DE OLIVEIRA SANTANA",
+      "nomeUrna": "SIMONE SANTANA",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 853,
+      "percentual": 12.31,
+      "sqcand": "170001620379"
+    },
+    {
+      "nome": "RODRIGO MOTA DE FARIAS",
+      "nomeUrna": "RODRIGO FARIAS",
+      "partido": "PSB",
+      "numero": "40540",
+      "votos": 665,
+      "percentual": 9.6,
+      "sqcand": "170001620383"
+    },
+    {
+      "nome": "SILENO SOUSA GUEDES",
+      "nomeUrna": "SILENO",
+      "partido": "PSB",
+      "numero": "40040",
+      "votos": 265,
+      "percentual": 3.83,
+      "sqcand": "170001620380"
+    },
+    {
+      "nome": "JOSÉ ADALTO DOS SANTOS",
+      "nomeUrna": "ADALTO SANTOS",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 232,
+      "percentual": 3.35,
+      "sqcand": "170001618735"
+    }
+  ]
+}

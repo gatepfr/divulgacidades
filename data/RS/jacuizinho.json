@@ -1,0 +1,271 @@
+{
+  "populacao": 2121,
+  "votosValidos": 1990,
+  "abstencao": 4.9,
+  "prefeito": {
+    "nome": "DINIZ JOSE FERNANDES",
+    "nomeUrna": "DINIZ",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1111,
+    "percentual": 55.83,
+    "situacao": "Eleito",
+    "sqcand": "210002361331",
+    "vice": "LORIVAL SOLANO DEMETRIO",
+    "viceNomeUrna": "LORIVAL DEMETRIO",
+    "partidoVice": "PSB",
+    "sqcandVice": "210002361330",
+    "coligacao": "PP / MDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARISANE DE MATOS BRANDAO",
+      "nomeUrna": "MARISANE",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 183,
+      "percentual": 9.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002299618"
+    },
+    {
+      "nome": "ADRIANA RIBEIRO FIUZA BUGS",
+      "nomeUrna": "ADRIANA",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 174,
+      "percentual": 8.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002299620"
+    },
+    {
+      "nome": "JAQUELINE KONZEN DE OLIVEIRA",
+      "nomeUrna": "JAQUE",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 145,
+      "percentual": 7.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002361329"
+    },
+    {
+      "nome": "RITA DE CASSIA LAZZERI",
+      "nomeUrna": "RITA LAZZERI",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 142,
+      "percentual": 7.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002361344"
+    },
+    {
+      "nome": "DANIELA DA SILVA MORAES",
+      "nomeUrna": "DANIELA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 136,
+      "percentual": 6.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002361342"
+    },
+    {
+      "nome": "PAULO CESAR DOS SANTOS OLIVEIRA BRANDAO",
+      "nomeUrna": "PAULO CESAR BRANDAO",
+      "partido": "PDT",
+      "numero": "12789",
+      "votos": 126,
+      "percentual": 6.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002299619"
+    },
+    {
+      "nome": "PAULO CESAR OLIVEIRA DA SILVA",
+      "nomeUrna": "PAULAO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 119,
+      "percentual": 5.94,
+      "situacao": "Eleito por média",
+      "sqcand": "210002299617"
+    },
+    {
+      "nome": "FÁBIO RICARDO MOCELIN",
+      "nomeUrna": "FÁBIO MOCELIN",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 113,
+      "percentual": 5.64,
+      "situacao": "Eleito por média",
+      "sqcand": "210002361347"
+    },
+    {
+      "nome": "JOSÉ TESEU DEMETRIO",
+      "nomeUrna": "TESEU DEMETRIO",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 104,
+      "percentual": 5.19,
+      "situacao": "Eleito por média",
+      "sqcand": "210002360556"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 782,
+      "percentual": 53.2,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 461,
+      "percentual": 31.36,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 207,
+      "percentual": 14.08,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 244,
+      "percentual": 15.65,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 214,
+      "percentual": 13.73,
+      "sqcand": "210001621256"
+    },
+    {
+      "nome": "RICARDO WAGNER",
+      "nomeUrna": "RICARDO WAGNER",
+      "partido": "PTB",
+      "numero": "1415",
+      "votos": 189,
+      "percentual": 12.12,
+      "sqcand": "210001649220"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 166,
+      "percentual": 10.65,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 158,
+      "percentual": 10.13,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 105,
+      "percentual": 6.74,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 86,
+      "percentual": 5.52,
+      "sqcand": "210001647853"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ELIZANDRO SILVA DE FREITAS SABINO",
+      "nomeUrna": "ELIZANDRO SABINO",
+      "partido": "PTB",
+      "numero": "14777",
+      "votos": 192,
+      "percentual": 12.79,
+      "sqcand": "210001649774"
+    },
+    {
+      "nome": "LUANA NEILAND DA SILVA",
+      "nomeUrna": "LUANA NEILAND",
+      "partido": "PTB",
+      "numero": "14444",
+      "votos": 153,
+      "percentual": 10.19,
+      "sqcand": "210001649815"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 96,
+      "percentual": 6.4,
+      "sqcand": "210001621326"
+    },
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 85,
+      "percentual": 5.66,
+      "sqcand": "210001621320"
+    },
+    {
+      "nome": "ADOLFO JOSÉ BRITO",
+      "nomeUrna": "ADOLFO BRITO",
+      "partido": "PP",
+      "numero": "11240",
+      "votos": 85,
+      "percentual": 5.66,
+      "sqcand": "210001647147"
+    },
+    {
+      "nome": "ROBERTO FANTINEL",
+      "nomeUrna": "BETO FANTINEL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 69,
+      "percentual": 4.6,
+      "sqcand": "210001648003"
+    },
+    {
+      "nome": "CLAIR TOMÉ KUHN",
+      "nomeUrna": "CLAIR KUHN",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 65,
+      "percentual": 4.33,
+      "sqcand": "210001647986"
+    }
+  ]
+}

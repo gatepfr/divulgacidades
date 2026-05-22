@@ -1,0 +1,271 @@
+{
+  "populacao": 2550,
+  "votosValidos": 2154,
+  "abstencao": 12.24,
+  "prefeito": {
+    "nome": "OSMAR SAMPAIO",
+    "nomeUrna": "OSMARZINHO DA OFICINA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 1292,
+    "percentual": 59.98,
+    "situacao": "Eleito",
+    "sqcand": "250002009041",
+    "vice": "JOÃO BAPTISTA LUJAN",
+    "viceNomeUrna": "JOÃO LUJAN",
+    "partidoVice": "PODE",
+    "sqcandVice": "250002009040",
+    "coligacao": "UNIÃO / PSD / PODE / PL / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "VANESSA BRAGA DOS SANTOS",
+      "nomeUrna": "VANESSA BRAGA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 160,
+      "percentual": 7.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002260074"
+    },
+    {
+      "nome": "MARCOS ALVES DOS SANTOS",
+      "nomeUrna": "MARQUINHO DO GILBERTÃO",
+      "partido": "MDB",
+      "numero": "15151",
+      "votos": 142,
+      "percentual": 6.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002269677"
+    },
+    {
+      "nome": "LEANDRO RODRIGO SANGALETI",
+      "nomeUrna": "LEANDRO DA SAÚDE",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 126,
+      "percentual": 5.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002260069"
+    },
+    {
+      "nome": "JAIME FERREIRA DA SILVA",
+      "nomeUrna": "JAIMINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 124,
+      "percentual": 5.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002273472"
+    },
+    {
+      "nome": "RENATO BUENO",
+      "nomeUrna": "PROF RENATO FUMO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 124,
+      "percentual": 5.66,
+      "situacao": "Eleito por média",
+      "sqcand": "250002269679"
+    },
+    {
+      "nome": "PAULO CÉZAR ASSUNÇÃO",
+      "nomeUrna": "PAULINHO ASSUNÇÃO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 101,
+      "percentual": 4.61,
+      "situacao": "Eleito por média",
+      "sqcand": "250002260073"
+    },
+    {
+      "nome": "JOAQUIM DO NASCIMENTO COSTA",
+      "nomeUrna": "QUINCA",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 99,
+      "percentual": 4.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002274687"
+    },
+    {
+      "nome": "ITAMAR ALVES DE OLIVEIRA",
+      "nomeUrna": "ITAMAR DO BONITO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 85,
+      "percentual": 3.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002258340"
+    },
+    {
+      "nome": "RUI ANTONIO MIANI",
+      "nomeUrna": "RUI MIANI",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 82,
+      "percentual": 3.74,
+      "situacao": "Eleito por média",
+      "sqcand": "250002274688"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 732,
+      "percentual": 46.77,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 496,
+      "percentual": 31.69,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 306,
+      "percentual": 19.55,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCELO HERCOLIN",
+      "nomeUrna": "MARCELO HERCOLIN",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 155,
+      "percentual": 9.38,
+      "sqcand": "250001653330"
+    },
+    {
+      "nome": "MARCOS ANTONIO PEREIRA",
+      "nomeUrna": "MARCOS PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 153,
+      "percentual": 9.26,
+      "sqcand": "250001611863"
+    },
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 102,
+      "percentual": 6.17,
+      "sqcand": "250001612091"
+    },
+    {
+      "nome": "EDSON COELHO ARAÚJO FILHO",
+      "nomeUrna": "EDINHO FILHO",
+      "partido": "MDB",
+      "numero": "1502",
+      "votos": 91,
+      "percentual": 5.51,
+      "sqcand": "250001611275"
+    },
+    {
+      "nome": "LUIZ MARINHO",
+      "nomeUrna": "LUIZ MARINHO",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 79,
+      "percentual": 4.78,
+      "sqcand": "250001610678"
+    },
+    {
+      "nome": "RICARDO IZAR JUNIOR",
+      "nomeUrna": "RICARDO IZAR",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 72,
+      "percentual": 4.36,
+      "sqcand": "250001611892"
+    },
+    {
+      "nome": "MARCIO TADEU ANHAIA DE LEMOS",
+      "nomeUrna": "CORONEL TADEU",
+      "partido": "PL",
+      "numero": "2230",
+      "votos": 66,
+      "percentual": 4.0,
+      "sqcand": "250001611361"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 555,
+      "percentual": 35.06,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "CARLOS EDUARDO PIGNATARI",
+      "nomeUrna": "CARLÃO PIGNATARI",
+      "partido": "PSDB",
+      "numero": "45232",
+      "votos": 143,
+      "percentual": 9.03,
+      "sqcand": "250001611488"
+    },
+    {
+      "nome": "CARLOS ALBERTO GIANNASI",
+      "nomeUrna": "CARLOS GIANNAZI",
+      "partido": "PSOL",
+      "numero": "50789",
+      "votos": 103,
+      "percentual": 6.51,
+      "sqcand": "250001619320"
+    },
+    {
+      "nome": "JOSE DE SOUZA JUNIOR",
+      "nomeUrna": "SOUZA JÚNIOR",
+      "partido": "PRTB",
+      "numero": "28033",
+      "votos": 52,
+      "percentual": 3.28,
+      "sqcand": "250001699810"
+    },
+    {
+      "nome": "PAULO ROBERTO FIORILO",
+      "nomeUrna": "PAULO FIORILO",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 47,
+      "percentual": 2.97,
+      "sqcand": "250001611759"
+    },
+    {
+      "nome": "HELENA DOS SANTOS REIS",
+      "nomeUrna": "CORONEL HELENA",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 45,
+      "percentual": 2.84,
+      "sqcand": "250001639593"
+    },
+    {
+      "nome": "CASSIANO ROSADO CORREIA",
+      "nomeUrna": "CASSIANO ROSADO",
+      "partido": "PSB",
+      "numero": "40650",
+      "votos": 41,
+      "percentual": 2.59,
+      "sqcand": "250001620651"
+    }
+  ]
+}

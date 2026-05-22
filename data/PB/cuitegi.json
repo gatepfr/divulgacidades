@@ -1,0 +1,271 @@
+{
+  "populacao": 6206,
+  "votosValidos": 5070,
+  "abstencao": 14.32,
+  "prefeito": {
+    "nome": "GUILHERME CUNHA MADRUGA JUNIOR",
+    "nomeUrna": "GUILHERME MADRUGA",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 2886,
+    "percentual": 56.92,
+    "situacao": "Eleito",
+    "sqcand": "150001961015",
+    "vice": "FRANCISCO EDNALDO DE SOUZA LEITE",
+    "viceNomeUrna": "CHICO MALA",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "150002370068",
+    "coligacao": "PP / REPUBLICANOS / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "RAUL SERGIO SILVA DE MEIRELES",
+      "nomeUrna": "RAUL MEIRELES",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 375,
+      "percentual": 7.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002240947"
+    },
+    {
+      "nome": "EDSON BATISTA DOS SANTOS",
+      "nomeUrna": "EDINHO DA SAÚDE",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 329,
+      "percentual": 6.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001961137"
+    },
+    {
+      "nome": "WILLAME ROSENO LIMA",
+      "nomeUrna": "WILLAME LIMA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 314,
+      "percentual": 6.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001961011"
+    },
+    {
+      "nome": "SOLANGE BRITO DOS SANTOS",
+      "nomeUrna": "SOLANGE DE EDNALDO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 259,
+      "percentual": 5.05,
+      "situacao": "Eleito por média",
+      "sqcand": "150001961131"
+    },
+    {
+      "nome": "JOSE TAVEIRA FILHO",
+      "nomeUrna": "DEDÉ DE VICENTE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 222,
+      "percentual": 4.33,
+      "situacao": "Eleito por média",
+      "sqcand": "150002240945"
+    },
+    {
+      "nome": "MARIA DAS DORES VIANA DA SILVA",
+      "nomeUrna": "NENA DA MALHADA",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 194,
+      "percentual": 3.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002240975"
+    },
+    {
+      "nome": "CICERO GOMES INACIO",
+      "nomeUrna": "CÍCERO DA VERDURA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 193,
+      "percentual": 3.76,
+      "situacao": "Eleito por média",
+      "sqcand": "150002240969"
+    },
+    {
+      "nome": "MARLISON ALEXANDRE DOS SANTOS",
+      "nomeUrna": "MARLISON ALEXANDRE",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 178,
+      "percentual": 3.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001961327"
+    },
+    {
+      "nome": "JOANA D&apos;ARC DE ARAÚJO MONTEIRO",
+      "nomeUrna": "DARC DE GERMANO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 161,
+      "percentual": 3.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001961008"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1115,
+      "percentual": 33.78,
+      "sqcand": "150001718470"
+    },
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 972,
+      "percentual": 29.45,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 889,
+      "percentual": 26.93,
+      "sqcand": "150001643372"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ROBERTO RANIERY DE AQUINO PAULINO",
+      "nomeUrna": "RANIERY PAULINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1015",
+      "votos": 1027,
+      "percentual": 28.46,
+      "sqcand": "150001619552"
+    },
+    {
+      "nome": "RUY MANUEL CARNEIRO BARBOSA DE AÇA BELCHIOR",
+      "nomeUrna": "RUY CARNEIRO",
+      "partido": "PSC",
+      "numero": "2030",
+      "votos": 613,
+      "percentual": 16.99,
+      "sqcand": "150001612089"
+    },
+    {
+      "nome": "AGUINALDO VELLOSO BORGES RIBEIRO",
+      "nomeUrna": "AGUINALDO RIBEIRO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 595,
+      "percentual": 16.49,
+      "sqcand": "150001612065"
+    },
+    {
+      "nome": "JOSE CLAUDINO ALVES",
+      "nomeUrna": "DEDA CLAUDINO",
+      "partido": "MDB",
+      "numero": "1566",
+      "votos": 323,
+      "percentual": 8.95,
+      "sqcand": "150001643334"
+    },
+    {
+      "nome": "ISIS RAFAELA RODRIGUES DA SILVA",
+      "nomeUrna": "RAFAELA CAMARAENSE",
+      "partido": "PSB",
+      "numero": "4013",
+      "votos": 232,
+      "percentual": 6.43,
+      "sqcand": "150001621682"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 180,
+      "percentual": 4.99,
+      "sqcand": "150001619538"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 140,
+      "percentual": 3.88,
+      "sqcand": "150001718239"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CAMILA ARAUJO TOSCANO",
+      "nomeUrna": "CAMILA TOSCANO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 915,
+      "percentual": 26.24,
+      "sqcand": "150001621355"
+    },
+    {
+      "nome": "ANTONIO HERVAZIO BEZERRA CAVALCANTI",
+      "nomeUrna": "HERVAZIO BEZERRA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 634,
+      "percentual": 18.18,
+      "sqcand": "150001621657"
+    },
+    {
+      "nome": "SILVIA FERNANDA AIRES BENJAMIN",
+      "nomeUrna": "SILVIA BENJAMIN",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 445,
+      "percentual": 12.76,
+      "sqcand": "150001619562"
+    },
+    {
+      "nome": "RENATO DIAS MEIRELES",
+      "nomeUrna": "RENATO MEIRELES",
+      "partido": "PSB",
+      "numero": "40151",
+      "votos": 344,
+      "percentual": 9.87,
+      "sqcand": "150001621666"
+    },
+    {
+      "nome": "GEORGE VENTURA MORAIS",
+      "nomeUrna": "GEORGE MORAIS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 163,
+      "percentual": 4.67,
+      "sqcand": "150001603122"
+    },
+    {
+      "nome": "MELCHIOR NAELSON BATISTA DA SILVA",
+      "nomeUrna": "CHIÓ",
+      "partido": "REDE",
+      "numero": "18789",
+      "votos": 127,
+      "percentual": 3.64,
+      "sqcand": "150001621578"
+    },
+    {
+      "nome": "EDJANE SILVA ALVINO PANTA",
+      "nomeUrna": "DR. JANE PANTA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 119,
+      "percentual": 3.41,
+      "sqcand": "150001612058"
+    }
+  ]
+}

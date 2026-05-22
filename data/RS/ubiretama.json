@@ -1,0 +1,271 @@
+{
+  "populacao": 1918,
+  "votosValidos": 1780,
+  "abstencao": 6.0,
+  "prefeito": {
+    "nome": "RODRIGO DANIEL BLOCH",
+    "nomeUrna": "RODRIGO BLOCH",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 1279,
+    "percentual": 71.85,
+    "situacao": "Eleito",
+    "sqcand": "210002162249",
+    "vice": "ADAIR PAULO LAUERMANN",
+    "viceNomeUrna": "ADAIR PAULO LAUERMANN",
+    "partidoVice": "PT",
+    "sqcandVice": "210002162250",
+    "coligacao": "PDT / REPUBLICANOS / MDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "GILBERTO LUIS ROHLEDER",
+      "nomeUrna": "BETO ROHLEDER",
+      "partido": "PT",
+      "numero": "13200",
+      "votos": 194,
+      "percentual": 10.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002266684"
+    },
+    {
+      "nome": "DAVI WIEDE",
+      "nomeUrna": "DAVI WIEDE",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 145,
+      "percentual": 8.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002190809"
+    },
+    {
+      "nome": "LICEU KESSLER",
+      "nomeUrna": "LIZEU KESSLER",
+      "partido": "REPUBLICANOS",
+      "numero": "10610",
+      "votos": 124,
+      "percentual": 6.95,
+      "situacao": "Eleito por média",
+      "sqcand": "210002190807"
+    },
+    {
+      "nome": "CELSO TONN",
+      "nomeUrna": "CELSO TONN",
+      "partido": "PP",
+      "numero": "11650",
+      "votos": 116,
+      "percentual": 6.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002194908"
+    },
+    {
+      "nome": "TAINARA ABREU BERTOLO",
+      "nomeUrna": "TAINARA BERTOLO (NAIA)",
+      "partido": "PP",
+      "numero": "11038",
+      "votos": 89,
+      "percentual": 4.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002194907"
+    },
+    {
+      "nome": "MARCOS ADELAR SCHLEGER",
+      "nomeUrna": "MARQUINHOS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 86,
+      "percentual": 4.82,
+      "situacao": "Eleito por média",
+      "sqcand": "210002194910"
+    },
+    {
+      "nome": "GEORGE MOSKALA",
+      "nomeUrna": "GEORGE",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 82,
+      "percentual": 4.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002165258"
+    },
+    {
+      "nome": "NERESON LESKE",
+      "nomeUrna": "GRILO",
+      "partido": "PDT",
+      "numero": "12177",
+      "votos": 70,
+      "percentual": 3.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002165260"
+    },
+    {
+      "nome": "IVETE NATALIA NIESEIUR",
+      "nomeUrna": "IVETE NATALIA NIESEIUR",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 48,
+      "percentual": 2.69,
+      "situacao": "Eleito por média",
+      "sqcand": "210001994930"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 738,
+      "percentual": 51.39,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 437,
+      "percentual": 30.43,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 240,
+      "percentual": 16.71,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 256,
+      "percentual": 16.58,
+      "sqcand": "210001621256"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 133,
+      "percentual": 8.61,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 123,
+      "percentual": 7.97,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 114,
+      "percentual": 7.38,
+      "sqcand": "210001596134"
+    },
+    {
+      "nome": "UBIRATAN ANTUNES SANDERSON",
+      "nomeUrna": "SANDERSON",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 110,
+      "percentual": 7.12,
+      "sqcand": "210001648581"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 97,
+      "percentual": 6.28,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 92,
+      "percentual": 5.96,
+      "sqcand": "210001604668"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MIRO JESSE",
+      "nomeUrna": "MIRO JESSE",
+      "partido": "CIDADANIA",
+      "numero": "23023",
+      "votos": 344,
+      "percentual": 22.9,
+      "sqcand": "210001620196"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 128,
+      "percentual": 8.52,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "ALOISIO TALSO CLASSMANN",
+      "nomeUrna": "CLASSMANN",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 124,
+      "percentual": 8.26,
+      "sqcand": "210001601953"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 113,
+      "percentual": 7.52,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "APARECIDO MACEDO",
+      "nomeUrna": "CAPITÃO MACEDO PROFESSOR",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 104,
+      "percentual": 6.92,
+      "sqcand": "210001648961"
+    },
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 103,
+      "percentual": 6.86,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 99,
+      "percentual": 6.59,
+      "sqcand": "210001621320"
+    }
+  ]
+}

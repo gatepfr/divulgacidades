@@ -1,0 +1,271 @@
+{
+  "populacao": 4476,
+  "votosValidos": 3751,
+  "abstencao": 12.98,
+  "prefeito": {
+    "nome": "VINICIUS BARROSO ARAUJO",
+    "nomeUrna": "VINICIUS ARAUJO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1672,
+    "percentual": 44.57,
+    "situacao": "Eleito",
+    "sqcand": "130001945653",
+    "vice": "JOSIANE DE PAULA BENTO",
+    "viceNomeUrna": "JOSI",
+    "partidoVice": "PRD",
+    "sqcandVice": "130001945654",
+    "coligacao": "UNIÃO / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "LAURICIO LUIZ DA CUNHA RAMOS",
+      "nomeUrna": "LAURICIO DA SAÚDE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 360,
+      "percentual": 9.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001902157"
+    },
+    {
+      "nome": "ALINE OLIVEIRA PAIS",
+      "nomeUrna": "ALINE DO GEOVÁ",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 338,
+      "percentual": 9.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001902153"
+    },
+    {
+      "nome": "VIANES GERALDO DA SILVA",
+      "nomeUrna": "VIANES GERALDO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 247,
+      "percentual": 6.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002134205"
+    },
+    {
+      "nome": "THAYSON BOAVENTURA MOREIRA",
+      "nomeUrna": "THAYSON PACHECO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 230,
+      "percentual": 6.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001902160"
+    },
+    {
+      "nome": "ULYSSES OLIVEIRA LAGARES",
+      "nomeUrna": "ULYSSES LAGARES",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 190,
+      "percentual": 5.08,
+      "situacao": "Eleito por média",
+      "sqcand": "130001902158"
+    },
+    {
+      "nome": "RICARDO DOS SANTOS FARIA",
+      "nomeUrna": "RICARDO FARIA",
+      "partido": "MDB",
+      "numero": "15602",
+      "votos": 175,
+      "percentual": 4.68,
+      "situacao": "Eleito por média",
+      "sqcand": "130002134206"
+    },
+    {
+      "nome": "WILLIAN DA SILVA",
+      "nomeUrna": "WILLIAN TUCANO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 148,
+      "percentual": 3.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001945777"
+    },
+    {
+      "nome": "LUIZ ANTONIO DA SILVA",
+      "nomeUrna": "LUIZ ANTONIO PANGARÉ",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 139,
+      "percentual": 3.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001945771"
+    },
+    {
+      "nome": "LUCIANO TOLEDO FERNANDES",
+      "nomeUrna": "LUCIANO TOLEDO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 111,
+      "percentual": 2.97,
+      "situacao": "Eleito por média",
+      "sqcand": "130002134376"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 955,
+      "percentual": 34.34,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 929,
+      "percentual": 33.41,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 826,
+      "percentual": 29.7,
+      "sqcand": "130001671677"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO ABI-ACKEL",
+      "nomeUrna": "PAULO ABI-ACKEL",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 1011,
+      "percentual": 33.88,
+      "sqcand": "130001613373"
+    },
+    {
+      "nome": "MISAEL ARTUR FERREIRA VARELLA",
+      "nomeUrna": "MISAEL VARELLA",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 668,
+      "percentual": 22.39,
+      "sqcand": "130001604325"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 244,
+      "percentual": 8.18,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+      "nomeUrna": "ROGÉRIO CORREIA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 182,
+      "percentual": 6.1,
+      "sqcand": "130001607258"
+    },
+    {
+      "nome": "MÁRIO LÚCIO HERINGER",
+      "nomeUrna": "DR MÁRIO HERINGER",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 174,
+      "percentual": 5.83,
+      "sqcand": "130001606709"
+    },
+    {
+      "nome": "BRAULIO JOSE TANUS BRAZ",
+      "nomeUrna": "BRAULIO BRAZ",
+      "partido": "PTB",
+      "numero": "1444",
+      "votos": 105,
+      "percentual": 3.52,
+      "sqcand": "130001610899"
+    },
+    {
+      "nome": "NEWTON CARDOSO JÚNIOR",
+      "nomeUrna": "NEWTON CARDOSO JR",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 81,
+      "percentual": 2.71,
+      "sqcand": "130001668913"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TITO BRUNO MIRANDA TORRES DUARTE",
+      "nomeUrna": "TITO TORRES",
+      "partido": "PSD",
+      "numero": "55240",
+      "votos": 1270,
+      "percentual": 45.82,
+      "sqcand": "130001604353"
+    },
+    {
+      "nome": "IOANNIS KONSTANTINOS GRAMMATIKOPOULOS",
+      "nomeUrna": "GREGO",
+      "partido": "PMN",
+      "numero": "33033",
+      "votos": 369,
+      "percentual": 13.31,
+      "sqcand": "130001605806"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 165,
+      "percentual": 5.95,
+      "sqcand": "130001607392"
+    },
+    {
+      "nome": "WILSON ROBERTO BATISTA",
+      "nomeUrna": "DOUTOR WILSON BATISTA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 124,
+      "percentual": 4.47,
+      "sqcand": "130001604376"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 117,
+      "percentual": 4.22,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "ADALCLEVER RIBEIRO LOPES",
+      "nomeUrna": "ADALCLEVER LOPES",
+      "partido": "PSD",
+      "numero": "55015",
+      "votos": 109,
+      "percentual": 3.93,
+      "sqcand": "130001604384"
+    },
+    {
+      "nome": "ROBERTO CUPOLILLO",
+      "nomeUrna": "BETÃO",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 59,
+      "percentual": 2.13,
+      "sqcand": "130001607388"
+    }
+  ]
+}

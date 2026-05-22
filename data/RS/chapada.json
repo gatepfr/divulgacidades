@@ -1,0 +1,271 @@
+{
+  "populacao": 7921,
+  "votosValidos": 6290,
+  "abstencao": 11.96,
+  "prefeito": {
+    "nome": "GELSON MIGUEL SCHERER",
+    "nomeUrna": "GELSON SCHERER",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 5037,
+    "percentual": 80.08,
+    "situacao": "Eleito",
+    "sqcand": "210002155369",
+    "vice": "MOACIR ANTÔNIO GRETHE",
+    "viceNomeUrna": "MOACIR GRETHE",
+    "partidoVice": "PP",
+    "sqcandVice": "210002155370",
+    "coligacao": "REPUBLICANOS / PP / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "CASSIANO DREIFKE DA SILVA",
+      "nomeUrna": "TOISSO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 602,
+      "percentual": 8.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187284"
+    },
+    {
+      "nome": "MAICO ROBERTO HERMES",
+      "nomeUrna": "MAICO HERMES",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 506,
+      "percentual": 7.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002369849"
+    },
+    {
+      "nome": "ODELEI BACKES",
+      "nomeUrna": "ODELEI BACKES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 466,
+      "percentual": 6.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187282"
+    },
+    {
+      "nome": "LEONARDO ANDRÉ KRINDGES",
+      "nomeUrna": "LEONARDO KRINDGES",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 424,
+      "percentual": 6.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002136889"
+    },
+    {
+      "nome": "MARLEI INÊS RITTERBUSCH",
+      "nomeUrna": "MARLEI RITTERBUSCH",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 406,
+      "percentual": 5.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187286"
+    },
+    {
+      "nome": "GELCI SALETE BAUDINO DE MOURA",
+      "nomeUrna": "GELCI BAUDINO DE MOURA",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 403,
+      "percentual": 5.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187280"
+    },
+    {
+      "nome": "AGENOR FINCK",
+      "nomeUrna": "AGENOR FINCK",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 387,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002367647"
+    },
+    {
+      "nome": "GILMAR CASTANHO",
+      "nomeUrna": "CASTANHO",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 369,
+      "percentual": 5.43,
+      "situacao": "Eleito por média",
+      "sqcand": "210002187281"
+    },
+    {
+      "nome": "MARLENE SOARES",
+      "nomeUrna": "MARLENE SOARES",
+      "partido": "PL",
+      "numero": "22024",
+      "votos": 363,
+      "percentual": 5.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002330008"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2704,
+      "percentual": 47.46,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1836,
+      "percentual": 32.23,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1111,
+      "percentual": 19.5,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 922,
+      "percentual": 15.42,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 625,
+      "percentual": 10.45,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 423,
+      "percentual": 7.07,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 404,
+      "percentual": 6.75,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 331,
+      "percentual": 5.53,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "RONALDO NOGUEIRA DE OLIVEIRA",
+      "nomeUrna": "RONALDO NOGUEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1014",
+      "votos": 328,
+      "percentual": 5.48,
+      "sqcand": "210001601586"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 306,
+      "percentual": 5.12,
+      "sqcand": "210001647870"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1131,
+      "percentual": 19.65,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "MATEUS JOSE DE LIMA WESP",
+      "nomeUrna": "MATEUS WESP",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 428,
+      "percentual": 7.43,
+      "sqcand": "210001620219"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 374,
+      "percentual": 6.5,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "GERRI SAWARIS",
+      "nomeUrna": "GERRI SAWARIS",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 318,
+      "percentual": 5.52,
+      "sqcand": "210001610610"
+    },
+    {
+      "nome": "MARCIO ASSIS PATUSSI",
+      "nomeUrna": "MARCIO PATUSSI",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 231,
+      "percentual": 4.01,
+      "sqcand": "210001648956"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 213,
+      "percentual": 3.7,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "MARCUS VINÍCIUS VIEIRA DE ALMEIDA",
+      "nomeUrna": "MARCUS VINÍCIUS",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 199,
+      "percentual": 3.46,
+      "sqcand": "210001647184"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 8735,
+  "votosValidos": 7709,
+  "abstencao": 9.78,
+  "prefeito": {
+    "nome": "DOMINGOS MARCON",
+    "nomeUrna": "MARCON E PASINATO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3722,
+    "percentual": 48.28,
+    "situacao": "Eleito",
+    "sqcand": "240001952680",
+    "vice": "IDIVAR PLÁCIDO PASINATO",
+    "viceNomeUrna": "MARCON E PASINATO",
+    "partidoVice": "PL",
+    "sqcandVice": "240001952681",
+    "coligacao": "REPUBLICANOS / MDB / PODE / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "ALEXANDRE SALLA DALACORT",
+      "nomeUrna": "ALEXANDRE DALACORT",
+      "partido": "MDB",
+      "numero": "15680",
+      "votos": 585,
+      "percentual": 7.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001949715"
+    },
+    {
+      "nome": "ELISABET GRANDO",
+      "nomeUrna": "BETH GRANDO",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 555,
+      "percentual": 7.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001949717"
+    },
+    {
+      "nome": "VOLMIR JOSÉ COSSUL",
+      "nomeUrna": "VOLMIR COSSUL",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 442,
+      "percentual": 5.75,
+      "situacao": "Eleito por média",
+      "sqcand": "240001949716"
+    },
+    {
+      "nome": "CLAUDEMIR LUIZ PARMIGIANI",
+      "nomeUrna": "PARMIGIANI",
+      "partido": "PL",
+      "numero": "22800",
+      "votos": 404,
+      "percentual": 5.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001954724"
+    },
+    {
+      "nome": "ERCI JOSE VIAPIANA",
+      "nomeUrna": "ERCI J VIAPIANA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 385,
+      "percentual": 5.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001989141"
+    },
+    {
+      "nome": "GERSON FERRONATTO",
+      "nomeUrna": "GERSON FERRONATTO TACHINHA",
+      "partido": "PT",
+      "numero": "13393",
+      "votos": 367,
+      "percentual": 4.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002200414"
+    },
+    {
+      "nome": "CRISTIANE FRANCIELE FINGER",
+      "nomeUrna": "CRISTIANE FINGER",
+      "partido": "PT",
+      "numero": "13654",
+      "votos": 312,
+      "percentual": 4.06,
+      "situacao": "Eleito por média",
+      "sqcand": "240002200412"
+    },
+    {
+      "nome": "JACIR CAVION",
+      "nomeUrna": "NEGO GAVIÃO",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 302,
+      "percentual": 3.93,
+      "situacao": "Eleito por média",
+      "sqcand": "240001954721"
+    },
+    {
+      "nome": "MAICON LUAN OGLIARI",
+      "nomeUrna": "MAICON LUAN OGLIARI",
+      "partido": "UNIÃO",
+      "numero": "44890",
+      "votos": 296,
+      "percentual": 3.85,
+      "situacao": "Eleito por média",
+      "sqcand": "240001989133"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1964,
+      "percentual": 30.75,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1824,
+      "percentual": 28.55,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1296,
+      "percentual": 20.29,
+      "sqcand": "240001611131"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 1856,
+      "percentual": 27.4,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "FABIO LUIZ SCHIOCHET FILHO",
+      "nomeUrna": "FABIO SCHIOCHET",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1627,
+      "percentual": 24.02,
+      "sqcand": "240001604521"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 472,
+      "percentual": 6.97,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 312,
+      "percentual": 4.61,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "VALDIR COLATTO",
+      "nomeUrna": "VALDIR COLATTO",
+      "partido": "PL",
+      "numero": "2216",
+      "votos": 286,
+      "percentual": 4.22,
+      "sqcand": "240001610966"
+    },
+    {
+      "nome": "RICARDO JOÃO PELUSO ALBA",
+      "nomeUrna": "ALBA",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 238,
+      "percentual": 3.51,
+      "sqcand": "240001604515"
+    },
+    {
+      "nome": "DANIELA CRISTINA REINEHR",
+      "nomeUrna": "DANIELA REINEHR",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 210,
+      "percentual": 3.1,
+      "sqcand": "240001610968"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAURO DE NADAL",
+      "nomeUrna": "MAURO DE NADAL",
+      "partido": "MDB",
+      "numero": "15220",
+      "votos": 1458,
+      "percentual": 22.29,
+      "sqcand": "240001605913"
+    },
+    {
+      "nome": "PEDRO BALDISSERA",
+      "nomeUrna": "PADRE PEDRO",
+      "partido": "PT",
+      "numero": "13987",
+      "votos": 1158,
+      "percentual": 17.7,
+      "sqcand": "240001679648"
+    },
+    {
+      "nome": "FABIANO DA LUZ",
+      "nomeUrna": "FABIANO DA LUZ",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 633,
+      "percentual": 9.68,
+      "sqcand": "240001679627"
+    },
+    {
+      "nome": "JOÃO MARIA MARQUES ROSA",
+      "nomeUrna": "DR JOÃO",
+      "partido": "UNIÃO",
+      "numero": "44400",
+      "votos": 350,
+      "percentual": 5.35,
+      "sqcand": "240001616181"
+    },
+    {
+      "nome": "ROSIMAR MALDANER",
+      "nomeUrna": "ROSI MALDANER",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 275,
+      "percentual": 4.2,
+      "sqcand": "240001605910"
+    },
+    {
+      "nome": "LUCIANE MARIA CARMINATTI",
+      "nomeUrna": "LUCIANE CARMINATTI",
+      "partido": "PT",
+      "numero": "13601",
+      "votos": 257,
+      "percentual": 3.93,
+      "sqcand": "240001679643"
+    },
+    {
+      "nome": "JOSÉ MARIO DRESCH",
+      "nomeUrna": "ZÉ DRESCH",
+      "partido": "REPUBLICANOS",
+      "numero": "10147",
+      "votos": 254,
+      "percentual": 3.88,
+      "sqcand": "240001610205"
+    }
+  ]
+}

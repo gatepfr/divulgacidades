@@ -1,0 +1,271 @@
+{
+  "populacao": 3314,
+  "votosValidos": 2957,
+  "abstencao": 8.33,
+  "prefeito": {
+    "nome": "SOLANGE BACK",
+    "nomeUrna": "SOLANGE BACK",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1511,
+    "percentual": 51.1,
+    "situacao": "Eleito",
+    "sqcand": "240002266865",
+    "vice": "RANGEL DE SOUZA",
+    "viceNomeUrna": "RANGEL DE SOUZA",
+    "partidoVice": "MDB",
+    "sqcandVice": "240002266866",
+    "coligacao": "MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCELLI MATES",
+      "nomeUrna": "MARCELLI MATES",
+      "partido": "PODE",
+      "numero": "20220",
+      "votos": 247,
+      "percentual": 8.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002054780"
+    },
+    {
+      "nome": "MARIA APARECIDA STEFFEN",
+      "nomeUrna": "CIDA DA SAÚDE",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 219,
+      "percentual": 7.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002268310"
+    },
+    {
+      "nome": "MARIA APARECIDA DE PIERI COELHO",
+      "nomeUrna": "NEGA",
+      "partido": "PODE",
+      "numero": "20450",
+      "votos": 208,
+      "percentual": 6.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002054784"
+    },
+    {
+      "nome": "ELISABETE APARECIDA DOS SANTOS",
+      "nomeUrna": "BETE",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 201,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002027417"
+    },
+    {
+      "nome": "ALESSANDRA ALVES DE OLIVEIRA",
+      "nomeUrna": "ALE DA PIPOCA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 183,
+      "percentual": 6.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002268311"
+    },
+    {
+      "nome": "SALÉSIO EFFTING",
+      "nomeUrna": "SALESIO",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 182,
+      "percentual": 6.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002268314"
+    },
+    {
+      "nome": "ANTÔNIO GERÔNIMO",
+      "nomeUrna": "ANTÔNIO GERÔNIMO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 152,
+      "percentual": 5.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002268316"
+    },
+    {
+      "nome": "PAULO STEFFEN",
+      "nomeUrna": "PAULINHO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 150,
+      "percentual": 5.03,
+      "situacao": "Eleito por média",
+      "sqcand": "240002268315"
+    },
+    {
+      "nome": "SANDRO STEFFENS JUNIOR",
+      "nomeUrna": "JUNINHO",
+      "partido": "PODE",
+      "numero": "20234",
+      "votos": 149,
+      "percentual": 5.0,
+      "situacao": "Eleito por média",
+      "sqcand": "240002054783"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 671,
+      "percentual": 29.61,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 557,
+      "percentual": 24.58,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 487,
+      "percentual": 21.49,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ FERNANDO CARDOSO",
+      "nomeUrna": "VAMPIRO",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 371,
+      "percentual": 15.85,
+      "sqcand": "240001602682"
+    },
+    {
+      "nome": "MARLENE FENGLER",
+      "nomeUrna": "MARLENE FENGLER",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 258,
+      "percentual": 11.02,
+      "sqcand": "240001611141"
+    },
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 176,
+      "percentual": 7.52,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 124,
+      "percentual": 5.3,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "ANGELA REGINA HEINZEN AMIN HELOU",
+      "nomeUrna": "ANGELA AMIN",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 117,
+      "percentual": 5.0,
+      "sqcand": "240001644888"
+    },
+    {
+      "nome": "DARCI DE MATOS",
+      "nomeUrna": "DARCI DE MATOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 117,
+      "percentual": 5.0,
+      "sqcand": "240001611136"
+    },
+    {
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nomeUrna": "JULIA ZANATTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 103,
+      "percentual": 4.4,
+      "sqcand": "240001610974"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VOLNEI WEBER",
+      "nomeUrna": "VOLNEI WEBER",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 425,
+      "percentual": 18.17,
+      "sqcand": "240001605921"
+    },
+    {
+      "nome": "CAMILO NAZARENO PAGANI MARTINS",
+      "nomeUrna": "CAMILO MARTINS",
+      "partido": "PODE",
+      "numero": "19369",
+      "votos": 328,
+      "percentual": 14.02,
+      "sqcand": "240001610835"
+    },
+    {
+      "nome": "DIRCE APARECIDA HEIDERSCHEIDT",
+      "nomeUrna": "DIRCE HEIDERSCHEIDT",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 227,
+      "percentual": 9.71,
+      "sqcand": "240001605925"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 161,
+      "percentual": 6.88,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "JULIO CÉSAR GARCIA",
+      "nomeUrna": "JULIO GARCIA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 135,
+      "percentual": 5.77,
+      "sqcand": "240001614390"
+    },
+    {
+      "nome": "JOÃO ANTÔNIO HEINZEN AMIN HELOU",
+      "nomeUrna": "JOÃO AMIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 85,
+      "percentual": 3.63,
+      "sqcand": "240001644765"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 84,
+      "percentual": 3.59,
+      "sqcand": "240001612502"
+    }
+  ]
+}

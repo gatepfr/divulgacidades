@@ -1,0 +1,271 @@
+{
+  "populacao": 3723,
+  "votosValidos": 3103,
+  "abstencao": 13.99,
+  "prefeito": {
+    "nome": "MAX NYLTON BARBOSA DA SILVA",
+    "nomeUrna": "MAX BARBOSA",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2312,
+    "percentual": 74.51,
+    "situacao": "Eleito",
+    "sqcand": "270002189338",
+    "vice": "JOÃO FILHO ALVES",
+    "viceNomeUrna": "PIO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "270002189339",
+    "coligacao": "REPUBLICANOS / PP / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ANGELA MARIA SANCHES PEREIRA",
+      "nomeUrna": "ÂNGELA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 290,
+      "percentual": 9.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002256312"
+    },
+    {
+      "nome": "JUAIRAM BORGES TAVORA",
+      "nomeUrna": "JUAIRAM BORGES",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 238,
+      "percentual": 7.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002305444"
+    },
+    {
+      "nome": "JUSSY JÚNIOR PINTO DA SILVA",
+      "nomeUrna": "JUNIOR BREGA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 232,
+      "percentual": 7.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002256317"
+    },
+    {
+      "nome": "ARLY CASSIA PEREIRA DE SOUZA",
+      "nomeUrna": "ARLY DO BAR",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 221,
+      "percentual": 7.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002256313"
+    },
+    {
+      "nome": "CICERO ALVES SOUSA",
+      "nomeUrna": "CICERO ALVES",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 213,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002305603"
+    },
+    {
+      "nome": "JHON LUCAS MORAIS SANTOS",
+      "nomeUrna": "JHON LUCAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 212,
+      "percentual": 6.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002305606"
+    },
+    {
+      "nome": "MURILO SOUSA LEITE",
+      "nomeUrna": "MURILO BRASIL",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 179,
+      "percentual": 5.67,
+      "situacao": "Eleito por média",
+      "sqcand": "270002305607"
+    },
+    {
+      "nome": "GABRIEL ROSA ALVES",
+      "nomeUrna": "GABRIEL DO DITO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 173,
+      "percentual": 5.48,
+      "situacao": "Eleito por média",
+      "sqcand": "270002256314"
+    },
+    {
+      "nome": "FRANCISCO JERONIMO DE SOUSA SILVA",
+      "nomeUrna": "GORDO DO PEZIM",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 106,
+      "percentual": 3.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002193445"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA AUXILIADORA SEABRA REZENDE",
+      "nomeUrna": "PROFESSORA DORINHA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1581,
+      "percentual": 59.89,
+      "sqcand": "270001649254"
+    },
+    {
+      "nome": "KATIA REGINA DE ABREU GOMES",
+      "nomeUrna": "KATIA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 413,
+      "percentual": 15.64,
+      "sqcand": "270001713170"
+    },
+    {
+      "nome": "ATAIDES DE OLIVEIRA",
+      "nomeUrna": "ATAÍDES DE OLIVEIRA",
+      "partido": "PROS",
+      "numero": "900",
+      "votos": 294,
+      "percentual": 11.14,
+      "sqcand": "270001609016"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VICENTE ALVES DE OLIVEIRA JUNIOR",
+      "nomeUrna": "VICENTINHO JUNIOR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1198,
+      "percentual": 44.16,
+      "sqcand": "270001643407"
+    },
+    {
+      "nome": "JOSÉ ALEXANDRE DOMINGUES GUIMARÃES",
+      "nomeUrna": "ALEXANDRE GUIMARÃES",
+      "partido": "REPUBLICANOS",
+      "numero": "1088",
+      "votos": 240,
+      "percentual": 8.85,
+      "sqcand": "270001654160"
+    },
+    {
+      "nome": "RICARDO AYRES DE CARVALHO",
+      "nomeUrna": "RICARDO AYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 181,
+      "percentual": 6.67,
+      "sqcand": "270001654164"
+    },
+    {
+      "nome": "TIAGO DIMAS BRAGA PEREIRA",
+      "nomeUrna": "TIAGO DIMAS",
+      "partido": "PODE",
+      "numero": "1988",
+      "votos": 174,
+      "percentual": 6.41,
+      "sqcand": "270001642303"
+    },
+    {
+      "nome": "OSIRES RODRIGUES DAMASO",
+      "nomeUrna": "OSIRES DAMASO",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 143,
+      "percentual": 5.27,
+      "sqcand": "270001672961"
+    },
+    {
+      "nome": "CÉLIO ALVES DE MOURA",
+      "nomeUrna": "CÉLIO MOURA",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 115,
+      "percentual": 4.24,
+      "sqcand": "270001612026"
+    },
+    {
+      "nome": "ANGELA MARIA SILVA",
+      "nomeUrna": "DRA ANGELA DA FACIT",
+      "partido": "UNIÃO",
+      "numero": "4410",
+      "votos": 81,
+      "percentual": 2.99,
+      "sqcand": "270001643524"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ISSAM SAADO",
+      "nomeUrna": "ISSAM SAADO",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 806,
+      "percentual": 30.46,
+      "sqcand": "270001654150"
+    },
+    {
+      "nome": "FABION GOMES DE SOUSA",
+      "nomeUrna": "FABION GOMES",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 389,
+      "percentual": 14.7,
+      "sqcand": "270001643584"
+    },
+    {
+      "nome": "JORGE FREDERICO",
+      "nomeUrna": "JORGE FREDERICO",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 319,
+      "percentual": 12.06,
+      "sqcand": "270001654141"
+    },
+    {
+      "nome": "ELENIL DA PENHA ALVES DE BRITO",
+      "nomeUrna": "ELENIL",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 147,
+      "percentual": 5.56,
+      "sqcand": "270001700076"
+    },
+    {
+      "nome": "JANAD MARQUES DE FREITAS VALCARI",
+      "nomeUrna": "PROFESSORA JANAD VALCARI",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 119,
+      "percentual": 4.5,
+      "sqcand": "270001643585"
+    },
+    {
+      "nome": "LUANA MATILDE RIBEIRO LIMA",
+      "nomeUrna": "LUANA RIBEIRO",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 97,
+      "percentual": 3.67,
+      "sqcand": "270001620123"
+    },
+    {
+      "nome": "MIQUÉIAS DAVID SANTOS PEREIRA",
+      "nomeUrna": "PASTOR MIQUÉIAS DAVID",
+      "partido": "CIDADANIA",
+      "numero": "23023",
+      "votos": 95,
+      "percentual": 3.59,
+      "sqcand": "270001643137"
+    }
+  ]
+}

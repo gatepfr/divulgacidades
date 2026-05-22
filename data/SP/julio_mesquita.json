@@ -1,0 +1,271 @@
+{
+  "populacao": 3778,
+  "votosValidos": 3262,
+  "abstencao": 10.91,
+  "prefeito": {
+    "nome": "ELTON FRANCISCO DE BRITO",
+    "nomeUrna": "ELTON",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2072,
+    "percentual": 63.52,
+    "situacao": "Eleito",
+    "sqcand": "250002210448",
+    "vice": "SEBASTIAO INACIO SILVA",
+    "viceNomeUrna": "TIAO FEIJAO",
+    "partidoVice": "PSDB",
+    "sqcandVice": "250002210447",
+    "coligacao": "PP / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "RODRIGO FONSECA DE MIRA",
+      "nomeUrna": "RODRIGO DO ZÉ DA CARNE",
+      "partido": "PSDB",
+      "numero": "45600",
+      "votos": 285,
+      "percentual": 8.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002271470"
+    },
+    {
+      "nome": "PATRICIA CRISTINA ROMERO",
+      "nomeUrna": "PATRICIA DO POSTO",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 260,
+      "percentual": 7.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002271477"
+    },
+    {
+      "nome": "JOSE VIANA DA SILVA",
+      "nomeUrna": "ZÉ VIANA",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 231,
+      "percentual": 7.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002271478"
+    },
+    {
+      "nome": "VALMIR LEITE",
+      "nomeUrna": "VALMIR LEITE",
+      "partido": "PP",
+      "numero": "11334",
+      "votos": 216,
+      "percentual": 6.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002236644"
+    },
+    {
+      "nome": "PEDRO HENRIQUE DE SOUZA BARBOSA",
+      "nomeUrna": "PEPE",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 199,
+      "percentual": 6.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002236646"
+    },
+    {
+      "nome": "WAGNER ALVES DA SILVA",
+      "nomeUrna": "WAGUINHO DA BAIA",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 157,
+      "percentual": 4.82,
+      "situacao": "Eleito por média",
+      "sqcand": "250002271476"
+    },
+    {
+      "nome": "SEBASTIÃO APARECIDO FELIX DE OLIVEIRA",
+      "nomeUrna": "TIÃOZINHO DO JONAS",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 146,
+      "percentual": 4.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002127502"
+    },
+    {
+      "nome": "CLAUDIO AMORIN DOS REIS",
+      "nomeUrna": "CLAUDINHO DA ALMERINDA",
+      "partido": "PSD",
+      "numero": "55146",
+      "votos": 130,
+      "percentual": 3.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002127540"
+    },
+    {
+      "nome": "ANA CAROLINA DOS SANTOS REGINALDO",
+      "nomeUrna": "ANA DO VALQUIMAR",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 129,
+      "percentual": 3.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002127547"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1017,
+      "percentual": 42.89,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 936,
+      "percentual": 39.48,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 375,
+      "percentual": 15.82,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ELTON FRANCISCO DE BRITO",
+      "nomeUrna": "ELTON",
+      "partido": "PSDB",
+      "numero": "4508",
+      "votos": 499,
+      "percentual": 19.55,
+      "sqcand": "250001612128"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 185,
+      "percentual": 7.25,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "WALTER SHINDI IIHOSHI",
+      "nomeUrna": "WALTER IHOSHI",
+      "partido": "PSD",
+      "numero": "5570",
+      "votos": 179,
+      "percentual": 7.01,
+      "sqcand": "250001604962"
+    },
+    {
+      "nome": "NILTO IGNÁCIO TATTO",
+      "nomeUrna": "NILTO TATTO",
+      "partido": "PT",
+      "numero": "1353",
+      "votos": 137,
+      "percentual": 5.37,
+      "sqcand": "250001610688"
+    },
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 120,
+      "percentual": 4.7,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "VINICIUS RAPOZO DE CARVALHO",
+      "nomeUrna": "VINICIUS CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1085",
+      "votos": 113,
+      "percentual": 4.43,
+      "sqcand": "250001611851"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 89,
+      "percentual": 3.49,
+      "sqcand": "250001612102"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 618,
+      "percentual": 26.09,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "ROQUE BARBIERE",
+      "nomeUrna": "ROQUE BARBIERE ROQUINHO",
+      "partido": "AVANTE",
+      "numero": "70160",
+      "votos": 264,
+      "percentual": 11.14,
+      "sqcand": "250001621713"
+    },
+    {
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "nomeUrna": "DANI ALONSO",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 238,
+      "percentual": 10.05,
+      "sqcand": "250001610113"
+    },
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 118,
+      "percentual": 4.98,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "MARCIA APARECIDA OVEJANEDA LIA",
+      "nomeUrna": "MARCIA LIA",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 81,
+      "percentual": 3.42,
+      "sqcand": "250001611775"
+    },
+    {
+      "nome": "ALINE CARBALLO TEIXEIRA",
+      "nomeUrna": "ALINE TEIXEIRA",
+      "partido": "UNIÃO",
+      "numero": "44156",
+      "votos": 79,
+      "percentual": 3.33,
+      "sqcand": "250001602150"
+    },
+    {
+      "nome": "CRISTIANY DE CASTRO",
+      "nomeUrna": "DRA. CRISTIANY",
+      "partido": "PL",
+      "numero": "22099",
+      "votos": 65,
+      "percentual": 2.74,
+      "sqcand": "250001610203"
+    }
+  ]
+}

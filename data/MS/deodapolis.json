@@ -1,0 +1,271 @@
+{
+  "populacao": 10809,
+  "votosValidos": 7769,
+  "abstencao": 22.47,
+  "prefeito": {
+    "nome": "JEAN CARLOS SILVA GOMES",
+    "nomeUrna": "JEAN DA SAÚDE",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 5709,
+    "percentual": 73.48,
+    "situacao": "Eleito",
+    "sqcand": "120002290504",
+    "vice": "MARCIO DE PAULA RIBEIRO",
+    "viceNomeUrna": "MARCINHO DO FRIGOMAR",
+    "partidoVice": "PSDB",
+    "sqcandVice": "120002290503",
+    "coligacao": "REPUBLICANOS / PODE / PSD / CIDADANIA / PSDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "CICERO ALEXANDRE DA SILVA",
+      "nomeUrna": "CICINHO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 557,
+      "percentual": 6.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002073774"
+    },
+    {
+      "nome": "CARLOS DE LIMA NETO JUNIOR",
+      "nomeUrna": "JUNINHO LIMA",
+      "partido": "REPUBLICANOS",
+      "numero": "10611",
+      "votos": 413,
+      "percentual": 5.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002086829"
+    },
+    {
+      "nome": "EDMILSON PRATES DE SOUZA",
+      "nomeUrna": "EDMILSON DA BANDA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 363,
+      "percentual": 4.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002292046"
+    },
+    {
+      "nome": "FRANCISCO EUZÉBIO DE OLIVEIRA",
+      "nomeUrna": "PROFESSOR CHICO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 361,
+      "percentual": 4.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002073781"
+    },
+    {
+      "nome": "DONIZETE JOSÉ DOS SANTOS",
+      "nomeUrna": "DONIZETE POLÍCIA",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 325,
+      "percentual": 4.03,
+      "situacao": "Eleito por média",
+      "sqcand": "120002292042"
+    },
+    {
+      "nome": "FERNANDA MAIARA CASUSA",
+      "nomeUrna": "FERNANDINHA CAZUZA",
+      "partido": "PSD",
+      "numero": "55321",
+      "votos": 268,
+      "percentual": 3.33,
+      "situacao": "Eleito por média",
+      "sqcand": "120002073776"
+    },
+    {
+      "nome": "GILBERTO DIAS GUIMARAES",
+      "nomeUrna": "GILBERTO DA NONA",
+      "partido": "PP",
+      "numero": "11699",
+      "votos": 258,
+      "percentual": 3.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002074453"
+    },
+    {
+      "nome": "WANDERLEY DE ASSIS BATISTA CARVALHO",
+      "nomeUrna": "WAN DO PORTO VILMA",
+      "partido": "MDB",
+      "numero": "15088",
+      "votos": 241,
+      "percentual": 2.99,
+      "situacao": "Eleito por média",
+      "sqcand": "120002315774"
+    },
+    {
+      "nome": "ELVIS PEREIRA DE LIMA",
+      "nomeUrna": "ELVIS PELINHA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 235,
+      "percentual": 2.92,
+      "situacao": "Eleito por média",
+      "sqcand": "120002086790"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 4944,
+      "percentual": 69.64,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 947,
+      "percentual": 13.34,
+      "sqcand": "120001609096"
+    },
+    {
+      "nome": "TIAGO RESENDE BOTELHO",
+      "nomeUrna": "PROFESSOR TIAGO BOTELHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 824,
+      "percentual": 11.61,
+      "sqcand": "120001652251"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nomeUrna": "DR. GERALDO RESENDE",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 1062,
+      "percentual": 14.96,
+      "sqcand": "120001612324"
+    },
+    {
+      "nome": "FLÁVIO PEREIRA MOURA",
+      "nomeUrna": "FLÁVIO CABO ALMI",
+      "partido": "PODE",
+      "numero": "1969",
+      "votos": 848,
+      "percentual": 11.94,
+      "sqcand": "120001613515"
+    },
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 589,
+      "percentual": 8.3,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "LUIZ ALBERTO OVANDO",
+      "nomeUrna": "DR. LUIZ OVANDO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 447,
+      "percentual": 6.3,
+      "sqcand": "120001645933"
+    },
+    {
+      "nome": "RODOLFO OLIVEIRA NOGUEIRA",
+      "nomeUrna": "RODOLFO NOGUEIRA",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 385,
+      "percentual": 5.42,
+      "sqcand": "120001614260"
+    },
+    {
+      "nome": "DAGOBERTO NOGUEIRA FILHO",
+      "nomeUrna": "DAGOBERTO",
+      "partido": "PSDB",
+      "numero": "4512",
+      "votos": 378,
+      "percentual": 5.32,
+      "sqcand": "120001612322"
+    },
+    {
+      "nome": "MARCOS SBOROWSKI POLLON",
+      "nomeUrna": "MARCOS POLLON",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 360,
+      "percentual": 5.07,
+      "sqcand": "120001614258"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ ROBERTO TEIXEIRA",
+      "nomeUrna": "ZÉ TEIXEIRA",
+      "partido": "PSDB",
+      "numero": "45121",
+      "votos": 1305,
+      "percentual": 18.87,
+      "sqcand": "120001613590"
+    },
+    {
+      "nome": "LONDRES MACHADO",
+      "nomeUrna": "LONDRES MACHADO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 827,
+      "percentual": 11.96,
+      "sqcand": "120001645383"
+    },
+    {
+      "nome": "JAMILSON LOPES NAME",
+      "nomeUrna": "JAMILSON NAME",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 359,
+      "percentual": 5.19,
+      "sqcand": "120001613597"
+    },
+    {
+      "nome": "OSWALDO MOCHI JUNIOR",
+      "nomeUrna": "JUNIOR MOCHI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 229,
+      "percentual": 3.31,
+      "sqcand": "120001643162"
+    },
+    {
+      "nome": "RINALDO MODESTO DE OLIVEIRA",
+      "nomeUrna": "PROFESSOR RINALDO MODESTO",
+      "partido": "PODE",
+      "numero": "19019",
+      "votos": 219,
+      "percentual": 3.17,
+      "sqcand": "120001615778"
+    },
+    {
+      "nome": "JOSÉ ORCÍRIO MIRANDA DOS SANTOS",
+      "nomeUrna": "ZECA DO PT",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 180,
+      "percentual": 2.6,
+      "sqcand": "120001652312"
+    },
+    {
+      "nome": "ANTONIO VAZ NETO",
+      "nomeUrna": "ANTONIO VAZ",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 174,
+      "percentual": 2.52,
+      "sqcand": "120001615139"
+    }
+  ]
+}

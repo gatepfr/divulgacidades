@@ -1,0 +1,271 @@
+{
+  "populacao": 3044,
+  "votosValidos": 2671,
+  "abstencao": 9.99,
+  "prefeito": {
+    "nome": "JOAO PEDRO MAGON",
+    "nomeUrna": "JOAO PEDRO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1381,
+    "percentual": 51.7,
+    "situacao": "Eleito",
+    "sqcand": "160001950388",
+    "vice": "JOAO APARECIDO VIEIRA DE LIMA",
+    "viceNomeUrna": "JOAOZINHO CRENTE",
+    "partidoVice": "MDB",
+    "sqcandVice": "160001950387",
+    "coligacao": "MDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ANDERSON PEREIRA CHAVES",
+      "nomeUrna": "ANDERSON DO DEPÓSITO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 253,
+      "percentual": 9.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002322031"
+    },
+    {
+      "nome": "EBISOM DE SOUZA QUEVEDO",
+      "nomeUrna": "EBISOM",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 189,
+      "percentual": 7.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001950497"
+    },
+    {
+      "nome": "MARCIA APARECIDA DA SILVA",
+      "nomeUrna": "MARCIA DO VANIL",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 156,
+      "percentual": 5.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002322034"
+    },
+    {
+      "nome": "MARCIO FABRICIO DE OLIVEIRA",
+      "nomeUrna": "MARCIO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 147,
+      "percentual": 5.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001950494"
+    },
+    {
+      "nome": "CRISTIAN CARLOS DE FREITAS",
+      "nomeUrna": "CRISTIAN FREITAS",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 146,
+      "percentual": 5.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001950568"
+    },
+    {
+      "nome": "THAIS PATRICIA DA SILVA",
+      "nomeUrna": "THAIS ENFERMEIRA",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 116,
+      "percentual": 4.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001950570"
+    },
+    {
+      "nome": "EDVALDO REINALDO DA SILVA",
+      "nomeUrna": "SARGENTO EDVALDO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 109,
+      "percentual": 4.07,
+      "situacao": "Eleito por média",
+      "sqcand": "160001950491"
+    },
+    {
+      "nome": "EDER SERGIO MAGON",
+      "nomeUrna": "EDINHO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 106,
+      "percentual": 3.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002140881"
+    },
+    {
+      "nome": "MARLI MARTINS MUNHOS FRANCO",
+      "nomeUrna": "PROFª MARLI MUNHOS",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 102,
+      "percentual": 3.81,
+      "situacao": "Eleito por média",
+      "sqcand": "160002140878"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 930,
+      "percentual": 45.04,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 493,
+      "percentual": 23.87,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 467,
+      "percentual": 22.62,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 426,
+      "percentual": 19.47,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 417,
+      "percentual": 19.06,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 207,
+      "percentual": 9.46,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "JOSE FERREIRA DOS SANTOS",
+      "nomeUrna": "CARLINHOS VIDENTE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7711",
+      "votos": 189,
+      "percentual": 8.64,
+      "sqcand": "160001614457"
+    },
+    {
+      "nome": "MARCELA VALERIA MAGON",
+      "nomeUrna": "MARCELA MAGON",
+      "partido": "PL",
+      "numero": "2288",
+      "votos": 160,
+      "percentual": 7.31,
+      "sqcand": "160001622027"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 136,
+      "percentual": 6.22,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 95,
+      "percentual": 4.34,
+      "sqcand": "160001614512"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARTAGÃO DE MATTOS LEÃO JÚNIOR",
+      "nomeUrna": "ARTAGÃO JÚNIOR",
+      "partido": "PSD",
+      "numero": "55015",
+      "votos": 563,
+      "percentual": 27.41,
+      "sqcand": "160001623107"
+    },
+    {
+      "nome": "JOSE APARECIDO JACOVOS",
+      "nomeUrna": "DELEGADO JACOVOS",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 257,
+      "percentual": 12.51,
+      "sqcand": "160001654963"
+    },
+    {
+      "nome": "JOSÉ TIAGO CAMARGO DO AMARAL",
+      "nomeUrna": "TIAGO AMARAL",
+      "partido": "PSD",
+      "numero": "55155",
+      "votos": 253,
+      "percentual": 12.32,
+      "sqcand": "160001623115"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 169,
+      "percentual": 8.23,
+      "sqcand": "160001623099"
+    },
+    {
+      "nome": "MARIA VICTORIA BORGHETTI BARROS",
+      "nomeUrna": "MARIA VICTORIA",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 162,
+      "percentual": 7.89,
+      "sqcand": "160001603357"
+    },
+    {
+      "nome": "ARILSON MAROLDI CHIORATO",
+      "nomeUrna": "ARILSON CHIORATO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 114,
+      "percentual": 5.55,
+      "sqcand": "160001615010"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 100,
+      "percentual": 4.87,
+      "sqcand": "160001623100"
+    }
+  ]
+}

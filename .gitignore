@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raw data caches
+scratch/parsed_2022/
+scratch/parsed_2024/
+
+# OS files
+.DS_Store
+Thumbs.db

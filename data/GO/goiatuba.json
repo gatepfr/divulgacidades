@@ -1,0 +1,311 @@
+{
+  "populacao": 27923,
+  "votosValidos": 22596,
+  "abstencao": 16.04,
+  "prefeito": {
+    "nome": "ALBERTO LOPES RIBEIRO",
+    "nomeUrna": "ALBERTO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 15662,
+    "percentual": 69.31,
+    "situacao": "Eleito",
+    "sqcand": "90002193021",
+    "vice": "GABRIEL DA SILVA FALEIROS",
+    "viceNomeUrna": "GABRIEL FALEIROS",
+    "partidoVice": "PP",
+    "sqcandVice": "90002193020",
+    "coligacao": "PP / PDT / MOBILIZA / PSD / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "WELLINGTON SCARPELINI DOS SANTOS",
+      "nomeUrna": "BRANQUINHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1013,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002369385"
+    },
+    {
+      "nome": "MARINEZ LUIZ SILVESTRE",
+      "nomeUrna": "MARINEZ ENFERMEIRA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 918,
+      "percentual": 4.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002280492"
+    },
+    {
+      "nome": "CLEFER LUCAS COSTA",
+      "nomeUrna": "CLIFER LUCAS",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 917,
+      "percentual": 4.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002280501"
+    },
+    {
+      "nome": "JOAO PAULO AURIONE MARQUES",
+      "nomeUrna": "MARADONA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 892,
+      "percentual": 3.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002369322"
+    },
+    {
+      "nome": "SANTHIAGO DIAS VIEIRA SANTOS",
+      "nomeUrna": "SANTHIAGO VIEIRA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 791,
+      "percentual": 3.48,
+      "situacao": "Eleito por média",
+      "sqcand": "90002369382"
+    },
+    {
+      "nome": "MARCOS PIRES DE SOUSA",
+      "nomeUrna": "MARQUIM PROFESSOR",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 736,
+      "percentual": 3.24,
+      "situacao": "Eleito por média",
+      "sqcand": "90002369319"
+    },
+    {
+      "nome": "MAURILIO ANTONIO FIRMINO NETO",
+      "nomeUrna": "MURILO DO VERDURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 645,
+      "percentual": 2.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002156356"
+    },
+    {
+      "nome": "SAULO MARTINS SEVERO",
+      "nomeUrna": "SAULO SEVERO",
+      "partido": "MOBILIZA",
+      "numero": "33456",
+      "votos": 564,
+      "percentual": 2.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002369901"
+    },
+    {
+      "nome": "ANDRÉ LUIZ SOUSA PEREIRA",
+      "nomeUrna": "ANDRÉ LUIZ DO RODEIO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 540,
+      "percentual": 2.38,
+      "situacao": "Eleito por média",
+      "sqcand": "90002280496"
+    },
+    {
+      "nome": "ANTÔNIO MARCOS RUA",
+      "nomeUrna": "FII RUA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 523,
+      "percentual": 2.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002164863"
+    },
+    {
+      "nome": "LARISSA CAROLINY MAGALHÃES DE OLIVEIRA",
+      "nomeUrna": "LARISSA MAGALHÃES",
+      "partido": "AGIR",
+      "numero": "36200",
+      "votos": 514,
+      "percentual": 2.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002164845"
+    },
+    {
+      "nome": "CLEUCINEY MARTINS VIEIRA",
+      "nomeUrna": "BRANCO",
+      "partido": "AGIR",
+      "numero": "36000",
+      "votos": 490,
+      "percentual": 2.16,
+      "situacao": "Eleito por média",
+      "sqcand": "90002164852"
+    },
+    {
+      "nome": "HUMBERTO ALVES DANTAS",
+      "nomeUrna": "BETO CONSTRUTOR",
+      "partido": "AGIR",
+      "numero": "36789",
+      "votos": 489,
+      "percentual": 2.15,
+      "situacao": "Eleito por média",
+      "sqcand": "90002164851"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE BALDY DE SANT ANNA BRAGA",
+      "nomeUrna": "ALEXANDRE BALDY",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 6688,
+      "percentual": 37.73,
+      "sqcand": "90001609092"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3706,
+      "percentual": 20.91,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 3124,
+      "percentual": 17.63,
+      "sqcand": "90001615126"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 6103,
+      "percentual": 33.5,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "DANIEL VIEIRA RAMOS",
+      "nomeUrna": "DANIEL AGROBOM",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 2473,
+      "percentual": 13.57,
+      "sqcand": "90001652507"
+    },
+    {
+      "nome": "HELIO ANTONIO DE SOUSA",
+      "nomeUrna": "DR. HELIO DE SOUSA",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 717,
+      "percentual": 3.94,
+      "sqcand": "90001621630"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 716,
+      "percentual": 3.93,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 669,
+      "percentual": 3.67,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "SILVYE ALVES DA SILVA",
+      "nomeUrna": "SILVYE ALVES",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 545,
+      "percentual": 2.99,
+      "sqcand": "90001614749"
+    },
+    {
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nomeUrna": "MARUSSA BOLDRIN",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 474,
+      "percentual": 2.6,
+      "sqcand": "90001621102"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LINCOLN GRAZIANI PEREIRA DA ROCHA TEJOTA",
+      "nomeUrna": "LINCOLN TEJOTA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 4882,
+      "percentual": 27.31,
+      "sqcand": "90001648385"
+    },
+    {
+      "nome": "ANTONIALY FREITAS FERREIRA",
+      "nomeUrna": "ANTONIALY",
+      "partido": "AVANTE",
+      "numero": "70600",
+      "votos": 2293,
+      "percentual": 12.83,
+      "sqcand": "90001651092"
+    },
+    {
+      "nome": "ÁLVARO SOARES GUIMARÃES",
+      "nomeUrna": "ÁLVARO GUIMARÃES",
+      "partido": "UNIÃO",
+      "numero": "44122",
+      "votos": 2138,
+      "percentual": 11.96,
+      "sqcand": "90001648390"
+    },
+    {
+      "nome": "JAMIL SEBBA CALIFE",
+      "nomeUrna": "JAMIL CALIFE",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1144,
+      "percentual": 6.4,
+      "sqcand": "90001712193"
+    },
+    {
+      "nome": "BALTAZAR SANTANA MENDES",
+      "nomeUrna": "BALTAZAR RULINHA",
+      "partido": "PTB",
+      "numero": "14567",
+      "votos": 861,
+      "percentual": 4.82,
+      "sqcand": "90001723658"
+    },
+    {
+      "nome": "JOSÉ MACHADO DOS SANTOS",
+      "nomeUrna": "DR. JOSÉ MACHADO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 463,
+      "percentual": 2.59,
+      "sqcand": "90001647409"
+    },
+    {
+      "nome": "ELIANE GONÇALVES COIMBRA",
+      "nomeUrna": "ELIANE PINHEIRO",
+      "partido": "PSDB",
+      "numero": "45451",
+      "votos": 260,
+      "percentual": 1.45,
+      "sqcand": "90001647444"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "populacao": 27026,
+  "votosValidos": 19405,
+  "abstencao": 25.07,
+  "prefeito": {
+    "nome": "JOSÉ ANTÔNIO FLACH WERLE",
+    "nomeUrna": "PITI",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 9729,
+    "percentual": 50.14,
+    "situacao": "Eleito",
+    "sqcand": "210002125136",
+    "vice": "PAULO CESAR DA TRINDADE GARCIA",
+    "viceNomeUrna": "FRAGUINHA",
+    "partidoVice": "PP",
+    "sqcandVice": "210002125137",
+    "coligacao": "PP / MDB / UNIÃO / PL / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "NERI JOÃO BILINSKI",
+      "nomeUrna": "TITO BILINSKI",
+      "partido": "PP",
+      "numero": "11607",
+      "votos": 1893,
+      "percentual": 9.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002070966"
+    },
+    {
+      "nome": "JOÃO IURI DE OLIVEIRA",
+      "nomeUrna": "JOÃO IURI",
+      "partido": "CIDADANIA",
+      "numero": "23333",
+      "votos": 996,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001971536"
+    },
+    {
+      "nome": "EDILMAR ADAO GARCIA DA SILVA",
+      "nomeUrna": "EDILMAR GARCIA",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 832,
+      "percentual": 4.28,
+      "situacao": "Eleito por média",
+      "sqcand": "210001971535"
+    },
+    {
+      "nome": "LEONARDO VARGAS PEREIRA",
+      "nomeUrna": "LÉO VARGAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 734,
+      "percentual": 3.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001900715"
+    },
+    {
+      "nome": "MARIO OLAÍDES RODRIGUES DA TRINDADE",
+      "nomeUrna": "MARIO TRINDADE",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 711,
+      "percentual": 3.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002200970"
+    },
+    {
+      "nome": "ROSELI DE OLIVEIRA GRINGS",
+      "nomeUrna": "ROSE GRINGS",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 661,
+      "percentual": 3.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002070968"
+    },
+    {
+      "nome": "CLÉBER IVAR MATOS DA SILVA",
+      "nomeUrna": "CLÉBER IVAR",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 653,
+      "percentual": 3.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002200962"
+    },
+    {
+      "nome": "RENAN RUSCHEL NUNES",
+      "nomeUrna": "RENAN RUSCHEL",
+      "partido": "MDB",
+      "numero": "15022",
+      "votos": 588,
+      "percentual": 3.03,
+      "situacao": "Eleito por média",
+      "sqcand": "210002200967"
+    },
+    {
+      "nome": "ADÃO SCHMITZ DA SILVA",
+      "nomeUrna": "ADÃO SCHMITZ",
+      "partido": "PDT",
+      "numero": "12680",
+      "votos": 488,
+      "percentual": 2.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001927277"
+    },
+    {
+      "nome": "CLAUDIO AUGUSTO PIRES PEREIRA",
+      "nomeUrna": "CLAUDIO PEREIRA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 472,
+      "percentual": 2.43,
+      "situacao": "Eleito por média",
+      "sqcand": "210001927279"
+    },
+    {
+      "nome": "LAUREANO CASTILHO",
+      "nomeUrna": "PROFESSOR LAUREANO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 454,
+      "percentual": 2.34,
+      "situacao": "Eleito por média",
+      "sqcand": "210002200965"
+    },
+    {
+      "nome": "RODRIGO VELEDA MARTINS",
+      "nomeUrna": "VELEDA",
+      "partido": "PT",
+      "numero": "13130",
+      "votos": 435,
+      "percentual": 2.24,
+      "situacao": "Eleito por média",
+      "sqcand": "210001900707"
+    },
+    {
+      "nome": "MARISETE MARQUES VIEIRA",
+      "nomeUrna": "MARISETE MARQUES",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 325,
+      "percentual": 1.67,
+      "situacao": "Eleito por média",
+      "sqcand": "210002070965"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 8916,
+      "percentual": 51.19,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 6416,
+      "percentual": 36.84,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1998,
+      "percentual": 11.47,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 2282,
+      "percentual": 12.99,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 2057,
+      "percentual": 11.71,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 1613,
+      "percentual": 9.18,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 1115,
+      "percentual": 6.35,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 856,
+      "percentual": 4.87,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 844,
+      "percentual": 4.8,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 535,
+      "percentual": 3.05,
+      "sqcand": "210001648591"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUÍS FERNANDO CAVALHEIRO PIRES",
+      "nomeUrna": "LUÍS FERNANDO PIRES",
+      "partido": "PP",
+      "numero": "11522",
+      "votos": 6839,
+      "percentual": 39.2,
+      "sqcand": "210001647185"
+    },
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 2412,
+      "percentual": 13.83,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "ANTONIO VALDECI OLIVEIRA DE OLIVEIRA",
+      "nomeUrna": "VALDECI OLIVEIRA",
+      "partido": "PT",
+      "numero": "13713",
+      "votos": 1123,
+      "percentual": 6.44,
+      "sqcand": "210001610599"
+    },
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 714,
+      "percentual": 4.09,
+      "sqcand": "210001621320"
+    },
+    {
+      "nome": "JULIANO FRANCZAK",
+      "nomeUrna": "GAÚCHO DA GERAL",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 632,
+      "percentual": 3.62,
+      "sqcand": "210001696192"
+    },
+    {
+      "nome": "RENE NEDI DE SOUZA RIBEIRO",
+      "nomeUrna": "RENE RIBEIRO",
+      "partido": "PT",
+      "numero": "13190",
+      "votos": 490,
+      "percentual": 2.81,
+      "sqcand": "210001610585"
+    },
+    {
+      "nome": "CLAIR TOMÉ KUHN",
+      "nomeUrna": "CLAIR KUHN",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 383,
+      "percentual": 2.2,
+      "sqcand": "210001647986"
+    }
+  ]
+}

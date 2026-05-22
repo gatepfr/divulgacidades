@@ -1,0 +1,271 @@
+{
+  "populacao": 5337,
+  "votosValidos": 4444,
+  "abstencao": 13.02,
+  "prefeito": {
+    "nome": "JAIRO DE SOUZA MAFALDO",
+    "nomeUrna": "JAIRO MAFALDO",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 2560,
+    "percentual": 57.61,
+    "situacao": "Eleito",
+    "sqcand": "200002134197",
+    "vice": "ADRIANO COSTA DE MORAIS",
+    "viceNomeUrna": "ADRIANO MORAIS",
+    "partidoVice": "PT",
+    "sqcandVice": "200002134198",
+    "coligacao": "PC do B / PT / PV / PSD / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "HILDEERMES ROTHISCHYLD FONTES MORAIS",
+      "nomeUrna": "HILDEERMES FONTES",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 432,
+      "percentual": 9.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002135326"
+    },
+    {
+      "nome": "APOLIANA CRISTINA DA COSTA LIMA",
+      "nomeUrna": "POPO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 427,
+      "percentual": 9.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002135327"
+    },
+    {
+      "nome": "FRANCISCO JOSERLANIO DE OLIVEIRA",
+      "nomeUrna": "NEGO DOLAR",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 395,
+      "percentual": 8.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002064086"
+    },
+    {
+      "nome": "HELIO TRAJANO TORRES DE SANTANA",
+      "nomeUrna": "HELIO TRAJANO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 376,
+      "percentual": 8.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002064082"
+    },
+    {
+      "nome": "NILCIMAR FONTES DE ARAÚJO GOMES",
+      "nomeUrna": "NILCIMAR FONTES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 346,
+      "percentual": 7.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002135328"
+    },
+    {
+      "nome": "MARIA NECI DA SILVA ARAUJO",
+      "nomeUrna": "NECI ARAUJO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 334,
+      "percentual": 7.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002135323"
+    },
+    {
+      "nome": "JOSÉ IVOMAR FIDELES",
+      "nomeUrna": "MAZINHO",
+      "partido": "PSD",
+      "numero": "55321",
+      "votos": 295,
+      "percentual": 6.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002135325"
+    },
+    {
+      "nome": "CARLOS JOSÉ PINHEIRO MAIA",
+      "nomeUrna": "CARLOS JOSÉ",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 292,
+      "percentual": 6.61,
+      "situacao": "Eleito por média",
+      "sqcand": "200002135329"
+    },
+    {
+      "nome": "FRANCISCO ROZENDO DA SILVA",
+      "nomeUrna": "CHICO ROZENDO",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 262,
+      "percentual": 5.93,
+      "situacao": "Eleito por média",
+      "sqcand": "200002064081"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 1501,
+      "percentual": 46.73,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1279,
+      "percentual": 39.82,
+      "sqcand": "200001612334"
+    },
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 411,
+      "percentual": 12.8,
+      "sqcand": "200001603037"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PIO X FERNANDES",
+      "nomeUrna": "DR PIO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 1659,
+      "percentual": 44.24,
+      "sqcand": "200001653695"
+    },
+    {
+      "nome": "FERNANDO WANDERLEY VARGAS DA SILVA",
+      "nomeUrna": "MINEIRO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 978,
+      "percentual": 26.08,
+      "sqcand": "200001603645"
+    },
+    {
+      "nome": "CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO",
+      "nomeUrna": "BETO ROSADO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 398,
+      "percentual": 10.61,
+      "sqcand": "200001600544"
+    },
+    {
+      "nome": "KALINE CRISTIANE FERREIRA DE ANDRADE AMORIM",
+      "nomeUrna": "KALINE DE DR BERNARDO",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 102,
+      "percentual": 2.72,
+      "sqcand": "200001653699"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 91,
+      "percentual": 2.43,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "INÁCIO BRILHANTE DE ARAÚJO FILHO",
+      "nomeUrna": "MAJOR BRILHANTE",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 87,
+      "percentual": 2.32,
+      "sqcand": "200001600545"
+    },
+    {
+      "nome": "THABATTA PIMENTA DE MEDEIROS SILVA",
+      "nomeUrna": "THABATTA PIMENTA",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 86,
+      "percentual": 2.29,
+      "sqcand": "200001612241"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAIMUNDO NONATO PESSOA FERNANDES",
+      "nomeUrna": "RAIMUNDO FERNANDES",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 1125,
+      "percentual": 32.72,
+      "sqcand": "200001606005"
+    },
+    {
+      "nome": "KERGINALDO JACOME DA COSTA",
+      "nomeUrna": "DR KEGINALDO JACOME",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 687,
+      "percentual": 19.98,
+      "sqcand": "200001605992"
+    },
+    {
+      "nome": "JOSÉ GALENO DIÓGENES TORQUATO",
+      "nomeUrna": "GALENO TORQUATO",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 664,
+      "percentual": 19.31,
+      "sqcand": "200001605995"
+    },
+    {
+      "nome": "BERNARDO CÉSAR CARLOS BELARMINO DE AMORIM",
+      "nomeUrna": "DR BERNARDO AMORIM",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 218,
+      "percentual": 6.34,
+      "sqcand": "200001605989"
+    },
+    {
+      "nome": "MARIA ISOLDA DANTAS DE MOURA",
+      "nomeUrna": "ISOLDA DANTAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 123,
+      "percentual": 3.58,
+      "sqcand": "200001603626"
+    },
+    {
+      "nome": "JUCERLÂNDIO ALISSON COSTA DUARTE",
+      "nomeUrna": "JUCERLÂNDIO ALISSON",
+      "partido": "PSD",
+      "numero": "55655",
+      "votos": 80,
+      "percentual": 2.33,
+      "sqcand": "200001598474"
+    },
+    {
+      "nome": "GILTON SAMPAIO DE SOUZA",
+      "nomeUrna": "GILTON SAMPAIO",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 74,
+      "percentual": 2.15,
+      "sqcand": "200001603620"
+    }
+  ]
+}

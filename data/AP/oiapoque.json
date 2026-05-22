@@ -1,0 +1,291 @@
+{
+  "populacao": 24120,
+  "votosValidos": 16465,
+  "abstencao": 29.76,
+  "prefeito": {
+    "nome": "BRENO LIMA DE ALMEIDA",
+    "nomeUrna": "BRENO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 8965,
+    "percentual": 54.45,
+    "situacao": "Eleito",
+    "sqcand": "30002351617",
+    "vice": "ARTUR LIMA DE SOUSA",
+    "viceNomeUrna": "ARTUR DO AREAL",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "30002351616",
+    "coligacao": "PP / SOLIDARIEDADE / PSOL / REDE"
+  },
+  "vereadores": [
+    {
+      "nome": "UESLEI NEI DA SILVEIRA TELES",
+      "nomeUrna": "UESLEI TELES",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 620,
+      "percentual": 3.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "30002311717"
+    },
+    {
+      "nome": "VALDEMIR NERI SANTOS",
+      "nomeUrna": "SALES DO AÇOUGUE",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 542,
+      "percentual": 3.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "30002311871"
+    },
+    {
+      "nome": "TIAGO BRUNO GADELHA DE SOUSA",
+      "nomeUrna": "BRUNO DO AREAL",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77555",
+      "votos": 542,
+      "percentual": 3.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "30002230343"
+    },
+    {
+      "nome": "RAMOS DOS SANTOS",
+      "nomeUrna": "RAMON",
+      "partido": "PL",
+      "numero": "22013",
+      "votos": 525,
+      "percentual": 3.15,
+      "situacao": "Eleito por média",
+      "sqcand": "30002311720"
+    },
+    {
+      "nome": "AILTON BATISTA",
+      "nomeUrna": "PROFESSOR AILTON PALIKUR",
+      "partido": "PP",
+      "numero": "11522",
+      "votos": 486,
+      "percentual": 2.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "30002311872"
+    },
+    {
+      "nome": "LAUANDERSON SOUSA DA SILVA",
+      "nomeUrna": "JUNIOR DO MATEUS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 458,
+      "percentual": 2.75,
+      "situacao": "Eleito por média",
+      "sqcand": "30002230344"
+    },
+    {
+      "nome": "PEDRO GUIDO NASCIMENTO DE CASTRO",
+      "nomeUrna": "GUIDO MECÂNICO",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 434,
+      "percentual": 2.6,
+      "situacao": "Eleito por média",
+      "sqcand": "30002311867"
+    },
+    {
+      "nome": "ELSON VIDAL DE FIGUEIREDO",
+      "nomeUrna": "ELSON VIDAL KARIPUNA",
+      "partido": "REDE",
+      "numero": "18100",
+      "votos": 432,
+      "percentual": 2.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "30002006233"
+    },
+    {
+      "nome": "ROSILEIDE DE SOUZA ARAÚJO",
+      "nomeUrna": "ROSI ARAÚJO",
+      "partido": "REDE",
+      "numero": "18123",
+      "votos": 424,
+      "percentual": 2.54,
+      "situacao": "Eleito por média",
+      "sqcand": "30002006231"
+    },
+    {
+      "nome": "REGINALDO SILVA MARQUES",
+      "nomeUrna": "MARQUES MOTOTAXI",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 421,
+      "percentual": 2.53,
+      "situacao": "Eleito por média",
+      "sqcand": "30002230342"
+    },
+    {
+      "nome": "LUIZ FERNANDO ANIKÁ DOS SANTOS",
+      "nomeUrna": "FERNANDO ANIKÁ",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 418,
+      "percentual": 2.51,
+      "situacao": "Eleito por média",
+      "sqcand": "30002311723"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "DAVID SAMUEL ALCOLUMBRE TOBELEM",
+      "nomeUrna": "DAVI",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 7420,
+      "percentual": 57.5,
+      "sqcand": "30001607748"
+    },
+    {
+      "nome": "RAYSSA CADENA FURLAN",
+      "nomeUrna": "RAYSSA FURLAN",
+      "partido": "MDB",
+      "numero": "151",
+      "votos": 4304,
+      "percentual": 33.35,
+      "sqcand": "30001619820"
+    },
+    {
+      "nome": "JOAO ALBERTO RODRIGUES CAPIBERIBE",
+      "nomeUrna": "CAPI",
+      "partido": "PSB",
+      "numero": "401",
+      "votos": 900,
+      "percentual": 6.97,
+      "sqcand": "30001608736"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "YURI ALESI DA SILVA ARAUJO",
+      "nomeUrna": "DR YURI ALESI",
+      "partido": "PTB",
+      "numero": "1415",
+      "votos": 1742,
+      "percentual": 13.11,
+      "sqcand": "30001611420"
+    },
+    {
+      "nome": "CHARLES CORREA",
+      "nomeUrna": "DELEGADO CHARLES",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 1241,
+      "percentual": 9.34,
+      "sqcand": "30001648515"
+    },
+    {
+      "nome": "ACÁCIO DA SILVA FAVACHO NETO",
+      "nomeUrna": "ACÁCIO FAVACHO",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 1014,
+      "percentual": 7.63,
+      "sqcand": "30001605451"
+    },
+    {
+      "nome": "SANDRA DOS SANTOS LACERDA",
+      "nomeUrna": "SANDRA LACERDA",
+      "partido": "PODE",
+      "numero": "1900",
+      "votos": 886,
+      "percentual": 6.67,
+      "sqcand": "30001611389"
+    },
+    {
+      "nome": "JOSENILDO SANTOS ABRANTES",
+      "nomeUrna": "JOSENILDO",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 639,
+      "percentual": 4.81,
+      "sqcand": "30001601832"
+    },
+    {
+      "nome": "ANDRÉ DOS SANTOS ABDON",
+      "nomeUrna": "ANDRÉ ABDON",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 588,
+      "percentual": 4.43,
+      "sqcand": "30001600173"
+    },
+    {
+      "nome": "CARLOS CAMILO GOES CAPIBERIBE",
+      "nomeUrna": "CAMILO CAPIBERIBE",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 539,
+      "percentual": 4.06,
+      "sqcand": "30001653383"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARIA ORLANDA MARQUES GARCIA",
+      "nomeUrna": "MARIA ORLANDA",
+      "partido": "UNIÃO",
+      "numero": "44145",
+      "votos": 1056,
+      "percentual": 8.25,
+      "sqcand": "30001606525"
+    },
+    {
+      "nome": "AMIRALDO DA SILVA FAVACHO JUNIOR",
+      "nomeUrna": "JUNIOR FAVACHO",
+      "partido": "MDB",
+      "numero": "15699",
+      "votos": 965,
+      "percentual": 7.54,
+      "sqcand": "30001605447"
+    },
+    {
+      "nome": "RUZIELY DE JESUS PONTES DA SILVA",
+      "nomeUrna": "JESUS PONTES",
+      "partido": "PDT",
+      "numero": "12369",
+      "votos": 782,
+      "percentual": 6.11,
+      "sqcand": "30001604007"
+    },
+    {
+      "nome": "SIMONE VIDAL DA SILVA",
+      "nomeUrna": "SIMONE KARIPUNA",
+      "partido": "PV",
+      "numero": "43222",
+      "votos": 701,
+      "percentual": 5.48,
+      "sqcand": "30001607457"
+    },
+    {
+      "nome": "INACIO MONTEIRO MACIEL",
+      "nomeUrna": "DELEGADO INACIO",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 558,
+      "percentual": 4.36,
+      "sqcand": "30001604018"
+    },
+    {
+      "nome": "ALLINY SOUSA DA ROCHA SERRAO",
+      "nomeUrna": "ALLINY SERRÃO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 502,
+      "percentual": 3.92,
+      "sqcand": "30001606514"
+    },
+    {
+      "nome": "LUIZ ARMANDO VIDAL RAMOS",
+      "nomeUrna": "PROF. LUIZ",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 442,
+      "percentual": 3.46,
+      "sqcand": "30001608275"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 9091,
+  "votosValidos": 6779,
+  "abstencao": 21.99,
+  "prefeito": {
+    "nome": "VINICIUS MARCONDES CAMARGO TERIN",
+    "nomeUrna": "VINICIUS TERIN",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 6491,
+    "percentual": 95.75,
+    "situacao": "Eleito",
+    "sqcand": "90001968256",
+    "vice": "PAULO SCORSATTO BATISTA",
+    "viceNomeUrna": "DR PAULINHO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "90001968255",
+    "coligacao": "MDB / AGIR / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "EUNICE FICHER DALTO",
+      "nomeUrna": "NICKI",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 460,
+      "percentual": 6.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001968081"
+    },
+    {
+      "nome": "PAULO JOSÉ PACHECO",
+      "nomeUrna": "PAULINHO PACHECO",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 358,
+      "percentual": 5.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001971628"
+    },
+    {
+      "nome": "ALCIDES DE SÁ SOARES",
+      "nomeUrna": "CIDÃO",
+      "partido": "PP",
+      "numero": "11122",
+      "votos": 352,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002307176"
+    },
+    {
+      "nome": "WALTER ROSA",
+      "nomeUrna": "VALTINHO DO SINDICATO",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 352,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001968076"
+    },
+    {
+      "nome": "DANILO IVO TIGRE",
+      "nomeUrna": "TIGRINHO DO POVO",
+      "partido": "MDB",
+      "numero": "15650",
+      "votos": 318,
+      "percentual": 4.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001968072"
+    },
+    {
+      "nome": "DIEGO RODRIGO FAVERO",
+      "nomeUrna": "DIEGO DA CONTRAMÃO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 316,
+      "percentual": 4.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001971629"
+    },
+    {
+      "nome": "CLEIDEMAR GOMES DE FREITAS BRASIL",
+      "nomeUrna": "CLEIDE BRASIL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 301,
+      "percentual": 4.39,
+      "situacao": "Eleito por média",
+      "sqcand": "90001968080"
+    },
+    {
+      "nome": "ANTÔNIO SULPRINO DE SOUZA",
+      "nomeUrna": "TERRINHA",
+      "partido": "AGIR",
+      "numero": "36450",
+      "votos": 286,
+      "percentual": 4.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001971744"
+    },
+    {
+      "nome": "JAIR CARNEIRO DE FREITAS FILHO",
+      "nomeUrna": "JAIR DA LENHA",
+      "partido": "UNIÃO",
+      "numero": "44634",
+      "votos": 273,
+      "percentual": 3.98,
+      "situacao": "Eleito por média",
+      "sqcand": "90001971625"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2439,
+      "percentual": 45.39,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 1386,
+      "percentual": 25.79,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 563,
+      "percentual": 10.48,
+      "sqcand": "90001614075"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 709,
+      "percentual": 12.84,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "ALCIDES RIBEIRO FILHO",
+      "nomeUrna": "PROFESSOR ALCIDES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 669,
+      "percentual": 12.12,
+      "sqcand": "90001652505"
+    },
+    {
+      "nome": "DANIEL VIEIRA RAMOS",
+      "nomeUrna": "DANIEL AGROBOM",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 583,
+      "percentual": 10.56,
+      "sqcand": "90001652507"
+    },
+    {
+      "nome": "DANNILLO DA CUNHA PEREIRA",
+      "nomeUrna": "DANNILLO PEREIRA",
+      "partido": "PSD",
+      "numero": "5544",
+      "votos": 362,
+      "percentual": 6.56,
+      "sqcand": "90001651579"
+    },
+    {
+      "nome": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+      "nomeUrna": "JOSÉ NELTO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 350,
+      "percentual": 6.34,
+      "sqcand": "90001700974"
+    },
+    {
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nomeUrna": "MARUSSA BOLDRIN",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 323,
+      "percentual": 5.85,
+      "sqcand": "90001621102"
+    },
+    {
+      "nome": "RUBENS OTONI GOMIDE",
+      "nomeUrna": "RUBENS OTONI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 296,
+      "percentual": 5.36,
+      "sqcand": "90001648112"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "KARLOS MÁRCIO VIEIRA CABRAL",
+      "nomeUrna": "KARLOS CABRAL",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 484,
+      "percentual": 9.13,
+      "sqcand": "90001605405"
+    },
+    {
+      "nome": "ELIANE GONÇALVES COIMBRA",
+      "nomeUrna": "ELIANE PINHEIRO",
+      "partido": "PSDB",
+      "numero": "45451",
+      "votos": 449,
+      "percentual": 8.47,
+      "sqcand": "90001647444"
+    },
+    {
+      "nome": "BRUNO REGIANY PEIXOTO PIMENTA",
+      "nomeUrna": "BRUNO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 351,
+      "percentual": 6.62,
+      "sqcand": "90001648400"
+    },
+    {
+      "nome": "CAIRO SALIM MARCELINO LOPES",
+      "nomeUrna": "CAIRO SALIM",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 298,
+      "percentual": 5.62,
+      "sqcand": "90001695741"
+    },
+    {
+      "nome": "ROSANGELA DE REZENDE AMORIM",
+      "nomeUrna": "ROSANGELA REZENDE",
+      "partido": "AGIR",
+      "numero": "36456",
+      "votos": 286,
+      "percentual": 5.4,
+      "sqcand": "90001614649"
+    },
+    {
+      "nome": "SAMUEL FERREIRA COUTINHO",
+      "nomeUrna": "SAMUEL COUT",
+      "partido": "DC",
+      "numero": "27357",
+      "votos": 277,
+      "percentual": 5.23,
+      "sqcand": "90001653964"
+    },
+    {
+      "nome": "CLAUDIO OLINTO MEIRELLES",
+      "nomeUrna": "CLAUDIO MEIRELLES",
+      "partido": "PL",
+      "numero": "22690",
+      "votos": 266,
+      "percentual": 5.02,
+      "sqcand": "90001653803"
+    }
+  ]
+}

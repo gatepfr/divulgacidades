@@ -1,0 +1,271 @@
+{
+  "populacao": 8611,
+  "votosValidos": 7235,
+  "abstencao": 12.74,
+  "prefeito": {
+    "nome": "ARIVALDO DE ALMEIDA COSTA",
+    "nomeUrna": "LILI",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 3651,
+    "percentual": 50.46,
+    "situacao": "Eleito",
+    "sqcand": "50002065862",
+    "vice": "MIZAEL BARTOLOMEU DE SOUZA",
+    "viceNomeUrna": "TREMEDEIRA DO COQUEIRO",
+    "partidoVice": "PSDB",
+    "sqcandVice": "50002065863",
+    "coligacao": "CIDADANIA / PSDB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "AILTON RODRIGUES DIAS",
+      "nomeUrna": "TIM DO HOSPITAL",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 496,
+      "percentual": 6.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002120836"
+    },
+    {
+      "nome": "GILCASSIO PEREIRA SILVA",
+      "nomeUrna": "BINHA DO TAXI",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 485,
+      "percentual": 6.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002085379"
+    },
+    {
+      "nome": "CLEIA BATISTA SENA",
+      "nomeUrna": "CLEIA SENA",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 458,
+      "percentual": 6.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002120834"
+    },
+    {
+      "nome": "FLEDSON GONÇALVES DOS SANTOS",
+      "nomeUrna": "FRED DO HOSPITAL",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 455,
+      "percentual": 6.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002120831"
+    },
+    {
+      "nome": "WILZA LACERDA FERRAZ SILVA",
+      "nomeUrna": "WILZA DA SAÚDE",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 409,
+      "percentual": 5.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002085380"
+    },
+    {
+      "nome": "MARIA NILZA PEREIRA LOYOLA",
+      "nomeUrna": "MARIA NILZA LOYOLA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 389,
+      "percentual": 5.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002087048"
+    },
+    {
+      "nome": "GIRLANDE RODRIGUES DA CRUZ",
+      "nomeUrna": "GIL DA KOMBI",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 369,
+      "percentual": 5.1,
+      "situacao": "Eleito por média",
+      "sqcand": "50002087046"
+    },
+    {
+      "nome": "MARIA APARECIDA VIEIRA MOURA",
+      "nomeUrna": "CIDA VIEIRA",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 322,
+      "percentual": 4.45,
+      "situacao": "Eleito por média",
+      "sqcand": "50002120835"
+    },
+    {
+      "nome": "UNILTON GOMES DE OLIVEIRA",
+      "nomeUrna": "TOTINHA DE JURACY",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 280,
+      "percentual": 3.87,
+      "situacao": "Eleito por média",
+      "sqcand": "50002085381"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2639,
+      "percentual": 48.28,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2150,
+      "percentual": 39.33,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 657,
+      "percentual": 12.02,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ARTHUR DE OLIVEIRA MAIA DA SILVA",
+      "nomeUrna": "ARTHUR MAIA",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 1913,
+      "percentual": 31.82,
+      "sqcand": "50001634596"
+    },
+    {
+      "nome": "MÁRIO SÍLVIO MENDES NEGROMONTE JÚNIOR",
+      "nomeUrna": "MÁRIO NEGROMONTE JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1607,
+      "percentual": 26.73,
+      "sqcand": "50001621035"
+    },
+    {
+      "nome": "ORLANDO SULZ DE ALMEIDA NETO",
+      "nomeUrna": "NETO CARLETTO",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 428,
+      "percentual": 7.12,
+      "sqcand": "50001621029"
+    },
+    {
+      "nome": "CLAUDIO CAJADO SAMPAIO",
+      "nomeUrna": "CLAUDIO CAJADO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 372,
+      "percentual": 6.19,
+      "sqcand": "50001621019"
+    },
+    {
+      "nome": "ADALBERTO ROSA BARRETO",
+      "nomeUrna": "DEPUTADO DAL",
+      "partido": "UNIÃO",
+      "numero": "4488",
+      "votos": 357,
+      "percentual": 5.94,
+      "sqcand": "50001634594"
+    },
+    {
+      "nome": "VALMIR CARLOS DA ASSUNÇÃO",
+      "nomeUrna": "VALMIR ASSUNÇÃO",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 275,
+      "percentual": 4.57,
+      "sqcand": "50001605371"
+    },
+    {
+      "nome": "ULDURICO ALENCAR PINTO",
+      "nomeUrna": "ULDURICO JUNIOR",
+      "partido": "MDB",
+      "numero": "1590",
+      "votos": 239,
+      "percentual": 3.98,
+      "sqcand": "50001614034"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SANDRO DE OLIVEIRA RÉGIS",
+      "nomeUrna": "SANDRO RÉGIS",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 1774,
+      "percentual": 32.97,
+      "sqcand": "50001648297"
+    },
+    {
+      "nome": "JOSE ALBERTO DE LIMA FILHO",
+      "nomeUrna": "ZÉ ALBERTO",
+      "partido": "PSB",
+      "numero": "40140",
+      "votos": 1332,
+      "percentual": 24.75,
+      "sqcand": "50001605980"
+    },
+    {
+      "nome": "LEIDIAN QUEIROZ RANGEL JARDIM",
+      "nomeUrna": "LEIDIAN",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 841,
+      "percentual": 15.63,
+      "sqcand": "50001648290"
+    },
+    {
+      "nome": "CARLOS ROBSON RODRIGUES DA SILVA",
+      "nomeUrna": "ROBINHO",
+      "partido": "UNIÃO",
+      "numero": "44144",
+      "votos": 392,
+      "percentual": 7.28,
+      "sqcand": "50001648336"
+    },
+    {
+      "nome": "CLAUDIA SILVA SANTOS OLIVEIRA",
+      "nomeUrna": "CLAUDIA OLIVEIRA",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 167,
+      "percentual": 3.1,
+      "sqcand": "50001607301"
+    },
+    {
+      "nome": "ROSIVAL LEITE DA SILVA",
+      "nomeUrna": "ROSIVAL LEITE",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 147,
+      "percentual": 2.73,
+      "sqcand": "50001606387"
+    },
+    {
+      "nome": "VERA LÚCIA DA CRUZ BARBOSA",
+      "nomeUrna": "LUCINHA DO MST",
+      "partido": "PT",
+      "numero": "13100",
+      "votos": 101,
+      "percentual": 1.88,
+      "sqcand": "50001606399"
+    }
+  ]
+}

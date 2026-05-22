@@ -1,0 +1,271 @@
+{
+  "populacao": 10176,
+  "votosValidos": 8498,
+  "abstencao": 12.41,
+  "prefeito": {
+    "nome": "JOSE GERALDO TOSTA ALBERGARIA DA SILVA",
+    "nomeUrna": "ZE GERALDO",
+    "partido": "SOLIDARIEDADE",
+    "numero": "77",
+    "votos": 4656,
+    "percentual": 54.79,
+    "situacao": "Eleito",
+    "sqcand": "50001928653",
+    "vice": "BARTOLOMEU PEREIRA DA SILVA",
+    "viceNomeUrna": "BARTINHO",
+    "partidoVice": "AVANTE",
+    "sqcandVice": "50001928652",
+    "coligacao": "REPUBLICANOS / PP / PODE / PL / UNIÃO / AVANTE / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "ELIANE SOARES DE ARAUJO",
+      "nomeUrna": "LILIA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 606,
+      "percentual": 7.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001947443"
+    },
+    {
+      "nome": "ELITON LAFITE CARVALHO",
+      "nomeUrna": "PROF ELITON LAFITE",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 523,
+      "percentual": 6.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001881740"
+    },
+    {
+      "nome": "HADSON DE OLIVEIRA SANTOS",
+      "nomeUrna": "HADSON OLIVEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 453,
+      "percentual": 5.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001947578"
+    },
+    {
+      "nome": "IVONEI MARQUES LOPES",
+      "nomeUrna": "NEI DA BOA VISTA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 433,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001947435"
+    },
+    {
+      "nome": "JOSE FERNANDO SOUZA SANTOS",
+      "nomeUrna": "NANDO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 425,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001947439"
+    },
+    {
+      "nome": "ANTONIO GIL PEDREIRA MAGALHAES",
+      "nomeUrna": "GIL PEDREIRA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 317,
+      "percentual": 3.72,
+      "situacao": "Eleito por média",
+      "sqcand": "50001947427"
+    },
+    {
+      "nome": "ANTONIO BALBINO DIAS CONCEIÇÃO",
+      "nomeUrna": "NENEU",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 308,
+      "percentual": 3.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001947445"
+    },
+    {
+      "nome": "EDVANDO NUNES DE ALMEIDA",
+      "nomeUrna": "VANDO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 276,
+      "percentual": 3.24,
+      "situacao": "Eleito por média",
+      "sqcand": "50001881743"
+    },
+    {
+      "nome": "MARIA CANDIDA DE SOUZA DA SILVA",
+      "nomeUrna": "CANDIDA DE BARTINHO",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 236,
+      "percentual": 2.77,
+      "situacao": "Eleito por média",
+      "sqcand": "50001957140"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4179,
+      "percentual": 60.2,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2271,
+      "percentual": 32.71,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 404,
+      "percentual": 5.82,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO VELLOSO DANTAS AZI",
+      "nomeUrna": "PAULO AZI",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 2030,
+      "percentual": 28.5,
+      "sqcand": "50001634593"
+    },
+    {
+      "nome": "DIEGO HENRIQUE SILVA CERQUEIRA MARTINS",
+      "nomeUrna": "DIEGO CORONEL",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 1427,
+      "percentual": 20.03,
+      "sqcand": "50001607221"
+    },
+    {
+      "nome": "MARCIO CARLOS MARINHO",
+      "nomeUrna": "MARCIO MARINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 250,
+      "percentual": 3.51,
+      "sqcand": "50001619869"
+    },
+    {
+      "nome": "MARCELO DE OLIVEIRA GUIMARAES FILHO",
+      "nomeUrna": "MARCELO GUIMARÃES FILHO",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 196,
+      "percentual": 2.75,
+      "sqcand": "50001634585"
+    },
+    {
+      "nome": "ISABELA DE SOUSA PEREIRA",
+      "nomeUrna": "ISABELA  SOUSA",
+      "partido": "CIDADANIA",
+      "numero": "2340",
+      "votos": 171,
+      "percentual": 2.4,
+      "sqcand": "50001613563"
+    },
+    {
+      "nome": "MARTA RODRIGUES SOUSA DE BRITO COSTA",
+      "nomeUrna": "MARTA RODRIGUES",
+      "partido": "PT",
+      "numero": "1346",
+      "votos": 168,
+      "percentual": 2.36,
+      "sqcand": "50001605372"
+    },
+    {
+      "nome": "VILMA MARIA DOS SANTOS REIS",
+      "nomeUrna": "VILMA REIS",
+      "partido": "PT",
+      "numero": "1303",
+      "votos": 165,
+      "percentual": 2.32,
+      "sqcand": "50001605376"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PEDRO PAULO TAVARES BATISTA DE MELLO E SILVA",
+      "nomeUrna": "PEDRO TAVARES",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 1570,
+      "percentual": 23.51,
+      "sqcand": "50001648327"
+    },
+    {
+      "nome": "ANGELO MARIO CORONEL DE AZEVEDO MARTINS II",
+      "nomeUrna": "ANGELO CORONEL FILHO",
+      "partido": "PSD",
+      "numero": "55255",
+      "votos": 1257,
+      "percentual": 18.82,
+      "sqcand": "50001607294"
+    },
+    {
+      "nome": "OSNI CARDOSO DE ARAÚJO",
+      "nomeUrna": "OSNI",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 445,
+      "percentual": 6.66,
+      "sqcand": "50001606428"
+    },
+    {
+      "nome": "ANDRE ROGERIO DE ARAUJO ANDRADE",
+      "nomeUrna": "ROGÉRIO ANDRADE",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 179,
+      "percentual": 2.68,
+      "sqcand": "50001614699"
+    },
+    {
+      "nome": "JURAILTON DE SOUSA SANTOS",
+      "nomeUrna": "JURAILTON SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 146,
+      "percentual": 2.19,
+      "sqcand": "50001619298"
+    },
+    {
+      "nome": "ALAN DE CASTRO DAYUBE",
+      "nomeUrna": "ALAN CASTRO",
+      "partido": "PV",
+      "numero": "43900",
+      "votos": 145,
+      "percentual": 2.17,
+      "sqcand": "50001606424"
+    },
+    {
+      "nome": "VALDEMIR MEDEIROS DA SILVA",
+      "nomeUrna": "VALDEMIR MEDEIROS",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 136,
+      "percentual": 2.04,
+      "sqcand": "50001606394"
+    }
+  ]
+}

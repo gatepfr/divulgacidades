@@ -1,0 +1,271 @@
+{
+  "populacao": 11210,
+  "votosValidos": 9110,
+  "abstencao": 15.45,
+  "prefeito": {
+    "nome": "JUAREZ RODRIGUES FERNANDES",
+    "nomeUrna": "JUAREZ DA BANANA",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 3955,
+    "percentual": 43.41,
+    "situacao": "Eleito",
+    "sqcand": "170002068099",
+    "vice": "SILVIO BASILIO DE LIMA",
+    "viceNomeUrna": "SILVINHO DA BANANA",
+    "partidoVice": "PL",
+    "sqcandVice": "170002068100",
+    "coligacao": "PSB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "ELISANDRA DA SILVA CUNHA",
+      "nomeUrna": "ELIS CUNHA",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 1127,
+      "percentual": 12.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002068586"
+    },
+    {
+      "nome": "JÚLIA GABRIELA DE ANDRADE LIMA COLAÇO",
+      "nomeUrna": "DRA GABI COLAÇO",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 863,
+      "percentual": 9.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002068584"
+    },
+    {
+      "nome": "ADOLFO AMAIR SILVINO BARBOSA",
+      "nomeUrna": "AMAIR",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 807,
+      "percentual": 9.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002068581"
+    },
+    {
+      "nome": "JOÃO SOARES DE MORAIS",
+      "nomeUrna": "JOÃO MORAIS",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 770,
+      "percentual": 8.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002068579"
+    },
+    {
+      "nome": "GILBERTO JORGE DA SILVA",
+      "nomeUrna": "BETO DO RAIO X",
+      "partido": "PV",
+      "numero": "43999",
+      "votos": 733,
+      "percentual": 8.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002238324"
+    },
+    {
+      "nome": "LUCIANO JOSÉ DA SILVA",
+      "nomeUrna": "LUCIANO DA FUNERÁRIA",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 662,
+      "percentual": 7.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002068585"
+    },
+    {
+      "nome": "ROSIVAL DA SILVA SANTOS",
+      "nomeUrna": "SANTOS POLICIAL",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 420,
+      "percentual": 4.75,
+      "situacao": "Eleito por média",
+      "sqcand": "170002068582"
+    },
+    {
+      "nome": "JOSÉ JOÃO DO NASCIMENTO",
+      "nomeUrna": "TETE ANASTASIO",
+      "partido": "PV",
+      "numero": "43444",
+      "votos": 379,
+      "percentual": 4.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002238329"
+    },
+    {
+      "nome": "FABRICIO  CAVALCANTI PIMENTEL",
+      "nomeUrna": "FABRICIO PIMENTEL",
+      "partido": "REPUBLICANOS",
+      "numero": "10999",
+      "votos": 350,
+      "percentual": 3.96,
+      "situacao": "Eleito por média",
+      "sqcand": "170002070301"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2167,
+      "percentual": 32.78,
+      "sqcand": "170001610248"
+    },
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 2125,
+      "percentual": 32.14,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1043,
+      "percentual": 15.78,
+      "sqcand": "170001604083"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "WALDEMAR DE ANDRADA IGNÁCIO DE OLIVEIRA",
+      "nomeUrna": "WALDEMAR OLIVEIRA",
+      "partido": "AVANTE",
+      "numero": "7070",
+      "votos": 2456,
+      "percentual": 34.36,
+      "sqcand": "170001610411"
+    },
+    {
+      "nome": "CLODOALDO MAGALHÃES OLIVEIRA LYRA",
+      "nomeUrna": "CLODOALDO MAGALHÃES",
+      "partido": "PV",
+      "numero": "4333",
+      "votos": 1292,
+      "percentual": 18.08,
+      "sqcand": "170001609025"
+    },
+    {
+      "nome": "LUIZ EDUARDO DE QUEIROZ CAMPOS DA FONTE ALBUQUERQUE",
+      "nomeUrna": "LULA DA FONTE",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 771,
+      "percentual": 10.79,
+      "sqcand": "170001618620"
+    },
+    {
+      "nome": "LUCIANO CALDAS BIVAR",
+      "nomeUrna": "LUCIANO BIVAR",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 327,
+      "percentual": 4.58,
+      "sqcand": "170001609112"
+    },
+    {
+      "nome": "JOSÉ CARLOS VERAS DOS SANTOS",
+      "nomeUrna": "CARLOS VERAS",
+      "partido": "PT",
+      "numero": "1314",
+      "votos": 302,
+      "percentual": 4.23,
+      "sqcand": "170001609028"
+    },
+    {
+      "nome": "PEDRO HENRIQUE DE ANDRADE LIMA CARNEIRO CAMPOS",
+      "nomeUrna": "PEDRO CAMPOS",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 215,
+      "percentual": 3.01,
+      "sqcand": "170001619899"
+    },
+    {
+      "nome": "ERICA CLARISSA BORBA CORDEIRO DE MOURA",
+      "nomeUrna": "CLARISSA TÉRCIO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 214,
+      "percentual": 2.99,
+      "sqcand": "170001618605"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DAVI BERNARDO MUNIZ",
+      "nomeUrna": "DAVI MUNIZ",
+      "partido": "PSB",
+      "numero": "40122",
+      "votos": 2090,
+      "percentual": 29.49,
+      "sqcand": "170001620367"
+    },
+    {
+      "nome": "CLÉBER JOSÉ DE AGUIAR DA SILVA",
+      "nomeUrna": "CHAPARRAL",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 1902,
+      "percentual": 26.84,
+      "sqcand": "170001609297"
+    },
+    {
+      "nome": "JOAQUIM ELIAS CARNEIRO DE LIRA",
+      "nomeUrna": "JOAQUIM LIRA",
+      "partido": "PV",
+      "numero": "43555",
+      "votos": 726,
+      "percentual": 10.25,
+      "sqcand": "170001608973"
+    },
+    {
+      "nome": "WALDEMAR ALBERTO BORGES RODRIGUES NETO",
+      "nomeUrna": "WALDEMAR BORGES",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 705,
+      "percentual": 9.95,
+      "sqcand": "170001620382"
+    },
+    {
+      "nome": "FRANCISMAR MENDES PONTES",
+      "nomeUrna": "FRANCISMAR",
+      "partido": "PSB",
+      "numero": "40654",
+      "votos": 337,
+      "percentual": 4.76,
+      "sqcand": "170001620393"
+    },
+    {
+      "nome": "ANTONIO DE MORAIS ANDRADE NETO",
+      "nomeUrna": "ANTONIO MORAES",
+      "partido": "PP",
+      "numero": "11200",
+      "votos": 202,
+      "percentual": 2.85,
+      "sqcand": "170001618738"
+    },
+    {
+      "nome": "JOSÉ IVANILDO DE MOURA JUNIOR",
+      "nomeUrna": "PASTOR JUNIOR TERCIO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 111,
+      "percentual": 1.57,
+      "sqcand": "170001618752"
+    }
+  ]
+}

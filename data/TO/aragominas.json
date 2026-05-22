@@ -1,0 +1,271 @@
+{
+  "populacao": 4562,
+  "votosValidos": 3819,
+  "abstencao": 13.83,
+  "prefeito": {
+    "nome": "FRANCISCO RODRIGUES",
+    "nomeUrna": "MARCOS ALEXANDRE",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 2538,
+    "percentual": 66.46,
+    "situacao": "Eleito",
+    "sqcand": "270002165127",
+    "vice": "ENEILTA ALVES DA LUZ",
+    "viceNomeUrna": "ENEILTA",
+    "partidoVice": "PDT",
+    "sqcandVice": "270002165128",
+    "coligacao": "REPUBLICANOS / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "DEVANIR LUIZ PEREIRA",
+      "nomeUrna": "DEVAIR",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 258,
+      "percentual": 6.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002165483"
+    },
+    {
+      "nome": "ALEX VASCONCELOS SODRÉ",
+      "nomeUrna": "ALEX DO LEANDRO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 252,
+      "percentual": 6.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002139333"
+    },
+    {
+      "nome": "MARIA DEUSALINA SOUSA LEITE",
+      "nomeUrna": "DEUSA LEITE",
+      "partido": "REPUBLICANOS",
+      "numero": "10110",
+      "votos": 247,
+      "percentual": 6.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002165477"
+    },
+    {
+      "nome": "LEONARDO ALVES FERREIRA",
+      "nomeUrna": "LEONARDO ALVES",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 236,
+      "percentual": 6.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002193755"
+    },
+    {
+      "nome": "ANTONIO FILHO DUARTE MOTA",
+      "nomeUrna": "ANTONIO FILHO MOTA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 214,
+      "percentual": 5.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002140069"
+    },
+    {
+      "nome": "VALQUENES OLIVEIRA SANTOS",
+      "nomeUrna": "VALQUENES",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 204,
+      "percentual": 5.28,
+      "situacao": "Eleito por média",
+      "sqcand": "270002165484"
+    },
+    {
+      "nome": "MARCIEL FERNANDES NOGUEIRA",
+      "nomeUrna": "MARCIEL DA BRITA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 180,
+      "percentual": 4.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002139325"
+    },
+    {
+      "nome": "RAIMUNDO CARVALHO FREITAS",
+      "nomeUrna": "RAIMUNDO DO AÇOUGUE",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 179,
+      "percentual": 4.63,
+      "situacao": "Eleito por média",
+      "sqcand": "270002139331"
+    },
+    {
+      "nome": "ABCELIO PEREIRA SANTANA",
+      "nomeUrna": "ABCELIO",
+      "partido": "PDT",
+      "numero": "12555",
+      "votos": 147,
+      "percentual": 3.8,
+      "situacao": "Eleito por média",
+      "sqcand": "270002139326"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "KATIA REGINA DE ABREU GOMES",
+      "nomeUrna": "KATIA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1277,
+      "percentual": 38.63,
+      "sqcand": "270001713170"
+    },
+    {
+      "nome": "MARIA AUXILIADORA SEABRA REZENDE",
+      "nomeUrna": "PROFESSORA DORINHA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1079,
+      "percentual": 32.64,
+      "sqcand": "270001649254"
+    },
+    {
+      "nome": "ATAIDES DE OLIVEIRA",
+      "nomeUrna": "ATAÍDES DE OLIVEIRA",
+      "partido": "PROS",
+      "numero": "900",
+      "votos": 679,
+      "percentual": 20.54,
+      "sqcand": "270001609016"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "TIAGO DIMAS BRAGA PEREIRA",
+      "nomeUrna": "TIAGO DIMAS",
+      "partido": "PODE",
+      "numero": "1988",
+      "votos": 1484,
+      "percentual": 43.71,
+      "sqcand": "270001642303"
+    },
+    {
+      "nome": "JOSÉ ALEXANDRE DOMINGUES GUIMARÃES",
+      "nomeUrna": "ALEXANDRE GUIMARÃES",
+      "partido": "REPUBLICANOS",
+      "numero": "1088",
+      "votos": 501,
+      "percentual": 14.76,
+      "sqcand": "270001654160"
+    },
+    {
+      "nome": "CÉLIO ALVES DE MOURA",
+      "nomeUrna": "CÉLIO MOURA",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 225,
+      "percentual": 6.63,
+      "sqcand": "270001612026"
+    },
+    {
+      "nome": "LAZARO BOTELHO MARTINS",
+      "nomeUrna": "LAZARO BOTELHO",
+      "partido": "PP",
+      "numero": "1145",
+      "votos": 223,
+      "percentual": 6.57,
+      "sqcand": "270001643406"
+    },
+    {
+      "nome": "RICARDO AYRES DE CARVALHO",
+      "nomeUrna": "RICARDO AYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 153,
+      "percentual": 4.51,
+      "sqcand": "270001654164"
+    },
+    {
+      "nome": "DULCE FERREIRA PAGANI MIRANDA",
+      "nomeUrna": "DULCE MIRANDA",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 145,
+      "percentual": 4.27,
+      "sqcand": "270001700074"
+    },
+    {
+      "nome": "JOSÉ ROBERTO RIBEIRO FORZANI",
+      "nomeUrna": "ZÉ ROBERTO LULA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 142,
+      "percentual": 4.18,
+      "sqcand": "270001612034"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "OLYNTHO GARCIA DE OLIVEIRA NETO",
+      "nomeUrna": "OLYNTHO NETO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1238,
+      "percentual": 37.45,
+      "sqcand": "270001654147"
+    },
+    {
+      "nome": "ELENIL DA PENHA ALVES DE BRITO",
+      "nomeUrna": "ELENIL",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 345,
+      "percentual": 10.44,
+      "sqcand": "270001700076"
+    },
+    {
+      "nome": "EDUARDO BONAGURA",
+      "nomeUrna": "EDUARDO DO DERTINS",
+      "partido": "CIDADANIA",
+      "numero": "23222",
+      "votos": 312,
+      "percentual": 9.44,
+      "sqcand": "270001643143"
+    },
+    {
+      "nome": "ISSAM SAADO",
+      "nomeUrna": "ISSAM SAADO",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 277,
+      "percentual": 8.38,
+      "sqcand": "270001654150"
+    },
+    {
+      "nome": "VALDEREZ CASTELO BRANCO MARTINS",
+      "nomeUrna": "VALDEREZ CASTELO BRANCO",
+      "partido": "REPUBLICANOS",
+      "numero": "10145",
+      "votos": 254,
+      "percentual": 7.68,
+      "sqcand": "270001654145"
+    },
+    {
+      "nome": "YHGOR LEONARDO CASTRO LEITE",
+      "nomeUrna": "LEO BARBOSA",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 151,
+      "percentual": 4.57,
+      "sqcand": "270001654146"
+    },
+    {
+      "nome": "EDVALDO SOARES OLIVEIRA",
+      "nomeUrna": "EDVALDO SOARES",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 119,
+      "percentual": 3.6,
+      "sqcand": "270001620117"
+    }
+  ]
+}

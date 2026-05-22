@@ -1,0 +1,271 @@
+{
+  "populacao": 3651,
+  "votosValidos": 2145,
+  "abstencao": 27.42,
+  "prefeito": {
+    "nome": "FAUSTO DUARTE",
+    "nomeUrna": "FAUSTO DUARTE",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 2145,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "130001950390",
+    "vice": "EDIVALDO FERNANDES DE AMORIM",
+    "viceNomeUrna": "EDIVALDO AMORIM",
+    "partidoVice": "PSDB",
+    "sqcandVice": "130001950389",
+    "coligacao": "REPUBLICANOS / CIDADANIA / PSDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIA IZABEL DUARTE MESQUITA",
+      "nomeUrna": "MARIA IZABEL",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 174,
+      "percentual": 6.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001959924"
+    },
+    {
+      "nome": "ADRIANO DE SOUSA SANTOS",
+      "nomeUrna": "ADRIANO RISADINHA",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 170,
+      "percentual": 6.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002165134"
+    },
+    {
+      "nome": "TULIO PIRES MENDES",
+      "nomeUrna": "TÚLIO PIRES",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 162,
+      "percentual": 6.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001983533"
+    },
+    {
+      "nome": "ANTONIO FORTUNATO FILHO",
+      "nomeUrna": "TONINHO FORTUNATO",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 155,
+      "percentual": 6.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001983532"
+    },
+    {
+      "nome": "JUCIANA TEIXEIRA DA SILVA",
+      "nomeUrna": "JÚ DA LOTÉRICA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 126,
+      "percentual": 4.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001983537"
+    },
+    {
+      "nome": "ROBERVAL PEREIRA DE MELO FILHO",
+      "nomeUrna": "ROBERVAL ZÉ PRETIM",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 124,
+      "percentual": 4.85,
+      "situacao": "Eleito por média",
+      "sqcand": "130001983535"
+    },
+    {
+      "nome": "FABIO RODRIGUES LIMA",
+      "nomeUrna": "FABIO DO BANCO",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 109,
+      "percentual": 4.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001960019"
+    },
+    {
+      "nome": "EDVALDO GOMES SIQUEIRA",
+      "nomeUrna": "EDVALDO ENFERMEIRO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 106,
+      "percentual": 4.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002165135"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS DO LINO MARES",
+      "nomeUrna": "ANTÔNIO CARLOS BLECÃO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 105,
+      "percentual": 4.11,
+      "situacao": "Eleito por média",
+      "sqcand": "130002165137"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 900,
+      "percentual": 45.89,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 653,
+      "percentual": 33.3,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 398,
+      "percentual": 20.3,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "EUCLYDES MARCOS PETTERSEN NETO",
+      "nomeUrna": "EUCLYDES PETTERSEN",
+      "partido": "PSC",
+      "numero": "2015",
+      "votos": 1038,
+      "percentual": 49.76,
+      "sqcand": "130001671754"
+    },
+    {
+      "nome": "PAULO ABI-ACKEL",
+      "nomeUrna": "PAULO ABI-ACKEL",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 157,
+      "percentual": 7.53,
+      "sqcand": "130001613373"
+    },
+    {
+      "nome": "NEWTON CARDOSO JÚNIOR",
+      "nomeUrna": "NEWTON CARDOSO JR",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 140,
+      "percentual": 6.71,
+      "sqcand": "130001668913"
+    },
+    {
+      "nome": "JOSÉ LEONARDO COSTA MONTEIRO",
+      "nomeUrna": "LEONARDO MONTEIRO",
+      "partido": "PT",
+      "numero": "1363",
+      "votos": 94,
+      "percentual": 4.51,
+      "sqcand": "130001607248"
+    },
+    {
+      "nome": "HERCILIO ARAUJO DINIZ FILHO",
+      "nomeUrna": "HERCILIO COELHO DINIZ",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 93,
+      "percentual": 4.46,
+      "sqcand": "130001668912"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 46,
+      "percentual": 2.21,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "PAULO HENRIQUE PAULINO E SILVA",
+      "nomeUrna": "PAULO BIGODINHO",
+      "partido": "PV",
+      "numero": "4377",
+      "votos": 46,
+      "percentual": 2.21,
+      "sqcand": "130001607242"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "NEILANDO ALVES PIMENTA",
+      "nomeUrna": "NEILANDO PIMENTA",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 837,
+      "percentual": 43.17,
+      "sqcand": "130001613144"
+    },
+    {
+      "nome": "GUSTAVO DE VASCONCELLOS MOREIRA",
+      "nomeUrna": "GUSTAVO SANTANA",
+      "partido": "PL",
+      "numero": "22800",
+      "votos": 186,
+      "percentual": 9.59,
+      "sqcand": "130001619055"
+    },
+    {
+      "nome": "JORGE LUIZ FORTUNATO ALI",
+      "nomeUrna": "DR. JORGE ALI",
+      "partido": "PSC",
+      "numero": "20100",
+      "votos": 174,
+      "percentual": 8.97,
+      "sqcand": "130001671867"
+    },
+    {
+      "nome": "WASHINGTON FERNANDO RODRIGUES",
+      "nomeUrna": "SARGENTO RODRIGUES",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 125,
+      "percentual": 6.45,
+      "sqcand": "130001619068"
+    },
+    {
+      "nome": "JOSÉ LAVIOLA NETO DE LIRA",
+      "nomeUrna": "ZÉ LAVIOLA",
+      "partido": "NOVO",
+      "numero": "30011",
+      "votos": 93,
+      "percentual": 4.8,
+      "sqcand": "130001598589"
+    },
+    {
+      "nome": "ELISA MARIA COSTA",
+      "nomeUrna": "ELISA  COSTA",
+      "partido": "PT",
+      "numero": "13680",
+      "votos": 71,
+      "percentual": 3.66,
+      "sqcand": "130001607372"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 64,
+      "percentual": 3.3,
+      "sqcand": "130001607392"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 5174,
+  "votosValidos": 4254,
+  "abstencao": 9.34,
+  "prefeito": {
+    "nome": "VANDERLEI RAIMUNDO DE CARVALHO",
+    "nomeUrna": "VANDERLEI",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 4254,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "180001938118",
+    "vice": "ALEX DE SOUSA OLIVEIRA",
+    "viceNomeUrna": "ALEX",
+    "partidoVice": "MDB",
+    "sqcandVice": "180001938117",
+    "coligacao": "MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "EDILENE RODRIGUES DE OLIVEIRA PAULA",
+      "nomeUrna": "DILORA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 587,
+      "percentual": 13.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001937899"
+    },
+    {
+      "nome": "RAILA CAMPOS DE SOUSA",
+      "nomeUrna": "RAILA CAMPOS",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 561,
+      "percentual": 12.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001937896"
+    },
+    {
+      "nome": "RAIMUNDO DE CARVALHO DAMASCENO",
+      "nomeUrna": "RAIMUNDO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 555,
+      "percentual": 12.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001937902"
+    },
+    {
+      "nome": "FRANCISCO DE ABREU",
+      "nomeUrna": "CHICO ABREU",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 454,
+      "percentual": 10.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001937900"
+    },
+    {
+      "nome": "RAELSON REIS FERREIRA",
+      "nomeUrna": "RAELSON",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 440,
+      "percentual": 9.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001937905"
+    },
+    {
+      "nome": "FRANCIVAN  DE CARVALHO FERNANDES",
+      "nomeUrna": "FRAN",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 393,
+      "percentual": 8.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001937901"
+    },
+    {
+      "nome": "MARIA EDUARDA DE OLIVEIRA  ROCHA",
+      "nomeUrna": "MARIA EDUARDA",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 351,
+      "percentual": 7.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002391428"
+    },
+    {
+      "nome": "PEDRO JOSE DE SOUSA FILHO",
+      "nomeUrna": "PEDRO FILHO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 328,
+      "percentual": 7.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001937897"
+    },
+    {
+      "nome": "FRANCISCO CHARLES DA SILVA OLIVEIRA",
+      "nomeUrna": "CHARLIM",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 326,
+      "percentual": 7.4,
+      "situacao": "Eleito por média",
+      "sqcand": "180001937898"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2896,
+      "percentual": 76.01,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 907,
+      "percentual": 23.81,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "ANTONIO JOSÉ FONTINELE DA SILVA",
+      "nomeUrna": "PROFESSOR AJOSÉ",
+      "partido": "PMN",
+      "numero": "333",
+      "votos": 5,
+      "percentual": 0.13,
+      "sqcand": "180001714361"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCOS AURELIO PADUA RIBEIRO GONÇALVES DE SAMPAIO",
+      "nomeUrna": "MARCOS AURELIO SAMPAIO",
+      "partido": "PSD",
+      "numero": "5515",
+      "votos": 2298,
+      "percentual": 58.18,
+      "sqcand": "180001602554"
+    },
+    {
+      "nome": "JULIO CÉSAR DE CARVALHO LIMA",
+      "nomeUrna": "JULIO CÉSAR",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 474,
+      "percentual": 12.0,
+      "sqcand": "180001602553"
+    },
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 267,
+      "percentual": 6.76,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "WILSON NUNES MARTINS",
+      "nomeUrna": "WILSON MARTINS",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 245,
+      "percentual": 6.2,
+      "sqcand": "180001610757"
+    },
+    {
+      "nome": "ÁTILA DE MELO LIRA",
+      "nomeUrna": "ATILA",
+      "partido": "PP",
+      "numero": "1110",
+      "votos": 177,
+      "percentual": 4.48,
+      "sqcand": "180001602514"
+    },
+    {
+      "nome": "REJANE RIBEIRO SOUSA DIAS",
+      "nomeUrna": "REJANE DIAS",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 130,
+      "percentual": 3.29,
+      "sqcand": "180001610756"
+    },
+    {
+      "nome": "FLAVIO RODRIGUES NOGUEIRA",
+      "nomeUrna": "FLAVIO NOGUEIRA",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 114,
+      "percentual": 2.89,
+      "sqcand": "180001610759"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PABLO DANTAS DE MOURA SANTOS",
+      "nomeUrna": "DR PABLO SANTOS",
+      "partido": "MDB",
+      "numero": "15199",
+      "votos": 2523,
+      "percentual": 66.92,
+      "sqcand": "180001605769"
+    },
+    {
+      "nome": "GEORGIANO FERNANDES LIMA NETO",
+      "nomeUrna": "GEORGIANO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 526,
+      "percentual": 13.95,
+      "sqcand": "180001605763"
+    },
+    {
+      "nome": "ALDO GIL DE MEDEIROS",
+      "nomeUrna": "ALDO GIL",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 190,
+      "percentual": 5.04,
+      "sqcand": "180001604053"
+    },
+    {
+      "nome": "EVALDO GOMES DA SILVA",
+      "nomeUrna": "EVALDO GOMES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77789",
+      "votos": 99,
+      "percentual": 2.63,
+      "sqcand": "180001601308"
+    },
+    {
+      "nome": "THALES COELHO PIMENTEL",
+      "nomeUrna": "DR. THALES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 93,
+      "percentual": 2.47,
+      "sqcand": "180001604044"
+    },
+    {
+      "nome": "IDONEIL SANTANA MESQUITA",
+      "nomeUrna": "IDONEIL MESQUITA",
+      "partido": "PP",
+      "numero": "11200",
+      "votos": 53,
+      "percentual": 1.41,
+      "sqcand": "180001604046"
+    },
+    {
+      "nome": "MARIA ROSALINA DOS SANTOS",
+      "nomeUrna": "ROSALINA",
+      "partido": "PT",
+      "numero": "13300",
+      "votos": 30,
+      "percentual": 0.8,
+      "sqcand": "180001605688"
+    }
+  ]
+}

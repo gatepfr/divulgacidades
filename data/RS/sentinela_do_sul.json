@@ -1,0 +1,271 @@
+{
+  "populacao": 4298,
+  "votosValidos": 3411,
+  "abstencao": 17.38,
+  "prefeito": {
+    "nome": "JULIO CESAR CARVALHO",
+    "nomeUrna": "JULIO CARVALHO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1720,
+    "percentual": 50.43,
+    "situacao": "Eleito",
+    "sqcand": "210002210424",
+    "vice": "NILSON OLI MOREIRA BARBOSA",
+    "viceNomeUrna": "NILSON BARBOSA",
+    "partidoVice": "PP",
+    "sqcandVice": "210002210423",
+    "coligacao": "PP"
+  },
+  "vereadores": [
+    {
+      "nome": "ROGLES COSTA CARVALHO",
+      "nomeUrna": "RÓGLES DO TÁXI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 316,
+      "percentual": 9.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002046116"
+    },
+    {
+      "nome": "MARCIA SEIXAS",
+      "nomeUrna": "MARCIA SEIXAS",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 225,
+      "percentual": 6.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002046115"
+    },
+    {
+      "nome": "DILVANE CORREA DE LIMA",
+      "nomeUrna": "DILVANE DE LIMA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 217,
+      "percentual": 6.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002046109"
+    },
+    {
+      "nome": "BRUNO VICEREKI TRESCASTRO",
+      "nomeUrna": "BRUNO TRESCASTRO",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 145,
+      "percentual": 4.23,
+      "situacao": "Eleito por média",
+      "sqcand": "210002046107"
+    },
+    {
+      "nome": "JACIR RAPHAELLI BERNAR",
+      "nomeUrna": "JACIR RAPHAELLI BERNAR",
+      "partido": "PDT",
+      "numero": "12630",
+      "votos": 137,
+      "percentual": 4.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002061119"
+    },
+    {
+      "nome": "JORGE VITOR ALMEIDA FERREIRA",
+      "nomeUrna": "JOCA",
+      "partido": "PP",
+      "numero": "11600",
+      "votos": 121,
+      "percentual": 3.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002256277"
+    },
+    {
+      "nome": "REJANE SILVEIRA RODEL",
+      "nomeUrna": "REJANE DA FARMÁCIA",
+      "partido": "PP",
+      "numero": "11650",
+      "votos": 102,
+      "percentual": 2.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002256280"
+    },
+    {
+      "nome": "MARCIO SILVA",
+      "nomeUrna": "MARCIO",
+      "partido": "PDT",
+      "numero": "12280",
+      "votos": 78,
+      "percentual": 2.28,
+      "situacao": "Eleito por média",
+      "sqcand": "210002061126"
+    },
+    {
+      "nome": "GERSON LUIZ DE OLIVEIRA DIAS",
+      "nomeUrna": "GERSON DIAS",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 72,
+      "percentual": 2.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002360513"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1126,
+      "percentual": 40.87,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 964,
+      "percentual": 34.99,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 630,
+      "percentual": 22.87,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 548,
+      "percentual": 18.98,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "FÁBIA ALMEIDA RICHTER",
+      "nomeUrna": "ENFERMEIRA FÁBIA RICHTER",
+      "partido": "PSD",
+      "numero": "5540",
+      "votos": 338,
+      "percentual": 11.71,
+      "sqcand": "210001613998"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 196,
+      "percentual": 6.79,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 156,
+      "percentual": 5.4,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "MARCELO PIRES MORAES",
+      "nomeUrna": "MARCELO MORAES",
+      "partido": "PL",
+      "numero": "2214",
+      "votos": 133,
+      "percentual": 4.61,
+      "sqcand": "210001648576"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 87,
+      "percentual": 3.01,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 85,
+      "percentual": 2.94,
+      "sqcand": "210001647870"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCUS VINÍCIUS VIEIRA DE ALMEIDA",
+      "nomeUrna": "MARCUS VINÍCIUS",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 1311,
+      "percentual": 46.26,
+      "sqcand": "210001647184"
+    },
+    {
+      "nome": "SILVIO LUIZ DA SILVA RAFAELI",
+      "nomeUrna": "SILVIO RAFAELI",
+      "partido": "PDT",
+      "numero": "12200",
+      "votos": 347,
+      "percentual": 12.24,
+      "sqcand": "210001621304"
+    },
+    {
+      "nome": "JOSÉ SIDNEY NUNES DE ALMEIDA",
+      "nomeUrna": "ZÉ NUNES",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 87,
+      "percentual": 3.07,
+      "sqcand": "210001610623"
+    },
+    {
+      "nome": "ABNER DOS SANTOS DILLMANN",
+      "nomeUrna": "ABNER DILLMANN",
+      "partido": "PSDB",
+      "numero": "45500",
+      "votos": 85,
+      "percentual": 3.0,
+      "sqcand": "210001620209"
+    },
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 77,
+      "percentual": 2.72,
+      "sqcand": "210001647995"
+    },
+    {
+      "nome": "ELIZANDRO SILVA DE FREITAS SABINO",
+      "nomeUrna": "ELIZANDRO SABINO",
+      "partido": "PTB",
+      "numero": "14777",
+      "votos": 59,
+      "percentual": 2.08,
+      "sqcand": "210001649774"
+    },
+    {
+      "nome": "MIGUEL SOLDATELLI ROSSETTO",
+      "nomeUrna": "MIGUEL ROSSETTO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 43,
+      "percentual": 1.52,
+      "sqcand": "210001610633"
+    }
+  ]
+}

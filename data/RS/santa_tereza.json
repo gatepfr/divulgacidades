@@ -1,0 +1,271 @@
+{
+  "populacao": 1800,
+  "votosValidos": 1247,
+  "abstencao": 11.67,
+  "prefeito": {
+    "nome": "GISELE CAUMO",
+    "nomeUrna": "GISELE CAUMO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1247,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "210002277441",
+    "vice": "DIOGO FARINA",
+    "viceNomeUrna": "DIOGO FARINA",
+    "partidoVice": "PSDB",
+    "sqcandVice": "210002277442",
+    "coligacao": "PP / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "NEI PAULO BONGIORNO",
+      "nomeUrna": "BONGIORNO",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 187,
+      "percentual": 12.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001953366"
+    },
+    {
+      "nome": "MARCELO BIELSKI MISZEWSKI",
+      "nomeUrna": "MARCELO BIELSKI",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 166,
+      "percentual": 11.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002224365"
+    },
+    {
+      "nome": "IVALDO PISSETTI",
+      "nomeUrna": "IVALDO PISSETTI",
+      "partido": "MDB",
+      "numero": "15515",
+      "votos": 132,
+      "percentual": 8.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002261486"
+    },
+    {
+      "nome": "LAIS DE OLIVEIRA BATISTI",
+      "nomeUrna": "LAIS BATISTI",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 128,
+      "percentual": 8.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002224358"
+    },
+    {
+      "nome": "TIAGO PILAN",
+      "nomeUrna": "TIAGO PILAN",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 113,
+      "percentual": 7.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002224360"
+    },
+    {
+      "nome": "LOIRI BALDISSERA",
+      "nomeUrna": "LOIRI BALDISSERA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 110,
+      "percentual": 7.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002224357"
+    },
+    {
+      "nome": "MARCIO PILATTI",
+      "nomeUrna": "MARCIO PILATTI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 105,
+      "percentual": 7.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001953367"
+    },
+    {
+      "nome": "VALDECIR CASAGRANDE LANDO",
+      "nomeUrna": "VALDECIR LANDO",
+      "partido": "MDB",
+      "numero": "15525",
+      "votos": 91,
+      "percentual": 6.07,
+      "situacao": "Eleito por média",
+      "sqcand": "210001953368"
+    },
+    {
+      "nome": "SERGIO ANTONIO KOTZ",
+      "nomeUrna": "SERGIO KOTZ",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 90,
+      "percentual": 6.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002224359"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 633,
+      "percentual": 48.65,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 395,
+      "percentual": 30.36,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 270,
+      "percentual": 20.75,
+      "sqcand": "210001619906"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 403,
+      "percentual": 28.91,
+      "sqcand": "210001596134"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 375,
+      "percentual": 26.9,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "PAULO VICENTE CALEFFI",
+      "nomeUrna": "PAULO CALEFFI",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 73,
+      "percentual": 5.24,
+      "sqcand": "210001614007"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 62,
+      "percentual": 4.45,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 48,
+      "percentual": 3.44,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 46,
+      "percentual": 3.3,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 36,
+      "percentual": 2.58,
+      "sqcand": "210001604643"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RONALDO SANTINI",
+      "nomeUrna": "SANTINI",
+      "partido": "PODE",
+      "numero": "19777",
+      "votos": 424,
+      "percentual": 31.45,
+      "sqcand": "210001596147"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 377,
+      "percentual": 27.97,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "GUILHERME RECH PASIN",
+      "nomeUrna": "GUILHERME PASIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 194,
+      "percentual": 14.39,
+      "sqcand": "210001647169"
+    },
+    {
+      "nome": "GILBERTO JOSÉ SPIER VARGAS",
+      "nomeUrna": "PEPE VARGAS",
+      "partido": "PT",
+      "numero": "13001",
+      "votos": 74,
+      "percentual": 5.49,
+      "sqcand": "210001610611"
+    },
+    {
+      "nome": "CARLOS ANTÔNIO BÚRIGO",
+      "nomeUrna": "CARLOS BÚRIGO",
+      "partido": "MDB",
+      "numero": "15140",
+      "votos": 69,
+      "percentual": 5.12,
+      "sqcand": "210001647971"
+    },
+    {
+      "nome": "RODRIGO LORENZINI ZUCCO",
+      "nomeUrna": "DELEGADO ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 14,
+      "percentual": 1.04,
+      "sqcand": "210001601638"
+    },
+    {
+      "nome": "EDUARDO POMPERMAYER",
+      "nomeUrna": "DUDA POMPERMAYER",
+      "partido": "UNIÃO",
+      "numero": "44400",
+      "votos": 13,
+      "percentual": 0.96,
+      "sqcand": "210001601949"
+    }
+  ]
+}

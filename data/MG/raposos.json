@@ -1,0 +1,291 @@
+{
+  "populacao": 12943,
+  "votosValidos": 10874,
+  "abstencao": 11.49,
+  "prefeito": {
+    "nome": "GUILHERME HENRIQUE ALVES BITENCOURT",
+    "nomeUrna": "GUILHERME BITENCOURT",
+    "partido": "CIDADANIA",
+    "numero": "23",
+    "votos": 4933,
+    "percentual": 45.37,
+    "situacao": "Eleito",
+    "sqcand": "130001956822",
+    "vice": "FABRÍCIA ALEXANDRA DOS SANTOS",
+    "viceNomeUrna": "FABRÍCIA DO RESTAURANTE",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "130001956823",
+    "coligacao": "UNIÃO / SOLIDARIEDADE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LEONARDO SILVEIRA SOARES",
+      "nomeUrna": "LEO DA BOTA",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 753,
+      "percentual": 6.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001904763"
+    },
+    {
+      "nome": "MARCOS AURELIO SILVA",
+      "nomeUrna": "MARCOS BG",
+      "partido": "REPUBLICANOS",
+      "numero": "10800",
+      "votos": 349,
+      "percentual": 3.2,
+      "situacao": "Eleito por média",
+      "sqcand": "130001935278"
+    },
+    {
+      "nome": "MATHEUS HENRIQUE ALVES PEREIRA",
+      "nomeUrna": "MATHEUS DO SALÃO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 316,
+      "percentual": 2.89,
+      "situacao": "Eleito por média",
+      "sqcand": "130001995728"
+    },
+    {
+      "nome": "IGOR HENRIQUE PEREIRA",
+      "nomeUrna": "IGOR PEREIRA",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 308,
+      "percentual": 2.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002032269"
+    },
+    {
+      "nome": "ALEXANDRE ANTONIO DOS ANJOS JUNIOR",
+      "nomeUrna": "ALEXANDRE JUNIOR",
+      "partido": "PSOL",
+      "numero": "50000",
+      "votos": 270,
+      "percentual": 2.47,
+      "situacao": "Eleito por média",
+      "sqcand": "130002065437"
+    },
+    {
+      "nome": "WANDERSON GOMES DE ALMEIDA",
+      "nomeUrna": "SANSÃO RAPOSOS",
+      "partido": "AVANTE",
+      "numero": "70111",
+      "votos": 263,
+      "percentual": 2.41,
+      "situacao": "Eleito por média",
+      "sqcand": "130001935048"
+    },
+    {
+      "nome": "WARLEI TEODORO DA SILVA",
+      "nomeUrna": "WARLEI DA BARRACA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 246,
+      "percentual": 2.25,
+      "situacao": "Eleito por média",
+      "sqcand": "130002099392"
+    },
+    {
+      "nome": "ELSON RAIMUNDO LOPES",
+      "nomeUrna": "TIMBAL",
+      "partido": "PP",
+      "numero": "11500",
+      "votos": 227,
+      "percentual": 2.08,
+      "situacao": "Eleito por média",
+      "sqcand": "130001911594"
+    },
+    {
+      "nome": "CESAR JUNIOR MESSIAS",
+      "nomeUrna": "COELHO DA RAÇÃO",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 201,
+      "percentual": 1.84,
+      "situacao": "Eleito por média",
+      "sqcand": "130001904757"
+    },
+    {
+      "nome": "HYLEANA PAULA FERREIRA TORRES",
+      "nomeUrna": "PAULA DOIDA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 168,
+      "percentual": 1.54,
+      "situacao": "Eleito por média",
+      "sqcand": "130001904759"
+    },
+    {
+      "nome": "GUSTAVO PULQUÉRIO",
+      "nomeUrna": "GUSTAVO PERSONAL",
+      "partido": "NOVO",
+      "numero": "30555",
+      "votos": 152,
+      "percentual": 1.39,
+      "situacao": "Eleito por média",
+      "sqcand": "130002188848"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 3461,
+      "percentual": 37.73,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2969,
+      "percentual": 32.36,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 2518,
+      "percentual": 27.45,
+      "sqcand": "130001671677"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1244,
+      "percentual": 13.44,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "NELI PEREIRA DE AQUINO",
+      "nomeUrna": "NELY AQUINO",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 871,
+      "percentual": 9.41,
+      "sqcand": "130001634141"
+    },
+    {
+      "nome": "CARLOS ROBERTO RODRIGUES",
+      "nomeUrna": "CARLINHOS RODRIGUES",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 794,
+      "percentual": 8.58,
+      "sqcand": "130001607268"
+    },
+    {
+      "nome": "PEDRO DOSHIKAZU PIANCHAO AIHARA",
+      "nomeUrna": "PEDRO AIHARA",
+      "partido": "PATRIOTA",
+      "numero": "5193",
+      "votos": 683,
+      "percentual": 7.38,
+      "sqcand": "130001596021"
+    },
+    {
+      "nome": "JULIANA ELLEN DE SALES",
+      "nomeUrna": "JULIANA SALES",
+      "partido": "CIDADANIA",
+      "numero": "2300",
+      "votos": 381,
+      "percentual": 4.12,
+      "sqcand": "130001613347"
+    },
+    {
+      "nome": "ÁLVARO DAMIÃO VIEIRA DA PAZ",
+      "nomeUrna": "ÁLVARO DAMIÃO",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 335,
+      "percentual": 3.62,
+      "sqcand": "130001607617"
+    },
+    {
+      "nome": "DUDA SALABERT ROSA",
+      "nomeUrna": "DUDA SALABERT",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 261,
+      "percentual": 2.82,
+      "sqcand": "130001606697"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSE GUILHERME FERREIRA FILHO",
+      "nomeUrna": "ZÉ GUILHERME",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1003,
+      "percentual": 11.18,
+      "sqcand": "130001615639"
+    },
+    {
+      "nome": "WESLEY DE JESUS SILVA",
+      "nomeUrna": "WESLEY DE JESUS",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 827,
+      "percentual": 9.22,
+      "sqcand": "130001615591"
+    },
+    {
+      "nome": "RAIMUNDO NONATO DA SILVA",
+      "nomeUrna": "NONATO DAS CORRIDAS",
+      "partido": "PRTB",
+      "numero": "28900",
+      "votos": 558,
+      "percentual": 6.22,
+      "sqcand": "130001612861"
+    },
+    {
+      "nome": "MÁRIO HENRIQUE DA SILVA",
+      "nomeUrna": "MÁRIO HENRIQUE CAIXA",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 552,
+      "percentual": 6.15,
+      "sqcand": "130001607416"
+    },
+    {
+      "nome": "MAURO HENRIQUE TRAMONTE",
+      "nomeUrna": "MAURO TRAMONTE",
+      "partido": "REPUBLICANOS",
+      "numero": "10800",
+      "votos": 524,
+      "percentual": 5.84,
+      "sqcand": "130001634063"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 490,
+      "percentual": 5.46,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "JOÃO VITOR XAVIER FAUSTINO",
+      "nomeUrna": "JOÃO VITOR XAVIER",
+      "partido": "CIDADANIA",
+      "numero": "23200",
+      "votos": 352,
+      "percentual": 3.92,
+      "sqcand": "130001613297"
+    }
+  ]
+}

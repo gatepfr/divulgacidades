@@ -1,0 +1,271 @@
+{
+  "populacao": 7504,
+  "votosValidos": 5740,
+  "abstencao": 19.64,
+  "prefeito": {
+    "nome": "ROGERSON APARECIDO BURJALON RUIZ",
+    "nomeUrna": "TÊ",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3535,
+    "percentual": 61.59,
+    "situacao": "Eleito",
+    "sqcand": "250002277668",
+    "vice": "NAZARENO FABIO NETO",
+    "viceNomeUrna": "FABINHO",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002277669",
+    "coligacao": "PP / MDB / PRD / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "MARLON GABRIEL OLOKO",
+      "nomeUrna": "MARLON EVOLUSOM",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 402,
+      "percentual": 7.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002278210"
+    },
+    {
+      "nome": "MARCIA ROZOLIN",
+      "nomeUrna": "MARCIA VEREADORA",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 397,
+      "percentual": 6.97,
+      "situacao": "Eleito por média",
+      "sqcand": "250002284182"
+    },
+    {
+      "nome": "EDUARDO LUIZ LORENZATO FILHO",
+      "nomeUrna": "EDUARDINHO LORENZATO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 308,
+      "percentual": 5.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002277905"
+    },
+    {
+      "nome": "PAULO CESAR FABIO",
+      "nomeUrna": "PAULO RISADINHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 232,
+      "percentual": 4.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002200198"
+    },
+    {
+      "nome": "CESAR ROBERTO FERREIRA DO NASCIMENTO",
+      "nomeUrna": "CESINHA BARBEIRO",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 193,
+      "percentual": 3.39,
+      "situacao": "Eleito por média",
+      "sqcand": "250002277900"
+    },
+    {
+      "nome": "EDMILSON FERREIRA DOS SANTOS",
+      "nomeUrna": "MIXA",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 176,
+      "percentual": 3.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002199994"
+    },
+    {
+      "nome": "PAULO VITOR BALSAMO",
+      "nomeUrna": "PAULO VITOR",
+      "partido": "PSD",
+      "numero": "55400",
+      "votos": 174,
+      "percentual": 3.06,
+      "situacao": "Eleito por média",
+      "sqcand": "250002200002"
+    },
+    {
+      "nome": "DÉCIO FERNANDES DOS SANTOS",
+      "nomeUrna": "DÉCIO MECÂNICO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 173,
+      "percentual": 3.04,
+      "situacao": "Eleito por média",
+      "sqcand": "250002278215"
+    },
+    {
+      "nome": "PEDRO EGNALDO DIANA",
+      "nomeUrna": "EGNALDO DESPACHANTE",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 146,
+      "percentual": 2.56,
+      "situacao": "Eleito por média",
+      "sqcand": "250002277966"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2913,
+      "percentual": 64.49,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1134,
+      "percentual": 25.11,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 313,
+      "percentual": 6.93,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RICARDO AUGUSTO MACHADO DA SILVA",
+      "nomeUrna": "RICARDO SILVA",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 932,
+      "percentual": 18.99,
+      "sqcand": "250001604967"
+    },
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 890,
+      "percentual": 18.13,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "MANOEL MAURICIO SILVA NEVES",
+      "nomeUrna": "MAURICIO NEVES",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 190,
+      "percentual": 3.87,
+      "sqcand": "250001611990"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 184,
+      "percentual": 3.75,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "ANTONIO CEZAR CORREIA FREIRE",
+      "nomeUrna": "CEZINHA DE MADUREIRA",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 162,
+      "percentual": 3.3,
+      "sqcand": "250001604948"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 158,
+      "percentual": 3.22,
+      "sqcand": "250001611315"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 145,
+      "percentual": 2.95,
+      "sqcand": "250001611365"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAFAEL ANTONIO DA SILVA",
+      "nomeUrna": "RAFAEL SILVA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 898,
+      "percentual": 19.41,
+      "sqcand": "250001605053"
+    },
+    {
+      "nome": "OCIMAR DONIZETI LEO OLIVEIRA",
+      "nomeUrna": "LEO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 827,
+      "percentual": 17.88,
+      "sqcand": "250001610005"
+    },
+    {
+      "nome": "ANTONIO ASSUNÇÃO DE OLIM",
+      "nomeUrna": "DELEGADO OLIM",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 229,
+      "percentual": 4.95,
+      "sqcand": "250001612298"
+    },
+    {
+      "nome": "ANALICE FERNANDES",
+      "nomeUrna": "ANALICE FERNANDES",
+      "partido": "PSDB",
+      "numero": "45400",
+      "votos": 159,
+      "percentual": 3.44,
+      "sqcand": "250001611452"
+    },
+    {
+      "nome": "OSEIAS SANTOS DA SILVA",
+      "nomeUrna": "OSEIAS DE MADUREIRA",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 153,
+      "percentual": 3.31,
+      "sqcand": "250001605013"
+    },
+    {
+      "nome": "FABIANA DE LIMA BARROSO",
+      "nomeUrna": "FABIANA B.",
+      "partido": "PL",
+      "numero": "22051",
+      "votos": 133,
+      "percentual": 2.88,
+      "sqcand": "250001610130"
+    },
+    {
+      "nome": "SEBASTIÃO DOS SANTOS FILHO",
+      "nomeUrna": "SEBASTIÃO SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10321",
+      "votos": 128,
+      "percentual": 2.77,
+      "sqcand": "250001639573"
+    }
+  ]
+}

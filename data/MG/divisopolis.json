@@ -1,0 +1,271 @@
+{
+  "populacao": 7325,
+  "votosValidos": 5418,
+  "abstencao": 20.34,
+  "prefeito": {
+    "nome": "EUDER DE LIMA ROSEMBERG MENDES",
+    "nomeUrna": "EUDER MENDES",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 4279,
+    "percentual": 78.98,
+    "situacao": "Eleito",
+    "sqcand": "130001933420",
+    "vice": "ALVIMAR DOS SANTOS AMORIM",
+    "viceNomeUrna": "MAZINHO",
+    "partidoVice": "PSD",
+    "sqcandVice": "130001933421",
+    "coligacao": "PP / REPUBLICANOS / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "CARLOS SANTOS DIAS",
+      "nomeUrna": "CARLOS DIAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 557,
+      "percentual": 10.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002231261"
+    },
+    {
+      "nome": "MACIEL DIAS MORAIS",
+      "nomeUrna": "MACIEL DOS POMBOS",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 500,
+      "percentual": 9.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002187046"
+    },
+    {
+      "nome": "CLAUDIO DA SILVA FERREIRA",
+      "nomeUrna": "CLAUDIO DE AGRIPINO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 361,
+      "percentual": 6.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002187053"
+    },
+    {
+      "nome": "JOSE MARQUES DE JESUS PEREIRA",
+      "nomeUrna": "TICA DE DELI",
+      "partido": "PP",
+      "numero": "11666",
+      "votos": 341,
+      "percentual": 6.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002187054"
+    },
+    {
+      "nome": "ERIBALDO CIDRÃO FILHO",
+      "nomeUrna": "ARI CIDRÃO",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 293,
+      "percentual": 5.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002339564"
+    },
+    {
+      "nome": "WILSON SOUZA FERREIRA",
+      "nomeUrna": "VILSON SOUSA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 286,
+      "percentual": 5.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002187050"
+    },
+    {
+      "nome": "DOUGLAS LIMA PRATES",
+      "nomeUrna": "DOUGLAS PRATES",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 283,
+      "percentual": 5.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002231264"
+    },
+    {
+      "nome": "ADEMIR RIBEIRO DA SILVA",
+      "nomeUrna": "ADEMIR RIBEIRO",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 244,
+      "percentual": 4.4,
+      "situacao": "Eleito por média",
+      "sqcand": "130002340176"
+    },
+    {
+      "nome": "LUCENI RODRIGUES PEREIRA",
+      "nomeUrna": "LUCENI",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 240,
+      "percentual": 4.33,
+      "situacao": "Eleito por média",
+      "sqcand": "130002187051"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2604,
+      "percentual": 60.77,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1139,
+      "percentual": 26.58,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 531,
+      "percentual": 12.39,
+      "sqcand": "130001671677"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANTONIO PINHEIRO NETO",
+      "nomeUrna": "PINHEIRINHO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 2811,
+      "percentual": 59.78,
+      "sqcand": "130001615436"
+    },
+    {
+      "nome": "REGINALDO LÁZARO DE OLIVEIRA LOPES",
+      "nomeUrna": "REGINALDO LOPES",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 515,
+      "percentual": 10.95,
+      "sqcand": "130001607277"
+    },
+    {
+      "nome": "SAMUEL JOSÉ RODRIGUES DE VIANA",
+      "nomeUrna": "SAMUEL VIANA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 237,
+      "percentual": 5.04,
+      "sqcand": "130001611024"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 184,
+      "percentual": 3.91,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "IGOR TARCIANO TIMO",
+      "nomeUrna": "IGOR TIMO",
+      "partido": "PODE",
+      "numero": "1999",
+      "votos": 145,
+      "percentual": 3.08,
+      "sqcand": "130001634117"
+    },
+    {
+      "nome": "JOSÉ SILVA SOARES",
+      "nomeUrna": "ZÉ SILVA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 103,
+      "percentual": 2.19,
+      "sqcand": "130001612991"
+    },
+    {
+      "nome": "GILBERTO APARECIDO ABRAMO",
+      "nomeUrna": "GILBERTO ABRAMO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 96,
+      "percentual": 2.04,
+      "sqcand": "130001619779"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TITO BRUNO MIRANDA TORRES DUARTE",
+      "nomeUrna": "TITO TORRES",
+      "partido": "PSD",
+      "numero": "55240",
+      "votos": 2653,
+      "percentual": 62.82,
+      "sqcand": "130001604353"
+    },
+    {
+      "nome": "JEAN MARK FREIRE SILVA",
+      "nomeUrna": "DR. JEAN FREIRE",
+      "partido": "PT",
+      "numero": "13100",
+      "votos": 571,
+      "percentual": 13.52,
+      "sqcand": "130001607423"
+    },
+    {
+      "nome": "WENDEL CRISTIANO SOARES DE MESQUITA",
+      "nomeUrna": "PROFESSOR WENDEL MESQUITA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 321,
+      "percentual": 7.6,
+      "sqcand": "130001613029"
+    },
+    {
+      "nome": "GUSTAVO DE VASCONCELLOS MOREIRA",
+      "nomeUrna": "GUSTAVO SANTANA",
+      "partido": "PL",
+      "numero": "22800",
+      "votos": 111,
+      "percentual": 2.63,
+      "sqcand": "130001619055"
+    },
+    {
+      "nome": "NACIB DUARTE BECHIR",
+      "nomeUrna": "DUARTE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 85,
+      "percentual": 2.01,
+      "sqcand": "130001604390"
+    },
+    {
+      "nome": "CARLOS HENRIQUE ALVES DA SILVA",
+      "nomeUrna": "CARLOS HENRIQUE",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 78,
+      "percentual": 1.85,
+      "sqcand": "130001634019"
+    },
+    {
+      "nome": "WHELTON PIMENTEL DE FREITAS",
+      "nomeUrna": "LELECO PIMENTEL",
+      "partido": "PT",
+      "numero": "13579",
+      "votos": 58,
+      "percentual": 1.37,
+      "sqcand": "130001607378"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 8574,
+  "votosValidos": 6947,
+  "abstencao": 16.05,
+  "prefeito": {
+    "nome": "ANA IZABEL MALACARNE DE OLIVEIRA",
+    "nomeUrna": "ANA MALACARNE",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 4557,
+    "percentual": 65.6,
+    "situacao": "Eleito",
+    "sqcand": "80002166865",
+    "vice": "ADEMAR STORCH FILHO",
+    "viceNomeUrna": "MAZIM",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "80002166864",
+    "coligacao": "MDB / PODE / SOLIDARIEDADE / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "IVANETE KUSTER",
+      "nomeUrna": "MOA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 472,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002279981"
+    },
+    {
+      "nome": "VANILDO SALVADOR",
+      "nomeUrna": "VANILDO SALVADOR",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77555",
+      "votos": 393,
+      "percentual": 5.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002231589"
+    },
+    {
+      "nome": "PATRICK MOTA",
+      "nomeUrna": "PATRICK DA SAÚDE",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 390,
+      "percentual": 5.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002167806"
+    },
+    {
+      "nome": "LEONEL MENEGUITE",
+      "nomeUrna": "LEONEL",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 321,
+      "percentual": 4.58,
+      "situacao": "Eleito por média",
+      "sqcand": "80002231584"
+    },
+    {
+      "nome": "ANDRESSA APARECIDA FERREIRA SIQUEIRA",
+      "nomeUrna": "ANDRESSA SIQUEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 297,
+      "percentual": 4.24,
+      "situacao": "Eleito por média",
+      "sqcand": "80002167807"
+    },
+    {
+      "nome": "SERGIO LUIZ TAMANINI",
+      "nomeUrna": "SERGINHO TAMANINI",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 295,
+      "percentual": 4.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002279979"
+    },
+    {
+      "nome": "DANILO HENRIQUE BALLARINI",
+      "nomeUrna": "DANILO BALLARINI",
+      "partido": "PODE",
+      "numero": "20999",
+      "votos": 237,
+      "percentual": 3.38,
+      "situacao": "Eleito por média",
+      "sqcand": "80002279986"
+    },
+    {
+      "nome": "ROSANGELA SILVESTRE NOGUEIRA",
+      "nomeUrna": "RÔ DO SALÃO",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 229,
+      "percentual": 3.27,
+      "situacao": "Eleito por média",
+      "sqcand": "80002167811"
+    },
+    {
+      "nome": "CELSO PADILHA MENEGUETE",
+      "nomeUrna": "CELSO PADILHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 212,
+      "percentual": 3.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002264922"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 2842,
+      "percentual": 52.37,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1799,
+      "percentual": 33.15,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 746,
+      "percentual": 13.75,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GILSON DANIEL BATISTA",
+      "nomeUrna": "GILSON DANIEL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 1155,
+      "percentual": 20.52,
+      "sqcand": "80001604734"
+    },
+    {
+      "nome": "RENZO DE VASCONCELOS",
+      "nomeUrna": "RENZO VASCONCELOS",
+      "partido": "PSC",
+      "numero": "2023",
+      "votos": 1146,
+      "percentual": 20.36,
+      "sqcand": "80001615362"
+    },
+    {
+      "nome": "JOSIAS MARIO DA VITÓRIA",
+      "nomeUrna": "DA VITÓRIA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 666,
+      "percentual": 11.83,
+      "sqcand": "80001650200"
+    },
+    {
+      "nome": "PAULO ROBERTO FOLETTO",
+      "nomeUrna": "PAULO FOLETTO",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 477,
+      "percentual": 8.47,
+      "sqcand": "80001620975"
+    },
+    {
+      "nome": "GILVAN AGUIAR COSTA",
+      "nomeUrna": "GILVAN O FEDERAL DA DIREITA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 249,
+      "percentual": 4.42,
+      "sqcand": "80001615730"
+    },
+    {
+      "nome": "HELDER IGNÁCIO SALOMÃO",
+      "nomeUrna": "HELDER SALOMÃO",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 226,
+      "percentual": 4.01,
+      "sqcand": "80001719429"
+    },
+    {
+      "nome": "NORMA AYUB ALVES",
+      "nomeUrna": "NORMA AYUB",
+      "partido": "PP",
+      "numero": "1125",
+      "votos": 197,
+      "percentual": 3.5,
+      "sqcand": "80001650193"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAQUEL FERREIRA MAGESTE LESSA",
+      "nomeUrna": "RAQUEL LESSA",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1788,
+      "percentual": 32.63,
+      "sqcand": "80001649890"
+    },
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 675,
+      "percentual": 12.32,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "ALEXANDRE MARCELO COUTINHO SANTOS",
+      "nomeUrna": "MARCELO SANTOS",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 311,
+      "percentual": 5.68,
+      "sqcand": "80001609613"
+    },
+    {
+      "nome": "HENRIQUE ZANOTELLI DE VARGAS",
+      "nomeUrna": "DR HENRIQUE VARGAS",
+      "partido": "PATRIOTA",
+      "numero": "51789",
+      "votos": 221,
+      "percentual": 4.03,
+      "sqcand": "80001651646"
+    },
+    {
+      "nome": "JOÃO CARLOS COSER",
+      "nomeUrna": "JOÃO COSER",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 191,
+      "percentual": 3.49,
+      "sqcand": "80001719711"
+    },
+    {
+      "nome": "IGOR ELSON BROMONSCHENKEL DE ALMEIDA",
+      "nomeUrna": "IGOR ELSON",
+      "partido": "PL",
+      "numero": "22181",
+      "votos": 182,
+      "percentual": 3.32,
+      "sqcand": "80001648805"
+    },
+    {
+      "nome": "MARCOS MIRANDA MADUREIRA",
+      "nomeUrna": "MARCOS MADUREIRA",
+      "partido": "PP",
+      "numero": "11190",
+      "votos": 162,
+      "percentual": 2.96,
+      "sqcand": "80001649884"
+    }
+  ]
+}

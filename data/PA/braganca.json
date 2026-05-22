@@ -1,0 +1,371 @@
+{
+  "populacao": 93774,
+  "votosValidos": 72501,
+  "abstencao": 19.54,
+  "prefeito": {
+    "nome": "MARIO RIBEIRO DA SILVA JÚNIOR",
+    "nomeUrna": "DR. MÁRIO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 54679,
+    "percentual": 75.42,
+    "situacao": "Eleito",
+    "sqcand": "140001883607",
+    "vice": "MARCELY REGINA DE OLIVEIRA CASTANHO",
+    "viceNomeUrna": "MARCELY CASTANHO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "140001883608",
+    "coligacao": "REPUBLICANOS / PDT / MDB / PSB / UNIÃO / PSD / CIDADANIA / PSDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "TATIANA FERREIRA RODRIGUES",
+      "nomeUrna": "TATI RODRIGUES",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 3060,
+      "percentual": 4.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002006807"
+    },
+    {
+      "nome": "IRENE DOS SANTOS FARIAS",
+      "nomeUrna": "IRENE FARIAS",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 2957,
+      "percentual": 3.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001894008"
+    },
+    {
+      "nome": "FRANCISCO MENDES RIBEIRO",
+      "nomeUrna": "CHIQUINHO DA PESCA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 2020,
+      "percentual": 2.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001894006"
+    },
+    {
+      "nome": "CHARLES WILLIAMS LOBATO DE OLIVEIRA",
+      "nomeUrna": "CHARLÃO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 1995,
+      "percentual": 2.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001894018"
+    },
+    {
+      "nome": "TARCÍSIO BRUNO GARCIA DE LIMA",
+      "nomeUrna": "BRUNO LIMA",
+      "partido": "MDB",
+      "numero": "15151",
+      "votos": 1974,
+      "percentual": 2.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001894010"
+    },
+    {
+      "nome": "JUARES FREITAS DE SOUSA JÚNIOR",
+      "nomeUrna": "JÚNIOR DO PNEU",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 1946,
+      "percentual": 2.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001894012"
+    },
+    {
+      "nome": "MARINALDO AMBRÓSIO DA SILVA",
+      "nomeUrna": "MARICO",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 1909,
+      "percentual": 2.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001894009"
+    },
+    {
+      "nome": "MÁRCIO ALESSANDRO BORGES DE OLIVEIRA",
+      "nomeUrna": "MÁRCIO BURETA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 1860,
+      "percentual": 2.51,
+      "situacao": "Eleito por média",
+      "sqcand": "140001894015"
+    },
+    {
+      "nome": "JONAS MIKC SOUZA RODRIGUES",
+      "nomeUrna": "DR JONAS",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 1832,
+      "percentual": 2.48,
+      "situacao": "Eleito por média",
+      "sqcand": "140001894007"
+    },
+    {
+      "nome": "MANOEL GEREMIAS MESCOUTO DO ROSÁRIO",
+      "nomeUrna": "GORDO DO TREME",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 1728,
+      "percentual": 2.33,
+      "situacao": "Eleito por média",
+      "sqcand": "140001894016"
+    },
+    {
+      "nome": "JOSÉ ATAIDE PEREIRA",
+      "nomeUrna": "ZECA DO TREME",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 1529,
+      "percentual": 2.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001883600"
+    },
+    {
+      "nome": "RUBENS DA SILVA PEREIRA",
+      "nomeUrna": "RUBINHO DO ARIMBU",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 1505,
+      "percentual": 2.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002130310"
+    },
+    {
+      "nome": "ADEMILSON ALVES LIMA",
+      "nomeUrna": "DECO LIMA",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 1458,
+      "percentual": 1.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001961945"
+    },
+    {
+      "nome": "CLAUDIO WAGNER SOARES CRUZ",
+      "nomeUrna": "CLAUDIO DA VAN",
+      "partido": "PDT",
+      "numero": "12555",
+      "votos": 1454,
+      "percentual": 1.96,
+      "situacao": "Eleito por média",
+      "sqcand": "140001961956"
+    },
+    {
+      "nome": "EMILLY LUANE DA SILVA MONTEIRO",
+      "nomeUrna": "EMILY MONTEIRO",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 1452,
+      "percentual": 1.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002006811"
+    },
+    {
+      "nome": "GLEIDSON CÉSAR MIRANDA SILVA",
+      "nomeUrna": "GLEIDSON MIRANDA",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 1379,
+      "percentual": 1.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001894487"
+    },
+    {
+      "nome": "JOAO PAULO SILVA DE SOUSA",
+      "nomeUrna": "JOAO PAULO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1376,
+      "percentual": 1.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002130303"
+    },
+    {
+      "nome": "FERNANDO ANTONIO SANTANA REIS",
+      "nomeUrna": "FERNANDO JULIFER",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 1156,
+      "percentual": 1.56,
+      "situacao": "Eleito por média",
+      "sqcand": "140001883598"
+    },
+    {
+      "nome": "MANUELE CRISTINA LIMA FURTADO",
+      "nomeUrna": "MANU OLIVEIRA",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 1136,
+      "percentual": 1.53,
+      "situacao": "Eleito por média",
+      "sqcand": "140002107459"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 33504,
+      "percentual": 54.09,
+      "sqcand": "140001611661"
+    },
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 20101,
+      "percentual": 32.45,
+      "sqcand": "140001600249"
+    },
+    {
+      "nome": "MANOEL CARLOS ANTUNES",
+      "nomeUrna": "PIONEIRO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 4802,
+      "percentual": 7.75,
+      "sqcand": "140001650188"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSE EDUARDO PEREIRA DA COSTA",
+      "nomeUrna": "EDUARDO COSTA",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 7553,
+      "percentual": 11.46,
+      "sqcand": "140001620799"
+    },
+    {
+      "nome": "HÉLIO LEITE DA SILVA",
+      "nomeUrna": "HÉLIO LEITE",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 5664,
+      "percentual": 8.59,
+      "sqcand": "140001604543"
+    },
+    {
+      "nome": "CELSO SABINO DE OLIVEIRA",
+      "nomeUrna": "CELSO SABINO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 4878,
+      "percentual": 7.4,
+      "sqcand": "140001604547"
+    },
+    {
+      "nome": "LENA RIBEIRO PINTO DE OLIVEIRA",
+      "nomeUrna": "LENA PINTO",
+      "partido": "PSDB",
+      "numero": "4590",
+      "votos": 4188,
+      "percentual": 6.35,
+      "sqcand": "140001615715"
+    },
+    {
+      "nome": "FERNANDO ANTONIO SANTANA REIS",
+      "nomeUrna": "FERNANDO JULIFER",
+      "partido": "PSB",
+      "numero": "4045",
+      "votos": 4071,
+      "percentual": 6.17,
+      "sqcand": "140001604453"
+    },
+    {
+      "nome": "OLIVAL HENRIQUE MARQUES DE SOUZA",
+      "nomeUrna": "OLIVAL MARQUES",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 3927,
+      "percentual": 5.96,
+      "sqcand": "140001621345"
+    },
+    {
+      "nome": "ALESSANDRA HABER CARVALHO SANTOS",
+      "nomeUrna": "DRA ALESSANDRA HABER",
+      "partido": "MDB",
+      "numero": "1567",
+      "votos": 2801,
+      "percentual": 4.25,
+      "sqcand": "140001621346"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CHARLES WILLIAMS LOBATO DE OLIVEIRA",
+      "nomeUrna": "CHARLÃO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 18604,
+      "percentual": 29.25,
+      "sqcand": "140001615514"
+    },
+    {
+      "nome": "RENATO PAIVA DE OLIVEIRA",
+      "nomeUrna": "RENATO OLIVEIRA",
+      "partido": "PODE",
+      "numero": "19015",
+      "votos": 9778,
+      "percentual": 15.38,
+      "sqcand": "140001651424"
+    },
+    {
+      "nome": "VICTOR ORENGEL DIAS",
+      "nomeUrna": "VICTOR DIAS",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 4126,
+      "percentual": 6.49,
+      "sqcand": "140001611691"
+    },
+    {
+      "nome": "JOSE WILSON COSTA ARAUJO",
+      "nomeUrna": "ZECA PIRAO",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 3777,
+      "percentual": 5.94,
+      "sqcand": "140001676896"
+    },
+    {
+      "nome": "MARIA IRANILSE BRASIL DIAS PINHEIRO",
+      "nomeUrna": "PROFESSORA NILSE",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 1718,
+      "percentual": 2.7,
+      "sqcand": "140001621051"
+    },
+    {
+      "nome": "ELIEL PEREIRA FAUSTINO FILHO",
+      "nomeUrna": "ELIEL FAUSTINO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 1543,
+      "percentual": 2.43,
+      "sqcand": "140001611695"
+    },
+    {
+      "nome": "MARCO ADRIANO ALBUQUERQUE COELHO",
+      "nomeUrna": "ADRIANO COELHO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 1491,
+      "percentual": 2.34,
+      "sqcand": "140001621060"
+    }
+  ]
+}

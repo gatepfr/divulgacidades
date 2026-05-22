@@ -1,0 +1,271 @@
+{
+  "populacao": 7731,
+  "votosValidos": 6423,
+  "abstencao": 15.06,
+  "prefeito": {
+    "nome": "MIGUEL OMAR BARRETO RISSI",
+    "nomeUrna": "MIGUELÃO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2919,
+    "percentual": 45.45,
+    "situacao": "Eleito",
+    "sqcand": "180002301846",
+    "vice": "SEMIRAMIS ELVAS DE ARAGÃO MELO",
+    "viceNomeUrna": "MIRA MELO",
+    "partidoVice": "PSD",
+    "sqcandVice": "180002301847",
+    "coligacao": "PP / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "MADSON DEAN PEREIRA LOBATO ROCHA",
+      "nomeUrna": "PINGO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 430,
+      "percentual": 6.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002304486"
+    },
+    {
+      "nome": "CARLOS SEBASTIÃO DE MELO PEREIRA",
+      "nomeUrna": "PEPÊ",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 384,
+      "percentual": 6.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002304490"
+    },
+    {
+      "nome": "JOILTON LUSTOSA SILVA SANTANA",
+      "nomeUrna": "LULA BRAVO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 379,
+      "percentual": 5.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002304482"
+    },
+    {
+      "nome": "MIGUEL GUIDA SOBRINHO",
+      "nomeUrna": "PROFESSOR GUIDO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 362,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002371761"
+    },
+    {
+      "nome": "FRANCISCO JOSUÉ MINEIRO",
+      "nomeUrna": "JOSUÉ MINEIRO",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 354,
+      "percentual": 5.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002371573"
+    },
+    {
+      "nome": "GEIZA DE OLIVEIRA LOPES BUENO",
+      "nomeUrna": "GEIZA OLIVEIRA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 346,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002304487"
+    },
+    {
+      "nome": "MAURÍCIO ALVES FEITOSA",
+      "nomeUrna": "MAURÍCIO LÓIA",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 339,
+      "percentual": 5.33,
+      "situacao": "Eleito por média",
+      "sqcand": "180002304488"
+    },
+    {
+      "nome": "ROBERTO CARLOS RIBEIRO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 330,
+      "percentual": 5.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002371570"
+    },
+    {
+      "nome": "VILSOMAR BEZERRA DOS REIS",
+      "nomeUrna": "PORTELINHA",
+      "partido": "MDB",
+      "numero": "15088",
+      "votos": 295,
+      "percentual": 4.63,
+      "situacao": "Eleito por média",
+      "sqcand": "180002371764"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2991,
+      "percentual": 58.76,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2084,
+      "percentual": 40.94,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "ANTONIO JOSÉ FONTINELE DA SILVA",
+      "nomeUrna": "PROFESSOR AJOSÉ",
+      "partido": "PMN",
+      "numero": "333",
+      "votos": 11,
+      "percentual": 0.22,
+      "sqcand": "180001714361"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FÁBIO ABREU COSTA",
+      "nomeUrna": "CAPITÃO FÁBIO ABREU",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 2330,
+      "percentual": 45.02,
+      "sqcand": "180001602549"
+    },
+    {
+      "nome": "ÁTILA DE MELO LIRA",
+      "nomeUrna": "ATILA",
+      "partido": "PP",
+      "numero": "1110",
+      "votos": 1647,
+      "percentual": 31.83,
+      "sqcand": "180001602514"
+    },
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 395,
+      "percentual": 7.63,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "MARINA SANTOS BATISTA DIAS",
+      "nomeUrna": "DRA MARINA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 130,
+      "percentual": 2.51,
+      "sqcand": "180001608866"
+    },
+    {
+      "nome": "THIAGO GOMES DUARTE",
+      "nomeUrna": "THIAGO DUARTE",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 122,
+      "percentual": 2.36,
+      "sqcand": "180001608873"
+    },
+    {
+      "nome": "FERNANDA GABRIELLY COSTA GOMES",
+      "nomeUrna": "FERNANDA GOMES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7788",
+      "votos": 87,
+      "percentual": 1.68,
+      "sqcand": "180001601333"
+    },
+    {
+      "nome": "JULIO FERRAZ ARCOVERDE",
+      "nomeUrna": "JULIO ARCOVERDE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 80,
+      "percentual": 1.55,
+      "sqcand": "180001602515"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FÁBIO NÚÑEZ NOVO",
+      "nomeUrna": "FÁBIO NOVO",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 1771,
+      "percentual": 37.13,
+      "sqcand": "180001605676"
+    },
+    {
+      "nome": "ANTONIO HENRIQUE DE CARVALHO PIRES",
+      "nomeUrna": "HENRIQUE PIRES",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 780,
+      "percentual": 16.35,
+      "sqcand": "180001605752"
+    },
+    {
+      "nome": "GEORGIANO FERNANDES LIMA NETO",
+      "nomeUrna": "GEORGIANO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 705,
+      "percentual": 14.78,
+      "sqcand": "180001605763"
+    },
+    {
+      "nome": "ANA PAULA MENDES DE ARAUJO SANTANA",
+      "nomeUrna": "ANA PAULA",
+      "partido": "MDB",
+      "numero": "15110",
+      "votos": 251,
+      "percentual": 5.26,
+      "sqcand": "180001605751"
+    },
+    {
+      "nome": "EVALDO LOBATO LIMA",
+      "nomeUrna": "EVALDO LOBATO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 179,
+      "percentual": 3.75,
+      "sqcand": "180001601311"
+    },
+    {
+      "nome": "MIGUEL BORGES DE OLIVEIRA NETO",
+      "nomeUrna": "OLIVEIRA NETO",
+      "partido": "PT",
+      "numero": "13147",
+      "votos": 126,
+      "percentual": 2.64,
+      "sqcand": "180001605675"
+    },
+    {
+      "nome": "SIMONE PEREIRA DE FARIAS ARAUJO",
+      "nomeUrna": "SIMONE",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 118,
+      "percentual": 2.47,
+      "sqcand": "180001605757"
+    }
+  ]
+}

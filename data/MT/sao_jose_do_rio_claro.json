@@ -1,0 +1,271 @@
+{
+  "populacao": 11008,
+  "votosValidos": 8621,
+  "abstencao": 19.41,
+  "prefeito": {
+    "nome": "LEVI RIBEIRO",
+    "nomeUrna": "LEVI RIBEIRO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 4471,
+    "percentual": 51.86,
+    "situacao": "Eleito",
+    "sqcand": "110002250381",
+    "vice": "TARCISIO ANOR GARBIN",
+    "viceNomeUrna": "GARBIN",
+    "partidoVice": "PSB",
+    "sqcandVice": "110002250382",
+    "coligacao": "PDT / PODE / PL / PSB / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCIO ANTÔNIO DE ASSIS",
+      "nomeUrna": "MARCIO ASSIS",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 446,
+      "percentual": 5.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002249809"
+    },
+    {
+      "nome": "CONSTANTINO DE ALMEIDA",
+      "nomeUrna": "CONSTANTINO DE ALMEIDA",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 424,
+      "percentual": 4.95,
+      "situacao": "Eleito por média",
+      "sqcand": "110002249811"
+    },
+    {
+      "nome": "MARCOS ALIENDES LHOPES",
+      "nomeUrna": "MARCOS JUNIOR PORTAL NEWS",
+      "partido": "PODE",
+      "numero": "20456",
+      "votos": 379,
+      "percentual": 4.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002334251"
+    },
+    {
+      "nome": "EDMAR FIDELIS MAXIMIANO",
+      "nomeUrna": "PELEZINHO",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 376,
+      "percentual": 4.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002250122"
+    },
+    {
+      "nome": "MARIA APARECIDA SANTIAGO",
+      "nomeUrna": "MARIA SANTIAGO",
+      "partido": "NOVO",
+      "numero": "30123",
+      "votos": 335,
+      "percentual": 3.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002029897"
+    },
+    {
+      "nome": "JOSÉ ROBERTO DA SILVA",
+      "nomeUrna": "BETIN SILVA",
+      "partido": "NOVO",
+      "numero": "30012",
+      "votos": 286,
+      "percentual": 3.34,
+      "situacao": "Eleito por média",
+      "sqcand": "110002029899"
+    },
+    {
+      "nome": "ADRIEL PEREIRA IRINEU",
+      "nomeUrna": "ADRIEL ",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 284,
+      "percentual": 3.31,
+      "situacao": "Eleito por média",
+      "sqcand": "110002250120"
+    },
+    {
+      "nome": "RONNEY FERNANDES DA SILVA",
+      "nomeUrna": "RONNEY DA SAUDE",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 245,
+      "percentual": 2.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002044235"
+    },
+    {
+      "nome": "ADRIANO KUHN",
+      "nomeUrna": "BAHIA DO CARTÓRIO",
+      "partido": "PL",
+      "numero": "22020",
+      "votos": 240,
+      "percentual": 2.8,
+      "situacao": "Eleito por média",
+      "sqcand": "110002249806"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3694,
+      "percentual": 55.69,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 2726,
+      "percentual": 41.1,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "KÁSSIO EDUARDO DA SILVA COELHO",
+      "nomeUrna": "KÁSSIO COELHO",
+      "partido": "PATRIOTA",
+      "numero": "510",
+      "votos": 121,
+      "percentual": 1.82,
+      "sqcand": "110001595899"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ ANTÔNIO DOS SANTOS MEDEIROS",
+      "nomeUrna": "JOSÉ MEDEIROS",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 1187,
+      "percentual": 15.8,
+      "sqcand": "110001612757"
+    },
+    {
+      "nome": "JUAREZ ALVES DA COSTA",
+      "nomeUrna": "JUAREZ COSTA",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 945,
+      "percentual": 12.58,
+      "sqcand": "110001623293"
+    },
+    {
+      "nome": "FÁBIO PAULINO GARCIA",
+      "nomeUrna": "FÁBIO GARCIA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 678,
+      "percentual": 9.02,
+      "sqcand": "110001612770"
+    },
+    {
+      "nome": "AMÁLIA SCUDELER DE BARROS SANTOS",
+      "nomeUrna": "AMÁLIA BARROS",
+      "partido": "PL",
+      "numero": "2202",
+      "votos": 673,
+      "percentual": 8.96,
+      "sqcand": "110001612762"
+    },
+    {
+      "nome": "EMANUEL PINHEIRO DA SILVA PRIMO TEIXEIRA",
+      "nomeUrna": "EMANUELZINHO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 648,
+      "percentual": 8.62,
+      "sqcand": "110001623300"
+    },
+    {
+      "nome": "IRAJA REZENDE DE LACERDA",
+      "nomeUrna": "IRAJA LACERDA",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 536,
+      "percentual": 7.13,
+      "sqcand": "110001643558"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 352,
+      "percentual": 4.68,
+      "sqcand": "110001675052"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DILMAR DAL BOSCO",
+      "nomeUrna": "DILMAR DAL BOSCO",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 1927,
+      "percentual": 25.67,
+      "sqcand": "110001612944"
+    },
+    {
+      "nome": "GILBERTO MOACIR CATTANI",
+      "nomeUrna": "GILBERTO CATTANI",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 833,
+      "percentual": 11.1,
+      "sqcand": "110001620557"
+    },
+    {
+      "nome": "ONDANIR BORTOLINI",
+      "nomeUrna": "NININHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 670,
+      "percentual": 8.93,
+      "sqcand": "110001643417"
+    },
+    {
+      "nome": "MAX JOEL RUSSI",
+      "nomeUrna": "MAX RUSSI",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 662,
+      "percentual": 8.82,
+      "sqcand": "110001604916"
+    },
+    {
+      "nome": "FAISSAL JORGE CALIL FILHO",
+      "nomeUrna": "FAISSAL",
+      "partido": "CIDADANIA",
+      "numero": "23444",
+      "votos": 539,
+      "percentual": 7.18,
+      "sqcand": "110001655607"
+    },
+    {
+      "nome": "CARLOS AVALONE JUNIOR",
+      "nomeUrna": "CARLOS AVALONE",
+      "partido": "PSDB",
+      "numero": "45500",
+      "votos": 393,
+      "percentual": 5.24,
+      "sqcand": "110001655604"
+    },
+    {
+      "nome": "JANAÍNA GREYCE RIVA FAGUNDES",
+      "nomeUrna": "JANAÍNA RIVA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 265,
+      "percentual": 3.53,
+      "sqcand": "110001623186"
+    }
+  ]
+}

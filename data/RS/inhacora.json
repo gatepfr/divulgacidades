@@ -1,0 +1,271 @@
+{
+  "populacao": 2136,
+  "votosValidos": 1910,
+  "abstencao": 8.47,
+  "prefeito": {
+    "nome": "EMERSON CAVALI DE VARGAS",
+    "nomeUrna": "MANÃO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1477,
+    "percentual": 77.33,
+    "situacao": "Eleito",
+    "sqcand": "210002164914",
+    "vice": "ELESIO ROBERTO DA SILVA",
+    "viceNomeUrna": "ELESIO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "210002164915",
+    "coligacao": "PP / UNIÃO / PSB / MDB / PDT / PSD / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "INÊS DOS SANTOS BUENO",
+      "nomeUrna": "INES",
+      "partido": "PP",
+      "numero": "11666",
+      "votos": 207,
+      "percentual": 10.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002166116"
+    },
+    {
+      "nome": "MAICON  DJONATAN ECKE DA ROSA",
+      "nomeUrna": "MAICON ECKE",
+      "partido": "UNIÃO",
+      "numero": "44038",
+      "votos": 183,
+      "percentual": 9.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002188757"
+    },
+    {
+      "nome": "ROSANE DE VARGAS ALMEIDA",
+      "nomeUrna": "ROSANE",
+      "partido": "PP",
+      "numero": "11675",
+      "votos": 134,
+      "percentual": 6.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002166114"
+    },
+    {
+      "nome": "VALTAIR JOSE DE MOURA",
+      "nomeUrna": "VALTAIR DE MOURA",
+      "partido": "UNIÃO",
+      "numero": "44456",
+      "votos": 116,
+      "percentual": 6.02,
+      "situacao": "Eleito por média",
+      "sqcand": "210002188754"
+    },
+    {
+      "nome": "ROQUE CLAIRTO DA SILVA",
+      "nomeUrna": "ROQUE ",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 115,
+      "percentual": 5.97,
+      "situacao": "Eleito por média",
+      "sqcand": "210002166510"
+    },
+    {
+      "nome": "BIANCA LETICIA PIRES MOREIRA STREIT",
+      "nomeUrna": "BIANCA",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 108,
+      "percentual": 5.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002278502"
+    },
+    {
+      "nome": "EDELVAN COSSETIM DA SILVA",
+      "nomeUrna": "DAN",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 103,
+      "percentual": 5.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002166112"
+    },
+    {
+      "nome": "GEOLAR DA COSTA LEITE",
+      "nomeUrna": "CANHOTO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 96,
+      "percentual": 4.98,
+      "situacao": "Eleito por média",
+      "sqcand": "210002166115"
+    },
+    {
+      "nome": "ARNALDO MARIANO DE OLIVEIRA",
+      "nomeUrna": "NARDO",
+      "partido": "PL",
+      "numero": "22147",
+      "votos": 76,
+      "percentual": 3.94,
+      "situacao": "Eleito por média",
+      "sqcand": "210002278503"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 611,
+      "percentual": 43.27,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 587,
+      "percentual": 41.57,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 197,
+      "percentual": 13.95,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 214,
+      "percentual": 14.34,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 185,
+      "percentual": 12.4,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 176,
+      "percentual": 11.8,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 128,
+      "percentual": 8.58,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 111,
+      "percentual": 7.44,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nomeUrna": "DANRLEI DE DEUS GOLEIRO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 91,
+      "percentual": 6.1,
+      "sqcand": "210001613990"
+    },
+    {
+      "nome": "MARCELO PIRES MORAES",
+      "nomeUrna": "MARCELO MORAES",
+      "partido": "PL",
+      "numero": "2214",
+      "votos": 82,
+      "percentual": 5.5,
+      "sqcand": "210001648576"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 434,
+      "percentual": 29.91,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "JORGE GILMAR AMARAL DE OLIVEIRA",
+      "nomeUrna": "DR JORGE AMARAL",
+      "partido": "PP",
+      "numero": "11440",
+      "votos": 160,
+      "percentual": 11.03,
+      "sqcand": "210001647195"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 158,
+      "percentual": 10.89,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "VERANICE SANTOS ROLIM",
+      "nomeUrna": "VERE",
+      "partido": "PTB",
+      "numero": "14456",
+      "votos": 88,
+      "percentual": 6.06,
+      "sqcand": "210001649780"
+    },
+    {
+      "nome": "ADALBERTO DE OLIVEIRA NORONHA",
+      "nomeUrna": "BETO NORONHA",
+      "partido": "PT",
+      "numero": "13313",
+      "votos": 67,
+      "percentual": 4.62,
+      "sqcand": "210001610592"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 63,
+      "percentual": 4.34,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "VANICE HELENA ANDRADE DE MATOS",
+      "nomeUrna": "VANICE DE MATOS",
+      "partido": "MDB",
+      "numero": "15122",
+      "votos": 57,
+      "percentual": 3.93,
+      "sqcand": "210001647984"
+    }
+  ]
+}

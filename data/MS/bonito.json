@@ -1,0 +1,291 @@
+{
+  "populacao": 19223,
+  "votosValidos": 14027,
+  "abstencao": 23.79,
+  "prefeito": {
+    "nome": "JOSMAIL RODRIGUES",
+    "nomeUrna": "JOSMAIL RODRIGUES",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 10277,
+    "percentual": 73.27,
+    "situacao": "Eleito",
+    "sqcand": "120001976328",
+    "vice": "JULIANE FERREIRA SALVADORI",
+    "viceNomeUrna": "JULIANE SALVADORI",
+    "partidoVice": "PSDB",
+    "sqcandVice": "120001976329",
+    "coligacao": "CIDADANIA / PSDB / PP / MDB / PSB / UNIÃO / PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ANDRE LUIZ OCAMPOS XAVIER",
+      "nomeUrna": "ANDRE LUIZ",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 710,
+      "percentual": 5.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001993189"
+    },
+    {
+      "nome": "LUCAS LEANDRO PAES",
+      "nomeUrna": "LUCAS CAPACETE",
+      "partido": "PSDB",
+      "numero": "45255",
+      "votos": 625,
+      "percentual": 4.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001993191"
+    },
+    {
+      "nome": "ROSINEIDE APARECIDA DOS SANTOS",
+      "nomeUrna": "ROSE DA FINANCEIRA",
+      "partido": "PSDB",
+      "numero": "45369",
+      "votos": 621,
+      "percentual": 4.37,
+      "situacao": "Eleito por média",
+      "sqcand": "120001993194"
+    },
+    {
+      "nome": "ADAO CARLOS DUARTE",
+      "nomeUrna": "ADAOZINHO DUARTE",
+      "partido": "UNIÃO",
+      "numero": "44569",
+      "votos": 607,
+      "percentual": 4.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002024036"
+    },
+    {
+      "nome": "PEDRO APARECIDO ROSARIO",
+      "nomeUrna": "PEDRINHO DA MARAMBAIA",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 537,
+      "percentual": 3.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002024231"
+    },
+    {
+      "nome": "PAULO HENRIQUE BREDA SANTOS",
+      "nomeUrna": "PROFESSOR PH",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 516,
+      "percentual": 3.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001993785"
+    },
+    {
+      "nome": "RAMONA DE LIMA AQUINO",
+      "nomeUrna": "PROFESSORA RAMONA",
+      "partido": "PSB",
+      "numero": "40567",
+      "votos": 424,
+      "percentual": 2.98,
+      "situacao": "Eleito por média",
+      "sqcand": "120001993782"
+    },
+    {
+      "nome": "JHONATAN JACQUES MARQUES",
+      "nomeUrna": "JHONATAN MARQUES",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 418,
+      "percentual": 2.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002024031"
+    },
+    {
+      "nome": "PAULO XAVIER DOS SANTOS",
+      "nomeUrna": "PAULINHO DAROM",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 406,
+      "percentual": 2.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002024233"
+    },
+    {
+      "nome": "MICHELE DA CRUZ FLORES",
+      "nomeUrna": "MICHELE DO SINDICATO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 366,
+      "percentual": 2.57,
+      "situacao": "Eleito por média",
+      "sqcand": "120002024226"
+    },
+    {
+      "nome": "ANGELO CARLOS PERES CHERES",
+      "nomeUrna": "ALEMÃO DO SOM",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 362,
+      "percentual": 2.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002166265"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 8099,
+      "percentual": 66.14,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1568,
+      "percentual": 12.81,
+      "sqcand": "120001609096"
+    },
+    {
+      "nome": "TIAGO RESENDE BOTELHO",
+      "nomeUrna": "PROFESSOR TIAGO BOTELHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 1399,
+      "percentual": 11.43,
+      "sqcand": "120001652251"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DAGOBERTO NOGUEIRA FILHO",
+      "nomeUrna": "DAGOBERTO",
+      "partido": "PSDB",
+      "numero": "4512",
+      "votos": 3001,
+      "percentual": 24.69,
+      "sqcand": "120001612322"
+    },
+    {
+      "nome": "MARCOS SBOROWSKI POLLON",
+      "nomeUrna": "MARCOS POLLON",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 949,
+      "percentual": 7.81,
+      "sqcand": "120001614258"
+    },
+    {
+      "nome": "VANDER LUIZ DOS SANTOS LOUBET",
+      "nomeUrna": "VANDER LOUBET",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 751,
+      "percentual": 6.18,
+      "sqcand": "120001652595"
+    },
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 662,
+      "percentual": 5.45,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "WALDEMIR MOKA MIRANDA DE BRITTO",
+      "nomeUrna": "MOKA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 650,
+      "percentual": 5.35,
+      "sqcand": "120001636657"
+    },
+    {
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nomeUrna": "DR. GERALDO RESENDE",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 426,
+      "percentual": 3.5,
+      "sqcand": "120001612324"
+    },
+    {
+      "nome": "APARECIDO CARLOS BERNARDO",
+      "nomeUrna": "CARLOS BERNARDO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 400,
+      "percentual": 3.29,
+      "sqcand": "120001636652"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PAULO JOSÉ ARAÚJO CORRÊA",
+      "nomeUrna": "PAULO CORRÊA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 2292,
+      "percentual": 19.01,
+      "sqcand": "120001613595"
+    },
+    {
+      "nome": "LUIZ CARLOS CORREIA DE LIMA",
+      "nomeUrna": "LUCAS DE LIMA DO AMOR SEM FIM",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 1135,
+      "percentual": 9.42,
+      "sqcand": "120001606656"
+    },
+    {
+      "nome": "JORGE LUIZ SOARES DE FIGUEIREDO",
+      "nomeUrna": "JORGINHO FIGUEIREDO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 1122,
+      "percentual": 9.31,
+      "sqcand": "120001645378"
+    },
+    {
+      "nome": "DIOGO BOSSAY",
+      "nomeUrna": "DR DIOGO BOSSAY",
+      "partido": "MDB",
+      "numero": "15800",
+      "votos": 674,
+      "percentual": 5.59,
+      "sqcand": "120001643172"
+    },
+    {
+      "nome": "RENATO PIERETTI CÂMARA",
+      "nomeUrna": "RENATO CÂMARA",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 565,
+      "percentual": 4.69,
+      "sqcand": "120001643171"
+    },
+    {
+      "nome": "AMARILDO VALDO DA CRUZ",
+      "nomeUrna": "AMARILDO CRUZ",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 540,
+      "percentual": 4.48,
+      "sqcand": "120001652330"
+    },
+    {
+      "nome": "MARA ELISA NAVACCHI CASEIRO",
+      "nomeUrna": "MARA CASEIRO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 463,
+      "percentual": 3.84,
+      "sqcand": "120001613592"
+    }
+  ]
+}

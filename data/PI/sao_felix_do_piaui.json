@@ -1,0 +1,271 @@
+{
+  "populacao": 4011,
+  "votosValidos": 3480,
+  "abstencao": 11.22,
+  "prefeito": {
+    "nome": "JOSEILSON BARBOSA NUNES",
+    "nomeUrna": "DR. JOSEILSON PIO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2396,
+    "percentual": 68.85,
+    "situacao": "Eleito",
+    "sqcand": "180001915656",
+    "vice": "RAFAEL VICTOR SOARES MESQUITA",
+    "viceNomeUrna": "RAFAEL VICTOR",
+    "partidoVice": "MDB",
+    "sqcandVice": "180001915655",
+    "coligacao": "PP / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "EDILSON PIO BARBOSA",
+      "nomeUrna": "EDILSON PIO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 432,
+      "percentual": 12.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915625"
+    },
+    {
+      "nome": "IRENILDES MARTINS NUNES CUNHA",
+      "nomeUrna": "PROFESSORA IRENILDES",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 314,
+      "percentual": 9.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915622"
+    },
+    {
+      "nome": "TIAGO OLIVEIRA DE MOURA",
+      "nomeUrna": "TIAGO MOURA",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 314,
+      "percentual": 9.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915617"
+    },
+    {
+      "nome": "JOSÉ JURANDI PEREIRA",
+      "nomeUrna": "DEDÉ",
+      "partido": "PP",
+      "numero": "11369",
+      "votos": 274,
+      "percentual": 7.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915626"
+    },
+    {
+      "nome": "REGICLAUDIO SOARES DA SILVA",
+      "nomeUrna": "CUÍ",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 257,
+      "percentual": 7.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915618"
+    },
+    {
+      "nome": "REGILENE ROSA DE MOURA E SILVA",
+      "nomeUrna": "REGILENE ROSA",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 241,
+      "percentual": 6.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001943654"
+    },
+    {
+      "nome": "DOMINGOS SÁVIO MACÊDO MENDES",
+      "nomeUrna": "DOMINGOS SÁVIO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 237,
+      "percentual": 6.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001915621"
+    },
+    {
+      "nome": "MARIA SENHORA SOARES FEITOSA",
+      "nomeUrna": "MARIA SENHORA",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 237,
+      "percentual": 6.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001943651"
+    },
+    {
+      "nome": "NILSON VIANA DA SILVA",
+      "nomeUrna": "NILSON VIANA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 185,
+      "percentual": 5.31,
+      "situacao": "Eleito por média",
+      "sqcand": "180001943650"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1796,
+      "percentual": 64.23,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 979,
+      "percentual": 35.01,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "ANTONIO JOSÉ FONTINELE DA SILVA",
+      "nomeUrna": "PROFESSOR AJOSÉ",
+      "partido": "PMN",
+      "numero": "333",
+      "votos": 9,
+      "percentual": 0.32,
+      "sqcand": "180001714361"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JULIO FERRAZ ARCOVERDE",
+      "nomeUrna": "JULIO ARCOVERDE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1214,
+      "percentual": 43.64,
+      "sqcand": "180001602515"
+    },
+    {
+      "nome": "MERLONG SOLANO NOGUEIRA",
+      "nomeUrna": "MERLONG SOLANO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 482,
+      "percentual": 17.33,
+      "sqcand": "180001610763"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS DE OLIVEIRA COSTA",
+      "nomeUrna": "DR. FRANCISCO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 224,
+      "percentual": 8.05,
+      "sqcand": "180001610755"
+    },
+    {
+      "nome": "WILSON NUNES MARTINS",
+      "nomeUrna": "WILSON MARTINS",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 93,
+      "percentual": 3.34,
+      "sqcand": "180001610757"
+    },
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 79,
+      "percentual": 2.84,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "FÁBIO ABREU COSTA",
+      "nomeUrna": "CAPITÃO FÁBIO ABREU",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 75,
+      "percentual": 2.7,
+      "sqcand": "180001602549"
+    },
+    {
+      "nome": "ELMANO FERRER DE ALMEIDA",
+      "nomeUrna": "ELMANO O VEÍN TRABALHADOR",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 48,
+      "percentual": 1.73,
+      "sqcand": "180001602518"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "WILSON NUNES BRANDÃO",
+      "nomeUrna": "WILSON BRANDÃO",
+      "partido": "PP",
+      "numero": "11140",
+      "votos": 965,
+      "percentual": 35.97,
+      "sqcand": "180001604045"
+    },
+    {
+      "nome": "HELIO RODRIGUES ALVES",
+      "nomeUrna": "HELIO RODRIGUES",
+      "partido": "PT",
+      "numero": "13678",
+      "votos": 278,
+      "percentual": 10.36,
+      "sqcand": "180001605684"
+    },
+    {
+      "nome": "VINICIUS PONTES DO NASCIMENTO",
+      "nomeUrna": "DR. VINICIUS",
+      "partido": "PT",
+      "numero": "13121",
+      "votos": 211,
+      "percentual": 7.86,
+      "sqcand": "180001605683"
+    },
+    {
+      "nome": "FRANCISCO DAS CHAGAS LIMMA",
+      "nomeUrna": "LIMMA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 176,
+      "percentual": 6.56,
+      "sqcand": "180001605693"
+    },
+    {
+      "nome": "MARDEN LUIS BRITO CAVALCANTE E MENESES",
+      "nomeUrna": "MARDEN MENEZES",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 122,
+      "percentual": 4.55,
+      "sqcand": "180001604051"
+    },
+    {
+      "nome": "JEOVA BARBOSA DE CARVALHO ALENCAR",
+      "nomeUrna": "JEOVÁ ALENCAR",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 95,
+      "percentual": 3.54,
+      "sqcand": "180001612884"
+    },
+    {
+      "nome": "THALES COELHO PIMENTEL",
+      "nomeUrna": "DR. THALES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 64,
+      "percentual": 2.39,
+      "sqcand": "180001604044"
+    }
+  ]
+}

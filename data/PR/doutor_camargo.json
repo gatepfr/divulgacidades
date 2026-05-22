@@ -1,0 +1,271 @@
+{
+  "populacao": 5231,
+  "votosValidos": 4166,
+  "abstencao": 16.69,
+  "prefeito": {
+    "nome": "DOUGLAS RIBEIRO DO PRADO",
+    "nomeUrna": "DOUGLAS PRADO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2001,
+    "percentual": 48.03,
+    "situacao": "Eleito",
+    "sqcand": "160002291926",
+    "vice": "ADALTO PEZOTTI BERNARDINO",
+    "viceNomeUrna": "ADALTO BERNARDINO",
+    "partidoVice": "PODE",
+    "sqcandVice": "160002291927",
+    "coligacao": "PL / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "ELAINE APARECIDA FRUGERE BONINI",
+      "nomeUrna": "ELAINE VAGALUME",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 265,
+      "percentual": 6.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002307418"
+    },
+    {
+      "nome": "HENRIQUE SOUZA ALVES DIAS",
+      "nomeUrna": "HENRIQUE SOUZA DIAS",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 226,
+      "percentual": 5.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002293169"
+    },
+    {
+      "nome": "DANIEL XAVIER DOS SANTOS",
+      "nomeUrna": "RATINHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 202,
+      "percentual": 4.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002306779"
+    },
+    {
+      "nome": "JOSE ANTONIO MONTEIRO PEDRO",
+      "nomeUrna": "PROFESSOR ZÉ DO COROTE",
+      "partido": "PSD",
+      "numero": "55323",
+      "votos": 189,
+      "percentual": 4.47,
+      "situacao": "Eleito por média",
+      "sqcand": "160002306785"
+    },
+    {
+      "nome": "ALEXANDRO CRESTANI DE OLIVEIRA",
+      "nomeUrna": "ALEX CRESTANI",
+      "partido": "UNIÃO",
+      "numero": "44321",
+      "votos": 167,
+      "percentual": 3.95,
+      "situacao": "Eleito por média",
+      "sqcand": "160002307495"
+    },
+    {
+      "nome": "ANDRE BORGES COSTA",
+      "nomeUrna": "ANDRE BORGES",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 141,
+      "percentual": 3.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002331294"
+    },
+    {
+      "nome": "ANNIE CRISTINI EVANGELISTA XANDÚ DOS SANTOS",
+      "nomeUrna": "ANE XANDÚ",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 125,
+      "percentual": 2.96,
+      "situacao": "Eleito por média",
+      "sqcand": "160002293172"
+    },
+    {
+      "nome": "JOSE GILDO DOS SANTOS",
+      "nomeUrna": "ZÉ GILDO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 119,
+      "percentual": 2.81,
+      "situacao": "Eleito por média",
+      "sqcand": "160002293171"
+    },
+    {
+      "nome": "THIAGO MUNHOZ PEDRILHO",
+      "nomeUrna": "TCHUBA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 111,
+      "percentual": 2.63,
+      "situacao": "Eleito por média",
+      "sqcand": "160002307421"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1338,
+      "percentual": 38.02,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 915,
+      "percentual": 26.0,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 775,
+      "percentual": 22.02,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ HILOSHI NISHIMORI",
+      "nomeUrna": "LUIZ NISHIMORI",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 1164,
+      "percentual": 32.4,
+      "sqcand": "160001622293"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 308,
+      "percentual": 8.57,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 192,
+      "percentual": 5.34,
+      "sqcand": "160001614525"
+    },
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 178,
+      "percentual": 4.95,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "NELSON FERNANDO PADOVANI",
+      "nomeUrna": "PADOVANI",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 164,
+      "percentual": 4.56,
+      "sqcand": "160001654666"
+    },
+    {
+      "nome": "GILSON CARDOSO FAHUR",
+      "nomeUrna": "SARGENTO FAHUR",
+      "partido": "PSD",
+      "numero": "5590",
+      "votos": 154,
+      "percentual": 4.29,
+      "sqcand": "160001622298"
+    },
+    {
+      "nome": "DELTAN MARTINAZZO DALLAGNOL",
+      "nomeUrna": "DELTAN DALLAGNOL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 120,
+      "percentual": 3.34,
+      "sqcand": "160001654827"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 519,
+      "percentual": 15.18,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "JOSÉ TIAGO CAMARGO DO AMARAL",
+      "nomeUrna": "TIAGO AMARAL",
+      "partido": "PSD",
+      "numero": "55155",
+      "votos": 434,
+      "percentual": 12.69,
+      "sqcand": "160001623115"
+    },
+    {
+      "nome": "PAULO ROGÉRIO DO CARMO",
+      "nomeUrna": "DO CARMO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 408,
+      "percentual": 11.93,
+      "sqcand": "160001716000"
+    },
+    {
+      "nome": "MANOEL BATISTA DA SILVA JUNIOR",
+      "nomeUrna": "DR. BATISTA",
+      "partido": "UNIÃO",
+      "numero": "44014",
+      "votos": 260,
+      "percentual": 7.6,
+      "sqcand": "160001716021"
+    },
+    {
+      "nome": "GISELLI PATRÍCIA CAETANO DE LIMA BIANCHINI",
+      "nomeUrna": "GISELLI BIANCHINI",
+      "partido": "PROS",
+      "numero": "90222",
+      "votos": 220,
+      "percentual": 6.43,
+      "sqcand": "160001622174"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 196,
+      "percentual": 5.73,
+      "sqcand": "160001614823"
+    },
+    {
+      "nome": "ADRIANO JOSÉ DA SILVA",
+      "nomeUrna": "SOLDADO ADRIANO JOSÉ",
+      "partido": "PP",
+      "numero": "11900",
+      "votos": 103,
+      "percentual": 3.01,
+      "sqcand": "160001603349"
+    }
+  ]
+}

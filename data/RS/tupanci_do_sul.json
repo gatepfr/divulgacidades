@@ -1,0 +1,271 @@
+{
+  "populacao": 1536,
+  "votosValidos": 1401,
+  "abstencao": 6.71,
+  "prefeito": {
+    "nome": "FERNANDO LUIS FAVRETTO",
+    "nomeUrna": "PRETO FAVRETTO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 767,
+    "percentual": 54.75,
+    "situacao": "Eleito",
+    "sqcand": "210002332290",
+    "vice": "CEDENIR MUCKE",
+    "viceNomeUrna": "CEDE",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002332289",
+    "coligacao": "PP / PDT / MDB / PODE / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "MIKAEL WILIAN REISTACKE PINTO",
+      "nomeUrna": "MIKAEL PINTO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 131,
+      "percentual": 9.34,
+      "situacao": "Eleito por média",
+      "sqcand": "210002334280"
+    },
+    {
+      "nome": "RENAN PANISSON",
+      "nomeUrna": "RENAN",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 128,
+      "percentual": 9.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002334267"
+    },
+    {
+      "nome": "ANELISE FREITAS ZOTTI",
+      "nomeUrna": "ANELISE FREITAS ZOTTI",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 123,
+      "percentual": 8.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002333806"
+    },
+    {
+      "nome": "ARI PADILHA DOS ANJOS",
+      "nomeUrna": "PADILHA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 117,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002333368"
+    },
+    {
+      "nome": "KELI RODRIGUES MARCON",
+      "nomeUrna": "KELI",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 101,
+      "percentual": 7.2,
+      "situacao": "Eleito por média",
+      "sqcand": "210002333366"
+    },
+    {
+      "nome": "ALAERTE ALZEMIRO PANISSON",
+      "nomeUrna": "ALAERTE PANISSON",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 91,
+      "percentual": 6.49,
+      "situacao": "Eleito por média",
+      "sqcand": "210002334269"
+    },
+    {
+      "nome": "ALINE DAL MORO",
+      "nomeUrna": "ALINE DAL MORO",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 81,
+      "percentual": 5.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002334271"
+    },
+    {
+      "nome": "ADELINO JOSE PASCOAL",
+      "nomeUrna": "DELO",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 76,
+      "percentual": 5.42,
+      "situacao": "Eleito por média",
+      "sqcand": "210002333367"
+    },
+    {
+      "nome": "ALMIR TELES DE MATOS",
+      "nomeUrna": "ALMIR",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 59,
+      "percentual": 4.21,
+      "situacao": "Eleito por média",
+      "sqcand": "210002334272"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 481,
+      "percentual": 50.16,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 295,
+      "percentual": 30.76,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 177,
+      "percentual": 18.46,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 113,
+      "percentual": 11.11,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "ANTONIO CARLOS GOMES DA SILVA",
+      "nomeUrna": "CARLOS GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 106,
+      "percentual": 10.42,
+      "sqcand": "210001601602"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 89,
+      "percentual": 8.75,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "ANY MACHADO ORTIZ",
+      "nomeUrna": "ANY ORTIZ",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 88,
+      "percentual": 8.65,
+      "sqcand": "210001620037"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 80,
+      "percentual": 7.87,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 77,
+      "percentual": 7.57,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "LUCIANO PALMA DE AZEVEDO",
+      "nomeUrna": "LUCIANO AZEVEDO",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 70,
+      "percentual": 6.88,
+      "sqcand": "210001613993"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 199,
+      "percentual": 20.56,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "ARLINDO ANTONIO LOPES",
+      "nomeUrna": "ARLINDO LOPES",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 138,
+      "percentual": 14.26,
+      "sqcand": "210001647974"
+    },
+    {
+      "nome": "MATEUS JOSE DE LIMA WESP",
+      "nomeUrna": "MATEUS WESP",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 112,
+      "percentual": 11.57,
+      "sqcand": "210001620219"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 110,
+      "percentual": 11.36,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "CLAUDIOMIRO FRACASSO",
+      "nomeUrna": "CLAUDIÃO DE IBIAÇÁ",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 88,
+      "percentual": 9.09,
+      "sqcand": "210001610602"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 73,
+      "percentual": 7.54,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "SERGIO PERES ALOS",
+      "nomeUrna": "SERGIO PERES",
+      "partido": "REPUBLICANOS",
+      "numero": "10300",
+      "votos": 41,
+      "percentual": 4.24,
+      "sqcand": "210001601643"
+    }
+  ]
+}

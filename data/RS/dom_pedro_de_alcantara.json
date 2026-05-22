@@ -1,0 +1,271 @@
+{
+  "populacao": 2692,
+  "votosValidos": 2398,
+  "abstencao": 9.29,
+  "prefeito": {
+    "nome": "ALEXANDRE MODEL EVALDT",
+    "nomeUrna": "XANDE",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1822,
+    "percentual": 75.98,
+    "situacao": "Eleito",
+    "sqcand": "210002039381",
+    "vice": "CATIA LENIR LUMERTZ VALIM",
+    "viceNomeUrna": "CÁTIA",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "210002287943",
+    "coligacao": "REPUBLICANOS / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "NATANAEL EVALDT BEHENCK",
+      "nomeUrna": "NATANAEL NHANHA",
+      "partido": "MDB",
+      "numero": "15005",
+      "votos": 240,
+      "percentual": 9.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002067720"
+    },
+    {
+      "nome": "CIDINEI EVALDT HAHN",
+      "nomeUrna": "CIDINEI CIDI",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 211,
+      "percentual": 8.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002067721"
+    },
+    {
+      "nome": "JUCEMAR SUMARA",
+      "nomeUrna": "DELAVI",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 195,
+      "percentual": 8.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002067723"
+    },
+    {
+      "nome": "ROMILDO HENDLER HAHN",
+      "nomeUrna": "ROMILDO HAHN",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 178,
+      "percentual": 7.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002243866"
+    },
+    {
+      "nome": "SCHAIRON CARDOSO DOS SANTOS",
+      "nomeUrna": "SCHAIRON",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 163,
+      "percentual": 6.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002038803"
+    },
+    {
+      "nome": "FÁBIO DA SILVA BERNST",
+      "nomeUrna": "BINHO",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 157,
+      "percentual": 6.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002067722"
+    },
+    {
+      "nome": "PATRÍCIA EVALDT JUSTO LUMERTZ",
+      "nomeUrna": "PATI DO GÊ",
+      "partido": "MDB",
+      "numero": "15001",
+      "votos": 132,
+      "percentual": 5.49,
+      "situacao": "Eleito por média",
+      "sqcand": "210002067719"
+    },
+    {
+      "nome": "ALCIONE EVALDT HAHN",
+      "nomeUrna": "TONY",
+      "partido": "PDT",
+      "numero": "12612",
+      "votos": 127,
+      "percentual": 5.28,
+      "situacao": "Eleito por média",
+      "sqcand": "210002243498"
+    },
+    {
+      "nome": "ALEXANDRE DIMER WEBBER",
+      "nomeUrna": "ALEXANDRE XANDÃO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 116,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002243870"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 742,
+      "percentual": 40.0,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 598,
+      "percentual": 32.24,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 493,
+      "percentual": 26.58,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 582,
+      "percentual": 29.5,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 169,
+      "percentual": 8.57,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 142,
+      "percentual": 7.2,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 136,
+      "percentual": 6.89,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 102,
+      "percentual": 5.17,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "ANTONIO CARLOS GOMES DA SILVA",
+      "nomeUrna": "CARLOS GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 75,
+      "percentual": 3.8,
+      "sqcand": "210001601602"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 61,
+      "percentual": 3.09,
+      "sqcand": "210001596134"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 494,
+      "percentual": 25.88,
+      "sqcand": "210001647995"
+    },
+    {
+      "nome": "JOSÉ SAMUEL DA SILVA SANTOS",
+      "nomeUrna": "SAMUEL",
+      "partido": "PT",
+      "numero": "13030",
+      "votos": 188,
+      "percentual": 9.85,
+      "sqcand": "210001610622"
+    },
+    {
+      "nome": "CLAUDIO ROBERTO SILVEIRA PARANHOS",
+      "nomeUrna": "CLAUDIO PARANHOS",
+      "partido": "PTB",
+      "numero": "14192",
+      "votos": 145,
+      "percentual": 7.6,
+      "sqcand": "210001649795"
+    },
+    {
+      "nome": "LUCIANO PINTO DA SILVA",
+      "nomeUrna": "LUCIANO PINTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10852",
+      "votos": 107,
+      "percentual": 5.61,
+      "sqcand": "210001601630"
+    },
+    {
+      "nome": "JOSÉ OLAVO ROSA BISOL",
+      "nomeUrna": "BISOL",
+      "partido": "PDT",
+      "numero": "12233",
+      "votos": 103,
+      "percentual": 5.4,
+      "sqcand": "210001621291"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 100,
+      "percentual": 5.24,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "SALMO DIAS DE OLIVEIRA",
+      "nomeUrna": "SALMO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 97,
+      "percentual": 5.08,
+      "sqcand": "210001647178"
+    }
+  ]
+}

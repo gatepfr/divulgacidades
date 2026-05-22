@@ -1,0 +1,271 @@
+{
+  "populacao": 4845,
+  "votosValidos": 3984,
+  "abstencao": 13.56,
+  "prefeito": {
+    "nome": "VANDERLEI LOPES DA SILVA",
+    "nomeUrna": "DERLEI",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 2059,
+    "percentual": 51.68,
+    "situacao": "Eleito",
+    "sqcand": "250002137436",
+    "vice": "FILOMENA APARECIDA JANINE",
+    "viceNomeUrna": "FILÓ DA SAÚDE",
+    "partidoVice": "PODE",
+    "sqcandVice": "250002378110",
+    "coligacao": "MDB / PODE / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "SIMONY TAMONY DA SILVA MACIEL",
+      "nomeUrna": "TAMONY MACIEL",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 239,
+      "percentual": 6.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002211873"
+    },
+    {
+      "nome": "DANIEL APARECIDO PINTO",
+      "nomeUrna": "DANIEL COWBOY",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 237,
+      "percentual": 6.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002275993"
+    },
+    {
+      "nome": "DENICIO PEREIRA",
+      "nomeUrna": "NIXO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 175,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002290229"
+    },
+    {
+      "nome": "RENATO ROGÉRIO FERREIRA",
+      "nomeUrna": "RENATO",
+      "partido": "PODE",
+      "numero": "20333",
+      "votos": 157,
+      "percentual": 4.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002217095"
+    },
+    {
+      "nome": "ADALTO JOSE MACIEL LEME",
+      "nomeUrna": "ADALTO LEME",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 154,
+      "percentual": 3.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002274713"
+    },
+    {
+      "nome": "ADAO MOACIR FERREIRA",
+      "nomeUrna": "MOACIR DOS LIMAS",
+      "partido": "PSD",
+      "numero": "55014",
+      "votos": 137,
+      "percentual": 3.49,
+      "situacao": "Eleito por média",
+      "sqcand": "250002290226"
+    },
+    {
+      "nome": "MURILO DE MORAES",
+      "nomeUrna": "MURILO MORAES",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 134,
+      "percentual": 3.41,
+      "situacao": "Eleito por média",
+      "sqcand": "250002274714"
+    },
+    {
+      "nome": "NOEL ROSA MARQUES",
+      "nomeUrna": "NOEL MARQUES ",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 125,
+      "percentual": 3.18,
+      "situacao": "Eleito por média",
+      "sqcand": "250002275990"
+    },
+    {
+      "nome": "ROSELI JESUS DO AMARAL LEME",
+      "nomeUrna": "ROSELI AMARAL",
+      "partido": "UNIÃO",
+      "numero": "44610",
+      "votos": 111,
+      "percentual": 2.83,
+      "situacao": "Eleito por média",
+      "sqcand": "250002211871"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1441,
+      "percentual": 45.59,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 904,
+      "percentual": 28.6,
+      "sqcand": "250001612459"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 717,
+      "percentual": 22.68,
+      "sqcand": "250001615891"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RICARDO IZAR JUNIOR",
+      "nomeUrna": "RICARDO IZAR",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 820,
+      "percentual": 24.07,
+      "sqcand": "250001611892"
+    },
+    {
+      "nome": "HAMILTON BERNARDES JUNIOR",
+      "nomeUrna": "HAMILTON BERNARDES",
+      "partido": "UNIÃO",
+      "numero": "4446",
+      "votos": 675,
+      "percentual": 19.81,
+      "sqcand": "250001602071"
+    },
+    {
+      "nome": "GUILHERME CAMPOS JUNIOR",
+      "nomeUrna": "GUILHERME CAMPOS",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 208,
+      "percentual": 6.11,
+      "sqcand": "250001604972"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 130,
+      "percentual": 3.82,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 121,
+      "percentual": 3.55,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "PAULO PEREIRA DA SILVA",
+      "nomeUrna": "PAULINHO DA FORÇA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 93,
+      "percentual": 2.73,
+      "sqcand": "250001606095"
+    },
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 82,
+      "percentual": 2.41,
+      "sqcand": "250001612091"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EDMIR JOSE ABI CHEDID",
+      "nomeUrna": "EDMIR CHEDID",
+      "partido": "UNIÃO",
+      "numero": "44118",
+      "votos": 1162,
+      "percentual": 35.39,
+      "sqcand": "250001602151"
+    },
+    {
+      "nome": "JOSE ANTONIO BARROS MUNHOZ",
+      "nomeUrna": "BARROS MUNHOZ",
+      "partido": "PSDB",
+      "numero": "45545",
+      "votos": 961,
+      "percentual": 29.27,
+      "sqcand": "250001611434"
+    },
+    {
+      "nome": "AMERICO MASSAKI HIGUTI",
+      "nomeUrna": "CORONEL AMÉRICO",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 104,
+      "percentual": 3.17,
+      "sqcand": "250001610133"
+    },
+    {
+      "nome": "CÉLIA CAMARGO LEÃO EDELMUTH",
+      "nomeUrna": "CÉLIA LEÃO",
+      "partido": "PSDB",
+      "numero": "45200",
+      "votos": 91,
+      "percentual": 2.77,
+      "sqcand": "250001611496"
+    },
+    {
+      "nome": "ÁTILA CESAR MONTEIRO JACOMUSSI",
+      "nomeUrna": "ATILA JACOMUSSI",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 82,
+      "percentual": 2.5,
+      "sqcand": "250001606292"
+    },
+    {
+      "nome": "ALEXANDER MUNIZ DE OLIVEIRA",
+      "nomeUrna": "ALEX DE MADUREIRA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 77,
+      "percentual": 2.35,
+      "sqcand": "250001610129"
+    },
+    {
+      "nome": "LUIZ FERNANDO TEIXEIRA FERREIRA",
+      "nomeUrna": "LUIZ FERNANDO",
+      "partido": "PT",
+      "numero": "13134",
+      "votos": 63,
+      "percentual": 1.92,
+      "sqcand": "250001611733"
+    }
+  ]
+}

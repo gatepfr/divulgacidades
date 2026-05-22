@@ -1,0 +1,271 @@
+{
+  "populacao": 2786,
+  "votosValidos": 2468,
+  "abstencao": 10.16,
+  "prefeito": {
+    "nome": "VANDIR OESTERREICH",
+    "nomeUrna": "VANDO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1108,
+    "percentual": 44.89,
+    "situacao": "Eleito",
+    "sqcand": "210002299905",
+    "vice": "FERNANDO DA ROSA MACHADO",
+    "viceNomeUrna": "FERNANDO MACHADO",
+    "partidoVice": "PP",
+    "sqcandVice": "210002299904",
+    "coligacao": "PP"
+  },
+  "vereadores": [
+    {
+      "nome": "FLORI DOS SANTOS AZEREDO",
+      "nomeUrna": "FLORI AZEREDO",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 183,
+      "percentual": 7.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002228856"
+    },
+    {
+      "nome": "DIEMERSON DE ALMEIDA NAISSINGER",
+      "nomeUrna": "DIEMERSON DE ALMEIDA NAISINGER",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 179,
+      "percentual": 7.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002228863"
+    },
+    {
+      "nome": "MOACIR DE MOURA NAISSINGER",
+      "nomeUrna": "MOACIR NAISSINGER",
+      "partido": "PP",
+      "numero": "11418",
+      "votos": 178,
+      "percentual": 7.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002300895"
+    },
+    {
+      "nome": "CLADIMIR CHAVES DA ROSA",
+      "nomeUrna": "CLAUDINHO",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 139,
+      "percentual": 5.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002300892"
+    },
+    {
+      "nome": "CLEBERSON SOUZA",
+      "nomeUrna": "CLEBERSON SOUZA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 138,
+      "percentual": 5.62,
+      "situacao": "Eleito por média",
+      "sqcand": "210002300888"
+    },
+    {
+      "nome": "JOCELI BRISOTTO",
+      "nomeUrna": "JOCELI BRISOTTO",
+      "partido": "PP",
+      "numero": "11650",
+      "votos": 126,
+      "percentual": 5.13,
+      "situacao": "Eleito por média",
+      "sqcand": "210002300893"
+    },
+    {
+      "nome": "CARLOS ALBERTO JORGE DOS REIS",
+      "nomeUrna": "CARLOS REIS",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 103,
+      "percentual": 4.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002228864"
+    },
+    {
+      "nome": "CASSIANA TAVARES DIAS",
+      "nomeUrna": "CASSIANA TAVARES",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 95,
+      "percentual": 3.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001917057"
+    },
+    {
+      "nome": "KARINE GUTHEIL FRANZEN",
+      "nomeUrna": "KARINE GUTHEIL FRANZEN",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 80,
+      "percentual": 3.26,
+      "situacao": "Eleito por média",
+      "sqcand": "210002228859"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 913,
+      "percentual": 48.98,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 595,
+      "percentual": 31.92,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 344,
+      "percentual": 18.45,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 543,
+      "percentual": 27.48,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 272,
+      "percentual": 13.77,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 250,
+      "percentual": 12.65,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "FRANCIANE ABADE BAYER MULLER",
+      "nomeUrna": "FRANCIANE BAYER",
+      "partido": "REPUBLICANOS",
+      "numero": "1012",
+      "votos": 175,
+      "percentual": 8.86,
+      "sqcand": "210001601591"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 133,
+      "percentual": 6.73,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 84,
+      "percentual": 4.25,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "JEFFERSON OLEA HOMRICH",
+      "nomeUrna": "JEFFERSON OLEA HOMRICH",
+      "partido": "PTB",
+      "numero": "1444",
+      "votos": 75,
+      "percentual": 3.8,
+      "sqcand": "210001649233"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROBERTO FANTINEL",
+      "nomeUrna": "BETO FANTINEL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 517,
+      "percentual": 27.01,
+      "sqcand": "210001648003"
+    },
+    {
+      "nome": "JULIO CESAR VIERO RUIVO",
+      "nomeUrna": "RUIVO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 247,
+      "percentual": 12.9,
+      "sqcand": "210001647158"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 238,
+      "percentual": 12.43,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "ANTONIO VALDECI OLIVEIRA DE OLIVEIRA",
+      "nomeUrna": "VALDECI OLIVEIRA",
+      "partido": "PT",
+      "numero": "13713",
+      "votos": 199,
+      "percentual": 10.4,
+      "sqcand": "210001610599"
+    },
+    {
+      "nome": "ELIANA DO NASCIMENTO NARVAIS BAYER",
+      "nomeUrna": "ELIANA BAYER",
+      "partido": "REPUBLICANOS",
+      "numero": "10120",
+      "votos": 132,
+      "percentual": 6.9,
+      "sqcand": "210001601632"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 110,
+      "percentual": 5.75,
+      "sqcand": "210001602904"
+    },
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 59,
+      "percentual": 3.08,
+      "sqcand": "210001647982"
+    }
+  ]
+}

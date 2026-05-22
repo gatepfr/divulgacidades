@@ -1,0 +1,271 @@
+{
+  "populacao": 4970,
+  "votosValidos": 4326,
+  "abstencao": 10.42,
+  "prefeito": {
+    "nome": "THIAGO DAMASCENO RIBEIRO SANTANA",
+    "nomeUrna": "DR THIAGO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2355,
+    "percentual": 54.44,
+    "situacao": "Eleito",
+    "sqcand": "180001959341",
+    "vice": "MIKAEL OLIVEIRA CRUZ",
+    "viceNomeUrna": "DR MIKAEL CRUZ",
+    "partidoVice": "PP",
+    "sqcandVice": "180001959342",
+    "coligacao": "PP / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "JORDANIA DE SOUSA FERREIRA",
+      "nomeUrna": "JORDANIA DO VALDECI",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 438,
+      "percentual": 10.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001919904"
+    },
+    {
+      "nome": "SALOMÉ DE SANTANA ASSIS BASTOS",
+      "nomeUrna": "SALOMÉ ASSIS",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 399,
+      "percentual": 9.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001916208"
+    },
+    {
+      "nome": "MERCILAINE DE SOUSA RIBEIRO SANTOS",
+      "nomeUrna": "MERCY RIBEIRO",
+      "partido": "MDB",
+      "numero": "15470",
+      "votos": 385,
+      "percentual": 8.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001916209"
+    },
+    {
+      "nome": "IRAN DAMASCENO RIBEIRO",
+      "nomeUrna": "IRAN DAMASCENO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 366,
+      "percentual": 8.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001919909"
+    },
+    {
+      "nome": "SEVERIANO BASTOS RIBEIRO",
+      "nomeUrna": "BÉU",
+      "partido": "PSD",
+      "numero": "55620",
+      "votos": 360,
+      "percentual": 8.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001919908"
+    },
+    {
+      "nome": "NEANDRO MIRANDA ASSIS",
+      "nomeUrna": "NEANDRO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 346,
+      "percentual": 8.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001919911"
+    },
+    {
+      "nome": "MAGNÓLIA PEREIRA DAMASCENO CRUZ",
+      "nomeUrna": "MAGNÓLIA CRUZ",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 345,
+      "percentual": 8.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001919910"
+    },
+    {
+      "nome": "VALÉRIO DOS SANTOS SOARES",
+      "nomeUrna": "VALÉRIO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 337,
+      "percentual": 7.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001916210"
+    },
+    {
+      "nome": "AMANDA REIS BARBOSA",
+      "nomeUrna": "DRA AMANDA BARBOSA",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 329,
+      "percentual": 7.68,
+      "situacao": "Eleito por média",
+      "sqcand": "180001916211"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2741,
+      "percentual": 74.91,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 887,
+      "percentual": 24.24,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "GEORGE MÁGNO CARVALHO CARDOSO",
+      "nomeUrna": "GEORGE MÁGNO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 17,
+      "percentual": 0.46,
+      "sqcand": "180001610857"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARGARETE DE CASTRO COELHO",
+      "nomeUrna": "MARGARETE COELHO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 1038,
+      "percentual": 27.65,
+      "sqcand": "180001602512"
+    },
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 1006,
+      "percentual": 26.8,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "WILSON NUNES MARTINS",
+      "nomeUrna": "WILSON MARTINS",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 513,
+      "percentual": 13.67,
+      "sqcand": "180001610757"
+    },
+    {
+      "nome": "REJANE RIBEIRO SOUSA DIAS",
+      "nomeUrna": "REJANE DIAS",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 230,
+      "percentual": 6.13,
+      "sqcand": "180001610756"
+    },
+    {
+      "nome": "FLAVIO RODRIGUES NOGUEIRA",
+      "nomeUrna": "FLAVIO NOGUEIRA",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 206,
+      "percentual": 5.49,
+      "sqcand": "180001610759"
+    },
+    {
+      "nome": "JULIO CÉSAR DE CARVALHO LIMA",
+      "nomeUrna": "JULIO CÉSAR",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 198,
+      "percentual": 5.27,
+      "sqcand": "180001602553"
+    },
+    {
+      "nome": "MERLONG SOLANO NOGUEIRA",
+      "nomeUrna": "MERLONG SOLANO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 184,
+      "percentual": 4.9,
+      "sqcand": "180001610763"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SIMONE PEREIRA DE FARIAS ARAUJO",
+      "nomeUrna": "SIMONE",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1135,
+      "percentual": 31.77,
+      "sqcand": "180001605757"
+    },
+    {
+      "nome": "HÉLIO ISAIAS DA SILVA",
+      "nomeUrna": "HÉLIO ISAIAS",
+      "partido": "PT",
+      "numero": "13454",
+      "votos": 944,
+      "percentual": 26.43,
+      "sqcand": "180001605673"
+    },
+    {
+      "nome": "THALES COELHO PIMENTEL",
+      "nomeUrna": "DR. THALES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 468,
+      "percentual": 13.1,
+      "sqcand": "180001604044"
+    },
+    {
+      "nome": "FIRMINO SOARES PAULO",
+      "nomeUrna": "FIRMINO PAULO",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 294,
+      "percentual": 8.23,
+      "sqcand": "180001605687"
+    },
+    {
+      "nome": "MIGUEL BORGES DE OLIVEIRA NETO",
+      "nomeUrna": "OLIVEIRA NETO",
+      "partido": "PT",
+      "numero": "13147",
+      "votos": 180,
+      "percentual": 5.04,
+      "sqcand": "180001605675"
+    },
+    {
+      "nome": "ANTONIO HENRIQUE DE CARVALHO PIRES",
+      "nomeUrna": "HENRIQUE PIRES",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 103,
+      "percentual": 2.88,
+      "sqcand": "180001605752"
+    },
+    {
+      "nome": "JOSÉ FERREIRA PAES LANDIM NETO",
+      "nomeUrna": "FERREIRA NETO",
+      "partido": "PP",
+      "numero": "11132",
+      "votos": 75,
+      "percentual": 2.1,
+      "sqcand": "180001604054"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 2656,
+  "votosValidos": 2419,
+  "abstencao": 7.23,
+  "prefeito": {
+    "nome": "LUCIMAR ANTONIO SALMORIA",
+    "nomeUrna": "LUCIMAR",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1250,
+    "percentual": 51.67,
+    "situacao": "Eleito",
+    "sqcand": "240002089846",
+    "vice": "KLEBER SALMORIA",
+    "viceNomeUrna": "KLEBER",
+    "partidoVice": "MDB",
+    "sqcandVice": "240002089847",
+    "coligacao": "MDB / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LUCIANO HERMES",
+      "nomeUrna": "LUCIANO",
+      "partido": "MDB",
+      "numero": "15609",
+      "votos": 178,
+      "percentual": 7.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002053532"
+    },
+    {
+      "nome": "ODAIR ROGERIO ROSA",
+      "nomeUrna": "ODAIR (NEGUINHO)",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 174,
+      "percentual": 7.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002053533"
+    },
+    {
+      "nome": "VALDENIR SUTIL DE OLIVEIRA",
+      "nomeUrna": "NIDE",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 166,
+      "percentual": 6.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002361252"
+    },
+    {
+      "nome": "ALFREDO HENRIQUE PALAVRO MECABO",
+      "nomeUrna": "ALFREDO PALAVRO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 164,
+      "percentual": 6.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002361253"
+    },
+    {
+      "nome": "IVONETE DELFES GUESSER",
+      "nomeUrna": "IVONETE GUESSER (VONE)",
+      "partido": "MDB",
+      "numero": "15680",
+      "votos": 143,
+      "percentual": 5.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002053535"
+    },
+    {
+      "nome": "MARGARIDA DALPIVA SALMORIA",
+      "nomeUrna": "MARGARIDA (MARGA)",
+      "partido": "MDB",
+      "numero": "15635",
+      "votos": 135,
+      "percentual": 5.58,
+      "situacao": "Eleito por média",
+      "sqcand": "240002053534"
+    },
+    {
+      "nome": "LEONARDO AGOSTINHO MECABO",
+      "nomeUrna": "CASCALHO",
+      "partido": "PP",
+      "numero": "11155",
+      "votos": 118,
+      "percentual": 4.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002361971"
+    },
+    {
+      "nome": "WILSON VIEIRA BRANCO",
+      "nomeUrna": "WILSON VIEIRA",
+      "partido": "PODE",
+      "numero": "20023",
+      "votos": 108,
+      "percentual": 4.46,
+      "situacao": "Eleito por média",
+      "sqcand": "240002268956"
+    },
+    {
+      "nome": "EDSON LEITE RIBEIRO",
+      "nomeUrna": "EDSON (CIPÓ)",
+      "partido": "MDB",
+      "numero": "15610",
+      "votos": 84,
+      "percentual": 3.47,
+      "situacao": "Eleito por média",
+      "sqcand": "240002053541"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 533,
+      "percentual": 28.83,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 470,
+      "percentual": 25.42,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 440,
+      "percentual": 23.8,
+      "sqcand": "240001611131"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 452,
+      "percentual": 23.49,
+      "sqcand": "240001611938"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 334,
+      "percentual": 17.36,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "RICARDO ZANATTA GUIDI",
+      "nomeUrna": "RICARDO GUIDI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 168,
+      "percentual": 8.73,
+      "sqcand": "240001611144"
+    },
+    {
+      "nome": "DARCI DE MATOS",
+      "nomeUrna": "DARCI DE MATOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 97,
+      "percentual": 5.04,
+      "sqcand": "240001611136"
+    },
+    {
+      "nome": "ANGELA REGINA HEINZEN AMIN HELOU",
+      "nomeUrna": "ANGELA AMIN",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 84,
+      "percentual": 4.37,
+      "sqcand": "240001644888"
+    },
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 83,
+      "percentual": 4.31,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "RODRIGO COELHO",
+      "nomeUrna": "RODRIGO COELHO",
+      "partido": "PODE",
+      "numero": "1922",
+      "votos": 82,
+      "percentual": 4.26,
+      "sqcand": "240001610855"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SILVIO ALEXANDRE ZANCANARO",
+      "nomeUrna": "SILVIO ALEXANDRE ZANCANARO",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 502,
+      "percentual": 27.21,
+      "sqcand": "240001614377"
+    },
+    {
+      "nome": "JERRY EDSON COMPER",
+      "nomeUrna": "JERRY COMPER",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 241,
+      "percentual": 13.06,
+      "sqcand": "240001605920"
+    },
+    {
+      "nome": "JUAREZ MATOS",
+      "nomeUrna": "JUAREZ MATOS",
+      "partido": "MDB",
+      "numero": "15200",
+      "votos": 131,
+      "percentual": 7.1,
+      "sqcand": "240001605917"
+    },
+    {
+      "nome": "LUCAS FELIPE MELO NEVES",
+      "nomeUrna": "LUCAS NEVES",
+      "partido": "PODE",
+      "numero": "19282",
+      "votos": 126,
+      "percentual": 6.83,
+      "sqcand": "240001610819"
+    },
+    {
+      "nome": "NILSO JOSE BERLANDA",
+      "nomeUrna": "BERLANDA",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 125,
+      "percentual": 6.78,
+      "sqcand": "240001614335"
+    },
+    {
+      "nome": "JOÃO ANTÔNIO HEINZEN AMIN HELOU",
+      "nomeUrna": "JOÃO AMIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 89,
+      "percentual": 4.82,
+      "sqcand": "240001644765"
+    },
+    {
+      "nome": "ALTAIR DA SILVA",
+      "nomeUrna": "ALTAIR SILVA",
+      "partido": "PP",
+      "numero": "11130",
+      "votos": 56,
+      "percentual": 3.04,
+      "sqcand": "240001644767"
+    }
+  ]
+}

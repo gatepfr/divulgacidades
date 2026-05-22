@@ -1,0 +1,301 @@
+{
+  "populacao": 184033,
+  "votosValidos": 128318,
+  "abstencao": 23.15,
+  "prefeito": {
+    "nome": "CUSTÓDIO TAVARES DIAS NETO",
+    "nomeUrna": "DR CUSTÓDIO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 83731,
+    "percentual": 65.25,
+    "situacao": "Eleito",
+    "sqcand": "250001943049",
+    "vice": "LUIZ CARLOS CHIAPARINE",
+    "viceNomeUrna": "DR CHIAPARINE",
+    "partidoVice": "PL",
+    "sqcandVice": "250001943050",
+    "coligacao": "PP / MDB / PL / PRTB / PSB / UNIÃO / PSD / CIDADANIA / PSDB / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "HÉLIO ALVES RIBEIRO",
+      "nomeUrna": "HELIO RIBEIRO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 6320,
+      "percentual": 5.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002119560"
+    },
+    {
+      "nome": "TULIO JOSÉ THOMASS DO COUTO",
+      "nomeUrna": "DR TULIO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 4045,
+      "percentual": 3.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002119553"
+    },
+    {
+      "nome": "DANILO BERTIPAGLIA BARNABE",
+      "nomeUrna": "DANILO BARNABE",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 4018,
+      "percentual": 3.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002146273"
+    },
+    {
+      "nome": "WILSON JOSÉ DOS SANTOS",
+      "nomeUrna": "WILSON ÍNDIO DA 12",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 3810,
+      "percentual": 3.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002217144"
+    },
+    {
+      "nome": "OTHNIEL HARFUCH",
+      "nomeUrna": "DR. OTHNIEL",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 3329,
+      "percentual": 2.65,
+      "situacao": "Eleito por média",
+      "sqcand": "250002217149"
+    },
+    {
+      "nome": "LEANDRO JOSE PINTO",
+      "nomeUrna": "LEANDRO PINTO",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 3204,
+      "percentual": 2.55,
+      "situacao": "Eleito por média",
+      "sqcand": "250002217153"
+    },
+    {
+      "nome": "CLELIA DOS SANTOS DE CARVALHO",
+      "nomeUrna": "CLÉLIA SANTOS",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 2920,
+      "percentual": 2.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001969772"
+    },
+    {
+      "nome": "ADALTO MISSIAS DE OLIVEIRA",
+      "nomeUrna": "ADALTO DO RESTAURANTE",
+      "partido": "PP",
+      "numero": "11233",
+      "votos": 2910,
+      "percentual": 2.32,
+      "situacao": "Eleito por média",
+      "sqcand": "250001969761"
+    },
+    {
+      "nome": "LUIZ ALBERTO PEREIRA",
+      "nomeUrna": "CEBOLINHA",
+      "partido": "MDB",
+      "numero": "15622",
+      "votos": 2721,
+      "percentual": 2.17,
+      "situacao": "Eleito por média",
+      "sqcand": "250002119548"
+    },
+    {
+      "nome": "EDUARDO TONIN",
+      "nomeUrna": "DU TONIN",
+      "partido": "PODE",
+      "numero": "20100",
+      "votos": 2718,
+      "percentual": 2.17,
+      "situacao": "Eleito por média",
+      "sqcand": "250002146266"
+    },
+    {
+      "nome": "SERGIO JOSÉ TEIXEIRA",
+      "nomeUrna": "PROF. SÉRGIO",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 2710,
+      "percentual": 2.16,
+      "situacao": "Eleito por média",
+      "sqcand": "250002119559"
+    },
+    {
+      "nome": "ALEXANDRE CARLOS PERES",
+      "nomeUrna": "ALEXANDRE PERES",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 2002,
+      "percentual": 1.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001968139"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 72389,
+      "percentual": 58.96,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 31378,
+      "percentual": 25.56,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 9660,
+      "percentual": 7.87,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "BRUNO AREVALO GANEM",
+      "nomeUrna": "BRUNO GANEM",
+      "partido": "PODE",
+      "numero": "1910",
+      "votos": 27525,
+      "percentual": 20.9,
+      "sqcand": "250001610270"
+    },
+    {
+      "nome": "HELIO ALVES RIBEIRO",
+      "nomeUrna": "HELIO RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "1002",
+      "votos": 16327,
+      "percentual": 12.4,
+      "sqcand": "250001611852"
+    },
+    {
+      "nome": "BRUNO MARCELLO DE OLIVEIRA LIMA",
+      "nomeUrna": "DELEGADO BRUNO LIMA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 9533,
+      "percentual": 7.24,
+      "sqcand": "250001611973"
+    },
+    {
+      "nome": "JORGE LUIS LEPINSK",
+      "nomeUrna": "PEPO LEPINSK",
+      "partido": "MDB",
+      "numero": "1577",
+      "votos": 6181,
+      "percentual": 4.69,
+      "sqcand": "250001611231"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 5768,
+      "percentual": 4.38,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "MOSART ARAGÃO PEREIRA",
+      "nomeUrna": "TENENTE MOSART",
+      "partido": "PL",
+      "numero": "2238",
+      "votos": 4793,
+      "percentual": 3.64,
+      "sqcand": "250001611308"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 4442,
+      "percentual": 3.37,
+      "sqcand": "250001611374"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROGERIO NOGUEIRA LOPES CRUZ",
+      "nomeUrna": "ROGÉRIO NOGUEIRA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 63246,
+      "percentual": 48.72,
+      "sqcand": "250001611431"
+    },
+    {
+      "nome": "RICARDO LONGATTI FRANÇA",
+      "nomeUrna": "RICARDO FRANÇA",
+      "partido": "PODE",
+      "numero": "19100",
+      "votos": 17870,
+      "percentual": 13.76,
+      "sqcand": "250001610539"
+    },
+    {
+      "nome": "DANILO BERTIPAGLIA BARNABÉ",
+      "nomeUrna": "DANILO BARNABÉ",
+      "partido": "PL",
+      "numero": "22223",
+      "votos": 15298,
+      "percentual": 11.78,
+      "sqcand": "250001610114"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 2599,
+      "percentual": 2.0,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "GILMACI DOS SANTOS BARBOSA",
+      "nomeUrna": "GILMACI SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 1694,
+      "percentual": 1.3,
+      "sqcand": "250001639568"
+    },
+    {
+      "nome": "PAULA NUNES DOS SANTOS",
+      "nomeUrna": "PAULA DA BANCADA FEMINISTA",
+      "partido": "PSOL",
+      "numero": "50000",
+      "votos": 954,
+      "percentual": 0.73,
+      "sqcand": "250001619328"
+    },
+    {
+      "nome": "CESAR MICHELON LOUREIRO SANTANA",
+      "nomeUrna": "CESAR OREIA",
+      "partido": "PDT",
+      "numero": "12400",
+      "votos": 753,
+      "percentual": 0.58,
+      "sqcand": "250001643637"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 3118,
+  "votosValidos": 2593,
+  "abstencao": 12.73,
+  "prefeito": {
+    "nome": "ONILDO LINDBERG ANANIAS DA SILVA",
+    "nomeUrna": "ONILDO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1972,
+    "percentual": 76.05,
+    "situacao": "Eleito",
+    "sqcand": "150001900032",
+    "vice": "INARA MARINHO FERREIRA DA SILVA",
+    "viceNomeUrna": "INARA",
+    "partidoVice": "PSD",
+    "sqcandVice": "150001900033",
+    "coligacao": "PSD / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "SERGIO QUINTINO",
+      "nomeUrna": "SERGINHO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 341,
+      "percentual": 12.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001900041"
+    },
+    {
+      "nome": "GUSTAVO DA SILVA MENDES",
+      "nomeUrna": "GUSTAVO BATATA",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 278,
+      "percentual": 10.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001900040"
+    },
+    {
+      "nome": "MANOEL ANTÔNIO PEREIRA",
+      "nomeUrna": "TOZA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 265,
+      "percentual": 9.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002320860"
+    },
+    {
+      "nome": "JAILSON JOSÉ DE AMORIM",
+      "nomeUrna": "JAILSON AMORIM",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 231,
+      "percentual": 8.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001900043"
+    },
+    {
+      "nome": "BRENNER SANTOS PINTO",
+      "nomeUrna": "BRENNER",
+      "partido": "MDB",
+      "numero": "15321",
+      "votos": 207,
+      "percentual": 7.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002320857"
+    },
+    {
+      "nome": "PEDRO TORRES FILHO",
+      "nomeUrna": "PEDROSA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 191,
+      "percentual": 7.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001900038"
+    },
+    {
+      "nome": "CARLOS ALEXANDRE COSTA AMORIM",
+      "nomeUrna": "CARLINHOS DO GÁS ",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 180,
+      "percentual": 6.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002320861"
+    },
+    {
+      "nome": "ANTÔNIO MAURICIO DO NASCIMENTO",
+      "nomeUrna": "ANTÔNIO DO SOFÁ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 170,
+      "percentual": 6.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001900039"
+    },
+    {
+      "nome": "ANTÔNIO PEREIRA DINIZ",
+      "nomeUrna": "TOINHO PEREIRA",
+      "partido": "PP",
+      "numero": "11345",
+      "votos": 132,
+      "percentual": 4.96,
+      "situacao": "Eleito por média",
+      "sqcand": "150001900034"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1097,
+      "percentual": 54.8,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 662,
+      "percentual": 33.07,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 101,
+      "percentual": 5.04,
+      "sqcand": "150001718470"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "AGUINALDO VELLOSO BORGES RIBEIRO",
+      "nomeUrna": "AGUINALDO RIBEIRO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1119,
+      "percentual": 53.39,
+      "sqcand": "150001612065"
+    },
+    {
+      "nome": "CAROLINA FARIAS ALMEIDA GOMES",
+      "nomeUrna": "CAROL GOMES",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 409,
+      "percentual": 19.51,
+      "sqcand": "150001603193"
+    },
+    {
+      "nome": "ESTELIZABEL BEZERRA DE SOUZA",
+      "nomeUrna": "ESTELA BEZERRA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 186,
+      "percentual": 8.87,
+      "sqcand": "150001619530"
+    },
+    {
+      "nome": "ANTONIO RIBEIRO",
+      "nomeUrna": "FREI ANASTÁCIO",
+      "partido": "PT",
+      "numero": "1345",
+      "votos": 83,
+      "percentual": 3.96,
+      "sqcand": "150001619539"
+    },
+    {
+      "nome": "ROMERO RODRIGUES VEIGA",
+      "nomeUrna": "ROMERO RODRIGUES",
+      "partido": "PSC",
+      "numero": "2011",
+      "votos": 39,
+      "percentual": 1.86,
+      "sqcand": "150001612086"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 28,
+      "percentual": 1.34,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "RICARDO BARBOSA",
+      "nomeUrna": "RICARDO BARBOSA",
+      "partido": "PSB",
+      "numero": "4022",
+      "votos": 25,
+      "percentual": 1.19,
+      "sqcand": "150001621684"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MANOEL LUDGERIO PEREIRA NETO",
+      "nomeUrna": "MANOEL LUDGERIO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 1210,
+      "percentual": 57.84,
+      "sqcand": "150001621357"
+    },
+    {
+      "nome": "ROMUALDO ANTONIO QUIRINO DE SOUSA",
+      "nomeUrna": "DR ROMUALDO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 508,
+      "percentual": 24.28,
+      "sqcand": "150001718095"
+    },
+    {
+      "nome": "FABIO RAMALHO DA SILVA",
+      "nomeUrna": "FABIO RAMALHO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 114,
+      "percentual": 5.45,
+      "sqcand": "150001621377"
+    },
+    {
+      "nome": "JOSILENE MARIA DE OLIVEIRA",
+      "nomeUrna": "JÔ OLIVEIRA",
+      "partido": "PC do B",
+      "numero": "65000",
+      "votos": 50,
+      "percentual": 2.39,
+      "sqcand": "150001643189"
+    },
+    {
+      "nome": "JOÃO PAULO BARBOSA LEAL SEGUNDO",
+      "nomeUrna": "JOÃO PAULO",
+      "partido": "PP",
+      "numero": "11369",
+      "votos": 39,
+      "percentual": 1.86,
+      "sqcand": "150001612056"
+    },
+    {
+      "nome": "AZEMAVETE ALVES DE SOUZA",
+      "nomeUrna": "MAVETE",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 22,
+      "percentual": 1.05,
+      "sqcand": "150001621661"
+    },
+    {
+      "nome": "JOSÉ AIRTON PIRES DE SOUSA",
+      "nomeUrna": "AIRTON PIRES",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 21,
+      "percentual": 1.0,
+      "sqcand": "150001603137"
+    }
+  ]
+}

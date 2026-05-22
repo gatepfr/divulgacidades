@@ -1,0 +1,271 @@
+{
+  "populacao": 2185,
+  "votosValidos": 1887,
+  "abstencao": 10.71,
+  "prefeito": {
+    "nome": "MARIZETE VARGAS PEREIRA RAUTA",
+    "nomeUrna": "MARI",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1298,
+    "percentual": 68.79,
+    "situacao": "Eleito",
+    "sqcand": "210001989912",
+    "vice": "MIQUEIAS GUADAGNIN",
+    "viceNomeUrna": "MIQUEIAS GUADAGNIN",
+    "partidoVice": "PDT",
+    "sqcandVice": "210001989913",
+    "coligacao": "MDB / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "ERON JOSÉ CHAGAS PORTO",
+      "nomeUrna": "ERON PORTO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 180,
+      "percentual": 9.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001989548"
+    },
+    {
+      "nome": "ARTUR FERNANDO RIETH",
+      "nomeUrna": "LARANJEIRA",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 173,
+      "percentual": 9.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001989804"
+    },
+    {
+      "nome": "JULIO CESAR GONÇALVES",
+      "nomeUrna": "JULINHO",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 149,
+      "percentual": 7.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001989807"
+    },
+    {
+      "nome": "LUCIANA LIMA BOLSONELO",
+      "nomeUrna": "LUCIANA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 133,
+      "percentual": 6.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001989553"
+    },
+    {
+      "nome": "CARLOS ALBERTO CAMPOS DE OLIVEIRA",
+      "nomeUrna": "CARLOS ALBERTO CAMPOS",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 113,
+      "percentual": 5.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002206503"
+    },
+    {
+      "nome": "CARLA JANARA BOFF TELLES",
+      "nomeUrna": "CARLA BOFF",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 112,
+      "percentual": 5.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001989805"
+    },
+    {
+      "nome": "JOAQUIM LEONEL DE ANDRADE",
+      "nomeUrna": "ZOLA ANDRADE",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 110,
+      "percentual": 5.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001989549"
+    },
+    {
+      "nome": "IDIANESA DE BISPO GODINHO GREGOLON",
+      "nomeUrna": "IDIANESA",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 110,
+      "percentual": 5.74,
+      "situacao": "Eleito por média",
+      "sqcand": "210001989550"
+    },
+    {
+      "nome": "ALINE GUARDALBEM MELO",
+      "nomeUrna": "ALINE",
+      "partido": "PDT",
+      "numero": "12300",
+      "votos": 74,
+      "percentual": 3.86,
+      "situacao": "Eleito por média",
+      "sqcand": "210001989812"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 541,
+      "percentual": 35.73,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 502,
+      "percentual": 33.16,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 456,
+      "percentual": 30.12,
+      "sqcand": "210001610438"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 399,
+      "percentual": 25.91,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 203,
+      "percentual": 13.18,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 119,
+      "percentual": 7.73,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 99,
+      "percentual": 6.43,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 80,
+      "percentual": 5.19,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 72,
+      "percentual": 4.68,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "ANDRÉ CASSIO DA SILVA OLIVEIRA",
+      "nomeUrna": "ANDRÉ OLIVEIRA",
+      "partido": "AVANTE",
+      "numero": "7080",
+      "votos": 71,
+      "percentual": 4.61,
+      "sqcand": "210001620439"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RONALDO SANTINI",
+      "nomeUrna": "SANTINI",
+      "partido": "PODE",
+      "numero": "19777",
+      "votos": 327,
+      "percentual": 21.7,
+      "sqcand": "210001596147"
+    },
+    {
+      "nome": "GILMAR SOSSELLA",
+      "nomeUrna": "SOSSELLA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 232,
+      "percentual": 15.39,
+      "sqcand": "210001621287"
+    },
+    {
+      "nome": "ARLINDO ANTONIO LOPES",
+      "nomeUrna": "ARLINDO LOPES",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 163,
+      "percentual": 10.82,
+      "sqcand": "210001647974"
+    },
+    {
+      "nome": "CARLOS ANTÔNIO BÚRIGO",
+      "nomeUrna": "CARLOS BÚRIGO",
+      "partido": "MDB",
+      "numero": "15140",
+      "votos": 152,
+      "percentual": 10.09,
+      "sqcand": "210001647971"
+    },
+    {
+      "nome": "CLAUDIOMIRO FRACASSO",
+      "nomeUrna": "CLAUDIÃO DE IBIAÇÁ",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 129,
+      "percentual": 8.56,
+      "sqcand": "210001610602"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 104,
+      "percentual": 6.9,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "RODRIGO MARQUES LORENZONI",
+      "nomeUrna": "RODRIGO LORENZONI",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 75,
+      "percentual": 4.98,
+      "sqcand": "210001648942"
+    }
+  ]
+}

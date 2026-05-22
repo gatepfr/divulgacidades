@@ -1,0 +1,291 @@
+{
+  "populacao": 15728,
+  "votosValidos": 12228,
+  "abstencao": 19.63,
+  "prefeito": {
+    "nome": "RUZINALDO GUIMARAES DE MELO",
+    "nomeUrna": "TIO GAL",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 9626,
+    "percentual": 78.72,
+    "situacao": "Eleito",
+    "sqcand": "100001924397",
+    "vice": "JOSE MENANDES DA SILVA FILHO",
+    "viceNomeUrna": "ZE MENANDES",
+    "partidoVice": "PDT",
+    "sqcandVice": "100001924398",
+    "coligacao": "PDT / PL / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "PAULO MARCELO DOS SANTOS SILVA",
+      "nomeUrna": "MARCELO DA PESCA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 784,
+      "percentual": 6.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925255"
+    },
+    {
+      "nome": "ANDRÉ ANTONIO FERREIRA MENDES",
+      "nomeUrna": "TOM DO AÇOUGUE",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 775,
+      "percentual": 6.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925143"
+    },
+    {
+      "nome": "PALOMA GLAUCE DE OLIVEIRA DE SOUSA",
+      "nomeUrna": "PALOMA GLAUCE",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 768,
+      "percentual": 6.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925257"
+    },
+    {
+      "nome": "ISABEL DE SOUSA VASCONCELOS",
+      "nomeUrna": "IRMÃ BELA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 595,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925146"
+    },
+    {
+      "nome": "ANTONIO CARLOS CAMPOS",
+      "nomeUrna": "PAIXÃO",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 578,
+      "percentual": 4.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925144"
+    },
+    {
+      "nome": "WELSON RIBEIRO PEREIRA",
+      "nomeUrna": "WESLEY WELSON",
+      "partido": "PRD",
+      "numero": "25123",
+      "votos": 550,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925617"
+    },
+    {
+      "nome": "GILMAR SANTOS DE PAIVA",
+      "nomeUrna": "ZE TWEETER",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 482,
+      "percentual": 3.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925611"
+    },
+    {
+      "nome": "OZEANE RODRIGUES DA SILVA",
+      "nomeUrna": "NENEM DO BAR",
+      "partido": "PRD",
+      "numero": "25111",
+      "votos": 435,
+      "percentual": 3.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925616"
+    },
+    {
+      "nome": "FRANCISCO MOURA",
+      "nomeUrna": "CHICO MOURA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 416,
+      "percentual": 3.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001925256"
+    },
+    {
+      "nome": "ANDRÉ PATRICIO ALVES MARTINS",
+      "nomeUrna": "ANDRÉ DA GALINHA",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 378,
+      "percentual": 3.06,
+      "situacao": "Eleito por média",
+      "sqcand": "100001925254"
+    },
+    {
+      "nome": "SEBASTIÃO FERREIRA DE MELO",
+      "nomeUrna": "SEBASTIÃO DA PESCA",
+      "partido": "AVANTE",
+      "numero": "70888",
+      "votos": 337,
+      "percentual": 2.73,
+      "situacao": "Eleito por média",
+      "sqcand": "100002325830"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 5920,
+      "percentual": 62.85,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 3332,
+      "percentual": 35.37,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 116,
+      "percentual": 1.23,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+      "nomeUrna": "DETINHA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 3599,
+      "percentual": 35.56,
+      "sqcand": "100001603115"
+    },
+    {
+      "nome": "JOÃO MARCELO SANTOS SOUZA",
+      "nomeUrna": "JOÃO MARCELO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 1077,
+      "percentual": 10.64,
+      "sqcand": "100001599087"
+    },
+    {
+      "nome": "JOSÉ JUSCELINO DOS SANTOS REZENDE FILHO",
+      "nomeUrna": "JUSCELINO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4410",
+      "votos": 951,
+      "percentual": 9.4,
+      "sqcand": "100001610561"
+    },
+    {
+      "nome": "ROSEANA SARNEY MURAD",
+      "nomeUrna": "ROSEANA SARNEY",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 434,
+      "percentual": 4.29,
+      "sqcand": "100001599082"
+    },
+    {
+      "nome": "GILLIANO FRED NASCIMENTO CUTRIM",
+      "nomeUrna": "GIL CUTRIM",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 433,
+      "percentual": 4.28,
+      "sqcand": "100001602010"
+    },
+    {
+      "nome": "PEDRO LUCAS ANDRADE FERNANDES RIBEIRO",
+      "nomeUrna": "PEDRO LUCAS FERNANDES",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 400,
+      "percentual": 3.95,
+      "sqcand": "100001610559"
+    },
+    {
+      "nome": "TACILLA MARIANA CARVALHO SILVA",
+      "nomeUrna": "MARIANA CARVALHO",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 304,
+      "percentual": 3.0,
+      "sqcand": "100001615471"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FABIANA VILAR RODRIGUES",
+      "nomeUrna": "FABIANA VILAR",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 3558,
+      "percentual": 37.38,
+      "sqcand": "100001603158"
+    },
+    {
+      "nome": "JOSÉ ADRIANO CORDEIRO SARNEY",
+      "nomeUrna": "ADRIANO SARNEY",
+      "partido": "PV",
+      "numero": "43123",
+      "votos": 632,
+      "percentual": 6.64,
+      "sqcand": "100001613730"
+    },
+    {
+      "nome": "HEMETERIO WEBA FILHO",
+      "nomeUrna": "HEMETERIO WEBA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 519,
+      "percentual": 5.45,
+      "sqcand": "100001608098"
+    },
+    {
+      "nome": "CIRO EVANGELISTA DE SOUZA NETO",
+      "nomeUrna": "CIRO NETO",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 462,
+      "percentual": 4.85,
+      "sqcand": "100001599575"
+    },
+    {
+      "nome": "RAFAEL PEROTI LIMA",
+      "nomeUrna": "RAFAEL PEROTI",
+      "partido": "AGIR",
+      "numero": "36123",
+      "votos": 450,
+      "percentual": 4.73,
+      "sqcand": "100001689571"
+    },
+    {
+      "nome": "MICAL SILVA DAMASCENO",
+      "nomeUrna": "MICAL DAMASCENO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 357,
+      "percentual": 3.75,
+      "sqcand": "100001607113"
+    },
+    {
+      "nome": "GUILHERME FONSECA PAZ",
+      "nomeUrna": "GUILHERME PAZ",
+      "partido": "PATRIOTA",
+      "numero": "51000",
+      "votos": 320,
+      "percentual": 3.36,
+      "sqcand": "100001608121"
+    }
+  ]
+}

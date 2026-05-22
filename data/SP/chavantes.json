@@ -1,0 +1,271 @@
+{
+  "populacao": 8808,
+  "votosValidos": 6386,
+  "abstencao": 20.0,
+  "prefeito": {
+    "nome": "LUIZ FILIPE DE PAULA JACINTO",
+    "nomeUrna": "FILIPE",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2316,
+    "percentual": 36.27,
+    "situacao": "Eleito",
+    "sqcand": "250002171657",
+    "vice": "JOSE RICARDO NABERO",
+    "viceNomeUrna": "KADAO NABERO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "250002171658",
+    "coligacao": "REPUBLICANOS / MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "RAFAEL LOPES GARCIA",
+      "nomeUrna": "RAFINHA LOPES",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 393,
+      "percentual": 6.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002226580"
+    },
+    {
+      "nome": "ROBERTO CEZAR GOMES SOARES",
+      "nomeUrna": "ROBERTINHO SOARES",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 315,
+      "percentual": 4.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002264887"
+    },
+    {
+      "nome": "MICHELE BATISTA DO NASCIMENTO LOPES",
+      "nomeUrna": "MICHELE BATISTA",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 300,
+      "percentual": 4.62,
+      "situacao": "Eleito por média",
+      "sqcand": "250001950184"
+    },
+    {
+      "nome": "ALEXANDRE MARCELO",
+      "nomeUrna": "ALEXANDRE PARAGUAI",
+      "partido": "AVANTE",
+      "numero": "70120",
+      "votos": 299,
+      "percentual": 4.6,
+      "situacao": "Eleito por média",
+      "sqcand": "250002264881"
+    },
+    {
+      "nome": "LUIS CESAR PEDRO LONGO",
+      "nomeUrna": "CEZINHA",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 297,
+      "percentual": 4.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002212107"
+    },
+    {
+      "nome": "LUIS FERNANDO CAMOTI RUIZ",
+      "nomeUrna": "FERNANDO CAMOTI",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 248,
+      "percentual": 3.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002247008"
+    },
+    {
+      "nome": "CLEBER CARVALHO RAZZE",
+      "nomeUrna": "CLEBER RAZZE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 230,
+      "percentual": 3.54,
+      "situacao": "Eleito por média",
+      "sqcand": "250002247007"
+    },
+    {
+      "nome": "REGIENE MENDES",
+      "nomeUrna": "REGIENE MENDES",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 183,
+      "percentual": 2.82,
+      "situacao": "Eleito por média",
+      "sqcand": "250002264890"
+    },
+    {
+      "nome": "MARCELO DOMINGOS RAMOS DO NASCIMENTO",
+      "nomeUrna": "MARCELO MISSIONARIO",
+      "partido": "PL",
+      "numero": "22666",
+      "votos": 158,
+      "percentual": 2.43,
+      "situacao": "Eleito por média",
+      "sqcand": "250002212102"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3749,
+      "percentual": 62.68,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1659,
+      "percentual": 27.74,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 438,
+      "percentual": 7.32,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 857,
+      "percentual": 13.6,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "CICERO DE AQUINO",
+      "nomeUrna": "CICERO INVESTIGADOR",
+      "partido": "REPUBLICANOS",
+      "numero": "1016",
+      "votos": 517,
+      "percentual": 8.2,
+      "sqcand": "250001611883"
+    },
+    {
+      "nome": "JEFFERSON ALVES DE CAMPOS",
+      "nomeUrna": "JEFFERSON CAMPOS",
+      "partido": "PL",
+      "numero": "2274",
+      "votos": 445,
+      "percentual": 7.06,
+      "sqcand": "250001611329"
+    },
+    {
+      "nome": "NILTO IGNÁCIO TATTO",
+      "nomeUrna": "NILTO TATTO",
+      "partido": "PT",
+      "numero": "1353",
+      "votos": 387,
+      "percentual": 6.14,
+      "sqcand": "250001610688"
+    },
+    {
+      "nome": "FREDERICO BRAUN D AVILA",
+      "nomeUrna": "FREDERICO DAVILA",
+      "partido": "PL",
+      "numero": "2288",
+      "votos": 239,
+      "percentual": 3.79,
+      "sqcand": "250001611307"
+    },
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 169,
+      "percentual": 2.68,
+      "sqcand": "250001612091"
+    },
+    {
+      "nome": "ALBERTO PEREIRA MOURÃO",
+      "nomeUrna": "ALBERTO MOURÃO",
+      "partido": "MDB",
+      "numero": "1599",
+      "votos": 156,
+      "percentual": 2.48,
+      "sqcand": "250001611244"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GUILHERME ANDREW GONÇALVES DA SILVA",
+      "nomeUrna": "GUILHERME GONÇALVES",
+      "partido": "PODE",
+      "numero": "19333",
+      "votos": 844,
+      "percentual": 14.07,
+      "sqcand": "250001610535"
+    },
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 540,
+      "percentual": 9.0,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "RICARDO ROSSI MADALENA",
+      "nomeUrna": "RICARDO MADALENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 527,
+      "percentual": 8.79,
+      "sqcand": "250001610138"
+    },
+    {
+      "nome": "CARLOS CEZAR DA SILVA",
+      "nomeUrna": "CARLOS CEZAR",
+      "partido": "PL",
+      "numero": "22112",
+      "votos": 417,
+      "percentual": 6.95,
+      "sqcand": "250001610158"
+    },
+    {
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "nomeUrna": "DANI ALONSO",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 411,
+      "percentual": 6.85,
+      "sqcand": "250001610113"
+    },
+    {
+      "nome": "ENIO FRANCISCO TATTO",
+      "nomeUrna": "ENIO TATTO",
+      "partido": "PT",
+      "numero": "13114",
+      "votos": 332,
+      "percentual": 5.54,
+      "sqcand": "250001611799"
+    },
+    {
+      "nome": "DANILO CESAR CAMPETTI",
+      "nomeUrna": "DANILO CAMPETTI",
+      "partido": "REPUBLICANOS",
+      "numero": "10017",
+      "votos": 170,
+      "percentual": 2.83,
+      "sqcand": "250001639541"
+    }
+  ]
+}

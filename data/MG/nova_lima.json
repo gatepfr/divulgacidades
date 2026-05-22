@@ -1,0 +1,331 @@
+{
+  "populacao": 74380,
+  "votosValidos": 55283,
+  "abstencao": 17.87,
+  "prefeito": {
+    "nome": "JOÃO MARCELO DIEGUEZ PEREIRA",
+    "nomeUrna": "JOÃO MARCELO",
+    "partido": "CIDADANIA",
+    "numero": "23",
+    "votos": 47321,
+    "percentual": 85.6,
+    "situacao": "Eleito",
+    "sqcand": "130002048721",
+    "vice": "CISSA CAROLINE FERREIRA SOUZA",
+    "viceNomeUrna": "CISSA CAROLINE",
+    "partidoVice": "PSD",
+    "sqcandVice": "130002048720",
+    "coligacao": "PSD / CIDADANIA / PSDB / AGIR / NOVO / UNIÃO / AVANTE / PP / PRTB / PRD / MOBILIZA / PSB / SOLIDARIEDADE / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "ABNER HENRIQUE SANTANA SOARES",
+      "nomeUrna": "ABNER",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 2749,
+      "percentual": 4.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002304231"
+    },
+    {
+      "nome": "THIAGO FELIPE DE ALMEIDA",
+      "nomeUrna": "THIAGO ALMEIDA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 2735,
+      "percentual": 4.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002303953"
+    },
+    {
+      "nome": "PEDRO HENRIQUE DORNAS DE ASSUNÇÃO RIBEIRO",
+      "nomeUrna": "PEDRO DORNAS",
+      "partido": "AVANTE",
+      "numero": "70100",
+      "votos": 2336,
+      "percentual": 4.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002338588"
+    },
+    {
+      "nome": "ISMAEL SOARES DA CRUZ",
+      "nomeUrna": "MAEL",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 1910,
+      "percentual": 3.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002302790"
+    },
+    {
+      "nome": "DANUBIO DE SOUZA MACHADO",
+      "nomeUrna": "DANÚBIO",
+      "partido": "PRD",
+      "numero": "25333",
+      "votos": 1618,
+      "percentual": 2.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002351843"
+    },
+    {
+      "nome": "WESLEY DE JESUS SILVA",
+      "nomeUrna": "WESLEY DE JESUS",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1558,
+      "percentual": 2.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002187776"
+    },
+    {
+      "nome": "ÁLVARO ALONSO PEREZ MORAIS DE AZEVEDO",
+      "nomeUrna": "ÁLVARO AZEVEDO",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 1516,
+      "percentual": 2.65,
+      "situacao": "Eleito por média",
+      "sqcand": "130002338593"
+    },
+    {
+      "nome": "ANISIO CLEMENTE FILHO",
+      "nomeUrna": "ANISINHO",
+      "partido": "CIDADANIA",
+      "numero": "23444",
+      "votos": 1365,
+      "percentual": 2.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002304227"
+    },
+    {
+      "nome": "JOSELINO SANTANA DIAS",
+      "nomeUrna": "ZELINO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 1307,
+      "percentual": 2.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002339217"
+    },
+    {
+      "nome": "CLAUDIO JOSÉ DE DEUS",
+      "nomeUrna": "CLAUDINHO VALLE",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 1261,
+      "percentual": 2.2,
+      "situacao": "Eleito por média",
+      "sqcand": "130002338323"
+    },
+    {
+      "nome": "NILTON DA CRUZ OLIVEIRA",
+      "nomeUrna": "NILTON DO ÁGUA LIMPA",
+      "partido": "PRD",
+      "numero": "25007",
+      "votos": 1227,
+      "percentual": 2.15,
+      "situacao": "Eleito por média",
+      "sqcand": "130002351829"
+    },
+    {
+      "nome": "ADILSON MORAES BRAGA",
+      "nomeUrna": "ADILSON TAIOBA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 1224,
+      "percentual": 2.14,
+      "situacao": "Eleito por média",
+      "sqcand": "130002339214"
+    },
+    {
+      "nome": "SILVÂNIO AGUIAR SILVA",
+      "nomeUrna": "SILVÂNIO AGUIAR",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 1131,
+      "percentual": 1.98,
+      "situacao": "Eleito por média",
+      "sqcand": "130002303951"
+    },
+    {
+      "nome": "GLIVERSON JUNIO DIAS MARQUES",
+      "nomeUrna": "GLIVERSON MARQUES",
+      "partido": "CIDADANIA",
+      "numero": "23123",
+      "votos": 1121,
+      "percentual": 1.96,
+      "situacao": "Eleito por média",
+      "sqcand": "130002304240"
+    },
+    {
+      "nome": "VIVIANE GOMES DE MATOS",
+      "nomeUrna": "VIVIANE MATOS",
+      "partido": "UNIÃO",
+      "numero": "44456",
+      "votos": 811,
+      "percentual": 1.42,
+      "situacao": "Eleito por média",
+      "sqcand": "130002302789"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 19465,
+      "percentual": 38.92,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 18886,
+      "percentual": 37.76,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 9472,
+      "percentual": 18.94,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 9020,
+      "percentual": 17.1,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "CARLOS ROBERTO RODRIGUES",
+      "nomeUrna": "CARLINHOS RODRIGUES",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 7965,
+      "percentual": 15.1,
+      "sqcand": "130001607268"
+    },
+    {
+      "nome": "FREDERICO BORGES DA COSTA",
+      "nomeUrna": "FRED COSTA",
+      "partido": "PATRIOTA",
+      "numero": "5133",
+      "votos": 3661,
+      "percentual": 6.94,
+      "sqcand": "130001596009"
+    },
+    {
+      "nome": "DUDA SALABERT ROSA",
+      "nomeUrna": "DUDA SALABERT",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 2182,
+      "percentual": 4.14,
+      "sqcand": "130001606697"
+    },
+    {
+      "nome": "JULIANA ELLEN DE SALES",
+      "nomeUrna": "JULIANA SALES",
+      "partido": "CIDADANIA",
+      "numero": "2300",
+      "votos": 1869,
+      "percentual": 3.54,
+      "sqcand": "130001613347"
+    },
+    {
+      "nome": "PEDRO DOSHIKAZU PIANCHAO AIHARA",
+      "nomeUrna": "PEDRO AIHARA",
+      "partido": "PATRIOTA",
+      "numero": "5193",
+      "votos": 1757,
+      "percentual": 3.33,
+      "sqcand": "130001596021"
+    },
+    {
+      "nome": "VIVIANE GOMES DE MATOS",
+      "nomeUrna": "VIVIANE MATOS",
+      "partido": "UNIÃO",
+      "numero": "4423",
+      "votos": 1697,
+      "percentual": 3.22,
+      "sqcand": "130001607639"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "WESLEY DE JESUS SILVA",
+      "nomeUrna": "WESLEY DE JESUS",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 6809,
+      "percentual": 13.84,
+      "sqcand": "130001615591"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 5237,
+      "percentual": 10.64,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "JOÃO VITOR XAVIER FAUSTINO",
+      "nomeUrna": "JOÃO VITOR XAVIER",
+      "partido": "CIDADANIA",
+      "numero": "23200",
+      "votos": 4163,
+      "percentual": 8.46,
+      "sqcand": "130001613297"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1408,
+      "percentual": 2.86,
+      "sqcand": "130001607392"
+    },
+    {
+      "nome": "MAURO HENRIQUE TRAMONTE",
+      "nomeUrna": "MAURO TRAMONTE",
+      "partido": "REPUBLICANOS",
+      "numero": "10800",
+      "votos": 1258,
+      "percentual": 2.56,
+      "sqcand": "130001634063"
+    },
+    {
+      "nome": "CARLOS HENRIQUE ALVES DA SILVA",
+      "nomeUrna": "CARLOS HENRIQUE",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 1218,
+      "percentual": 2.48,
+      "sqcand": "130001634019"
+    },
+    {
+      "nome": "ADALCLEVER RIBEIRO LOPES",
+      "nomeUrna": "ADALCLEVER LOPES",
+      "partido": "PSD",
+      "numero": "55015",
+      "votos": 1031,
+      "percentual": 2.1,
+      "sqcand": "130001604384"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "populacao": 110340,
+  "votosValidos": 67136,
+  "abstencao": 28.43,
+  "prefeito": {
+    "nome": "FABIO VIEIRA DE SOUZA LEITE",
+    "nomeUrna": "FABIO LEITE",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 50853,
+    "percentual": 75.75,
+    "situacao": "Eleito",
+    "sqcand": "250001957559",
+    "vice": "ANDRE GASPARINI SPADARO",
+    "viceNomeUrna": "ANDRE SPADARO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "250001957558",
+    "coligacao": "PP / MDB / PODE / PL / PRD / PSB / CIDADANIA / PSDB / PSD / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "ABELARDO WANDERLINO DA COSTA NETO",
+      "nomeUrna": "ABELARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 4698,
+      "percentual": 6.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002322483"
+    },
+    {
+      "nome": "ANTONIO MARIO DE PAULA FERREIRA IELO",
+      "nomeUrna": "IELO",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 3631,
+      "percentual": 5.33,
+      "situacao": "Eleito por média",
+      "sqcand": "250002028499"
+    },
+    {
+      "nome": "LAUDO GOMES DA SILVA",
+      "nomeUrna": "SARGENTO LAUDO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 1824,
+      "percentual": 2.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001957607"
+    },
+    {
+      "nome": "ANTONIO CARLOS VAZ DE ALMEIDA",
+      "nomeUrna": "CULA",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 1774,
+      "percentual": 2.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001970430"
+    },
+    {
+      "nome": "ANDRE ROGERIO BARBOSA",
+      "nomeUrna": "CURUMIM",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 1679,
+      "percentual": 2.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001971196"
+    },
+    {
+      "nome": "LUIZ AURELIO PAGANI",
+      "nomeUrna": "LELO PAGANI",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 1494,
+      "percentual": 2.19,
+      "situacao": "Eleito por média",
+      "sqcand": "250001971198"
+    },
+    {
+      "nome": "ERIKA CRISTINA LIAO TIAGO",
+      "nomeUrna": "ERIKA DA LIGA DO BEM",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1491,
+      "percentual": 2.19,
+      "situacao": "Eleito por média",
+      "sqcand": "250001957616"
+    },
+    {
+      "nome": "ANTONIO CARLOS TRIGO",
+      "nomeUrna": "CARLOS TRIGO",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 1455,
+      "percentual": 2.14,
+      "situacao": "Eleito por média",
+      "sqcand": "250001970429"
+    },
+    {
+      "nome": "NUNO AUGUSTO PEREIRA GARCIA",
+      "nomeUrna": "NUNO GARCIA",
+      "partido": "PODE",
+      "numero": "20111",
+      "votos": 1331,
+      "percentual": 1.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001970404"
+    },
+    {
+      "nome": "ANTONIO VALMIR PEREIRA DOS REIS",
+      "nomeUrna": "VALMIR REIS",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 1264,
+      "percentual": 1.86,
+      "situacao": "Eleito por média",
+      "sqcand": "250002197861"
+    },
+    {
+      "nome": "WELINTON RODRIGO DE SOUZA",
+      "nomeUrna": "WELINTON JAPA",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 1258,
+      "percentual": 1.85,
+      "situacao": "Eleito por média",
+      "sqcand": "250001970437"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 38991,
+      "percentual": 56.07,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 21190,
+      "percentual": 30.47,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 4797,
+      "percentual": 6.9,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOÃO CURY NETO",
+      "nomeUrna": "JOÃO CURY",
+      "partido": "MDB",
+      "numero": "1550",
+      "votos": 25085,
+      "percentual": 34.21,
+      "sqcand": "250001611240"
+    },
+    {
+      "nome": "ANTONIO MARIO DE PAULA FERREIRA IELO",
+      "nomeUrna": "IELO",
+      "partido": "PDT",
+      "numero": "1230",
+      "votos": 4457,
+      "percentual": 6.08,
+      "sqcand": "250001643714"
+    },
+    {
+      "nome": "MILTON ANTONIO CASQUEL MONTI",
+      "nomeUrna": "MILTON MONTI",
+      "partido": "PSD",
+      "numero": "5599",
+      "votos": 3067,
+      "percentual": 4.18,
+      "sqcand": "250001604979"
+    },
+    {
+      "nome": "GUILHERME CASTRO BOULOS",
+      "nomeUrna": "GUILHERME BOULOS",
+      "partido": "PSOL",
+      "numero": "5010",
+      "votos": 2948,
+      "percentual": 4.02,
+      "sqcand": "250001613761"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 2839,
+      "percentual": 3.87,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2340,
+      "percentual": 3.19,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 1724,
+      "percentual": 2.35,
+      "sqcand": "250001611315"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANDRÉ GASPARINI SPADARO",
+      "nomeUrna": "DR. ANDRÉ SPADARO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 34054,
+      "percentual": 47.55,
+      "sqcand": "250001611468"
+    },
+    {
+      "nome": "FERNANDO HENRIQUE CURY",
+      "nomeUrna": "FERNANDO CURY",
+      "partido": "UNIÃO",
+      "numero": "44456",
+      "votos": 7320,
+      "percentual": 10.22,
+      "sqcand": "250001602134"
+    },
+    {
+      "nome": "ABELARDO WANDERLINO DA COSTA NETO",
+      "nomeUrna": "ABELARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10110",
+      "votos": 6033,
+      "percentual": 8.42,
+      "sqcand": "250001639604"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 1659,
+      "percentual": 2.32,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "THALITA DE ALMEIDA TAVARES",
+      "nomeUrna": "THALITA TAVARES",
+      "partido": "PSOL",
+      "numero": "50180",
+      "votos": 1304,
+      "percentual": 1.82,
+      "sqcand": "250001619337"
+    },
+    {
+      "nome": "DAVI PIRES BATISTA",
+      "nomeUrna": "DAVI PIRES",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 1267,
+      "percentual": 1.77,
+      "sqcand": "250001621737"
+    },
+    {
+      "nome": "ANTONIO CARLOS TRIGO",
+      "nomeUrna": "CARLOS TRIGO",
+      "partido": "PDT",
+      "numero": "12300",
+      "votos": 1093,
+      "percentual": 1.53,
+      "sqcand": "250001643660"
+    }
+  ]
+}

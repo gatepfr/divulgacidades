@@ -1,0 +1,291 @@
+{
+  "populacao": 19301,
+  "votosValidos": 14031,
+  "abstencao": 24.64,
+  "prefeito": {
+    "nome": "LENIZIA ALVES CANEDO",
+    "nomeUrna": "PROFESSORA LENIZIA",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3242,
+    "percentual": 23.11,
+    "situacao": "Eleito",
+    "sqcand": "90001943659",
+    "vice": "MILTON JUSTUS",
+    "viceNomeUrna": "MILTON JUSTUS",
+    "partidoVice": "PDT",
+    "sqcandVice": "90001943660",
+    "coligacao": "PP / PDT / PODE / AVANTE / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "REGINALDO MOREIRA DA SILVA",
+      "nomeUrna": "REGINALDO SILVA",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 715,
+      "percentual": 5.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001943043"
+    },
+    {
+      "nome": "FERNANDO ABRAÃO MAGALHÃES SILVA",
+      "nomeUrna": "FERNANDO SILVA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 686,
+      "percentual": 4.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001942627"
+    },
+    {
+      "nome": "APARECIDA DIVANI ROCHA CORDEIRO",
+      "nomeUrna": "CIDA DO CARMINDO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 564,
+      "percentual": 4.01,
+      "situacao": "Eleito por média",
+      "sqcand": "90001943045"
+    },
+    {
+      "nome": "WENNDER TRINDADE E SILVA",
+      "nomeUrna": "WENNDER TRINDADE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 431,
+      "percentual": 3.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001942509"
+    },
+    {
+      "nome": "MARCO ANTÔNIO ANTUNES DA CRUZ",
+      "nomeUrna": "MARCÃO SERRA NEGRA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 385,
+      "percentual": 2.74,
+      "situacao": "Eleito por média",
+      "sqcand": "90001995682"
+    },
+    {
+      "nome": "YURI SANTIAGO ALVES",
+      "nomeUrna": "YURI",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 374,
+      "percentual": 2.66,
+      "situacao": "Eleito por média",
+      "sqcand": "90001942517"
+    },
+    {
+      "nome": "EDIMAR LOPES MACHADO",
+      "nomeUrna": "EDIMAR TABOCA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 370,
+      "percentual": 2.63,
+      "situacao": "Eleito por média",
+      "sqcand": "90002361909"
+    },
+    {
+      "nome": "ADRIANA DIAS PINHEIRO",
+      "nomeUrna": "ADRIANA PINHEIRO",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 347,
+      "percentual": 2.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001979192"
+    },
+    {
+      "nome": "WELTON ETERNO DA SILVA",
+      "nomeUrna": "WELTON SILVA",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 342,
+      "percentual": 2.43,
+      "situacao": "Eleito por média",
+      "sqcand": "90001979183"
+    },
+    {
+      "nome": "DOUGLAS MIRANDA SILVA",
+      "nomeUrna": "PROFESSOR DOUGLAS",
+      "partido": "AVANTE",
+      "numero": "70789",
+      "votos": 334,
+      "percentual": 2.38,
+      "situacao": "Eleito por média",
+      "sqcand": "90001942869"
+    },
+    {
+      "nome": "SIRLEY DE FATIMA MENEZES WEHBE",
+      "nomeUrna": "SIRLEY DO POSTINHO",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 313,
+      "percentual": 2.23,
+      "situacao": "Eleito por média",
+      "sqcand": "90001942624"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 2574,
+      "percentual": 21.91,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2185,
+      "percentual": 18.6,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "ALEXANDRE BALDY DE SANT ANNA BRAGA",
+      "nomeUrna": "ALEXANDRE BALDY",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2106,
+      "percentual": 17.93,
+      "sqcand": "90001609092"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MATHEUS ARAÚJO RIBEIRO",
+      "nomeUrna": "MATHEUS RIBEIRO",
+      "partido": "PSDB",
+      "numero": "4555",
+      "votos": 5671,
+      "percentual": 44.58,
+      "sqcand": "90001621635"
+    },
+    {
+      "nome": "ELLEN REZENDE DE LIMA MENESES",
+      "nomeUrna": "ELLEN DE LIMA",
+      "partido": "PSB",
+      "numero": "4022",
+      "votos": 1472,
+      "percentual": 11.57,
+      "sqcand": "90001605337"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 728,
+      "percentual": 5.72,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "DANIEL VIEIRA RAMOS",
+      "nomeUrna": "DANIEL AGROBOM",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 558,
+      "percentual": 4.39,
+      "sqcand": "90001652507"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 397,
+      "percentual": 3.12,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "ADRIANA SAUTHIER ACCORSI",
+      "nomeUrna": "DELEGADA ADRIANA ACCORSI",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 209,
+      "percentual": 1.64,
+      "sqcand": "90001648110"
+    },
+    {
+      "nome": "ELIAS MORAES DE SOUZA",
+      "nomeUrna": "SUBTENENTE SOUZA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 198,
+      "percentual": 1.56,
+      "sqcand": "90001614750"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "AMAURI RIBEIRO",
+      "nomeUrna": "AMAURI RIBEIRO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 6913,
+      "percentual": 55.93,
+      "sqcand": "90001648384"
+    },
+    {
+      "nome": "MILTON JUSTUS",
+      "nomeUrna": "MILTON JUSTUS",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 1346,
+      "percentual": 10.89,
+      "sqcand": "90001611926"
+    },
+    {
+      "nome": "MAYCLLYN MAX CARREIRO RIBEIRO",
+      "nomeUrna": "MAYCLLYN CARREIRO",
+      "partido": "PRTB",
+      "numero": "28000",
+      "votos": 365,
+      "percentual": 2.95,
+      "sqcand": "90001644203"
+    },
+    {
+      "nome": "JUCENE ESTEVÃO DE ANDRADE",
+      "nomeUrna": "JUCENE ESTEVÃO",
+      "partido": "PSB",
+      "numero": "40234",
+      "votos": 217,
+      "percentual": 1.76,
+      "sqcand": "90001605414"
+    },
+    {
+      "nome": "FRANCISCO SOBRINHO DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 202,
+      "percentual": 1.63,
+      "sqcand": "90001653178"
+    },
+    {
+      "nome": "MARIA EUZEBIA DE LIMA",
+      "nomeUrna": "BIA DE LIMA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 157,
+      "percentual": 1.27,
+      "sqcand": "90001649546"
+    },
+    {
+      "nome": "HENRIQUE PAULISTA ARANTES",
+      "nomeUrna": "HENRIQUE ARANTES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 141,
+      "percentual": 1.14,
+      "sqcand": "90001653185"
+    }
+  ]
+}

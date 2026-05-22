@@ -1,0 +1,271 @@
+{
+  "populacao": 11070,
+  "votosValidos": 9634,
+  "abstencao": 10.57,
+  "prefeito": {
+    "nome": "GUILHERME CARNEIRO AGUIAR",
+    "nomeUrna": "DR GUILHERME",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 4937,
+    "percentual": 51.25,
+    "situacao": "Eleito",
+    "sqcand": "100002119233",
+    "vice": "JOSE DE RIBAMAR SILVA MEDEIROS",
+    "viceNomeUrna": "DEDÉ DO SINDICATO",
+    "partidoVice": "PT",
+    "sqcandVice": "100002376806",
+    "coligacao": "UNIÃO / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCIO ARAUJO SILVA",
+      "nomeUrna": "MARCIO ARAUJO",
+      "partido": "MDB",
+      "numero": "15800",
+      "votos": 798,
+      "percentual": 8.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002142937"
+    },
+    {
+      "nome": "JOSE HILTON CARDOSO DA SILVA",
+      "nomeUrna": "DR HILTON CARDOSO",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 548,
+      "percentual": 5.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002142016"
+    },
+    {
+      "nome": "JORGE LUIS ALVES BATISTA DA SILVA",
+      "nomeUrna": "PROFESSOR JORGE LUIS",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 541,
+      "percentual": 5.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002142012"
+    },
+    {
+      "nome": "NUBIA MARIA ALVES DA SILVA",
+      "nomeUrna": "NÚBIA MARAVALHA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 538,
+      "percentual": 5.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002148968"
+    },
+    {
+      "nome": "MAXIMO DAMIÃO MEDEIROS FERNANDES",
+      "nomeUrna": "ZÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 433,
+      "percentual": 4.48,
+      "situacao": "Eleito por média",
+      "sqcand": "100002142013"
+    },
+    {
+      "nome": "LAURO DA SILVA XAVIER DOS SANTOS",
+      "nomeUrna": "LAURINHO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 411,
+      "percentual": 4.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002199097"
+    },
+    {
+      "nome": "JOSE NILSON GARCIA CORREIA",
+      "nomeUrna": "VEREADOR NILSON DO MACHADO ",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 398,
+      "percentual": 4.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002142936"
+    },
+    {
+      "nome": "ENEDINA DA CRUZ MENEZES",
+      "nomeUrna": "ENEDINA",
+      "partido": "PSD",
+      "numero": "55369",
+      "votos": 323,
+      "percentual": 3.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002143080"
+    },
+    {
+      "nome": "CELIA CRISTINA SANTOS MALHEIROS",
+      "nomeUrna": "CÉLIA MALHEIROS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 300,
+      "percentual": 3.1,
+      "situacao": "Eleito por média",
+      "sqcand": "100002148962"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 6229,
+      "percentual": 84.51,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 1075,
+      "percentual": 14.58,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "IVO NOGUEIRA",
+      "nomeUrna": "PASTOR IVO NOGUEIRA",
+      "partido": "DC",
+      "numero": "277",
+      "votos": 28,
+      "percentual": 0.38,
+      "sqcand": "100001613450"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALUISIO GUIMARAES MENDES FILHO",
+      "nomeUrna": "ALUISIO MENDES",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 2680,
+      "percentual": 34.22,
+      "sqcand": "100001615465"
+    },
+    {
+      "nome": "UBIRAJARA DO PINDARÉ ALMEIDA SOUSA",
+      "nomeUrna": "BIRA DO PINDARÉ",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 1354,
+      "percentual": 17.29,
+      "sqcand": "100001607048"
+    },
+    {
+      "nome": "ANTONIO DA CRUZ FILGUEIRA NETO",
+      "nomeUrna": "MARRECA FILHO",
+      "partido": "PATRIOTA",
+      "numero": "5122",
+      "votos": 635,
+      "percentual": 8.11,
+      "sqcand": "100001608201"
+    },
+    {
+      "nome": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+      "nomeUrna": "AMANDA GENTIL ",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 560,
+      "percentual": 7.15,
+      "sqcand": "100001608073"
+    },
+    {
+      "nome": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+      "nomeUrna": "DETINHA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 319,
+      "percentual": 4.07,
+      "sqcand": "100001603115"
+    },
+    {
+      "nome": "CLEBER VERDE CORDEIRO MENDES",
+      "nomeUrna": "CLEBER VERDE",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 239,
+      "percentual": 3.05,
+      "sqcand": "100001602015"
+    },
+    {
+      "nome": "WOLMER DE AZEVEDO ARAUJO",
+      "nomeUrna": "WOLMER ARAUJO",
+      "partido": "PATRIOTA",
+      "numero": "5188",
+      "votos": 210,
+      "percentual": 2.68,
+      "sqcand": "100001608217"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SERGIO RICARDO DE ALBUQUERQUE BOGEA",
+      "nomeUrna": "SERGIO ALBUQUERQUE",
+      "partido": "PATRIOTA",
+      "numero": "51777",
+      "votos": 3429,
+      "percentual": 46.44,
+      "sqcand": "100001608125"
+    },
+    {
+      "nome": "CARLOS EDUARDO DE OLIVEIRA LULA",
+      "nomeUrna": "CARLOS LULA",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 1118,
+      "percentual": 15.14,
+      "sqcand": "100001607073"
+    },
+    {
+      "nome": "IRACEMA CRISTINA VALE LIMA",
+      "nomeUrna": "IRACEMA VALE",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 527,
+      "percentual": 7.14,
+      "sqcand": "100001607060"
+    },
+    {
+      "nome": "RAIMUNDO FLORÊNCIO MONTEIRO NETO",
+      "nomeUrna": "FLORÊNCIO NETO",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 362,
+      "percentual": 4.9,
+      "sqcand": "100001607077"
+    },
+    {
+      "nome": "GUILHERME FONSECA PAZ",
+      "nomeUrna": "GUILHERME PAZ",
+      "partido": "PATRIOTA",
+      "numero": "51000",
+      "votos": 261,
+      "percentual": 3.54,
+      "sqcand": "100001608121"
+    },
+    {
+      "nome": "JULIO CESAR MENDONCA CORREA",
+      "nomeUrna": "JÚLIO MENDONÇA",
+      "partido": "PC do B",
+      "numero": "65777",
+      "votos": 159,
+      "percentual": 2.15,
+      "sqcand": "100001613752"
+    },
+    {
+      "nome": "FERNANDO SALIM BRAIDE",
+      "nomeUrna": "FERNANDO BRAIDE",
+      "partido": "PSC",
+      "numero": "20000",
+      "votos": 155,
+      "percentual": 2.1,
+      "sqcand": "100001620079"
+    }
+  ]
+}

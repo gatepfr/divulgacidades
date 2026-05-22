@@ -1,0 +1,271 @@
+{
+  "populacao": 2841,
+  "votosValidos": 2410,
+  "abstencao": 11.58,
+  "prefeito": {
+    "nome": "DONIZETE APARECIDO FERREIRA DE LIMA",
+    "nomeUrna": "DONIZETE",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 1478,
+    "percentual": 61.33,
+    "situacao": "Eleito",
+    "sqcand": "250002167948",
+    "vice": "RODRIGO LÁZARO DA SILVA",
+    "viceNomeUrna": "TCHUCA",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002167949",
+    "coligacao": "CIDADANIA / PSDB / MDB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "JOACIR BENEDITO CARRO",
+      "nomeUrna": "JOACIR CARRO",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 221,
+      "percentual": 9.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002157646"
+    },
+    {
+      "nome": "EDSON MORAES DA SILVA",
+      "nomeUrna": "FUSCÃO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 201,
+      "percentual": 8.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002202178"
+    },
+    {
+      "nome": "VALDIR FRAGOSO",
+      "nomeUrna": "DIR ELETRICISTA",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 167,
+      "percentual": 6.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002170240"
+    },
+    {
+      "nome": "GILBERTO FERREIRA DE LIMA",
+      "nomeUrna": "BETINHO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 142,
+      "percentual": 5.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002212998"
+    },
+    {
+      "nome": "LUCAS GONÇALVES OLIVEIRA DOS SANTOS",
+      "nomeUrna": "GALO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 142,
+      "percentual": 5.85,
+      "situacao": "Eleito por média",
+      "sqcand": "250002202176"
+    },
+    {
+      "nome": "ALEXANDRE ROBERTO NOGUEIRA",
+      "nomeUrna": "ALEXANDRE NOGUEIRA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 115,
+      "percentual": 4.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002157644"
+    },
+    {
+      "nome": "LUCILENE MARIA DE ANDRADE",
+      "nomeUrna": "LUCIA DO BORDADO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 91,
+      "percentual": 3.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002158216"
+    },
+    {
+      "nome": "CLENIL MENDES DOS SANTOS",
+      "nomeUrna": "CLENIL SANTOS",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 91,
+      "percentual": 3.75,
+      "situacao": "Eleito por média",
+      "sqcand": "250002170244"
+    },
+    {
+      "nome": "CARLOS ALBERTO DE CARVALHO",
+      "nomeUrna": "CARLINHOS",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 63,
+      "percentual": 2.6,
+      "situacao": "Eleito por média",
+      "sqcand": "250002212997"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1141,
+      "percentual": 63.96,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 494,
+      "percentual": 27.69,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 133,
+      "percentual": 7.46,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CELSO UBIRAJARA RUSSOMANNO",
+      "nomeUrna": "CELSO RUSSOMANNO",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 248,
+      "percentual": 13.26,
+      "sqcand": "250001611882"
+    },
+    {
+      "nome": "FREDERICO BRAUN D AVILA",
+      "nomeUrna": "FREDERICO DAVILA",
+      "partido": "PL",
+      "numero": "2288",
+      "votos": 226,
+      "percentual": 12.09,
+      "sqcand": "250001611307"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 139,
+      "percentual": 7.43,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 115,
+      "percentual": 6.15,
+      "sqcand": "250001611345"
+    },
+    {
+      "nome": "NILTO IGNÁCIO TATTO",
+      "nomeUrna": "NILTO TATTO",
+      "partido": "PT",
+      "numero": "1353",
+      "votos": 108,
+      "percentual": 5.78,
+      "sqcand": "250001610688"
+    },
+    {
+      "nome": "RITA DE CASSIA TRINCA PASSOS",
+      "nomeUrna": "RITA PASSOS",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 69,
+      "percentual": 3.69,
+      "sqcand": "250001611860"
+    },
+    {
+      "nome": "FERNANDO CAPEZ",
+      "nomeUrna": "FERNANDO CAPEZ",
+      "partido": "UNIÃO",
+      "numero": "4456",
+      "votos": 62,
+      "percentual": 3.32,
+      "sqcand": "250001602045"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 206,
+      "percentual": 11.64,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 189,
+      "percentual": 10.68,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "OSCAR CASTELO BRANCO DE LUCA",
+      "nomeUrna": "CASTELLO BRANCO",
+      "partido": "PL",
+      "numero": "22288",
+      "votos": 176,
+      "percentual": 9.94,
+      "sqcand": "250001610137"
+    },
+    {
+      "nome": "RICARDO ROSSI MADALENA",
+      "nomeUrna": "RICARDO MADALENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 160,
+      "percentual": 9.04,
+      "sqcand": "250001610138"
+    },
+    {
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "nomeUrna": "DANI ALONSO",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 118,
+      "percentual": 6.67,
+      "sqcand": "250001610113"
+    },
+    {
+      "nome": "MARCIA APARECIDA OVEJANEDA LIA",
+      "nomeUrna": "MARCIA LIA",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 80,
+      "percentual": 4.52,
+      "sqcand": "250001611775"
+    },
+    {
+      "nome": "THIAGO ANTONIO BRIGANO",
+      "nomeUrna": "THIAGO BRIGANÓ",
+      "partido": "REPUBLICANOS",
+      "numero": "10422",
+      "votos": 79,
+      "percentual": 4.46,
+      "sqcand": "250001639550"
+    }
+  ]
+}

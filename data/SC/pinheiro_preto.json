@@ -1,0 +1,271 @@
+{
+  "populacao": 3060,
+  "votosValidos": 2633,
+  "abstencao": 11.67,
+  "prefeito": {
+    "nome": "MAURO NEY OSMARIN",
+    "nomeUrna": "PROFESSOR MAURO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1012,
+    "percentual": 38.44,
+    "situacao": "Eleito",
+    "sqcand": "240002334175",
+    "vice": "ADEMIR LUIZ FONTANA",
+    "viceNomeUrna": "FONTANA",
+    "partidoVice": "PSD",
+    "sqcandVice": "240002334176",
+    "coligacao": "PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "GILLIAN OLIVO",
+      "nomeUrna": "GILLI",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 464,
+      "percentual": 17.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002234673"
+    },
+    {
+      "nome": "FABIO JUNIOR GESSI",
+      "nomeUrna": "CAIBI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 219,
+      "percentual": 8.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002234676"
+    },
+    {
+      "nome": "CRISTIANO RABUSKE",
+      "nomeUrna": "CRISTIANO RABUSKE",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 196,
+      "percentual": 7.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002334013"
+    },
+    {
+      "nome": "EDISON ANTONIO MANICA",
+      "nomeUrna": "EDISON MANICA",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 181,
+      "percentual": 6.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002334014"
+    },
+    {
+      "nome": "ODAIR JOSÉ WURLITZER",
+      "nomeUrna": "ODAIR  WURLITZER",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 129,
+      "percentual": 4.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002367260"
+    },
+    {
+      "nome": "ADINEIA FERREIRA OLIVEIRA MELO",
+      "nomeUrna": "ADINEIA",
+      "partido": "MDB",
+      "numero": "15270",
+      "votos": 127,
+      "percentual": 4.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002234677"
+    },
+    {
+      "nome": "ODAIR VAILATTI",
+      "nomeUrna": "VAILATTINHO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 105,
+      "percentual": 3.98,
+      "situacao": "Eleito por média",
+      "sqcand": "240002234674"
+    },
+    {
+      "nome": "ADEMILSON CHIOSSI",
+      "nomeUrna": "ADEMILSON CHIOSSI",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 96,
+      "percentual": 3.64,
+      "situacao": "Eleito por média",
+      "sqcand": "240002367259"
+    },
+    {
+      "nome": "JAIR BOESING",
+      "nomeUrna": "JAIR",
+      "partido": "PSD",
+      "numero": "55120",
+      "votos": 87,
+      "percentual": 3.3,
+      "situacao": "Eleito por média",
+      "sqcand": "240002367253"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 652,
+      "percentual": 33.25,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 423,
+      "percentual": 21.57,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 340,
+      "percentual": 17.34,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 314,
+      "percentual": 15.43,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 274,
+      "percentual": 13.46,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 246,
+      "percentual": 12.09,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "DARCI DE MATOS",
+      "nomeUrna": "DARCI DE MATOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 138,
+      "percentual": 6.78,
+      "sqcand": "240001611136"
+    },
+    {
+      "nome": "JOÃO ALBERTO PIZZOLATTI NETO",
+      "nomeUrna": "JOÃO PIZZOLATTI",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 101,
+      "percentual": 4.96,
+      "sqcand": "240001644878"
+    },
+    {
+      "nome": "LEANDRO SORGATO",
+      "nomeUrna": "SORGATTO",
+      "partido": "MDB",
+      "numero": "1544",
+      "votos": 93,
+      "percentual": 4.57,
+      "sqcand": "240001602680"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 78,
+      "percentual": 3.83,
+      "sqcand": "240001610977"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "NADIR BAU DA SILVA",
+      "nomeUrna": "NADIR BAU",
+      "partido": "UNIÃO",
+      "numero": "44133",
+      "votos": 283,
+      "percentual": 13.93,
+      "sqcand": "240001616214"
+    },
+    {
+      "nome": "WILMAR CARELLI",
+      "nomeUrna": "CARELLI",
+      "partido": "MDB",
+      "numero": "15515",
+      "votos": 220,
+      "percentual": 10.83,
+      "sqcand": "240001645027"
+    },
+    {
+      "nome": "NILSO JOSE BERLANDA",
+      "nomeUrna": "BERLANDA",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 190,
+      "percentual": 9.35,
+      "sqcand": "240001614335"
+    },
+    {
+      "nome": "FABIANO DA LUZ",
+      "nomeUrna": "FABIANO DA LUZ",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 139,
+      "percentual": 6.84,
+      "sqcand": "240001679627"
+    },
+    {
+      "nome": "ALTAIR DA SILVA",
+      "nomeUrna": "ALTAIR SILVA",
+      "partido": "PP",
+      "numero": "11130",
+      "votos": 135,
+      "percentual": 6.64,
+      "sqcand": "240001644767"
+    },
+    {
+      "nome": "JORGE ANTONIO LOPES OLIVEIRA",
+      "nomeUrna": "DR. JORGE",
+      "partido": "PL",
+      "numero": "22666",
+      "votos": 118,
+      "percentual": 5.81,
+      "sqcand": "240001614340"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 103,
+      "percentual": 5.07,
+      "sqcand": "240001614348"
+    }
+  ]
+}

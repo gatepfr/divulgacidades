@@ -1,0 +1,271 @@
+{
+  "populacao": 2608,
+  "votosValidos": 2321,
+  "abstencao": 8.44,
+  "prefeito": {
+    "nome": "NAUDIR JOSE CADORE",
+    "nomeUrna": "CADORE    NAUDIR CADORE",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1331,
+    "percentual": 57.35,
+    "situacao": "Eleito",
+    "sqcand": "240002266897",
+    "vice": "ROGÉRIO ACÁCIO MASCARELLO",
+    "viceNomeUrna": "CÁCIO MASCARELLO",
+    "partidoVice": "MDB",
+    "sqcandVice": "240002266898",
+    "coligacao": "PP / MDB / PL / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LARISSA LORENZI NUNES",
+      "nomeUrna": "LARISSA LORENZI NUNES",
+      "partido": "PP",
+      "numero": "11225",
+      "votos": 233,
+      "percentual": 9.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002267097"
+    },
+    {
+      "nome": "ELDER DONIZETE MARIOTT",
+      "nomeUrna": "ELDER MARIOTT",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 198,
+      "percentual": 8.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002074599"
+    },
+    {
+      "nome": "SOLANGE FRANZOSI",
+      "nomeUrna": "SOLANGE FRANZOSI",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 156,
+      "percentual": 6.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002134004"
+    },
+    {
+      "nome": "EZEQUIEL LUCIANO ZAFFARI",
+      "nomeUrna": "EZEQUIEL ZAFFARI     ZEQUI",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 133,
+      "percentual": 5.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002267099"
+    },
+    {
+      "nome": "VALNERI DE OLIVEIRA",
+      "nomeUrna": "VALNERI DE OLIVEIRA      NANDE",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 115,
+      "percentual": 4.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002267105"
+    },
+    {
+      "nome": "DIEGO CASAGRANDE",
+      "nomeUrna": "DIEGO CASAGRANDE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 113,
+      "percentual": 4.79,
+      "situacao": "Eleito por média",
+      "sqcand": "240002267095"
+    },
+    {
+      "nome": "SENI ANTONIA BRUM DALZÓCHIO",
+      "nomeUrna": "SENI",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 96,
+      "percentual": 4.07,
+      "situacao": "Eleito por média",
+      "sqcand": "240002074595"
+    },
+    {
+      "nome": "LUIZ CANÔNICA",
+      "nomeUrna": "LUIZ CANÔNICA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 90,
+      "percentual": 3.82,
+      "situacao": "Eleito por média",
+      "sqcand": "240002342215"
+    },
+    {
+      "nome": "TEREZINHA SANAGIOTTO",
+      "nomeUrna": "TERE",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 72,
+      "percentual": 3.05,
+      "situacao": "Eleito por média",
+      "sqcand": "240002222153"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 666,
+      "percentual": 35.52,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 506,
+      "percentual": 26.99,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 317,
+      "percentual": 16.91,
+      "sqcand": "240001611131"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 664,
+      "percentual": 34.02,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "VALMIR FRANCISCO COMIN",
+      "nomeUrna": "VALMIR COMIN",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 214,
+      "percentual": 10.96,
+      "sqcand": "240001644890"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 203,
+      "percentual": 10.4,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 197,
+      "percentual": 10.09,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 111,
+      "percentual": 5.69,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "VALDIR COLATTO",
+      "nomeUrna": "VALDIR COLATTO",
+      "partido": "PL",
+      "numero": "2216",
+      "votos": 93,
+      "percentual": 4.76,
+      "sqcand": "240001610966"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 75,
+      "percentual": 3.84,
+      "sqcand": "240001610977"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCIANE MARIA CARMINATTI",
+      "nomeUrna": "LUCIANE CARMINATTI",
+      "partido": "PT",
+      "numero": "13601",
+      "votos": 388,
+      "percentual": 20.63,
+      "sqcand": "240001679643"
+    },
+    {
+      "nome": "ALTAIR DA SILVA",
+      "nomeUrna": "ALTAIR SILVA",
+      "partido": "PP",
+      "numero": "11130",
+      "votos": 251,
+      "percentual": 13.34,
+      "sqcand": "240001644767"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 227,
+      "percentual": 12.07,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "MAURO DE NADAL",
+      "nomeUrna": "MAURO DE NADAL",
+      "partido": "MDB",
+      "numero": "15220",
+      "votos": 163,
+      "percentual": 8.67,
+      "sqcand": "240001605913"
+    },
+    {
+      "nome": "DIRCEU LUIZ DRESCH",
+      "nomeUrna": "DIRCEU DRESCH",
+      "partido": "PT",
+      "numero": "13450",
+      "votos": 139,
+      "percentual": 7.39,
+      "sqcand": "240001679641"
+    },
+    {
+      "nome": "JOSÉ MILTON SCHEFFER",
+      "nomeUrna": "ZÉ MILTON",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 69,
+      "percentual": 3.67,
+      "sqcand": "240001644756"
+    },
+    {
+      "nome": "NILSO JOSE BERLANDA",
+      "nomeUrna": "BERLANDA",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 59,
+      "percentual": 3.14,
+      "sqcand": "240001614335"
+    }
+  ]
+}

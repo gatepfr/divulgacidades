@@ -1,0 +1,311 @@
+{
+  "populacao": 42014,
+  "votosValidos": 33046,
+  "abstencao": 17.2,
+  "prefeito": {
+    "nome": "KARLA CHAGAS MAIA",
+    "nomeUrna": "CARLA CAPUTI",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 25695,
+    "percentual": 77.76,
+    "situacao": "Eleito",
+    "sqcand": "190002263784",
+    "vice": "MANOEL FRANCISCO BARRETO",
+    "viceNomeUrna": "CHICO DA QUIXABA",
+    "partidoVice": "PT",
+    "sqcandVice": "190002263783",
+    "coligacao": "PDT / DC / PRD / PRTB / MOBILIZA / UNIÃO / PSD / AVANTE / SOLIDARIEDADE / CIDADANIA / PSDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ORLANDO VIANA MONTEIRO JÚNIOR",
+      "nomeUrna": "JÚNIOR MONTEIRO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 2772,
+      "percentual": 8.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002202692"
+    },
+    {
+      "nome": "ALAN BARRETO PAES",
+      "nomeUrna": "ALAN DE GRUSSAÍ",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 2340,
+      "percentual": 6.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002202694"
+    },
+    {
+      "nome": "CARLOS MACHADO DA SILVA",
+      "nomeUrna": "KAKÁ",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77456",
+      "votos": 1843,
+      "percentual": 5.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001972188"
+    },
+    {
+      "nome": "RENATO RIBEIRO DA SILVA",
+      "nomeUrna": "JULINHO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 1678,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002202695"
+    },
+    {
+      "nome": "SÔNIA MARIA PEREIRA MACHADO",
+      "nomeUrna": "SONINHA PEREIRA",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 1669,
+      "percentual": 4.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002059405"
+    },
+    {
+      "nome": "ELÍSIO ALBERTO DA SILVA RODRIGUES",
+      "nomeUrna": "ELÍSIO MOTOS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 1624,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001972185"
+    },
+    {
+      "nome": "ANALIEL ALMEIDA VIANNA",
+      "nomeUrna": "ANALIEL VIANNA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 1600,
+      "percentual": 4.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002203680"
+    },
+    {
+      "nome": "LEONARDO PESSANHA DE SOUZA",
+      "nomeUrna": "LÉO DE LOLÔ",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77321",
+      "votos": 1582,
+      "percentual": 4.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001972190"
+    },
+    {
+      "nome": "ROMMENIK DE ARAUJO RIBEIRO",
+      "nomeUrna": "ROMMENIK",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 1132,
+      "percentual": 3.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002202693"
+    },
+    {
+      "nome": "JOICE MAIA PEDRA",
+      "nomeUrna": "JOICE PEDRA",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 1034,
+      "percentual": 3.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002059402"
+    },
+    {
+      "nome": "RODRIGO MACHADO CORREA",
+      "nomeUrna": "RODRIGO MACHADO",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 855,
+      "percentual": 2.54,
+      "situacao": "Eleito por média",
+      "sqcand": "190002202684"
+    },
+    {
+      "nome": "EZIEL PEDRO DA SILVA",
+      "nomeUrna": "EZIEL PEDRO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77444",
+      "votos": 834,
+      "percentual": 2.47,
+      "situacao": "Eleito por média",
+      "sqcand": "190001972180"
+    },
+    {
+      "nome": "CAIO CESAR ROSA SERRA",
+      "nomeUrna": "CAIO CESAR",
+      "partido": "PV",
+      "numero": "43777",
+      "votos": 729,
+      "percentual": 2.16,
+      "situacao": "Eleito por média",
+      "sqcand": "190002059413"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLARISSA GAROTINHO BARROS ASSED MATHEUS DE OLIVEIRA",
+      "nomeUrna": "CLARISSA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 8377,
+      "percentual": 37.19,
+      "sqcand": "190001645824"
+    },
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 7277,
+      "percentual": 32.31,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CECILIANO",
+      "nomeUrna": "ANDRE CECILIANO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 3868,
+      "percentual": 17.17,
+      "sqcand": "190001614199"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DANIELA MOTÉ DE SOUZA CARNEIRO",
+      "nomeUrna": "DANIELA DO WAGUINHO",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 2540,
+      "percentual": 9.48,
+      "sqcand": "190001619522"
+    },
+    {
+      "nome": "DANIELLE DYTZ DA CUNHA",
+      "nomeUrna": "DANI CUNHA",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 2171,
+      "percentual": 8.1,
+      "sqcand": "190001619524"
+    },
+    {
+      "nome": "ALTINEU CORTES FREITAS COUTINHO",
+      "nomeUrna": "ALTINEU CORTES",
+      "partido": "PL",
+      "numero": "2269",
+      "votos": 1609,
+      "percentual": 6.0,
+      "sqcand": "190001596785"
+    },
+    {
+      "nome": "CAIO SANTOS VIANNA",
+      "nomeUrna": "CAIO VIANNA",
+      "partido": "PSD",
+      "numero": "5589",
+      "votos": 1448,
+      "percentual": 5.4,
+      "sqcand": "190001603411"
+    },
+    {
+      "nome": "WASHINGTON LUIZ CARDOSO SIQUEIRA",
+      "nomeUrna": "WASHINGTON QUAQUÁ",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 1065,
+      "percentual": 3.97,
+      "sqcand": "190001619235"
+    },
+    {
+      "nome": "LUIZ ANTONIO DA COSTA CARVALHO CORREA DA SILVA",
+      "nomeUrna": "LUIZ ANTÔNIO",
+      "partido": "PP",
+      "numero": "1127",
+      "votos": 1045,
+      "percentual": 3.9,
+      "sqcand": "190001605598"
+    },
+    {
+      "nome": "FRANCISCO JOSE D ANGELO",
+      "nomeUrna": "CHICO D ANGELO",
+      "partido": "PDT",
+      "numero": "1210",
+      "votos": 995,
+      "percentual": 3.71,
+      "sqcand": "190001640615"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CARLA MARIA MACHADO DOS SANTOS",
+      "nomeUrna": "CARLA MACHADO",
+      "partido": "PT",
+      "numero": "13321",
+      "votos": 10929,
+      "percentual": 40.81,
+      "sqcand": "190001620474"
+    },
+    {
+      "nome": "BRUNO FELGUEIRA DAUAIRE",
+      "nomeUrna": "BRUNO DAUAIRE",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 3642,
+      "percentual": 13.6,
+      "sqcand": "190001619416"
+    },
+    {
+      "nome": "RODRIGO DA SILVA BACELLAR",
+      "nomeUrna": "RODRIGO BACELLAR",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 2565,
+      "percentual": 9.58,
+      "sqcand": "190001596728"
+    },
+    {
+      "nome": "FREDERICO SOUZA BARBOSA LEMOS",
+      "nomeUrna": "FREDERICO BARBOSA LEMOS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77040",
+      "votos": 913,
+      "percentual": 3.41,
+      "sqcand": "190001601357"
+    },
+    {
+      "nome": "BRUNO CORDEIRO VIANNA",
+      "nomeUrna": "BRUNO VIANNA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 854,
+      "percentual": 3.19,
+      "sqcand": "190001612166"
+    },
+    {
+      "nome": "MARCIO GOMES NOGUEIRA",
+      "nomeUrna": "MARCIO NOGUEIRA",
+      "partido": "PODE",
+      "numero": "19456",
+      "votos": 768,
+      "percentual": 2.87,
+      "sqcand": "190001606331"
+    },
+    {
+      "nome": "RICARDO CORRÊA DE BARROS",
+      "nomeUrna": "RICARDO DA KAROL",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 677,
+      "percentual": 2.53,
+      "sqcand": "190001654249"
+    }
+  ]
+}

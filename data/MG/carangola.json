@@ -1,0 +1,311 @@
+{
+  "populacao": 23176,
+  "votosValidos": 17408,
+  "abstencao": 19.68,
+  "prefeito": {
+    "nome": "SILAS VIEIRA",
+    "nomeUrna": "SILAS VIEIRA",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 12211,
+    "percentual": 70.15,
+    "situacao": "Eleito",
+    "sqcand": "130002200499",
+    "vice": "ROBERTO ALVES VIEIRA",
+    "viceNomeUrna": "ROBERTO ALVES",
+    "partidoVice": "PT",
+    "sqcandVice": "130002200500",
+    "coligacao": "PSD / PC do B / PT / PV / CIDADANIA / PSDB / UNIÃO / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "CARLOS ANTÔNIO CANDINHO",
+      "nomeUrna": "CANDINHO",
+      "partido": "UNIÃO",
+      "numero": "44609",
+      "votos": 783,
+      "percentual": 4.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002330659"
+    },
+    {
+      "nome": "LUCIANO AMARAL DE SOUZA",
+      "nomeUrna": "LUCIANO AMARAL",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 653,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002283535"
+    },
+    {
+      "nome": "EDIMAR GROSSI",
+      "nomeUrna": "EDIMAR GROSSI",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 593,
+      "percentual": 3.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002283540"
+    },
+    {
+      "nome": "JOEL MAIA DE ABREU",
+      "nomeUrna": "JOEL MAIA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 531,
+      "percentual": 3.01,
+      "situacao": "Eleito por média",
+      "sqcand": "130002330663"
+    },
+    {
+      "nome": "LUCAS SILVA DE ALMEIDA",
+      "nomeUrna": "LUCAS DE ALMEIDA",
+      "partido": "CIDADANIA",
+      "numero": "23123",
+      "votos": 496,
+      "percentual": 2.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002125301"
+    },
+    {
+      "nome": "PATRICK NEIL DRUMOND ALBUQUERQUE",
+      "nomeUrna": "PATRICK DRUMOND",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 493,
+      "percentual": 2.79,
+      "situacao": "Eleito por média",
+      "sqcand": "130002014825"
+    },
+    {
+      "nome": "RIVAN VIANA FERREIRA",
+      "nomeUrna": "RIVAN VIANA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 479,
+      "percentual": 2.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002191442"
+    },
+    {
+      "nome": "OTAVIO FONSECA DE OLIVEIRA",
+      "nomeUrna": "TATÁ DO ROBERTO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 433,
+      "percentual": 2.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001926765"
+    },
+    {
+      "nome": "LUIZ CARLOS MIRANDA",
+      "nomeUrna": "LUIZ MIRANDA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 417,
+      "percentual": 2.36,
+      "situacao": "Eleito por média",
+      "sqcand": "130001926766"
+    },
+    {
+      "nome": "SANDERSON SOUZA RIBEIRO",
+      "nomeUrna": "SANDRO DO TÁXI",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 360,
+      "percentual": 2.04,
+      "situacao": "Eleito por média",
+      "sqcand": "130002283531"
+    },
+    {
+      "nome": "JANAINA VIANA BASTOS",
+      "nomeUrna": "JANAINA BASTOS",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 332,
+      "percentual": 1.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002125294"
+    },
+    {
+      "nome": "CARLOS AUGUSTO RIBEIRO BENEDITO",
+      "nomeUrna": "CARLOS DO LABORATÓRIO",
+      "partido": "CIDADANIA",
+      "numero": "23789",
+      "votos": 306,
+      "percentual": 1.73,
+      "situacao": "Eleito por média",
+      "sqcand": "130002125304"
+    },
+    {
+      "nome": "MAURO MAIA VICENTE",
+      "nomeUrna": "MAURO ENFERMEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 285,
+      "percentual": 1.61,
+      "situacao": "Eleito por média",
+      "sqcand": "130002191440"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 6773,
+      "percentual": 43.63,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 6026,
+      "percentual": 38.82,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1954,
+      "percentual": 12.59,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RODRIGO BATISTA DE CASTRO",
+      "nomeUrna": "RODRIGO DE CASTRO",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 2335,
+      "percentual": 14.01,
+      "sqcand": "130001607620"
+    },
+    {
+      "nome": "MISAEL ARTUR FERREIRA VARELLA",
+      "nomeUrna": "MISAEL VARELLA",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 1991,
+      "percentual": 11.95,
+      "sqcand": "130001604325"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1905,
+      "percentual": 11.43,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "EUCLYDES MARCOS PETTERSEN NETO",
+      "nomeUrna": "EUCLYDES PETTERSEN",
+      "partido": "PSC",
+      "numero": "2015",
+      "votos": 1815,
+      "percentual": 10.89,
+      "sqcand": "130001671754"
+    },
+    {
+      "nome": "MÁRIO LÚCIO HERINGER",
+      "nomeUrna": "DR MÁRIO HERINGER",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 1487,
+      "percentual": 8.92,
+      "sqcand": "130001606709"
+    },
+    {
+      "nome": "REGINALDO LÁZARO DE OLIVEIRA LOPES",
+      "nomeUrna": "REGINALDO LOPES",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 1258,
+      "percentual": 7.55,
+      "sqcand": "130001607277"
+    },
+    {
+      "nome": "BRAULIO JOSE TANUS BRAZ",
+      "nomeUrna": "BRAULIO BRAZ",
+      "partido": "PTB",
+      "numero": "1444",
+      "votos": 848,
+      "percentual": 5.09,
+      "sqcand": "130001610899"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAFAEL MARTINS DE SOUZA",
+      "nomeUrna": "RAFAEL MARTINS",
+      "partido": "PSD",
+      "numero": "55031",
+      "votos": 3351,
+      "percentual": 21.31,
+      "sqcand": "130001604380"
+    },
+    {
+      "nome": "VALERIA BARBOSA RUBIO CRUZ",
+      "nomeUrna": "VALERIA RUBIO",
+      "partido": "PATRIOTA",
+      "numero": "51567",
+      "votos": 1322,
+      "percentual": 8.41,
+      "sqcand": "130001596292"
+    },
+    {
+      "nome": "WILSON ROBERTO BATISTA",
+      "nomeUrna": "DOUTOR WILSON BATISTA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 1092,
+      "percentual": 6.95,
+      "sqcand": "130001604376"
+    },
+    {
+      "nome": "ENES CANDIDO DAMACENA JUNIOR",
+      "nomeUrna": "ENES CANDIDO",
+      "partido": "PMN",
+      "numero": "33500",
+      "votos": 989,
+      "percentual": 6.29,
+      "sqcand": "130001605840"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 983,
+      "percentual": 6.25,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "MARCELO HERINGER",
+      "nomeUrna": "DR MARCELO HERINGER",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 983,
+      "percentual": 6.25,
+      "sqcand": "130001606727"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 857,
+      "percentual": 5.45,
+      "sqcand": "130001607392"
+    }
+  ]
+}

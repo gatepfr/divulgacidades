@@ -1,0 +1,291 @@
+{
+  "populacao": 12940,
+  "votosValidos": 10628,
+  "abstencao": 15.64,
+  "prefeito": {
+    "nome": "DARI PAULO PRESTES TABORDA",
+    "nomeUrna": "TABORDA",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 5782,
+    "percentual": 54.4,
+    "situacao": "Eleito",
+    "sqcand": "210001968800",
+    "vice": "LUIZ CESAR MELLO",
+    "viceNomeUrna": "MELLO",
+    "partidoVice": "PL",
+    "sqcandVice": "210001968801",
+    "coligacao": "PP / MDB / PL / UNIÃO / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "FERNANDO MASSAFRA CAVALHEIRO",
+      "nomeUrna": "FERNANDO CAVALHEIRO",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 603,
+      "percentual": 5.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001960293"
+    },
+    {
+      "nome": "DENISE WEBER",
+      "nomeUrna": "DENISE WEBER",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 598,
+      "percentual": 5.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001960292"
+    },
+    {
+      "nome": "LUIZ FERNANDO COPETTI DESBESELL",
+      "nomeUrna": "LUIZ FERNANDO DESBESELL",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 598,
+      "percentual": 5.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001955290"
+    },
+    {
+      "nome": "CLAUDIA REGINA SCHUH AMARAL",
+      "nomeUrna": "CLAUDIA SCHUH AMARAL",
+      "partido": "MDB",
+      "numero": "15315",
+      "votos": 563,
+      "percentual": 5.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001955287"
+    },
+    {
+      "nome": "CAROLINA DE OLIVEIRA KONZEN THOMAS",
+      "nomeUrna": "CAROLINA KONZEN THOMAS",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 558,
+      "percentual": 5.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002317809"
+    },
+    {
+      "nome": "JULIANE TEREZINHA DARONCO BELLINASO",
+      "nomeUrna": "JULIANE BELLINASO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 435,
+      "percentual": 4.09,
+      "situacao": "Eleito por média",
+      "sqcand": "210001959991"
+    },
+    {
+      "nome": "ROSÂNGELA NUNES BAUER CORDEIRO",
+      "nomeUrna": "ROSÂNGELA CORDEIRO",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 427,
+      "percentual": 4.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002026124"
+    },
+    {
+      "nome": "SADI ANTONIO MACHADO RAMBORGER",
+      "nomeUrna": "SADI RAMBORGER",
+      "partido": "PP",
+      "numero": "11609",
+      "votos": 374,
+      "percentual": 3.52,
+      "situacao": "Eleito por média",
+      "sqcand": "210001960295"
+    },
+    {
+      "nome": "JOAO CARLOS TABORDA ZIMMERMANN",
+      "nomeUrna": "JOAO CARLOS  ZIMMERMANN",
+      "partido": "PDT",
+      "numero": "12640",
+      "votos": 362,
+      "percentual": 3.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002317816"
+    },
+    {
+      "nome": "MILTON LUIZ PEREIRA DA ROSA",
+      "nomeUrna": "MILTON ROSA",
+      "partido": "PT",
+      "numero": "13630",
+      "votos": 351,
+      "percentual": 3.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002318909"
+    },
+    {
+      "nome": "JAIR CEDINEI DESSBESELL",
+      "nomeUrna": "JAIR LEITE DESSBESELL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 285,
+      "percentual": 2.68,
+      "situacao": "Eleito por média",
+      "sqcand": "210001955283"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 5085,
+      "percentual": 55.2,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 3000,
+      "percentual": 32.57,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 988,
+      "percentual": 10.73,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 2445,
+      "percentual": 25.67,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 1420,
+      "percentual": 14.91,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 891,
+      "percentual": 9.36,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "UBIRATAN ANTUNES SANDERSON",
+      "nomeUrna": "SANDERSON",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 819,
+      "percentual": 8.6,
+      "sqcand": "210001648581"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 699,
+      "percentual": 7.34,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 571,
+      "percentual": 6.0,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 292,
+      "percentual": 3.07,
+      "sqcand": "210001621256"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 2028,
+      "percentual": 21.89,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 1632,
+      "percentual": 17.61,
+      "sqcand": "210001621320"
+    },
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 1183,
+      "percentual": 12.77,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "VANICE HELENA ANDRADE DE MATOS",
+      "nomeUrna": "VANICE DE MATOS",
+      "partido": "MDB",
+      "numero": "15122",
+      "votos": 765,
+      "percentual": 8.26,
+      "sqcand": "210001647984"
+    },
+    {
+      "nome": "NIVIO BOELTER BRAZ",
+      "nomeUrna": "NIVIO BRAZ POLICIAL FEDERAL",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 644,
+      "percentual": 6.95,
+      "sqcand": "210001648949"
+    },
+    {
+      "nome": "MIRO JESSE",
+      "nomeUrna": "MIRO JESSE",
+      "partido": "CIDADANIA",
+      "numero": "23023",
+      "votos": 244,
+      "percentual": 2.63,
+      "sqcand": "210001620196"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 186,
+      "percentual": 2.01,
+      "sqcand": "210001602904"
+    }
+  ]
+}

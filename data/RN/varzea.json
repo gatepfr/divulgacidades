@@ -1,0 +1,271 @@
+{
+  "populacao": 5640,
+  "votosValidos": 5060,
+  "abstencao": 7.91,
+  "prefeito": {
+    "nome": "GETULIO LUCIANO RIBEIRO",
+    "nomeUrna": "GETULIO RIBEIRO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2555,
+    "percentual": 50.49,
+    "situacao": "Eleito",
+    "sqcand": "200002233596",
+    "vice": "EBERVAL FLORENCIO DE ARAUJO",
+    "viceNomeUrna": "EBERVAL FLORÊNCIO",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "200002233597",
+    "coligacao": "PODE / PSD / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSEMILTON GOMES DO REGO",
+      "nomeUrna": "MILTON GOMES",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 614,
+      "percentual": 12.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002172230"
+    },
+    {
+      "nome": "AERTON SERGIO BELO DE ALEXANDRIA",
+      "nomeUrna": "AERTON ALEXANDRIA",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 432,
+      "percentual": 8.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001977668"
+    },
+    {
+      "nome": "GERALDO EMIDIO DE ARAUJO",
+      "nomeUrna": "GERALDO TRAPIA",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 374,
+      "percentual": 7.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001977669"
+    },
+    {
+      "nome": "PLACIDO TOMAZ DE LIMA NETO",
+      "nomeUrna": "TOMAIZINHO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 341,
+      "percentual": 6.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001977665"
+    },
+    {
+      "nome": "JANCELE WENDELL DA SILVA",
+      "nomeUrna": "JANCELE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77444",
+      "votos": 319,
+      "percentual": 6.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002172244"
+    },
+    {
+      "nome": "ALLYSON DA SILVA MEDEIROS",
+      "nomeUrna": "ALLYSON MEDEIROS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 295,
+      "percentual": 5.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002172249"
+    },
+    {
+      "nome": "ANA PAULA RODRIGUES EMERENCIANO DE SOUZA",
+      "nomeUrna": "ANA PAULA",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 266,
+      "percentual": 5.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001977667"
+    },
+    {
+      "nome": "ANGELA MAYARA FERREIRA DO RÊGO",
+      "nomeUrna": "MAYARA FERREIRA",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 221,
+      "percentual": 4.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002172229"
+    },
+    {
+      "nome": "JOSE HUMBERTO DE SOUZA",
+      "nomeUrna": "BETINHO DE HORÁCIO",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 202,
+      "percentual": 4.02,
+      "situacao": "Eleito por média",
+      "sqcand": "200002172231"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1582,
+      "percentual": 45.29,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1275,
+      "percentual": 36.5,
+      "sqcand": "200001612334"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 608,
+      "percentual": 17.41,
+      "sqcand": "200001638556"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ BENES LEOCÁDIO DE ARAÚJO",
+      "nomeUrna": "BENES LEOCÁDIO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1018,
+      "percentual": 27.33,
+      "sqcand": "200001608805"
+    },
+    {
+      "nome": "VICTOR HUGO DE ASSIS CRUZ",
+      "nomeUrna": "VICTOR HUGO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 802,
+      "percentual": 21.53,
+      "sqcand": "200001603381"
+    },
+    {
+      "nome": "ROBINSON MESQUITA DE FARIA",
+      "nomeUrna": "ROBINSON FARIA",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 445,
+      "percentual": 11.95,
+      "sqcand": "200001603001"
+    },
+    {
+      "nome": "KELPS DE OLIVEIRA LIMA",
+      "nomeUrna": "KELPS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 403,
+      "percentual": 10.82,
+      "sqcand": "200001601303"
+    },
+    {
+      "nome": "GARIBALDI ALVES FILHO",
+      "nomeUrna": "GARIBALDI FILHO",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 167,
+      "percentual": 4.48,
+      "sqcand": "200001653701"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 140,
+      "percentual": 3.76,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "GARIBALDE LEITE DE OLIVEIRA",
+      "nomeUrna": "GARIBALDE LEITE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7770",
+      "votos": 118,
+      "percentual": 3.17,
+      "sqcand": "200001601297"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ DIAS DE SOUZA MARTINS",
+      "nomeUrna": "JOSÉ DIAS",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 846,
+      "percentual": 23.48,
+      "sqcand": "200001605999"
+    },
+    {
+      "nome": "RAIMUNDO NONATO PESSOA FERNANDES",
+      "nomeUrna": "RAIMUNDO FERNANDES",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 653,
+      "percentual": 18.12,
+      "sqcand": "200001606005"
+    },
+    {
+      "nome": "KLEBER GEVERSON DE OLIVEIRA RODRIGUES",
+      "nomeUrna": "KLEBER RODRIGUES",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 391,
+      "percentual": 10.85,
+      "sqcand": "200001605996"
+    },
+    {
+      "nome": "ADJUTO DIAS DE ARAUJO NETO",
+      "nomeUrna": "ADJUTO DIAS",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 354,
+      "percentual": 9.83,
+      "sqcand": "200001653268"
+    },
+    {
+      "nome": "CRISTIANE BEZERRA DE SOUZA DANTAS",
+      "nomeUrna": "CRISTIANE DANTAS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 248,
+      "percentual": 6.88,
+      "sqcand": "200001604203"
+    },
+    {
+      "nome": "MAURICIO CAETANO DAMACENA FILHO",
+      "nomeUrna": "MAURÍCIO FILHO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 239,
+      "percentual": 6.63,
+      "sqcand": "200001652914"
+    },
+    {
+      "nome": "ROSANO TAVEIRA DA CUNHA JUNIOR",
+      "nomeUrna": "TAVEIRA JR",
+      "partido": "UNIÃO",
+      "numero": "44100",
+      "votos": 100,
+      "percentual": 2.78,
+      "sqcand": "200001652912"
+    }
+  ]
+}

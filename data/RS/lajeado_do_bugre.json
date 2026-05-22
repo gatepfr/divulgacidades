@@ -1,0 +1,271 @@
+{
+  "populacao": 2132,
+  "votosValidos": 1896,
+  "abstencao": 8.68,
+  "prefeito": {
+    "nome": "RONALDO MACHADO DA SILVA",
+    "nomeUrna": "RONALDO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1184,
+    "percentual": 62.45,
+    "situacao": "Eleito",
+    "sqcand": "210002218156",
+    "vice": "MAICO DA SILVA DE LIMA",
+    "viceNomeUrna": "MAICO",
+    "partidoVice": "PL",
+    "sqcandVice": "210002218157",
+    "coligacao": "PL / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "KEVELI FRANCO DE AMORIM BUENO",
+      "nomeUrna": "KEVI",
+      "partido": "PP",
+      "numero": "11122",
+      "votos": 238,
+      "percentual": 12.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002217354"
+    },
+    {
+      "nome": "ALDEMIR PEIXOTO DA SILVA",
+      "nomeUrna": "ALDEMIR",
+      "partido": "PP",
+      "numero": "11611",
+      "votos": 191,
+      "percentual": 9.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002217353"
+    },
+    {
+      "nome": "ERLO DA SILVA DE LIMA",
+      "nomeUrna": "MANINHO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 153,
+      "percentual": 8.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002241093"
+    },
+    {
+      "nome": "VILMAR BRANDÃO ALVES JUNIOR",
+      "nomeUrna": "JUNIOR BRANDÃO",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 153,
+      "percentual": 8.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002217357"
+    },
+    {
+      "nome": "CLODORI PRESTES DA SILVA",
+      "nomeUrna": "CLODO",
+      "partido": "PT",
+      "numero": "13112",
+      "votos": 133,
+      "percentual": 6.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002020821"
+    },
+    {
+      "nome": "SIRLANE DA SILVA SILVA",
+      "nomeUrna": "SIRLANE SIR",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 124,
+      "percentual": 6.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002217358"
+    },
+    {
+      "nome": "MARIO DE SOUZA",
+      "nomeUrna": "MARIO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 118,
+      "percentual": 6.17,
+      "situacao": "Eleito por média",
+      "sqcand": "210002217355"
+    },
+    {
+      "nome": "ADELIO PINTO",
+      "nomeUrna": "CACIQUE ADELIO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 97,
+      "percentual": 5.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002077709"
+    },
+    {
+      "nome": "JOSSUÉ ALVES DA SILVA",
+      "nomeUrna": "ZINHO",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 92,
+      "percentual": 4.81,
+      "situacao": "Eleito por média",
+      "sqcand": "210002077710"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 817,
+      "percentual": 58.48,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 437,
+      "percentual": 31.28,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 139,
+      "percentual": 9.95,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 406,
+      "percentual": 27.58,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 345,
+      "percentual": 23.44,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 321,
+      "percentual": 21.81,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 89,
+      "percentual": 6.05,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "NEREU PIOVESAN",
+      "nomeUrna": "NEREU PIOVESAN",
+      "partido": "PT",
+      "numero": "1390",
+      "votos": 68,
+      "percentual": 4.62,
+      "sqcand": "210001604655"
+    },
+    {
+      "nome": "JORGE ALAN SOUZA",
+      "nomeUrna": "DR. JORGE ALAN",
+      "partido": "PSDB",
+      "numero": "4566",
+      "votos": 22,
+      "percentual": 1.49,
+      "sqcand": "210001620063"
+    },
+    {
+      "nome": "PEDRO SOARES DE OLIVEIRA",
+      "nomeUrna": "PEDRO DE OLIVEIRA",
+      "partido": "PTB",
+      "numero": "1411",
+      "votos": 21,
+      "percentual": 1.43,
+      "sqcand": "210001649223"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 305,
+      "percentual": 22.31,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 262,
+      "percentual": 19.17,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "MARCIO ASSIS PATUSSI",
+      "nomeUrna": "MARCIO PATUSSI",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 259,
+      "percentual": 18.95,
+      "sqcand": "210001648956"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 109,
+      "percentual": 7.97,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "GERRI SAWARIS",
+      "nomeUrna": "GERRI SAWARIS",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 75,
+      "percentual": 5.49,
+      "sqcand": "210001610610"
+    },
+    {
+      "nome": "JULIANO FRANCZAK",
+      "nomeUrna": "GAÚCHO DA GERAL",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 48,
+      "percentual": 3.51,
+      "sqcand": "210001696192"
+    },
+    {
+      "nome": "SÉRGIO ANTÔNIO GÖRGEN",
+      "nomeUrna": "FREI SÉRGIO",
+      "partido": "PT",
+      "numero": "13690",
+      "votos": 36,
+      "percentual": 2.63,
+      "sqcand": "210001610588"
+    }
+  ]
+}

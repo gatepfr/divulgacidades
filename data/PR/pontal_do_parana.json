@@ -1,0 +1,291 @@
+{
+  "populacao": 23896,
+  "votosValidos": 16954,
+  "abstencao": 25.34,
+  "prefeito": {
+    "nome": "RUDISNEY GIMENES FILHO",
+    "nomeUrna": "RUDÃO GIMENES",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 9081,
+    "percentual": 53.56,
+    "situacao": "Eleito",
+    "sqcand": "160002335836",
+    "vice": "PATRICIA MILLO MARCOMINI",
+    "viceNomeUrna": "PROFESSORA PATRICIA",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002335837",
+    "coligacao": "PSD / PP / MDB / PODE / PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "SINEDIR DA ROSA CARDOZO",
+      "nomeUrna": "SENE",
+      "partido": "NOVO",
+      "numero": "30100",
+      "votos": 700,
+      "percentual": 4.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002113249"
+    },
+    {
+      "nome": "MARCELO SANTOS DA SILVA",
+      "nomeUrna": "MARCELO DA SAUDE",
+      "partido": "PSB",
+      "numero": "40192",
+      "votos": 665,
+      "percentual": 3.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002342806"
+    },
+    {
+      "nome": "ELINETE GUIMARÂES ROCHA",
+      "nomeUrna": "ELINETE",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 645,
+      "percentual": 3.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002173374"
+    },
+    {
+      "nome": "JOSÉ JUVANETE PEREIRA",
+      "nomeUrna": "JUVANETE",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 607,
+      "percentual": 3.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002112849"
+    },
+    {
+      "nome": "OSEIAS LEAL",
+      "nomeUrna": "OSEIAS",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 505,
+      "percentual": 3.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002074112"
+    },
+    {
+      "nome": "ROSIANE ROSA BORGES",
+      "nomeUrna": "NEGA",
+      "partido": "MDB",
+      "numero": "15211",
+      "votos": 494,
+      "percentual": 2.94,
+      "situacao": "Eleito por média",
+      "sqcand": "160002173375"
+    },
+    {
+      "nome": "ANY DE OLIVEIRA BRASIL MESSINA",
+      "nomeUrna": "ANY MESSINA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 335,
+      "percentual": 1.99,
+      "situacao": "Eleito por média",
+      "sqcand": "160002112843"
+    },
+    {
+      "nome": "CIRINEU MARCA",
+      "nomeUrna": "CIRINEU DO ESPORTE",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 326,
+      "percentual": 1.94,
+      "situacao": "Eleito por média",
+      "sqcand": "160002342805"
+    },
+    {
+      "nome": "CLEONICE SILVA DO NASCIMENTO",
+      "nomeUrna": "CLEONICE",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 314,
+      "percentual": 1.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002210066"
+    },
+    {
+      "nome": "JHONATAN BITENCOURT ISIDORO",
+      "nomeUrna": "PASTOR JHONATAN",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 300,
+      "percentual": 1.78,
+      "situacao": "Eleito por média",
+      "sqcand": "160002074108"
+    },
+    {
+      "nome": "VALDINEI VICENTE DA SILVA",
+      "nomeUrna": "NEI DA PESCA",
+      "partido": "NOVO",
+      "numero": "30410",
+      "votos": 278,
+      "percentual": 1.65,
+      "situacao": "Eleito por média",
+      "sqcand": "160002113246"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 4544,
+      "percentual": 32.11,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3908,
+      "percentual": 27.62,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 3458,
+      "percentual": 24.44,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO ROBERTO DA COSTA",
+      "nomeUrna": "GALO",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 1111,
+      "percentual": 7.82,
+      "sqcand": "160001603310"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 889,
+      "percentual": 6.26,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 828,
+      "percentual": 5.83,
+      "sqcand": "160001654655"
+    },
+    {
+      "nome": "DELTAN MARTINAZZO DALLAGNOL",
+      "nomeUrna": "DELTAN DALLAGNOL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 695,
+      "percentual": 4.89,
+      "sqcand": "160001654827"
+    },
+    {
+      "nome": "CHRISTIANE DE SOUZA YARED",
+      "nomeUrna": "CHRISTIANE YARED",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 689,
+      "percentual": 4.85,
+      "sqcand": "160001603305"
+    },
+    {
+      "nome": "MATHEUS ARAUJO LAIOLA",
+      "nomeUrna": "DELEGADO MATHEUS LAIOLA",
+      "partido": "UNIÃO",
+      "numero": "4411",
+      "votos": 522,
+      "percentual": 3.68,
+      "sqcand": "160001654671"
+    },
+    {
+      "nome": "ITAMAR PAIM PRUCH",
+      "nomeUrna": "ITAMAR PAIM",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 473,
+      "percentual": 3.33,
+      "sqcand": "160001622034"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 2148,
+      "percentual": 15.78,
+      "sqcand": "160001614823"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 792,
+      "percentual": 5.82,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "MICHELE CAPUTO NETO",
+      "nomeUrna": "MICHELE CAPUTO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 710,
+      "percentual": 5.22,
+      "sqcand": "160001612430"
+    },
+    {
+      "nome": "GILSON DE SOUZA",
+      "nomeUrna": "GILSON DE SOUZA",
+      "partido": "PL",
+      "numero": "22422",
+      "votos": 540,
+      "percentual": 3.97,
+      "sqcand": "160001654944"
+    },
+    {
+      "nome": "ADRIANO RAMOS",
+      "nomeUrna": "ADRIANO RAMOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10300",
+      "votos": 440,
+      "percentual": 3.23,
+      "sqcand": "160001716126"
+    },
+    {
+      "nome": "NELSON ROBERTO PLACIDO SILVA JUSTUS",
+      "nomeUrna": "NELSON JUSTUS",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 383,
+      "percentual": 2.81,
+      "sqcand": "160001716017"
+    },
+    {
+      "nome": "NEY LEPREVOST NETO",
+      "nomeUrna": "NEY LEPREVOST",
+      "partido": "UNIÃO",
+      "numero": "44669",
+      "votos": 303,
+      "percentual": 2.23,
+      "sqcand": "160001716007"
+    }
+  ]
+}

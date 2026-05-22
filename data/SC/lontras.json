@@ -1,0 +1,271 @@
+{
+  "populacao": 9405,
+  "votosValidos": 7532,
+  "abstencao": 17.35,
+  "prefeito": {
+    "nome": "RUBENS ROBERTO DOS SANTOS",
+    "nomeUrna": "RUBENS R DOS SANTOS",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3821,
+    "percentual": 50.73,
+    "situacao": "Eleito",
+    "sqcand": "240002207588",
+    "vice": "ADELIO SELL",
+    "viceNomeUrna": "ADELIO SORVETEIRO",
+    "partidoVice": "MDB",
+    "sqcandVice": "240002207589",
+    "coligacao": "MDB / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE LUIZ KOCHANSKI",
+      "nomeUrna": "ZEQUINHA KOCHANSKI",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 848,
+      "percentual": 11.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002348944"
+    },
+    {
+      "nome": "JEAN CARLOS GIELOW",
+      "nomeUrna": "PROFESSOR JEAN",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 678,
+      "percentual": 9.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002276851"
+    },
+    {
+      "nome": "DANIELA ARNDT",
+      "nomeUrna": "DANI DA SAUDE",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 525,
+      "percentual": 7.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002348945"
+    },
+    {
+      "nome": "JOARES KESTRING",
+      "nomeUrna": "JUCA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 451,
+      "percentual": 6.1,
+      "situacao": "Eleito por média",
+      "sqcand": "240001912963"
+    },
+    {
+      "nome": "MARCELO DOS SANTOS",
+      "nomeUrna": "MARCELO DOS SANTOS",
+      "partido": "MDB",
+      "numero": "15470",
+      "votos": 403,
+      "percentual": 5.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002348949"
+    },
+    {
+      "nome": "GABRIEL JACOBSEN",
+      "nomeUrna": "GABRIEL JACOBSEN",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 398,
+      "percentual": 5.38,
+      "situacao": "Eleito por média",
+      "sqcand": "240002348950"
+    },
+    {
+      "nome": "EDUARDO CESAR VICENTI",
+      "nomeUrna": "EDUARDO VICENTI",
+      "partido": "PL",
+      "numero": "22025",
+      "votos": 332,
+      "percentual": 4.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002091571"
+    },
+    {
+      "nome": "CHARLES DIOMAR LESKE",
+      "nomeUrna": "CHARLES LESKE",
+      "partido": "PSDB",
+      "numero": "45022",
+      "votos": 327,
+      "percentual": 4.42,
+      "situacao": "Eleito por média",
+      "sqcand": "240002276852"
+    },
+    {
+      "nome": "SANDRA JENSEN",
+      "nomeUrna": "SANDRA DA LAVANDERIA TOMAZONI",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 320,
+      "percentual": 4.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002091576"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2361,
+      "percentual": 38.68,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1732,
+      "percentual": 28.37,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 987,
+      "percentual": 16.17,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RAFAEL PEZENTI",
+      "nomeUrna": "RAFAEL PEZENTI",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 2185,
+      "percentual": 34.96,
+      "sqcand": "240001602681"
+    },
+    {
+      "nome": "PAULO JOSÉ CUNHA",
+      "nomeUrna": "PAULO CUNHA",
+      "partido": "PSD",
+      "numero": "5515",
+      "votos": 743,
+      "percentual": 11.89,
+      "sqcand": "240001611142"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 590,
+      "percentual": 9.44,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 278,
+      "percentual": 4.45,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "ANA PAULA DE SOUZA LIMA",
+      "nomeUrna": "ANA PAULA LIMA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 270,
+      "percentual": 4.32,
+      "sqcand": "240001645213"
+    },
+    {
+      "nome": "GILSON MARQUES VIEIRA",
+      "nomeUrna": "GILSON MARQUES",
+      "partido": "NOVO",
+      "numero": "3050",
+      "votos": 258,
+      "percentual": 4.13,
+      "sqcand": "240001597412"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 199,
+      "percentual": 3.18,
+      "sqcand": "240001611140"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JERRY EDSON COMPER",
+      "nomeUrna": "JERRY COMPER",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 1868,
+      "percentual": 30.19,
+      "sqcand": "240001605920"
+    },
+    {
+      "nome": "VALDEMAR IGNACZUK",
+      "nomeUrna": "RABUJA",
+      "partido": "PL",
+      "numero": "22762",
+      "votos": 819,
+      "percentual": 13.24,
+      "sqcand": "240001614338"
+    },
+    {
+      "nome": "GERRI ADRIANI CONSOLI",
+      "nomeUrna": "GERRI DA CONSOLI",
+      "partido": "PSD",
+      "numero": "55155",
+      "votos": 621,
+      "percentual": 10.04,
+      "sqcand": "240001614381"
+    },
+    {
+      "nome": "CAMILO NAZARENO PAGANI MARTINS",
+      "nomeUrna": "CAMILO MARTINS",
+      "partido": "PODE",
+      "numero": "19369",
+      "votos": 349,
+      "percentual": 5.64,
+      "sqcand": "240001610835"
+    },
+    {
+      "nome": "OSCAR GUTZ",
+      "nomeUrna": "OSCAR GUTZ",
+      "partido": "PL",
+      "numero": "22470",
+      "votos": 241,
+      "percentual": 3.9,
+      "sqcand": "240001614346"
+    },
+    {
+      "nome": "RODRIGO PREIS",
+      "nomeUrna": "RODRIGO PREIS",
+      "partido": "PT",
+      "numero": "13470",
+      "votos": 227,
+      "percentual": 3.67,
+      "sqcand": "240001679658"
+    },
+    {
+      "nome": "MARIO SERGIO STRAMOSK",
+      "nomeUrna": "PROFE MARIO SERGIO STRAMOSK",
+      "partido": "PDT",
+      "numero": "12470",
+      "votos": 215,
+      "percentual": 3.48,
+      "sqcand": "240001644420"
+    }
+  ]
+}

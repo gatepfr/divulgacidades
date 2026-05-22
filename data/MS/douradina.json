@@ -1,0 +1,271 @@
+{
+  "populacao": 5022,
+  "votosValidos": 4511,
+  "abstencao": 7.98,
+  "prefeito": {
+    "nome": "NAIR BRANTI",
+    "nomeUrna": "NAIR BRANTI",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2434,
+    "percentual": 53.96,
+    "situacao": "Eleito",
+    "sqcand": "120002215265",
+    "vice": "ALCEU MARQUES ROSA",
+    "viceNomeUrna": "ALCEU MARQUES",
+    "partidoVice": "MDB",
+    "sqcandVice": "120002215264",
+    "coligacao": "PDT / MDB / PL / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ALDAIR JUVENAL BARROQUIEL",
+      "nomeUrna": "NAL BARROQUIEL",
+      "partido": "MDB",
+      "numero": "15624",
+      "votos": 322,
+      "percentual": 7.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002215027"
+    },
+    {
+      "nome": "MATHEUS DE SOUZA OLIVEIRA",
+      "nomeUrna": "MATHEUS OLIVEIRA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 314,
+      "percentual": 6.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002294026"
+    },
+    {
+      "nome": "JOSUÉ ALVARES MARTINS",
+      "nomeUrna": "JOSUÉ DO ESPORTE",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 310,
+      "percentual": 6.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002170295"
+    },
+    {
+      "nome": "JOSE AILTON DE SOUZA NUNES",
+      "nomeUrna": "MOCÓ",
+      "partido": "MDB",
+      "numero": "15601",
+      "votos": 275,
+      "percentual": 6.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002215029"
+    },
+    {
+      "nome": "PAULO CESAR FERREIRA DA SILVA",
+      "nomeUrna": "PAULINHO CHORÃO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 212,
+      "percentual": 4.7,
+      "situacao": "Eleito por média",
+      "sqcand": "120002215033"
+    },
+    {
+      "nome": "KAIQUE FREIRE REIS",
+      "nomeUrna": "KAIQUE FREIRE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 210,
+      "percentual": 4.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002294124"
+    },
+    {
+      "nome": "MARCELO QUEVEDO PEDRO",
+      "nomeUrna": "MARCELO QUEVEDO",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 203,
+      "percentual": 4.5,
+      "situacao": "Eleito por média",
+      "sqcand": "120002170291"
+    },
+    {
+      "nome": "RAFAEL EUCLIDES PAVAN",
+      "nomeUrna": "RAFAEL PICCIONI",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 196,
+      "percentual": 4.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002294022"
+    },
+    {
+      "nome": "RAILTON SOUZA GAMA",
+      "nomeUrna": "TAROBA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 159,
+      "percentual": 3.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002019195"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2864,
+      "percentual": 75.99,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "TIAGO RESENDE BOTELHO",
+      "nomeUrna": "PROFESSOR TIAGO BOTELHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 435,
+      "percentual": 11.54,
+      "sqcand": "120001652251"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 363,
+      "percentual": 9.63,
+      "sqcand": "120001609096"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 854,
+      "percentual": 22.53,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "CARLOS AUGUSTO FERREIRA MOREIRA",
+      "nomeUrna": "DR. GUTO",
+      "partido": "PODE",
+      "numero": "1999",
+      "votos": 487,
+      "percentual": 12.85,
+      "sqcand": "120001613516"
+    },
+    {
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nomeUrna": "DR. GERALDO RESENDE",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 452,
+      "percentual": 11.93,
+      "sqcand": "120001612324"
+    },
+    {
+      "nome": "VANDER LUIZ DOS SANTOS LOUBET",
+      "nomeUrna": "VANDER LOUBET",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 357,
+      "percentual": 9.42,
+      "sqcand": "120001652595"
+    },
+    {
+      "nome": "WALTER BENEDITO CARNEIRO JUNIOR",
+      "nomeUrna": "WALTER CARNEIRO JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 330,
+      "percentual": 8.71,
+      "sqcand": "120001645938"
+    },
+    {
+      "nome": "MARCOS SBOROWSKI POLLON",
+      "nomeUrna": "MARCOS POLLON",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 183,
+      "percentual": 4.83,
+      "sqcand": "120001614258"
+    },
+    {
+      "nome": "WALDEMIR MOKA MIRANDA DE BRITTO",
+      "nomeUrna": "MOKA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 158,
+      "percentual": 4.17,
+      "sqcand": "120001636657"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LIDIO NOGUEIRA LOPES",
+      "nomeUrna": "LIDIO LOPES",
+      "partido": "PATRIOTA",
+      "numero": "51777",
+      "votos": 1194,
+      "percentual": 31.89,
+      "sqcand": "120001651197"
+    },
+    {
+      "nome": "RHIAD ABDULAHAD",
+      "nomeUrna": "RHIAD",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 473,
+      "percentual": 12.63,
+      "sqcand": "120001609604"
+    },
+    {
+      "nome": "JOSÉ ROBERTO TEIXEIRA",
+      "nomeUrna": "ZÉ TEIXEIRA",
+      "partido": "PSDB",
+      "numero": "45121",
+      "votos": 467,
+      "percentual": 12.47,
+      "sqcand": "120001613590"
+    },
+    {
+      "nome": "MARÇAL GONÇALVES LEITE FILHO",
+      "nomeUrna": "MARÇAL FILHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 282,
+      "percentual": 7.53,
+      "sqcand": "120001645376"
+    },
+    {
+      "nome": "LONDRES MACHADO",
+      "nomeUrna": "LONDRES MACHADO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 261,
+      "percentual": 6.97,
+      "sqcand": "120001645383"
+    },
+    {
+      "nome": "RENATO PIERETTI CÂMARA",
+      "nomeUrna": "RENATO CÂMARA",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 110,
+      "percentual": 2.94,
+      "sqcand": "120001643171"
+    },
+    {
+      "nome": "JAMILSON LOPES NAME",
+      "nomeUrna": "JAMILSON NAME",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 88,
+      "percentual": 2.35,
+      "sqcand": "120001613597"
+    }
+  ]
+}

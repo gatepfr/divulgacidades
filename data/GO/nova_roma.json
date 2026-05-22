@@ -1,0 +1,271 @@
+{
+  "populacao": 3203,
+  "votosValidos": 2723,
+  "abstencao": 13.14,
+  "prefeito": {
+    "nome": "ELEUSES RODRIGUES GONZAGA",
+    "nomeUrna": "ELEUSES",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 2073,
+    "percentual": 76.13,
+    "situacao": "Eleito",
+    "sqcand": "90002280216",
+    "vice": "ROMEU JÚNIOR CARDOSO",
+    "viceNomeUrna": "ROMEU JÚNIOR",
+    "partidoVice": "MDB",
+    "sqcandVice": "90002280215",
+    "coligacao": "MDB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "THAMIRES RODRIGUES OLIVEIRA",
+      "nomeUrna": "THAMIRES DA SERRA",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 331,
+      "percentual": 12.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002198760"
+    },
+    {
+      "nome": "ALESSANDRO PEREIRA DE SOUZA",
+      "nomeUrna": "ALESSANDRO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 247,
+      "percentual": 9.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002198762"
+    },
+    {
+      "nome": "JEFERSON DE BRITO NUNES LIMA",
+      "nomeUrna": "JEFERSON BRITO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 209,
+      "percentual": 7.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002149207"
+    },
+    {
+      "nome": "ROBERVALDO SAMPAIO JÚNIOR",
+      "nomeUrna": "JÚNIOR CYCLOP",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 170,
+      "percentual": 6.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002149213"
+    },
+    {
+      "nome": "PAULO ROBERTO MARQUES DA MATA",
+      "nomeUrna": "PAULO ROBERTO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 148,
+      "percentual": 5.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002198763"
+    },
+    {
+      "nome": "ROGERIO GOMES DE SOUZA",
+      "nomeUrna": "ROGERIO DE OURO MINAS",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 145,
+      "percentual": 5.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002198420"
+    },
+    {
+      "nome": "EDIMILSON ALVES BARBOSA",
+      "nomeUrna": "EDIMILSON BIO ",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 132,
+      "percentual": 4.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002198417"
+    },
+    {
+      "nome": "RAIMUNDO LUIZ TAVARES",
+      "nomeUrna": "DICO ",
+      "partido": "UNIÃO",
+      "numero": "44556",
+      "votos": 126,
+      "percentual": 4.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002198421"
+    },
+    {
+      "nome": "JEOVANITO LINO DE JESUS",
+      "nomeUrna": "JEOVANITO CIDADÃO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 105,
+      "percentual": 3.88,
+      "situacao": "Eleito por média",
+      "sqcand": "90002198758"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 868,
+      "percentual": 47.77,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 540,
+      "percentual": 29.72,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "JOÃO CAMPOS DE ARAÚJO",
+      "nomeUrna": "JOÃO CAMPOS",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 143,
+      "percentual": 7.87,
+      "sqcand": "90001647805"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+      "nomeUrna": "JOSÉ NELTO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 837,
+      "percentual": 43.96,
+      "sqcand": "90001700974"
+    },
+    {
+      "nome": "LÊDA BORGES DE MOURA",
+      "nomeUrna": "LÊDA BORGES",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 525,
+      "percentual": 27.57,
+      "sqcand": "90001621634"
+    },
+    {
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nomeUrna": "MARUSSA BOLDRIN",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 145,
+      "percentual": 7.62,
+      "sqcand": "90001621102"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 47,
+      "percentual": 2.47,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "PAULO CEZAR KRAUSPENHAR",
+      "nomeUrna": "PAULO TRABALHO",
+      "partido": "PL",
+      "numero": "2290",
+      "votos": 35,
+      "percentual": 1.84,
+      "sqcand": "90001652519"
+    },
+    {
+      "nome": "ADRIANA SAUTHIER ACCORSI",
+      "nomeUrna": "DELEGADA ADRIANA ACCORSI",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 26,
+      "percentual": 1.37,
+      "sqcand": "90001648110"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 23,
+      "percentual": 1.21,
+      "sqcand": "90001652508"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LINEU OLIMPIO DE SOUZA",
+      "nomeUrna": "LINEU OLIMPIO",
+      "partido": "MDB",
+      "numero": "15044",
+      "votos": 709,
+      "percentual": 39.54,
+      "sqcand": "90001653187"
+    },
+    {
+      "nome": "AMILTON BATISTA DE FARIA FILHO",
+      "nomeUrna": "AMILTON FILHO",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 371,
+      "percentual": 20.69,
+      "sqcand": "90001653191"
+    },
+    {
+      "nome": "ALESSANDRO MOREIRA DOS SANTOS",
+      "nomeUrna": "ALESSANDRO MOREIRA",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 239,
+      "percentual": 13.33,
+      "sqcand": "90001712181"
+    },
+    {
+      "nome": "ISSY QUINAN JUNIOR",
+      "nomeUrna": "ISSY QUINAN",
+      "partido": "MDB",
+      "numero": "15900",
+      "votos": 105,
+      "percentual": 5.86,
+      "sqcand": "90001653197"
+    },
+    {
+      "nome": "MARIA EUZEBIA DE LIMA",
+      "nomeUrna": "BIA DE LIMA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 24,
+      "percentual": 1.34,
+      "sqcand": "90001649546"
+    },
+    {
+      "nome": "LEONNARDO PORTILHO SOARES SILVA",
+      "nomeUrna": "LÉO PORTILHO",
+      "partido": "PSC",
+      "numero": "20500",
+      "votos": 17,
+      "percentual": 0.95,
+      "sqcand": "90001645560"
+    },
+    {
+      "nome": "MARTA IVONE DE OLIVEIRA FERREIRA",
+      "nomeUrna": "MARTA IVONE",
+      "partido": "REPUBLICANOS",
+      "numero": "10234",
+      "votos": 16,
+      "percentual": 0.89,
+      "sqcand": "90001652994"
+    }
+  ]
+}

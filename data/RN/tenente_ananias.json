@@ -1,0 +1,271 @@
+{
+  "populacao": 8307,
+  "votosValidos": 7032,
+  "abstencao": 11.85,
+  "prefeito": {
+    "nome": "DAYANE DA SILVA BATISTA",
+    "nomeUrna": "DAYANE",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 4236,
+    "percentual": 60.24,
+    "situacao": "Eleito",
+    "sqcand": "200002121743",
+    "vice": "MARIA DAS GRAÇAS VIEIRA DA SILVA",
+    "viceNomeUrna": "GRAÇA VIEIRA",
+    "partidoVice": "PODE",
+    "sqcandVice": "200002121744",
+    "coligacao": "PL / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "VERIDIANA FERREIRA SARMENTO",
+      "nomeUrna": "VERIDIANA",
+      "partido": "PODE",
+      "numero": "20555",
+      "votos": 736,
+      "percentual": 10.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002199129"
+    },
+    {
+      "nome": "JOSÉ EDUARDO AGUIAR DOS ANJOS",
+      "nomeUrna": "EDUARDO AGUIAR",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 511,
+      "percentual": 7.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002287951"
+    },
+    {
+      "nome": "FLÁVIO ALEXANDRE DE ANDRADE",
+      "nomeUrna": "FLÁVIO ALEXANDRE",
+      "partido": "PV",
+      "numero": "43000",
+      "votos": 510,
+      "percentual": 7.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002287955"
+    },
+    {
+      "nome": "AGDA LÍGIA KATJANE JÁCOME DA SILVEIRA",
+      "nomeUrna": "KATJANE",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 470,
+      "percentual": 6.67,
+      "situacao": "Eleito por média",
+      "sqcand": "200002287954"
+    },
+    {
+      "nome": "FRANCISCO WELLINGTON DE ANDRADE",
+      "nomeUrna": "XEREM",
+      "partido": "PODE",
+      "numero": "20400",
+      "votos": 464,
+      "percentual": 6.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002199127"
+    },
+    {
+      "nome": "MARIA EDNACER FERNANDES DA SILVEIRA",
+      "nomeUrna": "EDINHA DE TICO BAXIM",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 409,
+      "percentual": 5.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002199132"
+    },
+    {
+      "nome": "JOSÉ GILDÂNIO DE ASSIS SILVA",
+      "nomeUrna": "GILDÂNIO",
+      "partido": "PODE",
+      "numero": "20999",
+      "votos": 363,
+      "percentual": 5.15,
+      "situacao": "Eleito por média",
+      "sqcand": "200002199124"
+    },
+    {
+      "nome": "FRANCISMUNDO DA SILVA",
+      "nomeUrna": "MAGAL",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 352,
+      "percentual": 4.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002286709"
+    },
+    {
+      "nome": "GILDEMBERG PEREIRA DA SILVA",
+      "nomeUrna": "GIL DE ZILÔ",
+      "partido": "PL",
+      "numero": "22321",
+      "votos": 342,
+      "percentual": 4.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002286708"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3158,
+      "percentual": 61.04,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 1589,
+      "percentual": 30.71,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 363,
+      "percentual": 7.02,
+      "sqcand": "200001612334"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PIO X FERNANDES",
+      "nomeUrna": "DR PIO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 2393,
+      "percentual": 41.76,
+      "sqcand": "200001653695"
+    },
+    {
+      "nome": "ROBINSON MESQUITA DE FARIA",
+      "nomeUrna": "ROBINSON FARIA",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 1945,
+      "percentual": 33.94,
+      "sqcand": "200001603001"
+    },
+    {
+      "nome": "FERNANDO WANDERLEY VARGAS DA SILVA",
+      "nomeUrna": "MINEIRO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 370,
+      "percentual": 6.46,
+      "sqcand": "200001603645"
+    },
+    {
+      "nome": "INÁCIO BRILHANTE DE ARAÚJO FILHO",
+      "nomeUrna": "MAJOR BRILHANTE",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 312,
+      "percentual": 5.44,
+      "sqcand": "200001600545"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 147,
+      "percentual": 2.56,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "THABATTA PIMENTA DE MEDEIROS SILVA",
+      "nomeUrna": "THABATTA PIMENTA",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 102,
+      "percentual": 1.78,
+      "sqcand": "200001612241"
+    },
+    {
+      "nome": "ELIESER GIRÃO MONTEIRO FILHO",
+      "nomeUrna": "GENERAL GIRÃO",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 55,
+      "percentual": 0.96,
+      "sqcand": "200001603004"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "KERGINALDO JACOME DA COSTA",
+      "nomeUrna": "DR KEGINALDO JACOME",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 4882,
+      "percentual": 86.09,
+      "sqcand": "200001605992"
+    },
+    {
+      "nome": "JOSÉ GALENO DIÓGENES TORQUATO",
+      "nomeUrna": "GALENO TORQUATO",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 274,
+      "percentual": 4.83,
+      "sqcand": "200001605995"
+    },
+    {
+      "nome": "MARIA ISOLDA DANTAS DE MOURA",
+      "nomeUrna": "ISOLDA DANTAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 232,
+      "percentual": 4.09,
+      "sqcand": "200001603626"
+    },
+    {
+      "nome": "LARISSA DANIELA DA ESCOSSIA ROSADO",
+      "nomeUrna": "LARISSA ROSADO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 30,
+      "percentual": 0.53,
+      "sqcand": "200001652909"
+    },
+    {
+      "nome": "FRANCISCO SALISMAR LOPES CORREIA",
+      "nomeUrna": "DR SALISMAR",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 26,
+      "percentual": 0.46,
+      "sqcand": "200001604190"
+    },
+    {
+      "nome": "ANDRÉ LUIZ VIEIRA DE AZEVEDO",
+      "nomeUrna": "CORONEL AZEVEDO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 22,
+      "percentual": 0.39,
+      "sqcand": "200001604696"
+    },
+    {
+      "nome": "EUDIANE JANAINA DE MACEDO SILVA",
+      "nomeUrna": "EUDIANE MACEDO",
+      "partido": "PV",
+      "numero": "43666",
+      "votos": 21,
+      "percentual": 0.37,
+      "sqcand": "200001603634"
+    }
+  ]
+}

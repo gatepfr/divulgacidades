@@ -1,0 +1,271 @@
+{
+  "populacao": 4661,
+  "votosValidos": 4054,
+  "abstencao": 11.22,
+  "prefeito": {
+    "nome": "FRANCISCO JOAQUIM DE LUCENA PEREIRA",
+    "nomeUrna": "CHICO DE EULINA",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 2325,
+    "percentual": 57.35,
+    "situacao": "Eleito",
+    "sqcand": "150002156171",
+    "vice": "MARIA STELA MARACAJÁ PORTO RAMOS",
+    "viceNomeUrna": "STELA MARACAJÁ",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "150002156172",
+    "coligacao": "REPUBLICANOS / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE ROBERTO PEREIRA MEDEIROS DE BRITO",
+      "nomeUrna": "ZÉ ROBERTO MEDEIROS",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 333,
+      "percentual": 8.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002148296"
+    },
+    {
+      "nome": "JOSÉ ROBSON BRITO DE LIMA",
+      "nomeUrna": "ROBSON BRITO",
+      "partido": "UNIÃO",
+      "numero": "44678",
+      "votos": 330,
+      "percentual": 8.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002151879"
+    },
+    {
+      "nome": "NATERCIO PEREIRA DE FARIAS",
+      "nomeUrna": "NATERCIO FARIAS",
+      "partido": "UNIÃO",
+      "numero": "44666",
+      "votos": 304,
+      "percentual": 7.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002151876"
+    },
+    {
+      "nome": "ALBERTO GAUDÊNCIO DE QUEIRÓS",
+      "nomeUrna": "BETO GAUDÊNCIO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 258,
+      "percentual": 6.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002151874"
+    },
+    {
+      "nome": "ROMERO RAMOS CAVALCANTE",
+      "nomeUrna": "ROMERO RAMOS",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 231,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002151875"
+    },
+    {
+      "nome": "DANILO LUIS",
+      "nomeUrna": "DANILO MERCADORIA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 216,
+      "percentual": 5.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002148298"
+    },
+    {
+      "nome": "HELIO COUTINHO DE MORAIS",
+      "nomeUrna": "HÉLIO MORAIS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 206,
+      "percentual": 5.07,
+      "situacao": "Eleito por média",
+      "sqcand": "150002151872"
+    },
+    {
+      "nome": "ALISSON DA SILVA FARIAS",
+      "nomeUrna": "SONZINHO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 179,
+      "percentual": 4.41,
+      "situacao": "Eleito por média",
+      "sqcand": "150002148299"
+    },
+    {
+      "nome": "DELANO MARACAJÁ PÔRTO",
+      "nomeUrna": "DELANO MARACAJÁ",
+      "partido": "REPUBLICANOS",
+      "numero": "10345",
+      "votos": 160,
+      "percentual": 3.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002038527"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1537,
+      "percentual": 52.31,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 661,
+      "percentual": 22.5,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 476,
+      "percentual": 16.2,
+      "sqcand": "150001718470"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LEONARDO DE MELO GADELHA",
+      "nomeUrna": "LÉO GADELHA",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 1172,
+      "percentual": 37.29,
+      "sqcand": "150001612080"
+    },
+    {
+      "nome": "CAROLINA FARIAS ALMEIDA GOMES",
+      "nomeUrna": "CAROL GOMES",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 880,
+      "percentual": 28.0,
+      "sqcand": "150001603193"
+    },
+    {
+      "nome": "FRANCISCO EMERSON ASSIS DE LUCENA",
+      "nomeUrna": "MERSINHO LUCENA",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 277,
+      "percentual": 8.81,
+      "sqcand": "150001612074"
+    },
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 104,
+      "percentual": 3.31,
+      "sqcand": "150001619544"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 97,
+      "percentual": 3.09,
+      "sqcand": "150001619538"
+    },
+    {
+      "nome": "RICARDO BARBOSA",
+      "nomeUrna": "RICARDO BARBOSA",
+      "partido": "PSB",
+      "numero": "4022",
+      "votos": 88,
+      "percentual": 2.8,
+      "sqcand": "150001621684"
+    },
+    {
+      "nome": "GERALDO ANTONIO DE MEDEIROS",
+      "nomeUrna": "DR GERALDO MEDEIROS",
+      "partido": "PSB",
+      "numero": "4044",
+      "votos": 46,
+      "percentual": 1.46,
+      "sqcand": "150001621686"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROMUALDO ANTONIO QUIRINO DE SOUSA",
+      "nomeUrna": "DR ROMUALDO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 958,
+      "percentual": 31.59,
+      "sqcand": "150001718095"
+    },
+    {
+      "nome": "INÁCIO JUSTINO FALCÃO PEREIRA",
+      "nomeUrna": "INÁCIO FALCÃO",
+      "partido": "PC do B",
+      "numero": "65555",
+      "votos": 723,
+      "percentual": 23.84,
+      "sqcand": "150001643210"
+    },
+    {
+      "nome": "FELIPE MATOS LEITÃO",
+      "nomeUrna": "FELIPE LEITÃO",
+      "partido": "PSD",
+      "numero": "55999",
+      "votos": 373,
+      "percentual": 12.3,
+      "sqcand": "150001620790"
+    },
+    {
+      "nome": "JOAO GONÇALVES DE AMORIM SOBRINHO",
+      "nomeUrna": "JOAO GONÇALVES",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 292,
+      "percentual": 9.63,
+      "sqcand": "150001621669"
+    },
+    {
+      "nome": "ADRIANO CEZAR GALDINO DE ARAÚJO",
+      "nomeUrna": "ADRIANO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 137,
+      "percentual": 4.52,
+      "sqcand": "150001619565"
+    },
+    {
+      "nome": "JOÃO PAULO BARBOSA LEAL SEGUNDO",
+      "nomeUrna": "JOÃO PAULO",
+      "partido": "PP",
+      "numero": "11369",
+      "votos": 137,
+      "percentual": 4.52,
+      "sqcand": "150001612056"
+    },
+    {
+      "nome": "FABIO RAMALHO DA SILVA",
+      "nomeUrna": "FABIO RAMALHO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 24,
+      "percentual": 0.79,
+      "sqcand": "150001621377"
+    }
+  ]
+}

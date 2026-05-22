@@ -1,0 +1,271 @@
+{
+  "populacao": 2929,
+  "votosValidos": 2384,
+  "abstencao": 13.01,
+  "prefeito": {
+    "nome": "RICARDO MITSURO WATANABE",
+    "nomeUrna": "RICARDO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1287,
+    "percentual": 53.98,
+    "situacao": "Eleito",
+    "sqcand": "250001963317",
+    "vice": "GILSON PAULO FERREIRA",
+    "viceNomeUrna": "GILSON",
+    "partidoVice": "PL",
+    "sqcandVice": "250001963318",
+    "coligacao": "PSD / MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "HUDSON APARECIDO DOS SANTOS FERREIRA",
+      "nomeUrna": "PROFESSOR HUDSON",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 195,
+      "percentual": 7.84,
+      "situacao": "Eleito por média",
+      "sqcand": "250001963343"
+    },
+    {
+      "nome": "ALEX SANDRO PEREIRA DO NASCIMENTO",
+      "nomeUrna": "ALEX NASCIMENTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 170,
+      "percentual": 6.84,
+      "situacao": "Eleito por média",
+      "sqcand": "250001983724"
+    },
+    {
+      "nome": "SIGMAR DANTAS PEREIRA",
+      "nomeUrna": "SIGMAR ESCRIVAO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 148,
+      "percentual": 5.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001963440"
+    },
+    {
+      "nome": "LEONARDO RODRIGUES PEREIRA DE OLIVEIRA",
+      "nomeUrna": "LEO RODRIGUES",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 148,
+      "percentual": 5.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001963443"
+    },
+    {
+      "nome": "LUIS FERNANDO RODRIGUES DA SILVA",
+      "nomeUrna": "NANDINHO",
+      "partido": "PODE",
+      "numero": "20147",
+      "votos": 147,
+      "percentual": 5.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002351683"
+    },
+    {
+      "nome": "JOAO LUIZ APARECIDO BELLONI",
+      "nomeUrna": "JOAO BELLONI",
+      "partido": "MDB",
+      "numero": "15616",
+      "votos": 120,
+      "percentual": 4.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001963279"
+    },
+    {
+      "nome": "MACIEL DANTAS DE FIGUEIREDO",
+      "nomeUrna": "MACIEL DANTAS",
+      "partido": "PODE",
+      "numero": "20700",
+      "votos": 120,
+      "percentual": 4.83,
+      "situacao": "Eleito por média",
+      "sqcand": "250002351680"
+    },
+    {
+      "nome": "AILTON PAULO FERREIRA",
+      "nomeUrna": "AILTON PAULO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 111,
+      "percentual": 4.46,
+      "situacao": "Eleito por média",
+      "sqcand": "250001963274"
+    },
+    {
+      "nome": "CLEBER JULIANO DE OLIVEIRA",
+      "nomeUrna": "CLEBER BICUDO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 76,
+      "percentual": 3.06,
+      "situacao": "Eleito por média",
+      "sqcand": "250002346969"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1031,
+      "percentual": 52.84,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 611,
+      "percentual": 31.32,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 274,
+      "percentual": 14.04,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARIA APARECIDA FIRMINO",
+      "nomeUrna": "CIDINHA FIRMINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1034",
+      "votos": 354,
+      "percentual": 17.06,
+      "sqcand": "250001611890"
+    },
+    {
+      "nome": "GUILHERME PIAI SILVA FILIZZOLA",
+      "nomeUrna": "GUILHERME PIAI",
+      "partido": "REPUBLICANOS",
+      "numero": "1018",
+      "votos": 309,
+      "percentual": 14.89,
+      "sqcand": "250001611903"
+    },
+    {
+      "nome": "REINALDO DE SOUZA ALGUZ",
+      "nomeUrna": "REINALDO ALGUZ",
+      "partido": "UNIÃO",
+      "numero": "4436",
+      "votos": 221,
+      "percentual": 10.65,
+      "sqcand": "250001602077"
+    },
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 218,
+      "percentual": 10.51,
+      "sqcand": "250001612091"
+    },
+    {
+      "nome": "ARLINDO CHIGNALIA JUNIOR",
+      "nomeUrna": "ARLINDO CHINAGLIA",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 61,
+      "percentual": 2.94,
+      "sqcand": "250001610712"
+    },
+    {
+      "nome": "ALEXANDRE ROCHA SANTOS PADILHA",
+      "nomeUrna": "ALEXANDRE PADILHA",
+      "partido": "PT",
+      "numero": "1354",
+      "votos": 58,
+      "percentual": 2.8,
+      "sqcand": "250001610710"
+    },
+    {
+      "nome": "GILBERTO NASCIMENTO SILVA",
+      "nomeUrna": "GILBERTO NASCIMENTO",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 47,
+      "percentual": 2.27,
+      "sqcand": "250001643871"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 250,
+      "percentual": 13.09,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "HELIO DONIZETE ZANATTA",
+      "nomeUrna": "HELINHO ZANATTA",
+      "partido": "PSC",
+      "numero": "20123",
+      "votos": 175,
+      "percentual": 9.16,
+      "sqcand": "250001643762"
+    },
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 170,
+      "percentual": 8.9,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "TANIA CRISTINA FRUCHI",
+      "nomeUrna": "TÂNIA FRUCHI",
+      "partido": "UNIÃO",
+      "numero": "44363",
+      "votos": 165,
+      "percentual": 8.64,
+      "sqcand": "250001602159"
+    },
+    {
+      "nome": "HELIO JOSÉ DOS SANTOS",
+      "nomeUrna": "PROF HÉLIO",
+      "partido": "PP",
+      "numero": "11212",
+      "votos": 125,
+      "percentual": 6.54,
+      "sqcand": "250001612311"
+    },
+    {
+      "nome": "TEONÍLIO MONTEIRO DA COSTA",
+      "nomeUrna": "BARBA",
+      "partido": "PT",
+      "numero": "13110",
+      "votos": 92,
+      "percentual": 4.82,
+      "sqcand": "250001611768"
+    },
+    {
+      "nome": "OSEIAS SANTOS DA SILVA",
+      "nomeUrna": "OSEIAS DE MADUREIRA",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 54,
+      "percentual": 2.83,
+      "sqcand": "250001605013"
+    }
+  ]
+}

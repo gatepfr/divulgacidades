@@ -1,0 +1,301 @@
+{
+  "populacao": 138158,
+  "votosValidos": 95184,
+  "abstencao": 23.46,
+  "prefeito": {
+    "nome": "ALEX MAROTO DE OLIVEIRA",
+    "nomeUrna": "MAROTTO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 71851,
+    "percentual": 75.49,
+    "situacao": "Eleito",
+    "sqcand": "190001925900",
+    "vice": "BRUNO LOYOLA LUCENA DE SOUZA",
+    "viceNomeUrna": "BRUNO LUCENA",
+    "partidoVice": "PP",
+    "sqcandVice": "190001925901",
+    "coligacao": "PP / PODE / PL / PRD / NOVO / AGIR / UNIÃO / PSD / AVANTE / CIDADANIA / PSDB / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "DIOGO AUGUSTO DA SILVA SANTOS",
+      "nomeUrna": "DIOGO TALENTO",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 3568,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002157073"
+    },
+    {
+      "nome": "MARCEL ROBERTO PINHEIRO GOMES",
+      "nomeUrna": "MARCEL TAÍ GOSTEI",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 3236,
+      "percentual": 3.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001992183"
+    },
+    {
+      "nome": "MARCUS VINICIUS SANTOS DA SILVA",
+      "nomeUrna": "VINNY É NÓS",
+      "partido": "PRD",
+      "numero": "25222",
+      "votos": 3186,
+      "percentual": 3.28,
+      "situacao": "Eleito por média",
+      "sqcand": "190002157079"
+    },
+    {
+      "nome": "RAPHAEL DUARTE MOURÃO CHAVES CORRIÇA",
+      "nomeUrna": "RAPHAEL DUARTE",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 3045,
+      "percentual": 3.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002073003"
+    },
+    {
+      "nome": "GELSON HENRIQUE SANTOS DA SILVA",
+      "nomeUrna": "GELSON HENRIQUE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 2858,
+      "percentual": 2.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001987216"
+    },
+    {
+      "nome": "TIAGO KURTZ DA SILVA",
+      "nomeUrna": "TIAGO KURTZ",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 2705,
+      "percentual": 2.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002069113"
+    },
+    {
+      "nome": "JOSE ANTONIO MARQUES CAVALCANTI DE SA",
+      "nomeUrna": "ZE CHALEIRA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 2668,
+      "percentual": 2.74,
+      "situacao": "Eleito por média",
+      "sqcand": "190002069105"
+    },
+    {
+      "nome": "VINICIUS DE FREITAS DOS SANTOS",
+      "nomeUrna": "VINÍCIUS BONITÃO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 2614,
+      "percentual": 2.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002073008"
+    },
+    {
+      "nome": "LEONARDO PEREIRA ALVES",
+      "nomeUrna": "LEO PRIMO",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 2475,
+      "percentual": 2.55,
+      "situacao": "Eleito por média",
+      "sqcand": "190002073010"
+    },
+    {
+      "nome": "MAURICIO CHAGAS BALBINO",
+      "nomeUrna": "MAURICIO CHAGAS",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 2415,
+      "percentual": 2.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002076097"
+    },
+    {
+      "nome": "EDUARDO FRANCELINO DA SILVA NETO",
+      "nomeUrna": "DUDU DOIS D",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 2234,
+      "percentual": 2.3,
+      "situacao": "Eleito por média",
+      "sqcand": "190002076099"
+    },
+    {
+      "nome": "RODRIGO RODRIGUES DOS SANTOS",
+      "nomeUrna": "RODRIGO RODRIGUES  RR",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 2198,
+      "percentual": 2.26,
+      "situacao": "Eleito por média",
+      "sqcand": "190001992176"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 28132,
+      "percentual": 39.36,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "CLARISSA GAROTINHO BARROS ASSED MATHEUS DE OLIVEIRA",
+      "nomeUrna": "CLARISSA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 14616,
+      "percentual": 20.45,
+      "sqcand": "190001645824"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 13446,
+      "percentual": 18.81,
+      "sqcand": "190001609504"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ROBERTO  DE SOUZA EMIDIO",
+      "nomeUrna": "ROBERTO EMIDIO ",
+      "partido": "PP",
+      "numero": "1125",
+      "votos": 5733,
+      "percentual": 6.12,
+      "sqcand": "190001605602"
+    },
+    {
+      "nome": "LUIZ ANTONIO DE SOUZA TEIXEIRA JUNIOR",
+      "nomeUrna": "DOUTOR LUIZINHO",
+      "partido": "PP",
+      "numero": "1177",
+      "votos": 4899,
+      "percentual": 5.23,
+      "sqcand": "190001605591"
+    },
+    {
+      "nome": "MARCUS VINICIUS SANTOS DA SILVA",
+      "nomeUrna": "VINNY É NÓS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7702",
+      "votos": 3998,
+      "percentual": 4.27,
+      "sqcand": "190001601707"
+    },
+    {
+      "nome": "LEONARDO FIAUX DE ANDRADE",
+      "nomeUrna": "LEONARDO ANDRADE",
+      "partido": "PMN",
+      "numero": "3301",
+      "votos": 3964,
+      "percentual": 4.23,
+      "sqcand": "190001606452"
+    },
+    {
+      "nome": "JOSÉ ANTONIO MARQUES CAVALCANTI DE SÁ",
+      "nomeUrna": "ZÉ CHALEIRA",
+      "partido": "PROS",
+      "numero": "9092",
+      "votos": 3758,
+      "percentual": 4.01,
+      "sqcand": "190001606580"
+    },
+    {
+      "nome": "DANIELA MOTÉ DE SOUZA CARNEIRO",
+      "nomeUrna": "DANIELA DO WAGUINHO",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 3102,
+      "percentual": 3.31,
+      "sqcand": "190001619522"
+    },
+    {
+      "nome": "MARCELO SAMUEL BARBOSA DA SILVA",
+      "nomeUrna": "MARCELO RADAR",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7723",
+      "votos": 2064,
+      "percentual": 2.2,
+      "sqcand": "190001601694"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SERGIO RENATO FERREIRA MIRANDA",
+      "nomeUrna": "RENATO MIRANDA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 34562,
+      "percentual": 38.03,
+      "sqcand": "190001596718"
+    },
+    {
+      "nome": "MARCIO CORREIA DE OLIVEIRA",
+      "nomeUrna": "MÁRCIO CANELLA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 3048,
+      "percentual": 3.35,
+      "sqcand": "190001619475"
+    },
+    {
+      "nome": "CRISTIANE PELINCA DO AMARAL",
+      "nomeUrna": "CRIS GÊMEAS",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 2623,
+      "percentual": 2.89,
+      "sqcand": "190001619415"
+    },
+    {
+      "nome": "RAFAEL PEREIRA NOBRE",
+      "nomeUrna": "RAFAEL NOBRE",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 1966,
+      "percentual": 2.16,
+      "sqcand": "190001619410"
+    },
+    {
+      "nome": "ADRIANO ALVES DOS SANTOS",
+      "nomeUrna": "ADRIANO ALVES",
+      "partido": "AGIR",
+      "numero": "36789",
+      "votos": 1828,
+      "percentual": 2.01,
+      "sqcand": "190001716398"
+    },
+    {
+      "nome": "DANNIEL LIBRELON DIAS DE CASTRO",
+      "nomeUrna": "DANNIEL LIBRELON",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1705,
+      "percentual": 1.88,
+      "sqcand": "190001636600"
+    },
+    {
+      "nome": "FELIPE RANGEL GARCIA",
+      "nomeUrna": "FELIPINHO RAVIS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77200",
+      "votos": 1253,
+      "percentual": 1.38,
+      "sqcand": "190001601374"
+    }
+  ]
+}

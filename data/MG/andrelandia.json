@@ -1,0 +1,271 @@
+{
+  "populacao": 10099,
+  "votosValidos": 7392,
+  "abstencao": 22.71,
+  "prefeito": {
+    "nome": "FRANCISCO REGINALDO NOGUEIRA",
+    "nomeUrna": "REGINALDO DA AREIA",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 3934,
+    "percentual": 53.22,
+    "situacao": "Eleito",
+    "sqcand": "130002217584",
+    "vice": "CARLOS HENRIQUE GOMES",
+    "viceNomeUrna": "CASIQUE",
+    "partidoVice": "PSD",
+    "sqcandVice": "130002217583",
+    "coligacao": "PSD / AVANTE / PL / NOVO"
+  },
+  "vereadores": [
+    {
+      "nome": "LEILA APARECIDA NOGUEIRA",
+      "nomeUrna": "LEILA ASSISTENTE SOCIAL",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 535,
+      "percentual": 7.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002096156"
+    },
+    {
+      "nome": "ELIANE APARECIDA LOUZADA",
+      "nomeUrna": "ELIANE DO ZEZÉ DA VAN",
+      "partido": "AVANTE",
+      "numero": "70789",
+      "votos": 479,
+      "percentual": 6.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002096494"
+    },
+    {
+      "nome": "EDIVALDO LUIZ DA SILVA",
+      "nomeUrna": "VADO ENFERMEIRO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 469,
+      "percentual": 6.25,
+      "situacao": "Eleito por média",
+      "sqcand": "130002095943"
+    },
+    {
+      "nome": "JANDER EDUARDO DE CASTRO",
+      "nomeUrna": "JANDER DA LÉA",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 353,
+      "percentual": 4.7,
+      "situacao": "Eleito por média",
+      "sqcand": "130002096490"
+    },
+    {
+      "nome": "GILSON JAIRO PEREIRA",
+      "nomeUrna": "GILSON DO JAIME JAIRO",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 334,
+      "percentual": 4.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002096164"
+    },
+    {
+      "nome": "KELCIA FAGUNDES DE ANDRADE RUBIO",
+      "nomeUrna": "KELCIA DO DÉCIO DA FARMÁCIA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 333,
+      "percentual": 4.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002033147"
+    },
+    {
+      "nome": "ELIZA ROBERTA RIBEIRO SEIXAS",
+      "nomeUrna": "ELIZA DO ZÉ TESTA",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 238,
+      "percentual": 3.17,
+      "situacao": "Eleito por média",
+      "sqcand": "130002096488"
+    },
+    {
+      "nome": "HAYK FONSECA SA",
+      "nomeUrna": "HAYK FONSECA",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 196,
+      "percentual": 2.61,
+      "situacao": "Eleito por média",
+      "sqcand": "130002216305"
+    },
+    {
+      "nome": "LIGIA DE LOURDES GARCIA LANDIM MIRON",
+      "nomeUrna": "LIGIA LANDIM",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 171,
+      "percentual": 2.28,
+      "situacao": "Eleito por média",
+      "sqcand": "130002096155"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2146,
+      "percentual": 36.46,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2132,
+      "percentual": 36.22,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 1507,
+      "percentual": 25.6,
+      "sqcand": "130001671677"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ FERNANDO RAMOS FARIA",
+      "nomeUrna": "LUIZ FERNANDO",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 1334,
+      "percentual": 21.41,
+      "sqcand": "130001604306"
+    },
+    {
+      "nome": "REGINALDO LÁZARO DE OLIVEIRA LOPES",
+      "nomeUrna": "REGINALDO LOPES",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 1293,
+      "percentual": 20.75,
+      "sqcand": "130001607277"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 480,
+      "percentual": 7.7,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "FREDERICO DE CASTRO ESCALEIRA",
+      "nomeUrna": "DR. FREDERICO",
+      "partido": "PATRIOTA",
+      "numero": "5152",
+      "votos": 417,
+      "percentual": 6.69,
+      "sqcand": "130001596003"
+    },
+    {
+      "nome": "DIMAS FABIANO TOLEDO JUNIOR",
+      "nomeUrna": "DIMAS FABIANO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 408,
+      "percentual": 6.55,
+      "sqcand": "130001615433"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 218,
+      "percentual": 3.5,
+      "sqcand": "130001608227"
+    },
+    {
+      "nome": "GERALDO JUNIO DO AMARAL",
+      "nomeUrna": "JUNIO AMARAL",
+      "partido": "PL",
+      "numero": "2238",
+      "votos": 205,
+      "percentual": 3.29,
+      "sqcand": "130001610992"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "NACIB DUARTE BECHIR",
+      "nomeUrna": "DUARTE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 1227,
+      "percentual": 21.12,
+      "sqcand": "130001604390"
+    },
+    {
+      "nome": "CARLOS MAGNO RIBEIRO COSTA",
+      "nomeUrna": "MAGNO",
+      "partido": "PT",
+      "numero": "13450",
+      "votos": 1027,
+      "percentual": 17.67,
+      "sqcand": "130001607393"
+    },
+    {
+      "nome": "POLIANE CRISTINA DE ALMEIDA",
+      "nomeUrna": "POLYANA GRINGO",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 795,
+      "percentual": 13.68,
+      "sqcand": "130001619063"
+    },
+    {
+      "nome": "ROBERTO CUPOLILLO",
+      "nomeUrna": "BETÃO",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 327,
+      "percentual": 5.63,
+      "sqcand": "130001607388"
+    },
+    {
+      "nome": "JOSE GUILHERME FERREIRA FILHO",
+      "nomeUrna": "ZÉ GUILHERME",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 213,
+      "percentual": 3.67,
+      "sqcand": "130001615639"
+    },
+    {
+      "nome": "JORGE ELIAS DE SOUZA LEMOS",
+      "nomeUrna": "JORGE LEMOS",
+      "partido": "PATRIOTA",
+      "numero": "51522",
+      "votos": 197,
+      "percentual": 3.39,
+      "sqcand": "130001596309"
+    },
+    {
+      "nome": "MARLON SIQUEIRA RODRIGUES MARTINS",
+      "nomeUrna": "MARLON SIQUEIRA",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 158,
+      "percentual": 2.72,
+      "sqcand": "130001615640"
+    }
+  ]
+}

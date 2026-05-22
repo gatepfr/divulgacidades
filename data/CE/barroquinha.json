@@ -1,0 +1,271 @@
+{
+  "populacao": 15085,
+  "votosValidos": 12742,
+  "abstencao": 13.76,
+  "prefeito": {
+    "nome": "JAIME VERAS SILVA FILHO",
+    "nomeUrna": "JAIME VERAS",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 6404,
+    "percentual": 50.26,
+    "situacao": "Eleito",
+    "sqcand": "60002277954",
+    "vice": "CARMEM LÚCIA DE SOUSA VERAS",
+    "viceNomeUrna": "CARMEM LÚCIA",
+    "partidoVice": "PSD",
+    "sqcandVice": "60002277953",
+    "coligacao": "PSD / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSÉ MAURÍCIO MAGALHÃES JÚNIOR",
+      "nomeUrna": "JÚNIOR MAGALHÃES",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 1393,
+      "percentual": 11.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002318885"
+    },
+    {
+      "nome": "AMANAJÁS DE ARAÚJO PEREIRA",
+      "nomeUrna": "AMANAJÁS ARAÚJO",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 1283,
+      "percentual": 10.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002108085"
+    },
+    {
+      "nome": "GENILSON MOREIRA DE BRITO",
+      "nomeUrna": "GENILSON MOREIRA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 1155,
+      "percentual": 9.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002318892"
+    },
+    {
+      "nome": "FRANCISCO VALDÉCIO ROCHA SOUZA",
+      "nomeUrna": "VALDÉCIO ROCHA",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 965,
+      "percentual": 7.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002108084"
+    },
+    {
+      "nome": "FRANCISCO WILSON DE SOUZA",
+      "nomeUrna": "PROFESSOR WILSON",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 910,
+      "percentual": 7.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002318888"
+    },
+    {
+      "nome": "JODEAL OLIVEIRA DE ALCÂNTARA",
+      "nomeUrna": "PR JODEAL ALCÂNTARA",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 806,
+      "percentual": 6.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002108087"
+    },
+    {
+      "nome": "ARLENE ALVES DE CARVALHO",
+      "nomeUrna": "DIDI DO ZÉ MERO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 759,
+      "percentual": 6.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002318893"
+    },
+    {
+      "nome": "DAVID ALVES DA SILVA JUNIOR",
+      "nomeUrna": "DAVID JUNIOR",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 738,
+      "percentual": 5.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002108086"
+    },
+    {
+      "nome": "JULITA TORRES DE SOUZA VERAS",
+      "nomeUrna": "JULITA",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 674,
+      "percentual": 5.35,
+      "situacao": "Eleito por média",
+      "sqcand": "60002318890"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 5790,
+      "percentual": 58.64,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 3119,
+      "percentual": 31.59,
+      "sqcand": "60001731829"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 965,
+      "percentual": 9.77,
+      "sqcand": "60001633970"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DOMINGOS GOMES DE AGUIAR NETO",
+      "nomeUrna": "DOMINGOS NETO",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 4016,
+      "percentual": 38.59,
+      "sqcand": "60001601183"
+    },
+    {
+      "nome": "MARCOS ROBÉRIO RIBEIRO MONTEIRO",
+      "nomeUrna": "ROBÉRIO MONTEIRO",
+      "partido": "PDT",
+      "numero": "1233",
+      "votos": 3803,
+      "percentual": 36.55,
+      "sqcand": "60001603485"
+    },
+    {
+      "nome": "DENIS ANDERSON DA ROCHA BEZERRA",
+      "nomeUrna": "DENIS BEZERRA",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 1208,
+      "percentual": 11.61,
+      "sqcand": "60001603454"
+    },
+    {
+      "nome": "JAZIEL PEREIRA DE SOUSA",
+      "nomeUrna": "DR JAZIEL",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 223,
+      "percentual": 2.14,
+      "sqcand": "60001614163"
+    },
+    {
+      "nome": "ANDRÉ FERNANDES DE MOURA",
+      "nomeUrna": "ANDRÉ FERNANDES",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 197,
+      "percentual": 1.89,
+      "sqcand": "60001614161"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 151,
+      "percentual": 1.45,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "CÉLIO STUDART BARBOSA",
+      "nomeUrna": "CÉLIO STUDART",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 97,
+      "percentual": 0.93,
+      "sqcand": "60001601189"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SERGIO DE ARAÚJO LIMA AGUIAR",
+      "nomeUrna": "SERGIO AGUIAR",
+      "partido": "PDT",
+      "numero": "12888",
+      "votos": 4334,
+      "percentual": 44.38,
+      "sqcand": "60001603516"
+    },
+    {
+      "nome": "ROMEU ALDIGUERI DE ARRUDA COELHO",
+      "nomeUrna": "ROMEU ALDIGUERI",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 4222,
+      "percentual": 43.24,
+      "sqcand": "60001603528"
+    },
+    {
+      "nome": "FRANCISCO CLAUDIO PINTO PINHO",
+      "nomeUrna": "CLÁUDIO PINHO",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 509,
+      "percentual": 5.21,
+      "sqcand": "60001603529"
+    },
+    {
+      "nome": "SILVANA OLIVEIRA DE SOUSA",
+      "nomeUrna": "DRA SILVANA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 176,
+      "percentual": 1.8,
+      "sqcand": "60001633828"
+    },
+    {
+      "nome": "ALCIDES FERNANDES DA SILVA",
+      "nomeUrna": "PR.ALCIDES FERNANDES",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 69,
+      "percentual": 0.71,
+      "sqcand": "60001633829"
+    },
+    {
+      "nome": "MOISES BRAZ RICARDO",
+      "nomeUrna": "MOISES BRAZ",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 48,
+      "percentual": 0.49,
+      "sqcand": "60001633642"
+    },
+    {
+      "nome": "DAVID DE ALBUQUERQUE DURAND",
+      "nomeUrna": "DAVID DURAND",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 36,
+      "percentual": 0.37,
+      "sqcand": "60001608816"
+    }
+  ]
+}

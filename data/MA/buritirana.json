@@ -1,0 +1,291 @@
+{
+  "populacao": 11023,
+  "votosValidos": 8821,
+  "abstencao": 14.97,
+  "prefeito": {
+    "nome": "TONISLEY DOS SANTOS SOUSA",
+    "nomeUrna": "TONY BRANDÃO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 7338,
+    "percentual": 83.19,
+    "situacao": "Eleito",
+    "sqcand": "100002185439",
+    "vice": "SEBASTIAO AIRES PEREIRA",
+    "viceNomeUrna": "JUNIOR DO SESSE",
+    "partidoVice": "PSB",
+    "sqcandVice": "100002185440",
+    "coligacao": "MDB / CIDADANIA / PSDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "JOAQUIM ALBINO COSTA",
+      "nomeUrna": "JOAQUIM ALBINO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 734,
+      "percentual": 8.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277602"
+    },
+    {
+      "nome": "JAMES ALVES DE OLIVEIRA",
+      "nomeUrna": "JAMES ALVES",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 727,
+      "percentual": 8.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277360"
+    },
+    {
+      "nome": "JOSECLEIA SILVA SOUSA",
+      "nomeUrna": "JUSA DO ZÉ DO ALVINO",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 712,
+      "percentual": 7.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277361"
+    },
+    {
+      "nome": "JOSIMAR NUNES DA SILVA",
+      "nomeUrna": "JOSIMAR DO JOCA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 705,
+      "percentual": 7.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277607"
+    },
+    {
+      "nome": "SOLIMAR DE SOUSA DO NASCIMENTO",
+      "nomeUrna": "SOLIMAR",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 650,
+      "percentual": 7.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277355"
+    },
+    {
+      "nome": "GETULIO PEREIRA BARBOSA FILHO",
+      "nomeUrna": "FILHO DO GETULIO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 616,
+      "percentual": 6.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277601"
+    },
+    {
+      "nome": "ERNANDES DA SILVA OLIVEIRA",
+      "nomeUrna": "ERNANDES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 594,
+      "percentual": 6.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277606"
+    },
+    {
+      "nome": "JOSE RIBAMAR MADEIRA",
+      "nomeUrna": "ZEZINHO DO CHICUTA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 589,
+      "percentual": 6.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277603"
+    },
+    {
+      "nome": "RAIMUNDO AIRES PEREIRA",
+      "nomeUrna": "RAIMUNDO BREGUEDÊ",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 563,
+      "percentual": 6.2,
+      "situacao": "Eleito por média",
+      "sqcand": "100002277600"
+    },
+    {
+      "nome": "JAIRO GOMES SOARES",
+      "nomeUrna": "JAIRO DO VARJAO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 555,
+      "percentual": 6.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277356"
+    },
+    {
+      "nome": "EDEILSON MESSIAS DE SOUSA",
+      "nomeUrna": "EDEILSON MESSIAS",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 526,
+      "percentual": 5.79,
+      "situacao": "Eleito por média",
+      "sqcand": "100002277359"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 4428,
+      "percentual": 55.77,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 3462,
+      "percentual": 43.6,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "IVO NOGUEIRA",
+      "nomeUrna": "PASTOR IVO NOGUEIRA",
+      "partido": "DC",
+      "numero": "277",
+      "votos": 39,
+      "percentual": 0.49,
+      "sqcand": "100001613450"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CLAYTON NOLETO SILVA",
+      "nomeUrna": "CLAYTON NOLETO",
+      "partido": "PSB",
+      "numero": "4011",
+      "votos": 1885,
+      "percentual": 22.73,
+      "sqcand": "100001607054"
+    },
+    {
+      "nome": "HILDO AUGUSTO DA ROCHA NETO",
+      "nomeUrna": "HILDO ROCHA",
+      "partido": "MDB",
+      "numero": "1516",
+      "votos": 1765,
+      "percentual": 21.29,
+      "sqcand": "100001599078"
+    },
+    {
+      "nome": "TACILLA MARIANA CARVALHO SILVA",
+      "nomeUrna": "MARIANA CARVALHO",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 669,
+      "percentual": 8.07,
+      "sqcand": "100001615471"
+    },
+    {
+      "nome": "JOSÉ JUSCELINO DOS SANTOS REZENDE FILHO",
+      "nomeUrna": "JUSCELINO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4410",
+      "votos": 615,
+      "percentual": 7.42,
+      "sqcand": "100001610561"
+    },
+    {
+      "nome": "JOSIVALDO DOS SANTOS MELO",
+      "nomeUrna": "JOSIVALDO JP",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 583,
+      "percentual": 7.03,
+      "sqcand": "100001602275"
+    },
+    {
+      "nome": "EDILÁZIO GOMES DA SILVA JUNIOR",
+      "nomeUrna": "EDILÁZIO JÚNIOR",
+      "partido": "PSD",
+      "numero": "5533",
+      "votos": 561,
+      "percentual": 6.77,
+      "sqcand": "100001602261"
+    },
+    {
+      "nome": "JOSÉ ALVES CAVALCANTE",
+      "nomeUrna": "PASTOR CAVALCANTE",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 470,
+      "percentual": 5.67,
+      "sqcand": "100001602270"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RILDO DE OLIVEIRA AMARAL",
+      "nomeUrna": "RILDO AMARAL",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 2143,
+      "percentual": 26.92,
+      "sqcand": "100001608087"
+    },
+    {
+      "nome": "ANTONIO PEREIRA FILHO",
+      "nomeUrna": "ANTÔNIO PEREIRA",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 1718,
+      "percentual": 21.58,
+      "sqcand": "100001607063"
+    },
+    {
+      "nome": "JANAINA LIMA ARAÚJO RAMOS",
+      "nomeUrna": "JANAINA RAMOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 1048,
+      "percentual": 13.16,
+      "sqcand": "100001602653"
+    },
+    {
+      "nome": "WELLRYK OLIVEIRA COSTA DA SILVA",
+      "nomeUrna": "ERIC COSTA",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 555,
+      "percentual": 6.97,
+      "sqcand": "100001607118"
+    },
+    {
+      "nome": "WEYKLEN COELHO TEIXEIRA",
+      "nomeUrna": "KEKE TEIXEIRA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 386,
+      "percentual": 4.85,
+      "sqcand": "100001606605"
+    },
+    {
+      "nome": "VALERIA MARIA SANTOS MACEDO",
+      "nomeUrna": "VALERIA MACEDO",
+      "partido": "PODE",
+      "numero": "19999",
+      "votos": 339,
+      "percentual": 4.26,
+      "sqcand": "100001614805"
+    },
+    {
+      "nome": "AURELIO GOMES DA SILVA",
+      "nomeUrna": "AURELIO GOMES",
+      "partido": "PT",
+      "numero": "13128",
+      "votos": 322,
+      "percentual": 4.04,
+      "sqcand": "100001613724"
+    }
+  ]
+}

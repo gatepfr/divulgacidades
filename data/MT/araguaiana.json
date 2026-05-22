@@ -1,0 +1,271 @@
+{
+  "populacao": 3398,
+  "votosValidos": 2667,
+  "abstencao": 19.84,
+  "prefeito": {
+    "nome": "JOSE MARRA NERY",
+    "nomeUrna": "JOSE MARRA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1441,
+    "percentual": 54.03,
+    "situacao": "Eleito",
+    "sqcand": "110002110307",
+    "vice": "GESSICA KAMILLA VIEIRA LUZ",
+    "viceNomeUrna": "KAMILLA VIEIRA",
+    "partidoVice": "PSB",
+    "sqcandVice": "110002110308",
+    "coligacao": "PSB / UNIÃO / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ALBERTO RIBEIRO DA COSTA",
+      "nomeUrna": "ALBERTINHO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 209,
+      "percentual": 7.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002115216"
+    },
+    {
+      "nome": "JUAREZ GOMES DA SILVA",
+      "nomeUrna": "JUAREZ GOMES",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 202,
+      "percentual": 7.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002108535"
+    },
+    {
+      "nome": "VALDEMAR SALDANHA BRAGA NETO",
+      "nomeUrna": "GAGAU",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 171,
+      "percentual": 6.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002123434"
+    },
+    {
+      "nome": "LUIZ RAMALHO DE SOUSA",
+      "nomeUrna": "DEDE RAMALHO ",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 154,
+      "percentual": 5.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002109643"
+    },
+    {
+      "nome": "KELITON PEREIRA GUERRA",
+      "nomeUrna": "LENO GUERRA ",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 152,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002109647"
+    },
+    {
+      "nome": "MAXIMINO FRANCISCO DOS SANTOS",
+      "nomeUrna": "MAXIMINO",
+      "partido": "PSB",
+      "numero": "40666",
+      "votos": 137,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002108534"
+    },
+    {
+      "nome": "LEIDMAR ANA DE OLIVEIRA",
+      "nomeUrna": "LEIDMAR ANA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 121,
+      "percentual": 4.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002109648"
+    },
+    {
+      "nome": "DERCI NARDES GOMES",
+      "nomeUrna": "DERCI NARDES",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 120,
+      "percentual": 4.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002123436"
+    },
+    {
+      "nome": "VICENTE PEREIRA DO ROSÁRIO",
+      "nomeUrna": "VICENTE PESCADOR",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 110,
+      "percentual": 4.12,
+      "situacao": "Eleito por média",
+      "sqcand": "110002123439"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 641,
+      "percentual": 65.21,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 221,
+      "percentual": 22.48,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "KÁSSIO EDUARDO DA SILVA COELHO",
+      "nomeUrna": "KÁSSIO COELHO",
+      "partido": "PATRIOTA",
+      "numero": "510",
+      "votos": 105,
+      "percentual": 10.68,
+      "sqcand": "110001595899"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JUAREZ ALVES DA COSTA",
+      "nomeUrna": "JUAREZ COSTA",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 991,
+      "percentual": 45.58,
+      "sqcand": "110001623293"
+    },
+    {
+      "nome": "EMANUEL PINHEIRO DA SILVA PRIMO TEIXEIRA",
+      "nomeUrna": "EMANUELZINHO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 211,
+      "percentual": 9.71,
+      "sqcand": "110001623300"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 104,
+      "percentual": 4.78,
+      "sqcand": "110001675052"
+    },
+    {
+      "nome": "MAURO ROSA DA SILVA",
+      "nomeUrna": "MAURÃO",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 84,
+      "percentual": 3.86,
+      "sqcand": "110001643561"
+    },
+    {
+      "nome": "JULIANA ROSA DE SOUZA KOLANKIEWICZ",
+      "nomeUrna": "JULIANA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 84,
+      "percentual": 3.86,
+      "sqcand": "110001623298"
+    },
+    {
+      "nome": "LEONARDO RIBEIRO ALBUQUERQUE",
+      "nomeUrna": "DR LEONARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 82,
+      "percentual": 3.77,
+      "sqcand": "110001618183"
+    },
+    {
+      "nome": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+      "nomeUrna": "CORONEL FERNANDA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 57,
+      "percentual": 2.62,
+      "sqcand": "110001612764"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAX JOEL RUSSI",
+      "nomeUrna": "MAX RUSSI",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 816,
+      "percentual": 38.65,
+      "sqcand": "110001604916"
+    },
+    {
+      "nome": "PAULO ROBERTO ARAUJO",
+      "nomeUrna": "PAULO ARAUJO",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 198,
+      "percentual": 9.38,
+      "sqcand": "110001621200"
+    },
+    {
+      "nome": "ALBERTO MACHADO",
+      "nomeUrna": "BETO DOIS A UM",
+      "partido": "PSB",
+      "numero": "40321",
+      "votos": 128,
+      "percentual": 6.06,
+      "sqcand": "110001604930"
+    },
+    {
+      "nome": "ELIZEU FRANCISCO DO NASCIMENTO",
+      "nomeUrna": "ELIZEU NASCIMENTO",
+      "partido": "PL",
+      "numero": "22190",
+      "votos": 124,
+      "percentual": 5.87,
+      "sqcand": "110001620549"
+    },
+    {
+      "nome": "SATURNINO DUTRA CORREA",
+      "nomeUrna": "SATURNINO DUTRA",
+      "partido": "PTB",
+      "numero": "14601",
+      "votos": 90,
+      "percentual": 4.26,
+      "sqcand": "110001635698"
+    },
+    {
+      "nome": "JOSÉ JOAQUIM DE SOUZA FILHO",
+      "nomeUrna": "BAIANO FILHO",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 88,
+      "percentual": 4.17,
+      "sqcand": "110001612929"
+    },
+    {
+      "nome": "MOACIR COUTO FILHO",
+      "nomeUrna": "MOACIR COUTO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 81,
+      "percentual": 3.84,
+      "sqcand": "110001621199"
+    }
+  ]
+}

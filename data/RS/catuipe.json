@@ -1,0 +1,271 @@
+{
+  "populacao": 7667,
+  "votosValidos": 6785,
+  "abstencao": 9.96,
+  "prefeito": {
+    "nome": "PAULO ROBERTO DALLA CORTE",
+    "nomeUrna": "PAULINHO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3646,
+    "percentual": 53.74,
+    "situacao": "Eleito",
+    "sqcand": "210002159490",
+    "vice": "JAIR ETORE RIGOTTI",
+    "viceNomeUrna": "JAIR RIGOTTI",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "210002159491",
+    "coligacao": "PP / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "ADEMIR SEBASTIÃO BURMANN",
+      "nomeUrna": "ALEMÃO BURMANN",
+      "partido": "PDT",
+      "numero": "12630",
+      "votos": 637,
+      "percentual": 9.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219580"
+    },
+    {
+      "nome": "GIOVANI HENRIQUE RIETH",
+      "nomeUrna": "ENFERMEIRO GIOVANI RIETH",
+      "partido": "PP",
+      "numero": "11711",
+      "votos": 533,
+      "percentual": 7.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002156156"
+    },
+    {
+      "nome": "VILMAR FUCILINI",
+      "nomeUrna": "BAIXINHO",
+      "partido": "PDT",
+      "numero": "12200",
+      "votos": 487,
+      "percentual": 7.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219571"
+    },
+    {
+      "nome": "MARLON ALBERTO DALLA CORTE",
+      "nomeUrna": "MARLON DALLA CORTE",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 485,
+      "percentual": 7.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002156153"
+    },
+    {
+      "nome": "ARTHUR CARLOS MACHADO TREVISAN",
+      "nomeUrna": "ARTHUR TREVISAN",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 447,
+      "percentual": 6.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002156159"
+    },
+    {
+      "nome": "JOABEL ZIMMERMANN",
+      "nomeUrna": "JOABEL ZIMMERMANN",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 443,
+      "percentual": 6.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219573"
+    },
+    {
+      "nome": "WILSON RIBEIRO DA SILVEIRA",
+      "nomeUrna": "WILSON RIBEIRO DA SILVEIRA",
+      "partido": "PDT",
+      "numero": "12125",
+      "votos": 344,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219575"
+    },
+    {
+      "nome": "DIRCEU JOSÉ DARONCO",
+      "nomeUrna": "DARONCO",
+      "partido": "PDT",
+      "numero": "12100",
+      "votos": 327,
+      "percentual": 4.83,
+      "situacao": "Eleito por média",
+      "sqcand": "210002219574"
+    },
+    {
+      "nome": "LENI MARIA DUARTE CAUDURO",
+      "nomeUrna": "LENI DUARTE CAUDURO",
+      "partido": "REPUBLICANOS",
+      "numero": "10500",
+      "votos": 295,
+      "percentual": 4.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002162012"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2384,
+      "percentual": 44.37,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2178,
+      "percentual": 40.54,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 679,
+      "percentual": 12.64,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO AFONSO BURMANN",
+      "nomeUrna": "PROFESSOR PAULO BURMANN",
+      "partido": "PDT",
+      "numero": "1278",
+      "votos": 1426,
+      "percentual": 25.24,
+      "sqcand": "210001621250"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 925,
+      "percentual": 16.37,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 491,
+      "percentual": 8.69,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "UBIRATAN ANTUNES SANDERSON",
+      "nomeUrna": "SANDERSON",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 371,
+      "percentual": 6.57,
+      "sqcand": "210001648581"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 297,
+      "percentual": 5.26,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "CARLOS ALBERTO BENEDETTI",
+      "nomeUrna": "DR BENEDETTI",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 278,
+      "percentual": 4.92,
+      "sqcand": "210001601594"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 222,
+      "percentual": 3.93,
+      "sqcand": "210001604668"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 925,
+      "percentual": 17.11,
+      "sqcand": "210001621320"
+    },
+    {
+      "nome": "JORGE GILMAR AMARAL DE OLIVEIRA",
+      "nomeUrna": "DR JORGE AMARAL",
+      "partido": "PP",
+      "numero": "11440",
+      "votos": 818,
+      "percentual": 15.13,
+      "sqcand": "210001647195"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 626,
+      "percentual": 11.58,
+      "sqcand": "210001621326"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 356,
+      "percentual": 6.59,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "NIVIO BOELTER BRAZ",
+      "nomeUrna": "NIVIO BRAZ POLICIAL FEDERAL",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 277,
+      "percentual": 5.12,
+      "sqcand": "210001648949"
+    },
+    {
+      "nome": "ADALBERTO DE OLIVEIRA NORONHA",
+      "nomeUrna": "BETO NORONHA",
+      "partido": "PT",
+      "numero": "13313",
+      "votos": 259,
+      "percentual": 4.79,
+      "sqcand": "210001610592"
+    },
+    {
+      "nome": "LUANA DALLACORTE ROLIM DE MOURA",
+      "nomeUrna": "LUANA ROLIM DE MOURA",
+      "partido": "PP",
+      "numero": "11021",
+      "votos": 182,
+      "percentual": 3.37,
+      "sqcand": "210001647187"
+    }
+  ]
+}

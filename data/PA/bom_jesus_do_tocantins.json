@@ -1,0 +1,291 @@
+{
+  "populacao": 12864,
+  "votosValidos": 10542,
+  "abstencao": 15.76,
+  "prefeito": {
+    "nome": "JEILSON DOS REIS SANTOS",
+    "nomeUrna": "JEILSON REIS",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 6242,
+    "percentual": 59.21,
+    "situacao": "Eleito",
+    "sqcand": "140002008337",
+    "vice": "ANTONIO NANÔ DE FREITAS",
+    "viceNomeUrna": "NANÔ DA DISBEL",
+    "partidoVice": "MDB",
+    "sqcandVice": "140002008336",
+    "coligacao": "MDB / PSB / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LUCIANO SOARES CHEIM",
+      "nomeUrna": "LUCIANO CHEIM",
+      "partido": "CIDADANIA",
+      "numero": "23123",
+      "votos": 697,
+      "percentual": 6.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002244061"
+    },
+    {
+      "nome": "DANIEL AMARAL ARAÚJO",
+      "nomeUrna": "DANIEL DO SANTA MARIA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 622,
+      "percentual": 5.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002243919"
+    },
+    {
+      "nome": "ROGÉRIO BUSS",
+      "nomeUrna": "MIGUELÃO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 550,
+      "percentual": 5.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002154973"
+    },
+    {
+      "nome": "DORIVAN TARRACANA KARAJÁ",
+      "nomeUrna": "DORIVAN KARAJÁ",
+      "partido": "CIDADANIA",
+      "numero": "23222",
+      "votos": 545,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002244050"
+    },
+    {
+      "nome": "OTTOMÁ GONÇALVES DA SILVA",
+      "nomeUrna": "ENFERMEIRO OTTOMÁ",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 532,
+      "percentual": 5.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002037449"
+    },
+    {
+      "nome": "EUCIVAN DE SOUZA SARAIVA",
+      "nomeUrna": "FUTUCA DA SAÚDE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 516,
+      "percentual": 4.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002037447"
+    },
+    {
+      "nome": "ROSIVAN OLIVEIRA DA SILVA",
+      "nomeUrna": "ROSI PIONEIRO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 497,
+      "percentual": 4.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002037458"
+    },
+    {
+      "nome": "GILMAR RIBAS DOS SANTOS",
+      "nomeUrna": "BEGA",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 484,
+      "percentual": 4.57,
+      "situacao": "Eleito por média",
+      "sqcand": "140002243922"
+    },
+    {
+      "nome": "DORICO BUSS JUNIOR",
+      "nomeUrna": "JUNIOR BUSS",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 439,
+      "percentual": 4.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002154975"
+    },
+    {
+      "nome": "UESLEI LOPES DE SOUZA",
+      "nomeUrna": "DR UESLEI",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 421,
+      "percentual": 3.97,
+      "situacao": "Eleito por média",
+      "sqcand": "140002154969"
+    },
+    {
+      "nome": "REINALDO ALVES DA SILVA",
+      "nomeUrna": "CAMACÃ",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 347,
+      "percentual": 3.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002244053"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MANOEL CARLOS ANTUNES",
+      "nomeUrna": "PIONEIRO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 2970,
+      "percentual": 38.02,
+      "sqcand": "140001650188"
+    },
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2439,
+      "percentual": 31.22,
+      "sqcand": "140001611661"
+    },
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2272,
+      "percentual": 29.08,
+      "sqcand": "140001600249"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ELCIONE THEREZINHA ZAHLUTH BARBALHO",
+      "nomeUrna": "ELCIONE",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 2256,
+      "percentual": 27.69,
+      "sqcand": "140001621343"
+    },
+    {
+      "nome": "CELSO SABINO DE OLIVEIRA",
+      "nomeUrna": "CELSO SABINO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1905,
+      "percentual": 23.38,
+      "sqcand": "140001604547"
+    },
+    {
+      "nome": "AIRTON LUIZ FALEIRO",
+      "nomeUrna": "AIRTON FALEIRO",
+      "partido": "PT",
+      "numero": "1321",
+      "votos": 387,
+      "percentual": 4.75,
+      "sqcand": "140001620904"
+    },
+    {
+      "nome": "CÁSSIO COELHO ANDRADE",
+      "nomeUrna": "CÁSSIO ANDRADE",
+      "partido": "PSB",
+      "numero": "4011",
+      "votos": 363,
+      "percentual": 4.46,
+      "sqcand": "140001604460"
+    },
+    {
+      "nome": "EDER MAURO CARDOSO BARRA",
+      "nomeUrna": "DELEGADO EDER MAURO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 258,
+      "percentual": 3.17,
+      "sqcand": "140001598311"
+    },
+    {
+      "nome": "MAIAL PAIAKAN KAIAPÓ",
+      "nomeUrna": "MAIAL KAIAPÓ",
+      "partido": "REDE",
+      "numero": "1818",
+      "votos": 206,
+      "percentual": 2.53,
+      "sqcand": "140001650322"
+    },
+    {
+      "nome": "LENILDO MENDES DOS SANTOS SERTÃO",
+      "nomeUrna": "DELEGADO CAVEIRA",
+      "partido": "PL",
+      "numero": "2217",
+      "votos": 199,
+      "percentual": 2.44,
+      "sqcand": "140001598314"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARNALDO FERREIRA ROCHA",
+      "nomeUrna": "ARNALDO ROCHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 4123,
+      "percentual": 52.83,
+      "sqcand": "140001601504"
+    },
+    {
+      "nome": "DIRCEU TEN CATEN PIES",
+      "nomeUrna": "DIRCEU TEN CATEN",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 559,
+      "percentual": 7.16,
+      "sqcand": "140001676608"
+    },
+    {
+      "nome": "FABIO DE MELO FIGUEIRAS",
+      "nomeUrna": "FÁBIO FIGUEIRAS",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 277,
+      "percentual": 3.55,
+      "sqcand": "140001611039"
+    },
+    {
+      "nome": "ANTONIO CARLOS CUNHA SÁ",
+      "nomeUrna": "DELEGADO TONI CUNHA",
+      "partido": "PSC",
+      "numero": "20000",
+      "votos": 270,
+      "percentual": 3.46,
+      "sqcand": "140001600261"
+    },
+    {
+      "nome": "JAQUES DA SILVA NEVES",
+      "nomeUrna": "DR JAQUES",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 210,
+      "percentual": 2.69,
+      "sqcand": "140001611698"
+    },
+    {
+      "nome": "WENDERSON AZEVEDO CHAMON",
+      "nomeUrna": "CHAMONZINHO",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 210,
+      "percentual": 2.69,
+      "sqcand": "140001676888"
+    },
+    {
+      "nome": "FERNANDO HENRIQUE PEREIRA DA SILVA",
+      "nomeUrna": "FERNANDO HENRIQUE",
+      "partido": "PSC",
+      "numero": "20120",
+      "votos": 188,
+      "percentual": 2.41,
+      "sqcand": "140001600273"
+    }
+  ]
+}

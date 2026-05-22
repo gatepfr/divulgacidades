@@ -1,0 +1,271 @@
+{
+  "populacao": 1945,
+  "votosValidos": 1724,
+  "abstencao": 9.87,
+  "prefeito": {
+    "nome": "ALEX ROCHA PIMENTEL",
+    "nomeUrna": "ALEX PIMENTEL",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 882,
+    "percentual": 51.16,
+    "situacao": "Eleito",
+    "sqcand": "250002326086",
+    "vice": "JANE CRISTINA ZAMBON DA SILVA",
+    "viceNomeUrna": "JANE DO BAXIM",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "250002391964",
+    "coligacao": "REPUBLICANOS / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LAUVIR DE SOUZA SANTOS",
+      "nomeUrna": "LAUVIR",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 193,
+      "percentual": 11.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002173462"
+    },
+    {
+      "nome": "MARCELO APARECIDO CAMILO DA SILVA",
+      "nomeUrna": "MARCELO DO SAPO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 175,
+      "percentual": 10.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002316054"
+    },
+    {
+      "nome": "FRANCISCA DE FÁTIMA MURCIA YAMADA",
+      "nomeUrna": "CHICA DO KOITI",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 145,
+      "percentual": 8.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002173312"
+    },
+    {
+      "nome": "JONATAS MOREIRA DA SILVA",
+      "nomeUrna": "NATINHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 144,
+      "percentual": 8.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002316055"
+    },
+    {
+      "nome": "ROBERTA FARIA DA SILVA",
+      "nomeUrna": "ROBERTA DO JONAS",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 119,
+      "percentual": 7.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002173458"
+    },
+    {
+      "nome": "EDNA DIAS BESERRA DA SILVA",
+      "nomeUrna": "EDNA DIAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10005",
+      "votos": 111,
+      "percentual": 6.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002395294"
+    },
+    {
+      "nome": "SANDRO MOREIRA DIAS",
+      "nomeUrna": "SANDRINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10001",
+      "votos": 103,
+      "percentual": 6.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002316057"
+    },
+    {
+      "nome": "APARECIDO CANDIDO DA SILVA",
+      "nomeUrna": "HOLIUDE",
+      "partido": "PP",
+      "numero": "11345",
+      "votos": 97,
+      "percentual": 5.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002173317"
+    },
+    {
+      "nome": "JOVELINO BORGES DE BARROS",
+      "nomeUrna": "JOVELINO",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 67,
+      "percentual": 3.94,
+      "situacao": "Eleito por média",
+      "sqcand": "250002173460"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 638,
+      "percentual": 53.84,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 438,
+      "percentual": 36.96,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 92,
+      "percentual": 7.76,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCOS ANTONIO PEREIRA",
+      "nomeUrna": "MARCOS PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 267,
+      "percentual": 21.11,
+      "sqcand": "250001611863"
+    },
+    {
+      "nome": "FAUSTO RUY PINATO",
+      "nomeUrna": "FAUSTO PINATO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 177,
+      "percentual": 13.99,
+      "sqcand": "250001611957"
+    },
+    {
+      "nome": "ALEX SPINELLI MANENTE",
+      "nomeUrna": "ALEX MANENTE",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 100,
+      "percentual": 7.91,
+      "sqcand": "250001612129"
+    },
+    {
+      "nome": "VICENTE PAULO DA SILVA",
+      "nomeUrna": "VICENTINHO",
+      "partido": "PT",
+      "numero": "1390",
+      "votos": 84,
+      "percentual": 6.64,
+      "sqcand": "250001610646"
+    },
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 67,
+      "percentual": 5.3,
+      "sqcand": "250001612091"
+    },
+    {
+      "nome": "MARCELO HERCOLIN",
+      "nomeUrna": "MARCELO HERCOLIN",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 48,
+      "percentual": 3.79,
+      "sqcand": "250001653330"
+    },
+    {
+      "nome": "PAULO PEREIRA DA SILVA",
+      "nomeUrna": "PAULINHO DA FORÇA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 46,
+      "percentual": 3.64,
+      "sqcand": "250001606095"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "THIAGO REIS AURICCHIO",
+      "nomeUrna": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "numero": "22343",
+      "votos": 261,
+      "percentual": 21.82,
+      "sqcand": "250001610134"
+    },
+    {
+      "nome": "HELENA DOS SANTOS REIS",
+      "nomeUrna": "CORONEL HELENA",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 243,
+      "percentual": 20.32,
+      "sqcand": "250001639593"
+    },
+    {
+      "nome": "CARLOS EDUARDO PIGNATARI",
+      "nomeUrna": "CARLÃO PIGNATARI",
+      "partido": "PSDB",
+      "numero": "45232",
+      "votos": 140,
+      "percentual": 11.71,
+      "sqcand": "250001611488"
+    },
+    {
+      "nome": "PAULO ROBERTO FIORILO",
+      "nomeUrna": "PAULO FIORILO",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 72,
+      "percentual": 6.02,
+      "sqcand": "250001611759"
+    },
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 62,
+      "percentual": 5.18,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "ALEXANDRE PEREIRA DA SILVA",
+      "nomeUrna": "ALEXANDRE PEREIRA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 59,
+      "percentual": 4.93,
+      "sqcand": "250001606262"
+    },
+    {
+      "nome": "ROGERIO NOGUEIRA LOPES CRUZ",
+      "nomeUrna": "ROGÉRIO NOGUEIRA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 37,
+      "percentual": 3.09,
+      "sqcand": "250001611431"
+    }
+  ]
+}

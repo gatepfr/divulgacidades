@@ -1,0 +1,271 @@
+{
+  "populacao": 6663,
+  "votosValidos": 5484,
+  "abstencao": 14.17,
+  "prefeito": {
+    "nome": "CEZAR BUENO DE MELO",
+    "nomeUrna": "CEZAR",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3789,
+    "percentual": 69.09,
+    "situacao": "Eleito",
+    "sqcand": "160002215062",
+    "vice": "LUCILEI DE FÁTIMA LOPES",
+    "viceNomeUrna": "LUCINHA",
+    "partidoVice": "MDB",
+    "sqcandVice": "160002215063",
+    "coligacao": "REPUBLICANOS / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "FRANCISCO ASSIS LOPES",
+      "nomeUrna": "CHICÃO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 465,
+      "percentual": 8.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002216872"
+    },
+    {
+      "nome": "EDVALDO VITO RIBEIRO",
+      "nomeUrna": "EDVALDO DO BARRO PRETO",
+      "partido": "MDB",
+      "numero": "15151",
+      "votos": 361,
+      "percentual": 6.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002216875"
+    },
+    {
+      "nome": "ARI APARECIDO ROMANOSK",
+      "nomeUrna": "ARI ROMANOSK",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 291,
+      "percentual": 5.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002219554"
+    },
+    {
+      "nome": "GILBERTO ALEXANDRE NOGUEIRA",
+      "nomeUrna": "BETINHO DO ELSES",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 289,
+      "percentual": 5.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002219559"
+    },
+    {
+      "nome": "SABRINA PEREIRA DO PRADO",
+      "nomeUrna": "SABRINA FARIAS",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 283,
+      "percentual": 5.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002204611"
+    },
+    {
+      "nome": "EDIVALDO INOCÊNCIO NOGUEIRA",
+      "nomeUrna": "EDIVALDO PINGO",
+      "partido": "MDB",
+      "numero": "15415",
+      "votos": 267,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002216873"
+    },
+    {
+      "nome": "SIDNEI LOPES ALMEIDA",
+      "nomeUrna": "NEI CASCÃO",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 260,
+      "percentual": 4.69,
+      "situacao": "Eleito por média",
+      "sqcand": "160002204613"
+    },
+    {
+      "nome": "LAERCIO BONINI",
+      "nomeUrna": "MANÉ DO SAPÉ",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 253,
+      "percentual": 4.56,
+      "situacao": "Eleito por média",
+      "sqcand": "160002216877"
+    },
+    {
+      "nome": "ADALBERTO SANCHES DA SILVA",
+      "nomeUrna": "BETAO",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 232,
+      "percentual": 4.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002204301"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1635,
+      "percentual": 37.58,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1053,
+      "percentual": 24.2,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1020,
+      "percentual": 23.44,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1022,
+      "percentual": 22.39,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 667,
+      "percentual": 14.61,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 415,
+      "percentual": 9.09,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "DIEGO ALEXSANDER GONÇALO PAULA GARCIA",
+      "nomeUrna": "DIEGO GARCIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 387,
+      "percentual": 8.48,
+      "sqcand": "160001654834"
+    },
+    {
+      "nome": "NEWTON BONIN",
+      "nomeUrna": "NEWTON BONIN",
+      "partido": "UNIÃO",
+      "numero": "4456",
+      "votos": 328,
+      "percentual": 7.19,
+      "sqcand": "160001654658"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 248,
+      "percentual": 5.43,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 140,
+      "percentual": 3.07,
+      "sqcand": "160001614525"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 1633,
+      "percentual": 37.45,
+      "sqcand": "160001614823"
+    },
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 506,
+      "percentual": 11.61,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "NELSON ROBERTO PLACIDO SILVA JUSTUS",
+      "nomeUrna": "NELSON JUSTUS",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 501,
+      "percentual": 11.49,
+      "sqcand": "160001716017"
+    },
+    {
+      "nome": "DONIZETI LEMES DA SILVA",
+      "nomeUrna": "CAPITÃO LEMES",
+      "partido": "UNIÃO",
+      "numero": "44001",
+      "votos": 274,
+      "percentual": 6.28,
+      "sqcand": "160001716032"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 265,
+      "percentual": 6.08,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "MAURO RAFAEL MORAES E SILVA",
+      "nomeUrna": "MAURO MORAES",
+      "partido": "UNIÃO",
+      "numero": "44655",
+      "votos": 146,
+      "percentual": 3.35,
+      "sqcand": "160001716038"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 145,
+      "percentual": 3.33,
+      "sqcand": "160001615032"
+    }
+  ]
+}

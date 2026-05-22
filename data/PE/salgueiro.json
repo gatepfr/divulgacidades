@@ -1,0 +1,331 @@
+{
+  "populacao": 42873,
+  "votosValidos": 33940,
+  "abstencao": 17.49,
+  "prefeito": {
+    "nome": "FÁBIO LISANDRO DE LIMA BARROS",
+    "nomeUrna": "FABINHO",
+    "partido": "PRD",
+    "numero": "25",
+    "votos": 19829,
+    "percentual": 58.42,
+    "situacao": "Eleito",
+    "sqcand": "170001920971",
+    "vice": "EMMANUEL GUEDES FILGUEIRA SAMPAIO",
+    "viceNomeUrna": "EMMANUEL SAMPAIO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "170001920972",
+    "coligacao": "REPUBLICANOS / PDT / PODE / PRD / UNIÃO / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIA EDUARDA MAGALHÃES MARQUES LIMA",
+      "nomeUrna": "EDUARDA SAMPAIO",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 1804,
+      "percentual": 5.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001921203"
+    },
+    {
+      "nome": "FRANCLÉCIO LEANDRO BARROS DE SÁ PARENTE",
+      "nomeUrna": "LÉO PARENTE",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 1216,
+      "percentual": 3.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001921063"
+    },
+    {
+      "nome": "AGAEUDES SAMPAIO GONDIM",
+      "nomeUrna": "PROFESSOR AGAEUDES",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1160,
+      "percentual": 3.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001921200"
+    },
+    {
+      "nome": "DOMINGOS SÁVIO PIRES DE CARVALHO E SÁ",
+      "nomeUrna": "SÁVIO PIRES",
+      "partido": "PRD",
+      "numero": "25600",
+      "votos": 1142,
+      "percentual": 3.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001921056"
+    },
+    {
+      "nome": "JOSÉ CARLOS DE CARVALHO PARENTE",
+      "nomeUrna": "ZÉ CARLOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10001",
+      "votos": 1135,
+      "percentual": 3.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001921197"
+    },
+    {
+      "nome": "ESMAEL NICOLAU DA CRUZ",
+      "nomeUrna": "MAEL DO DIVINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 1077,
+      "percentual": 3.17,
+      "situacao": "Eleito por média",
+      "sqcand": "170001921198"
+    },
+    {
+      "nome": "MARIA ELIANE ALVES DA CRUZ",
+      "nomeUrna": "ELIANE ALVES",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 1073,
+      "percentual": 3.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001936436"
+    },
+    {
+      "nome": "JOSÉ HENRIQUE DE LIMA LEAL SAMPAIO ANGELIM",
+      "nomeUrna": "HENRIQUE LEAL SAMPAIO",
+      "partido": "PSD",
+      "numero": "55321",
+      "votos": 956,
+      "percentual": 2.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001921135"
+    },
+    {
+      "nome": "VERONALDO GONCALVES RIBEIRO",
+      "nomeUrna": "VERONALDO GONÇALVES",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 876,
+      "percentual": 2.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001936445"
+    },
+    {
+      "nome": "MARIANO BARROS DE OLIVEIRA E SÁ",
+      "nomeUrna": "MARIANO BARROS",
+      "partido": "PSB",
+      "numero": "40140",
+      "votos": 854,
+      "percentual": 2.51,
+      "situacao": "Eleito por média",
+      "sqcand": "170001936447"
+    },
+    {
+      "nome": "UBALDO CECÍLIO DOS ANJOS NETO",
+      "nomeUrna": "BALDIN",
+      "partido": "PRD",
+      "numero": "25222",
+      "votos": 811,
+      "percentual": 2.39,
+      "situacao": "Eleito por média",
+      "sqcand": "170001921050"
+    },
+    {
+      "nome": "MARIA DA PAZ SOARES FREIRE PATRIOTA",
+      "nomeUrna": "PAIZINHA PATRIOTA",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 783,
+      "percentual": 2.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001921142"
+    },
+    {
+      "nome": "TIAGO ARRAES SAMPAIO",
+      "nomeUrna": "TIAGO ARRAES",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 747,
+      "percentual": 2.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001935551"
+    },
+    {
+      "nome": "LINDOMAR DE SOUZA ROCHA",
+      "nomeUrna": "PITEL",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 681,
+      "percentual": 2.0,
+      "situacao": "Eleito por média",
+      "sqcand": "170001935548"
+    },
+    {
+      "nome": "CLEBER GONÇALVES FREITAS DOS SANTOS",
+      "nomeUrna": "CLEBER FREITAS",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 586,
+      "percentual": 1.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001978215"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 13703,
+      "percentual": 51.14,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 5170,
+      "percentual": 19.3,
+      "sqcand": "170001610248"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4891,
+      "percentual": 18.25,
+      "sqcand": "170001604083"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ GONZAGA PATRIOTA",
+      "nomeUrna": "GONZAGA PATRIOTA",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 6893,
+      "percentual": 23.46,
+      "sqcand": "170001619895"
+    },
+    {
+      "nome": "PEDRO HENRIQUE DE ANDRADE LIMA CARNEIRO CAMPOS",
+      "nomeUrna": "PEDRO CAMPOS",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 5097,
+      "percentual": 17.35,
+      "sqcand": "170001619899"
+    },
+    {
+      "nome": "MARIA LEAL ARRAES DE ALENCAR",
+      "nomeUrna": "MARIA ARRAES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7713",
+      "votos": 2480,
+      "percentual": 8.44,
+      "sqcand": "170001610574"
+    },
+    {
+      "nome": "AUGUSTO RODRIGUES COUTINHO DE MELO",
+      "nomeUrna": "AUGUSTO COUTINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 1493,
+      "percentual": 5.08,
+      "sqcand": "170001595454"
+    },
+    {
+      "nome": "EUGÊNIO PACELLI DE ARAÚJO SÁ",
+      "nomeUrna": "DR. EUGÊNIO SÁ",
+      "partido": "NOVO",
+      "numero": "3003",
+      "votos": 1244,
+      "percentual": 4.23,
+      "sqcand": "170001596605"
+    },
+    {
+      "nome": "JOSÉ MENDONÇA BEZERRA FILHO",
+      "nomeUrna": "MENDONÇA FILHO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 1239,
+      "percentual": 4.22,
+      "sqcand": "170001609111"
+    },
+    {
+      "nome": "FERNANDO RODOLFO TENÓRIO DE VASCONCELOS",
+      "nomeUrna": "FERNANDO RODOLFO",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 1160,
+      "percentual": 3.95,
+      "sqcand": "170001609086"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FABIO LISANDRO DE LIMA BARROS",
+      "nomeUrna": "FABINHO",
+      "partido": "PATRIOTA",
+      "numero": "51000",
+      "votos": 11087,
+      "percentual": 39.12,
+      "sqcand": "170001609852"
+    },
+    {
+      "nome": "MARIA ELIANE ALVES DA CRUZ",
+      "nomeUrna": "ELIANE ALVES",
+      "partido": "PSB",
+      "numero": "40013",
+      "votos": 7298,
+      "percentual": 25.75,
+      "sqcand": "170001620368"
+    },
+    {
+      "nome": "MARCIO NEMEDIO NOGUEIRA ALVES",
+      "nomeUrna": "NEMÉDIO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77713",
+      "votos": 1178,
+      "percentual": 4.16,
+      "sqcand": "170001610747"
+    },
+    {
+      "nome": "JOSÉ ROBERTO SANTOS DE MOURA ACCIOLY",
+      "nomeUrna": "BETO ACCIOLY",
+      "partido": "PATRIOTA",
+      "numero": "51651",
+      "votos": 603,
+      "percentual": 2.13,
+      "sqcand": "170001609859"
+    },
+    {
+      "nome": "KAIO CESAR DE MOURA MANIÇOBA NOVAES FERRAZ",
+      "nomeUrna": "KAIO MANIÇOBA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 559,
+      "percentual": 1.97,
+      "sqcand": "170001618737"
+    },
+    {
+      "nome": "DORIEL SATURNINO DE BARROS",
+      "nomeUrna": "DORIEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 471,
+      "percentual": 1.66,
+      "sqcand": "170001608977"
+    },
+    {
+      "nome": "PAULO JOSE DA SILVA JUNIOR",
+      "nomeUrna": "JÚNIOR DELIVERY",
+      "partido": "PMN",
+      "numero": "33123",
+      "votos": 406,
+      "percentual": 1.43,
+      "sqcand": "170001718141"
+    }
+  ]
+}

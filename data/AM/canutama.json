@@ -1,0 +1,291 @@
+{
+  "populacao": 10860,
+  "votosValidos": 8853,
+  "abstencao": 16.68,
+  "prefeito": {
+    "nome": "JOSÉ ROBERTO TORRES DE PONTES",
+    "nomeUrna": "ZÉ ROBERTO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 6816,
+    "percentual": 76.99,
+    "situacao": "Eleito",
+    "sqcand": "40002299310",
+    "vice": "RAIMUNDO CARLOS CORDEIRO DE MENEZES",
+    "viceNomeUrna": "CARLOS MENEZES",
+    "partidoVice": "PSD",
+    "sqcandVice": "40002299311",
+    "coligacao": "UNIÃO / PSD / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSÉ LUÍS TORRES DE PONTES",
+      "nomeUrna": "ZÉ LUÍS",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 983,
+      "percentual": 11.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002299419"
+    },
+    {
+      "nome": "JOSÉ BENTES TEIXEIRA",
+      "nomeUrna": "TEIXEIRINHA DA MARIA",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 735,
+      "percentual": 8.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002299362"
+    },
+    {
+      "nome": "CATIANNE ALVES DE SOUZA PRADO",
+      "nomeUrna": "CATIANNE ALVES",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 467,
+      "percentual": 5.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002299355"
+    },
+    {
+      "nome": "VALTEMAR DE FREITAS OLIVEIRA",
+      "nomeUrna": "VALTEMAR",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 462,
+      "percentual": 5.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002299055"
+    },
+    {
+      "nome": "JOÉLIA DA SILVA ALMEIDA",
+      "nomeUrna": "JOÉLIA ALMEIDA",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 413,
+      "percentual": 4.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002299061"
+    },
+    {
+      "nome": "LEONARDO ALVES DE SOUZA",
+      "nomeUrna": "LEONARDO ALVES",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 405,
+      "percentual": 4.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002299425"
+    },
+    {
+      "nome": "MARLETE NUNES BRANDÃO",
+      "nomeUrna": "MARLETE BRANDÃO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 397,
+      "percentual": 4.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002299363"
+    },
+    {
+      "nome": "FRANCISCO DAS CHAGAS GOMES DE OLIVEIRA",
+      "nomeUrna": "CHAGA ABACABA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 385,
+      "percentual": 4.34,
+      "situacao": "Eleito por média",
+      "sqcand": "40002299052"
+    },
+    {
+      "nome": "OZIEL DE SOUZA NASCIMENTO",
+      "nomeUrna": "OZIEL NASCIMENTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 372,
+      "percentual": 4.19,
+      "situacao": "Eleito por média",
+      "sqcand": "40002299421"
+    },
+    {
+      "nome": "JOSÉ BENEDITO CASTRO JACINTO",
+      "nomeUrna": "ZÉ PELADO",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 335,
+      "percentual": 3.77,
+      "situacao": "Eleito por média",
+      "sqcand": "40002188567"
+    },
+    {
+      "nome": "LEILSON TORRES DE FIGUEIREDO",
+      "nomeUrna": "LÉO DA SAÚDE",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 329,
+      "percentual": 3.71,
+      "situacao": "Eleito por média",
+      "sqcand": "40002299358"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OMAR JOSÉ ABDEL AZIZ",
+      "nomeUrna": "OMAR AZIZ",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 3673,
+      "percentual": 56.67,
+      "sqcand": "40001618514"
+    },
+    {
+      "nome": "ALFREDO ALEXANDRE DE MENEZES JUNIOR",
+      "nomeUrna": "CORONEL MENEZES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1202,
+      "percentual": 18.55,
+      "sqcand": "40001643710"
+    },
+    {
+      "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+      "nomeUrna": "ARTHUR NETO",
+      "partido": "PSDB",
+      "numero": "451",
+      "votos": 823,
+      "percentual": 12.7,
+      "sqcand": "40001650568"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SILAS CÂMARA",
+      "nomeUrna": "SILAS CÂMARA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 2733,
+      "percentual": 41.39,
+      "sqcand": "40001609377"
+    },
+    {
+      "nome": "FAUSTO VIEIRA DOS SANTOS JÚNIOR",
+      "nomeUrna": "FAUSTO SANTOS JR",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 960,
+      "percentual": 14.54,
+      "sqcand": "40001618451"
+    },
+    {
+      "nome": "ADAIL JOSÉ FIGUEIREDO PINHEIRO",
+      "nomeUrna": "ADAIL FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 740,
+      "percentual": 11.21,
+      "sqcand": "40001609376"
+    },
+    {
+      "nome": "ALFREDO PEREIRA DO NASCIMENTO",
+      "nomeUrna": "ALFREDO NASCIMENTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 468,
+      "percentual": 7.09,
+      "sqcand": "40001612950"
+    },
+    {
+      "nome": "PABLO OLIVA SOUZA",
+      "nomeUrna": "DELEGADO PABLO",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 429,
+      "percentual": 6.5,
+      "sqcand": "40001618448"
+    },
+    {
+      "nome": "SAULLO VELAME VIANNA",
+      "nomeUrna": "SAULLO VIANNA",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 343,
+      "percentual": 5.19,
+      "sqcand": "40001618446"
+    },
+    {
+      "nome": "ATILA SIDNEY LINS DE ALBUQUERQUE",
+      "nomeUrna": "ATILA LINS",
+      "partido": "PSD",
+      "numero": "5525",
+      "votos": 319,
+      "percentual": 4.83,
+      "sqcand": "40001609233"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADJUTO RODRIGUES AFONSO",
+      "nomeUrna": "ADJUTO AFONSO",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 2421,
+      "percentual": 37.65,
+      "sqcand": "40001618467"
+    },
+    {
+      "nome": "MAYARA MONIQUE FIGUEIREDO PINHEIRO REIS",
+      "nomeUrna": "DRA MAYARA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 686,
+      "percentual": 10.67,
+      "sqcand": "40001609310"
+    },
+    {
+      "nome": "GEORGE AUGUSTO MONTEIRO LINS DE ALBUQUERQUE",
+      "nomeUrna": "DR GEORGE LINS",
+      "partido": "UNIÃO",
+      "numero": "44666",
+      "votos": 540,
+      "percentual": 8.4,
+      "sqcand": "40001618475"
+    },
+    {
+      "nome": "ROBERTO MAIA CIDADE FILHO",
+      "nomeUrna": "ROBERTO CIDADE",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 411,
+      "percentual": 6.39,
+      "sqcand": "40001618472"
+    },
+    {
+      "nome": "JOELSON SALES SILVA",
+      "nomeUrna": "JOELSON SILVA",
+      "partido": "PATRIOTA",
+      "numero": "51051",
+      "votos": 411,
+      "percentual": 6.39,
+      "sqcand": "40001620697"
+    },
+    {
+      "nome": "DERMILSON CARVALHO DAS CHAGAS",
+      "nomeUrna": "DERMILSON CHAGAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 275,
+      "percentual": 4.28,
+      "sqcand": "40001609314"
+    },
+    {
+      "nome": "JOAO WELLINGTON DE MEDEIROS CURSINO",
+      "nomeUrna": "TONY MEDEIROS",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 210,
+      "percentual": 3.27,
+      "sqcand": "40001633344"
+    }
+  ]
+}

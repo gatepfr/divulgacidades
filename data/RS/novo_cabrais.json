@@ -1,0 +1,271 @@
+{
+  "populacao": 3869,
+  "votosValidos": 3326,
+  "abstencao": 12.17,
+  "prefeito": {
+    "nome": "LEODEGAR RODRIGUES",
+    "nomeUrna": "LEODEGAR RODRIGUES",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 1471,
+    "percentual": 44.23,
+    "situacao": "Eleito",
+    "sqcand": "210002196478",
+    "vice": "MAIQUEL ANDRIEL SECKLER BUTZKE",
+    "viceNomeUrna": "MAIQUEL BUTZKE",
+    "partidoVice": "PODE",
+    "sqcandVice": "210002196477",
+    "coligacao": "PC do B / PT / PV / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "CAMILA THAÍS FRITZ",
+      "nomeUrna": "CAMILA",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 298,
+      "percentual": 8.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002184052"
+    },
+    {
+      "nome": "MOISES CERENTINI",
+      "nomeUrna": "MOISES CERENTINI",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 208,
+      "percentual": 6.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002229188"
+    },
+    {
+      "nome": "GIANA FABRICIA LOPES DE CASTRO",
+      "nomeUrna": "HEBI DA SAÚDE",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 204,
+      "percentual": 6.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002220014"
+    },
+    {
+      "nome": "VALERIO ENZO LAWALL",
+      "nomeUrna": "VALERIO LAWALL",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 181,
+      "percentual": 5.43,
+      "situacao": "Eleito por média",
+      "sqcand": "210002229190"
+    },
+    {
+      "nome": "VALNEI RIOS",
+      "nomeUrna": "VALNEI RIOS",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 163,
+      "percentual": 4.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002184049"
+    },
+    {
+      "nome": "VILNEI DE LACERDA",
+      "nomeUrna": "VILNEI LACERDA",
+      "partido": "PT",
+      "numero": "13213",
+      "votos": 162,
+      "percentual": 4.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002372960"
+    },
+    {
+      "nome": "ANGELA GELSDORF DUMKE",
+      "nomeUrna": "ANGELA DUMKE",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 150,
+      "percentual": 4.5,
+      "situacao": "Eleito por média",
+      "sqcand": "210002220017"
+    },
+    {
+      "nome": "EDUARDA DA SILVA MENEZES",
+      "nomeUrna": "EDUARDA MENEZES",
+      "partido": "PDT",
+      "numero": "12999",
+      "votos": 148,
+      "percentual": 4.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002181271"
+    },
+    {
+      "nome": "ALVARO LUIZ SCHEFFEL",
+      "nomeUrna": "TITO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 133,
+      "percentual": 3.99,
+      "situacao": "Eleito por média",
+      "sqcand": "210002181275"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1046,
+      "percentual": 40.57,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 977,
+      "percentual": 37.9,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 527,
+      "percentual": 20.44,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 493,
+      "percentual": 17.8,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "MARLON ARATOR SANTOS DA ROSA",
+      "nomeUrna": "MARLON SANTOS",
+      "partido": "PL",
+      "numero": "2234",
+      "votos": 438,
+      "percentual": 15.81,
+      "sqcand": "210001648574"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 259,
+      "percentual": 9.35,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 212,
+      "percentual": 7.65,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "MARCOS BRUM PEIXOTO",
+      "nomeUrna": "MARCOS PEIXOTO",
+      "partido": "PP",
+      "numero": "1145",
+      "votos": 212,
+      "percentual": 7.65,
+      "sqcand": "210001646677"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 124,
+      "percentual": 4.48,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 107,
+      "percentual": 3.86,
+      "sqcand": "210001647870"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADOLFO JOSÉ BRITO",
+      "nomeUrna": "ADOLFO BRITO",
+      "partido": "PP",
+      "numero": "11240",
+      "votos": 514,
+      "percentual": 19.13,
+      "sqcand": "210001647147"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 306,
+      "percentual": 11.39,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "ANTONIO VALDECI OLIVEIRA DE OLIVEIRA",
+      "nomeUrna": "VALDECI OLIVEIRA",
+      "partido": "PT",
+      "numero": "13713",
+      "votos": 201,
+      "percentual": 7.48,
+      "sqcand": "210001610599"
+    },
+    {
+      "nome": "LUIZ FERNANDO MAINARDI",
+      "nomeUrna": "MAINARDI",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 135,
+      "percentual": 5.02,
+      "sqcand": "210001610629"
+    },
+    {
+      "nome": "CLAUDIO GILNEI TATSCH",
+      "nomeUrna": "CLAUDIO TATSCH",
+      "partido": "PL",
+      "numero": "22034",
+      "votos": 131,
+      "percentual": 4.88,
+      "sqcand": "210001648963"
+    },
+    {
+      "nome": "ROBERTO FANTINEL",
+      "nomeUrna": "BETO FANTINEL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 123,
+      "percentual": 4.58,
+      "sqcand": "210001648003"
+    },
+    {
+      "nome": "CELSO KRAMER",
+      "nomeUrna": "CELSO KRAMER",
+      "partido": "PODE",
+      "numero": "19234",
+      "votos": 117,
+      "percentual": 4.35,
+      "sqcand": "210001596144"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 14813,
+  "votosValidos": 11961,
+  "abstencao": 15.8,
+  "prefeito": {
+    "nome": "NERI CARLOS BUENO CHICATTO",
+    "nomeUrna": "NERI",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 5766,
+    "percentual": 48.21,
+    "situacao": "Eleito",
+    "sqcand": "210001906122",
+    "vice": "JULIANO BORGES PERES",
+    "viceNomeUrna": "JULIANO BORGES",
+    "partidoVice": "PP",
+    "sqcandVice": "210001906121",
+    "coligacao": "PP"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCIA REJANE SCHERER",
+      "nomeUrna": "MARCIA REJANE SCHERER",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 958,
+      "percentual": 8.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001906124"
+    },
+    {
+      "nome": "VAGNER ADALBERTO SURKAMPF",
+      "nomeUrna": "VAGNER SURKAMPF",
+      "partido": "PP",
+      "numero": "11611",
+      "votos": 928,
+      "percentual": 7.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001906131"
+    },
+    {
+      "nome": "NELSON BAUER",
+      "nomeUrna": "ALEMÃO DO BANHADO",
+      "partido": "MDB",
+      "numero": "15612",
+      "votos": 914,
+      "percentual": 7.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002232836"
+    },
+    {
+      "nome": "OSEIAS DA CRUZ OLIVEIRA",
+      "nomeUrna": "OSEIAS OLIVEIRA",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 765,
+      "percentual": 6.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001906123"
+    },
+    {
+      "nome": "EVANDRO FONSECA DA CRUZ",
+      "nomeUrna": "EVANDRO CORVO",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 730,
+      "percentual": 6.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001995473"
+    },
+    {
+      "nome": "ROBINSON ANDREI BERTUOL",
+      "nomeUrna": "PASTOR ROBINSON",
+      "partido": "PP",
+      "numero": "11200",
+      "votos": 728,
+      "percentual": 6.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001906129"
+    },
+    {
+      "nome": "ADRIANO FERREIRA",
+      "nomeUrna": "ADRIANO PIPOCA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 679,
+      "percentual": 5.78,
+      "situacao": "Eleito por média",
+      "sqcand": "210001906126"
+    },
+    {
+      "nome": "JAQUES ENULCE SCALCON",
+      "nomeUrna": "JAQUES  SCALCON",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 620,
+      "percentual": 5.28,
+      "situacao": "Eleito por média",
+      "sqcand": "210001995477"
+    },
+    {
+      "nome": "SIDNEI FOSS DA CRUZ",
+      "nomeUrna": "SIDNEI CRUZ PIPOCA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 463,
+      "percentual": 3.94,
+      "situacao": "Eleito por média",
+      "sqcand": "210002232834"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 5084,
+      "percentual": 48.61,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 3551,
+      "percentual": 33.95,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1629,
+      "percentual": 15.58,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DALCISO EBERHARDT DE OLIVEIRA",
+      "nomeUrna": "DALCISO OLIVEIRA",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 1452,
+      "percentual": 13.52,
+      "sqcand": "210001597001"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 1174,
+      "percentual": 10.93,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 610,
+      "percentual": 5.68,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "PEDRO SOARES DE OLIVEIRA",
+      "nomeUrna": "PEDRO DE OLIVEIRA",
+      "partido": "PTB",
+      "numero": "1411",
+      "votos": 603,
+      "percentual": 5.62,
+      "sqcand": "210001649223"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 531,
+      "percentual": 4.95,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 465,
+      "percentual": 4.33,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 418,
+      "percentual": 3.89,
+      "sqcand": "210001647867"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOEL LEANDRO WILHELM",
+      "nomeUrna": "JOEL DE IGREJINHA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1704,
+      "percentual": 16.42,
+      "sqcand": "210001647191"
+    },
+    {
+      "nome": "PAULO ROBERTO DA SILVA",
+      "nomeUrna": "PAULO OPUSDEI",
+      "partido": "PSC",
+      "numero": "20222",
+      "votos": 798,
+      "percentual": 7.69,
+      "sqcand": "210001605741"
+    },
+    {
+      "nome": "ISSUR ISRAEL KOCH",
+      "nomeUrna": "PROFESSOR ISSUR",
+      "partido": "PP",
+      "numero": "11012",
+      "votos": 665,
+      "percentual": 6.41,
+      "sqcand": "210001647171"
+    },
+    {
+      "nome": "TAÍS REGINA PLUTA",
+      "nomeUrna": "TAÍS ITALY",
+      "partido": "PSDB",
+      "numero": "45945",
+      "votos": 486,
+      "percentual": 4.68,
+      "sqcand": "210001729063"
+    },
+    {
+      "nome": "JEFFERSON ALLAN MULLER",
+      "nomeUrna": "JEFF MULLER",
+      "partido": "PSB",
+      "numero": "40400",
+      "votos": 411,
+      "percentual": 3.96,
+      "sqcand": "210001602901"
+    },
+    {
+      "nome": "NAASOM LUCIANO DA ROCHA",
+      "nomeUrna": " NAASOM LUCIANO",
+      "partido": "PSDB",
+      "numero": "45610",
+      "votos": 351,
+      "percentual": 3.38,
+      "sqcand": "210001620190"
+    },
+    {
+      "nome": "RITA DE CASSIA DELLA GIUSTINA DE OLIVEIRA",
+      "nomeUrna": "PROFESSORA RITA DELLA GIUSTINA",
+      "partido": "PT",
+      "numero": "13213",
+      "votos": 309,
+      "percentual": 2.98,
+      "sqcand": "210001610586"
+    }
+  ]
+}

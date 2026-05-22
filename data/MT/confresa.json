@@ -1,0 +1,291 @@
+{
+  "populacao": 23987,
+  "votosValidos": 17804,
+  "abstencao": 23.86,
+  "prefeito": {
+    "nome": "RICARDO ALOISIO BABINSKI",
+    "nomeUrna": "RICARDO BABINKSI",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 8272,
+    "percentual": 46.46,
+    "situacao": "Eleito",
+    "sqcand": "110002243150",
+    "vice": "MOADIL BRAZ PEREIRA FILHO",
+    "viceNomeUrna": "MOADIL FERNANDO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "110002243151",
+    "coligacao": "MDB / REPUBLICANOS / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "HAMILTON GONÇALVES DE OLIVEIRA NETO",
+      "nomeUrna": "PROFESSOR HAMILTON",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 630,
+      "percentual": 3.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002243547"
+    },
+    {
+      "nome": "GEANCARLOS FRANCISCO GUIMARÃES",
+      "nomeUrna": "GEANCARLOS",
+      "partido": "UNIÃO",
+      "numero": "44611",
+      "votos": 614,
+      "percentual": 3.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002330265"
+    },
+    {
+      "nome": "MARCELO SILVA DE SOUZA",
+      "nomeUrna": "MARCELINHO",
+      "partido": "PSB",
+      "numero": "40777",
+      "votos": 584,
+      "percentual": 3.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002036391"
+    },
+    {
+      "nome": "OUDONELIO SILVA SENA",
+      "nomeUrna": "MACHIM DA OBRA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 575,
+      "percentual": 3.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002329891"
+    },
+    {
+      "nome": "CICERO DARCI MAGALHAES",
+      "nomeUrna": "PROFESSOR CICERO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 561,
+      "percentual": 3.19,
+      "situacao": "Eleito por média",
+      "sqcand": "110002330264"
+    },
+    {
+      "nome": "CLEUNICE ROSA DE OLIVEIRA GOMES",
+      "nomeUrna": "CLEUNICE AGENTE DE SAUDE",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 478,
+      "percentual": 2.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002282897"
+    },
+    {
+      "nome": "MARLI LIMA FERREIRA MARTINS",
+      "nomeUrna": "MARLI LIMA",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 477,
+      "percentual": 2.72,
+      "situacao": "Eleito por média",
+      "sqcand": "110002243538"
+    },
+    {
+      "nome": "EDERSON DA CUNHA",
+      "nomeUrna": "EDERSON DA CUNHA",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 465,
+      "percentual": 2.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002329892"
+    },
+    {
+      "nome": "RODRIGO BARROS MILHOMEM",
+      "nomeUrna": "RODRIGO MILHOMEM",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 445,
+      "percentual": 2.53,
+      "situacao": "Eleito por média",
+      "sqcand": "110002329898"
+    },
+    {
+      "nome": "ELTON MESSIAS DA SILVA",
+      "nomeUrna": "ELTON DA SAÚDE",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 444,
+      "percentual": 2.53,
+      "situacao": "Eleito por média",
+      "sqcand": "110002329894"
+    },
+    {
+      "nome": "JOSE ALDEIR DA SILVA MEDEIROS",
+      "nomeUrna": "ALDEIR",
+      "partido": "PSD",
+      "numero": "55500",
+      "votos": 386,
+      "percentual": 2.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002359124"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 7497,
+      "percentual": 69.24,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 2576,
+      "percentual": 23.79,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "KÁSSIO EDUARDO DA SILVA COELHO",
+      "nomeUrna": "KÁSSIO COELHO",
+      "partido": "PATRIOTA",
+      "numero": "510",
+      "votos": 599,
+      "percentual": 5.53,
+      "sqcand": "110001595899"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FÁBIO PAULINO GARCIA",
+      "nomeUrna": "FÁBIO GARCIA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 2172,
+      "percentual": 14.94,
+      "sqcand": "110001612770"
+    },
+    {
+      "nome": "GILMAR DONIZETE FABRIS",
+      "nomeUrna": "GILMAR FABRIS",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1753,
+      "percentual": 12.06,
+      "sqcand": "110001643560"
+    },
+    {
+      "nome": "ERNANDO CARDOSO",
+      "nomeUrna": "ERNANDO CARDOSO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 1368,
+      "percentual": 9.41,
+      "sqcand": "110001618188"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 1341,
+      "percentual": 9.22,
+      "sqcand": "110001675052"
+    },
+    {
+      "nome": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+      "nomeUrna": "CORONEL FERNANDA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1171,
+      "percentual": 8.05,
+      "sqcand": "110001612764"
+    },
+    {
+      "nome": "NELSON NED PREVIDENTE",
+      "nomeUrna": "NELSON BARBUDO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 798,
+      "percentual": 5.49,
+      "sqcand": "110001612759"
+    },
+    {
+      "nome": "VICTORIO GALLI FILHO",
+      "nomeUrna": "VICTÓRIO GALLI",
+      "partido": "PTB",
+      "numero": "1422",
+      "votos": 676,
+      "percentual": 4.65,
+      "sqcand": "110001618201"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GASPAR DOMINGOS LAZARI",
+      "nomeUrna": "GASPAR",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 5163,
+      "percentual": 35.79,
+      "sqcand": "110001643421"
+    },
+    {
+      "nome": "ONDANIR BORTOLINI",
+      "nomeUrna": "NININHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 1804,
+      "percentual": 12.51,
+      "sqcand": "110001643417"
+    },
+    {
+      "nome": "JOSÉ JOAQUIM DE SOUZA FILHO",
+      "nomeUrna": "BAIANO FILHO",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 1799,
+      "percentual": 12.47,
+      "sqcand": "110001612929"
+    },
+    {
+      "nome": "CLAUDIO FERREIRA DE SOUZA",
+      "nomeUrna": "CLAUDIO FERREIRA",
+      "partido": "PTB",
+      "numero": "14100",
+      "votos": 582,
+      "percentual": 4.03,
+      "sqcand": "110001635705"
+    },
+    {
+      "nome": "VALDIR MENDES BARRANCO",
+      "nomeUrna": "VALDIR BARRANCO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 450,
+      "percentual": 3.12,
+      "sqcand": "110001719771"
+    },
+    {
+      "nome": "JANAÍNA GREYCE RIVA FAGUNDES",
+      "nomeUrna": "JANAÍNA RIVA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 409,
+      "percentual": 2.84,
+      "sqcand": "110001623186"
+    },
+    {
+      "nome": "GILBERTO GOMES DE FIGUEIREDO",
+      "nomeUrna": "GILBERTO FIGUEIREDO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 405,
+      "percentual": 2.81,
+      "sqcand": "110001612938"
+    }
+  ]
+}

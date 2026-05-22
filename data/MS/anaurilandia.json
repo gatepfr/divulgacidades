@@ -1,0 +1,271 @@
+{
+  "populacao": 6341,
+  "votosValidos": 5255,
+  "abstencao": 15.38,
+  "prefeito": {
+    "nome": "RAFAEL GUSMAO HAMAMOTO",
+    "nomeUrna": "PROFESSOR RAFAEL",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2739,
+    "percentual": 52.12,
+    "situacao": "Eleito",
+    "sqcand": "120001990750",
+    "vice": "GUILHERME GOMES ZANDONADI",
+    "viceNomeUrna": "GUILHERME GOMES ZANDONADI",
+    "partidoVice": "PODE",
+    "sqcandVice": "120001990749",
+    "coligacao": "REPUBLICANOS / PP / MDB / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "ADRIANO GONÇALVES DA SILVA",
+      "nomeUrna": "ADRIANO DA EDUCAÇÃO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 346,
+      "percentual": 6.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002030957"
+    },
+    {
+      "nome": "CELSO ALVES DOS SANTOS",
+      "nomeUrna": "CELSINHO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 257,
+      "percentual": 4.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001990431"
+    },
+    {
+      "nome": "DANILO ALVES BASTOS",
+      "nomeUrna": "DANILO DO QUEBRACHO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 233,
+      "percentual": 4.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001970625"
+    },
+    {
+      "nome": "JESSICA DOS SANTOS PEREIRA",
+      "nomeUrna": "JESSICA SANTOS",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 228,
+      "percentual": 4.33,
+      "situacao": "Eleito por média",
+      "sqcand": "120001970622"
+    },
+    {
+      "nome": "LEONARDO DE JESUS GODOY PLATERO",
+      "nomeUrna": "LEONARDO PLATERO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 221,
+      "percentual": 4.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002065218"
+    },
+    {
+      "nome": "DAIANE SOUZA OLIVEIRA PRADO",
+      "nomeUrna": "DAIANE TACCA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 216,
+      "percentual": 4.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002065219"
+    },
+    {
+      "nome": "MARIA APARECIDA FERREIRA DA SILVA",
+      "nomeUrna": "MARA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 191,
+      "percentual": 3.63,
+      "situacao": "Eleito por média",
+      "sqcand": "120001990429"
+    },
+    {
+      "nome": "RONEI ADRIANO PARDINI",
+      "nomeUrna": "RONEI PARDINI",
+      "partido": "REPUBLICANOS",
+      "numero": "10091",
+      "votos": 184,
+      "percentual": 3.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001977916"
+    },
+    {
+      "nome": "EDMAR RODRIGUES DE LIMA",
+      "nomeUrna": "EDMAR CHAPÉU FURADO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 143,
+      "percentual": 2.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002066371"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2993,
+      "percentual": 70.41,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 532,
+      "percentual": 12.51,
+      "sqcand": "120001609096"
+    },
+    {
+      "nome": "TIAGO RESENDE BOTELHO",
+      "nomeUrna": "PROFESSOR TIAGO BOTELHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 372,
+      "percentual": 8.75,
+      "sqcand": "120001652251"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nomeUrna": "DR. GERALDO RESENDE",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 954,
+      "percentual": 22.04,
+      "sqcand": "120001612324"
+    },
+    {
+      "nome": "WALTER BENEDITO CARNEIRO JUNIOR",
+      "nomeUrna": "WALTER CARNEIRO JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 348,
+      "percentual": 8.04,
+      "sqcand": "120001645938"
+    },
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 335,
+      "percentual": 7.74,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "APARECIDO CARLOS BERNARDO",
+      "nomeUrna": "CARLOS BERNARDO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 282,
+      "percentual": 6.52,
+      "sqcand": "120001636652"
+    },
+    {
+      "nome": "SINDOLEY LUIZ DE SOUZA MORAIS",
+      "nomeUrna": "SINDOLEY MORAIS",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 268,
+      "percentual": 6.19,
+      "sqcand": "120001609244"
+    },
+    {
+      "nome": "DIONE MARLY GANDOLFO HASHIOKA",
+      "nomeUrna": "DIONE HASHIOKA",
+      "partido": "PODE",
+      "numero": "1988",
+      "votos": 236,
+      "percentual": 5.45,
+      "sqcand": "120001613513"
+    },
+    {
+      "nome": "WALDEMIR MOKA MIRANDA DE BRITTO",
+      "nomeUrna": "MOKA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 219,
+      "percentual": 5.06,
+      "sqcand": "120001636657"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PEDRO ARLEI CARAVINA",
+      "nomeUrna": "CARAVINA",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 979,
+      "percentual": 23.11,
+      "sqcand": "120001613609"
+    },
+    {
+      "nome": "LONDRES MACHADO",
+      "nomeUrna": "LONDRES MACHADO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 582,
+      "percentual": 13.74,
+      "sqcand": "120001645383"
+    },
+    {
+      "nome": "JAMILSON LOPES NAME",
+      "nomeUrna": "JAMILSON NAME",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 426,
+      "percentual": 10.05,
+      "sqcand": "120001613597"
+    },
+    {
+      "nome": "MARA ELISA NAVACCHI CASEIRO",
+      "nomeUrna": "MARA CASEIRO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 357,
+      "percentual": 8.43,
+      "sqcand": "120001613592"
+    },
+    {
+      "nome": "GERSON CLARO DINO",
+      "nomeUrna": "GERSON CLARO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 301,
+      "percentual": 7.1,
+      "sqcand": "120001645377"
+    },
+    {
+      "nome": "RENATO PIERETTI CÂMARA",
+      "nomeUrna": "RENATO CÂMARA",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 286,
+      "percentual": 6.75,
+      "sqcand": "120001643171"
+    },
+    {
+      "nome": "AMARILDO VALDO DA CRUZ",
+      "nomeUrna": "AMARILDO CRUZ",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 198,
+      "percentual": 4.67,
+      "sqcand": "120001652330"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 10885,
+  "votosValidos": 9252,
+  "abstencao": 12.89,
+  "prefeito": {
+    "nome": "EUSTAQUIO SAMPAIO",
+    "nomeUrna": "EUSTAQUIO SAMPAIO",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 4912,
+    "percentual": 53.09,
+    "situacao": "Eleito",
+    "sqcand": "100002213478",
+    "vice": "MAXWELL DE CARVALHO OLIVEIRA",
+    "viceNomeUrna": "MAXWELL OLIVEIRA",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "100002213479",
+    "coligacao": "PC do B / PT / PV / PSB / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "JOÃO MARIA SANTOS SOUSA JÚNIOR",
+      "nomeUrna": "JÚNIOR KATITU",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 726,
+      "percentual": 7.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002300224"
+    },
+    {
+      "nome": "VALMIR SILVA LIMA",
+      "nomeUrna": "VALMIR DA SOL BRILHANTE",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 711,
+      "percentual": 7.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002300228"
+    },
+    {
+      "nome": "KELMITON GUALBERTO FREITAS",
+      "nomeUrna": "TETEI",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 678,
+      "percentual": 7.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002334333"
+    },
+    {
+      "nome": "FRANCISCA SILVA",
+      "nomeUrna": "CHICA PRETA",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 596,
+      "percentual": 6.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002334335"
+    },
+    {
+      "nome": "ENOC DA SILVA TEIXEIRA",
+      "nomeUrna": "ENOC NETO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 582,
+      "percentual": 6.24,
+      "situacao": "Eleito por média",
+      "sqcand": "100002334331"
+    },
+    {
+      "nome": "RIVELINO DA CONCEICAO SILVA",
+      "nomeUrna": "RIVELINO DA CACAMBA",
+      "partido": "PV",
+      "numero": "43123",
+      "votos": 523,
+      "percentual": 5.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002282030"
+    },
+    {
+      "nome": "CLEILDON SILVA RIBEIRO",
+      "nomeUrna": "PIÇARRA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 345,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002279739"
+    },
+    {
+      "nome": "RICARDO BRITO DE SÁ",
+      "nomeUrna": "RICARDO BRITO",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 307,
+      "percentual": 3.29,
+      "situacao": "Eleito por média",
+      "sqcand": "100002279742"
+    },
+    {
+      "nome": "ESEQUIAS VIEIRA DO NASCIMENTO",
+      "nomeUrna": "EZEQUIAS VIEIRA",
+      "partido": "PV",
+      "numero": "43000",
+      "votos": 212,
+      "percentual": 2.27,
+      "situacao": "Eleito por média",
+      "sqcand": "100002282029"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 5063,
+      "percentual": 64.97,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 2683,
+      "percentual": 34.43,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 27,
+      "percentual": 0.35,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANDRÉ LUIZ CARVALHO RIBEIRO",
+      "nomeUrna": "ANDRÉ FUFUCA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1442,
+      "percentual": 17.85,
+      "sqcand": "100001608075"
+    },
+    {
+      "nome": "BENJAMIM DE OLIVEIRA",
+      "nomeUrna": "DR BENJAMIM",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 1297,
+      "percentual": 16.05,
+      "sqcand": "100001610552"
+    },
+    {
+      "nome": "TACILLA MARIANA CARVALHO SILVA",
+      "nomeUrna": "MARIANA CARVALHO",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 865,
+      "percentual": 10.71,
+      "sqcand": "100001615471"
+    },
+    {
+      "nome": "RUBENS PEREIRA E SILVA JUNIOR",
+      "nomeUrna": "RUBENS PEREIRA JR",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 747,
+      "percentual": 9.25,
+      "sqcand": "100001613704"
+    },
+    {
+      "nome": "JOSIVALDO DOS SANTOS MELO",
+      "nomeUrna": "JOSIVALDO JP",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 558,
+      "percentual": 6.91,
+      "sqcand": "100001602275"
+    },
+    {
+      "nome": "JOSÉ CARLOS NUNES JÚNIOR",
+      "nomeUrna": "ZÉ CARLOS",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 438,
+      "percentual": 5.42,
+      "sqcand": "100001613717"
+    },
+    {
+      "nome": "HILDO AUGUSTO DA ROCHA NETO",
+      "nomeUrna": "HILDO ROCHA",
+      "partido": "MDB",
+      "numero": "1516",
+      "votos": 432,
+      "percentual": 5.35,
+      "sqcand": "100001599078"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "WEYKLEN COELHO TEIXEIRA",
+      "nomeUrna": "KEKE TEIXEIRA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 3194,
+      "percentual": 40.9,
+      "sqcand": "100001606605"
+    },
+    {
+      "nome": "RAIMUNDO SOARES CUTRIM",
+      "nomeUrna": "RAIMUNDO CUTRIM",
+      "partido": "PODE",
+      "numero": "19678",
+      "votos": 1010,
+      "percentual": 12.93,
+      "sqcand": "100001614807"
+    },
+    {
+      "nome": "FRANCISCO NAGIB BUZAR DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO NAGIB",
+      "partido": "PSB",
+      "numero": "40400",
+      "votos": 822,
+      "percentual": 10.52,
+      "sqcand": "100001607085"
+    },
+    {
+      "nome": "WELLRYK OLIVEIRA COSTA DA SILVA",
+      "nomeUrna": "ERIC COSTA",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 528,
+      "percentual": 6.76,
+      "sqcand": "100001607118"
+    },
+    {
+      "nome": "ANTONIO PEREIRA FILHO",
+      "nomeUrna": "ANTÔNIO PEREIRA",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 197,
+      "percentual": 2.52,
+      "sqcand": "100001607063"
+    },
+    {
+      "nome": "ROSÂNGELA MARIA PEREIRA VIDAL OLIVEIRA",
+      "nomeUrna": "ROSÂNGELA VIDAL",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 182,
+      "percentual": 2.33,
+      "sqcand": "100001603176"
+    },
+    {
+      "nome": "JOSÉ INACIO SODRÉ RODRIGUES",
+      "nomeUrna": "ZÉ INACIO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 169,
+      "percentual": 2.16,
+      "sqcand": "100001613748"
+    }
+  ]
+}

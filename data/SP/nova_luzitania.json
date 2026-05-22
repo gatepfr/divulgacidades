@@ -1,0 +1,271 @@
+{
+  "populacao": 2748,
+  "votosValidos": 2345,
+  "abstencao": 12.08,
+  "prefeito": {
+    "nome": "MIGUEL JOSÉ ARAÚJO JUNIOR",
+    "nomeUrna": "PATINHO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1342,
+    "percentual": 57.23,
+    "situacao": "Eleito",
+    "sqcand": "250002231642",
+    "vice": "LUCIMAR DE CARVALHO",
+    "viceNomeUrna": "LUCIMAR",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002231643",
+    "coligacao": "PSD / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MATHEUS HENRIQUE SANTANA",
+      "nomeUrna": "MATHEUS SANTANA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 238,
+      "percentual": 10.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002231501"
+    },
+    {
+      "nome": "ANDERSON FABIANO AMENTA",
+      "nomeUrna": "BEXIGA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 214,
+      "percentual": 9.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002046669"
+    },
+    {
+      "nome": "ANTÔNIO SEBASTIÃO FROEZ GOMES DOS SANTOS",
+      "nomeUrna": "FROEZ",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 132,
+      "percentual": 5.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002231513"
+    },
+    {
+      "nome": "EDSON LUIS BARTOLOMEU",
+      "nomeUrna": "EDSON DO ZITO",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 122,
+      "percentual": 5.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002231514"
+    },
+    {
+      "nome": "IONE SOUZA NASCIMENTO SANTIAGO",
+      "nomeUrna": "IONE SANTIAGO",
+      "partido": "PSDB",
+      "numero": "45235",
+      "votos": 121,
+      "percentual": 5.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002129494"
+    },
+    {
+      "nome": "ANDRÉ VERISSIMO DA SILVA",
+      "nomeUrna": "ANDRÉ VERISSIMO",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 96,
+      "percentual": 4.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002231502"
+    },
+    {
+      "nome": "CÉLIO ROBERTO CORDEIRO",
+      "nomeUrna": "CÉLIO CORDEIRO CECÊ",
+      "partido": "PSD",
+      "numero": "55234",
+      "votos": 94,
+      "percentual": 4.05,
+      "situacao": "Eleito por média",
+      "sqcand": "250002231511"
+    },
+    {
+      "nome": "MIGUEL ALVES DA SILVA",
+      "nomeUrna": "MIGUEL FAUSTÃO",
+      "partido": "UNIÃO",
+      "numero": "44100",
+      "votos": 84,
+      "percentual": 3.62,
+      "situacao": "Eleito por média",
+      "sqcand": "250002046671"
+    },
+    {
+      "nome": "WAGNER SEBASTIÃO DA SILVA",
+      "nomeUrna": "WAGNER",
+      "partido": "PSDB",
+      "numero": "45670",
+      "votos": 81,
+      "percentual": 3.49,
+      "situacao": "Eleito por média",
+      "sqcand": "250002129497"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 654,
+      "percentual": 34.92,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 644,
+      "percentual": 34.38,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 541,
+      "percentual": 28.88,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MANOEL MAURICIO SILVA NEVES",
+      "nomeUrna": "MAURICIO NEVES",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 194,
+      "percentual": 9.91,
+      "sqcand": "250001611990"
+    },
+    {
+      "nome": "FAUSTO RUY PINATO",
+      "nomeUrna": "FAUSTO PINATO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 191,
+      "percentual": 9.76,
+      "sqcand": "250001611957"
+    },
+    {
+      "nome": "ARLINDO CHIGNALIA JUNIOR",
+      "nomeUrna": "ARLINDO CHINAGLIA",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 167,
+      "percentual": 8.53,
+      "sqcand": "250001610712"
+    },
+    {
+      "nome": "MARCELO HERCOLIN",
+      "nomeUrna": "MARCELO HERCOLIN",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 111,
+      "percentual": 5.67,
+      "sqcand": "250001653330"
+    },
+    {
+      "nome": "JEFFERSON ALVES DE CAMPOS",
+      "nomeUrna": "JEFFERSON CAMPOS",
+      "partido": "PL",
+      "numero": "2274",
+      "votos": 81,
+      "percentual": 4.14,
+      "sqcand": "250001611329"
+    },
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 79,
+      "percentual": 4.04,
+      "sqcand": "250001611345"
+    },
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 76,
+      "percentual": 3.88,
+      "sqcand": "250001612091"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DEOMERCE DE SOUZA DAMASCENO",
+      "nomeUrna": "DEOMERCE DAMASCENO",
+      "partido": "UNIÃO",
+      "numero": "44018",
+      "votos": 383,
+      "percentual": 20.23,
+      "sqcand": "250001602176"
+    },
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 218,
+      "percentual": 11.52,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "CARLOS EDUARDO PIGNATARI",
+      "nomeUrna": "CARLÃO PIGNATARI",
+      "partido": "PSDB",
+      "numero": "45232",
+      "votos": 210,
+      "percentual": 11.09,
+      "sqcand": "250001611488"
+    },
+    {
+      "nome": "JEFERSON MODESTO SILVA",
+      "nomeUrna": "JEFERSON MODESTO JÉ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 161,
+      "percentual": 8.51,
+      "sqcand": "250001612312"
+    },
+    {
+      "nome": "ANA LUCIA LIPPAUS PERUGINI",
+      "nomeUrna": "ANA PERUGINI",
+      "partido": "PT",
+      "numero": "13121",
+      "votos": 118,
+      "percentual": 6.23,
+      "sqcand": "250001611809"
+    },
+    {
+      "nome": "ANALICE FERNANDES",
+      "nomeUrna": "ANALICE FERNANDES",
+      "partido": "PSDB",
+      "numero": "45400",
+      "votos": 111,
+      "percentual": 5.86,
+      "sqcand": "250001611452"
+    },
+    {
+      "nome": "ROQUE BARBIERE",
+      "nomeUrna": "ROQUE BARBIERE ROQUINHO",
+      "partido": "AVANTE",
+      "numero": "70160",
+      "votos": 83,
+      "percentual": 4.38,
+      "sqcand": "250001621713"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "populacao": 22637,
+  "votosValidos": 17831,
+  "abstencao": 18.62,
+  "prefeito": {
+    "nome": "JOSIVALDO DE SOUZA",
+    "nomeUrna": "VADO GAVIÃO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 9597,
+    "percentual": 53.82,
+    "situacao": "Eleito",
+    "sqcand": "260002058131",
+    "vice": "JOÃO TORRES MACHADO",
+    "viceNomeUrna": "JOÃO GRILO",
+    "partidoVice": "PT",
+    "sqcandVice": "260002058130",
+    "coligacao": "UNIÃO / AVANTE / PC do B / PT / PV / PODE / PSB / MOBILIZA"
+  },
+  "vereadores": [
+    {
+      "nome": "CALVET ALVES COSTA",
+      "nomeUrna": "CARRO VEIO DE ALCINO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 1529,
+      "percentual": 8.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002031666"
+    },
+    {
+      "nome": "LAURA ANDRADE LAURINDO SANTOS",
+      "nomeUrna": "LAURA DE LUIZ ALBERTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 1311,
+      "percentual": 7.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002288716"
+    },
+    {
+      "nome": "ROMARIO BATISTA DO NASCIMENTO",
+      "nomeUrna": "ROMARIO DO ÓLEO",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 1133,
+      "percentual": 6.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002235381"
+    },
+    {
+      "nome": "LEONES DE LIMA GOMES",
+      "nomeUrna": "LÉO DE SITIOS NOVOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10800",
+      "votos": 1068,
+      "percentual": 6.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002288718"
+    },
+    {
+      "nome": "WEVERTON JOSE VIEIRA DE OLIVEIRA",
+      "nomeUrna": "WEVERTON FILHO DE WILSON",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 1064,
+      "percentual": 6.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002288719"
+    },
+    {
+      "nome": "JOSÉ ROGERIO DO NASCIMENTO",
+      "nomeUrna": "PROFESSOR ROGERIO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1039,
+      "percentual": 5.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002288712"
+    },
+    {
+      "nome": "ARLINGTON FEITOSA GOMES",
+      "nomeUrna": "ARLINGTON FEITOSA",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 953,
+      "percentual": 5.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002288720"
+    },
+    {
+      "nome": "CLEOMENES INÁCIO DO NASCIMENTO",
+      "nomeUrna": "CLEONES DE VICENTE",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 806,
+      "percentual": 4.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002031676"
+    },
+    {
+      "nome": "ELIZÂNIA CARDOZO DOS SANTOS TORQUATO",
+      "nomeUrna": "ELIZÂNIA CARDOZO",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 772,
+      "percentual": 4.37,
+      "situacao": "Eleito por média",
+      "sqcand": "260002288710"
+    },
+    {
+      "nome": "MANOEL MESSIAS MILITÃO",
+      "nomeUrna": "MESSIAS DE MANECA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 758,
+      "percentual": 4.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002017473"
+    },
+    {
+      "nome": "GENIVALDO VIEIRA DA COSTA",
+      "nomeUrna": "LOURO DO ÔNIBUS",
+      "partido": "UNIÃO",
+      "numero": "44422",
+      "votos": 742,
+      "percentual": 4.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002031674"
+    },
+    {
+      "nome": "VAGNO ALVES BATISTA",
+      "nomeUrna": "KAKINHA DE JOÃO BATISTA",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 679,
+      "percentual": 3.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002235382"
+    },
+    {
+      "nome": "JOSÉ SANDRO SILVA SANTOS",
+      "nomeUrna": "SANDRO DE ZEFA DA GUIA",
+      "partido": "PODE",
+      "numero": "20111",
+      "votos": 671,
+      "percentual": 3.8,
+      "situacao": "Eleito por média",
+      "sqcand": "260002017462"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO CARLOS VALADARES FILHO",
+      "nomeUrna": "VALADARES FILHO",
+      "partido": "PSB",
+      "numero": "404",
+      "votos": 4709,
+      "percentual": 33.57,
+      "sqcand": "260001666588"
+    },
+    {
+      "nome": "EDUARDO ALVES DO AMORIM",
+      "nomeUrna": "DR. EDUARDO AMORIM",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3964,
+      "percentual": 28.26,
+      "sqcand": "260001693738"
+    },
+    {
+      "nome": "LAERCIO JOSE DE OLIVEIRA",
+      "nomeUrna": "LAÉRCIO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 3615,
+      "percentual": 25.77,
+      "sqcand": "260001635426"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "YANDRA BARRETO FERREIRA",
+      "nomeUrna": "YANDRA DE ANDRÉ",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 2737,
+      "percentual": 18.38,
+      "sqcand": "260001728384"
+    },
+    {
+      "nome": "JOAO SOMARIVA DANIEL",
+      "nomeUrna": "JOAO DANIEL",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 2344,
+      "percentual": 15.74,
+      "sqcand": "260001667975"
+    },
+    {
+      "nome": "JOSE HELENO DA SILVA",
+      "nomeUrna": "HELENO SILVA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 2302,
+      "percentual": 15.46,
+      "sqcand": "260001618175"
+    },
+    {
+      "nome": "LUIZ AUGUSTO CARVALHO RIBEIRO FILHO",
+      "nomeUrna": "GUSTINHO RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 1890,
+      "percentual": 12.69,
+      "sqcand": "260001618176"
+    },
+    {
+      "nome": "ICARO BARBOSA COSTA",
+      "nomeUrna": "ICARO DE VALMIR",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 863,
+      "percentual": 5.8,
+      "sqcand": "260001737580"
+    },
+    {
+      "nome": "JOÃO BOSCO DA COSTA",
+      "nomeUrna": "BOSCO COSTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 621,
+      "percentual": 4.17,
+      "sqcand": "260001713566"
+    },
+    {
+      "nome": "KATARINA FEITOZA LIMA SANTANA",
+      "nomeUrna": "DELEGADA KATARINA",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 543,
+      "percentual": 3.65,
+      "sqcand": "260001619667"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MANOEL FABIO DOS SANTOS CHAGAS",
+      "nomeUrna": "FABIO DE DR JUNIOR CHAGAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 5502,
+      "percentual": 37.88,
+      "sqcand": "260001618236"
+    },
+    {
+      "nome": "CHRISTIANO ROGÉRIO RÊGO CAVALCANTE",
+      "nomeUrna": "CRISTIANO CAVALCANTE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 1370,
+      "percentual": 9.43,
+      "sqcand": "260001646915"
+    },
+    {
+      "nome": "FRANCISCO CARLOS NOGUEIRA NASCIMENTO",
+      "nomeUrna": "CHICO DO CORREIO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 1085,
+      "percentual": 7.47,
+      "sqcand": "260001668323"
+    },
+    {
+      "nome": "ADAILTON MARTINS DE OLIVEIRA FILHO",
+      "nomeUrna": "ADAILTON MARTINS",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 884,
+      "percentual": 6.09,
+      "sqcand": "260001636403"
+    },
+    {
+      "nome": "LUIZ GARIBALDE RABELO DE MENDONÇA",
+      "nomeUrna": "GARIBALDE",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 789,
+      "percentual": 5.43,
+      "sqcand": "260001669431"
+    },
+    {
+      "nome": "LIDIANE CECILIA AZEVEDO CARVALHO LUCENA",
+      "nomeUrna": "DRA LIDIANE LUCENA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 643,
+      "percentual": 4.43,
+      "sqcand": "260001618235"
+    },
+    {
+      "nome": "JORGE ARAUJO FILHO",
+      "nomeUrna": "JORGINHO ARAUJO",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 585,
+      "percentual": 4.03,
+      "sqcand": "260001636408"
+    }
+  ]
+}

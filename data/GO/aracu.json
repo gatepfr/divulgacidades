@@ -1,0 +1,271 @@
+{
+  "populacao": 4326,
+  "votosValidos": 3707,
+  "abstencao": 11.74,
+  "prefeito": {
+    "nome": "MILTON LEMES DE PAULA",
+    "nomeUrna": "MILTON",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 2375,
+    "percentual": 64.07,
+    "situacao": "Eleito",
+    "sqcand": "90002015797",
+    "vice": "GUSTAVO FERRARI PALMEIRA",
+    "viceNomeUrna": "DR. GUSTAVO",
+    "partidoVice": "MDB",
+    "sqcandVice": "90002015798",
+    "coligacao": "PP / MDB / PODE / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "DAVID BARBOSA FERREIRA",
+      "nomeUrna": "DAVID BARBOSA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 280,
+      "percentual": 7.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002016697"
+    },
+    {
+      "nome": "EURÍPEDES BATISTA MACHADO",
+      "nomeUrna": "MAGAL",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 252,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001972355"
+    },
+    {
+      "nome": "NELMA LAILA MOURA DIAS GOMIDES",
+      "nomeUrna": "LAILA MOURA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 244,
+      "percentual": 6.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001972353"
+    },
+    {
+      "nome": "VALQUIMAR ANTONIO MARTINS",
+      "nomeUrna": "VALQUIMAR",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 213,
+      "percentual": 5.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002016699"
+    },
+    {
+      "nome": "CRISTYANE LARA PAZ",
+      "nomeUrna": "CRISTYANE CARDOSO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 208,
+      "percentual": 5.57,
+      "situacao": "Eleito por média",
+      "sqcand": "90001972357"
+    },
+    {
+      "nome": "ALINE GUIMARAES DIAS REZENDE",
+      "nomeUrna": "ALINE DO BODIM",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 170,
+      "percentual": 4.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001943570"
+    },
+    {
+      "nome": "AGNALDO FILHO FARIA PIRES",
+      "nomeUrna": "AGNALDIM PIRES",
+      "partido": "PP",
+      "numero": "11122",
+      "votos": 162,
+      "percentual": 4.34,
+      "situacao": "Eleito por média",
+      "sqcand": "90002016703"
+    },
+    {
+      "nome": "FRANCISCO ELIEZIO DA SILVA",
+      "nomeUrna": "MANÉ PIRES",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 157,
+      "percentual": 4.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001943571"
+    },
+    {
+      "nome": "ARTUR GUILHERME FERNANDES DUARTE",
+      "nomeUrna": "ARTUR FOGUETIM",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 123,
+      "percentual": 3.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002016489"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 1143,
+      "percentual": 39.36,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "ALEXANDRE BALDY DE SANT ANNA BRAGA",
+      "nomeUrna": "ALEXANDRE BALDY",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 541,
+      "percentual": 18.63,
+      "sqcand": "90001609092"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 512,
+      "percentual": 17.63,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 683,
+      "percentual": 22.05,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 571,
+      "percentual": 18.44,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "EDUARDO PEREIRA DE SOUSA",
+      "nomeUrna": "EDUARDINHO",
+      "partido": "PODE",
+      "numero": "1900",
+      "votos": 319,
+      "percentual": 10.3,
+      "sqcand": "90001610802"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 264,
+      "percentual": 8.52,
+      "sqcand": "90001614055"
+    },
+    {
+      "nome": "FABIANNE LEÃO DA SILVEIRA BORGES",
+      "nomeUrna": "DRA FABIANNE LEÃO",
+      "partido": "PP",
+      "numero": "1105",
+      "votos": 188,
+      "percentual": 6.07,
+      "sqcand": "90001725825"
+    },
+    {
+      "nome": "SILVYE ALVES DA SILVA",
+      "nomeUrna": "SILVYE ALVES",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 125,
+      "percentual": 4.04,
+      "sqcand": "90001614749"
+    },
+    {
+      "nome": "MATHEUS ARAÚJO RIBEIRO",
+      "nomeUrna": "MATHEUS RIBEIRO",
+      "partido": "PSDB",
+      "numero": "4555",
+      "votos": 123,
+      "percentual": 3.97,
+      "sqcand": "90001621635"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "HENRIQUE CÉSAR PEREIRA",
+      "nomeUrna": "HENRIQUE CÉSAR",
+      "partido": "PSC",
+      "numero": "20100",
+      "votos": 362,
+      "percentual": 12.05,
+      "sqcand": "90001645561"
+    },
+    {
+      "nome": "GEORGE MORAIS FERREIRA",
+      "nomeUrna": "DR GEORGE MORAIS",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 360,
+      "percentual": 11.99,
+      "sqcand": "90001611924"
+    },
+    {
+      "nome": "HENRIQUE PAULISTA ARANTES",
+      "nomeUrna": "HENRIQUE ARANTES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 241,
+      "percentual": 8.03,
+      "sqcand": "90001653185"
+    },
+    {
+      "nome": "FRANCISCO SOBRINHO DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 233,
+      "percentual": 7.76,
+      "sqcand": "90001653178"
+    },
+    {
+      "nome": "LINCOLN GRAZIANI PEREIRA DA ROCHA TEJOTA",
+      "nomeUrna": "LINCOLN TEJOTA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 215,
+      "percentual": 7.16,
+      "sqcand": "90001648385"
+    },
+    {
+      "nome": "LUCAS PINHEIRO BRANDÃO CALIL",
+      "nomeUrna": "LUCAS CALIL",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 174,
+      "percentual": 5.79,
+      "sqcand": "90001653166"
+    },
+    {
+      "nome": "CLECIO ANTONIO ALVES",
+      "nomeUrna": "CLECIO ALVES",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 166,
+      "percentual": 5.53,
+      "sqcand": "90001652979"
+    }
+  ]
+}

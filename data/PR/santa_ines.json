@@ -1,0 +1,271 @@
+{
+  "populacao": 1703,
+  "votosValidos": 1567,
+  "abstencao": 6.87,
+  "prefeito": {
+    "nome": "ADENILSON PACHECO",
+    "nomeUrna": "ADENILSON PACHECO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1056,
+    "percentual": 67.39,
+    "situacao": "Eleito",
+    "sqcand": "160002193997",
+    "vice": "MARA ESTELA DOS SANTOS",
+    "viceNomeUrna": "MARA ESTELA",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002193998",
+    "coligacao": "PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "TELMA APARECIDA SCALDELAI DE OLIVEIRA",
+      "nomeUrna": "TELMA SCALDELAI",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 190,
+      "percentual": 12.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002194427"
+    },
+    {
+      "nome": "CLAUDINEI HIPOLITO",
+      "nomeUrna": "CLAUDINEI",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 189,
+      "percentual": 12.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002136452"
+    },
+    {
+      "nome": "KARLA APARECIDA RODRIGUES DA SILVA",
+      "nomeUrna": "KARLA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 156,
+      "percentual": 10.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002194425"
+    },
+    {
+      "nome": "EDUARDO LEDES VIEIRA",
+      "nomeUrna": "EDUARDO BUGU",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 138,
+      "percentual": 8.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002194430"
+    },
+    {
+      "nome": "DOMINGOS SILVIO DO NASCIMENTO",
+      "nomeUrna": "DOMINGÃO",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 118,
+      "percentual": 7.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002194424"
+    },
+    {
+      "nome": "SAMUEL DOMINGUES SILVA",
+      "nomeUrna": "SAMUEL DOMINGUES",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 116,
+      "percentual": 7.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002194429"
+    },
+    {
+      "nome": "JESUS ALVES DA FONSECA",
+      "nomeUrna": "ZUZA DA SAÚDE",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 109,
+      "percentual": 7.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002194426"
+    },
+    {
+      "nome": "MARCOS ANTONIO HIPOLITO",
+      "nomeUrna": "MARQUINHO",
+      "partido": "MDB",
+      "numero": "15650",
+      "votos": 106,
+      "percentual": 6.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002136458"
+    },
+    {
+      "nome": "LUIZ CARLOS DE SOUZA CAMPOS",
+      "nomeUrna": "LUIZ CANTOR",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 102,
+      "percentual": 6.57,
+      "situacao": "Eleito por média",
+      "sqcand": "160002194422"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 511,
+      "percentual": 39.43,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 380,
+      "percentual": 29.32,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 201,
+      "percentual": 15.51,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ HILOSHI NISHIMORI",
+      "nomeUrna": "LUIZ NISHIMORI",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 492,
+      "percentual": 37.05,
+      "sqcand": "160001622293"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 195,
+      "percentual": 14.68,
+      "sqcand": "160001622297"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 153,
+      "percentual": 11.52,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "NELSON FERNANDO PADOVANI",
+      "nomeUrna": "PADOVANI",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 60,
+      "percentual": 4.52,
+      "sqcand": "160001654666"
+    },
+    {
+      "nome": "MAURO ROCKENBACH",
+      "nomeUrna": "MAURO ROCKENBACH",
+      "partido": "REDE",
+      "numero": "1855",
+      "votos": 50,
+      "percentual": 3.77,
+      "sqcand": "160001621989"
+    },
+    {
+      "nome": "DEYVIDY HERNANDES DA PAZ",
+      "nomeUrna": "DEYVIDY HERNANDES",
+      "partido": "DC",
+      "numero": "2790",
+      "votos": 41,
+      "percentual": 3.09,
+      "sqcand": "160001716204"
+    },
+    {
+      "nome": "GILSON CARDOSO FAHUR",
+      "nomeUrna": "SARGENTO FAHUR",
+      "partido": "PSD",
+      "numero": "5590",
+      "votos": 27,
+      "percentual": 2.03,
+      "sqcand": "160001622298"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 582,
+      "percentual": 44.98,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 267,
+      "percentual": 20.63,
+      "sqcand": "160001614823"
+    },
+    {
+      "nome": "ADRIANO JOSÉ DA SILVA",
+      "nomeUrna": "SOLDADO ADRIANO JOSÉ",
+      "partido": "PP",
+      "numero": "11900",
+      "votos": 135,
+      "percentual": 10.43,
+      "sqcand": "160001603349"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 54,
+      "percentual": 4.17,
+      "sqcand": "160001623099"
+    },
+    {
+      "nome": "MARILEI DE SOUZA LIMA",
+      "nomeUrna": "CANTORA MARA LIMA",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 29,
+      "percentual": 2.24,
+      "sqcand": "160001716141"
+    },
+    {
+      "nome": "ROGÉRIO JOSÉ LORENZETTI",
+      "nomeUrna": "ROGÉRIO LORENZETTI",
+      "partido": "PSD",
+      "numero": "55550",
+      "votos": 20,
+      "percentual": 1.55,
+      "sqcand": "160001623124"
+    },
+    {
+      "nome": "LUIZ CARLOS DE GODOI",
+      "nomeUrna": "JOTA JR",
+      "partido": "PTB",
+      "numero": "14123",
+      "votos": 20,
+      "percentual": 1.55,
+      "sqcand": "160001723072"
+    }
+  ]
+}

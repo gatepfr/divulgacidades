@@ -1,0 +1,291 @@
+{
+  "populacao": 14204,
+  "votosValidos": 10203,
+  "abstencao": 25.08,
+  "prefeito": {
+    "nome": "PAULO CÉSAR PINHEIRO DE AZEVEDO",
+    "nomeUrna": "PAULO AZEVEDO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 5144,
+    "percentual": 50.42,
+    "situacao": "Eleito",
+    "sqcand": "130002086758",
+    "vice": "WILSON LUIZ DE SOUZA",
+    "viceNomeUrna": "WILSON LUIZ DE SOUZA",
+    "partidoVice": "MDB",
+    "sqcandVice": "130002086759",
+    "coligacao": "MDB / PSD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "BRUNO TIAGO FARIAS FERNANDES",
+      "nomeUrna": "BUGUINHA DE TIBÚRCIO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 616,
+      "percentual": 6.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001991862"
+    },
+    {
+      "nome": "REBECA NASCIMENTO SÁ",
+      "nomeUrna": "REBECA",
+      "partido": "PSOL",
+      "numero": "50123",
+      "votos": 502,
+      "percentual": 4.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002047460"
+    },
+    {
+      "nome": "DIMAS BRASILEIRO DE ALKMIM",
+      "nomeUrna": "DIMAS BRASILEIRO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 446,
+      "percentual": 4.36,
+      "situacao": "Eleito por média",
+      "sqcand": "130001991858"
+    },
+    {
+      "nome": "JOÃO PAULO CAMPOS DE SÁ",
+      "nomeUrna": "ENFERMEIRO JOÃO PAULO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 433,
+      "percentual": 4.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001928771"
+    },
+    {
+      "nome": "EUCI NASCIMENTO SÁ",
+      "nomeUrna": "EUCI DO FABIÃO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 427,
+      "percentual": 4.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002322532"
+    },
+    {
+      "nome": "JUVENAL DE SEIXAS FERRO",
+      "nomeUrna": "JUVENAL SEU AMIGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10104",
+      "votos": 403,
+      "percentual": 3.94,
+      "situacao": "Eleito por média",
+      "sqcand": "130001964747"
+    },
+    {
+      "nome": "WELLITON AUGUSTO PEREIRA DE SOUZA",
+      "nomeUrna": "WELLINTON AUGUSTO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 403,
+      "percentual": 3.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002244708"
+    },
+    {
+      "nome": "ALBERTO LOPES DOS SANTOS",
+      "nomeUrna": "ALBERTO BERTÃO",
+      "partido": "PV",
+      "numero": "43000",
+      "votos": 319,
+      "percentual": 3.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002135647"
+    },
+    {
+      "nome": "WELLINGTON FERNANDES DE BRITO",
+      "nomeUrna": "WELLINGTON ERE PSICÓLOGO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 316,
+      "percentual": 3.09,
+      "situacao": "Eleito por média",
+      "sqcand": "130002135645"
+    },
+    {
+      "nome": "JOSÉ HENRIQUE DE OLIVEIRA",
+      "nomeUrna": "ZÉ DE HORÁCIO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 256,
+      "percentual": 2.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002086746"
+    },
+    {
+      "nome": "DOUGLAS DE JESUS DOS SANTOS",
+      "nomeUrna": "DOUGLAS PÓLIS",
+      "partido": "PSOL",
+      "numero": "50000",
+      "votos": 191,
+      "percentual": 1.87,
+      "situacao": "Eleito por média",
+      "sqcand": "130002047456"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4449,
+      "percentual": 57.14,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 1962,
+      "percentual": 25.2,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1246,
+      "percentual": 16.0,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANTONIO PINHEIRO NETO",
+      "nomeUrna": "PINHEIRINHO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 1654,
+      "percentual": 19.74,
+      "sqcand": "130001615436"
+    },
+    {
+      "nome": "PAULO JOSÉ CARLOS GUEDES",
+      "nomeUrna": "PAULO GUEDES",
+      "partido": "PT",
+      "numero": "1378",
+      "votos": 1524,
+      "percentual": 18.19,
+      "sqcand": "130001607265"
+    },
+    {
+      "nome": "NEWTON CARDOSO JÚNIOR",
+      "nomeUrna": "NEWTON CARDOSO JR",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 569,
+      "percentual": 6.79,
+      "sqcand": "130001668913"
+    },
+    {
+      "nome": "MARCELO EDUARDO FREITAS",
+      "nomeUrna": "DELEGADO MARCELO FREITAS",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 498,
+      "percentual": 5.94,
+      "sqcand": "130001607654"
+    },
+    {
+      "nome": "CÉLIA NUNES CORREA",
+      "nomeUrna": "CÉLIA XAKRIABÁ",
+      "partido": "PSOL",
+      "numero": "5088",
+      "votos": 407,
+      "percentual": 4.86,
+      "sqcand": "130001615168"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 391,
+      "percentual": 4.67,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 319,
+      "percentual": 3.81,
+      "sqcand": "130001608227"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARLEN DE PAULO SANTIAGO FILHO",
+      "nomeUrna": "ARLEN SANTIAGO",
+      "partido": "AVANTE",
+      "numero": "70111",
+      "votos": 2268,
+      "percentual": 29.46,
+      "sqcand": "130001603710"
+    },
+    {
+      "nome": "ROGERIO GONCALVES ALQUIMIM",
+      "nomeUrna": "ROGERIO ALKIMIM DA ONG",
+      "partido": "PP",
+      "numero": "11200",
+      "votos": 826,
+      "percentual": 10.73,
+      "sqcand": "130001615644"
+    },
+    {
+      "nome": "CARLOS WELTH PIMENTA DE FIGUEIREDO",
+      "nomeUrna": "CARLOS PIMENTA",
+      "partido": "PDT",
+      "numero": "12369",
+      "votos": 588,
+      "percentual": 7.64,
+      "sqcand": "130001606724"
+    },
+    {
+      "nome": "RICARDO AUGUSTO DA COSTA CAMPOS",
+      "nomeUrna": "RICARDO CAMPOS",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 456,
+      "percentual": 5.92,
+      "sqcand": "130001607397"
+    },
+    {
+      "nome": "LUIZ ROCHA NETO",
+      "nomeUrna": "LUIZINHO ROCHA",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 448,
+      "percentual": 5.82,
+      "sqcand": "130001607375"
+    },
+    {
+      "nome": "MARILENE ALVES DE SOUZA",
+      "nomeUrna": "LENINHA",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 359,
+      "percentual": 4.66,
+      "sqcand": "130001607376"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 339,
+      "percentual": 4.4,
+      "sqcand": "130001607392"
+    }
+  ]
+}

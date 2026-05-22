@@ -1,0 +1,271 @@
+{
+  "populacao": 12496,
+  "votosValidos": 9552,
+  "abstencao": 19.57,
+  "prefeito": {
+    "nome": "NORTON SOARES DA ROSA",
+    "nomeUrna": "NORTON SOARES",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 5416,
+    "percentual": 56.7,
+    "situacao": "Eleito",
+    "sqcand": "210002242730",
+    "vice": "TARCIZO BOLZAN",
+    "viceNomeUrna": "TARCIZO BOLZAN",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002242731",
+    "coligacao": "MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "TIAGO MELLO FOLETTO",
+      "nomeUrna": "TIAGO FOLETTO TECO",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 1198,
+      "percentual": 12.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002075116"
+    },
+    {
+      "nome": "JOCELAINE BRAUNER",
+      "nomeUrna": "JOCELAINE BRAUNER",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 994,
+      "percentual": 10.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151462"
+    },
+    {
+      "nome": "ANDRE HATSCHBACH",
+      "nomeUrna": "ANDRE HATSCHBACH",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 653,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002301195"
+    },
+    {
+      "nome": "MAURO FRANÇA DA COSTA",
+      "nomeUrna": "MAURO COSTA",
+      "partido": "MDB",
+      "numero": "15650",
+      "votos": 626,
+      "percentual": 6.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151463"
+    },
+    {
+      "nome": "ABEL OLIVEIRA DOS SANTOS",
+      "nomeUrna": "ABEL OLIVEIRA",
+      "partido": "PT",
+      "numero": "13680",
+      "votos": 478,
+      "percentual": 4.93,
+      "situacao": "Eleito por média",
+      "sqcand": "210001953301"
+    },
+    {
+      "nome": "ELTON DOS SANTOS ALMEIDA",
+      "nomeUrna": "ELTON ALMEIDA",
+      "partido": "PP",
+      "numero": "11678",
+      "votos": 389,
+      "percentual": 4.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002301196"
+    },
+    {
+      "nome": "VALDERI OTTO PAUL",
+      "nomeUrna": "VALDERI OTTO PAUL",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 380,
+      "percentual": 3.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151464"
+    },
+    {
+      "nome": "ARTEMIO FIGUEIREDO",
+      "nomeUrna": "ARTEMIO FIGUEIREDO",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 335,
+      "percentual": 3.46,
+      "situacao": "Eleito por média",
+      "sqcand": "210002151461"
+    },
+    {
+      "nome": "CLAUDIO MOISES VENTURINI",
+      "nomeUrna": "CLAUDIO VENTURINI",
+      "partido": "PDT",
+      "numero": "12180",
+      "votos": 316,
+      "percentual": 3.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002161275"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 3741,
+      "percentual": 41.96,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2943,
+      "percentual": 33.01,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2074,
+      "percentual": 23.26,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 2858,
+      "percentual": 31.44,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 888,
+      "percentual": 9.77,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 590,
+      "percentual": 6.49,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 482,
+      "percentual": 5.3,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 390,
+      "percentual": 4.29,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 234,
+      "percentual": 2.57,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "DENISE DA SILVA PESSÔA",
+      "nomeUrna": "DENISE PESSÔA",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 231,
+      "percentual": 2.54,
+      "sqcand": "210001604642"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROBERTO FANTINEL",
+      "nomeUrna": "BETO FANTINEL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 2653,
+      "percentual": 30.16,
+      "sqcand": "210001648003"
+    },
+    {
+      "nome": "ANTONIO VALDECI OLIVEIRA DE OLIVEIRA",
+      "nomeUrna": "VALDECI OLIVEIRA",
+      "partido": "PT",
+      "numero": "13713",
+      "votos": 777,
+      "percentual": 8.83,
+      "sqcand": "210001610599"
+    },
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 703,
+      "percentual": 7.99,
+      "sqcand": "210001647982"
+    },
+    {
+      "nome": "ANTONIO ELEMAR DE OLIVEIRA",
+      "nomeUrna": "TONY OLIVEIRA",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 689,
+      "percentual": 7.83,
+      "sqcand": "210001596180"
+    },
+    {
+      "nome": "IVONETE CARVALHO",
+      "nomeUrna": "IVONETE CARVALHO",
+      "partido": "PT",
+      "numero": "13677",
+      "votos": 335,
+      "percentual": 3.81,
+      "sqcand": "210001610619"
+    },
+    {
+      "nome": "GIOVANY CARRIÃO DE FREITAS",
+      "nomeUrna": "GENERAL CARRIÃO",
+      "partido": "PSC",
+      "numero": "20100",
+      "votos": 260,
+      "percentual": 2.96,
+      "sqcand": "210001605726"
+    },
+    {
+      "nome": "GILMAR SOSSELLA",
+      "nomeUrna": "SOSSELLA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 243,
+      "percentual": 2.76,
+      "sqcand": "210001621287"
+    }
+  ]
+}

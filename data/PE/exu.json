@@ -1,0 +1,311 @@
+{
+  "populacao": 28805,
+  "votosValidos": 22845,
+  "abstencao": 16.35,
+  "prefeito": {
+    "nome": "JOSÉ PINTO SARAIVA JÚNIOR",
+    "nomeUrna": "JUNIOR PINTO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 11693,
+    "percentual": 51.18,
+    "situacao": "Eleito",
+    "sqcand": "170002135219",
+    "vice": "FRANCISCO AFONSO DE OLIVEIRA",
+    "viceNomeUrna": "CHICO AFONSO",
+    "partidoVice": "PP",
+    "sqcandVice": "170002135220",
+    "coligacao": "REPUBLICANOS / PP / PDT / PSD / CIDADANIA / PSDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "FRANCISCO JOSÉ DA CRUZ ALENCAR",
+      "nomeUrna": "DUDA MULATO",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 1520,
+      "percentual": 6.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002253589"
+    },
+    {
+      "nome": "WELISON JEAN MOREIRA SARAIVA JUNIOR",
+      "nomeUrna": "JEAN DE LÉO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 1209,
+      "percentual": 5.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002333712"
+    },
+    {
+      "nome": "JURANDIR SEVERO DE CARVALHO",
+      "nomeUrna": "JURANDIR SEVERO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1192,
+      "percentual": 5.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002333716"
+    },
+    {
+      "nome": "MARIA DE FÁTIMA PINTO SARAIVA",
+      "nomeUrna": "FAFA SARAIVA",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1168,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002333719"
+    },
+    {
+      "nome": "ROBERTO BENTO DO NASCIMENTO",
+      "nomeUrna": "ROBERTO BENTO",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 1028,
+      "percentual": 4.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002331926"
+    },
+    {
+      "nome": "ANDREIA SORHAIA DE SOUSA FERREIRA",
+      "nomeUrna": "ANDREIA DE RUGA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 970,
+      "percentual": 4.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002333715"
+    },
+    {
+      "nome": "EMANUELA SARAIVA MACÊDO",
+      "nomeUrna": "DRA. EMANUELA SARAIVA",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 827,
+      "percentual": 3.6,
+      "situacao": "Eleito por média",
+      "sqcand": "170002333714"
+    },
+    {
+      "nome": "GEANGLEDSON CORDEIRO DOS SANTOS",
+      "nomeUrna": "GEAN BASTIÃO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 793,
+      "percentual": 3.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002331932"
+    },
+    {
+      "nome": "ANTONIO PARENTE SOBRINHO",
+      "nomeUrna": "ANTONIO PARENTE",
+      "partido": "PV",
+      "numero": "43888",
+      "votos": 753,
+      "percentual": 3.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002246671"
+    },
+    {
+      "nome": "ANTONIO HENRIQUE DA COSTA SOARES",
+      "nomeUrna": "QUEXIM DO EXU",
+      "partido": "PV",
+      "numero": "43123",
+      "votos": 707,
+      "percentual": 3.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002246677"
+    },
+    {
+      "nome": "FAGLUZÉ AMÉRICO LOPES SARAIVA",
+      "nomeUrna": "FAGLUZE",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 679,
+      "percentual": 2.95,
+      "situacao": "Eleito por média",
+      "sqcand": "170002246676"
+    },
+    {
+      "nome": "DAVI MOREIRA DE ALENCAR",
+      "nomeUrna": "DAVI MOREIRA",
+      "partido": "REDE",
+      "numero": "18888",
+      "votos": 611,
+      "percentual": 2.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002330939"
+    },
+    {
+      "nome": "RODRIGO WAGNER AMARO DE ALENCAR OLIVEIRA",
+      "nomeUrna": "RODRIGO AMARO",
+      "partido": "AVANTE",
+      "numero": "70111",
+      "votos": 586,
+      "percentual": 2.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002253594"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 10534,
+      "percentual": 63.74,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2402,
+      "percentual": 14.53,
+      "sqcand": "170001610248"
+    },
+    {
+      "nome": "CARLOS ANTONIO GOMES DE ANDRADE LIMA",
+      "nomeUrna": "CARLOS ANDRADE LIMA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1865,
+      "percentual": 11.28,
+      "sqcand": "170001609174"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FERNANDO MONTEIRO DE ALBUQUERQUE",
+      "nomeUrna": "FERNANDO MONTEIRO",
+      "partido": "PP",
+      "numero": "1190",
+      "votos": 2881,
+      "percentual": 15.73,
+      "sqcand": "170001618622"
+    },
+    {
+      "nome": "SILVIO SERAFIM COSTA FILHO",
+      "nomeUrna": "SILVIO COSTA FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 2399,
+      "percentual": 13.1,
+      "sqcand": "170001595473"
+    },
+    {
+      "nome": "FERNANDO BEZERRA DE SOUZA COELHO FILHO",
+      "nomeUrna": "FERNANDO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4401",
+      "votos": 1681,
+      "percentual": 9.18,
+      "sqcand": "170001609122"
+    },
+    {
+      "nome": "FRANCISCO TADEU BARBOSA DE ALENCAR",
+      "nomeUrna": "TADEU ALENCAR",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 1551,
+      "percentual": 8.47,
+      "sqcand": "170001619892"
+    },
+    {
+      "nome": "JOSÉ CARLOS VERAS DOS SANTOS",
+      "nomeUrna": "CARLOS VERAS",
+      "partido": "PT",
+      "numero": "1314",
+      "votos": 1211,
+      "percentual": 6.61,
+      "sqcand": "170001609028"
+    },
+    {
+      "nome": "LUCIANO CALDAS BIVAR",
+      "nomeUrna": "LUCIANO BIVAR",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1207,
+      "percentual": 6.59,
+      "sqcand": "170001609112"
+    },
+    {
+      "nome": "EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA",
+      "nomeUrna": "EDUARDO DA FONTE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 981,
+      "percentual": 5.36,
+      "sqcand": "170001618611"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RODRIGO CAVALCANTI NOVAES",
+      "nomeUrna": "RODRIGO NOVAES",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 2499,
+      "percentual": 14.85,
+      "sqcand": "170001620381"
+    },
+    {
+      "nome": "VICTOR MORAES QUERALVARES",
+      "nomeUrna": "AGLAILSON VICTOR",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 2451,
+      "percentual": 14.56,
+      "sqcand": "170001620371"
+    },
+    {
+      "nome": "HENRIQUE JOSE QUEIROZ COSTA FILHO",
+      "nomeUrna": "HENRIQUE QUEIROZ FILHO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 1656,
+      "percentual": 9.84,
+      "sqcand": "170001618759"
+    },
+    {
+      "nome": "ANTONIO FERNANDO DE AQUINO BEZERRA",
+      "nomeUrna": "ANTONIO FERNANDO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1285,
+      "percentual": 7.63,
+      "sqcand": "170001618753"
+    },
+    {
+      "nome": "CLÉBER JOSÉ DE AGUIAR DA SILVA",
+      "nomeUrna": "CHAPARRAL",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 1252,
+      "percentual": 7.44,
+      "sqcand": "170001609297"
+    },
+    {
+      "nome": "ROBERTA MACEDO BERTINO ARRAES",
+      "nomeUrna": "ROBERTA ARRAES",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 1084,
+      "percentual": 6.44,
+      "sqcand": "170001618757"
+    },
+    {
+      "nome": "DORIEL SATURNINO DE BARROS",
+      "nomeUrna": "DORIEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 925,
+      "percentual": 5.5,
+      "sqcand": "170001608977"
+    }
+  ]
+}

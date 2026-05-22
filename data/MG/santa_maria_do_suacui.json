@@ -1,0 +1,271 @@
+{
+  "populacao": 12671,
+  "votosValidos": 8376,
+  "abstencao": 30.59,
+  "prefeito": {
+    "nome": "ELIAS SILVEIRA GODINHO",
+    "nomeUrna": "ELIAS GODINHO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 4497,
+    "percentual": 53.69,
+    "situacao": "Eleito",
+    "sqcand": "130001882220",
+    "vice": "PAULO ROBERTO LOPES ALVES",
+    "viceNomeUrna": "PAULO BIRRO",
+    "partidoVice": "PT",
+    "sqcandVice": "130001882221",
+    "coligacao": "REPUBLICANOS / PDT / MDB / MOBILIZA / UNIÃO / AVANTE / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIA SUELI DA SILVA SANTOS",
+      "nomeUrna": "SUELI ENFERMEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 439,
+      "percentual": 5.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001913719"
+    },
+    {
+      "nome": "GERALDO MARCOS DOS SANTOS",
+      "nomeUrna": "MARCOS DA POAIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 347,
+      "percentual": 4.11,
+      "situacao": "Eleito por média",
+      "sqcand": "130001913724"
+    },
+    {
+      "nome": "WESLLEY REGIS DE SOUZA",
+      "nomeUrna": "NITÃO DO NÔ DA PEDREIRA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 333,
+      "percentual": 3.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002282527"
+    },
+    {
+      "nome": "WELTON FLAVIO ARCANJO",
+      "nomeUrna": "CABELO DE CRISTAIS",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 311,
+      "percentual": 3.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001913660"
+    },
+    {
+      "nome": "JUBER RODRIGUES DA SILVA",
+      "nomeUrna": "KEL DO BREJO",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 301,
+      "percentual": 3.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002228036"
+    },
+    {
+      "nome": "ADRIANO DUARTE DE OLIVEIRA ROCHA",
+      "nomeUrna": "ADRIANO DO DECA",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 282,
+      "percentual": 3.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001927509"
+    },
+    {
+      "nome": "MARIA SOARES DE SOUZA",
+      "nomeUrna": "MARIA DO RAIO X",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 254,
+      "percentual": 3.01,
+      "situacao": "Eleito por média",
+      "sqcand": "130002282528"
+    },
+    {
+      "nome": "PIERRE GOMES TEMPONI",
+      "nomeUrna": "PIERRE DO BRANCO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 211,
+      "percentual": 2.5,
+      "situacao": "Eleito por média",
+      "sqcand": "130001927507"
+    },
+    {
+      "nome": "SIRLANIO INÁCIO DE SOUZA",
+      "nomeUrna": "NAIN DA POAIA",
+      "partido": "MOBILIZA",
+      "numero": "33111",
+      "votos": 200,
+      "percentual": 2.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002348859"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 3475,
+      "percentual": 51.6,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 2695,
+      "percentual": 40.01,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 464,
+      "percentual": 6.89,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MAURO RIBEIRO LOPES",
+      "nomeUrna": "MAURO LOPES",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 1253,
+      "percentual": 17.67,
+      "sqcand": "130001615428"
+    },
+    {
+      "nome": "EUCLYDES MARCOS PETTERSEN NETO",
+      "nomeUrna": "EUCLYDES PETTERSEN",
+      "partido": "PSC",
+      "numero": "2015",
+      "votos": 815,
+      "percentual": 11.49,
+      "sqcand": "130001671754"
+    },
+    {
+      "nome": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+      "nomeUrna": "ROGÉRIO CORREIA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 766,
+      "percentual": 10.8,
+      "sqcand": "130001607258"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 611,
+      "percentual": 8.61,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "RODRIGO BATISTA DE CASTRO",
+      "nomeUrna": "RODRIGO DE CASTRO",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 599,
+      "percentual": 8.44,
+      "sqcand": "130001607620"
+    },
+    {
+      "nome": "FABIO AUGUSTO RAMALHO DOS SANTOS",
+      "nomeUrna": "FÁBIO RAMALHO",
+      "partido": "MDB",
+      "numero": "1513",
+      "votos": 494,
+      "percentual": 6.96,
+      "sqcand": "130001668911"
+    },
+    {
+      "nome": "PAULO ABI-ACKEL",
+      "nomeUrna": "PAULO ABI-ACKEL",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 292,
+      "percentual": 4.12,
+      "sqcand": "130001613373"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "HELDER AVELINO YANKOUS SANTOS",
+      "nomeUrna": "DR. HELDER",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 1816,
+      "percentual": 27.37,
+      "sqcand": "130001615593"
+    },
+    {
+      "nome": "IRINEU INACIO DA SILVA",
+      "nomeUrna": "PROFESSOR IRINEU",
+      "partido": "PATRIOTA",
+      "numero": "51027",
+      "votos": 995,
+      "percentual": 15.0,
+      "sqcand": "130001596301"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 582,
+      "percentual": 8.77,
+      "sqcand": "130001607392"
+    },
+    {
+      "nome": "GUSTAVO DA CUNHA PEREIRA VALADARES",
+      "nomeUrna": "GUSTAVO VALADARES",
+      "partido": "PMN",
+      "numero": "33333",
+      "votos": 556,
+      "percentual": 8.38,
+      "sqcand": "130001605805"
+    },
+    {
+      "nome": "DALTON LOREDO DE PAULA",
+      "nomeUrna": "DALTINHO LOREDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10321",
+      "votos": 249,
+      "percentual": 3.75,
+      "sqcand": "130001634066"
+    },
+    {
+      "nome": "JOÃO LÚCIO MAGALHÃES BIFANO",
+      "nomeUrna": "JOÃO MAGALHÃES",
+      "partido": "MDB",
+      "numero": "15133",
+      "votos": 223,
+      "percentual": 3.36,
+      "sqcand": "130001678188"
+    },
+    {
+      "nome": "DANILO AMARAL SEBE",
+      "nomeUrna": "DANILO SEBE",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 204,
+      "percentual": 3.07,
+      "sqcand": "130001606750"
+    }
+  ]
+}

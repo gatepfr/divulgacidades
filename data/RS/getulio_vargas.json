@@ -1,0 +1,271 @@
+{
+  "populacao": 12217,
+  "votosValidos": 9720,
+  "abstencao": 15.18,
+  "prefeito": {
+    "nome": "PEDRO PAULO PREZZOTTO",
+    "nomeUrna": "PREZZOTTO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 5258,
+    "percentual": 54.09,
+    "situacao": "Eleito",
+    "sqcand": "210002222568",
+    "vice": "DINARTE AFONSO TAGLIARI FARIAS",
+    "viceNomeUrna": "DINARTE FARIAS",
+    "partidoVice": "PP",
+    "sqcandVice": "210002222569",
+    "coligacao": "PL / PP / REPUBLICANOS / UNIÃO / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JEFERSON WILIAM KARPINSKI",
+      "nomeUrna": "KARPINSKI",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 791,
+      "percentual": 8.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002255942"
+    },
+    {
+      "nome": "LUANA LANFREDI",
+      "nomeUrna": "LUANA LANFREDI",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 746,
+      "percentual": 7.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002110602"
+    },
+    {
+      "nome": "VILMAR ANTÔNIO SOCCOL",
+      "nomeUrna": "SOCCOL DE FORMIGA",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 520,
+      "percentual": 5.27,
+      "situacao": "Eleito por média",
+      "sqcand": "210002108722"
+    },
+    {
+      "nome": "ADEMAR JOSÉ RIGON",
+      "nomeUrna": "RIGON",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 478,
+      "percentual": 4.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002255941"
+    },
+    {
+      "nome": "AQUILES PESSOA DA SILVA",
+      "nomeUrna": "AQUILES PESSOA DA SILVA",
+      "partido": "PP",
+      "numero": "11688",
+      "votos": 458,
+      "percentual": 4.64,
+      "situacao": "Eleito por média",
+      "sqcand": "210002255947"
+    },
+    {
+      "nome": "JORGE VOLMAR DOS SANTOS",
+      "nomeUrna": "JORGE AURINHA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 421,
+      "percentual": 4.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002110596"
+    },
+    {
+      "nome": "JEAN CARLOS MAZZOTTI",
+      "nomeUrna": "JEAN MAZZOTTI",
+      "partido": "PL",
+      "numero": "22015",
+      "votos": 401,
+      "percentual": 4.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002201321"
+    },
+    {
+      "nome": "SILVONEI LAZZARI",
+      "nomeUrna": "NEI LAZZARI",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 370,
+      "percentual": 3.75,
+      "situacao": "Eleito por média",
+      "sqcand": "210002110601"
+    },
+    {
+      "nome": "SUZI TERESINHA DOS SANTOS",
+      "nomeUrna": "SUZI DOS SANTOS",
+      "partido": "PL",
+      "numero": "22762",
+      "votos": 337,
+      "percentual": 3.41,
+      "situacao": "Eleito por média",
+      "sqcand": "210002201326"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 5278,
+      "percentual": 59.95,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2100,
+      "percentual": 23.85,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1350,
+      "percentual": 15.33,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 965,
+      "percentual": 10.59,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 913,
+      "percentual": 10.02,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "ANACLETO ZANELLA",
+      "nomeUrna": "ANACLETO ZANELLA",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 795,
+      "percentual": 8.72,
+      "sqcand": "210001604637"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 683,
+      "percentual": 7.49,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 430,
+      "percentual": 4.72,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 418,
+      "percentual": 4.59,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 361,
+      "percentual": 3.96,
+      "sqcand": "210001646689"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "NADINE TAGLIARI FARIAS ANFLOR",
+      "nomeUrna": " DELEGADA NADINE",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 2833,
+      "percentual": 30.75,
+      "sqcand": "210001620207"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 1705,
+      "percentual": 18.51,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "IVAR PAVAN",
+      "nomeUrna": "IVAR PAVAN",
+      "partido": "PT",
+      "numero": "13240",
+      "votos": 769,
+      "percentual": 8.35,
+      "sqcand": "210001610618"
+    },
+    {
+      "nome": "RODINEI ESCOBAR XAVIER CANDEIA",
+      "nomeUrna": "RODINEI CANDEIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 584,
+      "percentual": 6.34,
+      "sqcand": "210001601666"
+    },
+    {
+      "nome": "GILBERTO CAPOANI",
+      "nomeUrna": "GILBERTO CAPOANI",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 381,
+      "percentual": 4.14,
+      "sqcand": "210001647990"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 341,
+      "percentual": 3.7,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "SALMO DIAS DE OLIVEIRA",
+      "nomeUrna": "SALMO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 312,
+      "percentual": 3.39,
+      "sqcand": "210001647178"
+    }
+  ]
+}

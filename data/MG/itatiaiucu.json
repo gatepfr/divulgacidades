@@ -1,0 +1,271 @@
+{
+  "populacao": 12268,
+  "votosValidos": 9300,
+  "abstencao": 18.94,
+  "prefeito": {
+    "nome": "ROMER SOARES DAS CHAGAS",
+    "nomeUrna": "ROMER SOARES",
+    "partido": "CIDADANIA",
+    "numero": "23",
+    "votos": 6666,
+    "percentual": 71.68,
+    "situacao": "Eleito",
+    "sqcand": "130001903390",
+    "vice": "ADRIANA MARIA CAMARGOS",
+    "viceNomeUrna": "ADRIANA CAMARGOS",
+    "partidoVice": "PP",
+    "sqcandVice": "130001903389",
+    "coligacao": "CIDADANIA / PSDB / PP / REPUBLICANOS / PRD / PSD / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "FELIPE AUGUSTO SILVA RODRIGUES",
+      "nomeUrna": "FELPS",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 525,
+      "percentual": 5.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001908441"
+    },
+    {
+      "nome": "LAIR LOPES DE OLIVEIRA",
+      "nomeUrna": "LAIR LOPES",
+      "partido": "REPUBLICANOS",
+      "numero": "10800",
+      "votos": 474,
+      "percentual": 4.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001915745"
+    },
+    {
+      "nome": "MOISÉS GUSTAVO DA CUNHA",
+      "nomeUrna": "DR MOISÉS",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 439,
+      "percentual": 4.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001903330"
+    },
+    {
+      "nome": "WANDERSON RONALDO SIMÕES",
+      "nomeUrna": "WANDERSON SIMÕES",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 419,
+      "percentual": 4.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001908458"
+    },
+    {
+      "nome": "NOÊMIA DA CRUZ MOREIRA",
+      "nomeUrna": "NOÊMIA DA SAÚDE",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 395,
+      "percentual": 4.16,
+      "situacao": "Eleito por média",
+      "sqcand": "130001908435"
+    },
+    {
+      "nome": "RODRIGO RAFAEL DOS SANTOS",
+      "nomeUrna": "RODRIGO DO ESPORTE",
+      "partido": "CIDADANIA",
+      "numero": "23222",
+      "votos": 306,
+      "percentual": 3.22,
+      "situacao": "Eleito por média",
+      "sqcand": "130001903327"
+    },
+    {
+      "nome": "ANTÔNIO FERREIRA GOMES",
+      "nomeUrna": "TONHÃO DO POVO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 293,
+      "percentual": 3.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001915815"
+    },
+    {
+      "nome": "RAISSA SUZAMARA APARECIDA SILVA",
+      "nomeUrna": "RAÍSSA DA ENFERMAGEM",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 280,
+      "percentual": 2.95,
+      "situacao": "Eleito por média",
+      "sqcand": "130001915811"
+    },
+    {
+      "nome": "CLAUDINEI GONCALVES GUIMARÃES",
+      "nomeUrna": "DINEI CABANA",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 263,
+      "percentual": 2.77,
+      "situacao": "Eleito por média",
+      "sqcand": "130001908457"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 4255,
+      "percentual": 63.69,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1496,
+      "percentual": 22.39,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 821,
+      "percentual": 12.29,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FELIPE MAURÍCIO SALIBA DE SOUZA",
+      "nomeUrna": "FELIPE SALIBA",
+      "partido": "PATRIOTA",
+      "numero": "5115",
+      "votos": 1572,
+      "percentual": 22.76,
+      "sqcand": "130001596002"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1214,
+      "percentual": 17.57,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "CLAUDIO MARZO PARREIRAS SILVA",
+      "nomeUrna": "CLAUDIO PARREIRAS",
+      "partido": "PSB",
+      "numero": "4023",
+      "votos": 768,
+      "percentual": 11.12,
+      "sqcand": "130001613243"
+    },
+    {
+      "nome": "DOMINGOS SÁVIO CAMPOS RESENDE",
+      "nomeUrna": "DOMINGOS SÁVIO",
+      "partido": "PL",
+      "numero": "2260",
+      "votos": 671,
+      "percentual": 9.71,
+      "sqcand": "130001611016"
+    },
+    {
+      "nome": "GLÁUCIA MARIA SANTIAGO RODRIGUES",
+      "nomeUrna": "GLÁUCIA SANTIAGO",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 185,
+      "percentual": 2.68,
+      "sqcand": "130001610996"
+    },
+    {
+      "nome": "OSMANDO PEREIRA DA SILVA",
+      "nomeUrna": "OSMANDO PEREIRA",
+      "partido": "UNIÃO",
+      "numero": "4468",
+      "votos": 132,
+      "percentual": 1.91,
+      "sqcand": "130001607658"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 124,
+      "percentual": 1.8,
+      "sqcand": "130001608227"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOÃO VITOR XAVIER FAUSTINO",
+      "nomeUrna": "JOÃO VITOR XAVIER",
+      "partido": "CIDADANIA",
+      "numero": "23200",
+      "votos": 2148,
+      "percentual": 33.15,
+      "sqcand": "130001613297"
+    },
+    {
+      "nome": "GUSTAVO MARQUES CARVALHO MITRE",
+      "nomeUrna": "GUSTAVO MITRE",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 601,
+      "percentual": 9.28,
+      "sqcand": "130001613115"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 539,
+      "percentual": 8.32,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "WENDEL CRISTIANO SOARES DE MESQUITA",
+      "nomeUrna": "PROFESSOR WENDEL MESQUITA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 298,
+      "percentual": 4.6,
+      "sqcand": "130001613029"
+    },
+    {
+      "nome": "BERNARDO SILVIANO BRANDÃO VIANNA",
+      "nomeUrna": "BERNARDO SILVIANO BRANDÃO",
+      "partido": "NOVO",
+      "numero": "30030",
+      "votos": 261,
+      "percentual": 4.03,
+      "sqcand": "130001598581"
+    },
+    {
+      "nome": "EDUARDO HENRIQUE DE AZEVEDO",
+      "nomeUrna": "EDUARDO AZEVEDO",
+      "partido": "PSC",
+      "numero": "20200",
+      "votos": 198,
+      "percentual": 3.06,
+      "sqcand": "130001671880"
+    },
+    {
+      "nome": "LOHANNA SOUZA FRANÇA MOREIRA DE OLIVEIRA",
+      "nomeUrna": "LOHANNA",
+      "partido": "PV",
+      "numero": "43500",
+      "votos": 141,
+      "percentual": 2.18,
+      "sqcand": "130001607412"
+    }
+  ]
+}

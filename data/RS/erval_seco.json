@@ -1,0 +1,271 @@
+{
+  "populacao": 5561,
+  "votosValidos": 4820,
+  "abstencao": 11.81,
+  "prefeito": {
+    "nome": "EDERSON WINK",
+    "nomeUrna": "EDER WINK",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 2233,
+    "percentual": 46.33,
+    "situacao": "Eleito",
+    "sqcand": "210002103721",
+    "vice": "IRTO MANFIO",
+    "viceNomeUrna": "IRTO MANFIO",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002103720",
+    "coligacao": "PP / CIDADANIA / PSDB / MDB / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "ELIAS CAMARGO",
+      "nomeUrna": "ELIAS CAMARGO",
+      "partido": "PT",
+      "numero": "13300",
+      "votos": 405,
+      "percentual": 8.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001993286"
+    },
+    {
+      "nome": "MAIRA INDIANA SANTOS BEHLING",
+      "nomeUrna": "MAIRA BEHLING",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 315,
+      "percentual": 6.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002294389"
+    },
+    {
+      "nome": "VALDERI BRAITENBACH",
+      "nomeUrna": "MANO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 283,
+      "percentual": 5.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001993291"
+    },
+    {
+      "nome": "MAURO LUIS FARIAS",
+      "nomeUrna": "MAURO FARIAS",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 274,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001993292"
+    },
+    {
+      "nome": "LUCAS CAMARGO MANFIO",
+      "nomeUrna": "LUCAS MANFIO",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 274,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002123361"
+    },
+    {
+      "nome": "ROSANA BEATRIZ MANFIO PESSOTTO",
+      "nomeUrna": "PROFESSORA ROSANA",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 270,
+      "percentual": 5.6,
+      "situacao": "Eleito por média",
+      "sqcand": "210001993294"
+    },
+    {
+      "nome": "DOUGLAS MAURICIO HEEMANN",
+      "nomeUrna": "DOUGLAS HEEMANN",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 254,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002123360"
+    },
+    {
+      "nome": "VILMAR SIRINEU MORAES DOS SANTOS",
+      "nomeUrna": "VILMAR MORAES CUPIM",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 235,
+      "percentual": 4.88,
+      "situacao": "Eleito por média",
+      "sqcand": "210002123362"
+    },
+    {
+      "nome": "WOLNEI HORNSCHU",
+      "nomeUrna": "WOLNEI HORNSCHU",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 172,
+      "percentual": 3.57,
+      "situacao": "Eleito por média",
+      "sqcand": "210002294395"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2089,
+      "percentual": 50.62,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1449,
+      "percentual": 35.11,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 492,
+      "percentual": 11.92,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 657,
+      "percentual": 15.41,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 626,
+      "percentual": 14.68,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 403,
+      "percentual": 9.45,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "JORGE ALAN SOUZA",
+      "nomeUrna": "DR. JORGE ALAN",
+      "partido": "PSDB",
+      "numero": "4566",
+      "votos": 356,
+      "percentual": 8.35,
+      "sqcand": "210001620063"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 334,
+      "percentual": 7.83,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 293,
+      "percentual": 6.87,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "NEREU PIOVESAN",
+      "nomeUrna": "NEREU PIOVESAN",
+      "partido": "PT",
+      "numero": "1390",
+      "votos": 246,
+      "percentual": 5.77,
+      "sqcand": "210001604655"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 704,
+      "percentual": 17.69,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 371,
+      "percentual": 9.32,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "RICARDO HENRIQUE FAVIN",
+      "nomeUrna": "RICARDO FAVIN",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 341,
+      "percentual": 8.57,
+      "sqcand": "210001620192"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 318,
+      "percentual": 7.99,
+      "sqcand": "210001621326"
+    },
+    {
+      "nome": "EMANUEL HASSEN DE JESUS",
+      "nomeUrna": "MANECO HASSEN",
+      "partido": "PT",
+      "numero": "13700",
+      "votos": 285,
+      "percentual": 7.16,
+      "sqcand": "210001610603"
+    },
+    {
+      "nome": "SÉRGIO ANTÔNIO GÖRGEN",
+      "nomeUrna": "FREI SÉRGIO",
+      "partido": "PT",
+      "numero": "13690",
+      "votos": 217,
+      "percentual": 5.45,
+      "sqcand": "210001610588"
+    },
+    {
+      "nome": "ZILÁ MARIA BREITENBACH",
+      "nomeUrna": "ZILÁ BREITENBACH",
+      "partido": "PSDB",
+      "numero": "45345",
+      "votos": 186,
+      "percentual": 4.67,
+      "sqcand": "210001620208"
+    }
+  ]
+}

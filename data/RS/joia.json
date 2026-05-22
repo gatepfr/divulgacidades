@@ -1,0 +1,271 @@
+{
+  "populacao": 6310,
+  "votosValidos": 5282,
+  "abstencao": 12.49,
+  "prefeito": {
+    "nome": "DIONEI DE MATOS LEWANDOWSKI",
+    "nomeUrna": "DIONEI LEWANDOWSKI",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3410,
+    "percentual": 64.56,
+    "situacao": "Eleito",
+    "sqcand": "210002132465",
+    "vice": "VASCO ISIDRO PILLATT",
+    "viceNomeUrna": "VASCO PILLATT",
+    "partidoVice": "PP",
+    "sqcandVice": "210002132466",
+    "coligacao": "MDB / PDT / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSÉ EDSON OLIVEIRA SOARES",
+      "nomeUrna": "JOSÉ EDSON",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 327,
+      "percentual": 6.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002260930"
+    },
+    {
+      "nome": "ADENILSON DE SOUZA",
+      "nomeUrna": "ADENILSON BODE",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 289,
+      "percentual": 5.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002131913"
+    },
+    {
+      "nome": "JOSÉ LUCAS DA SILVA",
+      "nomeUrna": "LUCAS SILVA",
+      "partido": "PP",
+      "numero": "11678",
+      "votos": 276,
+      "percentual": 5.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002150070"
+    },
+    {
+      "nome": "LUCIMAR MUNER DE AGUIAR",
+      "nomeUrna": "NICO FRETES",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 210,
+      "percentual": 3.89,
+      "situacao": "Eleito por média",
+      "sqcand": "210002260927"
+    },
+    {
+      "nome": "LUIZ GUSTAVO MACHADO DO NASCIMENTO",
+      "nomeUrna": "GUSTAVO MACHADO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 201,
+      "percentual": 3.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002133043"
+    },
+    {
+      "nome": "JOCINEI BOFF",
+      "nomeUrna": "JOCE BOFF",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 196,
+      "percentual": 3.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002150073"
+    },
+    {
+      "nome": "VANDERLEI DE OLIVEIRA DO AMARAL",
+      "nomeUrna": "VANDERLEI AMARAL",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 187,
+      "percentual": 3.46,
+      "situacao": "Eleito por média",
+      "sqcand": "210002150072"
+    },
+    {
+      "nome": "VALMIR JOSÉ DUTRA VIEIRA",
+      "nomeUrna": "VALMIR",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 186,
+      "percentual": 3.45,
+      "situacao": "Eleito por média",
+      "sqcand": "210002150067"
+    },
+    {
+      "nome": "SILVIO NEI BAÚ",
+      "nomeUrna": "SILVIO BAÚ",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 141,
+      "percentual": 2.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002015644"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2575,
+      "percentual": 54.6,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1640,
+      "percentual": 34.78,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 468,
+      "percentual": 9.92,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ ROBERTO ZUCOLOTTO MOURA",
+      "nomeUrna": "ZÉ ROBERTO",
+      "partido": "PSC",
+      "numero": "2055",
+      "votos": 826,
+      "percentual": 17.02,
+      "sqcand": "210001605655"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 605,
+      "percentual": 12.47,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 592,
+      "percentual": 12.2,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 458,
+      "percentual": 9.44,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 341,
+      "percentual": 7.03,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 179,
+      "percentual": 3.69,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "MARLON ARATOR SANTOS DA ROSA",
+      "nomeUrna": "MARLON SANTOS",
+      "partido": "PL",
+      "numero": "2234",
+      "votos": 151,
+      "percentual": 3.11,
+      "sqcand": "210001648574"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 754,
+      "percentual": 16.39,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "UBIRAJARA MACHADO TEIXEIRA",
+      "nomeUrna": "BIRA TEIXEIRA",
+      "partido": "PT",
+      "numero": "13285",
+      "votos": 392,
+      "percentual": 8.52,
+      "sqcand": "210001610591"
+    },
+    {
+      "nome": "SALMO DIAS DE OLIVEIRA",
+      "nomeUrna": "SALMO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 363,
+      "percentual": 7.89,
+      "sqcand": "210001647178"
+    },
+    {
+      "nome": "JORGE GILMAR AMARAL DE OLIVEIRA",
+      "nomeUrna": "DR JORGE AMARAL",
+      "partido": "PP",
+      "numero": "11440",
+      "votos": 329,
+      "percentual": 7.15,
+      "sqcand": "210001647195"
+    },
+    {
+      "nome": "SÉRGIO ANTÔNIO GÖRGEN",
+      "nomeUrna": "FREI SÉRGIO",
+      "partido": "PT",
+      "numero": "13690",
+      "votos": 261,
+      "percentual": 5.67,
+      "sqcand": "210001610588"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 243,
+      "percentual": 5.28,
+      "sqcand": "210001621326"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 222,
+      "percentual": 4.83,
+      "sqcand": "210001647177"
+    }
+  ]
+}

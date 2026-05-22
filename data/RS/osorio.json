@@ -1,0 +1,311 @@
+{
+  "populacao": 37371,
+  "votosValidos": 26352,
+  "abstencao": 25.31,
+  "prefeito": {
+    "nome": "ROMILDO BOLZAN JÚNIOR",
+    "nomeUrna": "ROMILDO BOLZAN",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 15160,
+    "percentual": 57.53,
+    "situacao": "Eleito",
+    "sqcand": "210002220739",
+    "vice": "ED DA SILVA MORAES",
+    "viceNomeUrna": "ED MORAES",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002220738",
+    "coligacao": "PSD / PC do B / PT / PV / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "ISABEL SILVEIRA DOS SANTOS",
+      "nomeUrna": "PROFESSORA ISABEL",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 1609,
+      "percentual": 6.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002322735"
+    },
+    {
+      "nome": "EDUARDO BORBA PELLEGRINI",
+      "nomeUrna": "DUDU PELLEGRINI",
+      "partido": "MDB",
+      "numero": "15025",
+      "votos": 1377,
+      "percentual": 5.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002284213"
+    },
+    {
+      "nome": "MAICON DA SILVA",
+      "nomeUrna": "MAICON DO PRADO",
+      "partido": "PDT",
+      "numero": "12550",
+      "votos": 1349,
+      "percentual": 5.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002221357"
+    },
+    {
+      "nome": "ROSINARA JARDIM DA SILVA",
+      "nomeUrna": "ROSI JARDIM",
+      "partido": "PDT",
+      "numero": "12212",
+      "votos": 1344,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002221361"
+    },
+    {
+      "nome": "LUCAS AZEVEDO DE PAULA RAMOS",
+      "nomeUrna": "LUCAS AZEVEDO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1139,
+      "percentual": 4.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002284219"
+    },
+    {
+      "nome": "RICARDO TROGLIO BOLZAN",
+      "nomeUrna": "RICARDO BOLZAN",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 1085,
+      "percentual": 4.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002221362"
+    },
+    {
+      "nome": "ÂNGELO RENÊ DA ROSA",
+      "nomeUrna": "DANJO RENÊ",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 1044,
+      "percentual": 3.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002284217"
+    },
+    {
+      "nome": "MARCELO TERRA REIS",
+      "nomeUrna": "MARCELO REIS",
+      "partido": "PDT",
+      "numero": "12233",
+      "votos": 768,
+      "percentual": 2.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002221364"
+    },
+    {
+      "nome": "LUIS CARLOS ALIARDI",
+      "nomeUrna": "LUIS CARLOS COELHÃO",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 738,
+      "percentual": 2.82,
+      "situacao": "Eleito por média",
+      "sqcand": "210002221358"
+    },
+    {
+      "nome": "FERNANDO SANTOS DE JESUS",
+      "nomeUrna": "FERNANDO PALMITAL",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 673,
+      "percentual": 2.57,
+      "situacao": "Eleito por média",
+      "sqcand": "210002284208"
+    },
+    {
+      "nome": "ROSSANO UBIRAJARA DEBASTIANI TEIXEIRA",
+      "nomeUrna": "ROSSANO TEIXEIRA",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 671,
+      "percentual": 2.56,
+      "situacao": "Eleito por média",
+      "sqcand": "210002221363"
+    },
+    {
+      "nome": "MIGUEL FARIAS CALDERON",
+      "nomeUrna": "MIGUEL CALDERON",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 661,
+      "percentual": 2.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002289659"
+    },
+    {
+      "nome": "JULIO CESAR PEREIRA ANELO",
+      "nomeUrna": "JULIO MIRIM",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 583,
+      "percentual": 2.22,
+      "situacao": "Eleito por média",
+      "sqcand": "210002284206"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 10238,
+      "percentual": 40.99,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 9427,
+      "percentual": 37.75,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4799,
+      "percentual": 19.22,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 9198,
+      "percentual": 36.14,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 1554,
+      "percentual": 6.11,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "FERNANDA MELCHIONNA E SILVA",
+      "nomeUrna": "FERNANDA MELCHIONNA",
+      "partido": "PSOL",
+      "numero": "5050",
+      "votos": 1326,
+      "percentual": 5.21,
+      "sqcand": "210001596928"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 1007,
+      "percentual": 3.96,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 942,
+      "percentual": 3.7,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "EDUARDO LUIS RUPPENTHAL",
+      "nomeUrna": "PROFESSOR EDUARDO RUPPENTHAL",
+      "partido": "PSOL",
+      "numero": "5066",
+      "votos": 848,
+      "percentual": 3.33,
+      "sqcand": "210001596920"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 781,
+      "percentual": 3.07,
+      "sqcand": "210001597011"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 7179,
+      "percentual": 29.31,
+      "sqcand": "210001647995"
+    },
+    {
+      "nome": "JOSÉ OLAVO ROSA BISOL",
+      "nomeUrna": "BISOL",
+      "partido": "PDT",
+      "numero": "12233",
+      "votos": 3087,
+      "percentual": 12.6,
+      "sqcand": "210001621291"
+    },
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 985,
+      "percentual": 4.02,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "KAREN MORAIS DOS SANTOS",
+      "nomeUrna": "KAREN SANTOS",
+      "partido": "PSOL",
+      "numero": "50555",
+      "votos": 940,
+      "percentual": 3.84,
+      "sqcand": "210001598524"
+    },
+    {
+      "nome": "GUSTAVO ADOLFO VICTORINO GREHS",
+      "nomeUrna": "GUSTAVO VICTORINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10022",
+      "votos": 809,
+      "percentual": 3.3,
+      "sqcand": "210001601660"
+    },
+    {
+      "nome": "LUCIANA KREBS GENRO",
+      "nomeUrna": "LUCIANA GENRO",
+      "partido": "PSOL",
+      "numero": "50000",
+      "votos": 731,
+      "percentual": 2.98,
+      "sqcand": "210001598528"
+    },
+    {
+      "nome": "CLAUDIO ROBERTO SILVEIRA PARANHOS",
+      "nomeUrna": "CLAUDIO PARANHOS",
+      "partido": "PTB",
+      "numero": "14192",
+      "votos": 456,
+      "percentual": 1.86,
+      "sqcand": "210001649795"
+    }
+  ]
+}

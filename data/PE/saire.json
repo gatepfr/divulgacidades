@@ -1,0 +1,271 @@
+{
+  "populacao": 11384,
+  "votosValidos": 8875,
+  "abstencao": 12.34,
+  "prefeito": {
+    "nome": "GILDO PONTES DE ARRUDA",
+    "nomeUrna": "GILDO DIAS",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 6766,
+    "percentual": 76.24,
+    "situacao": "Eleito",
+    "sqcand": "170001915527",
+    "vice": "DANUBIO EVANGELISTA VIEIRA",
+    "viceNomeUrna": "DANUBIO VIEIRA",
+    "partidoVice": "MDB",
+    "sqcandVice": "170001915528",
+    "coligacao": "PC do B / PT / PV / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSELITO AMARO GOMES DA SILVA",
+      "nomeUrna": "JOSELITO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 844,
+      "percentual": 9.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001915562"
+    },
+    {
+      "nome": "ZACARIAS GESSE PEREIRA DOS SANTOS",
+      "nomeUrna": "BONECO",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 819,
+      "percentual": 8.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001915561"
+    },
+    {
+      "nome": "FERNANDO CABRAL DE ARRUDA",
+      "nomeUrna": "NANDO DE EVERALDO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 783,
+      "percentual": 8.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001915557"
+    },
+    {
+      "nome": "IDELBRANDO PONTES DA SILVA",
+      "nomeUrna": "IDELBRANDO PONTES",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 746,
+      "percentual": 8.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001915563"
+    },
+    {
+      "nome": "CLEIDIANO BEZERRA DE MELO",
+      "nomeUrna": "CLAÚDIO DA MÁQUINA",
+      "partido": "PT",
+      "numero": "13777",
+      "votos": 622,
+      "percentual": 6.69,
+      "situacao": "Eleito por média",
+      "sqcand": "170001915560"
+    },
+    {
+      "nome": "MANOEL HERCULANO DA SILVA",
+      "nomeUrna": "MANOEL DOS FOGOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10125",
+      "votos": 605,
+      "percentual": 6.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002338157"
+    },
+    {
+      "nome": "EUDER ALBUQUERQUE DA SILVA",
+      "nomeUrna": "TIRIRICA",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 602,
+      "percentual": 6.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "170001915595"
+    },
+    {
+      "nome": "ALEXANDRA REJANE DA SILVA",
+      "nomeUrna": "SANDRA DE ZÉ ALBINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 595,
+      "percentual": 6.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002338151"
+    },
+    {
+      "nome": "EDNALDO FERREIRA DE OLIVEIRA",
+      "nomeUrna": "EDNALDO DA INTERNET",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 531,
+      "percentual": 5.71,
+      "situacao": "Eleito por média",
+      "sqcand": "170001915600"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 3815,
+      "percentual": 57.5,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1797,
+      "percentual": 27.08,
+      "sqcand": "170001604083"
+    },
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 637,
+      "percentual": 9.6,
+      "sqcand": "170001610248"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANDRÉ FERREIRA RODRIGUES",
+      "nomeUrna": "ANDRÉ FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2545,
+      "percentual": 33.1,
+      "sqcand": "170001609080"
+    },
+    {
+      "nome": "CLODOALDO MAGALHÃES OLIVEIRA LYRA",
+      "nomeUrna": "CLODOALDO MAGALHÃES",
+      "partido": "PV",
+      "numero": "4333",
+      "votos": 1316,
+      "percentual": 17.12,
+      "sqcand": "170001609025"
+    },
+    {
+      "nome": "EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA",
+      "nomeUrna": "EDUARDO DA FONTE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 771,
+      "percentual": 10.03,
+      "sqcand": "170001618611"
+    },
+    {
+      "nome": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+      "nomeUrna": "IZA ARRUDA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 390,
+      "percentual": 5.07,
+      "sqcand": "170001613278"
+    },
+    {
+      "nome": "JOSÉ MENDONÇA BEZERRA FILHO",
+      "nomeUrna": "MENDONÇA FILHO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 205,
+      "percentual": 2.67,
+      "sqcand": "170001609111"
+    },
+    {
+      "nome": "ERICA CLARISSA BORBA CORDEIRO DE MOURA",
+      "nomeUrna": "CLARISSA TÉRCIO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 186,
+      "percentual": 2.42,
+      "sqcand": "170001618605"
+    },
+    {
+      "nome": "TÚLIO GADELHA SALES DE MELO",
+      "nomeUrna": "TÚLIO GADELHA",
+      "partido": "REDE",
+      "numero": "1818",
+      "votos": 184,
+      "percentual": 2.39,
+      "sqcand": "170001619597"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ERIBERTO GABRIEL ACIOLI MEDEIROS",
+      "nomeUrna": "ERIBERTO FILHO",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 2154,
+      "percentual": 29.82,
+      "sqcand": "170001620394"
+    },
+    {
+      "nome": "JOÃO PAULO DA COSTA CAVALCANTI",
+      "nomeUrna": "JOÃO PAULO COSTA",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 1032,
+      "percentual": 14.29,
+      "sqcand": "170001608952"
+    },
+    {
+      "nome": "KAIO CESAR DE MOURA MANIÇOBA NOVAES FERRAZ",
+      "nomeUrna": "KAIO MANIÇOBA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 489,
+      "percentual": 6.77,
+      "sqcand": "170001618737"
+    },
+    {
+      "nome": "JOÃO VICTOR QUEIROZ DO NASCIMENTO",
+      "nomeUrna": "JOÃO DE NADEGI",
+      "partido": "PV",
+      "numero": "43643",
+      "votos": 401,
+      "percentual": 5.55,
+      "sqcand": "170001608974"
+    },
+    {
+      "nome": "JOÃO TENÓRIO VAZ CAVALCANTI JÚNIOR",
+      "nomeUrna": "JOÃOZINHO TENÓRIO",
+      "partido": "PATRIOTA",
+      "numero": "51555",
+      "votos": 350,
+      "percentual": 4.85,
+      "sqcand": "170001609868"
+    },
+    {
+      "nome": "ALBERTO JORGE DO NASCIMENTO FEITOSA",
+      "nomeUrna": "CORONEL ALBERTO FEITOSA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 191,
+      "percentual": 2.64,
+      "sqcand": "170001619685"
+    },
+    {
+      "nome": "JOSÉ IVANILDO DE MOURA JUNIOR",
+      "nomeUrna": "PASTOR JUNIOR TERCIO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 165,
+      "percentual": 2.28,
+      "sqcand": "170001618752"
+    }
+  ]
+}

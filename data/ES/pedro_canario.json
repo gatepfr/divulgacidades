@@ -1,0 +1,291 @@
+{
+  "populacao": 19141,
+  "votosValidos": 13422,
+  "abstencao": 25.92,
+  "prefeito": {
+    "nome": "KLEILSON MARTINS REZENDE",
+    "nomeUrna": "KLEILSON REZENDE",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 10837,
+    "percentual": 80.74,
+    "situacao": "Eleito",
+    "sqcand": "80002156269",
+    "vice": "DENIS PEREIRA AMANCIO",
+    "viceNomeUrna": "DENIS AMÂNCIO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "80002156270",
+    "coligacao": "PP / PSB / PODE / REPUBLICANOS / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "CLÉCIO PEREIRA DA SILVA",
+      "nomeUrna": "KELSAT",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 594,
+      "percentual": 4.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002216553"
+    },
+    {
+      "nome": "ROGERIO MOURA DE OLIVEIRA",
+      "nomeUrna": "ROGERIO MOURA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 578,
+      "percentual": 4.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002216558"
+    },
+    {
+      "nome": "RENATO PINHEIRO SILVA",
+      "nomeUrna": "RENATO DE TAQUARAS",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 568,
+      "percentual": 4.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002215742"
+    },
+    {
+      "nome": "GILBERTO CARLOS COELHO",
+      "nomeUrna": "GILBERTO COELHO",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 517,
+      "percentual": 3.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002214330"
+    },
+    {
+      "nome": "GILDENE PEREIRA DOS SANTOS",
+      "nomeUrna": "GIL DA SAÚDE",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 505,
+      "percentual": 3.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002217193"
+    },
+    {
+      "nome": "LUCAS VASCONCELLOS PEREIRA",
+      "nomeUrna": "LUQUINHAS BAIENSE",
+      "partido": "PSB",
+      "numero": "40122",
+      "votos": 478,
+      "percentual": 3.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002217186"
+    },
+    {
+      "nome": "MATEUS SANTOS TIMBOHIBA JUNIOR",
+      "nomeUrna": "MATEUS JUNIOR DO CAMATA",
+      "partido": "PODE",
+      "numero": "20999",
+      "votos": 443,
+      "percentual": 3.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002215732"
+    },
+    {
+      "nome": "EDINALDO VENTURINI DE AMORIM",
+      "nomeUrna": "CABO VENTURINI",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 401,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "80002216562"
+    },
+    {
+      "nome": "WANDERSON SANTOS DE SOUZA",
+      "nomeUrna": "WANDERSON SANTOS",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 388,
+      "percentual": 2.81,
+      "situacao": "Eleito por média",
+      "sqcand": "80002217196"
+    },
+    {
+      "nome": "FRANCISCO CAMILO DOS SANTOS",
+      "nomeUrna": "CHIQUINHO DO CAMATA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 350,
+      "percentual": 2.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002214331"
+    },
+    {
+      "nome": "JOSIEL CAMPOS GOMES",
+      "nomeUrna": "DIEL DA PIZZARIA",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 341,
+      "percentual": 2.47,
+      "situacao": "Eleito por média",
+      "sqcand": "80002214325"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 4661,
+      "percentual": 40.84,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 3713,
+      "percentual": 32.53,
+      "sqcand": "80001654081"
+    },
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2847,
+      "percentual": 24.95,
+      "sqcand": "80001720164"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ EUSTÁQUIO DE FREITAS",
+      "nomeUrna": "FREITAS",
+      "partido": "PSB",
+      "numero": "4010",
+      "votos": 3323,
+      "percentual": 28.41,
+      "sqcand": "80001620967"
+    },
+    {
+      "nome": "RAFAEL FAVATTO GARCIA",
+      "nomeUrna": "DR RAFAEL FAVATTO",
+      "partido": "PATRIOTA",
+      "numero": "5151",
+      "votos": 1085,
+      "percentual": 9.28,
+      "sqcand": "80001620359"
+    },
+    {
+      "nome": "JOSIAS MARIO DA VITÓRIA",
+      "nomeUrna": "DA VITÓRIA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 805,
+      "percentual": 6.88,
+      "sqcand": "80001650200"
+    },
+    {
+      "nome": "HELDER IGNÁCIO SALOMÃO",
+      "nomeUrna": "HELDER SALOMÃO",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 610,
+      "percentual": 5.22,
+      "sqcand": "80001719429"
+    },
+    {
+      "nome": "GIVALDO VIEIRA DA SILVA",
+      "nomeUrna": "GIVALDO VIEIRA",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 546,
+      "percentual": 4.67,
+      "sqcand": "80001620974"
+    },
+    {
+      "nome": "JORGE SILVA",
+      "nomeUrna": "DR. JORGE SILVA",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 540,
+      "percentual": 4.62,
+      "sqcand": "80001604533"
+    },
+    {
+      "nome": "MARCOS ANTONIO FERNANDES GARCIA",
+      "nomeUrna": "MARCOS GARCIA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 494,
+      "percentual": 4.22,
+      "sqcand": "80001650192"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALEXANDRE ARAUJO MARÇAL",
+      "nomeUrna": "ALEXANDRE XAMBINHO",
+      "partido": "PSC",
+      "numero": "20789",
+      "votos": 2276,
+      "percentual": 19.96,
+      "sqcand": "80001645477"
+    },
+    {
+      "nome": "TYAGO RIBEIRO HOFFMANN",
+      "nomeUrna": "TYAGO HOFFMANN",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 897,
+      "percentual": 7.87,
+      "sqcand": "80001621155"
+    },
+    {
+      "nome": "RODRIGO  AZEVEDO BATISTA",
+      "nomeUrna": "RODRIGO DA COZIVIP",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 771,
+      "percentual": 6.76,
+      "sqcand": "80001652596"
+    },
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 697,
+      "percentual": 6.11,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "RAQUEL FERREIRA MAGESTE LESSA",
+      "nomeUrna": "RAQUEL LESSA",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 661,
+      "percentual": 5.8,
+      "sqcand": "80001649890"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS MACHADO",
+      "nomeUrna": "TONINHO DA EMATER",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 484,
+      "percentual": 4.24,
+      "sqcand": "80001621169"
+    },
+    {
+      "nome": "ALEXANDRE MARCELO COUTINHO SANTOS",
+      "nomeUrna": "MARCELO SANTOS",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 375,
+      "percentual": 3.29,
+      "sqcand": "80001609613"
+    }
+  ]
+}

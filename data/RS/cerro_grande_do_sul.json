@@ -1,0 +1,271 @@
+{
+  "populacao": 7299,
+  "votosValidos": 6201,
+  "abstencao": 13.43,
+  "prefeito": {
+    "nome": "VILMAR WOLFLE SCHWALM",
+    "nomeUrna": "VILMAR SCHWALM",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2903,
+    "percentual": 46.82,
+    "situacao": "Eleito",
+    "sqcand": "210001899659",
+    "vice": "EDUARDO KOSLOWSKI DE OLIVEIRA",
+    "viceNomeUrna": "DUDA TAVARES",
+    "partidoVice": "PSD",
+    "sqcandVice": "210001899658",
+    "coligacao": "PP / MDB / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIVAN VARGAS",
+      "nomeUrna": "IVO VARGAS",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 396,
+      "percentual": 6.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002301407"
+    },
+    {
+      "nome": "GERALDO MUNHOZ MEDEIROS",
+      "nomeUrna": "GERALDO CABELUDO",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 311,
+      "percentual": 5.01,
+      "situacao": "Eleito por média",
+      "sqcand": "210002301408"
+    },
+    {
+      "nome": "KAREN EYMAEL PACHECO",
+      "nomeUrna": "KAREN EYMAEL PACHECO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 271,
+      "percentual": 4.36,
+      "situacao": "Eleito por média",
+      "sqcand": "210002124242"
+    },
+    {
+      "nome": "MARLENE HEIDRICH",
+      "nomeUrna": "MARLENE",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 230,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001924222"
+    },
+    {
+      "nome": "JAQUELINE JORGE BISCHOFF",
+      "nomeUrna": "JAQUE",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 221,
+      "percentual": 3.56,
+      "situacao": "Eleito por média",
+      "sqcand": "210002346907"
+    },
+    {
+      "nome": "GIOVANI LEONEL DA SILVA DOS PASSOS",
+      "nomeUrna": "GIOVANI LEONEL",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 216,
+      "percentual": 3.48,
+      "situacao": "Eleito por média",
+      "sqcand": "210001924220"
+    },
+    {
+      "nome": "CLAUDIA REGINA PACHECO COUTINHO",
+      "nomeUrna": "CLAUDIA COUTINHO",
+      "partido": "MDB",
+      "numero": "15200",
+      "votos": 164,
+      "percentual": 2.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001975858"
+    },
+    {
+      "nome": "ZENAIDE WEINHEIMER SCHWALM",
+      "nomeUrna": "ZENAIDE",
+      "partido": "PP",
+      "numero": "11640",
+      "votos": 149,
+      "percentual": 2.4,
+      "situacao": "Eleito por média",
+      "sqcand": "210001924219"
+    },
+    {
+      "nome": "ELARIO SCHULTZ",
+      "nomeUrna": "ELARIO SCHULTZ",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 147,
+      "percentual": 2.37,
+      "situacao": "Eleito por média",
+      "sqcand": "210001975854"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1958,
+      "percentual": 40.68,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1717,
+      "percentual": 35.67,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1081,
+      "percentual": 22.46,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FÁBIA ALMEIDA RICHTER",
+      "nomeUrna": "ENFERMEIRA FÁBIA RICHTER",
+      "partido": "PSD",
+      "numero": "5540",
+      "votos": 936,
+      "percentual": 18.73,
+      "sqcand": "210001613998"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 611,
+      "percentual": 12.23,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 273,
+      "percentual": 5.46,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 271,
+      "percentual": 5.42,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "MARCELO PIRES MORAES",
+      "nomeUrna": "MARCELO MORAES",
+      "partido": "PL",
+      "numero": "2214",
+      "votos": 261,
+      "percentual": 5.22,
+      "sqcand": "210001648576"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 248,
+      "percentual": 4.96,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "RONALDO NOGUEIRA DE OLIVEIRA",
+      "nomeUrna": "RONALDO NOGUEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1014",
+      "votos": 225,
+      "percentual": 4.5,
+      "sqcand": "210001601586"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCUS VINÍCIUS VIEIRA DE ALMEIDA",
+      "nomeUrna": "MARCUS VINÍCIUS",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 1718,
+      "percentual": 35.64,
+      "sqcand": "210001647184"
+    },
+    {
+      "nome": "SILVIO LUIZ DA SILVA RAFAELI",
+      "nomeUrna": "SILVIO RAFAELI",
+      "partido": "PDT",
+      "numero": "12200",
+      "votos": 591,
+      "percentual": 12.26,
+      "sqcand": "210001621304"
+    },
+    {
+      "nome": "JOSÉ SIDNEY NUNES DE ALMEIDA",
+      "nomeUrna": "ZÉ NUNES",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 534,
+      "percentual": 11.08,
+      "sqcand": "210001610623"
+    },
+    {
+      "nome": "ALOISIO TALSO CLASSMANN",
+      "nomeUrna": "CLASSMANN",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 249,
+      "percentual": 5.16,
+      "sqcand": "210001601953"
+    },
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 240,
+      "percentual": 4.98,
+      "sqcand": "210001647995"
+    },
+    {
+      "nome": "ABNER DOS SANTOS DILLMANN",
+      "nomeUrna": "ABNER DILLMANN",
+      "partido": "PSDB",
+      "numero": "45500",
+      "votos": 194,
+      "percentual": 4.02,
+      "sqcand": "210001620209"
+    },
+    {
+      "nome": "LAURA SOARES SITO SILVEIRA",
+      "nomeUrna": "LAURA SITO",
+      "partido": "PT",
+      "numero": "13300",
+      "votos": 98,
+      "percentual": 2.03,
+      "sqcand": "210001610626"
+    }
+  ]
+}

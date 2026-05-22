@@ -1,0 +1,291 @@
+{
+  "populacao": 15387,
+  "votosValidos": 12560,
+  "abstencao": 15.62,
+  "prefeito": {
+    "nome": "LIVIA CARLA DA SILVA ALVES",
+    "nomeUrna": "LIVIA CARLA",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 7647,
+    "percentual": 60.88,
+    "situacao": "Eleito",
+    "sqcand": "20002084730",
+    "vice": "LUCAS MARTINS ALVES",
+    "viceNomeUrna": "LUCAS ALVES",
+    "partidoVice": "PSD",
+    "sqcandVice": "20002084731",
+    "coligacao": "REPUBLICANOS / PSD / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "IGOR PATRÍCIO DE LIMA COSTA",
+      "nomeUrna": "IGOR COSTA",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 699,
+      "percentual": 5.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002148677"
+    },
+    {
+      "nome": "JOSÉ FLÁVIO DA SILVA SOUZA",
+      "nomeUrna": "FLÁVIO MUSKYTO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 665,
+      "percentual": 5.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002148684"
+    },
+    {
+      "nome": "SIMONY DE FATIMA BIANOR FARIAS",
+      "nomeUrna": "SIMONY FARIAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 433,
+      "percentual": 3.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002369655"
+    },
+    {
+      "nome": "ELIZIO ALVES DE LIMA JUNIOR",
+      "nomeUrna": "JUNIOR DO CARNEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 403,
+      "percentual": 3.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002369656"
+    },
+    {
+      "nome": "AURELIA MARIA SILVA DA COSTA",
+      "nomeUrna": "LELA DA SAUDE",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 372,
+      "percentual": 2.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002369652"
+    },
+    {
+      "nome": "ADALIO PEREIRA DOS SANTOS NETO",
+      "nomeUrna": "ADALIO RIOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 370,
+      "percentual": 2.92,
+      "situacao": "Eleito por média",
+      "sqcand": "20002369659"
+    },
+    {
+      "nome": "LAURA DE CERQUEIRA ANGELO",
+      "nomeUrna": "LAURA ÂNGELO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 355,
+      "percentual": 2.81,
+      "situacao": "Eleito por média",
+      "sqcand": "20002148685"
+    },
+    {
+      "nome": "GUSTAVO DE MELO CAVALCANTE",
+      "nomeUrna": "GUSTAVO MELO",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 354,
+      "percentual": 2.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002135255"
+    },
+    {
+      "nome": "EDKEMPES LEOCADIO DOS SANTOS",
+      "nomeUrna": "NAM LEOCADIO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 330,
+      "percentual": 2.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002369969"
+    },
+    {
+      "nome": "FRANCOES OTAVIANO PEREIRA",
+      "nomeUrna": "FAN DO LAVA JATO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77888",
+      "votos": 322,
+      "percentual": 2.55,
+      "situacao": "Eleito por média",
+      "sqcand": "20002369672"
+    },
+    {
+      "nome": "LIZIANE LUCENA CAVALCANTI VIEIRA",
+      "nomeUrna": "LIZI",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 258,
+      "percentual": 2.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002259234"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "DAVID CABRAL DAVINO FILHO",
+      "nomeUrna": "DAVI DAVINO FILHO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 4551,
+      "percentual": 56.61,
+      "sqcand": "20001653095"
+    },
+    {
+      "nome": "JOSÉ RENAN VASCONCELOS CALHEIROS FILHO",
+      "nomeUrna": "RENAN FILHO",
+      "partido": "MDB",
+      "numero": "151",
+      "votos": 3467,
+      "percentual": 43.13,
+      "sqcand": "20001698127"
+    },
+    {
+      "nome": "MARIO AGRA JÚNIOR",
+      "nomeUrna": "MARIO AGRA",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 21,
+      "percentual": 0.26,
+      "sqcand": "20001611211"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NIVALDO FERREIRA DE ALBUQUERQUE NETO",
+      "nomeUrna": "NIVALDO ALBUQUERQUE",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 3579,
+      "percentual": 40.99,
+      "sqcand": "20001652450"
+    },
+    {
+      "nome": "JOÃO ANTÔNIO HOLANDA CALDAS",
+      "nomeUrna": "DR JHC",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 967,
+      "percentual": 11.08,
+      "sqcand": "20001652750"
+    },
+    {
+      "nome": "LUCIANO SURUAGY DO AMARAL FILHO",
+      "nomeUrna": "LUCIANO AMARAL",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 764,
+      "percentual": 8.75,
+      "sqcand": "20001610335"
+    },
+    {
+      "nome": "LUIZ GUSTAVO DA SILVA LIMA",
+      "nomeUrna": "GUSTAVO LIMA",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 450,
+      "percentual": 5.15,
+      "sqcand": "20001652302"
+    },
+    {
+      "nome": "MARX BELTRÃO LIMA SIQUEIRA",
+      "nomeUrna": "MARX BELTRÃO",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 315,
+      "percentual": 3.61,
+      "sqcand": "20001614180"
+    },
+    {
+      "nome": "ALFREDO GASPAR DE MENDONÇA NETO",
+      "nomeUrna": "ALFREDO GASPAR",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 263,
+      "percentual": 3.01,
+      "sqcand": "20001611726"
+    },
+    {
+      "nome": "PAULO FERNANDO DOS SANTOS",
+      "nomeUrna": "PAULÃO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 203,
+      "percentual": 2.33,
+      "sqcand": "20001610332"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTONIO RIBEIRO DE ALBUQUERQUE",
+      "nomeUrna": "ANTONIO ALBUQUERQUE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 3000,
+      "percentual": 34.73,
+      "sqcand": "20001652534"
+    },
+    {
+      "nome": "CIBELE CORADO DE MOURA",
+      "nomeUrna": "CIBELE MOURA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 2473,
+      "percentual": 28.63,
+      "sqcand": "20001653516"
+    },
+    {
+      "nome": "FLÁVIA MARIA SILVA CAVALCANTE DE OLIVEIRA",
+      "nomeUrna": "FLÁVIA CAVALCANTE",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 484,
+      "percentual": 5.6,
+      "sqcand": "20001653535"
+    },
+    {
+      "nome": "GEORGE RAPOSO MAIA NETO",
+      "nomeUrna": "LELO MAIA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 275,
+      "percentual": 3.18,
+      "sqcand": "20001612366"
+    },
+    {
+      "nome": "GILVAN GOMES BARROS FILHO",
+      "nomeUrna": "GILVAN FILHO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 257,
+      "percentual": 2.98,
+      "sqcand": "20001653519"
+    },
+    {
+      "nome": "JOSE FRANCISCO CERQUEIRA TENORIO",
+      "nomeUrna": "FRANCISCO TENORIO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 229,
+      "percentual": 2.65,
+      "sqcand": "20001636046"
+    },
+    {
+      "nome": "LUIZ ALBERTO ALVES TEIXEIRA",
+      "nomeUrna": "CABO BEBETO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 136,
+      "percentual": 1.57,
+      "sqcand": "20001620174"
+    }
+  ]
+}

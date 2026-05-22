@@ -1,0 +1,271 @@
+{
+  "populacao": 13382,
+  "votosValidos": 10599,
+  "abstencao": 17.36,
+  "prefeito": {
+    "nome": "GILSON DOS SANTOS",
+    "nomeUrna": "GILSON DOS SANTOS",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 8580,
+    "percentual": 80.95,
+    "situacao": "Eleito",
+    "sqcand": "210002057825",
+    "vice": "GILSON LARI TRENNEPOHL",
+    "viceNomeUrna": "GILSON TRENNEPOHL",
+    "partidoVice": "PL",
+    "sqcandVice": "210002057824",
+    "coligacao": "PL"
+  },
+  "vereadores": [
+    {
+      "nome": "CRISTIANO FARIAS DE LIMA",
+      "nomeUrna": "CRISTINO LIMA",
+      "partido": "PL",
+      "numero": "22200",
+      "votos": 1546,
+      "percentual": 14.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002059929"
+    },
+    {
+      "nome": "MAIQUEL REGIS DE SOUZA",
+      "nomeUrna": "MAIQUEL SOUZA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 770,
+      "percentual": 7.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002059928"
+    },
+    {
+      "nome": "MARINA FATIMA TRENNEPOHL CRESTANI",
+      "nomeUrna": "NECA TRENNEPOHL CRESTANI",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 723,
+      "percentual": 6.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002059933"
+    },
+    {
+      "nome": "PAULO LUIS LASSIG",
+      "nomeUrna": "PAULO LASSIG",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 651,
+      "percentual": 6.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002154900"
+    },
+    {
+      "nome": "DIEGO ANTONIO MAURER",
+      "nomeUrna": "DIEGO MAURER",
+      "partido": "REPUBLICANOS",
+      "numero": "10999",
+      "votos": 500,
+      "percentual": 4.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002058728"
+    },
+    {
+      "nome": "ÉMERSON QUADROS DE MOURA",
+      "nomeUrna": "ÉMERSON QUADROS DE MOURA",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 492,
+      "percentual": 4.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002059930"
+    },
+    {
+      "nome": "PAULO RODRIGUES",
+      "nomeUrna": "PAULAO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 474,
+      "percentual": 4.47,
+      "situacao": "Eleito por média",
+      "sqcand": "210002154898"
+    },
+    {
+      "nome": "ANTONIO SADI RIBAS",
+      "nomeUrna": "SADI",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 421,
+      "percentual": 3.97,
+      "situacao": "Eleito por média",
+      "sqcand": "210002058732"
+    },
+    {
+      "nome": "KARIN BEATRIZ KÜMPEL",
+      "nomeUrna": "PROF ª KARIN",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 301,
+      "percentual": 2.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002051308"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 5662,
+      "percentual": 58.32,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2359,
+      "percentual": 24.3,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1544,
+      "percentual": 15.9,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2636,
+      "percentual": 26.33,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 859,
+      "percentual": 8.58,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "UBIRATAN ANTUNES SANDERSON",
+      "nomeUrna": "SANDERSON",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 545,
+      "percentual": 5.44,
+      "sqcand": "210001648581"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 483,
+      "percentual": 4.82,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "ERIC LINS GRILO",
+      "nomeUrna": "ERIC LINS",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 460,
+      "percentual": 4.59,
+      "sqcand": "210001648566"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 446,
+      "percentual": 4.45,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 425,
+      "percentual": 4.24,
+      "sqcand": "210001597011"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 1153,
+      "percentual": 12.1,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "MARCIO ASSIS PATUSSI",
+      "nomeUrna": "MARCIO PATUSSI",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 789,
+      "percentual": 8.28,
+      "sqcand": "210001648956"
+    },
+    {
+      "nome": "ADRIANO MARQUES DORNELLES",
+      "nomeUrna": "ADRIANO DORNELLES",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 685,
+      "percentual": 7.19,
+      "sqcand": "210001648960"
+    },
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 568,
+      "percentual": 5.96,
+      "sqcand": "210001647982"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 540,
+      "percentual": 5.67,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 483,
+      "percentual": 5.07,
+      "sqcand": "210001602904"
+    },
+    {
+      "nome": "CLAIR TOMÉ KUHN",
+      "nomeUrna": "CLAIR KUHN",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 480,
+      "percentual": 5.04,
+      "sqcand": "210001647986"
+    }
+  ]
+}

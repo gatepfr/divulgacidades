@@ -1,0 +1,271 @@
+{
+  "populacao": 5300,
+  "votosValidos": 4733,
+  "abstencao": 8.04,
+  "prefeito": {
+    "nome": "GILNEI CAPELETTI",
+    "nomeUrna": "GILNEI CAPELETTI CHILO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2737,
+    "percentual": 57.83,
+    "situacao": "Eleito",
+    "sqcand": "210002013609",
+    "vice": "FÉLIX ALEXANDRO ALLES",
+    "viceNomeUrna": "FÉLIX ALLES",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002013608",
+    "coligacao": "MDB / PDT / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "TARCÍSIO SCHUCK",
+      "nomeUrna": "SCHUCKINHA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 351,
+      "percentual": 7.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002236926"
+    },
+    {
+      "nome": "PAULO HENRIQUE KAEFER",
+      "nomeUrna": "PAULINHO DA SAÚDE",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 337,
+      "percentual": 7.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002156533"
+    },
+    {
+      "nome": "JAIME ANDRÉ MORSCHEL",
+      "nomeUrna": "JAIME DA AGRICULTURA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 327,
+      "percentual": 6.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002262587"
+    },
+    {
+      "nome": "MICHEL LAMMEL",
+      "nomeUrna": "SOLDADO LAMMEL",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 319,
+      "percentual": 6.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002040989"
+    },
+    {
+      "nome": "CLEIDIR ARNOLD",
+      "nomeUrna": "CLEIDIR ARNOLD CLET",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 314,
+      "percentual": 6.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002040987"
+    },
+    {
+      "nome": "FERNANDA WAGNER",
+      "nomeUrna": "FERNANDA WAGNER",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 221,
+      "percentual": 4.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002236930"
+    },
+    {
+      "nome": "CLÉRICE RODRIGO DE MOURA",
+      "nomeUrna": "PROFESSOR CLERICE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 195,
+      "percentual": 4.08,
+      "situacao": "Eleito por média",
+      "sqcand": "210002237241"
+    },
+    {
+      "nome": "GEOVANI KUNZLER",
+      "nomeUrna": "GEOVANI KUNZLER",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 190,
+      "percentual": 3.97,
+      "situacao": "Eleito por média",
+      "sqcand": "210002040984"
+    },
+    {
+      "nome": "DIEGO JOEL LECHNER",
+      "nomeUrna": "DIEGO LECHNER",
+      "partido": "PDT",
+      "numero": "12666",
+      "votos": 175,
+      "percentual": 3.66,
+      "situacao": "Eleito por média",
+      "sqcand": "210002262585"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1819,
+      "percentual": 47.88,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1092,
+      "percentual": 28.74,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 793,
+      "percentual": 20.87,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 872,
+      "percentual": 21.56,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 471,
+      "percentual": 11.65,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 399,
+      "percentual": 9.87,
+      "sqcand": "210001621256"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 285,
+      "percentual": 7.05,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 256,
+      "percentual": 6.33,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 226,
+      "percentual": 5.59,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "RENATO DELMAR MOLLING",
+      "nomeUrna": "RENATO MOLLING",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 178,
+      "percentual": 4.4,
+      "sqcand": "210001646682"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TÂNIA TEREZINHA DA SILVA",
+      "nomeUrna": "TANIA DA SILVA",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 1275,
+      "percentual": 32.73,
+      "sqcand": "210001648005"
+    },
+    {
+      "nome": "JOEL LEANDRO WILHELM",
+      "nomeUrna": "JOEL DE IGREJINHA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 740,
+      "percentual": 18.99,
+      "sqcand": "210001647191"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 624,
+      "percentual": 16.02,
+      "sqcand": "210001602904"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 188,
+      "percentual": 4.83,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "FELIPE KUHN BRAUN",
+      "nomeUrna": "FELIPE KUHN BRAUN",
+      "partido": "PP",
+      "numero": "11116",
+      "votos": 115,
+      "percentual": 2.95,
+      "sqcand": "210001647162"
+    },
+    {
+      "nome": "JOSE WALDIR DILKIN",
+      "nomeUrna": "WALDIR DILKIN",
+      "partido": "PODE",
+      "numero": "19077",
+      "votos": 80,
+      "percentual": 2.05,
+      "sqcand": "210001596152"
+    },
+    {
+      "nome": "MIGUEL SOLDATELLI ROSSETTO",
+      "nomeUrna": "MIGUEL ROSSETTO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 55,
+      "percentual": 1.41,
+      "sqcand": "210001610633"
+    }
+  ]
+}

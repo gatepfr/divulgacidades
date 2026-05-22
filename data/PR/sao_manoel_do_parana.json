@@ -1,0 +1,271 @@
+{
+  "populacao": 2122,
+  "votosValidos": 1881,
+  "abstencao": 9.61,
+  "prefeito": {
+    "nome": "VITOR HUGO RODRIGUES",
+    "nomeUrna": "HUGO LAZINHO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 973,
+    "percentual": 51.73,
+    "situacao": "Eleito",
+    "sqcand": "160002323389",
+    "vice": "ANTONIO CARLOS DINATO",
+    "viceNomeUrna": "TUNICÃO",
+    "partidoVice": "PSB",
+    "sqcandVice": "160002323388",
+    "coligacao": "UNIÃO / PL / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "ELTON JOSÉ PORTO",
+      "nomeUrna": "PELICA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 159,
+      "percentual": 8.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002323155"
+    },
+    {
+      "nome": "CLEIBERTO MARTINS RODRIGUES",
+      "nomeUrna": "BETO QUENTAL",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 124,
+      "percentual": 6.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002026061"
+    },
+    {
+      "nome": "JAILTON FERREIRA BONFIM",
+      "nomeUrna": "JAILTON",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 113,
+      "percentual": 5.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002026060"
+    },
+    {
+      "nome": "WALDIR CLEMENTE DE ARRUDA",
+      "nomeUrna": "WALDIR PERNAMBUCO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 111,
+      "percentual": 5.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002323757"
+    },
+    {
+      "nome": "VIVIANE DA SILVA ALVES",
+      "nomeUrna": "VIVIANE",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 96,
+      "percentual": 5.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002323759"
+    },
+    {
+      "nome": "RENATO DE VICENTE",
+      "nomeUrna": "RENATO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 90,
+      "percentual": 4.77,
+      "situacao": "Eleito por média",
+      "sqcand": "160002026063"
+    },
+    {
+      "nome": "AMARILDO DE OLIVERIA CORSI",
+      "nomeUrna": "AMARILDO CORSI",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 85,
+      "percentual": 4.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002323157"
+    },
+    {
+      "nome": "REGIS JOSÉ FERREIRA",
+      "nomeUrna": "REGIS FERREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 75,
+      "percentual": 3.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002026054"
+    },
+    {
+      "nome": "LEILA DENIZE DA SILVA",
+      "nomeUrna": "LEILA DENIZE",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 70,
+      "percentual": 3.71,
+      "situacao": "Eleito por média",
+      "sqcand": "160002026052"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 600,
+      "percentual": 41.93,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 388,
+      "percentual": 27.11,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 376,
+      "percentual": 26.28,
+      "sqcand": "160001621868"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 427,
+      "percentual": 28.64,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "SEBASTIÃO HENRIQUE DE MEDEIROS",
+      "nomeUrna": "TIÃO MEDEIROS",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 223,
+      "percentual": 14.96,
+      "sqcand": "160001603306"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 192,
+      "percentual": 12.88,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "REINHOLD STEPHANES JUNIOR",
+      "nomeUrna": "STEPHANES",
+      "partido": "PSD",
+      "numero": "5515",
+      "votos": 168,
+      "percentual": 11.27,
+      "sqcand": "160001622303"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 121,
+      "percentual": 8.12,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 56,
+      "percentual": 3.76,
+      "sqcand": "160001614525"
+    },
+    {
+      "nome": "GILSON CARDOSO FAHUR",
+      "nomeUrna": "SARGENTO FAHUR",
+      "partido": "PSD",
+      "numero": "5590",
+      "votos": 45,
+      "percentual": 3.02,
+      "sqcand": "160001622298"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 403,
+      "percentual": 28.44,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "SERGIO PEREIRA JUNIOR",
+      "nomeUrna": "SERGINHO",
+      "partido": "PSB",
+      "numero": "40231",
+      "votos": 360,
+      "percentual": 25.41,
+      "sqcand": "160001621871"
+    },
+    {
+      "nome": "MARCEL HENRIQUE MICHELETTO",
+      "nomeUrna": "MARCEL MICHELETTO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 273,
+      "percentual": 19.27,
+      "sqcand": "160001654935"
+    },
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 181,
+      "percentual": 12.77,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "ADEMIR FLOR DA SILVA",
+      "nomeUrna": "ADEMIR FLOR DA LOTERICA",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 38,
+      "percentual": 2.68,
+      "sqcand": "160001614846"
+    },
+    {
+      "nome": "DOMINGOS ABEL GONCALVES DA CRUZ JUNIOR",
+      "nomeUrna": "PROFESSOR DOMINGOS",
+      "partido": "PT",
+      "numero": "13003",
+      "votos": 18,
+      "percentual": 1.27,
+      "sqcand": "160001614995"
+    },
+    {
+      "nome": "MAURICIO THADEU DE MELLO E SILVA",
+      "nomeUrna": "REQUIÃO FILHO",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 12,
+      "percentual": 0.85,
+      "sqcand": "160001615006"
+    }
+  ]
+}

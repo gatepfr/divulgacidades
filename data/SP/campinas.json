@@ -1,0 +1,511 @@
+{
+  "populacao": 884726,
+  "votosValidos": 531870,
+  "abstencao": 30.97,
+  "prefeito": {
+    "nome": "DÁRIO JORGE GIOLO SAADI",
+    "nomeUrna": "DÁRIO SAADI",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 355800,
+    "percentual": 66.9,
+    "situacao": "Eleito",
+    "sqcand": "250001918263",
+    "vice": "WANDERLEY DE ALMEIDA",
+    "viceNomeUrna": "WANDÃO ALMEIDA",
+    "partidoVice": "PSB",
+    "sqcandVice": "250001918262",
+    "coligacao": "REPUBLICANOS / PSB / PL / PSD / PODE / PP / MDB / SOLIDARIEDADE / AVANTE / PRTB / DC / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIANA CONTI TAKAHASHI",
+      "nomeUrna": "MARIANA CONTI",
+      "partido": "PSOL",
+      "numero": "50100",
+      "votos": 14356,
+      "percentual": 2.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001929122"
+    },
+    {
+      "nome": "VINICIUS DE OLIVEIRA SANDOVAL",
+      "nomeUrna": "VINI",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 11423,
+      "percentual": 2.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002050412"
+    },
+    {
+      "nome": "HIGOR DIEGO RALLA",
+      "nomeUrna": "HIGOR DIEGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10200",
+      "votos": 11391,
+      "percentual": 2.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001971547"
+    },
+    {
+      "nome": "RODRIGO LUIS DE BARROS ALMEIDA",
+      "nomeUrna": "RODRIGO DA FARMADIC",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 9006,
+      "percentual": 1.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001967215"
+    },
+    {
+      "nome": "LUIS HENRIQUE SILVA SCHENEIDER",
+      "nomeUrna": "NICK SCHNEIDER",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 7993,
+      "percentual": 1.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001926463"
+    },
+    {
+      "nome": "DEBORA DE ANDRADE PALERMO",
+      "nomeUrna": "DÉBORA PALERMO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 7690,
+      "percentual": 1.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001926488"
+    },
+    {
+      "nome": "PAOLLA CATHERINE DOS SANTOS MIGUEL AGARD",
+      "nomeUrna": "PAOLLA MIGUEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 7485,
+      "percentual": 1.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002046740"
+    },
+    {
+      "nome": "OTTO ALEJANDRO RIGAZZO ETTINGER",
+      "nomeUrna": "OTTO ALEJANDRO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 7442,
+      "percentual": 1.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001926485"
+    },
+    {
+      "nome": "JOSE CARLOS DOS SANTOS",
+      "nomeUrna": "CARLINHOS CAMELÔ",
+      "partido": "PSB",
+      "numero": "40580",
+      "votos": 7328,
+      "percentual": 1.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001966622"
+    },
+    {
+      "nome": "BENEDITO ROBERTO ALVES FERREIRA",
+      "nomeUrna": "ROBERTO ALVES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 7057,
+      "percentual": 1.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001971557"
+    },
+    {
+      "nome": "RUBENS SOARES DO NASCIMENTO",
+      "nomeUrna": "RUBENS GÁS",
+      "partido": "PSB",
+      "numero": "40500",
+      "votos": 6960,
+      "percentual": 1.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001966625"
+    },
+    {
+      "nome": "ARNALDO SALVETTI PALÁCIO JUNIOR",
+      "nomeUrna": "ARNALDO SALVETTI",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 6921,
+      "percentual": 1.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002086441"
+    },
+    {
+      "nome": "MARCELO DUCHOVNI SILVA",
+      "nomeUrna": "MARCELO SILVA",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 6895,
+      "percentual": 1.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002057055"
+    },
+    {
+      "nome": "PERMINIO MONTEIRO DA SILVA",
+      "nomeUrna": "PERMINIO MONTEIRO",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 6612,
+      "percentual": 1.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001966627"
+    },
+    {
+      "nome": "NELSON HOSSRI NETO",
+      "nomeUrna": "NELSON HOSSRI",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 6157,
+      "percentual": 1.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002090115"
+    },
+    {
+      "nome": "EDSON RIBEIRO",
+      "nomeUrna": "EDISON RIBEIRO",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 6129,
+      "percentual": 1.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001967186"
+    },
+    {
+      "nome": "LUIZ CARLOS ROSSINI",
+      "nomeUrna": "ROSSINI",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 6112,
+      "percentual": 1.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001971548"
+    },
+    {
+      "nome": "BENEDITO PEREIRA LIMA",
+      "nomeUrna": "BENE LIMA",
+      "partido": "PL",
+      "numero": "22422",
+      "votos": 6093,
+      "percentual": 1.14,
+      "situacao": "Eleito por média",
+      "sqcand": "250001926466"
+    },
+    {
+      "nome": "LUIZ HENRIQUE CIRILO",
+      "nomeUrna": "LUIZ CIRILO",
+      "partido": "PODE",
+      "numero": "20020",
+      "votos": 5694,
+      "percentual": 1.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002291762"
+    },
+    {
+      "nome": "MARGARIDA DA SILVA CALIXTO",
+      "nomeUrna": "GUIDA CALIXTO",
+      "partido": "PT",
+      "numero": "13020",
+      "votos": 5492,
+      "percentual": 1.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002046732"
+    },
+    {
+      "nome": "CARMO LUIZ GREGÓRIO DA SILVA",
+      "nomeUrna": "CARMO LUIZ",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 5479,
+      "percentual": 1.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001971568"
+    },
+    {
+      "nome": "FILIPE BATISTA MARCHESI",
+      "nomeUrna": "FILIPE MARCHESI",
+      "partido": "PSB",
+      "numero": "40112",
+      "votos": 5435,
+      "percentual": 1.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001966600"
+    },
+    {
+      "nome": "GUILHERME BANDONI TEIXEIRA",
+      "nomeUrna": "GUILHERME TEIXEIRA",
+      "partido": "PL",
+      "numero": "22233",
+      "votos": 5383,
+      "percentual": 1.01,
+      "situacao": "Eleito por média",
+      "sqcand": "250001926490"
+    },
+    {
+      "nome": "WAGNER DE MELO ROMÃO",
+      "nomeUrna": "PROFESSOR WAGNER ROMÃO",
+      "partido": "PT",
+      "numero": "13300",
+      "votos": 5088,
+      "percentual": 0.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002046738"
+    },
+    {
+      "nome": "HEBERT GARAGNANI",
+      "nomeUrna": "HEBERT GANEM",
+      "partido": "PODE",
+      "numero": "20100",
+      "votos": 5004,
+      "percentual": 0.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002291784"
+    },
+    {
+      "nome": "GUSTAVO LEMOS PETTA",
+      "nomeUrna": "GUSTAVO PETTA",
+      "partido": "PC do B",
+      "numero": "65656",
+      "votos": 4803,
+      "percentual": 0.9,
+      "situacao": "Eleito por média",
+      "sqcand": "250002046743"
+    },
+    {
+      "nome": "EDUARDO DOS REIS MAGOGA",
+      "nomeUrna": "EDUARDO MAGOGA  DU TAPECEIRO",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 4780,
+      "percentual": 0.9,
+      "situacao": "Eleito por média",
+      "sqcand": "250002291763"
+    },
+    {
+      "nome": "JOSE CARLOS SILVA",
+      "nomeUrna": "ZÉ CARLOS",
+      "partido": "PSB",
+      "numero": "40678",
+      "votos": 4460,
+      "percentual": 0.84,
+      "situacao": "Eleito por média",
+      "sqcand": "250001966632"
+    },
+    {
+      "nome": "JOÃO BATISTA DE PAULA",
+      "nomeUrna": "MARROM CUNHA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 4460,
+      "percentual": 0.84,
+      "situacao": "Eleito por média",
+      "sqcand": "250002086434"
+    },
+    {
+      "nome": "LUIS MOKITI YABIKU",
+      "nomeUrna": "LUIS YABIKU",
+      "partido": "REPUBLICANOS",
+      "numero": "10500",
+      "votos": 4039,
+      "percentual": 0.76,
+      "situacao": "Eleito por média",
+      "sqcand": "250001971564"
+    },
+    {
+      "nome": "PAULO CÉSAR HADDAD",
+      "nomeUrna": "PAULO HADDAD",
+      "partido": "PSD",
+      "numero": "55655",
+      "votos": 3969,
+      "percentual": 0.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002090091"
+    },
+    {
+      "nome": "YANKO GONÇALVES MELLO",
+      "nomeUrna": "DR YANKO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 3302,
+      "percentual": 0.62,
+      "situacao": "Eleito por média",
+      "sqcand": "250002057029"
+    },
+    {
+      "nome": "FERNANDA DE OLIVEIRA SOUTO",
+      "nomeUrna": "FERNANDA SOUTO",
+      "partido": "PSOL",
+      "numero": "50123",
+      "votos": 3268,
+      "percentual": 0.61,
+      "situacao": "Eleito por média",
+      "sqcand": "250001929117"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 283555,
+      "percentual": 51.47,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 195170,
+      "percentual": 35.43,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 24359,
+      "percentual": 4.42,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO TOURINHO DE SIQUEIRA",
+      "nomeUrna": "PEDRO TOURINHO",
+      "partido": "PT",
+      "numero": "1319",
+      "votos": 48786,
+      "percentual": 8.54,
+      "sqcand": "250001610649"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 36284,
+      "percentual": 6.35,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "JONAS DONIZETTE FERREIRA",
+      "nomeUrna": "JONAS DONIZETTE",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 34633,
+      "percentual": 6.06,
+      "sqcand": "250001620296"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 31073,
+      "percentual": 5.44,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 23058,
+      "percentual": 4.04,
+      "sqcand": "250001611315"
+    },
+    {
+      "nome": "GUILHERME CASTRO BOULOS",
+      "nomeUrna": "GUILHERME BOULOS",
+      "partido": "PSOL",
+      "numero": "5010",
+      "votos": 22182,
+      "percentual": 3.88,
+      "sqcand": "250001613761"
+    },
+    {
+      "nome": "CARLOS HENRIQUE FOCESI SAMPAIO",
+      "nomeUrna": "CARLOS SAMPAIO",
+      "partido": "PSDB",
+      "numero": "4500",
+      "votos": 19759,
+      "percentual": 3.46,
+      "sqcand": "250001612116"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAFAEL FERNANDO ZIMBALDI",
+      "nomeUrna": "RAFA ZIMBALDI",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 32579,
+      "percentual": 5.98,
+      "sqcand": "250001611460"
+    },
+    {
+      "nome": "HIGOR DIEGO RALLA",
+      "nomeUrna": "HIGOR DIEGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10200",
+      "votos": 28142,
+      "percentual": 5.16,
+      "sqcand": "250001639569"
+    },
+    {
+      "nome": "MARIANA CONTI TAKAHASHI",
+      "nomeUrna": "MARIANA CONTI",
+      "partido": "PSOL",
+      "numero": "50100",
+      "votos": 20917,
+      "percentual": 3.84,
+      "sqcand": "250001619351"
+    },
+    {
+      "nome": "VALERIA MULLER RAMOS BOLSONARO",
+      "nomeUrna": "VALERIA BOLSONARO",
+      "partido": "PL",
+      "numero": "22922",
+      "votos": 20834,
+      "percentual": 3.82,
+      "sqcand": "250001610167"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 18750,
+      "percentual": 3.44,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "ARTUR CASSEB ORSI",
+      "nomeUrna": "ARTUR ORSI",
+      "partido": "PSD",
+      "numero": "55655",
+      "votos": 17321,
+      "percentual": 3.18,
+      "sqcand": "250001605028"
+    },
+    {
+      "nome": "RODRIGO LUIS DE BARROS ALMEIDA",
+      "nomeUrna": "RODRIGO FARMADIC",
+      "partido": "UNIÃO",
+      "numero": "44019",
+      "votos": 15525,
+      "percentual": 2.85,
+      "sqcand": "250001602158"
+    }
+  ]
+}

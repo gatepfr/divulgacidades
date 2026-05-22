@@ -1,0 +1,271 @@
+{
+  "populacao": 3353,
+  "votosValidos": 3090,
+  "abstencao": 5.37,
+  "prefeito": {
+    "nome": "CARLOS HENRIQUE COELHO REIS",
+    "nomeUrna": "CARLINHOS REIS",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1814,
+    "percentual": 58.71,
+    "situacao": "Eleito",
+    "sqcand": "180001985778",
+    "vice": "NILMAR BARBOSA DAMASCENO",
+    "viceNomeUrna": "NILMAR BARBOSA",
+    "partidoVice": "PSB",
+    "sqcandVice": "180001985777",
+    "coligacao": "MDB / PSB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "EVANDRO DE SOUSA LEITE",
+      "nomeUrna": "EVANDRO LEITE",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 338,
+      "percentual": 11.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001985796"
+    },
+    {
+      "nome": "NILO LEANDRO BARBOSA DAMASCENO",
+      "nomeUrna": "GALEGO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 297,
+      "percentual": 9.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001985791"
+    },
+    {
+      "nome": "MARIA DO SOCORRO BARBOSA FERREIRA",
+      "nomeUrna": "SOCORRINHA",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 272,
+      "percentual": 8.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001985790"
+    },
+    {
+      "nome": "JOSIVALDO DE SOUSA ARAUJO",
+      "nomeUrna": "BALINHA",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 224,
+      "percentual": 7.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001959125"
+    },
+    {
+      "nome": "RAIMUNDO NONATO ALVES PEREIRA",
+      "nomeUrna": "RAIMUNDINHO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 218,
+      "percentual": 7.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001985789"
+    },
+    {
+      "nome": "FRANCISCO BARBOSA DE SOUSA",
+      "nomeUrna": "CHICO DO ERNESTO",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 217,
+      "percentual": 7.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001985792"
+    },
+    {
+      "nome": "WILSON DE SOUSA BARBOSA",
+      "nomeUrna": "WILSON BARBOSA",
+      "partido": "PT",
+      "numero": "13999",
+      "votos": 185,
+      "percentual": 6.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001959126"
+    },
+    {
+      "nome": "JOSIMAR DIAS RODRIGUES",
+      "nomeUrna": "JOSIMAR DIAS",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 183,
+      "percentual": 5.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001959128"
+    },
+    {
+      "nome": "EDIMAR BARBOSA COELHO",
+      "nomeUrna": "EDIMAR BARBOSA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 182,
+      "percentual": 5.92,
+      "situacao": "Eleito por média",
+      "sqcand": "180001959131"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1198,
+      "percentual": 56.06,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 937,
+      "percentual": 43.85,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "ANTONIO JOSÉ FONTINELE DA SILVA",
+      "nomeUrna": "PROFESSOR AJOSÉ",
+      "partido": "PMN",
+      "numero": "333",
+      "votos": 2,
+      "percentual": 0.09,
+      "sqcand": "180001714361"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARGARETE DE CASTRO COELHO",
+      "nomeUrna": "MARGARETE COELHO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 912,
+      "percentual": 42.4,
+      "sqcand": "180001602512"
+    },
+    {
+      "nome": "REJANE RIBEIRO SOUSA DIAS",
+      "nomeUrna": "REJANE DIAS",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 417,
+      "percentual": 19.39,
+      "sqcand": "180001610756"
+    },
+    {
+      "nome": "FÁBIO ABREU COSTA",
+      "nomeUrna": "CAPITÃO FÁBIO ABREU",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 230,
+      "percentual": 10.69,
+      "sqcand": "180001602549"
+    },
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 101,
+      "percentual": 4.7,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "JULIO FERRAZ ARCOVERDE",
+      "nomeUrna": "JULIO ARCOVERDE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 100,
+      "percentual": 4.65,
+      "sqcand": "180001602515"
+    },
+    {
+      "nome": "JADYEL SILVA ALENCAR",
+      "nomeUrna": "JADYEL DA JUPI",
+      "partido": "PV",
+      "numero": "4333",
+      "votos": 99,
+      "percentual": 4.6,
+      "sqcand": "180001610760"
+    },
+    {
+      "nome": "FLORENTINO ALVES VERAS NETO",
+      "nomeUrna": "FLORENTINO NETO",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 71,
+      "percentual": 3.3,
+      "sqcand": "180001610762"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BESSAH ARAUJO COSTA REIS SÁ",
+      "nomeUrna": "B. SÁ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 744,
+      "percentual": 34.57,
+      "sqcand": "180001604055"
+    },
+    {
+      "nome": "FIRMINO SOARES PAULO",
+      "nomeUrna": "FIRMINO PAULO",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 460,
+      "percentual": 21.38,
+      "sqcand": "180001605687"
+    },
+    {
+      "nome": "GIL CARLOS MODESTO ALVES",
+      "nomeUrna": "DR. GIL CARLOS ",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 451,
+      "percentual": 20.96,
+      "sqcand": "180001605680"
+    },
+    {
+      "nome": "THALES COELHO PIMENTEL",
+      "nomeUrna": "DR. THALES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 151,
+      "percentual": 7.02,
+      "sqcand": "180001604044"
+    },
+    {
+      "nome": "GESSIVALDO ISAIAS DE CARVALHO SILVA",
+      "nomeUrna": "PASTOR GESSIVALDO ISAIAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 66,
+      "percentual": 3.07,
+      "sqcand": "180001612882"
+    },
+    {
+      "nome": "JEOVA BARBOSA DE CARVALHO ALENCAR",
+      "nomeUrna": "JEOVÁ ALENCAR",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 62,
+      "percentual": 2.88,
+      "sqcand": "180001612884"
+    },
+    {
+      "nome": "TIAGO MENDES VASCONCELOS",
+      "nomeUrna": "TIAGO VASCONCELOS",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 36,
+      "percentual": 1.67,
+      "sqcand": "180001605759"
+    }
+  ]
+}

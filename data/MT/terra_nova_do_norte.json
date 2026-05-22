@@ -1,0 +1,271 @@
+{
+  "populacao": 9193,
+  "votosValidos": 6445,
+  "abstencao": 26.16,
+  "prefeito": {
+    "nome": "PASCOAL ALBERTON",
+    "nomeUrna": "PASCOAL ALBERTON",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 4505,
+    "percentual": 69.9,
+    "situacao": "Eleito",
+    "sqcand": "110002179164",
+    "vice": "ADELAR MARCANTE",
+    "viceNomeUrna": "ADELAR MARCANTE",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "110002179163",
+    "coligacao": "MDB / REPUBLICANOS / PL / PSB / PRD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "CLEBER RODRIGUES AGUIAR",
+      "nomeUrna": "TEDI DA ESCOLINHA",
+      "partido": "PSB",
+      "numero": "40040",
+      "votos": 699,
+      "percentual": 10.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002246454"
+    },
+    {
+      "nome": "RAMIRO DOUGLAS GOMES",
+      "nomeUrna": "RAMIRO DA FARMACIA",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 549,
+      "percentual": 8.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002249374"
+    },
+    {
+      "nome": "REGINALDO MATOS DOS SANTOS",
+      "nomeUrna": "REGINALDO DA URU",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 428,
+      "percentual": 6.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002245463"
+    },
+    {
+      "nome": "ROSELI MORESCO RIZZIERI",
+      "nomeUrna": "ROSE DA REMATEC",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 354,
+      "percentual": 5.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002245467"
+    },
+    {
+      "nome": "OLI ONEVIO ZENNI",
+      "nomeUrna": "OLI DA BONFIM",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 300,
+      "percentual": 4.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002249368"
+    },
+    {
+      "nome": "NILSON GOMES DA SILVA",
+      "nomeUrna": "NILSON PARAGUAI",
+      "partido": "MDB",
+      "numero": "15163",
+      "votos": 286,
+      "percentual": 4.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002249372"
+    },
+    {
+      "nome": "THAMARA ALVES REIS",
+      "nomeUrna": "THAMARA REIS",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 277,
+      "percentual": 4.19,
+      "situacao": "Eleito por média",
+      "sqcand": "110002249375"
+    },
+    {
+      "nome": "LUIZ CARLOS BAPTISTA",
+      "nomeUrna": "LUIZINHO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 253,
+      "percentual": 3.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002246453"
+    },
+    {
+      "nome": "CARLOS EDUARDO DE OLIVEIRA VICENTE",
+      "nomeUrna": "DUDU",
+      "partido": "PSB",
+      "numero": "40140",
+      "votos": 208,
+      "percentual": 3.14,
+      "situacao": "Eleito por média",
+      "sqcand": "110002246457"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2370,
+      "percentual": 53.99,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 1601,
+      "percentual": 36.47,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "KÁSSIO EDUARDO DA SILVA COELHO",
+      "nomeUrna": "KÁSSIO COELHO",
+      "partido": "PATRIOTA",
+      "numero": "510",
+      "votos": 218,
+      "percentual": 4.97,
+      "sqcand": "110001595899"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JUAREZ ALVES DA COSTA",
+      "nomeUrna": "JUAREZ COSTA",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 1295,
+      "percentual": 22.73,
+      "sqcand": "110001623293"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 807,
+      "percentual": 14.17,
+      "sqcand": "110001675052"
+    },
+    {
+      "nome": "CARLOS GOMES BEZERRA",
+      "nomeUrna": "CARLOS BEZERRA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 557,
+      "percentual": 9.78,
+      "sqcand": "110001623294"
+    },
+    {
+      "nome": "ACACIO AMBROSINI",
+      "nomeUrna": "ACACIO AMBROSINI",
+      "partido": "REPUBLICANOS",
+      "numero": "1051",
+      "votos": 490,
+      "percentual": 8.6,
+      "sqcand": "110001618186"
+    },
+    {
+      "nome": "ANA FLÁVIA RODRIGUES RAMIRO",
+      "nomeUrna": "FLAVINHA",
+      "partido": "MDB",
+      "numero": "1521",
+      "votos": 344,
+      "percentual": 6.04,
+      "sqcand": "110001623296"
+    },
+    {
+      "nome": "JOSÉ ANTÔNIO DOS SANTOS MEDEIROS",
+      "nomeUrna": "JOSÉ MEDEIROS",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 284,
+      "percentual": 4.99,
+      "sqcand": "110001612757"
+    },
+    {
+      "nome": "FÁBIO PAULINO GARCIA",
+      "nomeUrna": "FÁBIO GARCIA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 215,
+      "percentual": 3.77,
+      "sqcand": "110001612770"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VALTER MIOTTO FERREIRA",
+      "nomeUrna": "VALTINHO MIOTTO",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 836,
+      "percentual": 15.04,
+      "sqcand": "110001623187"
+    },
+    {
+      "nome": "VALDIR MENDES BARRANCO",
+      "nomeUrna": "VALDIR BARRANCO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 751,
+      "percentual": 13.51,
+      "sqcand": "110001719771"
+    },
+    {
+      "nome": "SILVANO FERREIRA DO AMARAL",
+      "nomeUrna": "SILVANO AMARAL",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 702,
+      "percentual": 12.63,
+      "sqcand": "110001623184"
+    },
+    {
+      "nome": "JANAÍNA GREYCE RIVA FAGUNDES",
+      "nomeUrna": "JANAÍNA RIVA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 635,
+      "percentual": 11.43,
+      "sqcand": "110001623186"
+    },
+    {
+      "nome": "DILMAR DAL BOSCO",
+      "nomeUrna": "DILMAR DAL BOSCO",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 417,
+      "percentual": 7.5,
+      "sqcand": "110001612944"
+    },
+    {
+      "nome": "SEBASTIÃO MACHADO REZENDE",
+      "nomeUrna": "ENG. SEBASTIÃO MACHADO REZENDE",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 243,
+      "percentual": 4.37,
+      "sqcand": "110001612939"
+    },
+    {
+      "nome": "MAX JOEL RUSSI",
+      "nomeUrna": "MAX RUSSI",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 200,
+      "percentual": 3.6,
+      "sqcand": "110001604916"
+    }
+  ]
+}

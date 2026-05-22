@@ -1,0 +1,271 @@
+{
+  "populacao": 4385,
+  "votosValidos": 4021,
+  "abstencao": 5.7,
+  "prefeito": {
+    "nome": "LINDOMAR BALLMANN",
+    "nomeUrna": "LINDOMAR BALLMANN",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2543,
+    "percentual": 63.24,
+    "situacao": "Eleito",
+    "sqcand": "240001949811",
+    "vice": "ROMIRIO SCHUEROFF",
+    "viceNomeUrna": "ROMIRIO SCHUEROFF",
+    "partidoVice": "PP",
+    "sqcandVice": "240001949812",
+    "coligacao": "PP / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "EDEVAN ROECKER",
+      "nomeUrna": "EDEVAN ROECKER",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 665,
+      "percentual": 16.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001928642"
+    },
+    {
+      "nome": "HELOISA HEIDEMANN WIGGERS",
+      "nomeUrna": "HELOISA HEIDEMANN WIGGERS",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 612,
+      "percentual": 15.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001928641"
+    },
+    {
+      "nome": "ITAMAR FELDHAUS",
+      "nomeUrna": "ITAMAR FELDHAUS",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 402,
+      "percentual": 9.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001928647"
+    },
+    {
+      "nome": "KLEYTHON MAY",
+      "nomeUrna": "KLEYTHON MAY",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 322,
+      "percentual": 7.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002165774"
+    },
+    {
+      "nome": "NIVALDA FELDHAUS",
+      "nomeUrna": "NIVALDA FELDHAUS",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 282,
+      "percentual": 6.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001928646"
+    },
+    {
+      "nome": "VALDECI DELA JUSTINA",
+      "nomeUrna": "VALDECI DELA JUSTINA",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 265,
+      "percentual": 6.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002165776"
+    },
+    {
+      "nome": "ANGELICA BLOEMER HEIDEMANN KUHNEN",
+      "nomeUrna": "ANGELICA   BONECA",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 248,
+      "percentual": 6.14,
+      "situacao": "Eleito por média",
+      "sqcand": "240002165777"
+    },
+    {
+      "nome": "LEONARDO AMBROSIO SCHOTTEN",
+      "nomeUrna": "LEONARDO AMBROSIO SCHOTTEN",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 185,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001928649"
+    },
+    {
+      "nome": "FERNANDO RICKEN",
+      "nomeUrna": "FERNANDO RICKEN",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 182,
+      "percentual": 4.5,
+      "situacao": "Eleito por média",
+      "sqcand": "240001928643"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1501,
+      "percentual": 43.11,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 760,
+      "percentual": 21.83,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 493,
+      "percentual": 14.16,
+      "sqcand": "240001647359"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RICARDO ZANATTA GUIDI",
+      "nomeUrna": "RICARDO GUIDI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 569,
+      "percentual": 15.75,
+      "sqcand": "240001611144"
+    },
+    {
+      "nome": "ADA LILI FARACO DE LUCA",
+      "nomeUrna": "ADA DE LUCA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 397,
+      "percentual": 10.99,
+      "sqcand": "240001602687"
+    },
+    {
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nomeUrna": "JULIA ZANATTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 366,
+      "percentual": 10.13,
+      "sqcand": "240001610974"
+    },
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 309,
+      "percentual": 8.55,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "CYNTHIA MOTA ETCHANDY LIMA",
+      "nomeUrna": "DRA. CYNTHIA ETCHANDY",
+      "partido": "REPUBLICANOS",
+      "numero": "1017",
+      "votos": 199,
+      "percentual": 5.51,
+      "sqcand": "240001610244"
+    },
+    {
+      "nome": "VALMIR FRANCISCO COMIN",
+      "nomeUrna": "VALMIR COMIN",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 189,
+      "percentual": 5.23,
+      "sqcand": "240001644890"
+    },
+    {
+      "nome": "DANIEL COSTA DE FREITAS",
+      "nomeUrna": "DANIEL FREITAS",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 177,
+      "percentual": 4.9,
+      "sqcand": "240001610972"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VOLNEI WEBER",
+      "nomeUrna": "VOLNEI WEBER",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1334,
+      "percentual": 37.14,
+      "sqcand": "240001605921"
+    },
+    {
+      "nome": "JULIO CÉSAR GARCIA",
+      "nomeUrna": "JULIO GARCIA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 353,
+      "percentual": 9.83,
+      "sqcand": "240001614390"
+    },
+    {
+      "nome": "JESSÉ DE FARIA LOPES",
+      "nomeUrna": "JESSÉ LOPES",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 299,
+      "percentual": 8.32,
+      "sqcand": "240001614350"
+    },
+    {
+      "nome": "JOSÉ MILTON SCHEFFER",
+      "nomeUrna": "ZÉ MILTON",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 244,
+      "percentual": 6.79,
+      "sqcand": "240001644756"
+    },
+    {
+      "nome": "ESTENER SORATTO DA SILVA JUNIOR",
+      "nomeUrna": "SORATTO",
+      "partido": "PL",
+      "numero": "22500",
+      "votos": 188,
+      "percentual": 5.23,
+      "sqcand": "240001614334"
+    },
+    {
+      "nome": "JOÃO ANTÔNIO HEINZEN AMIN HELOU",
+      "nomeUrna": "JOÃO AMIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 122,
+      "percentual": 3.4,
+      "sqcand": "240001644765"
+    },
+    {
+      "nome": "CAMILO NAZARENO PAGANI MARTINS",
+      "nomeUrna": "CAMILO MARTINS",
+      "partido": "PODE",
+      "numero": "19369",
+      "votos": 116,
+      "percentual": 3.23,
+      "sqcand": "240001610835"
+    }
+  ]
+}

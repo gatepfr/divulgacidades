@@ -1,0 +1,271 @@
+{
+  "populacao": 24812,
+  "votosValidos": 17243,
+  "abstencao": 25.29,
+  "prefeito": {
+    "nome": "KENEDY WALLAFY SOUZA DE OLIVEIRA",
+    "nomeUrna": "KENEDY WÁLLAFY",
+    "partido": "NOVO",
+    "numero": "30",
+    "votos": 7503,
+    "percentual": 43.51,
+    "situacao": "Eleito",
+    "sqcand": "130002150802",
+    "vice": "ALTIVO DUARTE MACHADO VASCONCELOS",
+    "viceNomeUrna": "ALTIVO DUARTE",
+    "partidoVice": "NOVO",
+    "sqcandVice": "130002150803",
+    "coligacao": "NOVO"
+  },
+  "vereadores": [
+    {
+      "nome": "LAMONE JUNIOR DE CAMPOS COELHO",
+      "nomeUrna": "LAMONE JÚNIOR",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 1279,
+      "percentual": 7.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002182384"
+    },
+    {
+      "nome": "ILMAR SANTIAGO DUTRA",
+      "nomeUrna": "ILMAR DUTRA",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 1012,
+      "percentual": 5.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002342370"
+    },
+    {
+      "nome": "JORGE APARECIDO FERREIRA DA SILVA",
+      "nomeUrna": "JORJÃO",
+      "partido": "CIDADANIA",
+      "numero": "23444",
+      "votos": 827,
+      "percentual": 4.8,
+      "situacao": "Eleito por média",
+      "sqcand": "130002182383"
+    },
+    {
+      "nome": "SEBASTIÃO GERALDO DA SILVA",
+      "nomeUrna": "GERALDINHO POMPÉU VELHO",
+      "partido": "MDB",
+      "numero": "15690",
+      "votos": 744,
+      "percentual": 4.32,
+      "situacao": "Eleito por média",
+      "sqcand": "130002342369"
+    },
+    {
+      "nome": "NILSON ALENCAR FERREIRA REZENDE",
+      "nomeUrna": "NILSON ",
+      "partido": "REPUBLICANOS",
+      "numero": "10650",
+      "votos": 706,
+      "percentual": 4.1,
+      "situacao": "Eleito por média",
+      "sqcand": "130002224248"
+    },
+    {
+      "nome": "LUIZ APARECIDO DA SILVA",
+      "nomeUrna": "LUIZINHO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 621,
+      "percentual": 3.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002342396"
+    },
+    {
+      "nome": "FLÁVIO APARECIDO DE SOUSA",
+      "nomeUrna": "FLÁVIO LINO",
+      "partido": "PSD",
+      "numero": "55999",
+      "votos": 517,
+      "percentual": 3.0,
+      "situacao": "Eleito por média",
+      "sqcand": "130002342401"
+    },
+    {
+      "nome": "DANÚZIA CRISTINA MACIEL SOARES SANTOS",
+      "nomeUrna": "DANÚZIA DIRETORA",
+      "partido": "CIDADANIA",
+      "numero": "23333",
+      "votos": 506,
+      "percentual": 2.94,
+      "situacao": "Eleito por média",
+      "sqcand": "130002182380"
+    },
+    {
+      "nome": "NORMANDO JOSÉ DUARTE",
+      "nomeUrna": "MANINHO DO CHURRASQUINHO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 383,
+      "percentual": 2.22,
+      "situacao": "Eleito por média",
+      "sqcand": "130002342403"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 8455,
+      "percentual": 56.91,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 5344,
+      "percentual": 35.97,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 841,
+      "percentual": 5.66,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1777,
+      "percentual": 11.58,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "EDUARDO LUIZ BARROS BARBOSA",
+      "nomeUrna": "EDUARDO BARBOSA",
+      "partido": "PSDB",
+      "numero": "4535",
+      "votos": 1444,
+      "percentual": 9.41,
+      "sqcand": "130001613364"
+    },
+    {
+      "nome": "DOMINGOS SÁVIO CAMPOS RESENDE",
+      "nomeUrna": "DOMINGOS SÁVIO",
+      "partido": "PL",
+      "numero": "2260",
+      "votos": 1143,
+      "percentual": 7.45,
+      "sqcand": "130001611016"
+    },
+    {
+      "nome": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+      "nomeUrna": "ROGÉRIO CORREIA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 1036,
+      "percentual": 6.75,
+      "sqcand": "130001607258"
+    },
+    {
+      "nome": "MARILDA RAFAEL DA SILVA CORDEIRO",
+      "nomeUrna": "MARILDA DA REPRESA",
+      "partido": "AGIR",
+      "numero": "3628",
+      "votos": 852,
+      "percentual": 5.55,
+      "sqcand": "130001645100"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 840,
+      "percentual": 5.47,
+      "sqcand": "130001608227"
+    },
+    {
+      "nome": "JOSE VALADARES BAHIA",
+      "nomeUrna": "JUCA BAHIA",
+      "partido": "PODE",
+      "numero": "1900",
+      "votos": 835,
+      "percentual": 5.44,
+      "sqcand": "130001634144"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAKOTO EDISON SEKITA",
+      "nomeUrna": "MAKOTO SEKITA",
+      "partido": "PSD",
+      "numero": "55522",
+      "votos": 1300,
+      "percentual": 9.12,
+      "sqcand": "130001604363"
+    },
+    {
+      "nome": "JEFERSON DOUGLAS SOARES ESTANISLAU",
+      "nomeUrna": "DOUGLAS MELO",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 1130,
+      "percentual": 7.93,
+      "sqcand": "130001604374"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1064,
+      "percentual": 7.46,
+      "sqcand": "130001607392"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 756,
+      "percentual": 5.3,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "LEANDRO ANDRADE GENARO OLIVEIRA",
+      "nomeUrna": "LEANDRO GENARO",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 694,
+      "percentual": 4.87,
+      "sqcand": "130001604370"
+    },
+    {
+      "nome": "DANIEL FIORAVANTE BARBOSA",
+      "nomeUrna": "DANIEL BARBOSA",
+      "partido": "PSDB",
+      "numero": "45355",
+      "votos": 666,
+      "percentual": 4.67,
+      "sqcand": "130001613311"
+    },
+    {
+      "nome": "ARLEN DE PAULO SANTIAGO FILHO",
+      "nomeUrna": "ARLEN SANTIAGO",
+      "partido": "AVANTE",
+      "numero": "70111",
+      "votos": 647,
+      "percentual": 4.54,
+      "sqcand": "130001603710"
+    }
+  ]
+}

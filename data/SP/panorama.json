@@ -1,0 +1,271 @@
+{
+  "populacao": 10066,
+  "votosValidos": 7823,
+  "abstencao": 18.12,
+  "prefeito": {
+    "nome": "EDSON DE ASSIS MALDONADO",
+    "nomeUrna": "ITO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2787,
+    "percentual": 35.63,
+    "situacao": "Não eleito",
+    "sqcand": "250002357636",
+    "vice": "SLEIMAN EL AISSAMI",
+    "viceNomeUrna": "PROFESSOR SULI",
+    "partidoVice": "PODE",
+    "sqcandVice": "250002357635",
+    "coligacao": "PP / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "DANIEL GENOVA",
+      "nomeUrna": "DANIEL POLICIA",
+      "partido": "PSB",
+      "numero": "40190",
+      "votos": 753,
+      "percentual": 9.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002356970"
+    },
+    {
+      "nome": "MARCOS AURELIO PEREIRA DOS SANTOS JUNIOR",
+      "nomeUrna": "TUBOSA",
+      "partido": "PSB",
+      "numero": "40040",
+      "votos": 602,
+      "percentual": 7.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002356973"
+    },
+    {
+      "nome": "THIAGO FELIPE NEVES",
+      "nomeUrna": "THIAGO NEVES",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 345,
+      "percentual": 4.44,
+      "situacao": "Eleito por média",
+      "sqcand": "250002359414"
+    },
+    {
+      "nome": "MARCOS PAES FRANCO",
+      "nomeUrna": "MARCÃO ",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 326,
+      "percentual": 4.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002357174"
+    },
+    {
+      "nome": "ROSANA LÍDIA VASCÃO DE ALMEIDA",
+      "nomeUrna": "ROSANA VASCÃO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 307,
+      "percentual": 3.95,
+      "situacao": "Eleito por média",
+      "sqcand": "250002357167"
+    },
+    {
+      "nome": "ERMENSON RODRIGUES",
+      "nomeUrna": "CHAPOLIM DO PANORAMA NOTICIA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 283,
+      "percentual": 3.64,
+      "situacao": "Eleito por média",
+      "sqcand": "250002356976"
+    },
+    {
+      "nome": "RAMIRES CUSTODIO",
+      "nomeUrna": "BIRO DA SAÚDE",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 267,
+      "percentual": 3.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002357512"
+    },
+    {
+      "nome": "JEAN PIERRE DE SOUZA GOMES ACANJO",
+      "nomeUrna": "DR JEAN",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 210,
+      "percentual": 2.7,
+      "situacao": "Eleito por média",
+      "sqcand": "250002356971"
+    },
+    {
+      "nome": "ROBINSON ROGERIO MAIA",
+      "nomeUrna": "ROGÉRINHO DA FARMÁCIA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 196,
+      "percentual": 2.52,
+      "situacao": "Eleito por média",
+      "sqcand": "250002357508"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4136,
+      "percentual": 61.08,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1943,
+      "percentual": 28.69,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 541,
+      "percentual": 7.99,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GUILHERME PIAI SILVA FILIZZOLA",
+      "nomeUrna": "GUILHERME PIAI",
+      "partido": "REPUBLICANOS",
+      "numero": "1018",
+      "votos": 916,
+      "percentual": 13.15,
+      "sqcand": "250001611903"
+    },
+    {
+      "nome": "REINALDO DE SOUZA ALGUZ",
+      "nomeUrna": "REINALDO ALGUZ",
+      "partido": "UNIÃO",
+      "numero": "4436",
+      "votos": 548,
+      "percentual": 7.87,
+      "sqcand": "250001602077"
+    },
+    {
+      "nome": "MARCO ANTONIO FELICIANO",
+      "nomeUrna": "PASTOR MARCO FELICIANO",
+      "partido": "PL",
+      "numero": "2270",
+      "votos": 372,
+      "percentual": 5.34,
+      "sqcand": "250001611335"
+    },
+    {
+      "nome": "ALFREDO ALVES CAVALCANTE",
+      "nomeUrna": "DEPUTADO ALFREDINHO",
+      "partido": "PT",
+      "numero": "1389",
+      "votos": 326,
+      "percentual": 4.68,
+      "sqcand": "250001610711"
+    },
+    {
+      "nome": "MARIO LUIS FRIAS",
+      "nomeUrna": "MARIO FRIAS",
+      "partido": "PL",
+      "numero": "2208",
+      "votos": 293,
+      "percentual": 4.21,
+      "sqcand": "250001611324"
+    },
+    {
+      "nome": "FERNANDO JOSE DE SOUZA MARANGONI",
+      "nomeUrna": "MARANGONI",
+      "partido": "UNIÃO",
+      "numero": "4440",
+      "votos": 255,
+      "percentual": 3.66,
+      "sqcand": "250001602079"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 224,
+      "percentual": 3.22,
+      "sqcand": "250001611315"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "THIAGO FELIPE NEVES",
+      "nomeUrna": "MEU NOME É NEVES",
+      "partido": "PRTB",
+      "numero": "28056",
+      "votos": 2654,
+      "percentual": 39.51,
+      "sqcand": "250001699862"
+    },
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 607,
+      "percentual": 9.04,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "TEONÍLIO MONTEIRO DA COSTA",
+      "nomeUrna": "BARBA",
+      "partido": "PT",
+      "numero": "13110",
+      "votos": 409,
+      "percentual": 6.09,
+      "sqcand": "250001611768"
+    },
+    {
+      "nome": "TANIA CRISTINA FRUCHI",
+      "nomeUrna": "TÂNIA FRUCHI",
+      "partido": "UNIÃO",
+      "numero": "44363",
+      "votos": 291,
+      "percentual": 4.33,
+      "sqcand": "250001602159"
+    },
+    {
+      "nome": "FERNANDO HENRIQUE CURY",
+      "nomeUrna": "FERNANDO CURY",
+      "partido": "UNIÃO",
+      "numero": "44456",
+      "votos": 182,
+      "percentual": 2.71,
+      "sqcand": "250001602134"
+    },
+    {
+      "nome": "THAINARA KAROLINE FARIA",
+      "nomeUrna": "THAINARA FARIA",
+      "partido": "PT",
+      "numero": "13016",
+      "votos": 144,
+      "percentual": 2.14,
+      "sqcand": "250001611769"
+    },
+    {
+      "nome": "JOSE ALDO DEMARCHI",
+      "nomeUrna": "ALDO DEMARCHI",
+      "partido": "UNIÃO",
+      "numero": "44122",
+      "votos": 127,
+      "percentual": 1.89,
+      "sqcand": "250001602169"
+    }
+  ]
+}

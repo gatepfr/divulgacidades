@@ -1,0 +1,311 @@
+{
+  "populacao": 32434,
+  "votosValidos": 22774,
+  "abstencao": 27.32,
+  "prefeito": {
+    "nome": "MARCOS PAULO SILVA DA LUZ",
+    "nomeUrna": "MARCOS PAULO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 9367,
+    "percentual": 41.13,
+    "situacao": "Eleito",
+    "sqcand": "210001908917",
+    "vice": "LUIS ANDRE DE ARAUJO SASSO",
+    "viceNomeUrna": "LUIS ANDRE SASSO",
+    "partidoVice": "PL",
+    "sqcandVice": "210001908918",
+    "coligacao": "PL / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "TIAGO DE MENEZES VIEIRA",
+      "nomeUrna": "TIAGO MENEZES",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 1470,
+      "percentual": 6.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002241904"
+    },
+    {
+      "nome": "ISABELLE PINTO ANTONELLO DE SOUZA",
+      "nomeUrna": "ISABELLE ANTONELLO",
+      "partido": "PDT",
+      "numero": "12612",
+      "votos": 1389,
+      "percentual": 6.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002241902"
+    },
+    {
+      "nome": "CRISTIANO RODRIGUES DA ROSA",
+      "nomeUrna": "CRISTIANO RODRIGUES",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 958,
+      "percentual": 4.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002192924"
+    },
+    {
+      "nome": "LUIZ DA SILVA GUMA JUNIOR",
+      "nomeUrna": "JUNIOR GUMA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 830,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002192929"
+    },
+    {
+      "nome": "JEFERSON ILDEFONSO ORTIZ",
+      "nomeUrna": "JÉ (ME CHAMA QUE EU VOU)",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 815,
+      "percentual": 3.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001985063"
+    },
+    {
+      "nome": "OSIEL DA SILVA BARCELOS",
+      "nomeUrna": "OSIEL BARCELOS",
+      "partido": "PDT",
+      "numero": "12621",
+      "votos": 784,
+      "percentual": 3.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002241903"
+    },
+    {
+      "nome": "EDMUNDO COELHO DA ROSA",
+      "nomeUrna": "EDMUNDO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 771,
+      "percentual": 3.41,
+      "situacao": "Eleito por média",
+      "sqcand": "210001985064"
+    },
+    {
+      "nome": "GILSON VALDECIR DA ROSA ALVES",
+      "nomeUrna": "GILSON ALVES",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 721,
+      "percentual": 3.19,
+      "situacao": "Eleito por média",
+      "sqcand": "210002192918"
+    },
+    {
+      "nome": "ALESSANDRO LEMOS CHAVES",
+      "nomeUrna": "PROFESSOR ALESSANDRO",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 561,
+      "percentual": 2.48,
+      "situacao": "Eleito por média",
+      "sqcand": "210002241894"
+    },
+    {
+      "nome": "ELISANDRO ALEX DA SILVA PAZ",
+      "nomeUrna": "ELISANDRO PAZ PIRUCA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 533,
+      "percentual": 2.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002203228"
+    },
+    {
+      "nome": "ATHEROS CIDES DOS SANTOS",
+      "nomeUrna": "ATHEROS CIDES",
+      "partido": "PT",
+      "numero": "13007",
+      "votos": 497,
+      "percentual": 2.2,
+      "situacao": "Eleito por média",
+      "sqcand": "210002013894"
+    },
+    {
+      "nome": "ARILTON SILVA DA SILVA",
+      "nomeUrna": "ARILTON BORREGO",
+      "partido": "PP",
+      "numero": "11990",
+      "votos": 469,
+      "percentual": 2.07,
+      "situacao": "Eleito por média",
+      "sqcand": "210002203227"
+    },
+    {
+      "nome": "GILBERTO SIDENEI PINTO",
+      "nomeUrna": "GILBERTO PINTO SAMBINHA",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 366,
+      "percentual": 1.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001908965"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 9758,
+      "percentual": 47.72,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 8034,
+      "percentual": 39.29,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2472,
+      "percentual": 12.09,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 3499,
+      "percentual": 16.91,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2332,
+      "percentual": 11.27,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 1329,
+      "percentual": 6.42,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "ERIC LINS GRILO",
+      "nomeUrna": "ERIC LINS",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 1093,
+      "percentual": 5.28,
+      "sqcand": "210001648566"
+    },
+    {
+      "nome": "MARIA DO ROSÁRIO NUNES",
+      "nomeUrna": "MARIA DO ROSÁRIO",
+      "partido": "PT",
+      "numero": "1370",
+      "votos": 1041,
+      "percentual": 5.03,
+      "sqcand": "210001604650"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 802,
+      "percentual": 3.88,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 795,
+      "percentual": 3.84,
+      "sqcand": "210001604643"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MÁRCIO FABIANO BORGES VALLES",
+      "nomeUrna": "MÁRCIO VALLES",
+      "partido": "PTB",
+      "numero": "14234",
+      "votos": 2932,
+      "percentual": 14.52,
+      "sqcand": "210001649817"
+    },
+    {
+      "nome": "ANTONIO VALDECI OLIVEIRA DE OLIVEIRA",
+      "nomeUrna": "VALDECI OLIVEIRA",
+      "partido": "PT",
+      "numero": "13713",
+      "votos": 2538,
+      "percentual": 12.56,
+      "sqcand": "210001610599"
+    },
+    {
+      "nome": "ADRIANO MARQUES DORNELLES",
+      "nomeUrna": "ADRIANO DORNELLES",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 2250,
+      "percentual": 11.14,
+      "sqcand": "210001648960"
+    },
+    {
+      "nome": "JAIR RODRIGUES MENDES",
+      "nomeUrna": "JAIR MENDES",
+      "partido": "REPUBLICANOS",
+      "numero": "10193",
+      "votos": 1532,
+      "percentual": 7.58,
+      "sqcand": "210001601662"
+    },
+    {
+      "nome": "PAULO RICARDO TITO COELHO",
+      "nomeUrna": "MAJOR PAULO TITO",
+      "partido": "PT",
+      "numero": "13321",
+      "votos": 700,
+      "percentual": 3.47,
+      "sqcand": "210001610637"
+    },
+    {
+      "nome": "MÁRCIO FERREIRA BINS ELY",
+      "nomeUrna": "MÁRCIO BINS ELY",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 565,
+      "percentual": 2.8,
+      "sqcand": "210001621332"
+    },
+    {
+      "nome": "FREDERICO CANTORI ANTUNES",
+      "nomeUrna": "FREDERICO ANTUNES",
+      "partido": "PP",
+      "numero": "11122",
+      "votos": 501,
+      "percentual": 2.48,
+      "sqcand": "210001647167"
+    }
+  ]
+}

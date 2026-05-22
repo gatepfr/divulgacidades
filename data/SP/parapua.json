@@ -1,0 +1,271 @@
+{
+  "populacao": 7665,
+  "votosValidos": 5919,
+  "abstencao": 17.91,
+  "prefeito": {
+    "nome": "MILTON MITIO IWAYAMA",
+    "nomeUrna": "MILTON JAPONÊS",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2672,
+    "percentual": 45.14,
+    "situacao": "Eleito",
+    "sqcand": "250002157734",
+    "vice": "CARLOS ALBERTO RODRIGUES GIMENES",
+    "viceNomeUrna": "BETO GIMENES",
+    "partidoVice": "PL",
+    "sqcandVice": "250002157735",
+    "coligacao": "PDT / REPUBLICANOS / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIANE APARECIDA MULLER SHIMIZU",
+      "nomeUrna": "MARIANE ENFERMEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 329,
+      "percentual": 5.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002271395"
+    },
+    {
+      "nome": "ROGNEY MAURICIO TEMPORIM",
+      "nomeUrna": "NEY TEMPORIM",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 305,
+      "percentual": 5.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002283913"
+    },
+    {
+      "nome": "DONIZETE ANDRÉ LUIZ MOLINA",
+      "nomeUrna": "ANDRÉ MOLINA",
+      "partido": "PRD",
+      "numero": "25123",
+      "votos": 260,
+      "percentual": 4.37,
+      "situacao": "Eleito por média",
+      "sqcand": "250001938939"
+    },
+    {
+      "nome": "LUIS CARLOS TRINTIN",
+      "nomeUrna": "CARLINHO TRINTIN",
+      "partido": "PP",
+      "numero": "11630",
+      "votos": 228,
+      "percentual": 3.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002260338"
+    },
+    {
+      "nome": "MARCIA CRISTINA RIBEIRO CASSIANO",
+      "nomeUrna": "MARCIA DO VALDEIR",
+      "partido": "PL",
+      "numero": "22500",
+      "votos": 216,
+      "percentual": 3.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002269972"
+    },
+    {
+      "nome": "RICK ANDERSON MARQUES",
+      "nomeUrna": "RICK DO MARQUINHO",
+      "partido": "PP",
+      "numero": "11145",
+      "votos": 182,
+      "percentual": 3.06,
+      "situacao": "Eleito por média",
+      "sqcand": "250002260335"
+    },
+    {
+      "nome": "PAULO ROBERTO MARTINS",
+      "nomeUrna": "PAULINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 162,
+      "percentual": 2.72,
+      "situacao": "Eleito por média",
+      "sqcand": "250002271401"
+    },
+    {
+      "nome": "ANDREIA MARIA SILVA DUARTE",
+      "nomeUrna": "ANDREIA TABACO",
+      "partido": "PL",
+      "numero": "22922",
+      "votos": 160,
+      "percentual": 2.69,
+      "situacao": "Eleito por média",
+      "sqcand": "250002269971"
+    },
+    {
+      "nome": "LUZIA VALERIA VIANA CORACINI",
+      "nomeUrna": "LÉLA",
+      "partido": "PDT",
+      "numero": "12192",
+      "votos": 152,
+      "percentual": 2.55,
+      "situacao": "Eleito por média",
+      "sqcand": "250002283920"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2894,
+      "percentual": 59.43,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1407,
+      "percentual": 28.89,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 469,
+      "percentual": 9.63,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FAUSTO RUY PINATO",
+      "nomeUrna": "FAUSTO PINATO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 631,
+      "percentual": 12.21,
+      "sqcand": "250001611957"
+    },
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 363,
+      "percentual": 7.03,
+      "sqcand": "250001612091"
+    },
+    {
+      "nome": "VINICIUS RAPOZO DE CARVALHO",
+      "nomeUrna": "VINICIUS CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1085",
+      "votos": 314,
+      "percentual": 6.08,
+      "sqcand": "250001611851"
+    },
+    {
+      "nome": "REINALDO DE SOUZA ALGUZ",
+      "nomeUrna": "REINALDO ALGUZ",
+      "partido": "UNIÃO",
+      "numero": "4436",
+      "votos": 281,
+      "percentual": 5.44,
+      "sqcand": "250001602077"
+    },
+    {
+      "nome": "ALEXANDRE ROCHA SANTOS PADILHA",
+      "nomeUrna": "ALEXANDRE PADILHA",
+      "partido": "PT",
+      "numero": "1354",
+      "votos": 242,
+      "percentual": 4.68,
+      "sqcand": "250001610710"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 205,
+      "percentual": 3.97,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 204,
+      "percentual": 3.95,
+      "sqcand": "250001611365"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROQUE BARBIERE",
+      "nomeUrna": "ROQUE BARBIERE ROQUINHO",
+      "partido": "AVANTE",
+      "numero": "70160",
+      "votos": 832,
+      "percentual": 16.81,
+      "sqcand": "250001621713"
+    },
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 749,
+      "percentual": 15.13,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "ANTONIO DIRCEU DALBEN",
+      "nomeUrna": "DALBEN",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 331,
+      "percentual": 6.69,
+      "sqcand": "250001611436"
+    },
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 204,
+      "percentual": 4.12,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "EMIDIO PEREIRA DE SOUZA",
+      "nomeUrna": "EMÍDIO DE SOUZA",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 193,
+      "percentual": 3.9,
+      "sqcand": "250001611811"
+    },
+    {
+      "nome": "ÉLITON SOUSA LEITE",
+      "nomeUrna": "ÉLITON LEITE MANDARAÍ",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 178,
+      "percentual": 3.6,
+      "sqcand": "250001639618"
+    },
+    {
+      "nome": "VALERIA MULLER RAMOS BOLSONARO",
+      "nomeUrna": "VALERIA BOLSONARO",
+      "partido": "PL",
+      "numero": "22922",
+      "votos": 165,
+      "percentual": 3.33,
+      "sqcand": "250001610167"
+    }
+  ]
+}

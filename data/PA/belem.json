@@ -1,0 +1,531 @@
+{
+  "populacao": 1056251,
+  "votosValidos": 747896,
+  "abstencao": 25.19,
+  "prefeito": {
+    "nome": "IGOR WANDER CENTENO NORMANDO",
+    "nomeUrna": "IGOR",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 421485,
+    "percentual": 56.36,
+    "situacao": "Eleito",
+    "sqcand": "140002181381",
+    "vice": "CÁSSIO COELHO ANDRADE",
+    "viceNomeUrna": "CÁSSIO ANDRADE",
+    "partidoVice": "MDB",
+    "sqcandVice": "140002181380",
+    "coligacao": "MDB / PSB / PRD / UNIÃO / PDT / PP / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "EMINA SILVANE GOMES DA SILVA FERRAZ",
+      "nomeUrna": "SILVANE FERRAZ",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 21561,
+      "percentual": 2.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002181384"
+    },
+    {
+      "nome": "JOHN WAYNE HOLANDA PARENTE",
+      "nomeUrna": "JOHN WAYNE",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 14299,
+      "percentual": 1.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002181383"
+    },
+    {
+      "nome": "WASHINGTON COSTA DE ALBUQUERQUE",
+      "nomeUrna": "NENÉM ALBUQUERQUE",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 12566,
+      "percentual": 1.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002181397"
+    },
+    {
+      "nome": "TULIO DIAS DAS NEVES",
+      "nomeUrna": "TULIO NEVES",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 12449,
+      "percentual": 1.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002023227"
+    },
+    {
+      "nome": "PABLO RAFAELLO RAYMOND DA SILVA FARAH",
+      "nomeUrna": "PABLO FARAH",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 12259,
+      "percentual": 1.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002181386"
+    },
+    {
+      "nome": "JOÃO PAULO ALBUQUERQUE COELHO",
+      "nomeUrna": "JOÃO COELHO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 12026,
+      "percentual": 1.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002277844"
+    },
+    {
+      "nome": "AGATHA SODRE BARRA DO AMARAL",
+      "nomeUrna": "ÁGATHA BARRA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 11212,
+      "percentual": 1.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001987880"
+    },
+    {
+      "nome": "MAYKY TAYLY GUIMARÃES FRANCO",
+      "nomeUrna": "MAYKY VILAÇA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 10714,
+      "percentual": 1.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001987863"
+    },
+    {
+      "nome": "CLEOSON SOUZA DA SILVA",
+      "nomeUrna": "BIECO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 9540,
+      "percentual": 1.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002181402"
+    },
+    {
+      "nome": "RENAN CENTENO NORMANDO",
+      "nomeUrna": "RENAN NORMANDO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 9495,
+      "percentual": 1.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002181410"
+    },
+    {
+      "nome": "RAQUEL FERREIRA VIANA",
+      "nomeUrna": "RAQUEL DOS ANIMAIS",
+      "partido": "PDT",
+      "numero": "12121",
+      "votos": 9156,
+      "percentual": 1.16,
+      "situacao": "Eleito por média",
+      "sqcand": "140002277854"
+    },
+    {
+      "nome": "GLEISSON OLIVEIRA DA SILVA",
+      "nomeUrna": "GLEISSON ",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 9067,
+      "percentual": 1.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002223389"
+    },
+    {
+      "nome": "FÁBIO JORGE CARVALHO DE SOUZA",
+      "nomeUrna": "FÁBIO SOUZA",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 8668,
+      "percentual": 1.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002181407"
+    },
+    {
+      "nome": "RONISON ROGERIO SOZINHO PARAGUASSU",
+      "nomeUrna": "RONI GAS",
+      "partido": "MDB",
+      "numero": "15800",
+      "votos": 8602,
+      "percentual": 1.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002181394"
+    },
+    {
+      "nome": "MARCOS ROBERTO XAVIER",
+      "nomeUrna": "MARCOS XAVIER",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 8590,
+      "percentual": 1.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001987723"
+    },
+    {
+      "nome": "MARINOR JORGE BRITO",
+      "nomeUrna": "MARINOR BRITO",
+      "partido": "PSOL",
+      "numero": "50123",
+      "votos": 8452,
+      "percentual": 1.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002110140"
+    },
+    {
+      "nome": "PATRICIA LUILA QUEIROZ CAPRA",
+      "nomeUrna": "PATRICIA QUEIROZ",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 8330,
+      "percentual": 1.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001988092"
+    },
+    {
+      "nome": "BLENDA CECILIA ALVES QUARESMA",
+      "nomeUrna": "BLENDA QUARESMA",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 8312,
+      "percentual": 1.05,
+      "situacao": "Eleito por média",
+      "sqcand": "140002181392"
+    },
+    {
+      "nome": "IGOR GUAPINDAIA DE ANDRADE",
+      "nomeUrna": "IGOR ANDRADE",
+      "partido": "REDE",
+      "numero": "18123",
+      "votos": 7854,
+      "percentual": 0.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002110119"
+    },
+    {
+      "nome": "MARCO FELIPE DE LIMA VINAGRE",
+      "nomeUrna": "FELIPE VINAGRE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 7751,
+      "percentual": 0.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002179983"
+    },
+    {
+      "nome": "VITOR SALES CAMINHA",
+      "nomeUrna": "VITOR SALES",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 7186,
+      "percentual": 0.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002179976"
+    },
+    {
+      "nome": "VIVIANE DA COSTA REIS",
+      "nomeUrna": "VIVI REIS ",
+      "partido": "PSOL",
+      "numero": "50500",
+      "votos": 6956,
+      "percentual": 0.88,
+      "situacao": "Eleito por média",
+      "sqcand": "140002110110"
+    },
+    {
+      "nome": "MOACIR IRAN NASCIMENTO MORAES FILHO",
+      "nomeUrna": "MOA MORAES",
+      "partido": "PV",
+      "numero": "43199",
+      "votos": 6951,
+      "percentual": 0.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002109506"
+    },
+    {
+      "nome": "JOSE AUGUSTO PEREIRA DOS SANTOS",
+      "nomeUrna": "AUGUSTO SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 6694,
+      "percentual": 0.85,
+      "situacao": "Eleito por média",
+      "sqcand": "140001987732"
+    },
+    {
+      "nome": "SALETE FERREIRA SOUZA",
+      "nomeUrna": "PASTORA SALETE",
+      "partido": "PSD",
+      "numero": "55234",
+      "votos": 6333,
+      "percentual": 0.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002023211"
+    },
+    {
+      "nome": "JOSÉ MARIA DE LIMA SEGUNDO",
+      "nomeUrna": "ZEZINHO LIMA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 6258,
+      "percentual": 0.79,
+      "situacao": "Eleito por média",
+      "sqcand": "140001987886"
+    },
+    {
+      "nome": "NAYARA BARBALHO DA CRUZ",
+      "nomeUrna": "NAY BARBALHO",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 6157,
+      "percentual": 0.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001988085"
+    },
+    {
+      "nome": "LUIS ANTONIO DA COSTA PINHEIRO JUNIOR",
+      "nomeUrna": "LULU DAS COMUNIDADES",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 5763,
+      "percentual": 0.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002223682"
+    },
+    {
+      "nome": "RODRIGO FERREIRA DE MORAES",
+      "nomeUrna": "RODRIGO MORAES",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 5690,
+      "percentual": 0.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002109510"
+    },
+    {
+      "nome": "JORGE LEONIDAS VAZ DA COSTA",
+      "nomeUrna": "JORGE VAZ",
+      "partido": "PRD",
+      "numero": "25100",
+      "votos": 5565,
+      "percentual": 0.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002038935"
+    },
+    {
+      "nome": "JOSE LUIS PANTOJA MORAES",
+      "nomeUrna": "ZECA DO BARREIRO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 5517,
+      "percentual": 0.7,
+      "situacao": "Eleito por média",
+      "sqcand": "140002179999"
+    },
+    {
+      "nome": "ANDRE MARTHA TAVARES FILHO",
+      "nomeUrna": "ANDRÉ MARTHA",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 5510,
+      "percentual": 0.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002023210"
+    },
+    {
+      "nome": "VALCINEIA MARQUES FARIAS",
+      "nomeUrna": "NEIA MARQUES",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 5443,
+      "percentual": 0.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002109501"
+    },
+    {
+      "nome": "JOSIAS DA SILVA HIGINO",
+      "nomeUrna": "HIGINO",
+      "partido": "PSD",
+      "numero": "55200",
+      "votos": 5394,
+      "percentual": 0.68,
+      "situacao": "Eleito por média",
+      "sqcand": "140002023230"
+    },
+    {
+      "nome": "ALFREDO CARDOSO COSTA",
+      "nomeUrna": "PROFESSOR ALFREDO COSTA",
+      "partido": "PT",
+      "numero": "13630",
+      "votos": 5331,
+      "percentual": 0.67,
+      "situacao": "Eleito por média",
+      "sqcand": "140002109493"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 303667,
+      "percentual": 41.45,
+      "sqcand": "140001611661"
+    },
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 256648,
+      "percentual": 35.04,
+      "sqcand": "140001600249"
+    },
+    {
+      "nome": "MANOEL CARLOS ANTUNES",
+      "nomeUrna": "PIONEIRO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 72538,
+      "percentual": 9.9,
+      "sqcand": "140001650188"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "EDER MAURO CARDOSO BARRA",
+      "nomeUrna": "DELEGADO EDER MAURO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 67184,
+      "percentual": 8.59,
+      "sqcand": "140001598311"
+    },
+    {
+      "nome": "WAGNER BACH MARTINS",
+      "nomeUrna": "VAVÁ MARTINS",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 38701,
+      "percentual": 4.95,
+      "sqcand": "140001601468"
+    },
+    {
+      "nome": "ELCIONE THEREZINHA ZAHLUTH BARBALHO",
+      "nomeUrna": "ELCIONE",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 37425,
+      "percentual": 4.79,
+      "sqcand": "140001621343"
+    },
+    {
+      "nome": "MARINOR JORGE BRITO",
+      "nomeUrna": "MARINOR BRITO",
+      "partido": "PSOL",
+      "numero": "5050",
+      "votos": 34250,
+      "percentual": 4.38,
+      "sqcand": "140001650327"
+    },
+    {
+      "nome": "VIVIANE DA COSTA REIS",
+      "nomeUrna": "VIVI REIS",
+      "partido": "PSOL",
+      "numero": "5000",
+      "votos": 29955,
+      "percentual": 3.83,
+      "sqcand": "140001650331"
+    },
+    {
+      "nome": "EVERALDO JORGE MARTINS EGUCHI",
+      "nomeUrna": "DEL FEDERAL EGUCHI",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 28248,
+      "percentual": 3.61,
+      "sqcand": "140001598304"
+    },
+    {
+      "nome": "ALESSANDRA HABER CARVALHO SANTOS",
+      "nomeUrna": "DRA ALESSANDRA HABER",
+      "partido": "MDB",
+      "numero": "1567",
+      "votos": 28007,
+      "percentual": 3.58,
+      "sqcand": "140001621346"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSE WILSON COSTA ARAUJO",
+      "nomeUrna": "ZECA PIRAO",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 40878,
+      "percentual": 5.3,
+      "sqcand": "140001676896"
+    },
+    {
+      "nome": "HUGO ROGERIO SARMANHO BARRA",
+      "nomeUrna": "ROGERIO BARRA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 28822,
+      "percentual": 3.73,
+      "sqcand": "140001601810"
+    },
+    {
+      "nome": "FÁBIO SOUSA DE FREITAS",
+      "nomeUrna": "FÁBIO FREITAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 25787,
+      "percentual": 3.34,
+      "sqcand": "140001601526"
+    },
+    {
+      "nome": "NILTON SILVA DAS NEVES",
+      "nomeUrna": "DELEGADO NILTON NEVES",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 24781,
+      "percentual": 3.21,
+      "sqcand": "140001650086"
+    },
+    {
+      "nome": "IGOR WANDER CENTENO NORMANDO",
+      "nomeUrna": "IGOR NORMANDO",
+      "partido": "PODE",
+      "numero": "19111",
+      "votos": 24479,
+      "percentual": 3.17,
+      "sqcand": "140001651435"
+    },
+    {
+      "nome": "MARCO ADRIANO ALBUQUERQUE COELHO",
+      "nomeUrna": "ADRIANO COELHO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 22617,
+      "percentual": 2.93,
+      "sqcand": "140001621060"
+    },
+    {
+      "nome": "LÍVIA DUARTE PUTY",
+      "nomeUrna": "LÍVIA DUARTE",
+      "partido": "PSOL",
+      "numero": "50123",
+      "votos": 20749,
+      "percentual": 2.69,
+      "sqcand": "140001651027"
+    }
+  ]
+}

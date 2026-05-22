@@ -1,0 +1,271 @@
+{
+  "populacao": 9744,
+  "votosValidos": 7554,
+  "abstencao": 20.49,
+  "prefeito": {
+    "nome": "JOSE MARCELO PIOVAN GUIMARAES",
+    "nomeUrna": "MARCELO BOLINHA",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 3944,
+    "percentual": 52.21,
+    "situacao": "Eleito",
+    "sqcand": "160001971968",
+    "vice": "JOSE LUIZ AMADEU",
+    "viceNomeUrna": "JOSE LUIZ AMADEU",
+    "partidoVice": "PL",
+    "sqcandVice": "160001971967",
+    "coligacao": "PP / PL / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "VAGNERLEI GONÇALVES DE ALMEIDA",
+      "nomeUrna": "VAGUINHO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 590,
+      "percentual": 7.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001972009"
+    },
+    {
+      "nome": "MARCOS VENICIO MAIA",
+      "nomeUrna": "MARCOS MAIA",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 483,
+      "percentual": 6.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001972063"
+    },
+    {
+      "nome": "GUSTAVO DE PAULA SPAGOLLA",
+      "nomeUrna": "GUSTAVO SPAGOLLA",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 466,
+      "percentual": 6.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001972059"
+    },
+    {
+      "nome": "LEANDRO HENRIQUE DOS SANTOS",
+      "nomeUrna": "BATATA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 372,
+      "percentual": 4.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001945135"
+    },
+    {
+      "nome": "RAFAEL PALMA DE AZEVEDO",
+      "nomeUrna": "RAFAEL SALGADINHO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 363,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001972012"
+    },
+    {
+      "nome": "JOSE ANTONIO COLOMBO",
+      "nomeUrna": "TONHÉ",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 350,
+      "percentual": 4.65,
+      "situacao": "Eleito por média",
+      "sqcand": "160001972015"
+    },
+    {
+      "nome": "VALDIR ESCHIEZARO",
+      "nomeUrna": "VALDIR ESCHIEZARO",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 345,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001972027"
+    },
+    {
+      "nome": "ADRIANO DIAS DOS SANTOS",
+      "nomeUrna": "ADRIANO DIAS DRI",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 334,
+      "percentual": 4.43,
+      "situacao": "Eleito por média",
+      "sqcand": "160001972066"
+    },
+    {
+      "nome": "EMERSON ELIAS ALVES",
+      "nomeUrna": "ERMINHO PINTURAS",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 210,
+      "percentual": 2.79,
+      "situacao": "Eleito por média",
+      "sqcand": "160001972036"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1822,
+      "percentual": 30.22,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1674,
+      "percentual": 27.76,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1371,
+      "percentual": 22.74,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1253,
+      "percentual": 19.47,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 660,
+      "percentual": 10.25,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 646,
+      "percentual": 10.04,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 503,
+      "percentual": 7.82,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "ANTONIO WANDSCHEER",
+      "nomeUrna": "TONINHO WANDSCHEER",
+      "partido": "PROS",
+      "numero": "9090",
+      "votos": 438,
+      "percentual": 6.81,
+      "sqcand": "160001621909"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 431,
+      "percentual": 6.7,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 312,
+      "percentual": 4.85,
+      "sqcand": "160001622297"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TERCILIO LUIZ TURINI",
+      "nomeUrna": "TERCILIO TURINI",
+      "partido": "PSD",
+      "numero": "55043",
+      "votos": 878,
+      "percentual": 14.26,
+      "sqcand": "160001623105"
+    },
+    {
+      "nome": "JOSÉ TIAGO CAMARGO DO AMARAL",
+      "nomeUrna": "TIAGO AMARAL",
+      "partido": "PSD",
+      "numero": "55155",
+      "votos": 750,
+      "percentual": 12.18,
+      "sqcand": "160001623115"
+    },
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 492,
+      "percentual": 7.99,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "ARILSON MAROLDI CHIORATO",
+      "nomeUrna": "ARILSON CHIORATO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 463,
+      "percentual": 7.52,
+      "sqcand": "160001615010"
+    },
+    {
+      "nome": "ALISSON ANTHONY WANDSCHEER",
+      "nomeUrna": "ALISSON WANDSCHEER",
+      "partido": "PROS",
+      "numero": "90000",
+      "votos": 456,
+      "percentual": 7.4,
+      "sqcand": "160001622180"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 393,
+      "percentual": 6.38,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 375,
+      "percentual": 6.09,
+      "sqcand": "160001623099"
+    }
+  ]
+}

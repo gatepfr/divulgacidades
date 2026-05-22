@@ -1,0 +1,271 @@
+{
+  "populacao": 4720,
+  "votosValidos": 3919,
+  "abstencao": 14.64,
+  "prefeito": {
+    "nome": "GILMAR FERREIRA DE LEMOS",
+    "nomeUrna": "PRETINHO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2234,
+    "percentual": 57.0,
+    "situacao": "Eleito",
+    "sqcand": "210001957563",
+    "vice": "JADER CRISTIANO PEDONE",
+    "viceNomeUrna": "JADER SARDINHA",
+    "partidoVice": "PDT",
+    "sqcandVice": "210001957562",
+    "coligacao": "PP / PDT / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "IZABEL ROSA DA SILVA",
+      "nomeUrna": "IZABEL ROSA",
+      "partido": "MDB",
+      "numero": "15604",
+      "votos": 333,
+      "percentual": 8.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002049444"
+    },
+    {
+      "nome": "RAQUEL CRISTINA TERRA FERREIRA",
+      "nomeUrna": "RAQUEL TERRA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 305,
+      "percentual": 7.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002021904"
+    },
+    {
+      "nome": "ENIO VIEIRA CHAVES",
+      "nomeUrna": "ENIO CHAVES",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 304,
+      "percentual": 7.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002021902"
+    },
+    {
+      "nome": "LEONE DE LIMA MACHADO SOUZA",
+      "nomeUrna": "LEONE MACHADO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 280,
+      "percentual": 7.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002049443"
+    },
+    {
+      "nome": "VOLMIR LISBOA VIEIRA",
+      "nomeUrna": "VOLMIR FORNEIRA",
+      "partido": "MDB",
+      "numero": "15610",
+      "votos": 276,
+      "percentual": 7.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002049445"
+    },
+    {
+      "nome": "ELIS REGINA LEMOS RODRIGUES",
+      "nomeUrna": "ELIS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 265,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002021900"
+    },
+    {
+      "nome": "NARDEL RODRIGUES NUNES",
+      "nomeUrna": "NARDEL NUNES",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 260,
+      "percentual": 6.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002200220"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS ANTUNES PAGANO",
+      "nomeUrna": "ANTONIO CARLOS",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 253,
+      "percentual": 6.44,
+      "situacao": "Eleito por média",
+      "sqcand": "210002049442"
+    },
+    {
+      "nome": "JARDEL ANTUNES PORTO",
+      "nomeUrna": "JARDEL PORTO",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 249,
+      "percentual": 6.33,
+      "situacao": "Eleito por média",
+      "sqcand": "210002021899"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1422,
+      "percentual": 46.14,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 841,
+      "percentual": 27.29,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 801,
+      "percentual": 25.99,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 1325,
+      "percentual": 41.23,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 230,
+      "percentual": 7.16,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 177,
+      "percentual": 5.51,
+      "sqcand": "210001621256"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 172,
+      "percentual": 5.35,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 140,
+      "percentual": 4.36,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "SANDRO JOÃO DAMASCENO CYNTRÃO",
+      "nomeUrna": "SANDRO CYNTRÃO",
+      "partido": "PTB",
+      "numero": "1423",
+      "votos": 82,
+      "percentual": 2.55,
+      "sqcand": "210001649218"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 80,
+      "percentual": 2.49,
+      "sqcand": "210001604643"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 922,
+      "percentual": 30.12,
+      "sqcand": "210001647995"
+    },
+    {
+      "nome": "JOSÉ OLAVO ROSA BISOL",
+      "nomeUrna": "BISOL",
+      "partido": "PDT",
+      "numero": "12233",
+      "votos": 240,
+      "percentual": 7.84,
+      "sqcand": "210001621291"
+    },
+    {
+      "nome": "JANIR SOUZA BRANCO",
+      "nomeUrna": "JANIR BRANCO",
+      "partido": "MDB",
+      "numero": "15550",
+      "votos": 213,
+      "percentual": 6.96,
+      "sqcand": "210001647991"
+    },
+    {
+      "nome": "CHRISTIAN WYSE DE LEMOS",
+      "nomeUrna": "CHRISTIAN LEMOS ",
+      "partido": "PSDB",
+      "numero": "45101",
+      "votos": 210,
+      "percentual": 6.86,
+      "sqcand": "210001620184"
+    },
+    {
+      "nome": "MARCUS VINÍCIUS VIEIRA DE ALMEIDA",
+      "nomeUrna": "MARCUS VINÍCIUS",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 206,
+      "percentual": 6.73,
+      "sqcand": "210001647184"
+    },
+    {
+      "nome": "CHRISTINO MATTOS DE AZEVEDO",
+      "nomeUrna": "O HOMEM DO CAMINHÃO",
+      "partido": "PDT",
+      "numero": "12623",
+      "votos": 122,
+      "percentual": 3.99,
+      "sqcand": "210001621317"
+    },
+    {
+      "nome": "JOSÉ SIDNEY NUNES DE ALMEIDA",
+      "nomeUrna": "ZÉ NUNES",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 103,
+      "percentual": 3.36,
+      "sqcand": "210001610623"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 6218,
+  "votosValidos": 5046,
+  "abstencao": 17.58,
+  "prefeito": {
+    "nome": "MURILO JORGE VAZ SILVA",
+    "nomeUrna": "DELEGADO MURILO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2439,
+    "percentual": 48.34,
+    "situacao": "Eleito",
+    "sqcand": "120002077189",
+    "vice": "EDY REZENDE GUIMARAES",
+    "viceNomeUrna": "EDY DA BORRACHARIA",
+    "partidoVice": "PL",
+    "sqcandVice": "120002077190",
+    "coligacao": "PL"
+  },
+  "vereadores": [
+    {
+      "nome": "RUDIMAR FELIX DE SOUZA",
+      "nomeUrna": "RUDIMAR DA DISTRIBUIDORA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 348,
+      "percentual": 6.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001950090"
+    },
+    {
+      "nome": "NICANOR DA SILVA FARIAS",
+      "nomeUrna": "NICANOR BARBEIRO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 300,
+      "percentual": 5.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002219183"
+    },
+    {
+      "nome": "SERGIO CARLOS BORGES",
+      "nomeUrna": "BIDU",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 265,
+      "percentual": 5.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002077115"
+    },
+    {
+      "nome": "JOSÉ ORLIFLAI MENDES",
+      "nomeUrna": "ORLIFLAI MANINHO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 254,
+      "percentual": 5.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001950091"
+    },
+    {
+      "nome": "REGES NUNES DE PAULA",
+      "nomeUrna": "REGES DE PAULA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 221,
+      "percentual": 4.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002299650"
+    },
+    {
+      "nome": "ADAIDES FRANCISCO DE MORAIS",
+      "nomeUrna": "LOBINHO ADAIDES",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 218,
+      "percentual": 4.33,
+      "situacao": "Eleito por média",
+      "sqcand": "120002299656"
+    },
+    {
+      "nome": "ETENIR HONORATO DE OLIVEIRA",
+      "nomeUrna": "BIRO TETE",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 204,
+      "percentual": 4.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002219184"
+    },
+    {
+      "nome": "SANDOVAL ALVES DE OLIVEIRA",
+      "nomeUrna": "SANDOVAL",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 147,
+      "percentual": 2.92,
+      "situacao": "Eleito por média",
+      "sqcand": "120002077118"
+    },
+    {
+      "nome": "ZULBERTO ALVES ELIAS",
+      "nomeUrna": "BETO QUILOMBOLA",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 143,
+      "percentual": 2.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002056074"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2931,
+      "percentual": 72.41,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "TIAGO RESENDE BOTELHO",
+      "nomeUrna": "PROFESSOR TIAGO BOTELHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 510,
+      "percentual": 12.6,
+      "sqcand": "120001652251"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 398,
+      "percentual": 9.83,
+      "sqcand": "120001609096"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCOS SBOROWSKI POLLON",
+      "nomeUrna": "MARCOS POLLON",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 512,
+      "percentual": 12.62,
+      "sqcand": "120001614258"
+    },
+    {
+      "nome": "FÁBIO RICARDO TRAD",
+      "nomeUrna": "FÁBIO TRAD",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 468,
+      "percentual": 11.54,
+      "sqcand": "120001650734"
+    },
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 433,
+      "percentual": 10.68,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "DAGOBERTO NOGUEIRA FILHO",
+      "nomeUrna": "DAGOBERTO",
+      "partido": "PSDB",
+      "numero": "4512",
+      "votos": 328,
+      "percentual": 8.09,
+      "sqcand": "120001612322"
+    },
+    {
+      "nome": "EDNEI MARCELO MIGLIOLI",
+      "nomeUrna": "MARCELO MIGLIOLI",
+      "partido": "UNIÃO",
+      "numero": "4445",
+      "votos": 279,
+      "percentual": 6.88,
+      "sqcand": "120001609242"
+    },
+    {
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nomeUrna": "DR. GERALDO RESENDE",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 265,
+      "percentual": 6.53,
+      "sqcand": "120001612324"
+    },
+    {
+      "nome": "WALDEMIR MOKA MIRANDA DE BRITTO",
+      "nomeUrna": "MOKA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 241,
+      "percentual": 5.94,
+      "sqcand": "120001636657"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TIAGO HENRIQUE VARGAS",
+      "nomeUrna": "TIAGO VARGAS",
+      "partido": "PSD",
+      "numero": "55700",
+      "votos": 746,
+      "percentual": 18.83,
+      "sqcand": "120001650944"
+    },
+    {
+      "nome": "OSWALDO MOCHI JUNIOR",
+      "nomeUrna": "JUNIOR MOCHI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 629,
+      "percentual": 15.88,
+      "sqcand": "120001643162"
+    },
+    {
+      "nome": "JAMILSON LOPES NAME",
+      "nomeUrna": "JAMILSON NAME",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 570,
+      "percentual": 14.39,
+      "sqcand": "120001613597"
+    },
+    {
+      "nome": "PAULO JOSÉ ARAÚJO CORRÊA",
+      "nomeUrna": "PAULO CORRÊA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 228,
+      "percentual": 5.75,
+      "sqcand": "120001613595"
+    },
+    {
+      "nome": "LIDIO NOGUEIRA LOPES",
+      "nomeUrna": "LIDIO LOPES",
+      "partido": "PATRIOTA",
+      "numero": "51777",
+      "votos": 206,
+      "percentual": 5.2,
+      "sqcand": "120001651197"
+    },
+    {
+      "nome": "WILLIAN MENDES DA ROCHA MEIRA",
+      "nomeUrna": "WILLIAM MEIRA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 102,
+      "percentual": 2.57,
+      "sqcand": "120001613589"
+    },
+    {
+      "nome": "PAULO ROBERTO DUARTE",
+      "nomeUrna": "PAULO DUARTE",
+      "partido": "PSB",
+      "numero": "40300",
+      "votos": 101,
+      "percentual": 2.55,
+      "sqcand": "120001598645"
+    }
+  ]
+}

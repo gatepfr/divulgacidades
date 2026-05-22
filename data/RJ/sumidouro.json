@@ -1,0 +1,291 @@
+{
+  "populacao": 15000,
+  "votosValidos": 12480,
+  "abstencao": 14.62,
+  "prefeito": {
+    "nome": "GALILEU DE FREITAS",
+    "nomeUrna": "GALILEU",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 6370,
+    "percentual": 51.04,
+    "situacao": "Eleito",
+    "sqcand": "190002161358",
+    "vice": "JOSÉ AMARILDO PIMENTEL",
+    "viceNomeUrna": "AMARILDO",
+    "partidoVice": "PL",
+    "sqcandVice": "190002161359",
+    "coligacao": "PL / MDB / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "BRENO BRUGGER MATTOS",
+      "nomeUrna": "BRENO ENFERMEIRO",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 1061,
+      "percentual": 8.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001932972"
+    },
+    {
+      "nome": "GEILSON JASMIM LAMPA",
+      "nomeUrna": "GEILSON LAMPA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 743,
+      "percentual": 5.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002161179"
+    },
+    {
+      "nome": "GEOVANNI DAMIÃO CASTILHO",
+      "nomeUrna": "GEOVANNI",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 660,
+      "percentual": 5.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001931782"
+    },
+    {
+      "nome": "CLÁUDIO MOISES MOREIRA",
+      "nomeUrna": "CLAUDINHO MOREIRA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 606,
+      "percentual": 4.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001931784"
+    },
+    {
+      "nome": "NÚBIA RAMOS RODRIGUES",
+      "nomeUrna": "NÚBIA RAMOS",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 596,
+      "percentual": 4.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001931785"
+    },
+    {
+      "nome": "DIEGO KNUST DA ROZA",
+      "nomeUrna": "DIEGO DO NILSINHO",
+      "partido": "MDB",
+      "numero": "15633",
+      "votos": 566,
+      "percentual": 4.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002161540"
+    },
+    {
+      "nome": "JOSÉ CARLOS DA ROCHA",
+      "nomeUrna": "CARLINHO ROCHA",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 551,
+      "percentual": 4.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002161537"
+    },
+    {
+      "nome": "DALVA CHARLES DE MELLO",
+      "nomeUrna": "DALVINHA",
+      "partido": "PP",
+      "numero": "11611",
+      "votos": 515,
+      "percentual": 4.13,
+      "situacao": "Eleito por média",
+      "sqcand": "190001931778"
+    },
+    {
+      "nome": "PETTERSON GARCIA DE SOUZA",
+      "nomeUrna": "PEPÉ",
+      "partido": "PRD",
+      "numero": "25025",
+      "votos": 466,
+      "percentual": 3.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001932980"
+    },
+    {
+      "nome": "FABIANO VEIGA ANGOTE",
+      "nomeUrna": "FABINHO",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 342,
+      "percentual": 2.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002161183"
+    },
+    {
+      "nome": "LUIZ CARLOS VIANA GASPAR",
+      "nomeUrna": "LUIZ CARLOS",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 292,
+      "percentual": 2.34,
+      "situacao": "Eleito por média",
+      "sqcand": "190002161185"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4759,
+      "percentual": 56.84,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "CLARISSA GAROTINHO BARROS ASSED MATHEUS DE OLIVEIRA",
+      "nomeUrna": "CLARISSA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1599,
+      "percentual": 19.1,
+      "sqcand": "190001645824"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 982,
+      "percentual": 11.73,
+      "sqcand": "190001609504"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CHRISTINO AUREO DA SILVA",
+      "nomeUrna": "CHRISTINO ÁUREO",
+      "partido": "PP",
+      "numero": "1155",
+      "votos": 1436,
+      "percentual": 14.35,
+      "sqcand": "190001605615"
+    },
+    {
+      "nome": "MARCUS VINICIUS DE VASCONCELOS FERREIRA",
+      "nomeUrna": "MARCUS VINICIUS NESKAU",
+      "partido": "PTB",
+      "numero": "1484",
+      "votos": 1244,
+      "percentual": 12.43,
+      "sqcand": "190001603065"
+    },
+    {
+      "nome": "LOURIVAL GOMES DE ALMEIDA",
+      "nomeUrna": "LOURIVAL GOMES",
+      "partido": "PP",
+      "numero": "1189",
+      "votos": 867,
+      "percentual": 8.66,
+      "sqcand": "190001605607"
+    },
+    {
+      "nome": "PEDRO ROGÉRIO VIEIRA CABRAL",
+      "nomeUrna": "ROGÉRIO CABRAL",
+      "partido": "UNIÃO",
+      "numero": "4425",
+      "votos": 657,
+      "percentual": 6.57,
+      "sqcand": "190001619514"
+    },
+    {
+      "nome": "JOÃO FRANCISCO INÁCIO BRAZÃO",
+      "nomeUrna": "CHIQUINHO BRAZÃO",
+      "partido": "UNIÃO",
+      "numero": "4401",
+      "votos": 630,
+      "percentual": 6.3,
+      "sqcand": "190001619502"
+    },
+    {
+      "nome": "GLAUBER DE MEDEIROS BRAGA",
+      "nomeUrna": "GLAUBER",
+      "partido": "PSOL",
+      "numero": "5080",
+      "votos": 456,
+      "percentual": 4.56,
+      "sqcand": "190001600475"
+    },
+    {
+      "nome": "DANILO CASSANE SOARES",
+      "nomeUrna": "DOUTOR DANILO ",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 396,
+      "percentual": 3.96,
+      "sqcand": "190001605601"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MANOEL INACIO BRAZAO",
+      "nomeUrna": "BRAZÃO",
+      "partido": "UNIÃO",
+      "numero": "44101",
+      "votos": 1672,
+      "percentual": 18.09,
+      "sqcand": "190001619470"
+    },
+    {
+      "nome": "JAIR DE SIQUEIRA BITTENCOURT JUNIOR",
+      "nomeUrna": "JAIR BITTENCOURT",
+      "partido": "PL",
+      "numero": "22300",
+      "votos": 1382,
+      "percentual": 14.96,
+      "sqcand": "190001596713"
+    },
+    {
+      "nome": "BERNARDO CHIM ROSSI",
+      "nomeUrna": "BERNARDO ROSSI",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77007",
+      "votos": 748,
+      "percentual": 8.09,
+      "sqcand": "190001601350"
+    },
+    {
+      "nome": "ROSENVERG REIS DE OLIVEIRA",
+      "nomeUrna": "ROSENVERG REIS",
+      "partido": "MDB",
+      "numero": "15016",
+      "votos": 745,
+      "percentual": 8.06,
+      "sqcand": "190001645656"
+    },
+    {
+      "nome": "DEODALTO JOSE FERREIRA",
+      "nomeUrna": "DR DEODALTO",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 466,
+      "percentual": 5.04,
+      "sqcand": "190001596733"
+    },
+    {
+      "nome": "EURICO PINHEIRO BERNARDES JÚNIOR",
+      "nomeUrna": "EURICO JÚNIOR",
+      "partido": "PV",
+      "numero": "43126",
+      "votos": 336,
+      "percentual": 3.64,
+      "sqcand": "190001620523"
+    },
+    {
+      "nome": "JOSÉ LEONARDO VASCONCELLOS DE ANDRADE",
+      "nomeUrna": "LEONARDO VASCONCELLOS",
+      "partido": "UNIÃO",
+      "numero": "44001",
+      "votos": 286,
+      "percentual": 3.09,
+      "sqcand": "190001619445"
+    }
+  ]
+}

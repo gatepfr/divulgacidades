@@ -1,0 +1,271 @@
+{
+  "populacao": 5188,
+  "votosValidos": 4708,
+  "abstencao": 8.02,
+  "prefeito": {
+    "nome": "JAIME DA SILVA STANG",
+    "nomeUrna": "JAIME STANG",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2595,
+    "percentual": 55.12,
+    "situacao": "Eleito",
+    "sqcand": "160002332039",
+    "vice": "CLOVIS FERNANDES",
+    "viceNomeUrna": "CLOVIS FERNANDES",
+    "partidoVice": "MDB",
+    "sqcandVice": "160002332038",
+    "coligacao": "PSD / PRD / PL / PSB / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "RENATO FRITZEN",
+      "nomeUrna": "RENATO FRITZEN BODE",
+      "partido": "PSD",
+      "numero": "55999",
+      "votos": 422,
+      "percentual": 8.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002350665"
+    },
+    {
+      "nome": "YAGO DE PONTES MACIEL DA SILVA",
+      "nomeUrna": "YAGO PONTES",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 407,
+      "percentual": 8.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002350671"
+    },
+    {
+      "nome": "JOSE IVONEI BOGER",
+      "nomeUrna": "VEI BOGER",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 364,
+      "percentual": 7.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002350667"
+    },
+    {
+      "nome": "NILSON JOSE FORMAIO",
+      "nomeUrna": "NILSON FORMAIO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 361,
+      "percentual": 7.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002350663"
+    },
+    {
+      "nome": "ALENCAR JOSE LUCHTENBERG",
+      "nomeUrna": "ALENCAR LUCHTENBERG",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 285,
+      "percentual": 6.05,
+      "situacao": "Eleito por média",
+      "sqcand": "160002350668"
+    },
+    {
+      "nome": "ODENIR VIEIRA",
+      "nomeUrna": "DENI VIEIRA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 266,
+      "percentual": 5.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002054011"
+    },
+    {
+      "nome": "JOSÉ DANILLO LOCKS",
+      "nomeUrna": "DANILO LOCKS",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 232,
+      "percentual": 4.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002054002"
+    },
+    {
+      "nome": "ANEZIO NAZARIO",
+      "nomeUrna": "ANEZIO NAZARIO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 189,
+      "percentual": 4.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002231555"
+    },
+    {
+      "nome": "ILGO ELCI DA ROCHA",
+      "nomeUrna": "ILGO ELCI DA ROCHA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 171,
+      "percentual": 3.63,
+      "situacao": "Eleito por média",
+      "sqcand": "160002231556"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1655,
+      "percentual": 47.08,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 744,
+      "percentual": 21.17,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 637,
+      "percentual": 18.12,
+      "sqcand": "160001621868"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 1098,
+      "percentual": 29.57,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 434,
+      "percentual": 11.69,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "NELSI COGUETTO MARIA",
+      "nomeUrna": "VERMELHO",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 367,
+      "percentual": 9.88,
+      "sqcand": "160001622020"
+    },
+    {
+      "nome": "PAULO HENRIQUE COLETTI FERNANDES",
+      "nomeUrna": "PAULO LITRO",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 356,
+      "percentual": 9.59,
+      "sqcand": "160001622301"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 226,
+      "percentual": 6.09,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 189,
+      "percentual": 5.09,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 133,
+      "percentual": 3.58,
+      "sqcand": "160001654655"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 1017,
+      "percentual": 27.96,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "WILMAR REICHEMBACH",
+      "nomeUrna": "REICHEMBACH",
+      "partido": "PSD",
+      "numero": "55012",
+      "votos": 798,
+      "percentual": 21.94,
+      "sqcand": "160001623121"
+    },
+    {
+      "nome": "MARIA VICTORIA BORGHETTI BARROS",
+      "nomeUrna": "MARIA VICTORIA",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 411,
+      "percentual": 11.3,
+      "sqcand": "160001603357"
+    },
+    {
+      "nome": "LUCIANA GUZELLA RAFAGNIN",
+      "nomeUrna": "LUCIANA RAFAGNIN",
+      "partido": "PT",
+      "numero": "13233",
+      "votos": 336,
+      "percentual": 9.24,
+      "sqcand": "160001615035"
+    },
+    {
+      "nome": "ALDINO JORGE BUENO",
+      "nomeUrna": "GUGU BUENO",
+      "partido": "PSD",
+      "numero": "55022",
+      "votos": 229,
+      "percentual": 6.3,
+      "sqcand": "160001623097"
+    },
+    {
+      "nome": "ADAO FERNANDES DA SILVA",
+      "nomeUrna": "ADAO FERNANDES LITRO",
+      "partido": "PSD",
+      "numero": "55125",
+      "votos": 143,
+      "percentual": 3.93,
+      "sqcand": "160001739397"
+    },
+    {
+      "nome": "LUIZ FERNANDO GUERRA FILHO",
+      "nomeUrna": "LUIZ FERNANDO GUERRA",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 97,
+      "percentual": 2.67,
+      "sqcand": "160001716035"
+    }
+  ]
+}

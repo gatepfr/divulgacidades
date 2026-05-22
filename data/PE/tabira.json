@@ -1,0 +1,291 @@
+{
+  "populacao": 21434,
+  "votosValidos": 17967,
+  "abstencao": 13.99,
+  "prefeito": {
+    "nome": "FLÁVIO FERREIRA MARQUES",
+    "nomeUrna": "FLÁVIO MARQUES",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 9310,
+    "percentual": 51.82,
+    "situacao": "Eleito",
+    "sqcand": "170002195128",
+    "vice": "MARCOS ANTÔNIO DA SILVA",
+    "viceNomeUrna": "MARCOS CRENTE",
+    "partidoVice": "PSB",
+    "sqcandVice": "170002195129",
+    "coligacao": "REPUBLICANOS / PC do B / PT / PV / PSB / SOLIDARIEDADE / PSOL / REDE / PDT / AGIR / AVANTE / PSD / MDB / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIA DO SOCORRO VERAS DOS SANTOS",
+      "nomeUrna": "SOCORRO VERAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1491,
+      "percentual": 8.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002122177"
+    },
+    {
+      "nome": "DIONATAN MACIEL DA SILVA",
+      "nomeUrna": "ESTEFANY DE JUNIOR",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 1224,
+      "percentual": 6.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002044271"
+    },
+    {
+      "nome": "MARIA NELLY DE LIMA SAMPAIO BRITO",
+      "nomeUrna": "NELLY DE MANO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1224,
+      "percentual": 6.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002046010"
+    },
+    {
+      "nome": "JOSE CARLOS MENEZES",
+      "nomeUrna": "DIDI DE HELENO",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 1106,
+      "percentual": 6.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002122178"
+    },
+    {
+      "nome": "MARCOS FERREIRA DA SILVA",
+      "nomeUrna": "MARCOS DE JUDITE",
+      "partido": "PP",
+      "numero": "11666",
+      "votos": 1042,
+      "percentual": 5.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002046011"
+    },
+    {
+      "nome": "EDILSON OLIVEIRA DA SILVA",
+      "nomeUrna": "DICINHA DO CALÇAMENTO",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 910,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002122180"
+    },
+    {
+      "nome": "GABRIEL KLEBER PEREIRA DE MELO",
+      "nomeUrna": "KLEBER PAULINO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 896,
+      "percentual": 5.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002122637"
+    },
+    {
+      "nome": "ANTÔNIO ERALDO COSTA MOURA",
+      "nomeUrna": "ERALDO MOURA",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 857,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "170002122634"
+    },
+    {
+      "nome": "MARIA HELENA NOGUEIRA DE BRITO",
+      "nomeUrna": "MARIA HELENA DA SAÚDE",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 830,
+      "percentual": 4.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002046014"
+    },
+    {
+      "nome": "MARIA DE FATIMA FERNANDES MARTINS SANTANA",
+      "nomeUrna": "BEBÉ DE ALDO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77222",
+      "votos": 676,
+      "percentual": 3.82,
+      "situacao": "Eleito por média",
+      "sqcand": "170002196218"
+    },
+    {
+      "nome": "JOSÉ ADELMO NOGUEIRA DE BRITO",
+      "nomeUrna": "ADELMO DAS ANTENAS",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 501,
+      "percentual": 2.83,
+      "situacao": "Eleito por média",
+      "sqcand": "170002044264"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 7998,
+      "percentual": 62.68,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "CARLOS ANTONIO GOMES DE ANDRADE LIMA",
+      "nomeUrna": "CARLOS ANDRADE LIMA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 2134,
+      "percentual": 16.72,
+      "sqcand": "170001609174"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1525,
+      "percentual": 11.95,
+      "sqcand": "170001604083"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ CARLOS VERAS DOS SANTOS",
+      "nomeUrna": "CARLOS VERAS",
+      "partido": "PT",
+      "numero": "1314",
+      "votos": 7041,
+      "percentual": 49.95,
+      "sqcand": "170001609028"
+    },
+    {
+      "nome": "FERNANDO BEZERRA DE SOUZA COELHO FILHO",
+      "nomeUrna": "FERNANDO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4401",
+      "votos": 1467,
+      "percentual": 10.41,
+      "sqcand": "170001609122"
+    },
+    {
+      "nome": "FERNANDO MONTEIRO DE ALBUQUERQUE",
+      "nomeUrna": "FERNANDO MONTEIRO",
+      "partido": "PP",
+      "numero": "1190",
+      "votos": 1330,
+      "percentual": 9.43,
+      "sqcand": "170001618622"
+    },
+    {
+      "nome": "LUIZ GONZAGA PATRIOTA",
+      "nomeUrna": "GONZAGA PATRIOTA",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 408,
+      "percentual": 2.89,
+      "sqcand": "170001619895"
+    },
+    {
+      "nome": "FRANCISCO TADEU BARBOSA DE ALENCAR",
+      "nomeUrna": "TADEU ALENCAR",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 379,
+      "percentual": 2.69,
+      "sqcand": "170001619892"
+    },
+    {
+      "nome": "SILVIO SERAFIM COSTA FILHO",
+      "nomeUrna": "SILVIO COSTA FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 306,
+      "percentual": 2.17,
+      "sqcand": "170001595473"
+    },
+    {
+      "nome": "FRANCISCO EURICO DA SILVA",
+      "nomeUrna": "PASTOR EURICO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 291,
+      "percentual": 2.06,
+      "sqcand": "170001609087"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSE COIMBRA PATRIOTA FILHO",
+      "nomeUrna": "JOSÉ PATRIOTA",
+      "partido": "PSB",
+      "numero": "40413",
+      "votos": 4100,
+      "percentual": 31.02,
+      "sqcand": "170001620399"
+    },
+    {
+      "nome": "DANNILO CAVALCANTE VIEIRA",
+      "nomeUrna": "DANNILO GODOY",
+      "partido": "PSB",
+      "numero": "40234",
+      "votos": 1916,
+      "percentual": 14.5,
+      "sqcand": "170001620384"
+    },
+    {
+      "nome": "DORIEL SATURNINO DE BARROS",
+      "nomeUrna": "DORIEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1698,
+      "percentual": 12.85,
+      "sqcand": "170001608977"
+    },
+    {
+      "nome": "ANTONIO DE MORAIS ANDRADE NETO",
+      "nomeUrna": "ANTONIO MORAES",
+      "partido": "PP",
+      "numero": "11200",
+      "votos": 1087,
+      "percentual": 8.22,
+      "sqcand": "170001618738"
+    },
+    {
+      "nome": "PAULO DE TARSO LIRA JUCÁ",
+      "nomeUrna": "PAULO JUCÁ",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 955,
+      "percentual": 7.23,
+      "sqcand": "170001620388"
+    },
+    {
+      "nome": "WALDEMAR ALBERTO BORGES RODRIGUES NETO",
+      "nomeUrna": "WALDEMAR BORGES",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 617,
+      "percentual": 4.67,
+      "sqcand": "170001620382"
+    },
+    {
+      "nome": "ALBERTO JORGE DO NASCIMENTO FEITOSA",
+      "nomeUrna": "CORONEL ALBERTO FEITOSA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 488,
+      "percentual": 3.69,
+      "sqcand": "170001619685"
+    }
+  ]
+}

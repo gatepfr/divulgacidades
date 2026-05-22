@@ -1,0 +1,271 @@
+{
+  "populacao": 12170,
+  "votosValidos": 9928,
+  "abstencao": 16.21,
+  "prefeito": {
+    "nome": "ALDOINO GOLDONI FILHO",
+    "nomeUrna": "DINO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 5480,
+    "percentual": 55.2,
+    "situacao": "Eleito",
+    "sqcand": "160002296631",
+    "vice": "AURIMAR TEIXEIRA DA ROSA",
+    "viceNomeUrna": "GROSSO",
+    "partidoVice": "PL",
+    "sqcandVice": "160002296632",
+    "coligacao": "PSD / REPUBLICANOS / MDB / PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "HERBERT EHMS",
+      "nomeUrna": "HERBERT EHMS",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 603,
+      "percentual": 6.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002292344"
+    },
+    {
+      "nome": "ALEANDRO RODRIGUES KAUFFMANN",
+      "nomeUrna": "ALEANDRO ENFERMEIRO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 581,
+      "percentual": 5.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002245425"
+    },
+    {
+      "nome": "JOSÉ EDENILSON VOLENITIS",
+      "nomeUrna": "LARGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10567",
+      "votos": 575,
+      "percentual": 5.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002292349"
+    },
+    {
+      "nome": "OSMAR JOSÉ MIS",
+      "nomeUrna": "ZÉZINHO MIS",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 542,
+      "percentual": 5.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002246525"
+    },
+    {
+      "nome": "VALMIR CZARNIESKI",
+      "nomeUrna": "VALMIR CZARNIESKI",
+      "partido": "CIDADANIA",
+      "numero": "23789",
+      "votos": 435,
+      "percentual": 4.4,
+      "situacao": "Eleito por média",
+      "sqcand": "160002290741"
+    },
+    {
+      "nome": "GILVAN FRANCISCO CZARNIESKI",
+      "nomeUrna": "GILVAN CZARNIESKI",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 434,
+      "percentual": 4.39,
+      "situacao": "Eleito por média",
+      "sqcand": "160002245431"
+    },
+    {
+      "nome": "ANDRÉIA CORRÊA SANTOS",
+      "nomeUrna": "ANDRÉIA CORREA",
+      "partido": "MDB",
+      "numero": "15622",
+      "votos": 399,
+      "percentual": 4.03,
+      "situacao": "Eleito por média",
+      "sqcand": "160002246528"
+    },
+    {
+      "nome": "SANDRA MARA KRUK",
+      "nomeUrna": "SANDRA KRUK",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 289,
+      "percentual": 2.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002290808"
+    },
+    {
+      "nome": "HELOIZE DO BELEM NUNES CARNEIRO",
+      "nomeUrna": "PROFESSORA BELÉM",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 229,
+      "percentual": 2.31,
+      "situacao": "Eleito por média",
+      "sqcand": "160002292347"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 2245,
+      "percentual": 28.69,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2179,
+      "percentual": 27.85,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1844,
+      "percentual": 23.57,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 1599,
+      "percentual": 19.09,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 1170,
+      "percentual": 13.97,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 816,
+      "percentual": 9.74,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 577,
+      "percentual": 6.89,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "PAULO HENRIQUE COLETTI FERNANDES",
+      "nomeUrna": "PAULO LITRO",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 453,
+      "percentual": 5.41,
+      "sqcand": "160001622301"
+    },
+    {
+      "nome": "LEANDRE DAL PONTE",
+      "nomeUrna": "LEANDRE",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 436,
+      "percentual": 5.21,
+      "sqcand": "160001622296"
+    },
+    {
+      "nome": "NELSI COGUETTO MARIA",
+      "nomeUrna": "VERMELHO",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 291,
+      "percentual": 3.48,
+      "sqcand": "160001622020"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 2349,
+      "percentual": 29.93,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "ISABEL CRISTINA RAUEN SILVESTRI",
+      "nomeUrna": "CRISTINA SILVESTRI",
+      "partido": "PSDB",
+      "numero": "45234",
+      "votos": 1477,
+      "percentual": 18.82,
+      "sqcand": "160001612397"
+    },
+    {
+      "nome": "ARTAGÃO DE MATTOS LEÃO JÚNIOR",
+      "nomeUrna": "ARTAGÃO JÚNIOR",
+      "partido": "PSD",
+      "numero": "55015",
+      "votos": 526,
+      "percentual": 6.7,
+      "sqcand": "160001623107"
+    },
+    {
+      "nome": "ADAO FERNANDES DA SILVA",
+      "nomeUrna": "ADAO FERNANDES LITRO",
+      "partido": "PSD",
+      "numero": "55125",
+      "votos": 375,
+      "percentual": 4.78,
+      "sqcand": "160001739397"
+    },
+    {
+      "nome": "ANTENOR GOMES DE LIMA",
+      "nomeUrna": "DR. ANTENOR",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 373,
+      "percentual": 4.75,
+      "sqcand": "160001614994"
+    },
+    {
+      "nome": "LUIS RAIMUNDO CORTI",
+      "nomeUrna": "LUIS CORTI",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 325,
+      "percentual": 4.14,
+      "sqcand": "160001621887"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 277,
+      "percentual": 3.53,
+      "sqcand": "160001623100"
+    }
+  ]
+}

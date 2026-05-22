@@ -1,0 +1,291 @@
+{
+  "populacao": 23114,
+  "votosValidos": 18048,
+  "abstencao": 17.3,
+  "prefeito": {
+    "nome": "WILLIANS SOARES RODRIGUES",
+    "nomeUrna": "WILLIANS SOARES",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 9151,
+    "percentual": 50.7,
+    "situacao": "Eleito",
+    "sqcand": "250002287362",
+    "vice": "MARCELO LUIZ DE MOURA",
+    "viceNomeUrna": "MARCELO MOURA",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002287363",
+    "coligacao": "PDT / MDB / PRD / PSB / SOLIDARIEDADE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "VALTER CAMARGO SOARES",
+      "nomeUrna": "VALTER CAMARGO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 935,
+      "percentual": 5.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002133810"
+    },
+    {
+      "nome": "MILTON CARVALHO MACHADO",
+      "nomeUrna": "MILTON DO PORTO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 777,
+      "percentual": 4.25,
+      "situacao": "Eleito por média",
+      "sqcand": "250002164564"
+    },
+    {
+      "nome": "EDUARDO SILVA NICOLAU DE SOUZA",
+      "nomeUrna": "EDUARDO SILVA",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 741,
+      "percentual": 4.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002287835"
+    },
+    {
+      "nome": "MAÍRA PIGOSSO VICTOR VIEIRA",
+      "nomeUrna": "MAÍRA VIEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 670,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002265221"
+    },
+    {
+      "nome": "VICTOR MANOEL APARECIDO MOARES PANIAGUA",
+      "nomeUrna": "VITÃO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 615,
+      "percentual": 3.37,
+      "situacao": "Eleito por média",
+      "sqcand": "250002131279"
+    },
+    {
+      "nome": "FABIO DE OLIVEIRA LEITÃO",
+      "nomeUrna": "FABINHO SOCORRISTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10192",
+      "votos": 609,
+      "percentual": 3.33,
+      "situacao": "Eleito por média",
+      "sqcand": "250002265220"
+    },
+    {
+      "nome": "RODRIGO VITURINO DA SILVA",
+      "nomeUrna": "RODRIGO VITURINO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 593,
+      "percentual": 3.25,
+      "situacao": "Eleito por média",
+      "sqcand": "250002133813"
+    },
+    {
+      "nome": "RICARDO URIZZI CARVALHO",
+      "nomeUrna": "PROFESSOR RICARDO CARVALHO",
+      "partido": "PDT",
+      "numero": "12050",
+      "votos": 542,
+      "percentual": 2.97,
+      "situacao": "Eleito por média",
+      "sqcand": "250002287831"
+    },
+    {
+      "nome": "BRUNO GARCIA NOGUEIRA",
+      "nomeUrna": "PULGUINHA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 522,
+      "percentual": 2.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002072994"
+    },
+    {
+      "nome": "RONY EDUARDO SOARES",
+      "nomeUrna": "RONY BOI",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 520,
+      "percentual": 2.85,
+      "situacao": "Eleito por média",
+      "sqcand": "250002133817"
+    },
+    {
+      "nome": "RAFAEL FREITAS FERREIRA",
+      "nomeUrna": "RAFAEL FERREIRA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 505,
+      "percentual": 2.77,
+      "situacao": "Eleito por média",
+      "sqcand": "250002284860"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 6332,
+      "percentual": 44.08,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 6188,
+      "percentual": 43.07,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1345,
+      "percentual": 9.36,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ELIANE DE SOUSA ALVES MACHADO",
+      "nomeUrna": "ELY SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "1087",
+      "votos": 2268,
+      "percentual": 14.25,
+      "sqcand": "250001611845"
+    },
+    {
+      "nome": "MARCIO LUIZ ALVINO DE SOUZA",
+      "nomeUrna": "MARCIO ALVINO",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 1102,
+      "percentual": 6.93,
+      "sqcand": "250001611336"
+    },
+    {
+      "nome": "ADRIANO ELI CORREA",
+      "nomeUrna": "ELI CORRÊA FILHO",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 1049,
+      "percentual": 6.59,
+      "sqcand": "250001602066"
+    },
+    {
+      "nome": "RICARDO URIZZI CARVALHO",
+      "nomeUrna": "PROFESSOR RICARDO CARVALHO",
+      "partido": "PSOL",
+      "numero": "5090",
+      "votos": 1045,
+      "percentual": 6.57,
+      "sqcand": "250001613807"
+    },
+    {
+      "nome": "MARCELO DE LIMA FERNANDES",
+      "nomeUrna": "MARCELO LIMA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7780",
+      "votos": 737,
+      "percentual": 4.63,
+      "sqcand": "250001606067"
+    },
+    {
+      "nome": "SAMUEL MOREIRA DA SILVA JUNIOR",
+      "nomeUrna": "SAMUEL MOREIRA",
+      "partido": "PSDB",
+      "numero": "4580",
+      "votos": 728,
+      "percentual": 4.58,
+      "sqcand": "250001612140"
+    },
+    {
+      "nome": "CELSO UBIRAJARA RUSSOMANNO",
+      "nomeUrna": "CELSO RUSSOMANNO",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 628,
+      "percentual": 3.95,
+      "sqcand": "250001611882"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANALICE FERNANDES",
+      "nomeUrna": "ANALICE FERNANDES",
+      "partido": "PSDB",
+      "numero": "45400",
+      "votos": 2840,
+      "percentual": 18.92,
+      "sqcand": "250001611452"
+    },
+    {
+      "nome": "EDUARDO SILVA NICOLAU DE SOUZA",
+      "nomeUrna": "EDUARDO SILVA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77744",
+      "votos": 1953,
+      "percentual": 13.01,
+      "sqcand": "250001606240"
+    },
+    {
+      "nome": "ANDRE LUIS DO PRADO",
+      "nomeUrna": "ANDRÉ DO PRADO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 1802,
+      "percentual": 12.0,
+      "sqcand": "250001610161"
+    },
+    {
+      "nome": "JORGE WILSON GONÇALVES DE MATTOS",
+      "nomeUrna": "JORGE WILSON XERIFE CONSUMIDOR",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1235,
+      "percentual": 8.23,
+      "sqcand": "250001639542"
+    },
+    {
+      "nome": "MARCO ROBERTO DA SILVA",
+      "nomeUrna": "PASTOR MARCO ROBERTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10087",
+      "votos": 746,
+      "percentual": 4.97,
+      "sqcand": "250001639547"
+    },
+    {
+      "nome": "CARLOS EDUARDO NOBREGA",
+      "nomeUrna": "DR EDUARDO NÓBREGA",
+      "partido": "PODE",
+      "numero": "19714",
+      "votos": 451,
+      "percentual": 3.0,
+      "sqcand": "250001610496"
+    },
+    {
+      "nome": "JORGE LUIS CARUSO",
+      "nomeUrna": "CARUSO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 333,
+      "percentual": 2.22,
+      "sqcand": "250001609973"
+    }
+  ]
+}

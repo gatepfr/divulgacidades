@@ -1,0 +1,271 @@
+{
+  "populacao": 3331,
+  "votosValidos": 2926,
+  "abstencao": 9.91,
+  "prefeito": {
+    "nome": "LEANDRO FERNANDES SOARES",
+    "nomeUrna": "LEANDRO SOARES",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 1529,
+    "percentual": 52.26,
+    "situacao": "Eleito",
+    "sqcand": "270002219569",
+    "vice": "DEOCLECI RIBEIRO DE SOUSA NETO",
+    "viceNomeUrna": "NETINHO NESTOR",
+    "partidoVice": "MDB",
+    "sqcandVice": "270002219570",
+    "coligacao": "REPUBLICANOS / MDB / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSÉ PROFÍRIO SEIXAS",
+      "nomeUrna": "PROFÍRIO",
+      "partido": "REPUBLICANOS",
+      "numero": "10001",
+      "votos": 255,
+      "percentual": 8.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002205895"
+    },
+    {
+      "nome": "LUCAS CAMPOS DA CRUZ",
+      "nomeUrna": "TIOCA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 240,
+      "percentual": 8.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002237583"
+    },
+    {
+      "nome": "MAURISAN VIRGINIO VELOSO",
+      "nomeUrna": "MAURISAN VELOSO",
+      "partido": "PP",
+      "numero": "11300",
+      "votos": 231,
+      "percentual": 7.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002237581"
+    },
+    {
+      "nome": "SIDINEIS MEDEIROS DE ARAÚJO",
+      "nomeUrna": "NEI ARAÚJO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 221,
+      "percentual": 7.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002164348"
+    },
+    {
+      "nome": "VALDINEIS PEREIRA DIAS",
+      "nomeUrna": "VALDINEIS",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 211,
+      "percentual": 7.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002237575"
+    },
+    {
+      "nome": "CELIO LUSTOSA DE SOUSA",
+      "nomeUrna": "CELINHO LUSTOSA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 206,
+      "percentual": 7.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002205901"
+    },
+    {
+      "nome": "FÁBIO AQUINO FERNANDES",
+      "nomeUrna": "FÁBIO MÓRYKI",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 186,
+      "percentual": 6.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002164350"
+    },
+    {
+      "nome": "URBANO LOPES CORADO",
+      "nomeUrna": "URBANO CORADO",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 155,
+      "percentual": 5.28,
+      "situacao": "Eleito por média",
+      "sqcand": "270002205894"
+    },
+    {
+      "nome": "ADEILSON RIBEIRO RODRIGUES",
+      "nomeUrna": "ADEILSON RIBEIRO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 138,
+      "percentual": 4.7,
+      "situacao": "Eleito por média",
+      "sqcand": "270002164351"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "KATIA REGINA DE ABREU GOMES",
+      "nomeUrna": "KATIA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1043,
+      "percentual": 46.73,
+      "sqcand": "270001713170"
+    },
+    {
+      "nome": "MARIA AUXILIADORA SEABRA REZENDE",
+      "nomeUrna": "PROFESSORA DORINHA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 838,
+      "percentual": 37.54,
+      "sqcand": "270001649254"
+    },
+    {
+      "nome": "JOÃO HELDER VILELA",
+      "nomeUrna": "VILELA DO PT",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 135,
+      "percentual": 6.05,
+      "sqcand": "270001697080"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VICENTE ALVES DE OLIVEIRA JUNIOR",
+      "nomeUrna": "VICENTINHO JUNIOR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1062,
+      "percentual": 46.97,
+      "sqcand": "270001643407"
+    },
+    {
+      "nome": "CARLOS HENRIQUE AMORIM",
+      "nomeUrna": "CARLOS GAGUIM",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 309,
+      "percentual": 13.67,
+      "sqcand": "270001643519"
+    },
+    {
+      "nome": "JOSÉ ROBERTO RIBEIRO FORZANI",
+      "nomeUrna": "ZÉ ROBERTO LULA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 169,
+      "percentual": 7.47,
+      "sqcand": "270001612034"
+    },
+    {
+      "nome": "ANTONIO POINCARE ANDRADE FILHO",
+      "nomeUrna": "TOINHO ANDRADE",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 167,
+      "percentual": 7.39,
+      "sqcand": "270001654159"
+    },
+    {
+      "nome": "FILIPE MARTINS DOS SANTOS",
+      "nomeUrna": "FILIPE MARTINS",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 76,
+      "percentual": 3.36,
+      "sqcand": "270001643553"
+    },
+    {
+      "nome": "TIAGO DIMAS BRAGA PEREIRA",
+      "nomeUrna": "TIAGO DIMAS",
+      "partido": "PODE",
+      "numero": "1988",
+      "votos": 76,
+      "percentual": 3.36,
+      "sqcand": "270001642303"
+    },
+    {
+      "nome": "RUBENS DE JESUS UCHÔA",
+      "nomeUrna": "RUBENS UCHÔA",
+      "partido": "UNIÃO",
+      "numero": "4411",
+      "votos": 56,
+      "percentual": 2.48,
+      "sqcand": "270001643518"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "AMELIO CAYRES DE ALMEIDA",
+      "nomeUrna": "AMELIO CAYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 709,
+      "percentual": 32.08,
+      "sqcand": "270001654140"
+    },
+    {
+      "nome": "YHGOR LEONARDO CASTRO LEITE",
+      "nomeUrna": "LEO BARBOSA",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 363,
+      "percentual": 16.43,
+      "sqcand": "270001654146"
+    },
+    {
+      "nome": "VANDELUCIA MONTEIRO DE CASTRO REIS",
+      "nomeUrna": "VANDA MONTEIRO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 122,
+      "percentual": 5.52,
+      "sqcand": "270001643532"
+    },
+    {
+      "nome": "FLORISVANE MAURICIO DA GLORIA",
+      "nomeUrna": "FLORISVANE",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 116,
+      "percentual": 5.25,
+      "sqcand": "270001697340"
+    },
+    {
+      "nome": "EDVALDO SOARES OLIVEIRA",
+      "nomeUrna": "EDVALDO SOARES",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 100,
+      "percentual": 4.52,
+      "sqcand": "270001620117"
+    },
+    {
+      "nome": "ELIZEU RODRIGUES PEREIRA",
+      "nomeUrna": "ELIZEU RODRIGUES",
+      "partido": "PSC",
+      "numero": "20600",
+      "votos": 90,
+      "percentual": 4.07,
+      "sqcand": "270001672842"
+    },
+    {
+      "nome": "VALDEMAR RODRIGUES LIMA JUNIOR",
+      "nomeUrna": "VALDEMAR JUNIOR",
+      "partido": "REPUBLICANOS",
+      "numero": "10010",
+      "votos": 73,
+      "percentual": 3.3,
+      "sqcand": "270001654154"
+    }
+  ]
+}

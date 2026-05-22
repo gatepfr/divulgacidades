@@ -1,0 +1,271 @@
+{
+  "populacao": 8523,
+  "votosValidos": 7051,
+  "abstencao": 14.4,
+  "prefeito": {
+    "nome": "ANTONIO GUALHANO AZEVEDO",
+    "nomeUrna": "TONINHO GUALHANO",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 4444,
+    "percentual": 63.03,
+    "situacao": "Eleito",
+    "sqcand": "80002055159",
+    "vice": "MARCOS DA SILVA BERNARDES",
+    "viceNomeUrna": "MARCÃO",
+    "partidoVice": "PSDB",
+    "sqcandVice": "80002055160",
+    "coligacao": "CIDADANIA / PSDB / PODE / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "CHARLES CARLOS DINIZ VIEIRA",
+      "nomeUrna": "CHARLES DINIZ",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 900,
+      "percentual": 12.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002055128"
+    },
+    {
+      "nome": "FLÁVIO BERNARDES MASCARENHAS",
+      "nomeUrna": "TIQUINHO",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 402,
+      "percentual": 5.67,
+      "situacao": "Eleito por média",
+      "sqcand": "80002055129"
+    },
+    {
+      "nome": "KAYC ROSA",
+      "nomeUrna": "KAYC ROSA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 341,
+      "percentual": 4.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002055452"
+    },
+    {
+      "nome": "ROMEU LOPES DE SOUZA",
+      "nomeUrna": "ROMEU DA AUTO ESCOLA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77456",
+      "votos": 337,
+      "percentual": 4.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002232061"
+    },
+    {
+      "nome": "JOSÉ LUIZ AGUIAR GUIMARÃES",
+      "nomeUrna": "ZELAU",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 323,
+      "percentual": 4.56,
+      "situacao": "Eleito por média",
+      "sqcand": "80002232057"
+    },
+    {
+      "nome": "FERNANDO CARVALHO DE OLIVEIRA",
+      "nomeUrna": "FERNANDO BROA",
+      "partido": "PSDB",
+      "numero": "45145",
+      "votos": 316,
+      "percentual": 4.46,
+      "situacao": "Eleito por média",
+      "sqcand": "80002055448"
+    },
+    {
+      "nome": "WILLIAN BARBOSA DELLATORRE",
+      "nomeUrna": "WILLIAN DELLATORRE",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 302,
+      "percentual": 4.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002232015"
+    },
+    {
+      "nome": "JOSÉ CARLOS CORREA",
+      "nomeUrna": "CARLINHOS DO FLUMINENSE",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 268,
+      "percentual": 3.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002055518"
+    },
+    {
+      "nome": "LUIZ ANTONIO MORAES DA SILVA",
+      "nomeUrna": "LUIZ MORAES",
+      "partido": "PSB",
+      "numero": "40147",
+      "votos": 253,
+      "percentual": 3.57,
+      "situacao": "Eleito por média",
+      "sqcand": "80002055524"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2329,
+      "percentual": 46.44,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 2253,
+      "percentual": 44.93,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 386,
+      "percentual": 7.7,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSIAS MARIO DA VITÓRIA",
+      "nomeUrna": "DA VITÓRIA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 639,
+      "percentual": 12.5,
+      "sqcand": "80001650200"
+    },
+    {
+      "nome": "GILSON DANIEL BATISTA",
+      "nomeUrna": "GILSON DANIEL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 603,
+      "percentual": 11.8,
+      "sqcand": "80001604734"
+    },
+    {
+      "nome": "SORAYA DE SOUZA MANNATO",
+      "nomeUrna": "SORAYA MANATO",
+      "partido": "PTB",
+      "numero": "1422",
+      "votos": 482,
+      "percentual": 9.43,
+      "sqcand": "80001723280"
+    },
+    {
+      "nome": "NORMA AYUB ALVES",
+      "nomeUrna": "NORMA AYUB",
+      "partido": "PP",
+      "numero": "1125",
+      "votos": 441,
+      "percentual": 8.63,
+      "sqcand": "80001650193"
+    },
+    {
+      "nome": "JACQUELINE MORAES DA SILVA AVELINA",
+      "nomeUrna": "JACQUELINE MORAES",
+      "partido": "PSB",
+      "numero": "4023",
+      "votos": 302,
+      "percentual": 5.91,
+      "sqcand": "80001620973"
+    },
+    {
+      "nome": "SUELI RANGEL SILVA VIDIGAL",
+      "nomeUrna": "SUELI VIDIGAL",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 270,
+      "percentual": 5.28,
+      "sqcand": "80001651995"
+    },
+    {
+      "nome": "NEUCIMAR FERREIRA FRAGA",
+      "nomeUrna": "NEUCIMAR FRAGA",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 241,
+      "percentual": 4.71,
+      "sqcand": "80001650197"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LEANDRO TEODORO DE ALMEIDA",
+      "nomeUrna": "LEANDRO DO HOSPITAL",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 1010,
+      "percentual": 20.02,
+      "sqcand": "80001604492"
+    },
+    {
+      "nome": "JANETE SANTOS DE SA",
+      "nomeUrna": "JANETE DE SÁ",
+      "partido": "PSB",
+      "numero": "40800",
+      "votos": 907,
+      "percentual": 17.97,
+      "sqcand": "80001621165"
+    },
+    {
+      "nome": "ALEXANDRE MARCELO COUTINHO SANTOS",
+      "nomeUrna": "MARCELO SANTOS",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 550,
+      "percentual": 10.9,
+      "sqcand": "80001609613"
+    },
+    {
+      "nome": "TYAGO RIBEIRO HOFFMANN",
+      "nomeUrna": "TYAGO HOFFMANN",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 335,
+      "percentual": 6.64,
+      "sqcand": "80001621155"
+    },
+    {
+      "nome": "WELLINGTON CALLEGARI",
+      "nomeUrna": "CALLEGARI",
+      "partido": "PL",
+      "numero": "22004",
+      "votos": 202,
+      "percentual": 4.0,
+      "sqcand": "80001648804"
+    },
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 197,
+      "percentual": 3.9,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "MARCELINO AYUB FRAGA",
+      "nomeUrna": "MARCELINO FRAGA",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 147,
+      "percentual": 2.91,
+      "sqcand": "80001602758"
+    }
+  ]
+}

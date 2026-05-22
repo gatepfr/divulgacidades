@@ -1,0 +1,271 @@
+{
+  "populacao": 30239,
+  "votosValidos": 21038,
+  "abstencao": 24.9,
+  "prefeito": {
+    "nome": "MARCELO JOSE BERNARDELI PALHARES",
+    "nomeUrna": "MARCELO PALHARES",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 17763,
+    "percentual": 84.43,
+    "situacao": "Eleito",
+    "sqcand": "160002262451",
+    "vice": "ANTONIO NEVES NETO",
+    "viceNomeUrna": "ANTONIO NETO",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002262452",
+    "coligacao": "REPUBLICANOS / PP / MDB / PODE / PL / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "PATRICIA MARTONI",
+      "nomeUrna": "PATRICIA MARTONI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 1592,
+      "percentual": 7.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001950483"
+    },
+    {
+      "nome": "MARCOS APARECIDO GANZELA",
+      "nomeUrna": "COLOSSO ACIMA DA MEDIA",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 1040,
+      "percentual": 4.89,
+      "situacao": "Eleito por média",
+      "sqcand": "160001950482"
+    },
+    {
+      "nome": "LUIZ SERGIO MARQUES DE MORAES",
+      "nomeUrna": "SERGINHO MARQUES",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 903,
+      "percentual": 4.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002324876"
+    },
+    {
+      "nome": "JOSE ANTONIO COSTA",
+      "nomeUrna": "COSTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 878,
+      "percentual": 4.13,
+      "situacao": "Eleito por média",
+      "sqcand": "160001950457"
+    },
+    {
+      "nome": "JOSE IZAIAS GOMES",
+      "nomeUrna": "ZOLA",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 861,
+      "percentual": 4.05,
+      "situacao": "Eleito por média",
+      "sqcand": "160002170127"
+    },
+    {
+      "nome": "WAGNER SILVA DE OLIVEIRA JUNIOR",
+      "nomeUrna": "WAGUINHO DA SAÚDE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 797,
+      "percentual": 3.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002199457"
+    },
+    {
+      "nome": "EDILSON DA LUZ",
+      "nomeUrna": "EDILSON DA LUZ",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 693,
+      "percentual": 3.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002262453"
+    },
+    {
+      "nome": "MARCUS JOSE TAKAHASHI SELONK",
+      "nomeUrna": "PROFESSOR SELONK",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 669,
+      "percentual": 3.14,
+      "situacao": "Eleito por média",
+      "sqcand": "160001950487"
+    },
+    {
+      "nome": "LUCIANE APARECIDA ALVES",
+      "nomeUrna": "LUCIANE",
+      "partido": "PSD",
+      "numero": "55567",
+      "votos": 600,
+      "percentual": 2.82,
+      "situacao": "Eleito por média",
+      "sqcand": "160002262458"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 5370,
+      "percentual": 28.02,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 5192,
+      "percentual": 27.09,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 4609,
+      "percentual": 24.05,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 5398,
+      "percentual": 26.55,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "DIEGO ALEXSANDER GONÇALO PAULA GARCIA",
+      "nomeUrna": "DIEGO GARCIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 2642,
+      "percentual": 12.99,
+      "sqcand": "160001654834"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 2031,
+      "percentual": 9.99,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "RAFAEL GUSTAVO LOPES",
+      "nomeUrna": "RAFAEL RAGULO",
+      "partido": "PP",
+      "numero": "1150",
+      "votos": 1438,
+      "percentual": 7.07,
+      "sqcand": "160001603289"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1088,
+      "percentual": 5.35,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 878,
+      "percentual": 4.32,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 634,
+      "percentual": 3.12,
+      "sqcand": "160001614525"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAURO RAFAEL MORAES E SILVA",
+      "nomeUrna": "MAURO MORAES",
+      "partido": "UNIÃO",
+      "numero": "44655",
+      "votos": 5883,
+      "percentual": 30.91,
+      "sqcand": "160001716038"
+    },
+    {
+      "nome": "LUIZ CARLOS MARTINS GONÇALVES",
+      "nomeUrna": "LUIZ CARLOS MARTINS",
+      "partido": "PP",
+      "numero": "11550",
+      "votos": 2000,
+      "percentual": 10.51,
+      "sqcand": "160001603359"
+    },
+    {
+      "nome": "ARILSON MAROLDI CHIORATO",
+      "nomeUrna": "ARILSON CHIORATO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 1577,
+      "percentual": 8.28,
+      "sqcand": "160001615010"
+    },
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 1517,
+      "percentual": 7.97,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "MAURICIO THADEU DE MELLO E SILVA",
+      "nomeUrna": "REQUIÃO FILHO",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 737,
+      "percentual": 3.87,
+      "sqcand": "160001615006"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 672,
+      "percentual": 3.53,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 467,
+      "percentual": 2.45,
+      "sqcand": "160001623100"
+    }
+  ]
+}

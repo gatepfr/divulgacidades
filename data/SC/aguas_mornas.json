@@ -1,0 +1,271 @@
+{
+  "populacao": 6485,
+  "votosValidos": 5576,
+  "abstencao": 11.15,
+  "prefeito": {
+    "nome": "PEDRO FRANCISCO GARCIA",
+    "nomeUrna": "PEDRO DO BANCO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3503,
+    "percentual": 62.82,
+    "situacao": "Eleito",
+    "sqcand": "240002020023",
+    "vice": "JORGE FERNANDO SALM",
+    "viceNomeUrna": "FERNANDO SALM",
+    "partidoVice": "PL",
+    "sqcandVice": "240002020022",
+    "coligacao": "PL / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "CLAUDEMIR THIESEN",
+      "nomeUrna": "CLAUDEMIR THIESEN",
+      "partido": "MDB",
+      "numero": "15122",
+      "votos": 763,
+      "percentual": 13.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002025059"
+    },
+    {
+      "nome": "JULIANA SCHMIDT",
+      "nomeUrna": "JULIANA SCHMIDT",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 402,
+      "percentual": 7.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002025057"
+    },
+    {
+      "nome": "EDIO HEINZ",
+      "nomeUrna": "EDIO HEINZ",
+      "partido": "PL",
+      "numero": "22666",
+      "votos": 361,
+      "percentual": 6.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002052720"
+    },
+    {
+      "nome": "ALEX VANBOMMEL HAUSMANN",
+      "nomeUrna": "ALEX VANBOMMEL HAUSMANN",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 353,
+      "percentual": 6.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002025056"
+    },
+    {
+      "nome": "IANA PITAN",
+      "nomeUrna": "IANA PITAN",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 344,
+      "percentual": 6.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002220754"
+    },
+    {
+      "nome": "ANDRE DA SILVA",
+      "nomeUrna": "ANDRE DA SILVA",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 342,
+      "percentual": 6.09,
+      "situacao": "Eleito por média",
+      "sqcand": "240002220752"
+    },
+    {
+      "nome": "WILSON AMORIM",
+      "nomeUrna": "WILSON AMORIM",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 268,
+      "percentual": 4.77,
+      "situacao": "Eleito por média",
+      "sqcand": "240002025052"
+    },
+    {
+      "nome": "ROGERIO VAMBOMMEL",
+      "nomeUrna": "ROGERIO VAMBOMMEL",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 253,
+      "percentual": 4.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002223525"
+    },
+    {
+      "nome": "ROQUE MEES",
+      "nomeUrna": "ROQUE MEES",
+      "partido": "MDB",
+      "numero": "15515",
+      "votos": 218,
+      "percentual": 3.88,
+      "situacao": "Eleito por média",
+      "sqcand": "240002025053"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1606,
+      "percentual": 37.66,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 870,
+      "percentual": 20.4,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 807,
+      "percentual": 18.93,
+      "sqcand": "240001647359"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 701,
+      "percentual": 15.82,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 404,
+      "percentual": 9.12,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "DANIELA CRISTINA REINEHR",
+      "nomeUrna": "DANIELA REINEHR",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 244,
+      "percentual": 5.51,
+      "sqcand": "240001610968"
+    },
+    {
+      "nome": "BRUNO ANDRÉ DE SOUZA",
+      "nomeUrna": "BRUNO SOUZA",
+      "partido": "NOVO",
+      "numero": "3020",
+      "votos": 226,
+      "percentual": 5.1,
+      "sqcand": "240001597411"
+    },
+    {
+      "nome": "ANGELA REGINA HEINZEN AMIN HELOU",
+      "nomeUrna": "ANGELA AMIN",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 205,
+      "percentual": 4.63,
+      "sqcand": "240001644888"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 188,
+      "percentual": 4.24,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "LUIZ FERNANDO CARDOSO",
+      "nomeUrna": "VAMPIRO",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 175,
+      "percentual": 3.95,
+      "sqcand": "240001602682"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JERRY EDSON COMPER",
+      "nomeUrna": "JERRY COMPER",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 986,
+      "percentual": 22.01,
+      "sqcand": "240001605920"
+    },
+    {
+      "nome": "DIRCE APARECIDA HEIDERSCHEIDT",
+      "nomeUrna": "DIRCE HEIDERSCHEIDT",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 540,
+      "percentual": 12.06,
+      "sqcand": "240001605925"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 382,
+      "percentual": 8.53,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "LUIZ CARLOS GOEDERT",
+      "nomeUrna": "LUIZINHO DA REGIONAL",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 229,
+      "percentual": 5.11,
+      "sqcand": "240001644755"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 202,
+      "percentual": 4.51,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "CAMILO NAZARENO PAGANI MARTINS",
+      "nomeUrna": "CAMILO MARTINS",
+      "partido": "PODE",
+      "numero": "19369",
+      "votos": 196,
+      "percentual": 4.38,
+      "sqcand": "240001610835"
+    },
+    {
+      "nome": "JULIANO DUARTE CAMPOS",
+      "nomeUrna": "JULIANO CAMPOS",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 192,
+      "percentual": 4.29,
+      "sqcand": "240001647255"
+    }
+  ]
+}

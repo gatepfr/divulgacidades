@@ -1,0 +1,291 @@
+{
+  "populacao": 23555,
+  "votosValidos": 18432,
+  "abstencao": 15.99,
+  "prefeito": {
+    "nome": "GERALDO ABADE DAS DORES",
+    "nomeUrna": "ABADE",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 9773,
+    "percentual": 53.02,
+    "situacao": "Eleito",
+    "sqcand": "130002262544",
+    "vice": "BRUCE PADOVANI FREIRE VERDOLIN BRANDÃO",
+    "viceNomeUrna": "BRUCE DE ARMANDO",
+    "partidoVice": "PSDB",
+    "sqcandVice": "130002262545",
+    "coligacao": "PDT / MDB / PODE / PSD / CIDADANIA / PSDB / PSOL / REDE"
+  },
+  "vereadores": [
+    {
+      "nome": "GERALDO EDUARDO DAS NEVES",
+      "nomeUrna": "DIGÓ",
+      "partido": "UNIÃO",
+      "numero": "44500",
+      "votos": 864,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002264701"
+    },
+    {
+      "nome": "AZENCLEVER EDUARDO ROGERIO",
+      "nomeUrna": "DR AZENCLEVER",
+      "partido": "MDB",
+      "numero": "15136",
+      "votos": 767,
+      "percentual": 4.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002263455"
+    },
+    {
+      "nome": "TIAGO ANTÔNIO DOS SANTOS",
+      "nomeUrna": "TICO",
+      "partido": "MOBILIZA",
+      "numero": "33000",
+      "votos": 586,
+      "percentual": 3.16,
+      "situacao": "Eleito por média",
+      "sqcand": "130002264290"
+    },
+    {
+      "nome": "GLAUCIO EZEQUIEL MAGELA",
+      "nomeUrna": "GLAUÇÃO DO TRECHO",
+      "partido": "MOBILIZA",
+      "numero": "33123",
+      "votos": 521,
+      "percentual": 2.81,
+      "situacao": "Eleito por média",
+      "sqcand": "130002264289"
+    },
+    {
+      "nome": "PAULO HENRIQUE FERREIRA",
+      "nomeUrna": "PAULINHO DA ONG",
+      "partido": "REPUBLICANOS",
+      "numero": "10300",
+      "votos": 503,
+      "percentual": 2.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002281246"
+    },
+    {
+      "nome": "SÉRGIO APARECIDA PENA",
+      "nomeUrna": "SÉRGIO PENA",
+      "partido": "AVANTE",
+      "numero": "70456",
+      "votos": 490,
+      "percentual": 2.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002265540"
+    },
+    {
+      "nome": "ADRIANO APARECIDO DOS SANTOS",
+      "nomeUrna": "ADRIANO SANTOS",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 427,
+      "percentual": 2.31,
+      "situacao": "Eleito por média",
+      "sqcand": "130002292772"
+    },
+    {
+      "nome": "ROSILENE APARECIDA DA COSTA",
+      "nomeUrna": "ROSILENE COSTA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 421,
+      "percentual": 2.27,
+      "situacao": "Eleito por média",
+      "sqcand": "130002263456"
+    },
+    {
+      "nome": "JADER DE BELLIS DA SILVA",
+      "nomeUrna": "JADER - ZE GOTINHA",
+      "partido": "PSDB",
+      "numero": "45500",
+      "votos": 421,
+      "percentual": 2.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002051169"
+    },
+    {
+      "nome": "MÁRIO CESAR DA SILVEIRA",
+      "nomeUrna": "MÁRIO SILVEIRA",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 382,
+      "percentual": 2.06,
+      "situacao": "Eleito por média",
+      "sqcand": "130002265533"
+    },
+    {
+      "nome": "GRAZIELE DA SILVA DIAS BOMFIM",
+      "nomeUrna": "GRAZI DA PAPELARIA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 343,
+      "percentual": 1.85,
+      "situacao": "Eleito por média",
+      "sqcand": "130002018476"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 6630,
+      "percentual": 43.98,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 6506,
+      "percentual": 43.15,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1485,
+      "percentual": 9.85,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2380,
+      "percentual": 15.19,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "MIGUEL ÂNGELO MONTEIRO ANDRADE",
+      "nomeUrna": "MIGUEL ÂNGELO",
+      "partido": "PT",
+      "numero": "1339",
+      "votos": 2082,
+      "percentual": 13.29,
+      "sqcand": "130001607253"
+    },
+    {
+      "nome": "FREDERICO BORGES DA COSTA",
+      "nomeUrna": "FRED COSTA",
+      "partido": "PATRIOTA",
+      "numero": "5133",
+      "votos": 1223,
+      "percentual": 7.81,
+      "sqcand": "130001596009"
+    },
+    {
+      "nome": "PAULO ROBERTO LAMAC JÚNIOR",
+      "nomeUrna": "PAULO LAMAC",
+      "partido": "REDE",
+      "numero": "1844",
+      "votos": 912,
+      "percentual": 5.82,
+      "sqcand": "130001615187"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 575,
+      "percentual": 3.67,
+      "sqcand": "130001608227"
+    },
+    {
+      "nome": "JOÃO CARLOS SIQUEIRA",
+      "nomeUrna": "PADRE JOÃO",
+      "partido": "PT",
+      "numero": "1315",
+      "votos": 554,
+      "percentual": 3.54,
+      "sqcand": "130001607276"
+    },
+    {
+      "nome": "DUARTE EUSTÁQUIO GONÇALVES JUNIOR",
+      "nomeUrna": "DUARTE JÚNIOR",
+      "partido": "PSC",
+      "numero": "2000",
+      "votos": 430,
+      "percentual": 2.74,
+      "sqcand": "130001671765"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BERNARDO MUCIDA OLIVEIRA",
+      "nomeUrna": "MUCIDA",
+      "partido": "PSB",
+      "numero": "40900",
+      "votos": 4310,
+      "percentual": 27.63,
+      "sqcand": "130001613143"
+    },
+    {
+      "nome": "LERIS FELISBERTO BRAGA",
+      "nomeUrna": "LERIS BRAGA",
+      "partido": "REDE",
+      "numero": "18007",
+      "votos": 3949,
+      "percentual": 25.32,
+      "sqcand": "130001615241"
+    },
+    {
+      "nome": "TITO BRUNO MIRANDA TORRES DUARTE",
+      "nomeUrna": "TITO TORRES",
+      "partido": "PSD",
+      "numero": "55240",
+      "votos": 951,
+      "percentual": 6.1,
+      "sqcand": "130001604353"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 905,
+      "percentual": 5.8,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "WHELTON PIMENTEL DE FREITAS",
+      "nomeUrna": "LELECO PIMENTEL",
+      "partido": "PT",
+      "numero": "13579",
+      "votos": 347,
+      "percentual": 2.22,
+      "sqcand": "130001607378"
+    },
+    {
+      "nome": "DANILO SANTOS XAVIER GUIMARÃES",
+      "nomeUrna": "DANILO GUIMARÃES",
+      "partido": "REDE",
+      "numero": "18555",
+      "votos": 322,
+      "percentual": 2.06,
+      "sqcand": "130001615252"
+    },
+    {
+      "nome": "CHARLES DOS SANTOS",
+      "nomeUrna": "CHARLES SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 300,
+      "percentual": 1.92,
+      "sqcand": "130001634030"
+    }
+  ]
+}

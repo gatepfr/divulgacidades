@@ -1,0 +1,271 @@
+{
+  "populacao": 3769,
+  "votosValidos": 3251,
+  "abstencao": 11.62,
+  "prefeito": {
+    "nome": "AMARILDO APARECIDO DA SILVA",
+    "nomeUrna": "AMARILDO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1684,
+    "percentual": 51.8,
+    "situacao": "Eleito",
+    "sqcand": "160002342021",
+    "vice": "VITOR ANTONIO PRODOZZIMO",
+    "viceNomeUrna": "VITOR ",
+    "partidoVice": "PT",
+    "sqcandVice": "160002342022",
+    "coligacao": "PC do B / PT / PV / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LEONEL DOS SANTOS LEONARDO",
+      "nomeUrna": "LEONEL NEO",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 215,
+      "percentual": 6.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002269754"
+    },
+    {
+      "nome": "RAFAEL LUIZ GOMES",
+      "nomeUrna": "RAFAEL GOMES",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 213,
+      "percentual": 6.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002269756"
+    },
+    {
+      "nome": "JOSIMAR RODRIGUES DE SALLES",
+      "nomeUrna": "JOSIMAR DO PATIO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 207,
+      "percentual": 6.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002269784"
+    },
+    {
+      "nome": "MARIA DOS ANJOS MENDES",
+      "nomeUrna": "MARIA MENDES",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 182,
+      "percentual": 5.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002357952"
+    },
+    {
+      "nome": "JENNIFER CHRISTANEK MARQUES REZNER",
+      "nomeUrna": "JENNIFER",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 178,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002269787"
+    },
+    {
+      "nome": "SANDRO ROGERIO BUSS",
+      "nomeUrna": "PROFESSOR SANDRO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 173,
+      "percentual": 5.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002357948"
+    },
+    {
+      "nome": "TEODORO TUPÃ JEGUAVY ALVES",
+      "nomeUrna": "TEODORO TUPÃ",
+      "partido": "PT",
+      "numero": "13100",
+      "votos": 166,
+      "percentual": 5.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002342031"
+    },
+    {
+      "nome": "ORESTES CLAUDIO BATISTA",
+      "nomeUrna": "SARGENTO ORESTES",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 128,
+      "percentual": 3.91,
+      "situacao": "Eleito por média",
+      "sqcand": "160002269755"
+    },
+    {
+      "nome": "NILTON CEZAR DO NASCIMENTO",
+      "nomeUrna": "NEGÃO FILHO DO TITICO",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 115,
+      "percentual": 3.51,
+      "situacao": "Eleito por média",
+      "sqcand": "160002357950"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 795,
+      "percentual": 29.91,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "CLEUSA ROSANE RIBAS FERREIRA",
+      "nomeUrna": "ROSANE FERREIRA",
+      "partido": "PV",
+      "numero": "433",
+      "votos": 654,
+      "percentual": 24.6,
+      "sqcand": "160001615117"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 590,
+      "percentual": 22.2,
+      "sqcand": "160001621868"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 514,
+      "percentual": 18.7,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "DILCEU JOÃO SPERAFICO",
+      "nomeUrna": "DILCEU SPERAFICO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 423,
+      "percentual": 15.39,
+      "sqcand": "160001603297"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 344,
+      "percentual": 12.52,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "HERMES PARCIANELLO",
+      "nomeUrna": "HERMES FRANGAO PARCIANELLO",
+      "partido": "MDB",
+      "numero": "1540",
+      "votos": 191,
+      "percentual": 6.95,
+      "sqcand": "160001614542"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 126,
+      "percentual": 4.59,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "NELSI COGUETTO MARIA",
+      "nomeUrna": "VERMELHO",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 95,
+      "percentual": 3.46,
+      "sqcand": "160001622020"
+    },
+    {
+      "nome": "ANTONIO WANDSCHEER",
+      "nomeUrna": "TONINHO WANDSCHEER",
+      "partido": "PROS",
+      "numero": "9090",
+      "votos": 91,
+      "percentual": 3.31,
+      "sqcand": "160001621909"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROGÉRIO SILVA OLIVEIRA",
+      "nomeUrna": "ROGÉRIO SILVA",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 507,
+      "percentual": 19.05,
+      "sqcand": "160001623087"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 439,
+      "percentual": 16.5,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "MARCEL HENRIQUE MICHELETTO",
+      "nomeUrna": "MARCEL MICHELETTO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 342,
+      "percentual": 12.85,
+      "sqcand": "160001654935"
+    },
+    {
+      "nome": "OZIEL LUIZ DE SOUZA",
+      "nomeUrna": "BATATINHA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 257,
+      "percentual": 9.66,
+      "sqcand": "160001614852"
+    },
+    {
+      "nome": "PAULO HUMBERTO PORTO BORGES",
+      "nomeUrna": "PAULO PORTO",
+      "partido": "PT",
+      "numero": "13513",
+      "votos": 206,
+      "percentual": 7.74,
+      "sqcand": "160001615018"
+    },
+    {
+      "nome": "ADEMIR ANTONIO OSMAR BIER",
+      "nomeUrna": "ADEMIR BIER",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 132,
+      "percentual": 4.96,
+      "sqcand": "160001614820"
+    },
+    {
+      "nome": "ROSA MARIA JERONYMO LIMA",
+      "nomeUrna": "ROSA MARIA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 81,
+      "percentual": 3.04,
+      "sqcand": "160001614859"
+    }
+  ]
+}

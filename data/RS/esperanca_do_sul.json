@@ -1,0 +1,271 @@
+{
+  "populacao": 3291,
+  "votosValidos": 2853,
+  "abstencao": 11.12,
+  "prefeito": {
+    "nome": "ADEMIR VILLERS DA CRUZ",
+    "nomeUrna": "ADEMIR DA CRUZ",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2408,
+    "percentual": 84.4,
+    "situacao": "Eleito",
+    "sqcand": "210002063944",
+    "vice": "ERANÍ ODILO MÜLLER",
+    "viceNomeUrna": "ERANI MULLER ZOIO",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002063943",
+    "coligacao": "MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ADELSON HEDLUND",
+      "nomeUrna": "ADELSON HEDLUND ADE",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 303,
+      "percentual": 10.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002064292"
+    },
+    {
+      "nome": "JERONIMO ESCOBAR SIQUEIRA",
+      "nomeUrna": "JERONIMO",
+      "partido": "UNIÃO",
+      "numero": "44666",
+      "votos": 276,
+      "percentual": 9.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001931479"
+    },
+    {
+      "nome": "RAIMAR KERBER",
+      "nomeUrna": "RAIMAR KERBER",
+      "partido": "MDB",
+      "numero": "15650",
+      "votos": 276,
+      "percentual": 9.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002064290"
+    },
+    {
+      "nome": "LAERCIO ANTONIO MERLO",
+      "nomeUrna": "LAERCIO MERLO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 275,
+      "percentual": 9.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002064284"
+    },
+    {
+      "nome": "ELIANE KURZ STACKE",
+      "nomeUrna": "ELIANE",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 264,
+      "percentual": 9.29,
+      "situacao": "Eleito por média",
+      "sqcand": "210001931478"
+    },
+    {
+      "nome": "ANGELO RAFAEL BECKER",
+      "nomeUrna": "ANGELO BECKER",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 255,
+      "percentual": 8.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002064286"
+    },
+    {
+      "nome": "EDISON NEI GODOY PETZHOLD",
+      "nomeUrna": "NEI PETZHOLD",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 251,
+      "percentual": 8.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002064291"
+    },
+    {
+      "nome": "ANDIARA DA CRUZ LIZI VIANNA",
+      "nomeUrna": "ANDIARA LIZI",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 231,
+      "percentual": 8.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002064288"
+    },
+    {
+      "nome": "GILMAR HOFSTETTER",
+      "nomeUrna": "GILMAR HOFSTETTER",
+      "partido": "MDB",
+      "numero": "15155",
+      "votos": 214,
+      "percentual": 7.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002064285"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1129,
+      "percentual": 50.88,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 596,
+      "percentual": 26.86,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 475,
+      "percentual": 21.41,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 533,
+      "percentual": 22.87,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 403,
+      "percentual": 17.29,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 340,
+      "percentual": 14.59,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 139,
+      "percentual": 5.96,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 133,
+      "percentual": 5.71,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 130,
+      "percentual": 5.58,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 128,
+      "percentual": 5.49,
+      "sqcand": "210001646697"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 423,
+      "percentual": 18.84,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "ROBERTO FANTINEL",
+      "nomeUrna": "BETO FANTINEL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 373,
+      "percentual": 16.61,
+      "sqcand": "210001648003"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 319,
+      "percentual": 14.21,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "ALOISIO TALSO CLASSMANN",
+      "nomeUrna": "CLASSMANN",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 217,
+      "percentual": 9.67,
+      "sqcand": "210001601953"
+    },
+    {
+      "nome": "ZILÁ MARIA BREITENBACH",
+      "nomeUrna": "ZILÁ BREITENBACH",
+      "partido": "PSDB",
+      "numero": "45345",
+      "votos": 193,
+      "percentual": 8.6,
+      "sqcand": "210001620208"
+    },
+    {
+      "nome": "TIAGO CHANAN SIMON",
+      "nomeUrna": "TIAGO SIMON",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 90,
+      "percentual": 4.01,
+      "sqcand": "210001648006"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 86,
+      "percentual": 3.83,
+      "sqcand": "210001647177"
+    }
+  ]
+}

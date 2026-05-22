@@ -1,0 +1,271 @@
+{
+  "populacao": 9184,
+  "votosValidos": 7620,
+  "abstencao": 13.41,
+  "prefeito": {
+    "nome": "NIVALDO DOMINGOS NEGRÃO",
+    "nomeUrna": "BISCOITO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 3816,
+    "percentual": 50.08,
+    "situacao": "Eleito",
+    "sqcand": "250002074267",
+    "vice": "JOÃO RENATO TAVARES",
+    "viceNomeUrna": "JOÃO RENATO",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002074268",
+    "coligacao": "REPUBLICANOS / AVANTE / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "SONIA PALMA BEOLCHI",
+      "nomeUrna": "DONA SONIA",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 486,
+      "percentual": 6.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001899747"
+    },
+    {
+      "nome": "DORIVAL BORTOLIN",
+      "nomeUrna": "BERTOLIN",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 441,
+      "percentual": 5.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001899837"
+    },
+    {
+      "nome": "JOSÉ APARECIDO BIBO NETO",
+      "nomeUrna": "NETO BIBO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 424,
+      "percentual": 5.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001899775"
+    },
+    {
+      "nome": "ANTONIO CARLOS DE OLIVEIRA NETO",
+      "nomeUrna": "TOM DO ESPORTE",
+      "partido": "PP",
+      "numero": "11200",
+      "votos": 250,
+      "percentual": 3.28,
+      "situacao": "Eleito por média",
+      "sqcand": "250001899650"
+    },
+    {
+      "nome": "ARLINDO GARCIA JUNIOR",
+      "nomeUrna": "JUNINHO GARCIA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 246,
+      "percentual": 3.23,
+      "situacao": "Eleito por média",
+      "sqcand": "250001899773"
+    },
+    {
+      "nome": "JOSÉ JOÃO MARIANO",
+      "nomeUrna": "JOÃO CARIOCA",
+      "partido": "MDB",
+      "numero": "15601",
+      "votos": 237,
+      "percentual": 3.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002074100"
+    },
+    {
+      "nome": "RODRIGO AUGUSTO PAGLIUSI",
+      "nomeUrna": "RODRIGO PAGLIUSI",
+      "partido": "REPUBLICANOS",
+      "numero": "10321",
+      "votos": 228,
+      "percentual": 2.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002074273"
+    },
+    {
+      "nome": "SAMUEL FIGUEIRAL DE SEIXAS",
+      "nomeUrna": "SAMUEL SEIXAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 222,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "250002074278"
+    },
+    {
+      "nome": "JOÃO CARLOS FARIA",
+      "nomeUrna": "JOÃO FARIA",
+      "partido": "CIDADANIA",
+      "numero": "23123",
+      "votos": 189,
+      "percentual": 2.48,
+      "situacao": "Eleito por média",
+      "sqcand": "250001899744"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3892,
+      "percentual": 66.07,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1184,
+      "percentual": 20.1,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 579,
+      "percentual": 9.83,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCOS ANTONIO PEREIRA",
+      "nomeUrna": "MARCOS PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 630,
+      "percentual": 10.08,
+      "sqcand": "250001611863"
+    },
+    {
+      "nome": "KATIA DA SILVA SASTRE",
+      "nomeUrna": "POLICIAL KATIA SASTRE",
+      "partido": "PL",
+      "numero": "2240",
+      "votos": 542,
+      "percentual": 8.67,
+      "sqcand": "250001611319"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 352,
+      "percentual": 5.63,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "JOSE DOMINGOS RIZZO",
+      "nomeUrna": "PROF. RIZZO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7785",
+      "votos": 276,
+      "percentual": 4.41,
+      "sqcand": "250001606084"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 225,
+      "percentual": 3.6,
+      "sqcand": "250001612102"
+    },
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 222,
+      "percentual": 3.55,
+      "sqcand": "250001611345"
+    },
+    {
+      "nome": "SINVAL MALHEIROS PINTO JUNIOR",
+      "nomeUrna": "DR. SINVAL MALHEIROS",
+      "partido": "PATRIOTA",
+      "numero": "5111",
+      "votos": 193,
+      "percentual": 3.09,
+      "sqcand": "250001620771"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "HELENA DOS SANTOS REIS",
+      "nomeUrna": "CORONEL HELENA",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 954,
+      "percentual": 16.19,
+      "sqcand": "250001639593"
+    },
+    {
+      "nome": "THIAGO REIS AURICCHIO",
+      "nomeUrna": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "numero": "22343",
+      "votos": 481,
+      "percentual": 8.16,
+      "sqcand": "250001610134"
+    },
+    {
+      "nome": "CARLOS EDUARDO PIGNATARI",
+      "nomeUrna": "CARLÃO PIGNATARI",
+      "partido": "PSDB",
+      "numero": "45232",
+      "votos": 361,
+      "percentual": 6.13,
+      "sqcand": "250001611488"
+    },
+    {
+      "nome": "ANTONIO DIRCEU DALBEN",
+      "nomeUrna": "DALBEN",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 263,
+      "percentual": 4.46,
+      "sqcand": "250001611436"
+    },
+    {
+      "nome": "MACIEL DOS SANTOS ROCHA",
+      "nomeUrna": "MACIEL DA ROCHA",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 225,
+      "percentual": 3.82,
+      "sqcand": "250001611453"
+    },
+    {
+      "nome": "VALDOMIRO LOPES DA SILVA JUNIOR",
+      "nomeUrna": "DR VALDOMIRO LOPES",
+      "partido": "PSB",
+      "numero": "40211",
+      "votos": 195,
+      "percentual": 3.31,
+      "sqcand": "250001620599"
+    },
+    {
+      "nome": "GILDEVANIO ILSO DOS SANTOS DINIZ",
+      "nomeUrna": "GIL DINIZ",
+      "partido": "PL",
+      "numero": "22120",
+      "votos": 187,
+      "percentual": 3.17,
+      "sqcand": "250001610109"
+    }
+  ]
+}

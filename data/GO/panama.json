@@ -1,0 +1,271 @@
+{
+  "populacao": 3090,
+  "votosValidos": 2720,
+  "abstencao": 9.68,
+  "prefeito": {
+    "nome": "RENE DA MOTA OLIVEIRA",
+    "nomeUrna": "RENÊ",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1655,
+    "percentual": 60.85,
+    "situacao": "Eleito",
+    "sqcand": "90002019677",
+    "vice": "LEANDRO HENRIQUE DOS SANTOS",
+    "viceNomeUrna": "LEANDRO SUCURI",
+    "partidoVice": "MDB",
+    "sqcandVice": "90002019676",
+    "coligacao": "MDB / PRD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "FERNANDO RIBEIRO DA COSTA PEREIRA",
+      "nomeUrna": "FERNANDINHO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 189,
+      "percentual": 6.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001928351"
+    },
+    {
+      "nome": "REJANE DE PAULA E SILVA",
+      "nomeUrna": "REJANE DE PAULA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 157,
+      "percentual": 5.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001928251"
+    },
+    {
+      "nome": "MARCIO FERREIRA DE SOUZA",
+      "nomeUrna": "MARCINHO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 134,
+      "percentual": 4.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001928349"
+    },
+    {
+      "nome": "MEIRE DE FATIMA BORGES FELIX",
+      "nomeUrna": "MEIRE BORGES",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 119,
+      "percentual": 4.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001928342"
+    },
+    {
+      "nome": "LUCIANA FERREIRA BATISTA",
+      "nomeUrna": "LUCIANA MOTORISTA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 116,
+      "percentual": 4.24,
+      "situacao": "Eleito por média",
+      "sqcand": "90001928346"
+    },
+    {
+      "nome": "CARLOS VIEIRA BARBOSA",
+      "nomeUrna": "CARLOS VIEIRA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 110,
+      "percentual": 4.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002117138"
+    },
+    {
+      "nome": "PAULO HONÓRIO DE OLIVEIRA VIDICA",
+      "nomeUrna": "PAULINHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 108,
+      "percentual": 3.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002116899"
+    },
+    {
+      "nome": "JUSSANA VIDICA MENDES",
+      "nomeUrna": "JUSSANA VIDICA",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 95,
+      "percentual": 3.47,
+      "situacao": "Eleito por média",
+      "sqcand": "90001928253"
+    },
+    {
+      "nome": "JOAO MARIA FREITAS ARAUJO",
+      "nomeUrna": "JOÃO TROPEIRO",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 91,
+      "percentual": 3.32,
+      "situacao": "Eleito por média",
+      "sqcand": "90001928217"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 582,
+      "percentual": 35.27,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 384,
+      "percentual": 23.27,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 292,
+      "percentual": 17.7,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MAGDA MOFATTO HON",
+      "nomeUrna": "MAGDA MOFATTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 595,
+      "percentual": 33.75,
+      "sqcand": "90001652511"
+    },
+    {
+      "nome": "DANIEL VIEIRA RAMOS",
+      "nomeUrna": "DANIEL AGROBOM",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 405,
+      "percentual": 22.97,
+      "sqcand": "90001652507"
+    },
+    {
+      "nome": "HELIO ANTONIO DE SOUSA",
+      "nomeUrna": "DR. HELIO DE SOUSA",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 143,
+      "percentual": 8.11,
+      "sqcand": "90001621630"
+    },
+    {
+      "nome": "JOVAIR DE OLIVEIRA ARANTES",
+      "nomeUrna": "JOVAIR",
+      "partido": "REPUBLICANOS",
+      "numero": "1051",
+      "votos": 55,
+      "percentual": 3.12,
+      "sqcand": "90001651346"
+    },
+    {
+      "nome": "SILVYE ALVES DA SILVA",
+      "nomeUrna": "SILVYE ALVES",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 40,
+      "percentual": 2.27,
+      "sqcand": "90001614749"
+    },
+    {
+      "nome": "JOSE ANTONIO DA SILVA NETTO",
+      "nomeUrna": "ZÉ ANTONIO",
+      "partido": "REPUBLICANOS",
+      "numero": "1047",
+      "votos": 38,
+      "percentual": 2.16,
+      "sqcand": "90001651350"
+    },
+    {
+      "nome": "DANTE GUIMARÃES SANTOS DO AMARAL",
+      "nomeUrna": "DANTE DO VÔLEI",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7718",
+      "votos": 36,
+      "percentual": 2.04,
+      "sqcand": "90001615702"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ÁLVARO SOARES GUIMARÃES",
+      "nomeUrna": "ÁLVARO GUIMARÃES",
+      "partido": "UNIÃO",
+      "numero": "44122",
+      "votos": 682,
+      "percentual": 39.49,
+      "sqcand": "90001648390"
+    },
+    {
+      "nome": "CLAUDIO OLINTO MEIRELLES",
+      "nomeUrna": "CLAUDIO MEIRELLES",
+      "partido": "PL",
+      "numero": "22690",
+      "votos": 240,
+      "percentual": 13.9,
+      "sqcand": "90001653803"
+    },
+    {
+      "nome": "ROGERIO REZENDE SILVA",
+      "nomeUrna": "DR ROGERIO REZENDE",
+      "partido": "PRTB",
+      "numero": "28128",
+      "votos": 110,
+      "percentual": 6.37,
+      "sqcand": "90001644186"
+    },
+    {
+      "nome": "HENRIQUE PAULISTA ARANTES",
+      "nomeUrna": "HENRIQUE ARANTES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 69,
+      "percentual": 4.0,
+      "sqcand": "90001653185"
+    },
+    {
+      "nome": "PAULO CEZAR MARTINS",
+      "nomeUrna": "PAULO CEZAR MARTINS",
+      "partido": "PL",
+      "numero": "22601",
+      "votos": 55,
+      "percentual": 3.18,
+      "sqcand": "90001653821"
+    },
+    {
+      "nome": "RUBENS AUGUSTO NADER",
+      "nomeUrna": "GUGU NADER",
+      "partido": "AGIR",
+      "numero": "36999",
+      "votos": 53,
+      "percentual": 3.07,
+      "sqcand": "90001614663"
+    },
+    {
+      "nome": "FRANCISCO SOBRINHO DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 48,
+      "percentual": 2.78,
+      "sqcand": "90001653178"
+    }
+  ]
+}

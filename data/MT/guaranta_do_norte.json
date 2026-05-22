@@ -1,0 +1,271 @@
+{
+  "populacao": 21953,
+  "votosValidos": 15486,
+  "abstencao": 26.45,
+  "prefeito": {
+    "nome": "ALBERTO MÁRCIO GONÇALVES",
+    "nomeUrna": "SUBTENENTE MÁRCIO GONÇALVES",
+    "partido": "NOVO",
+    "numero": "30",
+    "votos": 7687,
+    "percentual": 49.64,
+    "situacao": "Eleito",
+    "sqcand": "110002039916",
+    "vice": "VANDA KLEMENT",
+    "viceNomeUrna": "PROF VANDA KLEMENT",
+    "partidoVice": "NOVO",
+    "sqcandVice": "110002039915",
+    "coligacao": "NOVO"
+  },
+  "vereadores": [
+    {
+      "nome": "SILVIO DUTRA DA SILVA",
+      "nomeUrna": "SILVIO DUTRA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 1212,
+      "percentual": 7.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002215558"
+    },
+    {
+      "nome": "LETICIA CAMARGO DE SOUZA",
+      "nomeUrna": "LETICIA CAMARGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 744,
+      "percentual": 4.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002349523"
+    },
+    {
+      "nome": "DEMILSON CAMARGO MARTINS",
+      "nomeUrna": "DEMILSON DA PASCOA ",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 738,
+      "percentual": 4.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002358485"
+    },
+    {
+      "nome": "VERONI MARIA PANSERA",
+      "nomeUrna": "VERONI PANSERA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 685,
+      "percentual": 4.41,
+      "situacao": "Eleito por média",
+      "sqcand": "110002364600"
+    },
+    {
+      "nome": "ALEXANDRE RODRIGO RIBEIRO VIEIRA",
+      "nomeUrna": "IRMÃO ALEXANDRE",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 600,
+      "percentual": 3.87,
+      "situacao": "Eleito por média",
+      "sqcand": "110002256672"
+    },
+    {
+      "nome": "MARIA SOCORRO LEITE DANTAS",
+      "nomeUrna": "SOCORRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 408,
+      "percentual": 2.63,
+      "situacao": "Eleito por média",
+      "sqcand": "110002349522"
+    },
+    {
+      "nome": "CELSO HENRIQUE BATISTA DA SILVA",
+      "nomeUrna": "CELSO HENRIQUE CH",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 391,
+      "percentual": 2.52,
+      "situacao": "Eleito por média",
+      "sqcand": "110002215553"
+    },
+    {
+      "nome": "ZILMAR ASSIS DE LIMA",
+      "nomeUrna": "ZILMAR ASSIS DE LIMA",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 366,
+      "percentual": 2.36,
+      "situacao": "Eleito por média",
+      "sqcand": "110002256675"
+    },
+    {
+      "nome": "DAVID MARQUES SILVA",
+      "nomeUrna": "DAVID DA FARMACIA ",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 358,
+      "percentual": 2.31,
+      "situacao": "Eleito por média",
+      "sqcand": "110002358481"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 6836,
+      "percentual": 52.24,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 4267,
+      "percentual": 32.61,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "JORGE YOSHIAKI YANAI",
+      "nomeUrna": "DR. JORGE YANAI",
+      "partido": "DC",
+      "numero": "270",
+      "votos": 1297,
+      "percentual": 9.91,
+      "sqcand": "110001643563"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS GOMES BEZERRA",
+      "nomeUrna": "CARLOS BEZERRA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 2805,
+      "percentual": 18.84,
+      "sqcand": "110001623294"
+    },
+    {
+      "nome": "GERALDO GEZONI FILHO",
+      "nomeUrna": "DELEGADO GERALDO",
+      "partido": "PSB",
+      "numero": "4038",
+      "votos": 1722,
+      "percentual": 11.56,
+      "sqcand": "110001601576"
+    },
+    {
+      "nome": "PEDRO INACIO WIEGERT",
+      "nomeUrna": "PEDRO SATÉLITE",
+      "partido": "PSD",
+      "numero": "5563",
+      "votos": 1551,
+      "percentual": 10.42,
+      "sqcand": "110001701631"
+    },
+    {
+      "nome": "FÁBIO PAULINO GARCIA",
+      "nomeUrna": "FÁBIO GARCIA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 1084,
+      "percentual": 7.28,
+      "sqcand": "110001612770"
+    },
+    {
+      "nome": "NELSON NED PREVIDENTE",
+      "nomeUrna": "NELSON BARBUDO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 1052,
+      "percentual": 7.07,
+      "sqcand": "110001612759"
+    },
+    {
+      "nome": "AMÁLIA SCUDELER DE BARROS SANTOS",
+      "nomeUrna": "AMÁLIA BARROS",
+      "partido": "PL",
+      "numero": "2202",
+      "votos": 1043,
+      "percentual": 7.0,
+      "sqcand": "110001612762"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 935,
+      "percentual": 6.28,
+      "sqcand": "110001675052"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DIEGO ARRUDA VAZ GUIMARÃES",
+      "nomeUrna": "DIEGO GUIMARÃES",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 4654,
+      "percentual": 31.91,
+      "sqcand": "110001635657"
+    },
+    {
+      "nome": "VALTER MIOTTO FERREIRA",
+      "nomeUrna": "VALTINHO MIOTTO",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 2933,
+      "percentual": 20.11,
+      "sqcand": "110001623187"
+    },
+    {
+      "nome": "DILMAR DAL BOSCO",
+      "nomeUrna": "DILMAR DAL BOSCO",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 1291,
+      "percentual": 8.85,
+      "sqcand": "110001612944"
+    },
+    {
+      "nome": "GILBERTO MOACIR CATTANI",
+      "nomeUrna": "GILBERTO CATTANI",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 960,
+      "percentual": 6.58,
+      "sqcand": "110001620557"
+    },
+    {
+      "nome": "SEBASTIÃO MACHADO REZENDE",
+      "nomeUrna": "ENG. SEBASTIÃO MACHADO REZENDE",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 721,
+      "percentual": 4.94,
+      "sqcand": "110001612939"
+    },
+    {
+      "nome": "VALDIR MENDES BARRANCO",
+      "nomeUrna": "VALDIR BARRANCO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 677,
+      "percentual": 4.64,
+      "sqcand": "110001719771"
+    },
+    {
+      "nome": "JANAÍNA GREYCE RIVA FAGUNDES",
+      "nomeUrna": "JANAÍNA RIVA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 298,
+      "percentual": 2.04,
+      "sqcand": "110001623186"
+    }
+  ]
+}

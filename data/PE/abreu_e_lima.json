@@ -1,0 +1,311 @@
+{
+  "populacao": 78318,
+  "votosValidos": 58991,
+  "abstencao": 13.99,
+  "prefeito": {
+    "nome": "FLAVIO VIEIRA GADELHA DE ALBUQUERQUE",
+    "nomeUrna": "FLAVIO GADELHA",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 40589,
+    "percentual": 68.81,
+    "situacao": "Eleito",
+    "sqcand": "170002212863",
+    "vice": "MURILO VIEIRA DOS SANTOS",
+    "viceNomeUrna": "MURILO DO POVO",
+    "partidoVice": "PV",
+    "sqcandVice": "170002212862",
+    "coligacao": "REPUBLICANOS / PODE / PSB / SOLIDARIEDADE / PC do B / PT / PV / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "DJARCENIR FELICIANO DA SILVA",
+      "nomeUrna": "SENNA DA SAUDE",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 2403,
+      "percentual": 3.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002213623"
+    },
+    {
+      "nome": "MURILO VIEIRA DOS SANTOS JUNIOR",
+      "nomeUrna": "MURILINHO DO POVO",
+      "partido": "PSB",
+      "numero": "40678",
+      "votos": 2327,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002213627"
+    },
+    {
+      "nome": "MARIA DO CARMO GALDINO DE FREITAS SANTOS",
+      "nomeUrna": "CARMINHA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 2319,
+      "percentual": 3.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002213925"
+    },
+    {
+      "nome": "RENATO ALVES BANDEIRA DE MIRANDA",
+      "nomeUrna": "RENATO ALVES",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 2280,
+      "percentual": 3.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002324250"
+    },
+    {
+      "nome": "CARLOS EDUARDO FARIAS",
+      "nomeUrna": "PROFESSOR CARLOS EDUARDO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77677",
+      "votos": 2200,
+      "percentual": 3.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002213922"
+    },
+    {
+      "nome": "CICERO ZEFERINO DE ANDRADE",
+      "nomeUrna": "SOLDADO ZEFERINO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 2083,
+      "percentual": 3.31,
+      "situacao": "Eleito por média",
+      "sqcand": "170002213629"
+    },
+    {
+      "nome": "MILENA PATRÍCIA NASCIMENTO DE ARAÚJO",
+      "nomeUrna": "MILENA ARAÚJO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 2034,
+      "percentual": 3.24,
+      "situacao": "Eleito por média",
+      "sqcand": "170002213916"
+    },
+    {
+      "nome": "NATALICIO DA COSTA ALVES",
+      "nomeUrna": "NATALICIO",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 1924,
+      "percentual": 3.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002212741"
+    },
+    {
+      "nome": "JOSE FRANCISCO FERREIRA",
+      "nomeUrna": "PASTOR FERRERINHA",
+      "partido": "PODE",
+      "numero": "20022",
+      "votos": 1922,
+      "percentual": 3.06,
+      "situacao": "Eleito por média",
+      "sqcand": "170002212732"
+    },
+    {
+      "nome": "ELIVALDO DE FRANÇA DE OLIVEIRA",
+      "nomeUrna": "MARINHEIRO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1763,
+      "percentual": 2.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002325379"
+    },
+    {
+      "nome": "FRANCISCO CLÁUDIO SPINELLI PESSOA DE PAIVA",
+      "nomeUrna": "CAU E MARCOS AURÉLIO",
+      "partido": "PV",
+      "numero": "43111",
+      "votos": 1562,
+      "percentual": 2.49,
+      "situacao": "Eleito por média",
+      "sqcand": "170002325380"
+    },
+    {
+      "nome": "JAIRO FERREIRA DOMINGOS",
+      "nomeUrna": "JAIRO KAITO",
+      "partido": "REPUBLICANOS",
+      "numero": "10610",
+      "votos": 1376,
+      "percentual": 2.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002213770"
+    },
+    {
+      "nome": "ERIKY MAC AZEVEDO DA SILVA",
+      "nomeUrna": "ERIKY MAIK",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 1215,
+      "percentual": 1.93,
+      "situacao": "Eleito por média",
+      "sqcand": "170002213767"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 23377,
+      "percentual": 43.71,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 21736,
+      "percentual": 40.64,
+      "sqcand": "170001604083"
+    },
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4310,
+      "percentual": 8.06,
+      "sqcand": "170001610248"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ERICA CLARISSA BORBA CORDEIRO DE MOURA",
+      "nomeUrna": "CLARISSA TÉRCIO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 6273,
+      "percentual": 11.19,
+      "sqcand": "170001618605"
+    },
+    {
+      "nome": "LUCIANO CALDAS BIVAR",
+      "nomeUrna": "LUCIANO BIVAR",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 5437,
+      "percentual": 9.7,
+      "sqcand": "170001609112"
+    },
+    {
+      "nome": "ANDRÉ FERREIRA RODRIGUES",
+      "nomeUrna": "ANDRÉ FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 5239,
+      "percentual": 9.34,
+      "sqcand": "170001609080"
+    },
+    {
+      "nome": "MARIA LEAL ARRAES DE ALENCAR",
+      "nomeUrna": "MARIA ARRAES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7713",
+      "votos": 2744,
+      "percentual": 4.89,
+      "sqcand": "170001610574"
+    },
+    {
+      "nome": "GUILHERME ARISTOTELES UCHOA CAVALCANTI PESSOA DE MELO JUNIOR",
+      "nomeUrna": "GUILHERME UCHOA JUNIOR",
+      "partido": "PSB",
+      "numero": "4019",
+      "votos": 2599,
+      "percentual": 4.63,
+      "sqcand": "170001619889"
+    },
+    {
+      "nome": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+      "nomeUrna": "IZA ARRUDA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 1954,
+      "percentual": 3.48,
+      "sqcand": "170001613278"
+    },
+    {
+      "nome": "TÚLIO GADELHA SALES DE MELO",
+      "nomeUrna": "TÚLIO GADELHA",
+      "partido": "REDE",
+      "numero": "1818",
+      "votos": 1644,
+      "percentual": 2.93,
+      "sqcand": "170001619597"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "REBECA LUCENA DE SOUZA SANTOS DANTAS",
+      "nomeUrna": "REBECA LUCENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 4415,
+      "percentual": 7.96,
+      "sqcand": "170001619717"
+    },
+    {
+      "nome": "JOSÉ IVANILDO DE MOURA JUNIOR",
+      "nomeUrna": "PASTOR JUNIOR TERCIO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 4314,
+      "percentual": 7.78,
+      "sqcand": "170001618752"
+    },
+    {
+      "nome": "GUSTAVO FUCHS CAMPOS GOUVEIA",
+      "nomeUrna": "GUSTAVO GOUVEIA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77555",
+      "votos": 4307,
+      "percentual": 7.77,
+      "sqcand": "170001610732"
+    },
+    {
+      "nome": "MARIO RICARDO SANTOS DE LIMA",
+      "nomeUrna": "MARIO RICARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10610",
+      "votos": 3838,
+      "percentual": 6.92,
+      "sqcand": "170001595443"
+    },
+    {
+      "nome": "GLEIDE NASCIMENTO ANGELO",
+      "nomeUrna": "DELEGADA GLEIDE ANGELO",
+      "partido": "PSB",
+      "numero": "40190",
+      "votos": 3298,
+      "percentual": 5.95,
+      "sqcand": "170001620397"
+    },
+    {
+      "nome": "FRANCISMAR MENDES PONTES",
+      "nomeUrna": "FRANCISMAR",
+      "partido": "PSB",
+      "numero": "40654",
+      "votos": 2638,
+      "percentual": 4.76,
+      "sqcand": "170001620393"
+    },
+    {
+      "nome": "ROMERO ANTONIO RAPOSO SALES FILHO",
+      "nomeUrna": "ROMERO SALES FILHO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 2190,
+      "percentual": 3.95,
+      "sqcand": "170001609264"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 12175,
+  "votosValidos": 9682,
+  "abstencao": 18.16,
+  "prefeito": {
+    "nome": "ANGELO FRANQUI SALVARO",
+    "nomeUrna": "FRANQUI SALVARO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 5643,
+    "percentual": 58.28,
+    "situacao": "Eleito",
+    "sqcand": "240002357657",
+    "vice": "RAFAEL GUSTAVO FRELLO",
+    "viceNomeUrna": "RAFAEL FRELLO",
+    "partidoVice": "PL",
+    "sqcandVice": "240002357658",
+    "coligacao": "PL / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LEONARDO POSSOLI DOS SANTOS",
+      "nomeUrna": "LEONARDO POSSOLI",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 979,
+      "percentual": 10.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002358108"
+    },
+    {
+      "nome": "MATEUS JOSE DONADEL",
+      "nomeUrna": "MATEUS DONADEL",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 666,
+      "percentual": 7.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002301031"
+    },
+    {
+      "nome": "HIGOR DA SILVA LEANDRO",
+      "nomeUrna": "HIGOR LEANDRO",
+      "partido": "MDB",
+      "numero": "15630",
+      "votos": 514,
+      "percentual": 5.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002236228"
+    },
+    {
+      "nome": "DENER TRAMONTIN NAZARI",
+      "nomeUrna": "DENER DO PET SHOP",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 481,
+      "percentual": 5.06,
+      "situacao": "Eleito por média",
+      "sqcand": "240002301036"
+    },
+    {
+      "nome": "GLAUCIA CESA PERICO",
+      "nomeUrna": "GLAUCIA CESA PERICO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 476,
+      "percentual": 5.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002236229"
+    },
+    {
+      "nome": "DANIEL PAULO GAMBA",
+      "nomeUrna": "DANIEL GAMBA",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 472,
+      "percentual": 4.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002357861"
+    },
+    {
+      "nome": "JADNA DE CASSIA RODRIGUES MARTINS",
+      "nomeUrna": "PROFESSORA JADNA",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 435,
+      "percentual": 4.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002358107"
+    },
+    {
+      "nome": "CHARLES WILIAN VITTO",
+      "nomeUrna": "CHARLES VITTO",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 426,
+      "percentual": 4.48,
+      "situacao": "Eleito por média",
+      "sqcand": "240002358112"
+    },
+    {
+      "nome": "RODRIGO PETERLE",
+      "nomeUrna": "RODRIGO PETERLE",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 426,
+      "percentual": 4.48,
+      "situacao": "Eleito por média",
+      "sqcand": "240002236231"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2217,
+      "percentual": 30.53,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CLARIKENNEDY NUNES",
+      "nomeUrna": "KENNEDY NUNES",
+      "partido": "PTB",
+      "numero": "142",
+      "votos": 1720,
+      "percentual": 23.68,
+      "sqcand": "240001644895"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 1295,
+      "percentual": 17.83,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 2177,
+      "percentual": 28.12,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "VALMIR FRANCISCO COMIN",
+      "nomeUrna": "VALMIR COMIN",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 1030,
+      "percentual": 13.3,
+      "sqcand": "240001644890"
+    },
+    {
+      "nome": "DANIEL COSTA DE FREITAS",
+      "nomeUrna": "DANIEL FREITAS",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 685,
+      "percentual": 8.85,
+      "sqcand": "240001610972"
+    },
+    {
+      "nome": "RICARDO ZANATTA GUIDI",
+      "nomeUrna": "RICARDO GUIDI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 489,
+      "percentual": 6.32,
+      "sqcand": "240001611144"
+    },
+    {
+      "nome": "LUIZ FERNANDO CARDOSO",
+      "nomeUrna": "VAMPIRO",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 423,
+      "percentual": 5.46,
+      "sqcand": "240001602682"
+    },
+    {
+      "nome": "GIOVANA VITO MONDARDO",
+      "nomeUrna": "GIOVANA MONDARDO",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 422,
+      "percentual": 5.45,
+      "sqcand": "240001645207"
+    },
+    {
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nomeUrna": "JULIA ZANATTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 421,
+      "percentual": 5.44,
+      "sqcand": "240001610974"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ACÉLIO CASAGRANDE",
+      "nomeUrna": "ACÉLIO CASAGRANDE",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 1927,
+      "percentual": 25.14,
+      "sqcand": "240001612505"
+    },
+    {
+      "nome": "RODRIGO MINOTTO",
+      "nomeUrna": "RODRIGO MINOTTO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 810,
+      "percentual": 10.57,
+      "sqcand": "240001644398"
+    },
+    {
+      "nome": "MARCIO BURIGO",
+      "nomeUrna": "MÁRCIO BURIGO",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 668,
+      "percentual": 8.71,
+      "sqcand": "240001616208"
+    },
+    {
+      "nome": "JESSÉ DE FARIA LOPES",
+      "nomeUrna": "JESSÉ LOPES",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 569,
+      "percentual": 7.42,
+      "sqcand": "240001614350"
+    },
+    {
+      "nome": "TIAGO ZILLI",
+      "nomeUrna": "TIAGO ZILLI",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 375,
+      "percentual": 4.89,
+      "sqcand": "240001605911"
+    },
+    {
+      "nome": "JOSÉ MILTON SCHEFFER",
+      "nomeUrna": "ZÉ MILTON",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 371,
+      "percentual": 4.84,
+      "sqcand": "240001644756"
+    },
+    {
+      "nome": "AROLDO FRIGO JUNIOR",
+      "nomeUrna": "AROLDO FRIGO JUNIOR",
+      "partido": "PSDB",
+      "numero": "45110",
+      "votos": 348,
+      "percentual": 4.54,
+      "sqcand": "240001612506"
+    }
+  ]
+}

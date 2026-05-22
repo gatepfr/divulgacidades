@@ -1,0 +1,271 @@
+{
+  "populacao": 3361,
+  "votosValidos": 2859,
+  "abstencao": 13.21,
+  "prefeito": {
+    "nome": "ALEX ANTONIO CAVALCANTE",
+    "nomeUrna": "ALEX CAVALCANTE",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1804,
+    "percentual": 63.1,
+    "situacao": "Eleito",
+    "sqcand": "160001956029",
+    "vice": "UILSON JOSE DOS SANTOS",
+    "viceNomeUrna": "ILSINHO",
+    "partidoVice": "MDB",
+    "sqcandVice": "160001956028",
+    "coligacao": "PSD / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ROGERIO CIPRIANO DA CRUZ",
+      "nomeUrna": "ROGÉRIO DO KAEL",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 199,
+      "percentual": 6.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001956095"
+    },
+    {
+      "nome": "VALDECIR ANDRADE DA SILVA",
+      "nomeUrna": "PRETO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 198,
+      "percentual": 6.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001956100"
+    },
+    {
+      "nome": "VANDERLEI AUGUSTO DA SILVA",
+      "nomeUrna": "DÉ DO ESMERALDO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 196,
+      "percentual": 6.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002385357"
+    },
+    {
+      "nome": "FRANCISCO FERREIRA DA COSTA",
+      "nomeUrna": "CHICO DO MIGUELZINHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 183,
+      "percentual": 6.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001956016"
+    },
+    {
+      "nome": "WALMIR BONIFACIO",
+      "nomeUrna": "JABUTI",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 180,
+      "percentual": 6.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001955986"
+    },
+    {
+      "nome": "HAROLDO PIRES RAMOS",
+      "nomeUrna": "HAROLDO DA SAÚDE",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 178,
+      "percentual": 6.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001955990"
+    },
+    {
+      "nome": "ILSON MARCOS DOS SANTOS JUNIOR",
+      "nomeUrna": "JUNINHO",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 163,
+      "percentual": 5.73,
+      "situacao": "Eleito por média",
+      "sqcand": "160001955993"
+    },
+    {
+      "nome": "ALISSON GIOVANI GOES",
+      "nomeUrna": "ALISSON GOES",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 137,
+      "percentual": 4.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001956022"
+    },
+    {
+      "nome": "CELIO PEREIRA",
+      "nomeUrna": "CELIO CRIOULO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 127,
+      "percentual": 4.46,
+      "situacao": "Eleito por média",
+      "sqcand": "160001956020"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1270,
+      "percentual": 57.05,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 523,
+      "percentual": 23.5,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 308,
+      "percentual": 13.84,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 1484,
+      "percentual": 63.36,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "DILCEU JOÃO SPERAFICO",
+      "nomeUrna": "DILCEU SPERAFICO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 265,
+      "percentual": 11.32,
+      "sqcand": "160001603297"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 234,
+      "percentual": 9.99,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "SEBASTIÃO HENRIQUE DE MEDEIROS",
+      "nomeUrna": "TIÃO MEDEIROS",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 45,
+      "percentual": 1.92,
+      "sqcand": "160001603306"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 37,
+      "percentual": 1.58,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 28,
+      "percentual": 1.2,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "GILSON CARDOSO FAHUR",
+      "nomeUrna": "SARGENTO FAHUR",
+      "partido": "PSD",
+      "numero": "5590",
+      "votos": 22,
+      "percentual": 0.94,
+      "sqcand": "160001622298"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 1230,
+      "percentual": 55.01,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "MARCEL HENRIQUE MICHELETTO",
+      "nomeUrna": "MARCEL MICHELETTO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 540,
+      "percentual": 24.15,
+      "sqcand": "160001654935"
+    },
+    {
+      "nome": "PAULO ROGÉRIO DO CARMO",
+      "nomeUrna": "DO CARMO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 84,
+      "percentual": 3.76,
+      "sqcand": "160001716000"
+    },
+    {
+      "nome": "CID CLAY BAZOTI GABARÃO",
+      "nomeUrna": "CID CLAY GABARRÃO",
+      "partido": "PP",
+      "numero": "11012",
+      "votos": 62,
+      "percentual": 2.77,
+      "sqcand": "160001603353"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 53,
+      "percentual": 2.37,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "SERGIO PEREIRA JUNIOR",
+      "nomeUrna": "SERGINHO",
+      "partido": "PSB",
+      "numero": "40231",
+      "votos": 42,
+      "percentual": 1.88,
+      "sqcand": "160001621871"
+    },
+    {
+      "nome": "ALDINO JORGE BUENO",
+      "nomeUrna": "GUGU BUENO",
+      "partido": "PSD",
+      "numero": "55022",
+      "votos": 28,
+      "percentual": 1.25,
+      "sqcand": "160001623097"
+    }
+  ]
+}

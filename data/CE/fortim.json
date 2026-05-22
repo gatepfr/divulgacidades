@@ -1,0 +1,291 @@
+{
+  "populacao": 17305,
+  "votosValidos": 15376,
+  "abstencao": 8.99,
+  "prefeito": {
+    "nome": "DELMA DA COSTA DOS SANTOS",
+    "nomeUrna": "DELMA FERREIRA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 10255,
+    "percentual": 66.69,
+    "situacao": "Eleito",
+    "sqcand": "60001964113",
+    "vice": "IGOR CIRIACO DA COSTA",
+    "viceNomeUrna": "IGOR CIRIACO",
+    "partidoVice": "PT",
+    "sqcandVice": "60001964112",
+    "coligacao": "MDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "RAIMUNDO TOMAZ DE SOUZA",
+      "nomeUrna": "RAIMUNDINHO PAPERINHA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 1187,
+      "percentual": 7.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002010160"
+    },
+    {
+      "nome": "MONIQUE RIBEIRO DA COSTA",
+      "nomeUrna": "MONIQUE",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 1032,
+      "percentual": 6.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002010161"
+    },
+    {
+      "nome": "KATH ANNE MEIRA DA SILVA SIMONASSI",
+      "nomeUrna": "DRA KATH ANNE",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 1013,
+      "percentual": 6.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002010164"
+    },
+    {
+      "nome": "MARCIA VIEIRA DOS SANTOS NOGUEIRA",
+      "nomeUrna": "MÁRCIA VIEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1011,
+      "percentual": 6.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009942"
+    },
+    {
+      "nome": "DIANCARLOS MONTEIRO DE SOUZA",
+      "nomeUrna": "DIANCARLOS MONTEIRO",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 955,
+      "percentual": 6.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002010163"
+    },
+    {
+      "nome": "GERARDO CORREIA DA SILVA JÚNIOR",
+      "nomeUrna": "JÚNIOR DO GURGURÍ",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 931,
+      "percentual": 6.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002010154"
+    },
+    {
+      "nome": "CAMILA OLIVEIRA BARBOSA",
+      "nomeUrna": "DRA. CAMILA OLIVEIRA",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 835,
+      "percentual": 5.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009511"
+    },
+    {
+      "nome": "RONALDO NOGUEIRA LIMA",
+      "nomeUrna": "RONALDO NOGUEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 741,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009943"
+    },
+    {
+      "nome": "MARCOS AURÉLIO MONTEIRO",
+      "nomeUrna": "MARQUINHOS DO PONTAL",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 734,
+      "percentual": 4.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "60001963353"
+    },
+    {
+      "nome": "CARLOS ALBERTO SCIPIÃO",
+      "nomeUrna": "BETIM",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 707,
+      "percentual": 4.6,
+      "situacao": "Eleito por média",
+      "sqcand": "60002010155"
+    },
+    {
+      "nome": "FLAVO CAVALCANTE DE LIMA",
+      "nomeUrna": "FLÁVIO DAS FRUTAS",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 706,
+      "percentual": 4.59,
+      "situacao": "Eleito por média",
+      "sqcand": "60002009514"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 7863,
+      "percentual": 69.73,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 2540,
+      "percentual": 22.53,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 873,
+      "percentual": 7.74,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANTONIO LUIZ RODRIGUES MANO JUNIOR",
+      "nomeUrna": "JÚNIOR MANO",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 5870,
+      "percentual": 49.04,
+      "sqcand": "60001614151"
+    },
+    {
+      "nome": "EDUARDO HENRIQUE MAIA BISMARCK",
+      "nomeUrna": "EDUARDO BISMARCK",
+      "partido": "PDT",
+      "numero": "1214",
+      "votos": 2715,
+      "percentual": 22.68,
+      "sqcand": "60001603472"
+    },
+    {
+      "nome": "JOSÉ ARNON CRUZ BEZERRA DE MENEZES",
+      "nomeUrna": "ARNON BEZERRA",
+      "partido": "PDT",
+      "numero": "1251",
+      "votos": 742,
+      "percentual": 6.2,
+      "sqcand": "60001634339"
+    },
+    {
+      "nome": "CAETANO GUEDES NETO",
+      "nomeUrna": "CAETANO NETO",
+      "partido": "UNIÃO",
+      "numero": "4440",
+      "votos": 672,
+      "percentual": 5.61,
+      "sqcand": "60001608889"
+    },
+    {
+      "nome": "ANDRÉ FERNANDES DE MOURA",
+      "nomeUrna": "ANDRÉ FERNANDES",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 266,
+      "percentual": 2.22,
+      "sqcand": "60001614161"
+    },
+    {
+      "nome": "PRISCILA BEZERRA DA COSTA",
+      "nomeUrna": "PRISCILA COSTA",
+      "partido": "PL",
+      "numero": "2288",
+      "votos": 127,
+      "percentual": 1.06,
+      "sqcand": "60001614167"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 118,
+      "percentual": 0.99,
+      "sqcand": "60001603469"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DANNIEL LOPES DE OLIVEIRA SOUSA",
+      "nomeUrna": "DANNIEL OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 5477,
+      "percentual": 47.91,
+      "sqcand": "60001635805"
+    },
+    {
+      "nome": "GUILHERME BISMARCK",
+      "nomeUrna": "GUILHERME BISMARCK",
+      "partido": "PDT",
+      "numero": "12144",
+      "votos": 3540,
+      "percentual": 30.97,
+      "sqcand": "60001603538"
+    },
+    {
+      "nome": "SILVANA OLIVEIRA DE SOUSA",
+      "nomeUrna": "DRA SILVANA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 200,
+      "percentual": 1.75,
+      "sqcand": "60001633828"
+    },
+    {
+      "nome": "ALCIDES FERNANDES DA SILVA",
+      "nomeUrna": "PR.ALCIDES FERNANDES",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 131,
+      "percentual": 1.15,
+      "sqcand": "60001633829"
+    },
+    {
+      "nome": "CARMELO SILVEIRA CARNEIRO LEÃO NETO",
+      "nomeUrna": "CARMELO NETO",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 127,
+      "percentual": 1.11,
+      "sqcand": "60001633791"
+    },
+    {
+      "nome": "MARIA DENISE ROCHA MENEZES",
+      "nomeUrna": "DRA. DENISE",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 85,
+      "percentual": 0.74,
+      "sqcand": "60001633650"
+    },
+    {
+      "nome": "FELIPE AGUIAR FONSECA DA MOTA",
+      "nomeUrna": "FELIPE MOTA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 79,
+      "percentual": 0.69,
+      "sqcand": "60001608946"
+    }
+  ]
+}

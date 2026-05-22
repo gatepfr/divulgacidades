@@ -1,0 +1,271 @@
+{
+  "populacao": 12098,
+  "votosValidos": 10564,
+  "abstencao": 9.54,
+  "prefeito": {
+    "nome": "ZEDIVAN DE FREITAS RIOS",
+    "nomeUrna": "ZEIDE",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 5506,
+    "percentual": 52.12,
+    "situacao": "Eleito",
+    "sqcand": "50002066480",
+    "vice": "ALTEMAR OLIVEIRA RIOS",
+    "viceNomeUrna": "ALTEMAR",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "50002066481",
+    "coligacao": "REPUBLICANOS / PDT / PL / UNIÃO / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "EDSON SACRAMENTO DE JESUS",
+      "nomeUrna": "TOCO DA CIÊNCIA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1021,
+      "percentual": 9.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002316061"
+    },
+    {
+      "nome": "JOSE JOELSON OLIVEIRA CARNEIRO",
+      "nomeUrna": "JOELSON DE AGAPITO",
+      "partido": "PC do B",
+      "numero": "65111",
+      "votos": 899,
+      "percentual": 8.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002034455"
+    },
+    {
+      "nome": "GILVANIO FIGUEIREDO DOS SANTOS",
+      "nomeUrna": "GIL DO SANTO AGOSTINHO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 804,
+      "percentual": 7.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002034456"
+    },
+    {
+      "nome": "MISAEL BANDEIRA LOPES",
+      "nomeUrna": "MISA BANDEIRA",
+      "partido": "PC do B",
+      "numero": "65555",
+      "votos": 772,
+      "percentual": 7.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002034454"
+    },
+    {
+      "nome": "PAULO MOACI DOS SANTOS",
+      "nomeUrna": "MOACI DO LICURI",
+      "partido": "PT",
+      "numero": "13666",
+      "votos": 666,
+      "percentual": 6.28,
+      "situacao": "Eleito por média",
+      "sqcand": "50002034459"
+    },
+    {
+      "nome": "EDILSON FERREIRA CARNEIRO JUNIOR",
+      "nomeUrna": "JUNIOR DE EDILSON",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 614,
+      "percentual": 5.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002239549"
+    },
+    {
+      "nome": "PAULO MAGNO SAMPAIO DE SANTANA",
+      "nomeUrna": "PAULINHO DA SAÚDE",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 580,
+      "percentual": 5.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002240071"
+    },
+    {
+      "nome": "JOSÉ RONIVON DOS SANTOS RIOS",
+      "nomeUrna": "BRIZOLA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 553,
+      "percentual": 5.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002239550"
+    },
+    {
+      "nome": "JERRI ADRIANE SILVA DE OLIVEIRA",
+      "nomeUrna": "JERRI DE CHICO DE ROQUE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 550,
+      "percentual": 5.19,
+      "situacao": "Eleito por média",
+      "sqcand": "50002240070"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4693,
+      "percentual": 59.56,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2575,
+      "percentual": 32.68,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 560,
+      "percentual": 7.11,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO VELLOSO DANTAS AZI",
+      "nomeUrna": "PAULO AZI",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 2282,
+      "percentual": 27.15,
+      "sqcand": "50001634593"
+    },
+    {
+      "nome": "JOÃO CARLOS BACELAR BATISTA",
+      "nomeUrna": "BACELAR",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 2125,
+      "percentual": 25.28,
+      "sqcand": "50001605351"
+    },
+    {
+      "nome": "AFONSO BANDEIRA FLORENCE",
+      "nomeUrna": "AFONSO FLORENCE",
+      "partido": "PT",
+      "numero": "1301",
+      "votos": 1791,
+      "percentual": 21.31,
+      "sqcand": "50001605378"
+    },
+    {
+      "nome": "ANTONIO LUIZ PARANHOS RIBEIRO LEITE DE BRITO",
+      "nomeUrna": "ANTONIO BRITO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 299,
+      "percentual": 3.56,
+      "sqcand": "50001607229"
+    },
+    {
+      "nome": "DAYANE JAMILLE CARNEIRO DOS SANTOS PIMENTEL",
+      "nomeUrna": "PROFESSORA DAYANE PIMENTEL",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 223,
+      "percentual": 2.65,
+      "sqcand": "50001634573"
+    },
+    {
+      "nome": "LUAN KENEDY DA SILVA SANTOS",
+      "nomeUrna": "LUAN KENEDY",
+      "partido": "PRTB",
+      "numero": "2844",
+      "votos": 120,
+      "percentual": 1.43,
+      "sqcand": "50001673582"
+    },
+    {
+      "nome": "ELANE ALVES DE ALMEIDA",
+      "nomeUrna": "DRA ELANE",
+      "partido": "PSD",
+      "numero": "5533",
+      "votos": 103,
+      "percentual": 1.23,
+      "sqcand": "50001607230"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSE EDUARDO MENDONCA DE ALENCAR",
+      "nomeUrna": "EDUARDO ALENCAR",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 1644,
+      "percentual": 21.0,
+      "sqcand": "50001607296"
+    },
+    {
+      "nome": "JOSÉ LUCIANO SANTOS RIBEIRO",
+      "nomeUrna": "LUCIANO RIBEIRO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 1150,
+      "percentual": 14.69,
+      "sqcand": "50001648289"
+    },
+    {
+      "nome": "RAIMUNDO NONATO TAVARES DA SILVA",
+      "nomeUrna": "BOBÔ",
+      "partido": "PC do B",
+      "numero": "65888",
+      "votos": 1103,
+      "percentual": 14.09,
+      "sqcand": "50001606413"
+    },
+    {
+      "nome": "NEUSA CADORE",
+      "nomeUrna": "NEUSA CADORE",
+      "partido": "PT",
+      "numero": "13690",
+      "votos": 774,
+      "percentual": 9.89,
+      "sqcand": "50001606395"
+    },
+    {
+      "nome": "ANTÔNIO JORGE FALCÃO RIOS",
+      "nomeUrna": "DR. JORGE FALCÃO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 773,
+      "percentual": 9.87,
+      "sqcand": "50001737680"
+    },
+    {
+      "nome": "PABLO RODRIGO BARROZO DOS ANJOS VALE",
+      "nomeUrna": "PABLO BARROZO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 433,
+      "percentual": 5.53,
+      "sqcand": "50001613914"
+    },
+    {
+      "nome": "DAVID SILVA RIOS",
+      "nomeUrna": "DR. DAVID RIOS",
+      "partido": "UNIÃO",
+      "numero": "44800",
+      "votos": 415,
+      "percentual": 5.3,
+      "sqcand": "50001648317"
+    }
+  ]
+}

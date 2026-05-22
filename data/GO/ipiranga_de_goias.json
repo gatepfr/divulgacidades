@@ -1,0 +1,271 @@
+{
+  "populacao": 3174,
+  "votosValidos": 2757,
+  "abstencao": 10.74,
+  "prefeito": {
+    "nome": "BALTAZAR LUIZ DA SILVA",
+    "nomeUrna": "BALTAZAR",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1442,
+    "percentual": 52.3,
+    "situacao": "Eleito",
+    "sqcand": "90002152067",
+    "vice": "IRONE AUGUSTO DA SILVA",
+    "viceNomeUrna": "IRONE",
+    "partidoVice": "MDB",
+    "sqcandVice": "90002152068",
+    "coligacao": "MDB / UNIÃO / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIA JOSE DE SOUZA",
+      "nomeUrna": "DEZINHA",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 221,
+      "percentual": 7.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002152073"
+    },
+    {
+      "nome": "PAULO SERGIO MARTINS",
+      "nomeUrna": "PAULINHO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 188,
+      "percentual": 6.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002013433"
+    },
+    {
+      "nome": "VALMIR JOSÉ PEREIRA",
+      "nomeUrna": "ZÉ CARECA",
+      "partido": "PSD",
+      "numero": "55105",
+      "votos": 184,
+      "percentual": 6.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002013344"
+    },
+    {
+      "nome": "ADRIANA APARECIDA DE FARIA BENFICA",
+      "nomeUrna": "ADRIANA APARECIDA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 172,
+      "percentual": 6.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002152079"
+    },
+    {
+      "nome": "DIEGO DA SILVA MACHADO",
+      "nomeUrna": "DIEGO ALBINO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 169,
+      "percentual": 6.07,
+      "situacao": "Eleito por média",
+      "sqcand": "90002152076"
+    },
+    {
+      "nome": "VINICIO TIAGO SOUZA DE OLIVEIRA",
+      "nomeUrna": "VINICIO DO PASTOR ROSEMAR",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 159,
+      "percentual": 5.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002013350"
+    },
+    {
+      "nome": "VANDERLEI GOMES DE GODOI",
+      "nomeUrna": "LEI GODOI",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 155,
+      "percentual": 5.57,
+      "situacao": "Eleito por média",
+      "sqcand": "90002013343"
+    },
+    {
+      "nome": "SANDRO BERTINO DE SOUZA",
+      "nomeUrna": "SANDRO BERTINO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 153,
+      "percentual": 5.5,
+      "situacao": "Eleito por média",
+      "sqcand": "90002013346"
+    },
+    {
+      "nome": "KAROLINY ROSA ARAUJO",
+      "nomeUrna": "KAROL DO FERNANDO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 123,
+      "percentual": 4.42,
+      "situacao": "Eleito por média",
+      "sqcand": "90002013432"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1144,
+      "percentual": 51.91,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 445,
+      "percentual": 20.19,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 350,
+      "percentual": 15.88,
+      "sqcand": "90001615126"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CÉLIO ANTÔNIO DA SILVEIRA",
+      "nomeUrna": "CÉLIO SILVEIRA",
+      "partido": "MDB",
+      "numero": "1599",
+      "votos": 1224,
+      "percentual": 53.92,
+      "sqcand": "90001621109"
+    },
+    {
+      "nome": "HELIO ANTONIO DE SOUSA",
+      "nomeUrna": "DR. HELIO DE SOUSA",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 125,
+      "percentual": 5.51,
+      "sqcand": "90001621630"
+    },
+    {
+      "nome": "DANNILLO DA CUNHA PEREIRA",
+      "nomeUrna": "DANNILLO PEREIRA",
+      "partido": "PSD",
+      "numero": "5544",
+      "votos": 97,
+      "percentual": 4.27,
+      "sqcand": "90001651579"
+    },
+    {
+      "nome": "RUBENS OTONI GOMIDE",
+      "nomeUrna": "RUBENS OTONI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 95,
+      "percentual": 4.19,
+      "sqcand": "90001648112"
+    },
+    {
+      "nome": "MAGDA MOFATTO HON",
+      "nomeUrna": "MAGDA MOFATTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 93,
+      "percentual": 4.1,
+      "sqcand": "90001652511"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 63,
+      "percentual": 2.78,
+      "sqcand": "90001614055"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 53,
+      "percentual": 2.33,
+      "sqcand": "90001652508"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "WAGNER CAMARGO NETO",
+      "nomeUrna": "WAGNER NETO",
+      "partido": "PRTB",
+      "numero": "28123",
+      "votos": 814,
+      "percentual": 36.82,
+      "sqcand": "90001644216"
+    },
+    {
+      "nome": "SAMIR HAJJAR",
+      "nomeUrna": "SAMIRÃO HAJJAR",
+      "partido": "AVANTE",
+      "numero": "70678",
+      "votos": 264,
+      "percentual": 11.94,
+      "sqcand": "90001651102"
+    },
+    {
+      "nome": "BRUNO REGIANY PEIXOTO PIMENTA",
+      "nomeUrna": "BRUNO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 220,
+      "percentual": 9.95,
+      "sqcand": "90001648400"
+    },
+    {
+      "nome": "JOSÉ MACHADO DOS SANTOS",
+      "nomeUrna": "DR. JOSÉ MACHADO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 173,
+      "percentual": 7.82,
+      "sqcand": "90001647409"
+    },
+    {
+      "nome": "CLAUDIO OLINTO MEIRELLES",
+      "nomeUrna": "CLAUDIO MEIRELLES",
+      "partido": "PL",
+      "numero": "22690",
+      "votos": 105,
+      "percentual": 4.75,
+      "sqcand": "90001653803"
+    },
+    {
+      "nome": "SIRLENE PEREIRA DE ARAUJO BORBA",
+      "nomeUrna": "SIRLENE BORBA",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 101,
+      "percentual": 4.57,
+      "sqcand": "90001712175"
+    },
+    {
+      "nome": "AMILTON BATISTA DE FARIA FILHO",
+      "nomeUrna": "AMILTON FILHO",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 60,
+      "percentual": 2.71,
+      "sqcand": "90001653191"
+    }
+  ]
+}

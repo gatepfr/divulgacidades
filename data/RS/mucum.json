@@ -1,0 +1,271 @@
+{
+  "populacao": 4155,
+  "votosValidos": 3468,
+  "abstencao": 13.96,
+  "prefeito": {
+    "nome": "MATEUS GIOVANONI TROJAN",
+    "nomeUrna": "MATEUS TROJAN",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2803,
+    "percentual": 80.82,
+    "situacao": "Eleito",
+    "sqcand": "210002224464",
+    "vice": "AMARILDO BALDASSO",
+    "viceNomeUrna": "AMARILDO BALDASSO",
+    "partidoVice": "PSD",
+    "sqcandVice": "210002224463",
+    "coligacao": "MDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "TIAGO BERTAMONI",
+      "nomeUrna": "TIAGO BERTAMONI",
+      "partido": "MDB",
+      "numero": "15024",
+      "votos": 442,
+      "percentual": 12.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002222019"
+    },
+    {
+      "nome": "FABIO WEBER MICHELON",
+      "nomeUrna": "FABIO MICHELON",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 308,
+      "percentual": 8.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002222020"
+    },
+    {
+      "nome": "DIEGO MACHADO DE SOUZA",
+      "nomeUrna": "DIEGO MACHADO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 274,
+      "percentual": 7.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002204000"
+    },
+    {
+      "nome": "PAULO CESAR BELOTTI",
+      "nomeUrna": "KAPELA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 273,
+      "percentual": 7.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002222012"
+    },
+    {
+      "nome": "LUIZ ANTONIO BASSETTO",
+      "nomeUrna": "LUIZ BASSETTO (BELO)",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 267,
+      "percentual": 7.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002222013"
+    },
+    {
+      "nome": "MARIELI CASTOLDI",
+      "nomeUrna": "MARIELI CASTOLDI",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 264,
+      "percentual": 7.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002222011"
+    },
+    {
+      "nome": "JONES LINDOLFO BRUSTOLIN",
+      "nomeUrna": "JONES BRUSTOLIN",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 229,
+      "percentual": 6.61,
+      "situacao": "Eleito por média",
+      "sqcand": "210002201883"
+    },
+    {
+      "nome": "MAURO ANTONIO CIPRIANI",
+      "nomeUrna": "MAURO CIPRIANI",
+      "partido": "MDB",
+      "numero": "15650",
+      "votos": 181,
+      "percentual": 5.22,
+      "situacao": "Eleito por média",
+      "sqcand": "210002222017"
+    },
+    {
+      "nome": "ELTON PEZZI",
+      "nomeUrna": "ELTON PEZZI",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 107,
+      "percentual": 3.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002373189"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1555,
+      "percentual": 53.34,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 742,
+      "percentual": 25.45,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 577,
+      "percentual": 19.79,
+      "sqcand": "210001619906"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 591,
+      "percentual": 18.91,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 325,
+      "percentual": 10.4,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 301,
+      "percentual": 9.63,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 276,
+      "percentual": 8.83,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 269,
+      "percentual": 8.61,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nomeUrna": "DANRLEI DE DEUS GOLEIRO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 170,
+      "percentual": 5.44,
+      "sqcand": "210001613990"
+    },
+    {
+      "nome": "ANDRESA CRISTINA DE SOUZA",
+      "nomeUrna": "YÊ",
+      "partido": "MDB",
+      "numero": "1501",
+      "votos": 129,
+      "percentual": 4.13,
+      "sqcand": "210001647854"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 268,
+      "percentual": 9.17,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "ROBERTO FANTINEL",
+      "nomeUrna": "BETO FANTINEL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 239,
+      "percentual": 8.17,
+      "sqcand": "210001648003"
+    },
+    {
+      "nome": "MARCIA SCHERER",
+      "nomeUrna": "MÁRCIA SCHERER",
+      "partido": "MDB",
+      "numero": "15069",
+      "votos": 233,
+      "percentual": 7.97,
+      "sqcand": "210001647996"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 166,
+      "percentual": 5.68,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 144,
+      "percentual": 4.92,
+      "sqcand": "210001647982"
+    },
+    {
+      "nome": "GUILHERME RECH PASIN",
+      "nomeUrna": "GUILHERME PASIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 135,
+      "percentual": 4.62,
+      "sqcand": "210001647169"
+    },
+    {
+      "nome": "MARCIO ASSIS PATUSSI",
+      "nomeUrna": "MARCIO PATUSSI",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 112,
+      "percentual": 3.83,
+      "sqcand": "210001648956"
+    }
+  ]
+}

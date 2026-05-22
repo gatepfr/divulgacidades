@@ -1,0 +1,271 @@
+{
+  "populacao": 4679,
+  "votosValidos": 4164,
+  "abstencao": 9.87,
+  "prefeito": {
+    "nome": "ANTONIO MARCOS BARBOSA",
+    "nomeUrna": "DR ANTONIO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2104,
+    "percentual": 50.53,
+    "situacao": "Eleito",
+    "sqcand": "90001996901",
+    "vice": "WELLIGTON CARDOSO DINIZ",
+    "viceNomeUrna": "GORDINHO",
+    "partidoVice": "PDT",
+    "sqcandVice": "90001996902",
+    "coligacao": "PL / PDT / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCOS LEONES DE MENEZES",
+      "nomeUrna": "MARCOS LEONES BALUZIM",
+      "partido": "PODE",
+      "numero": "20777",
+      "votos": 401,
+      "percentual": 9.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002017334"
+    },
+    {
+      "nome": "ALYSSON MALASPINA MOTA",
+      "nomeUrna": "ALYSSON MOTA",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 367,
+      "percentual": 8.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002017340"
+    },
+    {
+      "nome": "NELSON RUBENS DE PAIVA",
+      "nomeUrna": "NELSINHO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 309,
+      "percentual": 7.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002060088"
+    },
+    {
+      "nome": "ELIENE GERMANA PIRES",
+      "nomeUrna": "ELIENE",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 265,
+      "percentual": 6.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002017969"
+    },
+    {
+      "nome": "FAUSTO DE OLIVEIRA BARROS",
+      "nomeUrna": "FAUSTO GAMBA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 222,
+      "percentual": 5.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002017967"
+    },
+    {
+      "nome": "LÁZARO DIVINO PEREIRA MACIEL",
+      "nomeUrna": "LAZARO BRANCO",
+      "partido": "MDB",
+      "numero": "15567",
+      "votos": 188,
+      "percentual": 4.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002059538"
+    },
+    {
+      "nome": "LAUIR ALVES DE ALMEIDA",
+      "nomeUrna": "LAUIR",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 184,
+      "percentual": 4.41,
+      "situacao": "Eleito por média",
+      "sqcand": "90002060090"
+    },
+    {
+      "nome": "JORGE EDUARDO DOS SANTOS",
+      "nomeUrna": "JORGE EDUARDO",
+      "partido": "PODE",
+      "numero": "20020",
+      "votos": 154,
+      "percentual": 3.69,
+      "situacao": "Eleito por média",
+      "sqcand": "90002017335"
+    },
+    {
+      "nome": "ADRIEL PEREIRA ALMEIDA",
+      "nomeUrna": "ADRIEL ELETRICISTA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 144,
+      "percentual": 3.45,
+      "situacao": "Eleito por média",
+      "sqcand": "90002059541"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 595,
+      "percentual": 23.5,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 543,
+      "percentual": 21.45,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 531,
+      "percentual": 20.97,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 733,
+      "percentual": 28.21,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "ELIAS VAZ DE ANDRADE",
+      "nomeUrna": "ELIAS VAZ",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 446,
+      "percentual": 17.17,
+      "sqcand": "90001605336"
+    },
+    {
+      "nome": "ALCIDES RIBEIRO FILHO",
+      "nomeUrna": "PROFESSOR ALCIDES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 378,
+      "percentual": 14.55,
+      "sqcand": "90001652505"
+    },
+    {
+      "nome": "SILVYE ALVES DA SILVA",
+      "nomeUrna": "SILVYE ALVES",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 157,
+      "percentual": 6.04,
+      "sqcand": "90001614749"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 128,
+      "percentual": 4.93,
+      "sqcand": "90001614055"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 90,
+      "percentual": 3.46,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "ZACARIAS CALIL HAMU",
+      "nomeUrna": "DR ZACHARIAS CALIL",
+      "partido": "UNIÃO",
+      "numero": "4480",
+      "votos": 54,
+      "percentual": 2.08,
+      "sqcand": "90001614746"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RUBENS MARQUES VIEIRA DOS SANTOS",
+      "nomeUrna": "RUBENS MARQUES",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 729,
+      "percentual": 28.55,
+      "sqcand": "90001648402"
+    },
+    {
+      "nome": "GUSTAVO KOPPAN FAIAD SEBBA",
+      "nomeUrna": "GUSTAVO SEBBA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 430,
+      "percentual": 16.84,
+      "sqcand": "90001647430"
+    },
+    {
+      "nome": "FELIPE CORTES BEZERRA",
+      "nomeUrna": "FELIPE CORTÊS",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 230,
+      "percentual": 9.01,
+      "sqcand": "90001602726"
+    },
+    {
+      "nome": "GEORGE MORAIS FERREIRA",
+      "nomeUrna": "DR GEORGE MORAIS",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 128,
+      "percentual": 5.01,
+      "sqcand": "90001611924"
+    },
+    {
+      "nome": "LINCOLN GRAZIANI PEREIRA DA ROCHA TEJOTA",
+      "nomeUrna": "LINCOLN TEJOTA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 104,
+      "percentual": 4.07,
+      "sqcand": "90001648385"
+    },
+    {
+      "nome": "ANDRE LUIZ GOMES GONTIJO",
+      "nomeUrna": "ANDRE DO PREMIUM",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 54,
+      "percentual": 2.12,
+      "sqcand": "90001651107"
+    },
+    {
+      "nome": "CHARLES BENTO EVANGELISTA",
+      "nomeUrna": "CHARLES BENTO",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 54,
+      "percentual": 2.12,
+      "sqcand": "90001653182"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 2010,
+  "votosValidos": 1717,
+  "abstencao": 10.8,
+  "prefeito": {
+    "nome": "VICTOR RAMON ALVES",
+    "nomeUrna": "RAMON",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1377,
+    "percentual": 80.2,
+    "situacao": "Eleito",
+    "sqcand": "200002010305",
+    "vice": "SELCINA GOMES DE OLIVEIRA NETA LOPES",
+    "viceNomeUrna": "SELCINA LOPES",
+    "partidoVice": "PSDB",
+    "sqcandVice": "200002010306",
+    "coligacao": "PP / UNIÃO / CIDADANIA / PSDB / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "RAIMUNDO NONATO LOPES DA SILVA",
+      "nomeUrna": "RAIMUNDO LOPES",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 313,
+      "percentual": 18.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002044617"
+    },
+    {
+      "nome": "EVARISTA NETA MARTINS SILVERIO GARCIA",
+      "nomeUrna": "EVARISTA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 178,
+      "percentual": 10.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002044620"
+    },
+    {
+      "nome": "AMERICO SOLANO LOPES NETO",
+      "nomeUrna": "AMÉRICO LOPES",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 171,
+      "percentual": 9.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002044626"
+    },
+    {
+      "nome": "LEÔNIDAS DE OLIVEIRA FORTE",
+      "nomeUrna": "LEÔNIDAS FORTE",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 170,
+      "percentual": 9.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002044625"
+    },
+    {
+      "nome": "FRANCISCO VALDIZIO SABINO JÚNIOR",
+      "nomeUrna": "JUNINHO DE ZÉ DE BENTO",
+      "partido": "REDE",
+      "numero": "18888",
+      "votos": 163,
+      "percentual": 9.42,
+      "situacao": "Eleito por média",
+      "sqcand": "200002310081"
+    },
+    {
+      "nome": "JOSE OLIVEIRA FILHO",
+      "nomeUrna": "OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 152,
+      "percentual": 8.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002044621"
+    },
+    {
+      "nome": "MARIA HELENA DE OLIVEIRA LIMA",
+      "nomeUrna": "MARIA HELENA",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 143,
+      "percentual": 8.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002044624"
+    },
+    {
+      "nome": "MANOEL GILBERTO LOPES",
+      "nomeUrna": "CIBALENA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 130,
+      "percentual": 7.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002044619"
+    },
+    {
+      "nome": "MARCIO CHRISTIAM SABINO LEANDRO",
+      "nomeUrna": "MÁRCIO DO CAMINHÃO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 107,
+      "percentual": 6.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002044618"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 923,
+      "percentual": 75.59,
+      "sqcand": "200001612334"
+    },
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 181,
+      "percentual": 14.82,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 109,
+      "percentual": 8.93,
+      "sqcand": "200001638556"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ BENES LEOCÁDIO DE ARAÚJO",
+      "nomeUrna": "BENES LEOCÁDIO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 966,
+      "percentual": 70.61,
+      "sqcand": "200001608805"
+    },
+    {
+      "nome": "INÁCIO BRILHANTE DE ARAÚJO FILHO",
+      "nomeUrna": "MAJOR BRILHANTE",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 107,
+      "percentual": 7.82,
+      "sqcand": "200001600545"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 52,
+      "percentual": 3.8,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "LAWRENCE CARLOS AMORIM DE ARAUJO",
+      "nomeUrna": "LAWRENCE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7778",
+      "votos": 30,
+      "percentual": 2.19,
+      "sqcand": "200001601298"
+    },
+    {
+      "nome": "HILKEA CARLA DE SOUZA MEDEIROS LIMA",
+      "nomeUrna": "CARLA DICKSON",
+      "partido": "UNIÃO",
+      "numero": "4411",
+      "votos": 25,
+      "percentual": 1.83,
+      "sqcand": "200001608803"
+    },
+    {
+      "nome": "KALINE CRISTIANE FERREIRA DE ANDRADE AMORIM",
+      "nomeUrna": "KALINE DE DR BERNARDO",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 20,
+      "percentual": 1.46,
+      "sqcand": "200001653699"
+    },
+    {
+      "nome": "CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO",
+      "nomeUrna": "BETO ROSADO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 19,
+      "percentual": 1.39,
+      "sqcand": "200001600544"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BERNARDO CÉSAR CARLOS BELARMINO DE AMORIM",
+      "nomeUrna": "DR BERNARDO AMORIM",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 827,
+      "percentual": 63.37,
+      "sqcand": "200001605989"
+    },
+    {
+      "nome": "GETÚLIO NUNES DO RÊGO",
+      "nomeUrna": "GETULIO REGO",
+      "partido": "PSDB",
+      "numero": "45110",
+      "votos": 161,
+      "percentual": 12.34,
+      "sqcand": "200001606003"
+    },
+    {
+      "nome": "JOSÉ IVANILSON ALVES DE OLIVEIRA",
+      "nomeUrna": "IVANILSON OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 51,
+      "percentual": 3.91,
+      "sqcand": "200001652910"
+    },
+    {
+      "nome": "FRANCISCO SALISMAR LOPES CORREIA",
+      "nomeUrna": "DR SALISMAR",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 34,
+      "percentual": 2.61,
+      "sqcand": "200001604190"
+    },
+    {
+      "nome": "ANAXIMANDRO RODRIGUES DO VALE COSTA",
+      "nomeUrna": "DR. ANAX",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 31,
+      "percentual": 2.38,
+      "sqcand": "200001652908"
+    },
+    {
+      "nome": "JOSÉ GALENO DIÓGENES TORQUATO",
+      "nomeUrna": "GALENO TORQUATO",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 21,
+      "percentual": 1.61,
+      "sqcand": "200001605995"
+    },
+    {
+      "nome": "MARIA ISOLDA DANTAS DE MOURA",
+      "nomeUrna": "ISOLDA DANTAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 18,
+      "percentual": 1.38,
+      "sqcand": "200001603626"
+    }
+  ]
+}

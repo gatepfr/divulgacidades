@@ -1,0 +1,271 @@
+{
+  "populacao": 5339,
+  "votosValidos": 4463,
+  "abstencao": 14.87,
+  "prefeito": {
+    "nome": "RONALDO TINTI",
+    "nomeUrna": "RONALDO TINTI",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2415,
+    "percentual": 54.11,
+    "situacao": "Eleito",
+    "sqcand": "160002013760",
+    "vice": "AILSON SOUTO CAMPOS",
+    "viceNomeUrna": "AILSON PICARETA",
+    "partidoVice": "PP",
+    "sqcandVice": "160002013761",
+    "coligacao": "PSD / PP / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "ADRIANA DE SOUZA MOREIRA",
+      "nomeUrna": "ADRIANA MOREIRA",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 392,
+      "percentual": 8.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002013772"
+    },
+    {
+      "nome": "VALDELEI APARECIDO NASCIMENTO",
+      "nomeUrna": "DELEI NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 326,
+      "percentual": 7.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001948558"
+    },
+    {
+      "nome": "SILVANIA REGINA STEVANELLI MOREIRA",
+      "nomeUrna": "PROFESSORA SILVANIA STEVANELLI",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 248,
+      "percentual": 5.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001948542"
+    },
+    {
+      "nome": "PAULO SERGIO ARIAS",
+      "nomeUrna": "PAULINHO",
+      "partido": "UNIÃO",
+      "numero": "44569",
+      "votos": 233,
+      "percentual": 5.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001948563"
+    },
+    {
+      "nome": "ADILSON CAMPOS DE ARAUJO",
+      "nomeUrna": "DIU",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 223,
+      "percentual": 5.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002013781"
+    },
+    {
+      "nome": "LUCILENE BONATO DE MELO",
+      "nomeUrna": "SALENE DA SAUDE",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 206,
+      "percentual": 4.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002013780"
+    },
+    {
+      "nome": "MARCELO VITORIANO CAMPOS",
+      "nomeUrna": "MARCELO BORNS",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 189,
+      "percentual": 4.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002013788"
+    },
+    {
+      "nome": "JOSE CARLOS DA SILVA",
+      "nomeUrna": "ZÉ DO PASSO A PASSO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 187,
+      "percentual": 4.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002013575"
+    },
+    {
+      "nome": "VALDIR NUNES DE SOUZA",
+      "nomeUrna": "DI BAIANO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 138,
+      "percentual": 3.1,
+      "situacao": "Eleito por média",
+      "sqcand": "160002013776"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1613,
+      "percentual": 44.26,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1283,
+      "percentual": 35.21,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 503,
+      "percentual": 13.8,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CLAUDIO APARECIDO ALVES PALOZI",
+      "nomeUrna": "CLAUDIO PALOZI",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 2116,
+      "percentual": 54.98,
+      "sqcand": "160001621831"
+    },
+    {
+      "nome": "HERMES PARCIANELLO",
+      "nomeUrna": "HERMES FRANGAO PARCIANELLO",
+      "partido": "MDB",
+      "numero": "1540",
+      "votos": 401,
+      "percentual": 10.42,
+      "sqcand": "160001614542"
+    },
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 335,
+      "percentual": 8.7,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 164,
+      "percentual": 4.26,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 149,
+      "percentual": 3.87,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "RUBENS BUENO",
+      "nomeUrna": "RUBENS BUENO",
+      "partido": "CIDADANIA",
+      "numero": "2300",
+      "votos": 137,
+      "percentual": 3.56,
+      "sqcand": "160001603722"
+    },
+    {
+      "nome": "NEWTON BONIN",
+      "nomeUrna": "NEWTON BONIN",
+      "partido": "UNIÃO",
+      "numero": "4456",
+      "votos": 91,
+      "percentual": 2.36,
+      "sqcand": "160001654658"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 1426,
+      "percentual": 39.02,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "MARCEL HENRIQUE MICHELETTO",
+      "nomeUrna": "MARCEL MICHELETTO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 454,
+      "percentual": 12.42,
+      "sqcand": "160001654935"
+    },
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 391,
+      "percentual": 10.7,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "CRISTIANE GIMENES DA SILVA",
+      "nomeUrna": "CRIS DAS FRUTAS",
+      "partido": "PSD",
+      "numero": "55200",
+      "votos": 230,
+      "percentual": 6.29,
+      "sqcand": "160001623117"
+    },
+    {
+      "nome": "SERGIO PEREIRA JUNIOR",
+      "nomeUrna": "SERGINHO",
+      "partido": "PSB",
+      "numero": "40231",
+      "votos": 213,
+      "percentual": 5.83,
+      "sqcand": "160001621871"
+    },
+    {
+      "nome": "ROGÉRIO JOSÉ LORENZETTI",
+      "nomeUrna": "ROGÉRIO LORENZETTI",
+      "partido": "PSD",
+      "numero": "55550",
+      "votos": 169,
+      "percentual": 4.62,
+      "sqcand": "160001623124"
+    },
+    {
+      "nome": "MAURO RAFAEL MORAES E SILVA",
+      "nomeUrna": "MAURO MORAES",
+      "partido": "UNIÃO",
+      "numero": "44655",
+      "votos": 90,
+      "percentual": 2.46,
+      "sqcand": "160001716038"
+    }
+  ]
+}

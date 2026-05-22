@@ -1,0 +1,271 @@
+{
+  "populacao": 4484,
+  "votosValidos": 3736,
+  "abstencao": 13.43,
+  "prefeito": {
+    "nome": "JOSÉ CÂNDIDO DO NASCIMENTO",
+    "nomeUrna": "ZÉ CÂNDIDO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2677,
+    "percentual": 71.65,
+    "situacao": "Eleito",
+    "sqcand": "90001917634",
+    "vice": "ELISMAR DE JESUS CARDOSO",
+    "viceNomeUrna": "CARDOZIN",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "90001917635",
+    "coligacao": "MDB / PP / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "EDUARDO MESSIAS MELLO DE OLIVEIRA",
+      "nomeUrna": "DUDU DA LOTÉRICA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 285,
+      "percentual": 7.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001917643"
+    },
+    {
+      "nome": "DANILLO SILVA MORAES",
+      "nomeUrna": "DANILLO BENGALLA",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 242,
+      "percentual": 6.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002269046"
+    },
+    {
+      "nome": "LUCAS BRENNO MEDEIROS SOUZA",
+      "nomeUrna": "LUCAS TEVEZ",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 236,
+      "percentual": 6.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001917689"
+    },
+    {
+      "nome": "JOÃO ALVES DA SILVA",
+      "nomeUrna": "JOÃO ALVES JOÃOZINHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 232,
+      "percentual": 6.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001917690"
+    },
+    {
+      "nome": "RODRIGO PIRES PEREIRA",
+      "nomeUrna": "RODRIGO DO GÁS",
+      "partido": "MDB",
+      "numero": "15800",
+      "votos": 212,
+      "percentual": 5.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001917636"
+    },
+    {
+      "nome": "ALTAIR DOMINGOS DE MORAES",
+      "nomeUrna": "IRIM",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 193,
+      "percentual": 5.07,
+      "situacao": "Eleito por média",
+      "sqcand": "90001917694"
+    },
+    {
+      "nome": "RONILDO SILVEIRA SOARES",
+      "nomeUrna": "PEPETA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 182,
+      "percentual": 4.78,
+      "situacao": "Eleito por média",
+      "sqcand": "90001917641"
+    },
+    {
+      "nome": "MILTON DE SOUZA SILVA",
+      "nomeUrna": "MILTON DO JESUS",
+      "partido": "UNIÃO",
+      "numero": "44369",
+      "votos": 164,
+      "percentual": 4.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001928452"
+    },
+    {
+      "nome": "SIRLEIDE RAMOS FERREIRA",
+      "nomeUrna": "LEIDE",
+      "partido": "PSDB",
+      "numero": "45601",
+      "votos": 129,
+      "percentual": 3.39,
+      "situacao": "Eleito por média",
+      "sqcand": "90002268803"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1277,
+      "percentual": 46.25,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 683,
+      "percentual": 24.74,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "ALEXANDRE BALDY DE SANT ANNA BRAGA",
+      "nomeUrna": "ALEXANDRE BALDY",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 321,
+      "percentual": 11.63,
+      "sqcand": "90001609092"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 928,
+      "percentual": 32.24,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "ALCIDES RODRIGUES FILHO",
+      "nomeUrna": "ALCIDES RODRIGUES",
+      "partido": "PATRIOTA",
+      "numero": "5151",
+      "votos": 440,
+      "percentual": 15.29,
+      "sqcand": "90001650877"
+    },
+    {
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nomeUrna": "MARUSSA BOLDRIN",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 336,
+      "percentual": 11.67,
+      "sqcand": "90001621102"
+    },
+    {
+      "nome": "DANNILLO DA CUNHA PEREIRA",
+      "nomeUrna": "DANNILLO PEREIRA",
+      "partido": "PSD",
+      "numero": "5544",
+      "votos": 179,
+      "percentual": 6.22,
+      "sqcand": "90001651579"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 136,
+      "percentual": 4.73,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "DANIEL VIEIRA RAMOS",
+      "nomeUrna": "DANIEL AGROBOM",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 115,
+      "percentual": 4.0,
+      "sqcand": "90001652507"
+    },
+    {
+      "nome": "MAGDA MOFATTO HON",
+      "nomeUrna": "MAGDA MOFATTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 103,
+      "percentual": 3.58,
+      "sqcand": "90001652511"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCAS MARTINS DO VALE",
+      "nomeUrna": "LUCAS DO VALE",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 663,
+      "percentual": 23.94,
+      "sqcand": "90001653165"
+    },
+    {
+      "nome": "CLAUDIO OLINTO MEIRELLES",
+      "nomeUrna": "CLAUDIO MEIRELLES",
+      "partido": "PL",
+      "numero": "22690",
+      "votos": 416,
+      "percentual": 15.02,
+      "sqcand": "90001653803"
+    },
+    {
+      "nome": "KARLOS MÁRCIO VIEIRA CABRAL",
+      "nomeUrna": "KARLOS CABRAL",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 334,
+      "percentual": 12.06,
+      "sqcand": "90001605405"
+    },
+    {
+      "nome": "EDER GEAN SILVA",
+      "nomeUrna": "MAGRAO DA RADIO CLUBE",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 327,
+      "percentual": 11.81,
+      "sqcand": "90001712177"
+    },
+    {
+      "nome": "FRANCISCO GRIMALDI DE LIMA",
+      "nomeUrna": "CHICO KGL",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 264,
+      "percentual": 9.53,
+      "sqcand": "90001648403"
+    },
+    {
+      "nome": "RENATO MENEZES DE CASTRO",
+      "nomeUrna": "RENATO DE CASTRO",
+      "partido": "UNIÃO",
+      "numero": "44500",
+      "votos": 207,
+      "percentual": 7.48,
+      "sqcand": "90001648408"
+    },
+    {
+      "nome": "PAULO CEZAR MARTINS",
+      "nomeUrna": "PAULO CEZAR MARTINS",
+      "partido": "PL",
+      "numero": "22601",
+      "votos": 152,
+      "percentual": 5.49,
+      "sqcand": "90001653821"
+    }
+  ]
+}

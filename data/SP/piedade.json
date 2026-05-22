@@ -1,0 +1,311 @@
+{
+  "populacao": 42060,
+  "votosValidos": 28868,
+  "abstencao": 25.92,
+  "prefeito": {
+    "nome": "GERALDO PINTO DE CAMARGO FILHO",
+    "nomeUrna": "GERALDINHO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 16558,
+    "percentual": 57.36,
+    "situacao": "Eleito",
+    "sqcand": "250002019421",
+    "vice": "RENALDO CORREA DA SILVA",
+    "viceNomeUrna": "NARDO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "250002019420",
+    "coligacao": "REPUBLICANOS / PODE / PSD / UNIÃO / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "WANDI AUGUSTO RODRIGUES",
+      "nomeUrna": "WANDI AUGUSTO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1149,
+      "percentual": 4.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002046916"
+    },
+    {
+      "nome": "ALEXANDRE PEREIRA",
+      "nomeUrna": "XANDINHO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 888,
+      "percentual": 3.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002047306"
+    },
+    {
+      "nome": "ISIDORO POLY DE BRITO",
+      "nomeUrna": "ISIDORO POLY",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 886,
+      "percentual": 3.15,
+      "situacao": "Eleito por média",
+      "sqcand": "250002047304"
+    },
+    {
+      "nome": "LUCELINO PRESTES DA SILVA",
+      "nomeUrna": "GORDO DO BUFFET",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 879,
+      "percentual": 3.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001942420"
+    },
+    {
+      "nome": "CAIO CEZAR DA SILVA MARTORI",
+      "nomeUrna": "CAIO MARTORI",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 819,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "250002201256"
+    },
+    {
+      "nome": "PAULINO FLORENCIO PINTO",
+      "nomeUrna": "PAULINO ENFERMEIRO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 794,
+      "percentual": 2.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002046858"
+    },
+    {
+      "nome": "ALEX PINHEIRO DA SILVA",
+      "nomeUrna": "ALEX SILVA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 749,
+      "percentual": 2.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002203830"
+    },
+    {
+      "nome": "JOSÉ ANESIO XAVIER LEMES",
+      "nomeUrna": "ZÉ ANESIO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 705,
+      "percentual": 2.51,
+      "situacao": "Eleito por média",
+      "sqcand": "250002046906"
+    },
+    {
+      "nome": "ADILSON CASTANHO",
+      "nomeUrna": "ADILSON CASTANHO TIRSO",
+      "partido": "PSD",
+      "numero": "55007",
+      "votos": 678,
+      "percentual": 2.41,
+      "situacao": "Eleito por média",
+      "sqcand": "250002046859"
+    },
+    {
+      "nome": "JEFERSON DONISETE CARDOSO",
+      "nomeUrna": "JEFERSON TATU",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 628,
+      "percentual": 2.23,
+      "situacao": "Eleito por média",
+      "sqcand": "250002047302"
+    },
+    {
+      "nome": "NILZA MARIA DOS SANTOS GODINHO",
+      "nomeUrna": "CHUCA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 621,
+      "percentual": 2.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002013280"
+    },
+    {
+      "nome": "EDVALDO VICENTE FERREIRA",
+      "nomeUrna": "VARDINHO LEITES",
+      "partido": "PSB",
+      "numero": "40606",
+      "votos": 483,
+      "percentual": 1.72,
+      "situacao": "Eleito por média",
+      "sqcand": "250001942421"
+    },
+    {
+      "nome": "LUKAS ADALTO OLIVEIRA MORAES",
+      "nomeUrna": "LUKAS MORAES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 478,
+      "percentual": 1.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002130944"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 13665,
+      "percentual": 54.05,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 7539,
+      "percentual": 29.82,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 3178,
+      "percentual": 12.57,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VITOR LIPPI",
+      "nomeUrna": "VITOR LIPPI",
+      "partido": "PSDB",
+      "numero": "4510",
+      "votos": 5873,
+      "percentual": 21.74,
+      "sqcand": "250001612095"
+    },
+    {
+      "nome": "ALEXANDRE LEITE DA SILVA",
+      "nomeUrna": "ALEXANDRE LEITE",
+      "partido": "UNIÃO",
+      "numero": "4425",
+      "votos": 2081,
+      "percentual": 7.7,
+      "sqcand": "250001602036"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 1083,
+      "percentual": 4.01,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "ENRICO VAN BLARCUM DE GRAAFF MISASI",
+      "nomeUrna": "ENRICO MISASI",
+      "partido": "MDB",
+      "numero": "1536",
+      "votos": 964,
+      "percentual": 3.57,
+      "sqcand": "250001611248"
+    },
+    {
+      "nome": "IARA BERNARDI",
+      "nomeUrna": "IARA BERNARDI COLETIVA ELAS",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 961,
+      "percentual": 3.56,
+      "sqcand": "250001610701"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 745,
+      "percentual": 2.76,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "GUILHERME MURARO DERRITE",
+      "nomeUrna": "CAPITÃO DERRITE",
+      "partido": "PL",
+      "numero": "2290",
+      "votos": 666,
+      "percentual": 2.46,
+      "sqcand": "250001611359"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARIA LUCIA CARDOSO PINTO AMARY",
+      "nomeUrna": "MARIA LUCIA AMARY",
+      "partido": "PSDB",
+      "numero": "45114",
+      "votos": 5122,
+      "percentual": 20.41,
+      "sqcand": "250001611490"
+    },
+    {
+      "nome": "EDMIR JOSE ABI CHEDID",
+      "nomeUrna": "EDMIR CHEDID",
+      "partido": "UNIÃO",
+      "numero": "44118",
+      "votos": 2924,
+      "percentual": 11.65,
+      "sqcand": "250001602151"
+    },
+    {
+      "nome": "MILTON LEITE DA SILVA FILHO",
+      "nomeUrna": "MILTON LEITE FILHO",
+      "partido": "UNIÃO",
+      "numero": "44250",
+      "votos": 1632,
+      "percentual": 6.5,
+      "sqcand": "250001602142"
+    },
+    {
+      "nome": "DANILO MASCARENHAS DE BALAS",
+      "nomeUrna": "AGENTE FEDERAL DANILO BALAS",
+      "partido": "PL",
+      "numero": "22007",
+      "votos": 1543,
+      "percentual": 6.15,
+      "sqcand": "250001610117"
+    },
+    {
+      "nome": "JOSÉ ROGERIO SOARES DOS SANTOS",
+      "nomeUrna": "ROGÉRIO SANTOS",
+      "partido": "MDB",
+      "numero": "15363",
+      "votos": 931,
+      "percentual": 3.71,
+      "sqcand": "250001609993"
+    },
+    {
+      "nome": "CAROLINA MALAVAZZI GALVÃO",
+      "nomeUrna": "DRA. CALU - COLETIVA PLURAL",
+      "partido": "PT",
+      "numero": "13513",
+      "votos": 920,
+      "percentual": 3.67,
+      "sqcand": "250001611794"
+    },
+    {
+      "nome": "LEANDRO CÂNDIDO SOARES",
+      "nomeUrna": "LEANDRO SOARES",
+      "partido": "PT",
+      "numero": "13290",
+      "votos": 909,
+      "percentual": 3.62,
+      "sqcand": "250001611741"
+    }
+  ]
+}

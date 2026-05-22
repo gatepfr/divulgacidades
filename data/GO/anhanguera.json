@@ -1,0 +1,271 @@
+{
+  "populacao": 1710,
+  "votosValidos": 1539,
+  "abstencao": 8.65,
+  "prefeito": {
+    "nome": "MARCELO MARTINS DE PAIVA",
+    "nomeUrna": "MARCELO PAIVA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 896,
+    "percentual": 58.22,
+    "situacao": "Eleito",
+    "sqcand": "90001918819",
+    "vice": "FLAVIO SOUSA PEREIRA",
+    "viceNomeUrna": "FLAVIO PEREIRA",
+    "partidoVice": "PDT",
+    "sqcandVice": "90001918820",
+    "coligacao": "MDB / PDT / PP / UNIÃO / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "LUCAS ALESSANDRO MIRANDA GUIMARÃES",
+      "nomeUrna": "LUCAS GUIMARÃES",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 150,
+      "percentual": 9.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001916740"
+    },
+    {
+      "nome": "DERCILIO RODRIGUES DIAS NETO II",
+      "nomeUrna": "DERCILIO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 143,
+      "percentual": 9.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001916734"
+    },
+    {
+      "nome": "MARCO AURÉLIO ROSA",
+      "nomeUrna": "MARCO AURÉLIO (BODIM)",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 114,
+      "percentual": 7.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001912841"
+    },
+    {
+      "nome": "WASHINGTON LUIZ DA SILVA",
+      "nomeUrna": "PROFESSOR WASHINGTON",
+      "partido": "PODE",
+      "numero": "20789",
+      "votos": 110,
+      "percentual": 7.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001904728"
+    },
+    {
+      "nome": "JOSÉ FLANKES LEITE NOBRIGA",
+      "nomeUrna": "FLANKES",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 95,
+      "percentual": 6.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001912899"
+    },
+    {
+      "nome": "REGINALDO ARAÚJO PIRES",
+      "nomeUrna": "REGINALDO ARAÚJO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 86,
+      "percentual": 5.56,
+      "situacao": "Eleito por média",
+      "sqcand": "90001916735"
+    },
+    {
+      "nome": "GABRIEL MIRANDA BARBOSA",
+      "nomeUrna": "GABRIEL BARBOSA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 79,
+      "percentual": 5.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001912846"
+    },
+    {
+      "nome": "WELTON JOSÉ DA SILVA",
+      "nomeUrna": "WELTON LATINHA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 76,
+      "percentual": 4.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001904731"
+    },
+    {
+      "nome": "WESLEY MARIANO BORGES",
+      "nomeUrna": "WESLEY",
+      "partido": "PODE",
+      "numero": "20234",
+      "votos": 75,
+      "percentual": 4.85,
+      "situacao": "Eleito por média",
+      "sqcand": "90001904729"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 306,
+      "percentual": 37.18,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 249,
+      "percentual": 30.26,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 109,
+      "percentual": 13.24,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+      "nomeUrna": "JOSÉ NELTO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 197,
+      "percentual": 23.12,
+      "sqcand": "90001700974"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 192,
+      "percentual": 22.54,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 138,
+      "percentual": 16.2,
+      "sqcand": "90001614055"
+    },
+    {
+      "nome": "EVANDO MAGAL ABADIA CORREIA SILVA",
+      "nomeUrna": "MAGAL",
+      "partido": "PATRIOTA",
+      "numero": "5111",
+      "votos": 59,
+      "percentual": 6.92,
+      "sqcand": "90001650886"
+    },
+    {
+      "nome": "EDSON LUÍS SOUZA MELO ROCHA",
+      "nomeUrna": "CORONEL EDSON RAIADO",
+      "partido": "AVANTE",
+      "numero": "7090",
+      "votos": 41,
+      "percentual": 4.81,
+      "sqcand": "90001650669"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 20,
+      "percentual": 2.35,
+      "sqcand": "90001652508"
+    },
+    {
+      "nome": "MÁRCIO AURÉLIO CORREA",
+      "nomeUrna": "MÁRCIO CORREA",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 20,
+      "percentual": 2.35,
+      "sqcand": "90001621104"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JAMIL SEBBA CALIFE",
+      "nomeUrna": "JAMIL CALIFE",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 330,
+      "percentual": 39.05,
+      "sqcand": "90001712193"
+    },
+    {
+      "nome": "GUSTAVO KOPPAN FAIAD SEBBA",
+      "nomeUrna": "GUSTAVO SEBBA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 123,
+      "percentual": 14.56,
+      "sqcand": "90001647430"
+    },
+    {
+      "nome": "RODRIGO ALVES CARVELO",
+      "nomeUrna": "RODRIGAO CARVELO",
+      "partido": "PRTB",
+      "numero": "28456",
+      "votos": 104,
+      "percentual": 12.31,
+      "sqcand": "90001644195"
+    },
+    {
+      "nome": "ÁLVARO SOARES GUIMARÃES",
+      "nomeUrna": "ÁLVARO GUIMARÃES",
+      "partido": "UNIÃO",
+      "numero": "44122",
+      "votos": 81,
+      "percentual": 9.59,
+      "sqcand": "90001648390"
+    },
+    {
+      "nome": "HENRIQUE CÉSAR PEREIRA",
+      "nomeUrna": "HENRIQUE CÉSAR",
+      "partido": "PSC",
+      "numero": "20100",
+      "votos": 54,
+      "percentual": 6.39,
+      "sqcand": "90001645561"
+    },
+    {
+      "nome": "LUIZ GUSTAVO ROSA SAMPAIO",
+      "nomeUrna": "LUIZ SAMPAIO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 48,
+      "percentual": 5.68,
+      "sqcand": "90001643092"
+    },
+    {
+      "nome": "GEORGE MORAIS FERREIRA",
+      "nomeUrna": "DR GEORGE MORAIS",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 11,
+      "percentual": 1.3,
+      "sqcand": "90001611924"
+    }
+  ]
+}

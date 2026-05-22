@@ -1,0 +1,271 @@
+{
+  "populacao": 10450,
+  "votosValidos": 7773,
+  "abstencao": 22.64,
+  "prefeito": {
+    "nome": "CLEBERSON DUARTE DE SOUZA",
+    "nomeUrna": "CLEBER",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 4789,
+    "percentual": 61.61,
+    "situacao": "Eleito",
+    "sqcand": "250002200048",
+    "vice": "MURILO GOMES DE OLIVEIRA",
+    "viceNomeUrna": "MURILO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "250002200049",
+    "coligacao": "PP / MDB / PL / PSB / UNIÃO / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "RICARDO MARTINI",
+      "nomeUrna": "RICARDO FARMACÊUTICO",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 368,
+      "percentual": 4.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002230560"
+    },
+    {
+      "nome": "ANTÔNIO ALVES CORREIA",
+      "nomeUrna": "TONINHO DA AMBULÂNCIA",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 310,
+      "percentual": 4.0,
+      "situacao": "Eleito por média",
+      "sqcand": "250002230561"
+    },
+    {
+      "nome": "GIAN LEONARDO DE ALMEIDA PIMENTEL",
+      "nomeUrna": "GIAN ALMEIDA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 267,
+      "percentual": 3.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002230852"
+    },
+    {
+      "nome": "EDSON LUIS HENRIQUE",
+      "nomeUrna": "LUIS ENFERMEIRO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 256,
+      "percentual": 3.3,
+      "situacao": "Eleito por média",
+      "sqcand": "250002297972"
+    },
+    {
+      "nome": "REGINALDO ANTONIO DE OLIVEIRA",
+      "nomeUrna": "GORDINHO DA AMBULANCIA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 226,
+      "percentual": 2.92,
+      "situacao": "Eleito por média",
+      "sqcand": "250002230814"
+    },
+    {
+      "nome": "EDSON SOARES DA CRUZ",
+      "nomeUrna": "SOM",
+      "partido": "AVANTE",
+      "numero": "70678",
+      "votos": 219,
+      "percentual": 2.83,
+      "situacao": "Eleito por média",
+      "sqcand": "250002231143"
+    },
+    {
+      "nome": "EUDES DA SILVA LEONARDO",
+      "nomeUrna": "EUDES LEONARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 204,
+      "percentual": 2.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002297654"
+    },
+    {
+      "nome": "MARIA CRISTINA DOS SANTOS",
+      "nomeUrna": "CRISTINA DO HOSPITAL",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 178,
+      "percentual": 2.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002230874"
+    },
+    {
+      "nome": "MARCELO BALLONI",
+      "nomeUrna": "MARCELO BALLONI",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 169,
+      "percentual": 2.18,
+      "situacao": "Eleito por média",
+      "sqcand": "250002230859"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4019,
+      "percentual": 57.52,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 2264,
+      "percentual": 32.4,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 480,
+      "percentual": 6.87,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GUILHERME PIAI SILVA FILIZZOLA",
+      "nomeUrna": "GUILHERME PIAI",
+      "partido": "REPUBLICANOS",
+      "numero": "1018",
+      "votos": 977,
+      "percentual": 13.6,
+      "sqcand": "250001611903"
+    },
+    {
+      "nome": "RICARDO IZAR JUNIOR",
+      "nomeUrna": "RICARDO IZAR",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 842,
+      "percentual": 11.72,
+      "sqcand": "250001611892"
+    },
+    {
+      "nome": "GUILHERME MURARO DERRITE",
+      "nomeUrna": "CAPITÃO DERRITE",
+      "partido": "PL",
+      "numero": "2290",
+      "votos": 630,
+      "percentual": 8.77,
+      "sqcand": "250001611359"
+    },
+    {
+      "nome": "FERNANDO JOSE DE SOUZA MARANGONI",
+      "nomeUrna": "MARANGONI",
+      "partido": "UNIÃO",
+      "numero": "4440",
+      "votos": 323,
+      "percentual": 4.5,
+      "sqcand": "250001602079"
+    },
+    {
+      "nome": "NILTO IGNÁCIO TATTO",
+      "nomeUrna": "NILTO TATTO",
+      "partido": "PT",
+      "numero": "1353",
+      "votos": 302,
+      "percentual": 4.2,
+      "sqcand": "250001610688"
+    },
+    {
+      "nome": "FAUSTO RUY PINATO",
+      "nomeUrna": "FAUSTO PINATO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 204,
+      "percentual": 2.84,
+      "sqcand": "250001611957"
+    },
+    {
+      "nome": "SÂMIA DE SOUZA BOMFIM",
+      "nomeUrna": "SÂMIA BOMFIM",
+      "partido": "PSOL",
+      "numero": "5000",
+      "votos": 186,
+      "percentual": 2.59,
+      "sqcand": "250001613762"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 719,
+      "percentual": 10.67,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 642,
+      "percentual": 9.53,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "THIAGO REIS AURICCHIO",
+      "nomeUrna": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "numero": "22343",
+      "votos": 490,
+      "percentual": 7.27,
+      "sqcand": "250001610134"
+    },
+    {
+      "nome": "MARIA CONSTANTINO EMIDIO",
+      "nomeUrna": "MARIA CONSTANTINO",
+      "partido": "PSD",
+      "numero": "55033",
+      "votos": 387,
+      "percentual": 5.75,
+      "sqcand": "250001605038"
+    },
+    {
+      "nome": "MARCIA APARECIDA OVEJANEDA LIA",
+      "nomeUrna": "MARCIA LIA",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 256,
+      "percentual": 3.8,
+      "sqcand": "250001611775"
+    },
+    {
+      "nome": "IZAQUE JOSÉ DA SILVA",
+      "nomeUrna": "IZAQUE SILVA",
+      "partido": "PL",
+      "numero": "22567",
+      "votos": 242,
+      "percentual": 3.59,
+      "sqcand": "250001610176"
+    },
+    {
+      "nome": "MAURO MARQUES DAS NEVES",
+      "nomeUrna": "MAURO NEVES",
+      "partido": "PODE",
+      "numero": "19190",
+      "votos": 172,
+      "percentual": 2.55,
+      "sqcand": "250001610476"
+    }
+  ]
+}

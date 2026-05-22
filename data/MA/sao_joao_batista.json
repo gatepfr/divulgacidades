@@ -1,0 +1,291 @@
+{
+  "populacao": 20824,
+  "votosValidos": 16929,
+  "abstencao": 16.5,
+  "prefeito": {
+    "nome": "EMERSON LIVIO SOARES PINTO",
+    "nomeUrna": "MECINHO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 8141,
+    "percentual": 48.09,
+    "situacao": "Eleito",
+    "sqcand": "100002291038",
+    "vice": "WILLIAM PENHA BARROS",
+    "viceNomeUrna": "WILLAME BARROS ",
+    "partidoVice": "PSDB",
+    "sqcandVice": "100002291037",
+    "coligacao": "REPUBLICANOS / SOLIDARIEDADE / PRTB / CIDADANIA / PSDB / DC"
+  },
+  "vereadores": [
+    {
+      "nome": "LEONARDO DE RIBAMAR FERREIRA PINTO",
+      "nomeUrna": "LEO PINTO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77333",
+      "votos": 1009,
+      "percentual": 5.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002335300"
+    },
+    {
+      "nome": "VANDERLEY FREIRE FONSECA",
+      "nomeUrna": "IVAN",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 630,
+      "percentual": 3.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002335306"
+    },
+    {
+      "nome": "JOÃO BATISTA PENHA CUTRIM",
+      "nomeUrna": "LOURO",
+      "partido": "PRTB",
+      "numero": "28888",
+      "votos": 576,
+      "percentual": 3.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002334793"
+    },
+    {
+      "nome": "CLAUDIANE COSTA GOMES",
+      "nomeUrna": "CLAUDIA GOMES",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 547,
+      "percentual": 3.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002288252"
+    },
+    {
+      "nome": "JONISMAN MOTA SOARES",
+      "nomeUrna": "MEMENCA ",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77234",
+      "votos": 518,
+      "percentual": 3.04,
+      "situacao": "Eleito por média",
+      "sqcand": "100002335303"
+    },
+    {
+      "nome": "FRANCISCO FURTADO PENHA",
+      "nomeUrna": "CABEÇA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 493,
+      "percentual": 2.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002351202"
+    },
+    {
+      "nome": "TALES LIMA PINHEIRO",
+      "nomeUrna": "TALES PINHEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10345",
+      "votos": 491,
+      "percentual": 2.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002291603"
+    },
+    {
+      "nome": "SIMIÃO FERREIRA FILHO",
+      "nomeUrna": "SIMIÃOZINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 475,
+      "percentual": 2.79,
+      "situacao": "Eleito por média",
+      "sqcand": "100002291600"
+    },
+    {
+      "nome": "AILTON DE JESUS COSTA FERREIRA",
+      "nomeUrna": "AILTON DO SINDICATO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 463,
+      "percentual": 2.72,
+      "situacao": "Eleito por média",
+      "sqcand": "100002288256"
+    },
+    {
+      "nome": "FRANCISCO PINTO SANTOS",
+      "nomeUrna": "CHICO DE NHOZINHO",
+      "partido": "PV",
+      "numero": "43123",
+      "votos": 458,
+      "percentual": 2.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002289808"
+    },
+    {
+      "nome": "MARIO DINIZ SERRA FREIRE JUNIOR",
+      "nomeUrna": "JUNIOR DE MONTINHA",
+      "partido": "PRTB",
+      "numero": "28123",
+      "votos": 371,
+      "percentual": 2.18,
+      "situacao": "Eleito por média",
+      "sqcand": "100002334791"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 10806,
+      "percentual": 83.52,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 1998,
+      "percentual": 15.44,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "IVO NOGUEIRA",
+      "nomeUrna": "PASTOR IVO NOGUEIRA",
+      "partido": "DC",
+      "numero": "277",
+      "votos": 62,
+      "percentual": 0.48,
+      "sqcand": "100001613450"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALUISIO GUIMARAES MENDES FILHO",
+      "nomeUrna": "ALUISIO MENDES",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 2157,
+      "percentual": 15.77,
+      "sqcand": "100001615465"
+    },
+    {
+      "nome": "JOSIMAR CUNHA RODRIGUES",
+      "nomeUrna": "JOSIMAR MARANHÃOZINHO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1165,
+      "percentual": 8.51,
+      "sqcand": "100001603114"
+    },
+    {
+      "nome": "GILLIANO FRED NASCIMENTO CUTRIM",
+      "nomeUrna": "GIL CUTRIM",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 892,
+      "percentual": 6.52,
+      "sqcand": "100001602010"
+    },
+    {
+      "nome": "ANTONIO DA CRUZ FILGUEIRA NETO",
+      "nomeUrna": "MARRECA FILHO",
+      "partido": "PATRIOTA",
+      "numero": "5122",
+      "votos": 888,
+      "percentual": 6.49,
+      "sqcand": "100001608201"
+    },
+    {
+      "nome": "RUBENS PEREIRA E SILVA JUNIOR",
+      "nomeUrna": "RUBENS PEREIRA JR",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 709,
+      "percentual": 5.18,
+      "sqcand": "100001613704"
+    },
+    {
+      "nome": "JOAQUIM UMBELINO RIBEIRO JUNIOR",
+      "nomeUrna": "UMBELINO JUNIOR",
+      "partido": "PL",
+      "numero": "2266",
+      "votos": 645,
+      "percentual": 4.71,
+      "sqcand": "100001603097"
+    },
+    {
+      "nome": "EDISON LOBÃO FILHO",
+      "nomeUrna": "LOBÃO FILHO",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 644,
+      "percentual": 4.71,
+      "sqcand": "100001599076"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "KARLOS PARABUCU SANTOS FIGUEIREDO DOS ANJOS",
+      "nomeUrna": "PARÁ FIGUEIREDO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 2984,
+      "percentual": 23.37,
+      "sqcand": "100001603171"
+    },
+    {
+      "nome": "GLALBERT NASCIMENTO CUTRIM",
+      "nomeUrna": "GLALBERT CUTRIM ",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 2114,
+      "percentual": 16.56,
+      "sqcand": "100001599573"
+    },
+    {
+      "nome": "EDSON CUNHA DE ARAUJO",
+      "nomeUrna": "EDSON ARAUJO",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 715,
+      "percentual": 5.6,
+      "sqcand": "100001607088"
+    },
+    {
+      "nome": "ANDREIA LOPES MARTINS REZENDE",
+      "nomeUrna": "ANDREIA MARTINS REZENDE",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 632,
+      "percentual": 4.95,
+      "sqcand": "100001607086"
+    },
+    {
+      "nome": "MARCIO AUGUSTO VASCONCELOS COUTINHO",
+      "nomeUrna": "MARCIO COUTINHO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 541,
+      "percentual": 4.24,
+      "sqcand": "100001606616"
+    },
+    {
+      "nome": "FERNANDO SALIM BRAIDE",
+      "nomeUrna": "FERNANDO BRAIDE",
+      "partido": "PSC",
+      "numero": "20000",
+      "votos": 466,
+      "percentual": 3.65,
+      "sqcand": "100001620079"
+    },
+    {
+      "nome": "JOSÉ ADRIANO CORDEIRO SARNEY",
+      "nomeUrna": "ADRIANO SARNEY",
+      "partido": "PV",
+      "numero": "43123",
+      "votos": 403,
+      "percentual": 3.16,
+      "sqcand": "100001613730"
+    }
+  ]
+}

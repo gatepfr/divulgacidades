@@ -1,0 +1,291 @@
+{
+  "populacao": 10501,
+  "votosValidos": 8535,
+  "abstencao": 17.2,
+  "prefeito": {
+    "nome": "ANTONIO BRUNO CARDOSO DOS SANTOS",
+    "nomeUrna": "PETECA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 4558,
+    "percentual": 53.4,
+    "situacao": "Eleito",
+    "sqcand": "100002172120",
+    "vice": "HERCILIO PEREIRA DOS SANTOS JUNIOR",
+    "viceNomeUrna": "JUNIOR",
+    "partidoVice": "PRD",
+    "sqcandVice": "100002172121",
+    "coligacao": "PL / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "TATIANE DA SILVA SOUSA",
+      "nomeUrna": "TATI DO TOINHO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 616,
+      "percentual": 7.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002171943"
+    },
+    {
+      "nome": "FRANCISCO WILAME VASCONCELOS PASSOS",
+      "nomeUrna": "WILAME",
+      "partido": "PRD",
+      "numero": "25777",
+      "votos": 510,
+      "percentual": 5.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002219007"
+    },
+    {
+      "nome": "FERNANDO DE OLIVEIRA COSTA",
+      "nomeUrna": "FERNANDO DO COQUINHO",
+      "partido": "PRD",
+      "numero": "25333",
+      "votos": 471,
+      "percentual": 5.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002219006"
+    },
+    {
+      "nome": "ALEX CAVALCANTE LIMA",
+      "nomeUrna": "ALEX DO DEMAR",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 461,
+      "percentual": 5.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002218746"
+    },
+    {
+      "nome": "LAURECI DA SILVA DE SOUSA",
+      "nomeUrna": "LAURECI DOURADO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 446,
+      "percentual": 5.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002196610"
+    },
+    {
+      "nome": "IGOR CRISTENE DA CONCEICAO SILVA",
+      "nomeUrna": "IGOR DO BRANCO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 444,
+      "percentual": 5.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002218739"
+    },
+    {
+      "nome": "GEOVANE AGUIAR DOS SANTOS",
+      "nomeUrna": "GEOVANE DA DÔRA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 443,
+      "percentual": 5.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002218737"
+    },
+    {
+      "nome": "MARALICE ALMEIDA PINTO SANTANA",
+      "nomeUrna": "JUÇA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 440,
+      "percentual": 5.15,
+      "situacao": "Eleito por média",
+      "sqcand": "100002218736"
+    },
+    {
+      "nome": "JARDEL ALVES COSTA",
+      "nomeUrna": "JARDEL DO FANTA",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 389,
+      "percentual": 4.56,
+      "situacao": "Eleito por média",
+      "sqcand": "100002219012"
+    },
+    {
+      "nome": "MARCOS ALENCAR DA SILVA",
+      "nomeUrna": "MARQUINHOS DO MESSIAS",
+      "partido": "PP",
+      "numero": "11110",
+      "votos": 282,
+      "percentual": 3.3,
+      "situacao": "Eleito por média",
+      "sqcand": "100002196611"
+    },
+    {
+      "nome": "MARCOS ANTONIO PEREIRA DE SOUSA",
+      "nomeUrna": "VANDERLEI DO CEREZO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 240,
+      "percentual": 2.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002171941"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 4922,
+      "percentual": 74.08,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 1687,
+      "percentual": 25.39,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "IVO NOGUEIRA",
+      "nomeUrna": "PASTOR IVO NOGUEIRA",
+      "partido": "DC",
+      "numero": "277",
+      "votos": 27,
+      "percentual": 0.41,
+      "sqcand": "100001613450"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSIMAR CUNHA RODRIGUES",
+      "nomeUrna": "JOSIMAR MARANHÃOZINHO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 3076,
+      "percentual": 44.48,
+      "sqcand": "100001603114"
+    },
+    {
+      "nome": "JOSÉ JUSCELINO DOS SANTOS REZENDE FILHO",
+      "nomeUrna": "JUSCELINO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4410",
+      "votos": 1037,
+      "percentual": 14.99,
+      "sqcand": "100001610561"
+    },
+    {
+      "nome": "GILLIANO FRED NASCIMENTO CUTRIM",
+      "nomeUrna": "GIL CUTRIM",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 550,
+      "percentual": 7.95,
+      "sqcand": "100001602010"
+    },
+    {
+      "nome": "ALUISIO GUIMARAES MENDES FILHO",
+      "nomeUrna": "ALUISIO MENDES",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 447,
+      "percentual": 6.46,
+      "sqcand": "100001615465"
+    },
+    {
+      "nome": "JOSÉ LOURENÇO BONFIM JÚNIOR",
+      "nomeUrna": "JÚNIOR LOURENÇO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 307,
+      "percentual": 4.44,
+      "sqcand": "100001603111"
+    },
+    {
+      "nome": "FLAVIA MARIA GOMES PARENTE ALVES MACIEL",
+      "nomeUrna": "FLAVIA ALVES",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 223,
+      "percentual": 3.22,
+      "sqcand": "100001613706"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CARVALHO RIBEIRO",
+      "nomeUrna": "ANDRÉ FUFUCA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 170,
+      "percentual": 2.46,
+      "sqcand": "100001608075"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SOLANGE DE ARAUJO SOUSA",
+      "nomeUrna": "SOLANGE ALMEIDA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 2531,
+      "percentual": 37.87,
+      "sqcand": "100001603166"
+    },
+    {
+      "nome": "FERNANDO ANTONIO VICENTE DOS SANTOS",
+      "nomeUrna": "FERNANDO IPIRANGA",
+      "partido": "PROS",
+      "numero": "90789",
+      "votos": 2355,
+      "percentual": 35.23,
+      "sqcand": "100001599540"
+    },
+    {
+      "nome": "JOSE GEOVANI LOPES DE QUEIROZ JUNIOR",
+      "nomeUrna": "JUNIOR FRANÇA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 484,
+      "percentual": 7.24,
+      "sqcand": "100001608097"
+    },
+    {
+      "nome": "GLALBERT NASCIMENTO CUTRIM",
+      "nomeUrna": "GLALBERT CUTRIM ",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 255,
+      "percentual": 3.82,
+      "sqcand": "100001599573"
+    },
+    {
+      "nome": "GUILHERME FONSECA PAZ",
+      "nomeUrna": "GUILHERME PAZ",
+      "partido": "PATRIOTA",
+      "numero": "51000",
+      "votos": 253,
+      "percentual": 3.79,
+      "sqcand": "100001608121"
+    },
+    {
+      "nome": "JESUINO CORDEIRO MENDES JUNIOR",
+      "nomeUrna": "JUNIOR VERDE ",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 109,
+      "percentual": 1.63,
+      "sqcand": "100001602646"
+    },
+    {
+      "nome": "JOSÉ INACIO SODRÉ RODRIGUES",
+      "nomeUrna": "ZÉ INACIO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 95,
+      "percentual": 1.42,
+      "sqcand": "100001613748"
+    }
+  ]
+}

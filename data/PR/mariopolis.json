@@ -1,0 +1,271 @@
+{
+  "populacao": 5510,
+  "votosValidos": 4586,
+  "abstencao": 14.75,
+  "prefeito": {
+    "nome": "MARIO EDUARDO LOPES PAULEK",
+    "nomeUrna": "MARIO PAULEK",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2725,
+    "percentual": 59.42,
+    "situacao": "Eleito",
+    "sqcand": "160002056579",
+    "vice": "SOLANGE DE FATIMA PRESSANTO BELLAN",
+    "viceNomeUrna": "SOLANGE BELLAN",
+    "partidoVice": "MDB",
+    "sqcandVice": "160002056580",
+    "coligacao": "MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "EDIMILSON BOGONI",
+      "nomeUrna": "EDIMILSON BOGONI",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 380,
+      "percentual": 8.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002056800"
+    },
+    {
+      "nome": "SERGIO FRIGOTTO",
+      "nomeUrna": "SERGIO FRIGOTTO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 324,
+      "percentual": 7.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002347126"
+    },
+    {
+      "nome": "LUCIANO MARCOS BELLE",
+      "nomeUrna": "BELLÉ",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 321,
+      "percentual": 7.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002346652"
+    },
+    {
+      "nome": "PEDRO VIEIRA DOS SANTOS",
+      "nomeUrna": "STOF",
+      "partido": "PDT",
+      "numero": "12622",
+      "votos": 293,
+      "percentual": 6.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002347125"
+    },
+    {
+      "nome": "SOLISMAR GERMINIANI DE SOUZA",
+      "nomeUrna": "SOLISMAR GERMINIANI SOMA",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 276,
+      "percentual": 6.15,
+      "situacao": "Eleito por média",
+      "sqcand": "160002347122"
+    },
+    {
+      "nome": "IVANETE ANTONIA BORDIN CASAGRANDE",
+      "nomeUrna": "IVANETE BORDIN",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 265,
+      "percentual": 5.91,
+      "situacao": "Eleito por média",
+      "sqcand": "160002346655"
+    },
+    {
+      "nome": "MARCO ANTONIO DAL SANT",
+      "nomeUrna": "MARCO DAL SANT",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 240,
+      "percentual": 5.35,
+      "situacao": "Eleito por média",
+      "sqcand": "160002056795"
+    },
+    {
+      "nome": "CASTILHO FRANCISCO STANQUEVISKI",
+      "nomeUrna": "CASTILHO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 230,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002057612"
+    },
+    {
+      "nome": "ARTUR GEDOZ",
+      "nomeUrna": "ARTUR GEDOZ",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 224,
+      "percentual": 4.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002057606"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1213,
+      "percentual": 32.15,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1210,
+      "percentual": 32.07,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 858,
+      "percentual": 22.74,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LEANDRE DAL PONTE",
+      "nomeUrna": "LEANDRE",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 1196,
+      "percentual": 30.63,
+      "sqcand": "160001622296"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1028,
+      "percentual": 26.33,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 181,
+      "percentual": 4.64,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "GERSON MAURICIO ZOCCHI",
+      "nomeUrna": "TEN CORONEL ZOCCHI",
+      "partido": "PP",
+      "numero": "1190",
+      "votos": 171,
+      "percentual": 4.38,
+      "sqcand": "160001603303"
+    },
+    {
+      "nome": "DELTAN MARTINAZZO DALLAGNOL",
+      "nomeUrna": "DELTAN DALLAGNOL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 145,
+      "percentual": 3.71,
+      "sqcand": "160001654827"
+    },
+    {
+      "nome": "HILTON SANTIN ROVEDA",
+      "nomeUrna": "SANTIN ROVEDA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 142,
+      "percentual": 3.64,
+      "sqcand": "160001654674"
+    },
+    {
+      "nome": "NELSI COGUETTO MARIA",
+      "nomeUrna": "VERMELHO",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 132,
+      "percentual": 3.38,
+      "sqcand": "160001622020"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ FERNANDO GUERRA FILHO",
+      "nomeUrna": "LUIZ FERNANDO GUERRA",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 1437,
+      "percentual": 39.07,
+      "sqcand": "160001716035"
+    },
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 564,
+      "percentual": 15.33,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 242,
+      "percentual": 6.58,
+      "sqcand": "160001614823"
+    },
+    {
+      "nome": "ALDINO JORGE BUENO",
+      "nomeUrna": "GUGU BUENO",
+      "partido": "PSD",
+      "numero": "55022",
+      "votos": 195,
+      "percentual": 5.3,
+      "sqcand": "160001623097"
+    },
+    {
+      "nome": "LUCIANA GUZELLA RAFAGNIN",
+      "nomeUrna": "LUCIANA RAFAGNIN",
+      "partido": "PT",
+      "numero": "13233",
+      "votos": 157,
+      "percentual": 4.27,
+      "sqcand": "160001615035"
+    },
+    {
+      "nome": "NELSON LAURO LUERSEN",
+      "nomeUrna": "NELSON LUERSEN",
+      "partido": "UNIÃO",
+      "numero": "44680",
+      "votos": 156,
+      "percentual": 4.24,
+      "sqcand": "160001716022"
+    },
+    {
+      "nome": "ADAO FERNANDES DA SILVA",
+      "nomeUrna": "ADAO FERNANDES LITRO",
+      "partido": "PSD",
+      "numero": "55125",
+      "votos": 79,
+      "percentual": 2.15,
+      "sqcand": "160001739397"
+    }
+  ]
+}

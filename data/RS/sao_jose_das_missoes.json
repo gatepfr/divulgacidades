@@ -1,0 +1,271 @@
+{
+  "populacao": 2560,
+  "votosValidos": 2396,
+  "abstencao": 4.77,
+  "prefeito": {
+    "nome": "GILMAR WEBER TOLFO",
+    "nomeUrna": "ALEMÃO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 1357,
+    "percentual": 56.64,
+    "situacao": "Eleito",
+    "sqcand": "210002218586",
+    "vice": "MARCOS ANTÔNIO DAL PUPPO",
+    "viceNomeUrna": "MARQUINHOS",
+    "partidoVice": "PL",
+    "sqcandVice": "210002218587",
+    "coligacao": "PL / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "FABIANO FAOTTO DA FONSECA",
+      "nomeUrna": "FABIANO FONSECA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 207,
+      "percentual": 8.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219300"
+    },
+    {
+      "nome": "DALVAN DA COSTA FLORES",
+      "nomeUrna": "DALVAN FLORES",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 185,
+      "percentual": 7.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219303"
+    },
+    {
+      "nome": "LIANE MAIER HAHNN",
+      "nomeUrna": "LIANE MAIER",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 158,
+      "percentual": 6.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219304"
+    },
+    {
+      "nome": "ALAN NAIRON MACHADO DA SILVA",
+      "nomeUrna": "ALAN MACHADO DA SILVA",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 142,
+      "percentual": 5.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219656"
+    },
+    {
+      "nome": "MÁRCIA ANDRÉIA DAL PUPPO DIAS",
+      "nomeUrna": "MÁRCIA DAL PUPPO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 139,
+      "percentual": 5.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002219301"
+    },
+    {
+      "nome": "MARCIA DA CONCEIÇÃO PICCOLOTTO",
+      "nomeUrna": "MARCIA PICCOLOTTO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 134,
+      "percentual": 5.59,
+      "situacao": "Eleito por média",
+      "sqcand": "210002219655"
+    },
+    {
+      "nome": "REUEL DE OLIVEIRA PINHEIRO",
+      "nomeUrna": "REUEL PINHEIRO",
+      "partido": "PDT",
+      "numero": "12555",
+      "votos": 130,
+      "percentual": 5.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002265279"
+    },
+    {
+      "nome": "VANDERLEI PAULO TOLFO",
+      "nomeUrna": "DINHO TOLFO",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 117,
+      "percentual": 4.88,
+      "situacao": "Eleito por média",
+      "sqcand": "210002219297"
+    },
+    {
+      "nome": "MARCO ANTONIO DA ENCARNAÇÃO FONSECA",
+      "nomeUrna": "MARCO FONSECA",
+      "partido": "PDT",
+      "numero": "12423",
+      "votos": 90,
+      "percentual": 3.76,
+      "situacao": "Eleito por média",
+      "sqcand": "210002265277"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 977,
+      "percentual": 60.16,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 487,
+      "percentual": 29.99,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 146,
+      "percentual": 8.99,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 344,
+      "percentual": 20.49,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 229,
+      "percentual": 13.64,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 225,
+      "percentual": 13.4,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "NEREU PIOVESAN",
+      "nomeUrna": "NEREU PIOVESAN",
+      "partido": "PT",
+      "numero": "1390",
+      "votos": 100,
+      "percentual": 5.96,
+      "sqcand": "210001604655"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 74,
+      "percentual": 4.41,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 73,
+      "percentual": 4.35,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 70,
+      "percentual": 4.17,
+      "sqcand": "210001646683"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GERRI SAWARIS",
+      "nomeUrna": "GERRI SAWARIS",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 319,
+      "percentual": 20.09,
+      "sqcand": "210001610610"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 215,
+      "percentual": 13.54,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 133,
+      "percentual": 8.38,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "SALMO DIAS DE OLIVEIRA",
+      "nomeUrna": "SALMO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 130,
+      "percentual": 8.19,
+      "sqcand": "210001647178"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 111,
+      "percentual": 6.99,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "SÉRGIO ANTÔNIO GÖRGEN",
+      "nomeUrna": "FREI SÉRGIO",
+      "partido": "PT",
+      "numero": "13690",
+      "votos": 77,
+      "percentual": 4.85,
+      "sqcand": "210001610588"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 73,
+      "percentual": 4.6,
+      "sqcand": "210001610593"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 2963,
+  "votosValidos": 2550,
+  "abstencao": 11.44,
+  "prefeito": {
+    "nome": "SEBASTIÃO PINTO DANTAS",
+    "nomeUrna": "TIÃO PINTO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 2186,
+    "percentual": 85.73,
+    "situacao": "Eleito",
+    "sqcand": "150002031840",
+    "vice": "MARIA DE FATIMA DANTAS ARAUJO",
+    "viceNomeUrna": "MARIA",
+    "partidoVice": "PSB",
+    "sqcandVice": "150002031841",
+    "coligacao": "REPUBLICANOS / PSB / MDB / PSD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "FELIPY ANDRÉ PINTO DIAS",
+      "nomeUrna": "FELIPY PINTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 544,
+      "percentual": 21.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001941164"
+    },
+    {
+      "nome": "ALTEMILES MARTINS DE SOUZA",
+      "nomeUrna": "PITER",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 279,
+      "percentual": 10.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001941160"
+    },
+    {
+      "nome": "ROSINALMA CELESTINO DA SILVA",
+      "nomeUrna": "NALMA DE NANÁ",
+      "partido": "REPUBLICANOS",
+      "numero": "10666",
+      "votos": 247,
+      "percentual": 9.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001941159"
+    },
+    {
+      "nome": "AGUIFANEIDE LIRA DANTAS GONDIM",
+      "nomeUrna": "AGUIFANEIDE",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 216,
+      "percentual": 8.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001960231"
+    },
+    {
+      "nome": "JAMAELSON CARLOS DE MOURA",
+      "nomeUrna": "JAMAELSON MOURA",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 205,
+      "percentual": 8.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001941156"
+    },
+    {
+      "nome": "RODOLFO DE MORAES HORTINS",
+      "nomeUrna": "RODOLFO MORAES",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 179,
+      "percentual": 7.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001941165"
+    },
+    {
+      "nome": "FÁBIO GOMES DANTAS",
+      "nomeUrna": "BRANCO GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 174,
+      "percentual": 6.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001941163"
+    },
+    {
+      "nome": "JOSE CARLOS DANTAS DE MOURA",
+      "nomeUrna": "CARLOS DE ATIM",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 159,
+      "percentual": 6.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001941161"
+    },
+    {
+      "nome": "SIMONE FÁTIMA DE MEDEIROS SILVA",
+      "nomeUrna": "SIMONE",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 118,
+      "percentual": 4.65,
+      "situacao": "Eleito por média",
+      "sqcand": "150001941158"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1180,
+      "percentual": 57.87,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 609,
+      "percentual": 29.87,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 136,
+      "percentual": 6.67,
+      "sqcand": "150001718470"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HUGO MOTTA WANDERLEY DA NOBREGA",
+      "nomeUrna": "HUGO MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 1222,
+      "percentual": 57.59,
+      "sqcand": "150001619545"
+    },
+    {
+      "nome": "ISIS RAFAELA RODRIGUES DA SILVA",
+      "nomeUrna": "RAFAELA CAMARAENSE",
+      "partido": "PSB",
+      "numero": "4013",
+      "votos": 235,
+      "percentual": 11.07,
+      "sqcand": "150001621682"
+    },
+    {
+      "nome": "GERVASIO AGRIPINO MAIA",
+      "nomeUrna": "GERVASIO MAIA",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 176,
+      "percentual": 8.29,
+      "sqcand": "150001621679"
+    },
+    {
+      "nome": "ESTELIZABEL BEZERRA DE SOUZA",
+      "nomeUrna": "ESTELA BEZERRA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 164,
+      "percentual": 7.73,
+      "sqcand": "150001619530"
+    },
+    {
+      "nome": "MARINA FARIAS PALMEIRA VENÂNCIO",
+      "nomeUrna": "MARINA VENÂNCIO",
+      "partido": "PSC",
+      "numero": "2077",
+      "votos": 95,
+      "percentual": 4.48,
+      "sqcand": "150001612085"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 27,
+      "percentual": 1.27,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 27,
+      "percentual": 1.27,
+      "sqcand": "150001619544"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ WILSON SANTIAGO FILHO",
+      "nomeUrna": "WILSON FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10110",
+      "votos": 1166,
+      "percentual": 57.41,
+      "sqcand": "150001619574"
+    },
+    {
+      "nome": "GILMA VASCONCELOS DA SILVA GERMANO",
+      "nomeUrna": "GILMA  GERMANO",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 548,
+      "percentual": 26.98,
+      "sqcand": "150001727458"
+    },
+    {
+      "nome": "MELCHIOR NAELSON BATISTA DA SILVA",
+      "nomeUrna": "CHIÓ",
+      "partido": "REDE",
+      "numero": "18789",
+      "votos": 100,
+      "percentual": 4.92,
+      "sqcand": "150001621578"
+    },
+    {
+      "nome": "FRANCISCA GOMES ARAÚJO MOTA",
+      "nomeUrna": "FRANCISCA MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 23,
+      "percentual": 1.13,
+      "sqcand": "150001619570"
+    },
+    {
+      "nome": "CICERO ROBSON FIGUEIREDO FERREIRA LIMA",
+      "nomeUrna": "CICINHO LIMA",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 19,
+      "percentual": 0.94,
+      "sqcand": "150001718219"
+    },
+    {
+      "nome": "ADRIANO CEZAR GALDINO DE ARAÚJO",
+      "nomeUrna": "ADRIANO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 15,
+      "percentual": 0.74,
+      "sqcand": "150001619565"
+    },
+    {
+      "nome": "JOSILENE MARIA DE OLIVEIRA",
+      "nomeUrna": "JÔ OLIVEIRA",
+      "partido": "PC do B",
+      "numero": "65000",
+      "votos": 14,
+      "percentual": 0.69,
+      "sqcand": "150001643189"
+    }
+  ]
+}

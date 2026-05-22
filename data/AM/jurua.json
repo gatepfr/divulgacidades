@@ -1,0 +1,271 @@
+{
+  "populacao": 7662,
+  "votosValidos": 6465,
+  "abstencao": 13.3,
+  "prefeito": {
+    "nome": "ILQUE CUNHA DE LIMA",
+    "nomeUrna": "ILQUE CUNHA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3543,
+    "percentual": 54.8,
+    "situacao": "Eleito",
+    "sqcand": "40002082080",
+    "vice": "JOSÉ LELAND HERCULANO SARAIVA",
+    "viceNomeUrna": "LELAND SARAIVA",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "40002082079",
+    "coligacao": "MDB / REPUBLICANOS / PSD / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "JUCINELDE PEREIRA DA SILVA",
+      "nomeUrna": "NEIDE",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 518,
+      "percentual": 7.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002081921"
+    },
+    {
+      "nome": "JADER DAMASCENO MOTA",
+      "nomeUrna": "JADER MOTA",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 412,
+      "percentual": 6.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002271785"
+    },
+    {
+      "nome": "ABEL FERREIRA SOARES",
+      "nomeUrna": "PROFESSOR ABEL FERREIRA",
+      "partido": "MDB",
+      "numero": "15155",
+      "votos": 305,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002082085"
+    },
+    {
+      "nome": "IDERNON LIMA MESQUITA",
+      "nomeUrna": "IDERNON",
+      "partido": "PSD",
+      "numero": "55999",
+      "votos": 299,
+      "percentual": 4.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002082066"
+    },
+    {
+      "nome": "ELIETO FERREIRA DE SOUZA",
+      "nomeUrna": "IRMÃO ELIETON",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 271,
+      "percentual": 4.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002082048"
+    },
+    {
+      "nome": "HENISON LOPES CORDEIRO",
+      "nomeUrna": "HENISON CORDEIRO",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 252,
+      "percentual": 3.85,
+      "situacao": "Eleito por média",
+      "sqcand": "40002082064"
+    },
+    {
+      "nome": "ELINO FERREIRA DA SILVA",
+      "nomeUrna": "ELINO FERREIRA",
+      "partido": "UNIÃO",
+      "numero": "44666",
+      "votos": 216,
+      "percentual": 3.3,
+      "situacao": "Eleito por média",
+      "sqcand": "40002081928"
+    },
+    {
+      "nome": "ELDO PEREIRA DA SILVA",
+      "nomeUrna": "PROFESSOR ELDO",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 172,
+      "percentual": 2.63,
+      "situacao": "Eleito por média",
+      "sqcand": "40002082084"
+    },
+    {
+      "nome": "AQUILES CAETANO DA SILVA",
+      "nomeUrna": "BUIU DO CAPELAO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 172,
+      "percentual": 2.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002275918"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OMAR JOSÉ ABDEL AZIZ",
+      "nomeUrna": "OMAR AZIZ",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 3320,
+      "percentual": 67.59,
+      "sqcand": "40001618514"
+    },
+    {
+      "nome": "ALFREDO ALEXANDRE DE MENEZES JUNIOR",
+      "nomeUrna": "CORONEL MENEZES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1029,
+      "percentual": 20.95,
+      "sqcand": "40001643710"
+    },
+    {
+      "nome": "LUIZ CASTRO ANDRADE NETO",
+      "nomeUrna": "LUIZ CASTRO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 420,
+      "percentual": 8.55,
+      "sqcand": "40001615088"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCELO RAMOS RODRIGUES",
+      "nomeUrna": "MARCELO RAMOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 1107,
+      "percentual": 22.31,
+      "sqcand": "40001609172"
+    },
+    {
+      "nome": "SILAS CÂMARA",
+      "nomeUrna": "SILAS CÂMARA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 795,
+      "percentual": 16.02,
+      "sqcand": "40001609377"
+    },
+    {
+      "nome": "ATILA SIDNEY LINS DE ALBUQUERQUE",
+      "nomeUrna": "ATILA LINS",
+      "partido": "PSD",
+      "numero": "5525",
+      "votos": 735,
+      "percentual": 14.81,
+      "sqcand": "40001609233"
+    },
+    {
+      "nome": "ALBERTO BARROS CAVALCANTE NETO",
+      "nomeUrna": "CAPITÃO ALBERTO NETO",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 368,
+      "percentual": 7.41,
+      "sqcand": "40001612948"
+    },
+    {
+      "nome": "FAUSTO VIEIRA DOS SANTOS JÚNIOR",
+      "nomeUrna": "FAUSTO SANTOS JR",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 346,
+      "percentual": 6.97,
+      "sqcand": "40001618451"
+    },
+    {
+      "nome": "ADAIL JOSÉ FIGUEIREDO PINHEIRO",
+      "nomeUrna": "ADAIL FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 332,
+      "percentual": 6.69,
+      "sqcand": "40001609376"
+    },
+    {
+      "nome": "PABLO OLIVA SOUZA",
+      "nomeUrna": "DELEGADO PABLO",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 259,
+      "percentual": 5.22,
+      "sqcand": "40001618448"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GEORGE AUGUSTO MONTEIRO LINS DE ALBUQUERQUE",
+      "nomeUrna": "DR GEORGE LINS",
+      "partido": "UNIÃO",
+      "numero": "44666",
+      "votos": 656,
+      "percentual": 13.68,
+      "sqcand": "40001618475"
+    },
+    {
+      "nome": "ALESSANDRA CAMPELO DA SILVA",
+      "nomeUrna": "ALESSANDRA CAMPELO",
+      "partido": "PSC",
+      "numero": "20123",
+      "votos": 503,
+      "percentual": 10.49,
+      "sqcand": "40001618658"
+    },
+    {
+      "nome": "JESUS ALVES DOS SANTOS",
+      "nomeUrna": "JESUS ALVES",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 438,
+      "percentual": 9.13,
+      "sqcand": "40001612919"
+    },
+    {
+      "nome": "FRANCISCO DO NASCIMENTO GOMES",
+      "nomeUrna": "DR GOMES",
+      "partido": "PSC",
+      "numero": "20777",
+      "votos": 326,
+      "percentual": 6.8,
+      "sqcand": "40001618664"
+    },
+    {
+      "nome": "SINÉSIO DA SILVA CAMPOS",
+      "nomeUrna": "PROFESSOR SINÉSIO",
+      "partido": "PT",
+      "numero": "13633",
+      "votos": 281,
+      "percentual": 5.86,
+      "sqcand": "40001633265"
+    },
+    {
+      "nome": "CARLOS EDUARDO BESSA DE SA",
+      "nomeUrna": "CARLINHOS BESSA ",
+      "partido": "PV",
+      "numero": "43433",
+      "votos": 241,
+      "percentual": 5.02,
+      "sqcand": "40001633257"
+    },
+    {
+      "nome": "ALCIMAR MACIEL PEREIRA",
+      "nomeUrna": "CABO MACIEL",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 233,
+      "percentual": 4.86,
+      "sqcand": "40001633325"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 4713,
+  "votosValidos": 3922,
+  "abstencao": 14.39,
+  "prefeito": {
+    "nome": "CARLOS MARIANO FERREIRA",
+    "nomeUrna": "CARLINHOS",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2266,
+    "percentual": 57.78,
+    "situacao": "Eleito",
+    "sqcand": "130002072088",
+    "vice": "ERICA LUZIA MENDES",
+    "viceNomeUrna": "ERICA",
+    "partidoVice": "PSD",
+    "sqcandVice": "130002072087",
+    "coligacao": "PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "SAMUEL JOSE ANTONIO FERREIRA",
+      "nomeUrna": "SASSÁ",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 324,
+      "percentual": 8.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002072089"
+    },
+    {
+      "nome": "MAURO HENRIQUE OLIVEIRA MENDES",
+      "nomeUrna": "MAURO HENRIQUE",
+      "partido": "PRD",
+      "numero": "25613",
+      "votos": 305,
+      "percentual": 7.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002263020"
+    },
+    {
+      "nome": "ANDREA THEREZINHA WERNECK",
+      "nomeUrna": "ANDREA WERNECK",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 267,
+      "percentual": 6.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002296648"
+    },
+    {
+      "nome": "ELIZETE MARIA DE SOUZA",
+      "nomeUrna": "ELIZETE DA LOURDES",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 261,
+      "percentual": 6.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002072099"
+    },
+    {
+      "nome": "RONALDO JOAQUIM DE OLIVEIRA",
+      "nomeUrna": "RONALDO",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 199,
+      "percentual": 5.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002345540"
+    },
+    {
+      "nome": "EDSON LEANDRO LEÃO FERREIRA",
+      "nomeUrna": "LEANDRO DO TAXI",
+      "partido": "PRD",
+      "numero": "25777",
+      "votos": 189,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "130002263018"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO PIMONT",
+      "nomeUrna": "ZÉ AUGUSTO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 163,
+      "percentual": 4.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002072266"
+    },
+    {
+      "nome": "APARECIDA ROSELY RIBEIRO",
+      "nomeUrna": "ROSELY",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 153,
+      "percentual": 3.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002072091"
+    },
+    {
+      "nome": "JOSÉ SABINO DE OLIVEIRA",
+      "nomeUrna": "BINO",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 142,
+      "percentual": 3.64,
+      "situacao": "Eleito por média",
+      "sqcand": "130002072264"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1442,
+      "percentual": 49.42,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 891,
+      "percentual": 30.53,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 561,
+      "percentual": 19.23,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANA CRISTINA DE LIMA PIMENTEL",
+      "nomeUrna": "ANA PIMENTEL",
+      "partido": "PT",
+      "numero": "1314",
+      "votos": 675,
+      "percentual": 22.21,
+      "sqcand": "130001607240"
+    },
+    {
+      "nome": "CHARLLES THOMACELLI EVANGELISTA",
+      "nomeUrna": "CHARLLES EVANGELISTA",
+      "partido": "PP",
+      "numero": "1132",
+      "votos": 451,
+      "percentual": 14.84,
+      "sqcand": "130001615426"
+    },
+    {
+      "nome": "BRAULIO JOSE TANUS BRAZ",
+      "nomeUrna": "BRAULIO BRAZ",
+      "partido": "PTB",
+      "numero": "1444",
+      "votos": 398,
+      "percentual": 13.1,
+      "sqcand": "130001610899"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 195,
+      "percentual": 6.42,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "MARCELUS RIBEIRO DA ROCHA",
+      "nomeUrna": "MARCELUS ROCHA",
+      "partido": "PP",
+      "numero": "1188",
+      "votos": 186,
+      "percentual": 6.12,
+      "sqcand": "130001615418"
+    },
+    {
+      "nome": "CARLOS ALBERTO DE MELLO",
+      "nomeUrna": "SARGENTO MELLO CASAL",
+      "partido": "PTB",
+      "numero": "1456",
+      "votos": 105,
+      "percentual": 3.46,
+      "sqcand": "130001610870"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 104,
+      "percentual": 3.42,
+      "sqcand": "130001608227"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SHEILA APARECIDA PEDROSA DE MELLO OLIVEIRA",
+      "nomeUrna": "DELEGADA SHEILA",
+      "partido": "PL",
+      "numero": "22032",
+      "votos": 579,
+      "percentual": 19.88,
+      "sqcand": "130001619041"
+    },
+    {
+      "nome": "ROBERTO CUPOLILLO",
+      "nomeUrna": "BETÃO",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 573,
+      "percentual": 19.68,
+      "sqcand": "130001607388"
+    },
+    {
+      "nome": "DALMO ROBERTO RIBEIRO SILVA",
+      "nomeUrna": "DALMO RIBEIRO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 342,
+      "percentual": 11.74,
+      "sqcand": "130001613315"
+    },
+    {
+      "nome": "MARLON SIQUEIRA RODRIGUES MARTINS",
+      "nomeUrna": "MARLON SIQUEIRA",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 295,
+      "percentual": 10.13,
+      "sqcand": "130001615640"
+    },
+    {
+      "nome": "APARECIDO REIS MIGUEL DE OLIVEIRA",
+      "nomeUrna": "CIDO REIS",
+      "partido": "REDE",
+      "numero": "18456",
+      "votos": 164,
+      "percentual": 5.63,
+      "sqcand": "130001615226"
+    },
+    {
+      "nome": "HITLER VAGNER CANDIDO DE OLIVEIRA",
+      "nomeUrna": "VAGNER DE OLIVEIRA",
+      "partido": "PSB",
+      "numero": "40369",
+      "votos": 121,
+      "percentual": 4.16,
+      "sqcand": "130001613133"
+    },
+    {
+      "nome": "NORALDINO LUCIO DIAS JUNIOR",
+      "nomeUrna": "NORALDINO JÚNIOR",
+      "partido": "PSC",
+      "numero": "20123",
+      "votos": 105,
+      "percentual": 3.61,
+      "sqcand": "130001671870"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "populacao": 34144,
+  "votosValidos": 27423,
+  "abstencao": 15.47,
+  "prefeito": {
+    "nome": "JOAQUIM FERNANDES DE OLIVEIRA NETO",
+    "nomeUrna": "JOAQUIM",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 18114,
+    "percentual": 66.05,
+    "situacao": "Eleito",
+    "sqcand": "150001974457",
+    "vice": "ADJAMYLTON DE MEDEIROS PEIXOTO",
+    "viceNomeUrna": "MILTINHO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "150001974458",
+    "coligacao": "REPUBLICANOS / PRD / PSB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "JOÃO BELINO E SILVA NETO",
+      "nomeUrna": "NETO BELINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 1559,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001974741"
+    },
+    {
+      "nome": "MOOACYR EMILTON DE FIGUEIREDO CARTAXO",
+      "nomeUrna": "MOOACYR CARTAXO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 1511,
+      "percentual": 5.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002330278"
+    },
+    {
+      "nome": "ANA CRISTINA DA SILVA",
+      "nomeUrna": "PROFESSORA CRISTINA",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 1358,
+      "percentual": 4.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001984149"
+    },
+    {
+      "nome": "RANIERY OLIVEIRA VERÍSSIMO",
+      "nomeUrna": "RANY VERÍSSIMO",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 1256,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001974742"
+    },
+    {
+      "nome": "MARIA DO SOCORRO DE OLIVEIRA",
+      "nomeUrna": "MARIA DA SAÚDE",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 1237,
+      "percentual": 4.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001974739"
+    },
+    {
+      "nome": "GUILHERME ANTONIO DE ANDRADE FERNANDES",
+      "nomeUrna": "GUILHERMINHO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 1214,
+      "percentual": 4.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001984142"
+    },
+    {
+      "nome": "ANTONIO MAXIMO DA SILVA NETO",
+      "nomeUrna": "NETO DA SAÚDE",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 1193,
+      "percentual": 4.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001984140"
+    },
+    {
+      "nome": "FLÁVIO MAXIMINO DA SILVA SERAFIM",
+      "nomeUrna": "FLÁVIO SERAFIM",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 1004,
+      "percentual": 3.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001984144"
+    },
+    {
+      "nome": "CARLITO FERREIRA DA SILVA FILHO",
+      "nomeUrna": "LITO DE PITANGA",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 988,
+      "percentual": 3.61,
+      "situacao": "Eleito por média",
+      "sqcand": "150001984145"
+    },
+    {
+      "nome": "DIEGO DE MEDEIROS PEIXOTO TOSCANO LYRA",
+      "nomeUrna": "DIEGO PEIXOTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10666",
+      "votos": 985,
+      "percentual": 3.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001974740"
+    },
+    {
+      "nome": "CRISANTO CAVALCANTE DE FARIAS SEGUNDO",
+      "nomeUrna": "CRISANTO SEGUNDO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77222",
+      "votos": 830,
+      "percentual": 3.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002330277"
+    },
+    {
+      "nome": "CLEBSON DO NASCIMENTO BEZERRA",
+      "nomeUrna": "DR. CLEBSON",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 821,
+      "percentual": 3.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002330285"
+    },
+    {
+      "nome": "LUIZ CORNELIO DA SILVA JUNIOR",
+      "nomeUrna": "JÚNIOR DA PADARIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10999",
+      "votos": 780,
+      "percentual": 2.85,
+      "situacao": "Eleito por média",
+      "sqcand": "150001974737"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 9207,
+      "percentual": 43.39,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 6081,
+      "percentual": 28.66,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "SERGIO AUGUSTO DE QUEIROZ",
+      "nomeUrna": "SERGIO QUEIROZ",
+      "partido": "PRTB",
+      "numero": "282",
+      "votos": 2741,
+      "percentual": 12.92,
+      "sqcand": "150001636649"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HUGO MOTTA WANDERLEY DA NOBREGA",
+      "nomeUrna": "HUGO MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 6265,
+      "percentual": 28.65,
+      "sqcand": "150001619545"
+    },
+    {
+      "nome": "RICARDO BARBOSA",
+      "nomeUrna": "RICARDO BARBOSA",
+      "partido": "PSB",
+      "numero": "4022",
+      "votos": 5335,
+      "percentual": 24.4,
+      "sqcand": "150001621684"
+    },
+    {
+      "nome": "JOSINALDO SOUSA DA SILVA",
+      "nomeUrna": "JOSINALDO SOUSA",
+      "partido": "PTB",
+      "numero": "1455",
+      "votos": 1124,
+      "percentual": 5.14,
+      "sqcand": "150001619824"
+    },
+    {
+      "nome": "ELIZA VIRGINIA DE SOUZA FERNANDES",
+      "nomeUrna": "ELIZA ",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 952,
+      "percentual": 4.35,
+      "sqcand": "150001612070"
+    },
+    {
+      "nome": "FRANCISCO EMERSON ASSIS DE LUCENA",
+      "nomeUrna": "MERSINHO LUCENA",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 882,
+      "percentual": 4.03,
+      "sqcand": "150001612074"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 872,
+      "percentual": 3.99,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "HILTON SOUTO MAIOR NETO",
+      "nomeUrna": "DR° HILTON SOUTO MAIOR",
+      "partido": "PP",
+      "numero": "1177",
+      "votos": 680,
+      "percentual": 3.11,
+      "sqcand": "150001612072"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DANIELLE DO NASCIMENTO RODRIGUES PESSOA",
+      "nomeUrna": "DANIELLE DO VALE",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 10951,
+      "percentual": 48.73,
+      "sqcand": "150001619567"
+    },
+    {
+      "nome": "EDUARDO CARNEIRO DE BRITO",
+      "nomeUrna": "DR. EDUARDO BRITO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 6023,
+      "percentual": 26.8,
+      "sqcand": "150001620828"
+    },
+    {
+      "nome": "LUIZ EDUARDO DE MENEZES SOARES",
+      "nomeUrna": "DUDU SOARES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 873,
+      "percentual": 3.89,
+      "sqcand": "150001620824"
+    },
+    {
+      "nome": "CARMEM LÚCIA PEREIRA DE LIMA FILHA",
+      "nomeUrna": "LUCINHA LIMA",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 655,
+      "percentual": 2.91,
+      "sqcand": "150001620778"
+    },
+    {
+      "nome": "JOSÉ AIRTON PIRES DE SOUSA",
+      "nomeUrna": "AIRTON PIRES",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 529,
+      "percentual": 2.35,
+      "sqcand": "150001603137"
+    },
+    {
+      "nome": "GEORGE VENTURA MORAIS",
+      "nomeUrna": "GEORGE MORAIS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 248,
+      "percentual": 1.1,
+      "sqcand": "150001603122"
+    },
+    {
+      "nome": "JUTAY MENESES GOMES",
+      "nomeUrna": "JUTAY MENESES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 190,
+      "percentual": 0.85,
+      "sqcand": "150001619558"
+    }
+  ]
+}

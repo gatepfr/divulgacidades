@@ -1,0 +1,291 @@
+{
+  "populacao": 23943,
+  "votosValidos": 17126,
+  "abstencao": 25.31,
+  "prefeito": {
+    "nome": "WELITON PEREIRA CAMPOS",
+    "nomeUrna": "PROFESSOR WELITON",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 11983,
+    "percentual": 69.97,
+    "situacao": "Eleito",
+    "sqcand": "220002285985",
+    "vice": "DARCI JOSE KISCHENER",
+    "viceNomeUrna": "DARCI KISCHENER",
+    "partidoVice": "PP",
+    "sqcandVice": "220002285986",
+    "coligacao": "PP / PDT / PODE / PSD / PRD / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "NADJA FERREIRA DE ARAUJO LAGARES",
+      "nomeUrna": "NADJA LAGARES",
+      "partido": "REPUBLICANOS",
+      "numero": "10345",
+      "votos": 1036,
+      "percentual": 6.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002324545"
+    },
+    {
+      "nome": "GENEZIO MATEUS",
+      "nomeUrna": "GENEZIO MATEUS ",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 1034,
+      "percentual": 6.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002286242"
+    },
+    {
+      "nome": "KISSILA KERLEY PONATH",
+      "nomeUrna": "KISSILA PONATH",
+      "partido": "PL",
+      "numero": "22224",
+      "votos": 922,
+      "percentual": 5.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002286240"
+    },
+    {
+      "nome": "ALEXANDRO FERRAZ DA SILVA",
+      "nomeUrna": "BAHIA",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 705,
+      "percentual": 4.11,
+      "situacao": "Eleito por média",
+      "sqcand": "220002286248"
+    },
+    {
+      "nome": "HERMES PEREIRA JUNIOR",
+      "nomeUrna": "PROFESSOR HERMES",
+      "partido": "PL",
+      "numero": "22888",
+      "votos": 660,
+      "percentual": 3.84,
+      "situacao": "Eleito por média",
+      "sqcand": "220002286247"
+    },
+    {
+      "nome": "AMILTON ALVES DE SOUZA",
+      "nomeUrna": "AMILTON ALVES",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 558,
+      "percentual": 3.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002159179"
+    },
+    {
+      "nome": "ADRIANO MEIRELES DA PAZ",
+      "nomeUrna": "ADRIANO DA AMBULANCIA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 431,
+      "percentual": 2.51,
+      "situacao": "Eleito por média",
+      "sqcand": "220002159175"
+    },
+    {
+      "nome": "GILMAR LOOSE",
+      "nomeUrna": "GILMAR LOOSE",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 421,
+      "percentual": 2.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002024682"
+    },
+    {
+      "nome": "WALTER GONÇALVES LARA",
+      "nomeUrna": "WALTINNHO LARA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 395,
+      "percentual": 2.3,
+      "situacao": "Eleito por média",
+      "sqcand": "220002324539"
+    },
+    {
+      "nome": "SEVERINO SCHULZ",
+      "nomeUrna": "SEVERINO SCHULZ",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 335,
+      "percentual": 1.95,
+      "situacao": "Eleito por média",
+      "sqcand": "220002159593"
+    },
+    {
+      "nome": "PEDRO CANDIDO CESARIO",
+      "nomeUrna": "PEDRO MANDIOCA",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 281,
+      "percentual": 1.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "220001987505"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JAIME MAXIMINO BAGATTOLI",
+      "nomeUrna": "JAIME BAGATTOLI",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 7600,
+      "percentual": 46.97,
+      "sqcand": "220001713729"
+    },
+    {
+      "nome": "MARIANA FONSECA RIBEIRO CARVALHO DE MORAES",
+      "nomeUrna": "MARIANA CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 3380,
+      "percentual": 20.89,
+      "sqcand": "220001614361"
+    },
+    {
+      "nome": "EXPEDITO GONÇALVES FERREIRA JUNIOR",
+      "nomeUrna": "EXPEDITO JUNIOR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2514,
+      "percentual": 15.54,
+      "sqcand": "220001713936"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANDERSON DA SILVA PEREIRA",
+      "nomeUrna": "ANDERSON PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 3613,
+      "percentual": 21.79,
+      "sqcand": "220001612157"
+    },
+    {
+      "nome": "COSMO DE NOVAES FERREIRA",
+      "nomeUrna": "COCÓ",
+      "partido": "UNIÃO",
+      "numero": "4410",
+      "votos": 3009,
+      "percentual": 18.14,
+      "sqcand": "220001605550"
+    },
+    {
+      "nome": "MARCILIO SEVERINO DA SILVA",
+      "nomeUrna": "DR. MARCÍLIO",
+      "partido": "PODE",
+      "numero": "1900",
+      "votos": 1776,
+      "percentual": 10.71,
+      "sqcand": "220001635973"
+    },
+    {
+      "nome": "SÍLVIA CRISTINA AMANCIO CHAGAS",
+      "nomeUrna": "SILVIA CRISTINA",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 1366,
+      "percentual": 8.24,
+      "sqcand": "220001643593"
+    },
+    {
+      "nome": "FERNANDO RODRIGUES MÁXIMO",
+      "nomeUrna": "DR FERNANDO MÁXIMO",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 685,
+      "percentual": 4.13,
+      "sqcand": "220001600708"
+    },
+    {
+      "nome": "FLORI CORDEIRO DE MIRANDA JUNIOR",
+      "nomeUrna": "DELEGADO FLORI",
+      "partido": "PODE",
+      "numero": "1999",
+      "votos": 595,
+      "percentual": 3.59,
+      "sqcand": "220001635971"
+    },
+    {
+      "nome": "EXPEDITO GONÇALVES FERREIRA NETTO",
+      "nomeUrna": "EXPEDITO NETTO",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 481,
+      "percentual": 2.9,
+      "sqcand": "220001635101"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DEVAIR DA SILVA COSTA",
+      "nomeUrna": "RÉGA DA ESPERANÇA",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 3628,
+      "percentual": 22.23,
+      "sqcand": "220001643241"
+    },
+    {
+      "nome": "DECIO BARBOSA LAGARES",
+      "nomeUrna": "DECIO LAGARES",
+      "partido": "PMB",
+      "numero": "35123",
+      "votos": 3479,
+      "percentual": 21.32,
+      "sqcand": "220001647618"
+    },
+    {
+      "nome": "DELKER KLEMES MIRANDA NOBRE",
+      "nomeUrna": "DELKER NOBRE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1391,
+      "percentual": 8.52,
+      "sqcand": "220001635544"
+    },
+    {
+      "nome": "ELCIRONE MOREIRA DEIRÓ",
+      "nomeUrna": "CIRONE DEIRÓ",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 1367,
+      "percentual": 8.38,
+      "sqcand": "220001600704"
+    },
+    {
+      "nome": "JEAN HENRIQUE GEROLOMO DE MENDONÇA",
+      "nomeUrna": "JEAN MENDONÇA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 832,
+      "percentual": 5.1,
+      "sqcand": "220001713749"
+    },
+    {
+      "nome": "ISMAEL CRISPIN DIAS",
+      "nomeUrna": "ISMAEL CRISPIN",
+      "partido": "PSB",
+      "numero": "40777",
+      "votos": 645,
+      "percentual": 3.95,
+      "sqcand": "220001614399"
+    },
+    {
+      "nome": "HENRRY JAMES REIZER MOTA",
+      "nomeUrna": "DR HENRRY JAMES",
+      "partido": "PMN",
+      "numero": "33336",
+      "votos": 438,
+      "percentual": 2.68,
+      "sqcand": "220001713838"
+    }
+  ]
+}

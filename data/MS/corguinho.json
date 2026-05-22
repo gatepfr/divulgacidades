@@ -1,0 +1,271 @@
+{
+  "populacao": 4482,
+  "votosValidos": 3770,
+  "abstencao": 13.94,
+  "prefeito": {
+    "nome": "MÁRCIO NOVAES PEREIRA",
+    "nomeUrna": "BARRINHA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2286,
+    "percentual": 60.64,
+    "situacao": "Eleito",
+    "sqcand": "120001933751",
+    "vice": "JEFFER APARECIDO PERES DA SILVA",
+    "viceNomeUrna": "JEFFER",
+    "partidoVice": "PP",
+    "sqcandVice": "120001933750",
+    "coligacao": "MDB / PP / PSB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "GILMAR SOARES DE SOUZA",
+      "nomeUrna": "GILMAR MACACO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 292,
+      "percentual": 7.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002245943"
+    },
+    {
+      "nome": "VALMIR DA SILVA FERREIRA",
+      "nomeUrna": "VALMIRZINHO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 238,
+      "percentual": 6.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002245480"
+    },
+    {
+      "nome": "ELISANDRO CERIOLI",
+      "nomeUrna": "ELISANDRO CERIOLI",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 237,
+      "percentual": 6.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002039965"
+    },
+    {
+      "nome": "GILMAR SOUZA SALAZAR",
+      "nomeUrna": "SALAZAR",
+      "partido": "MDB",
+      "numero": "15321",
+      "votos": 236,
+      "percentual": 6.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002039682"
+    },
+    {
+      "nome": "ALEX SANDRO DOS SANTOS OLIVEIRA",
+      "nomeUrna": "ALEX OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 231,
+      "percentual": 6.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002039674"
+    },
+    {
+      "nome": "GUSTAVO ANTONIO GUERRA",
+      "nomeUrna": "GUSTAVO GUERRA",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 195,
+      "percentual": 5.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002245472"
+    },
+    {
+      "nome": "THIAGO RIBEIRO NERY",
+      "nomeUrna": "THIAGO NERY",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 178,
+      "percentual": 4.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002245945"
+    },
+    {
+      "nome": "HÉLIO TENÓRIO DE ARAUJO",
+      "nomeUrna": "HÉLIO TENÓRIO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 152,
+      "percentual": 4.02,
+      "situacao": "Eleito por média",
+      "sqcand": "120002245475"
+    },
+    {
+      "nome": "ELINALDO BATISTA NUNES DOS SANTOS",
+      "nomeUrna": "EDINHO",
+      "partido": "PP",
+      "numero": "11122",
+      "votos": 123,
+      "percentual": 3.25,
+      "situacao": "Eleito por média",
+      "sqcand": "120002039969"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1819,
+      "percentual": 64.16,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 448,
+      "percentual": 15.8,
+      "sqcand": "120001609096"
+    },
+    {
+      "nome": "ODILON DE OLIVEIRA",
+      "nomeUrna": "JUIZ ODILON",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 326,
+      "percentual": 11.5,
+      "sqcand": "120001649892"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 986,
+      "percentual": 35.1,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "FÁBIO RICARDO TRAD",
+      "nomeUrna": "FÁBIO TRAD",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 215,
+      "percentual": 7.65,
+      "sqcand": "120001650734"
+    },
+    {
+      "nome": "FLÁVIO PEREIRA MOURA",
+      "nomeUrna": "FLÁVIO CABO ALMI",
+      "partido": "PODE",
+      "numero": "1969",
+      "votos": 190,
+      "percentual": 6.76,
+      "sqcand": "120001613515"
+    },
+    {
+      "nome": "DAGOBERTO NOGUEIRA FILHO",
+      "nomeUrna": "DAGOBERTO",
+      "partido": "PSDB",
+      "numero": "4512",
+      "votos": 144,
+      "percentual": 5.13,
+      "sqcand": "120001612322"
+    },
+    {
+      "nome": "MARCOS SBOROWSKI POLLON",
+      "nomeUrna": "MARCOS POLLON",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 136,
+      "percentual": 4.84,
+      "sqcand": "120001614258"
+    },
+    {
+      "nome": "VANDER LUIZ DOS SANTOS LOUBET",
+      "nomeUrna": "VANDER LOUBET",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 89,
+      "percentual": 3.17,
+      "sqcand": "120001652595"
+    },
+    {
+      "nome": "WILTON MELO ACOSTA",
+      "nomeUrna": "WILTON ACOSTA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 79,
+      "percentual": 2.81,
+      "sqcand": "120001613401"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JAMILSON LOPES NAME",
+      "nomeUrna": "JAMILSON NAME",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 570,
+      "percentual": 20.66,
+      "sqcand": "120001613597"
+    },
+    {
+      "nome": "MARA ELISA NAVACCHI CASEIRO",
+      "nomeUrna": "MARA CASEIRO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 280,
+      "percentual": 10.15,
+      "sqcand": "120001613592"
+    },
+    {
+      "nome": "PEDRO PEDROSSIAN NETO",
+      "nomeUrna": "PEDROSSIAN NETO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 138,
+      "percentual": 5.0,
+      "sqcand": "120001650962"
+    },
+    {
+      "nome": "EVANDER JOSE VENDRAMINI DURAN",
+      "nomeUrna": "EVANDER VENDRAMINI",
+      "partido": "PP",
+      "numero": "11700",
+      "votos": 136,
+      "percentual": 4.93,
+      "sqcand": "120001645382"
+    },
+    {
+      "nome": "OSWALDO MOCHI JUNIOR",
+      "nomeUrna": "JUNIOR MOCHI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 101,
+      "percentual": 3.66,
+      "sqcand": "120001643162"
+    },
+    {
+      "nome": "JOÃO BOSCO MARTINS DE BARROS",
+      "nomeUrna": "BOSCO MARTINS",
+      "partido": "PODE",
+      "numero": "19001",
+      "votos": 90,
+      "percentual": 3.26,
+      "sqcand": "120001615775"
+    },
+    {
+      "nome": "LUIZ CARLOS CORREIA DE LIMA",
+      "nomeUrna": "LUCAS DE LIMA DO AMOR SEM FIM",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 90,
+      "percentual": 3.26,
+      "sqcand": "120001606656"
+    }
+  ]
+}

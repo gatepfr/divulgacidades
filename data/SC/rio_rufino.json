@@ -1,0 +1,271 @@
+{
+  "populacao": 2444,
+  "votosValidos": 2275,
+  "abstencao": 5.16,
+  "prefeito": {
+    "nome": "ADEMAR DE BONA SARTOR",
+    "nomeUrna": "ADEMAR",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1260,
+    "percentual": 55.38,
+    "situacao": "Eleito",
+    "sqcand": "240001989413",
+    "vice": "ERANE DAS GRAÇAS LORENZETI PICKLER",
+    "viceNomeUrna": "ERANE",
+    "partidoVice": "PL",
+    "sqcandVice": "240001989414",
+    "coligacao": "PP / MDB / PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCIO CASCAES DE SOUZA",
+      "nomeUrna": "MARCINHO",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 214,
+      "percentual": 9.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002132950"
+    },
+    {
+      "nome": "DILVANA SOARES MACCARINI",
+      "nomeUrna": "DILVANA MACCARINI",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 197,
+      "percentual": 8.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002165908"
+    },
+    {
+      "nome": "VALERIO DE SOUZA BERNARDE",
+      "nomeUrna": "VALÉRIO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 179,
+      "percentual": 7.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002132948"
+    },
+    {
+      "nome": "JOÃO PAULO OLIVEIRA",
+      "nomeUrna": "JOÃO PAULO",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 167,
+      "percentual": 7.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002133645"
+    },
+    {
+      "nome": "CLEIDE CABRAL",
+      "nomeUrna": "PROFESSORA CLEIDE",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 154,
+      "percentual": 6.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002133643"
+    },
+    {
+      "nome": "EDENILSON PICKLER COSTA",
+      "nomeUrna": "EDENILSON PICKLER COSTA",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 140,
+      "percentual": 6.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002142213"
+    },
+    {
+      "nome": "ELIZEU MENDES",
+      "nomeUrna": "ELIZEU MENDES",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 134,
+      "percentual": 5.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002165907"
+    },
+    {
+      "nome": "AMANDA MARCELINO BASQUEROTE",
+      "nomeUrna": "AMANDA M BASQUEROTE",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 130,
+      "percentual": 5.7,
+      "situacao": "Eleito por média",
+      "sqcand": "240002142210"
+    },
+    {
+      "nome": "CLEITON MENEZES ARCENIO",
+      "nomeUrna": "CLEITON ARCENIO (BOLINHO)",
+      "partido": "PL",
+      "numero": "22630",
+      "votos": 123,
+      "percentual": 5.39,
+      "situacao": "Eleito por média",
+      "sqcand": "240002133648"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 658,
+      "percentual": 39.31,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 359,
+      "percentual": 21.45,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 330,
+      "percentual": 19.71,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 633,
+      "percentual": 35.93,
+      "sqcand": "240001611938"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 192,
+      "percentual": 10.9,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 95,
+      "percentual": 5.39,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "MARLENE FENGLER",
+      "nomeUrna": "MARLENE FENGLER",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 86,
+      "percentual": 4.88,
+      "sqcand": "240001611141"
+    },
+    {
+      "nome": "ANDRE ROSS ESPEZIM DA SILVA",
+      "nomeUrna": "ANDRE ESPEZIM",
+      "partido": "PODE",
+      "numero": "1980",
+      "votos": 76,
+      "percentual": 4.31,
+      "sqcand": "240001610851"
+    },
+    {
+      "nome": "RAFAEL PEZENTI",
+      "nomeUrna": "RAFAEL PEZENTI",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 72,
+      "percentual": 4.09,
+      "sqcand": "240001602681"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 64,
+      "percentual": 3.63,
+      "sqcand": "240001611140"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCIUS DA SILVA MACHADO",
+      "nomeUrna": "MARCIUS MACHADO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 341,
+      "percentual": 19.88,
+      "sqcand": "240001614339"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 199,
+      "percentual": 11.6,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "LUCAS FELIPE MELO NEVES",
+      "nomeUrna": "LUCAS NEVES",
+      "partido": "PODE",
+      "numero": "19282",
+      "votos": 198,
+      "percentual": 11.55,
+      "sqcand": "240001610819"
+    },
+    {
+      "nome": "CAMILO NAZARENO PAGANI MARTINS",
+      "nomeUrna": "CAMILO MARTINS",
+      "partido": "PODE",
+      "numero": "19369",
+      "votos": 173,
+      "percentual": 10.09,
+      "sqcand": "240001610835"
+    },
+    {
+      "nome": "WILLIAM ANDRADE WRUBLESCHI",
+      "nomeUrna": "WILLIAM",
+      "partido": "MDB",
+      "numero": "15016",
+      "votos": 78,
+      "percentual": 4.55,
+      "sqcand": "240001645021"
+    },
+    {
+      "nome": "JULIANO DUARTE CAMPOS",
+      "nomeUrna": "JULIANO CAMPOS",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 70,
+      "percentual": 4.08,
+      "sqcand": "240001647255"
+    },
+    {
+      "nome": "MAURO DE NADAL",
+      "nomeUrna": "MAURO DE NADAL",
+      "partido": "MDB",
+      "numero": "15220",
+      "votos": 65,
+      "percentual": 3.79,
+      "sqcand": "240001605913"
+    }
+  ]
+}

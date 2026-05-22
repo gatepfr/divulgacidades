@@ -1,0 +1,271 @@
+{
+  "populacao": 9139,
+  "votosValidos": 7900,
+  "abstencao": 12.47,
+  "prefeito": {
+    "nome": "KATIA MARIA DANTAS RIBEIRO",
+    "nomeUrna": "KATIA DANTAS",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3912,
+    "percentual": 49.52,
+    "situacao": "Eleito",
+    "sqcand": "40002253758",
+    "vice": "FRANCISCO ELENILSON DE SOUZA ANTUNES",
+    "viceNomeUrna": "ELENILSON ANTUNES",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "40002253759",
+    "coligacao": "MDB / REPUBLICANOS / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "FLAVIA NUNES BATALHA URIBE",
+      "nomeUrna": "PROFESSORA FLAVIA BATALHA",
+      "partido": "PP",
+      "numero": "11452",
+      "votos": 613,
+      "percentual": 7.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002009958"
+    },
+    {
+      "nome": "GLICIA CRISTINA NUNES DA PAZ",
+      "nomeUrna": "GLICIA NUNES",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 576,
+      "percentual": 7.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002009820"
+    },
+    {
+      "nome": "ENEDINA GONCALVES DE MATOS",
+      "nomeUrna": "ENEDINA MATOS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 558,
+      "percentual": 7.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002009816"
+    },
+    {
+      "nome": "BENEDITO SOARES BASTOS",
+      "nomeUrna": "BENEDITO BASTOS",
+      "partido": "MDB",
+      "numero": "15606",
+      "votos": 548,
+      "percentual": 6.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002128783"
+    },
+    {
+      "nome": "JANE DOS SANTOS MENEZES",
+      "nomeUrna": "JANE MENEZES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 502,
+      "percentual": 6.34,
+      "situacao": "Eleito por média",
+      "sqcand": "40002009821"
+    },
+    {
+      "nome": "PAULO ROGERIO VIANA DE SOUZA",
+      "nomeUrna": "ROGERIO VIANA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 475,
+      "percentual": 6.0,
+      "situacao": "Eleito por média",
+      "sqcand": "40002009814"
+    },
+    {
+      "nome": "OCINDO DO NASCIMENTO MARTINS",
+      "nomeUrna": "OCINDO MARTINS",
+      "partido": "PP",
+      "numero": "11007",
+      "votos": 437,
+      "percentual": 5.52,
+      "situacao": "Eleito por média",
+      "sqcand": "40002009959"
+    },
+    {
+      "nome": "ZELILDE DA SILVA PINHEIRO",
+      "nomeUrna": "ZEL",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 401,
+      "percentual": 5.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002083465"
+    },
+    {
+      "nome": "ELIOMAR LOUREIDO ANTUNES",
+      "nomeUrna": "ELIO ANTUNES",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 356,
+      "percentual": 4.5,
+      "situacao": "Eleito por média",
+      "sqcand": "40002128780"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OMAR JOSÉ ABDEL AZIZ",
+      "nomeUrna": "OMAR AZIZ",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 3773,
+      "percentual": 62.12,
+      "sqcand": "40001618514"
+    },
+    {
+      "nome": "ALFREDO ALEXANDRE DE MENEZES JUNIOR",
+      "nomeUrna": "CORONEL MENEZES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1625,
+      "percentual": 26.75,
+      "sqcand": "40001643710"
+    },
+    {
+      "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+      "nomeUrna": "ARTHUR NETO",
+      "partido": "PSDB",
+      "numero": "451",
+      "votos": 569,
+      "percentual": 9.37,
+      "sqcand": "40001650568"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SILAS CÂMARA",
+      "nomeUrna": "SILAS CÂMARA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 1357,
+      "percentual": 21.95,
+      "sqcand": "40001609377"
+    },
+    {
+      "nome": "ATILA SIDNEY LINS DE ALBUQUERQUE",
+      "nomeUrna": "ATILA LINS",
+      "partido": "PSD",
+      "numero": "5525",
+      "votos": 1247,
+      "percentual": 20.17,
+      "sqcand": "40001609233"
+    },
+    {
+      "nome": "SAULLO VELAME VIANNA",
+      "nomeUrna": "SAULLO VIANNA",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 935,
+      "percentual": 15.12,
+      "sqcand": "40001618446"
+    },
+    {
+      "nome": "ADAIL JOSÉ FIGUEIREDO PINHEIRO",
+      "nomeUrna": "ADAIL FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 582,
+      "percentual": 9.41,
+      "sqcand": "40001609376"
+    },
+    {
+      "nome": "FAUSTO VIEIRA DOS SANTOS JÚNIOR",
+      "nomeUrna": "FAUSTO SANTOS JR",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 426,
+      "percentual": 6.89,
+      "sqcand": "40001618451"
+    },
+    {
+      "nome": "ALFREDO PEREIRA DO NASCIMENTO",
+      "nomeUrna": "ALFREDO NASCIMENTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 325,
+      "percentual": 5.26,
+      "sqcand": "40001612950"
+    },
+    {
+      "nome": "DAVID VALENTE REIS",
+      "nomeUrna": "DAVID REIS",
+      "partido": "AVANTE",
+      "numero": "7070",
+      "votos": 232,
+      "percentual": 3.75,
+      "sqcand": "40001609206"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ABDALA HABIB FRAXE JUNIOR",
+      "nomeUrna": "ABDALA FRAXE",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 903,
+      "percentual": 14.99,
+      "sqcand": "40001609183"
+    },
+    {
+      "nome": "MAYARA MONIQUE FIGUEIREDO PINHEIRO REIS",
+      "nomeUrna": "DRA MAYARA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 609,
+      "percentual": 10.11,
+      "sqcand": "40001609310"
+    },
+    {
+      "nome": "DERMILSON CARVALHO DAS CHAGAS",
+      "nomeUrna": "DERMILSON CHAGAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 541,
+      "percentual": 8.98,
+      "sqcand": "40001609314"
+    },
+    {
+      "nome": "CRISTIANO DA SILVA DANGELO",
+      "nomeUrna": "CRISTIANO DANGELO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 533,
+      "percentual": 8.85,
+      "sqcand": "40001612909"
+    },
+    {
+      "nome": "JOANA DARC CORDEIRO DE LIMA",
+      "nomeUrna": "JOANA DARC",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 410,
+      "percentual": 6.8,
+      "sqcand": "40001618459"
+    },
+    {
+      "nome": "THEREZINHA RUIZ DE OLIVEIRA",
+      "nomeUrna": "PROF THEREZINHA RUIZ",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 378,
+      "percentual": 6.27,
+      "sqcand": "40001633333"
+    },
+    {
+      "nome": "MAURICIO WILKER DE AZEVEDO BARRETO",
+      "nomeUrna": "WILKER BARRETO",
+      "partido": "CIDADANIA",
+      "numero": "23111",
+      "votos": 364,
+      "percentual": 6.04,
+      "sqcand": "40001650506"
+    }
+  ]
+}

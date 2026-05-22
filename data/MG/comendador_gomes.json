@@ -1,0 +1,271 @@
+{
+  "populacao": 2916,
+  "votosValidos": 2479,
+  "abstencao": 13.61,
+  "prefeito": {
+    "nome": "REGINALDO DA SILVA",
+    "nomeUrna": "REGINALDO SILVA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 1253,
+    "percentual": 50.54,
+    "situacao": "Eleito",
+    "sqcand": "130002231338",
+    "vice": "ECIO RUFINO DE ANDRADE",
+    "viceNomeUrna": "ECIO",
+    "partidoVice": "PP",
+    "sqcandVice": "130002231339",
+    "coligacao": "PP / MDB / PL / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "LEANDRO SILVA FERREIRA",
+      "nomeUrna": "LEANDRINHO",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 234,
+      "percentual": 9.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002293679"
+    },
+    {
+      "nome": "CLAUDIMUNDO NEVES DE JESUS",
+      "nomeUrna": "CLAUDINHO BAIANINHO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 169,
+      "percentual": 6.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002293687"
+    },
+    {
+      "nome": "YGOR RIPOZATTI TERRA",
+      "nomeUrna": "YGOR RIPOZZATI",
+      "partido": "UNIÃO",
+      "numero": "44140",
+      "votos": 158,
+      "percentual": 6.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002293309"
+    },
+    {
+      "nome": "SÍLVIO REQUIÃO",
+      "nomeUrna": "SARGENTO REQUIÃO",
+      "partido": "PP",
+      "numero": "11190",
+      "votos": 157,
+      "percentual": 6.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002293683"
+    },
+    {
+      "nome": "WALTER DE CASTRO NUNES FILHO",
+      "nomeUrna": "WALTIM",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 123,
+      "percentual": 4.96,
+      "situacao": "Eleito por média",
+      "sqcand": "130002293686"
+    },
+    {
+      "nome": "EDMILSON LUIS BORGES GONÇALVES",
+      "nomeUrna": "EDMILSON DO ÔNIBUS",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 120,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "130002297746"
+    },
+    {
+      "nome": "LUIZ DUARTE",
+      "nomeUrna": "CUECA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 113,
+      "percentual": 4.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002293613"
+    },
+    {
+      "nome": "DANIEL DOS SANTOS JÚNIOR",
+      "nomeUrna": "DANIEL DO PROJETO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 101,
+      "percentual": 4.07,
+      "situacao": "Eleito por média",
+      "sqcand": "130002293681"
+    },
+    {
+      "nome": "ANIRON PEREIRA DA COSTA JÚNIOR",
+      "nomeUrna": "ANIRON",
+      "partido": "PSB",
+      "numero": "40190",
+      "votos": 100,
+      "percentual": 4.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002293265"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 953,
+      "percentual": 51.32,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 476,
+      "percentual": 25.63,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 412,
+      "percentual": 22.19,
+      "sqcand": "130001713762"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ VITOR DE RESENDE AGUIAR",
+      "nomeUrna": "ZÉ VITOR",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 384,
+      "percentual": 19.86,
+      "sqcand": "130001610999"
+    },
+    {
+      "nome": "FRANCO CARTAFINA GOMES",
+      "nomeUrna": "FRANCO CARTAFINA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 270,
+      "percentual": 13.96,
+      "sqcand": "130001615410"
+    },
+    {
+      "nome": "AELTON JOSE DE FREITAS",
+      "nomeUrna": "AELTON FREITAS",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 204,
+      "percentual": 10.55,
+      "sqcand": "130001615435"
+    },
+    {
+      "nome": "EDGARD LUIZ MENDONÇA",
+      "nomeUrna": "DR. EDGARD",
+      "partido": "AVANTE",
+      "numero": "7035",
+      "votos": 176,
+      "percentual": 9.1,
+      "sqcand": "130001603573"
+    },
+    {
+      "nome": "GILMAR ALVES MACHADO",
+      "nomeUrna": "GILMAR MACHADO",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 123,
+      "percentual": 6.36,
+      "sqcand": "130001607266"
+    },
+    {
+      "nome": "LUIZ GONZAGA RIBEIRO",
+      "nomeUrna": "SUBTENENTE GONZAGA",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 93,
+      "percentual": 4.81,
+      "sqcand": "130001604329"
+    },
+    {
+      "nome": "MAURICIO LUIZ DE SOUZA",
+      "nomeUrna": "MAURICIO DO VOLEI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 92,
+      "percentual": 4.76,
+      "sqcand": "130001611021"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAUL JOSE DE BELEM",
+      "nomeUrna": "RAUL BELÉM",
+      "partido": "CIDADANIA",
+      "numero": "23700",
+      "votos": 581,
+      "percentual": 31.7,
+      "sqcand": "130001613323"
+    },
+    {
+      "nome": "FRADIQUE GURITA DA SILVA",
+      "nomeUrna": "FRADIQUE GURITA",
+      "partido": "PTB",
+      "numero": "14145",
+      "votos": 136,
+      "percentual": 7.42,
+      "sqcand": "130001645047"
+    },
+    {
+      "nome": "ARNALDO SILVA JÚNIOR",
+      "nomeUrna": "ARNALDO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 126,
+      "percentual": 6.87,
+      "sqcand": "130001607673"
+    },
+    {
+      "nome": "FABRICIO PAULA DE ASSUNÇÃO",
+      "nomeUrna": "FABRICIO ASSUNÇÃO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77999",
+      "votos": 103,
+      "percentual": 5.62,
+      "sqcand": "130001613025"
+    },
+    {
+      "nome": "WASHINGTON FERNANDO RODRIGUES",
+      "nomeUrna": "SARGENTO RODRIGUES",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 92,
+      "percentual": 5.02,
+      "sqcand": "130001619068"
+    },
+    {
+      "nome": "JOSE GUILHERME FERREIRA FILHO",
+      "nomeUrna": "ZÉ GUILHERME",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 84,
+      "percentual": 4.58,
+      "sqcand": "130001615639"
+    },
+    {
+      "nome": "ROCHELLE GUTIERREZ BAZAGA",
+      "nomeUrna": "ROCHELLE",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 67,
+      "percentual": 3.66,
+      "sqcand": "130001615628"
+    }
+  ]
+}

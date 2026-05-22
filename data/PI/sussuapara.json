@@ -1,0 +1,271 @@
+{
+  "populacao": 6817,
+  "votosValidos": 5910,
+  "abstencao": 8.48,
+  "prefeito": {
+    "nome": "NAERTON SILVA MOURA",
+    "nomeUrna": "DR NAERTON MOURA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 5122,
+    "percentual": 86.67,
+    "situacao": "Eleito",
+    "sqcand": "180001979181",
+    "vice": "FRANCISCO DAS CHAGAS MOURA",
+    "viceNomeUrna": "CHAGUINHA",
+    "partidoVice": "PT",
+    "sqcandVice": "180001979182",
+    "coligacao": "MDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ANTONIO MANOEL DOS SANTOS",
+      "nomeUrna": "ANTÔNIO RAMIRO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 600,
+      "percentual": 9.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103492"
+    },
+    {
+      "nome": "JOSÉ ALISSON ARAÚJO SANTANA",
+      "nomeUrna": "DEDÉ CIPAÚBA",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 529,
+      "percentual": 8.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103455"
+    },
+    {
+      "nome": "VANDERLI FERREIRA DE SOUSA",
+      "nomeUrna": "VANDERLÍ",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 438,
+      "percentual": 7.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103450"
+    },
+    {
+      "nome": "JOSÉ OMAR DE MOURA FÉ",
+      "nomeUrna": "JOSÉ OMAR",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 436,
+      "percentual": 7.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103453"
+    },
+    {
+      "nome": "VAGNER OLIVEIRA ROCHA",
+      "nomeUrna": "VAGUIN",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 417,
+      "percentual": 6.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103448"
+    },
+    {
+      "nome": "ENIVALDO ELISEU DA ROCHA",
+      "nomeUrna": "BADIM",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 408,
+      "percentual": 6.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103494"
+    },
+    {
+      "nome": "FRANCISCO EDILBERTO LEAL",
+      "nomeUrna": "EDILBERTO LEAL",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 396,
+      "percentual": 6.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103456"
+    },
+    {
+      "nome": "PAULO EDUARDO LEAL CARVALHO",
+      "nomeUrna": "EDUARDO CAFÉ",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 387,
+      "percentual": 6.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103493"
+    },
+    {
+      "nome": "FRANCISCO EVERTON CAMPOS VELOSO",
+      "nomeUrna": "VELOZINHO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 251,
+      "percentual": 4.13,
+      "situacao": "Eleito por média",
+      "sqcand": "180002103487"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 3045,
+      "percentual": 66.81,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1490,
+      "percentual": 32.69,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "ANTONIO JOSÉ FONTINELE DA SILVA",
+      "nomeUrna": "PROFESSOR AJOSÉ",
+      "partido": "PMN",
+      "numero": "333",
+      "votos": 15,
+      "percentual": 0.33,
+      "sqcand": "180001714361"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "REJANE RIBEIRO SOUSA DIAS",
+      "nomeUrna": "REJANE DIAS",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 2027,
+      "percentual": 44.24,
+      "sqcand": "180001610756"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS DE OLIVEIRA COSTA",
+      "nomeUrna": "DR. FRANCISCO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 415,
+      "percentual": 9.06,
+      "sqcand": "180001610755"
+    },
+    {
+      "nome": "WILSON NUNES MARTINS",
+      "nomeUrna": "WILSON MARTINS",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 300,
+      "percentual": 6.55,
+      "sqcand": "180001610757"
+    },
+    {
+      "nome": "FLORENTINO ALVES VERAS NETO",
+      "nomeUrna": "FLORENTINO NETO",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 296,
+      "percentual": 6.46,
+      "sqcand": "180001610762"
+    },
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 228,
+      "percentual": 4.98,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "RAIMUNDO DE SA URTIGA FILHO",
+      "nomeUrna": "RSÁ FILHO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 181,
+      "percentual": 3.95,
+      "sqcand": "180001601223"
+    },
+    {
+      "nome": "JULIO FERRAZ ARCOVERDE",
+      "nomeUrna": "JULIO ARCOVERDE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 177,
+      "percentual": 3.86,
+      "sqcand": "180001602515"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SEVERO MARIA EULALIO NETO",
+      "nomeUrna": "SEVERO EULÁLIO",
+      "partido": "MDB",
+      "numero": "15101",
+      "votos": 1560,
+      "percentual": 34.77,
+      "sqcand": "180001605756"
+    },
+    {
+      "nome": "JOSÉ ICEMAR LAVÔR NÉRI",
+      "nomeUrna": "NERINHO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 516,
+      "percentual": 11.5,
+      "sqcand": "180001605695"
+    },
+    {
+      "nome": "ALDO GIL DE MEDEIROS",
+      "nomeUrna": "ALDO GIL",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 452,
+      "percentual": 10.07,
+      "sqcand": "180001604053"
+    },
+    {
+      "nome": "THALES COELHO PIMENTEL",
+      "nomeUrna": "DR. THALES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 427,
+      "percentual": 9.52,
+      "sqcand": "180001604044"
+    },
+    {
+      "nome": "ELISANGELA MARIA DOS SANTOS MOURA",
+      "nomeUrna": "ELISANGELA MOURA",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 258,
+      "percentual": 5.75,
+      "sqcand": "180001605697"
+    },
+    {
+      "nome": "PABLO DANTAS DE MOURA SANTOS",
+      "nomeUrna": "DR PABLO SANTOS",
+      "partido": "MDB",
+      "numero": "15199",
+      "votos": 257,
+      "percentual": 5.73,
+      "sqcand": "180001605769"
+    },
+    {
+      "nome": "CARLOS AUGUSTO GOMES DE SOUZA",
+      "nomeUrna": "CEL CARLOS AUGUSTO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 242,
+      "percentual": 5.39,
+      "sqcand": "180001605754"
+    }
+  ]
+}

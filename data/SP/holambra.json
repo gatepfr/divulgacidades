@@ -1,0 +1,271 @@
+{
+  "populacao": 12186,
+  "votosValidos": 7432,
+  "abstencao": 21.12,
+  "prefeito": {
+    "nome": "FERNANDO HENRIQUE CAPATO",
+    "nomeUrna": "FERNANDO CAPATO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 7432,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "250002088519",
+    "vice": "MIGUEL RENATO ESPERANÇA",
+    "viceNomeUrna": "MIGUEL ESPERANÇA",
+    "partidoVice": "PSDB",
+    "sqcandVice": "250002088520",
+    "coligacao": "REPUBLICANOS / MDB / PODE / PL / CIDADANIA / PSDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "APARECIDO LOPES DA SILVA LIMA",
+      "nomeUrna": "CIDO URSO",
+      "partido": "PODE",
+      "numero": "20444",
+      "votos": 658,
+      "percentual": 7.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002370602"
+    },
+    {
+      "nome": "JANDERSON ADRIANO RIBEIRO",
+      "nomeUrna": "CHIBA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 562,
+      "percentual": 6.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002370619"
+    },
+    {
+      "nome": "JOSEANE DE MENEZES MORETON ESPERANÇA",
+      "nomeUrna": "JÔ DA FARMÁCIA",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 532,
+      "percentual": 6.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002370798"
+    },
+    {
+      "nome": "EDUARDO DA SILVA",
+      "nomeUrna": "PERNAMBUCO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 485,
+      "percentual": 5.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002370693"
+    },
+    {
+      "nome": "HERMINDO FELIX",
+      "nomeUrna": "HERMINDO DO FUNDÃO",
+      "partido": "PSDB",
+      "numero": "45355",
+      "votos": 463,
+      "percentual": 5.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002370802"
+    },
+    {
+      "nome": "JOSÉ MARCOS DE SOUZA",
+      "nomeUrna": "TATU",
+      "partido": "PSDB",
+      "numero": "45620",
+      "votos": 357,
+      "percentual": 4.07,
+      "situacao": "Eleito por média",
+      "sqcand": "250002370793"
+    },
+    {
+      "nome": "MAURO SÉRGIO DE OLIVEIRA",
+      "nomeUrna": "SERJÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 347,
+      "percentual": 3.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002370606"
+    },
+    {
+      "nome": "FABIANO SOARES LIMA",
+      "nomeUrna": "FABIANO SOARES",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 308,
+      "percentual": 3.51,
+      "situacao": "Eleito por média",
+      "sqcand": "250002370699"
+    },
+    {
+      "nome": "JOSÉ ZAN DA SILVA",
+      "nomeUrna": "ZÉ CABELO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 236,
+      "percentual": 2.69,
+      "situacao": "Eleito por média",
+      "sqcand": "250002370682"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4642,
+      "percentual": 55.23,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1642,
+      "percentual": 19.54,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1576,
+      "percentual": 18.75,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 1503,
+      "percentual": 17.09,
+      "sqcand": "250001612091"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 570,
+      "percentual": 6.48,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 417,
+      "percentual": 4.74,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 409,
+      "percentual": 4.65,
+      "sqcand": "250001612102"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 389,
+      "percentual": 4.42,
+      "sqcand": "250001611315"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 386,
+      "percentual": 4.39,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "PAULO ROBERTO FREIRE DA COSTA",
+      "nomeUrna": "PAULO FREIRE DA COSTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 240,
+      "percentual": 2.73,
+      "sqcand": "250001611351"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSE ANTONIO BARROS MUNHOZ",
+      "nomeUrna": "BARROS MUNHOZ",
+      "partido": "PSDB",
+      "numero": "45545",
+      "votos": 2410,
+      "percentual": 29.25,
+      "sqcand": "250001611434"
+    },
+    {
+      "nome": "RAFAEL FERNANDO ZIMBALDI",
+      "nomeUrna": "RAFA ZIMBALDI",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 791,
+      "percentual": 9.6,
+      "sqcand": "250001611460"
+    },
+    {
+      "nome": "JORGE LUIS CARUSO",
+      "nomeUrna": "CARUSO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 236,
+      "percentual": 2.86,
+      "sqcand": "250001609973"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 203,
+      "percentual": 2.46,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "GILMACI DOS SANTOS BARBOSA",
+      "nomeUrna": "GILMACI SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 199,
+      "percentual": 2.42,
+      "sqcand": "250001639568"
+    },
+    {
+      "nome": "DIMAS MECCA SAMPAIO",
+      "nomeUrna": "MAJOR MECCA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 186,
+      "percentual": 2.26,
+      "sqcand": "250001610181"
+    },
+    {
+      "nome": "MARTA MARIA FREIRE DA COSTA",
+      "nomeUrna": "MARTA COSTA",
+      "partido": "PSD",
+      "numero": "55400",
+      "votos": 184,
+      "percentual": 2.23,
+      "sqcand": "250001605001"
+    }
+  ]
+}

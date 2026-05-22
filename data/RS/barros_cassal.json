@@ -1,0 +1,271 @@
+{
+  "populacao": 8589,
+  "votosValidos": 7195,
+  "abstencao": 14.23,
+  "prefeito": {
+    "nome": "JOVIANO ZAGO",
+    "nomeUrna": "JOVIANO ZAGO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3657,
+    "percentual": 50.83,
+    "situacao": "Eleito",
+    "sqcand": "210002135852",
+    "vice": "ZAIMAR CLAUDIANO DA COSTA",
+    "viceNomeUrna": "ZAIMAR DA COSTA",
+    "partidoVice": "PSB",
+    "sqcandVice": "210002135853",
+    "coligacao": "MDB / CIDADANIA / PSDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "MAURO HEITOR DA SILVEIRA",
+      "nomeUrna": "MAURINHO DA SAÚDE",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 569,
+      "percentual": 7.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001927169"
+    },
+    {
+      "nome": "GLEOBETO POSSAMAI",
+      "nomeUrna": "BETO GRINGO",
+      "partido": "MDB",
+      "numero": "15200",
+      "votos": 560,
+      "percentual": 7.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002031403"
+    },
+    {
+      "nome": "APARECIDA DE FÁTIMA NEVES PEREIRA",
+      "nomeUrna": "APARECIDA",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 549,
+      "percentual": 7.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001927166"
+    },
+    {
+      "nome": "IVONIR CAMARGO ORTIZ",
+      "nomeUrna": "BIRO BIRO",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 541,
+      "percentual": 7.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002031401"
+    },
+    {
+      "nome": "VALDEMIR NOLLI",
+      "nomeUrna": "VALDY NOLLI",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 488,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001927171"
+    },
+    {
+      "nome": "DANIELA MARLISE RODRIGUES DA SILVA DE OLIVEIRA",
+      "nomeUrna": "DANI RODRIGUES",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 461,
+      "percentual": 6.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002031399"
+    },
+    {
+      "nome": "ALEXANDRE CARDOSO DE MOREIRA",
+      "nomeUrna": "XANDÃO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 414,
+      "percentual": 5.72,
+      "situacao": "Eleito por média",
+      "sqcand": "210001927170"
+    },
+    {
+      "nome": "VILSON CARLESSO",
+      "nomeUrna": "MANO CARLESSO",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 345,
+      "percentual": 4.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002075814"
+    },
+    {
+      "nome": "DARIO JOSE SEGATTO",
+      "nomeUrna": "DARIO",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 273,
+      "percentual": 3.77,
+      "situacao": "Eleito por média",
+      "sqcand": "210001923372"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2324,
+      "percentual": 40.08,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1777,
+      "percentual": 30.64,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1607,
+      "percentual": 27.71,
+      "sqcand": "210001610438"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 925,
+      "percentual": 14.87,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 757,
+      "percentual": 12.17,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "MARCELO PIRES MORAES",
+      "nomeUrna": "MARCELO MORAES",
+      "partido": "PL",
+      "numero": "2214",
+      "votos": 613,
+      "percentual": 9.85,
+      "sqcand": "210001648576"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 602,
+      "percentual": 9.68,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 580,
+      "percentual": 9.32,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "LUCIANO PALMA DE AZEVEDO",
+      "nomeUrna": "LUCIANO AZEVEDO",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 296,
+      "percentual": 4.76,
+      "sqcand": "210001613993"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 296,
+      "percentual": 4.76,
+      "sqcand": "210001647859"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 881,
+      "percentual": 15.02,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 585,
+      "percentual": 9.98,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "GILBERTO CAPOANI",
+      "nomeUrna": "GILBERTO CAPOANI",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 564,
+      "percentual": 9.62,
+      "sqcand": "210001647990"
+    },
+    {
+      "nome": "NEIVA TERESINHA MARQUES",
+      "nomeUrna": "KELLY MORAES",
+      "partido": "PL",
+      "numero": "22214",
+      "votos": 562,
+      "percentual": 9.58,
+      "sqcand": "210001648951"
+    },
+    {
+      "nome": "EDIVILSON MEURER BRUM",
+      "nomeUrna": "EDIVILSON BRUM",
+      "partido": "MDB",
+      "numero": "15200",
+      "votos": 505,
+      "percentual": 8.61,
+      "sqcand": "210001647977"
+    },
+    {
+      "nome": "MANIR JOSE ZENI",
+      "nomeUrna": "MANIR ZENI",
+      "partido": "PSB",
+      "numero": "40240",
+      "votos": 422,
+      "percentual": 7.2,
+      "sqcand": "210001602917"
+    },
+    {
+      "nome": "RAFAEL BRAGA LIBRELOTTO",
+      "nomeUrna": "RAFAEL BRAGA LIBRELOTTO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 332,
+      "percentual": 5.66,
+      "sqcand": "210001648002"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 19003,
+  "votosValidos": 15431,
+  "abstencao": 16.76,
+  "prefeito": {
+    "nome": "ANTONIO LUIZ BENDO",
+    "nomeUrna": "BIM",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 8580,
+    "percentual": 55.6,
+    "situacao": "Eleito",
+    "sqcand": "160001943484",
+    "vice": "PEDRO MATIAS DE ARAUJO",
+    "viceNomeUrna": "DOUTOR PEDRO",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "160001943483",
+    "coligacao": "REPUBLICANOS / PP / MDB / PRD / NOVO / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE VALENTIM DA SILVA MOTTA",
+      "nomeUrna": "JACARÉ",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 952,
+      "percentual": 6.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001974014"
+    },
+    {
+      "nome": "GISELIS SILVA VIANA",
+      "nomeUrna": "GISELIS VIANA SOCIAL",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 740,
+      "percentual": 4.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001904181"
+    },
+    {
+      "nome": "MARCELO DE CAMPOS",
+      "nomeUrna": "POLICIAL MARCELO CAMPOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 623,
+      "percentual": 4.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002005626"
+    },
+    {
+      "nome": "PAULO SÉRGIO RUPPENTHAL",
+      "nomeUrna": "PAULO RUPPENTHAL",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 595,
+      "percentual": 3.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001912042"
+    },
+    {
+      "nome": "FERNANDO DAL PONT JUNIOR",
+      "nomeUrna": "JUNIOR DAL PONT",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 508,
+      "percentual": 3.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001974013"
+    },
+    {
+      "nome": "CLAUDETE APARECIDA BRAMBATTI",
+      "nomeUrna": "CLAUDETE BRAMBATTI",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 495,
+      "percentual": 3.21,
+      "situacao": "Eleito por média",
+      "sqcand": "160001974016"
+    },
+    {
+      "nome": "ALEXANDRO TAVARES PEREIRA",
+      "nomeUrna": "ALEXANDRE",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 488,
+      "percentual": 3.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001904188"
+    },
+    {
+      "nome": "JENNY BRUSTOLIN",
+      "nomeUrna": "JENNY",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 475,
+      "percentual": 3.08,
+      "situacao": "Eleito por média",
+      "sqcand": "160001974015"
+    },
+    {
+      "nome": "MARIA ISOLDI SCHAFER",
+      "nomeUrna": "ISOLDI DO POSTINHO",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 463,
+      "percentual": 3.01,
+      "situacao": "Eleito por média",
+      "sqcand": "160001904183"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 5961,
+      "percentual": 45.51,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 3170,
+      "percentual": 24.2,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 2835,
+      "percentual": 21.64,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS ALBERTO RICHA",
+      "nomeUrna": "BETO RICHA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 2727,
+      "percentual": 20.46,
+      "sqcand": "160001603723"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1103,
+      "percentual": 8.28,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "DILCEU JOÃO SPERAFICO",
+      "nomeUrna": "DILCEU SPERAFICO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 1008,
+      "percentual": 7.56,
+      "sqcand": "160001603297"
+    },
+    {
+      "nome": "LUCIANO ALVES DOS SANTOS",
+      "nomeUrna": "LUCIANO ALVES",
+      "partido": "PSD",
+      "numero": "5580",
+      "votos": 1005,
+      "percentual": 7.54,
+      "sqcand": "160001622306"
+    },
+    {
+      "nome": "NELSI COGUETTO MARIA",
+      "nomeUrna": "VERMELHO",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 774,
+      "percentual": 5.81,
+      "sqcand": "160001622020"
+    },
+    {
+      "nome": "SEBASTIÃO CARLOS DE SOUZA",
+      "nomeUrna": "CABO CARLOS",
+      "partido": "PROS",
+      "numero": "9038",
+      "votos": 588,
+      "percentual": 4.41,
+      "sqcand": "160001621912"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 491,
+      "percentual": 3.68,
+      "sqcand": "160001614512"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 5036,
+      "percentual": 38.54,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "WANER XAVIER DA SILVA",
+      "nomeUrna": "WANER XAVIER",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 1234,
+      "percentual": 9.44,
+      "sqcand": "160001623093"
+    },
+    {
+      "nome": "ARLENIO JOSE BOAROLI",
+      "nomeUrna": "ARLENIO",
+      "partido": "PATRIOTA",
+      "numero": "51111",
+      "votos": 872,
+      "percentual": 6.67,
+      "sqcand": "160001716149"
+    },
+    {
+      "nome": "ROSA MARIA JERONYMO LIMA",
+      "nomeUrna": "ROSA MARIA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 709,
+      "percentual": 5.43,
+      "sqcand": "160001614859"
+    },
+    {
+      "nome": "MARCOS ADRIANO FERREIRA FRUET",
+      "nomeUrna": "SOLDADO FRUET",
+      "partido": "PROS",
+      "numero": "90181",
+      "votos": 585,
+      "percentual": 4.48,
+      "sqcand": "160001622188"
+    },
+    {
+      "nome": "MAURICIO THADEU DE MELLO E SILVA",
+      "nomeUrna": "REQUIÃO FILHO",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 401,
+      "percentual": 3.07,
+      "sqcand": "160001615006"
+    },
+    {
+      "nome": "MATHEUS VELOSO MARIA",
+      "nomeUrna": "MATHEUS VERMELHO",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 291,
+      "percentual": 2.23,
+      "sqcand": "160001603347"
+    }
+  ]
+}

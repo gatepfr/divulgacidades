@@ -1,0 +1,271 @@
+{
+  "populacao": 5426,
+  "votosValidos": 4703,
+  "abstencao": 10.69,
+  "prefeito": {
+    "nome": "JOEL ISIDORO CRISTIANETTI",
+    "nomeUrna": "JOEL ISIDORO JUCA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 2588,
+    "percentual": 55.03,
+    "situacao": "Eleito",
+    "sqcand": "210002077247",
+    "vice": "JHONES VUELMA",
+    "viceNomeUrna": "SAPINHO",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002389417",
+    "coligacao": "PL / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LUIZ GUSTAVO PIVA",
+      "nomeUrna": "LUIZ GUSTAVO PIVA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 360,
+      "percentual": 7.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002137295"
+    },
+    {
+      "nome": "NEIMAR CENCI",
+      "nomeUrna": "NEIMAR CENCI",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 349,
+      "percentual": 7.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002137220"
+    },
+    {
+      "nome": "GILBERTO FRANCESCATTO",
+      "nomeUrna": "BETO FRANCESCATTO",
+      "partido": "MDB",
+      "numero": "15200",
+      "votos": 302,
+      "percentual": 6.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002313093"
+    },
+    {
+      "nome": "LUIZ CARLOS CANEVESE",
+      "nomeUrna": "GORDO DO CANEVESE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 295,
+      "percentual": 6.22,
+      "situacao": "Eleito por média",
+      "sqcand": "210002137218"
+    },
+    {
+      "nome": "LUCIANO BARBIERO",
+      "nomeUrna": "LUCIANO NIGRI",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 246,
+      "percentual": 5.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002373921"
+    },
+    {
+      "nome": "LECIR BAREA",
+      "nomeUrna": "LECIR BAREA",
+      "partido": "MDB",
+      "numero": "15567",
+      "votos": 234,
+      "percentual": 4.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002313091"
+    },
+    {
+      "nome": "SILVIO CAZANATTO",
+      "nomeUrna": "SILVIO CAZANATTO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 215,
+      "percentual": 4.53,
+      "situacao": "Eleito por média",
+      "sqcand": "210002358665"
+    },
+    {
+      "nome": "ALEXANDRE ZWIRTES",
+      "nomeUrna": "ALEXANDRE ZWIRTES",
+      "partido": "PL",
+      "numero": "22620",
+      "votos": 186,
+      "percentual": 3.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002373923"
+    },
+    {
+      "nome": "ELENAMAR CINELLI GUADAGNIN",
+      "nomeUrna": "ELENAMAR CINELLI GUADAGNIN",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 110,
+      "percentual": 2.32,
+      "situacao": "Eleito por média",
+      "sqcand": "210002137296"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2281,
+      "percentual": 58.68,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 852,
+      "percentual": 21.92,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 733,
+      "percentual": 18.86,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 586,
+      "percentual": 14.43,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 517,
+      "percentual": 12.73,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 511,
+      "percentual": 12.59,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 324,
+      "percentual": 7.98,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 304,
+      "percentual": 7.49,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 175,
+      "percentual": 4.31,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "ANY MACHADO ORTIZ",
+      "nomeUrna": "ANY ORTIZ",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 145,
+      "percentual": 3.57,
+      "sqcand": "210001620037"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GUILHERME RECH PASIN",
+      "nomeUrna": "GUILHERME PASIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 897,
+      "percentual": 22.42,
+      "sqcand": "210001647169"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 517,
+      "percentual": 12.92,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "ARLINDO ANTONIO LOPES",
+      "nomeUrna": "ARLINDO LOPES",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 342,
+      "percentual": 8.55,
+      "sqcand": "210001647974"
+    },
+    {
+      "nome": "RONALDO SANTINI",
+      "nomeUrna": "SANTINI",
+      "partido": "PODE",
+      "numero": "19777",
+      "votos": 313,
+      "percentual": 7.82,
+      "sqcand": "210001596147"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 266,
+      "percentual": 6.65,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "CLAUDIOMIRO FRACASSO",
+      "nomeUrna": "CLAUDIÃO DE IBIAÇÁ",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 255,
+      "percentual": 6.37,
+      "sqcand": "210001610602"
+    },
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 217,
+      "percentual": 5.42,
+      "sqcand": "210001647982"
+    }
+  ]
+}

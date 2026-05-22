@@ -1,0 +1,291 @@
+{
+  "populacao": 14899,
+  "votosValidos": 12430,
+  "abstencao": 14.58,
+  "prefeito": {
+    "nome": "RAIMUNDO DE OLIVEIRA FILHO",
+    "nomeUrna": "RAIMUNDO LIDIO",
+    "partido": "SOLIDARIEDADE",
+    "numero": "77",
+    "votos": 6559,
+    "percentual": 52.77,
+    "situacao": "Eleito",
+    "sqcand": "100002256641",
+    "vice": "RAIMUNDA COSTA ALMEIDA",
+    "viceNomeUrna": "RAIMUNDA DO SINDICATO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "100002256640",
+    "coligacao": "REPUBLICANOS / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "MANOEL ROCHA DOS REIS",
+      "nomeUrna": "MANOELZINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 1053,
+      "percentual": 8.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002021382"
+    },
+    {
+      "nome": "DARLISSON FERREIRA DA SILVA",
+      "nomeUrna": "DARLISSON",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 866,
+      "percentual": 6.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002021383"
+    },
+    {
+      "nome": "KENIA ANDREZZA NETO SILVA",
+      "nomeUrna": "ENFERMEIRA KENIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 835,
+      "percentual": 6.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002021389"
+    },
+    {
+      "nome": "ELTON JOSE ARAUJO CALDAS",
+      "nomeUrna": "ELTON CALDAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 792,
+      "percentual": 6.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002021378"
+    },
+    {
+      "nome": "DENISE CRISTINA GOMES PINHEIRO",
+      "nomeUrna": "DENISE GOMES",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 705,
+      "percentual": 5.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002346634"
+    },
+    {
+      "nome": "JORGE BERNARDO JUNIOR",
+      "nomeUrna": "CORONEL BERNARDO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 626,
+      "percentual": 5.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002021228"
+    },
+    {
+      "nome": "ANA LUCIA MARQUES ARAUJO",
+      "nomeUrna": "ANA LUCIA MARQUES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 617,
+      "percentual": 4.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002021233"
+    },
+    {
+      "nome": "MANOEL DE JESUS CABRAL DA PAZ",
+      "nomeUrna": "BACUTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 540,
+      "percentual": 4.34,
+      "situacao": "Eleito por média",
+      "sqcand": "100002021381"
+    },
+    {
+      "nome": "VANUZIA DA PAZ MARTINS",
+      "nomeUrna": "VANUZIA DO BENTIVI",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 523,
+      "percentual": 4.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002212872"
+    },
+    {
+      "nome": "RAIMUNDO NONATO CABRAL BARROS",
+      "nomeUrna": "RAIMUNDO DO SINDICATO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 497,
+      "percentual": 3.99,
+      "situacao": "Eleito por média",
+      "sqcand": "100002021227"
+    },
+    {
+      "nome": "LOURENÇA COSTA ROCHA",
+      "nomeUrna": "TULA",
+      "partido": "PODE",
+      "numero": "20555",
+      "votos": 336,
+      "percentual": 2.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002277998"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 8137,
+      "percentual": 80.96,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 1827,
+      "percentual": 18.18,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 43,
+      "percentual": 0.43,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALUISIO GUIMARAES MENDES FILHO",
+      "nomeUrna": "ALUISIO MENDES",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 2365,
+      "percentual": 22.17,
+      "sqcand": "100001615465"
+    },
+    {
+      "nome": "ROBERTO SILVA MAUES",
+      "nomeUrna": "ROBERTO MAUES",
+      "partido": "PP",
+      "numero": "1145",
+      "votos": 2140,
+      "percentual": 20.06,
+      "sqcand": "100001608084"
+    },
+    {
+      "nome": "JOSIMAR CUNHA RODRIGUES",
+      "nomeUrna": "JOSIMAR MARANHÃOZINHO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1425,
+      "percentual": 13.36,
+      "sqcand": "100001603114"
+    },
+    {
+      "nome": "JOSÉ CARLOS NUNES JÚNIOR",
+      "nomeUrna": "ZÉ CARLOS",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 653,
+      "percentual": 6.12,
+      "sqcand": "100001613717"
+    },
+    {
+      "nome": "FLAVIA MARIA GOMES PARENTE ALVES MACIEL",
+      "nomeUrna": "FLAVIA ALVES",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 516,
+      "percentual": 4.84,
+      "sqcand": "100001613706"
+    },
+    {
+      "nome": "ROSEANA SARNEY MURAD",
+      "nomeUrna": "ROSEANA SARNEY",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 480,
+      "percentual": 4.5,
+      "sqcand": "100001599082"
+    },
+    {
+      "nome": "MARCIO JOSE HONAISER",
+      "nomeUrna": "MÁRCIO HONAISER",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 424,
+      "percentual": 3.97,
+      "sqcand": "100001601143"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "OTHELINO NOVA ALVES NETO",
+      "nomeUrna": "OTHELINO NETO",
+      "partido": "PC do B",
+      "numero": "65065",
+      "votos": 2455,
+      "percentual": 24.19,
+      "sqcand": "100001613745"
+    },
+    {
+      "nome": "ALUIZIO DE SOUZA SANTOS",
+      "nomeUrna": "ALUIZIO SANTOS",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 1141,
+      "percentual": 11.24,
+      "sqcand": "100001603187"
+    },
+    {
+      "nome": "JOSE GEOVANI LOPES DE QUEIROZ JUNIOR",
+      "nomeUrna": "JUNIOR FRANÇA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 1097,
+      "percentual": 10.81,
+      "sqcand": "100001608097"
+    },
+    {
+      "nome": "YGLESIO LUCIANO MOYSES SILVA DE SOUZA",
+      "nomeUrna": "DR. YGLÉSIO",
+      "partido": "PSB",
+      "numero": "40321",
+      "votos": 624,
+      "percentual": 6.15,
+      "sqcand": "100001607076"
+    },
+    {
+      "nome": "RODRIGO PIRES FERREIRA LAGO",
+      "nomeUrna": "RODRIGO LAGO",
+      "partido": "PC do B",
+      "numero": "65400",
+      "votos": 429,
+      "percentual": 4.23,
+      "sqcand": "100001613741"
+    },
+    {
+      "nome": "FABIO HENRIQUE RAMOS BRAGA",
+      "nomeUrna": "FABIO BRAGA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 399,
+      "percentual": 3.93,
+      "sqcand": "100001608086"
+    },
+    {
+      "nome": "ARISTON RIBEIRO DE SOUSA",
+      "nomeUrna": "ARISTON GONÇALO",
+      "partido": "PSB",
+      "numero": "40233",
+      "votos": 374,
+      "percentual": 3.69,
+      "sqcand": "100001607069"
+    }
+  ]
+}

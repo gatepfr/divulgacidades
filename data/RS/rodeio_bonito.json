@@ -1,0 +1,271 @@
+{
+  "populacao": 5280,
+  "votosValidos": 4569,
+  "abstencao": 11.93,
+  "prefeito": {
+    "nome": "PAULO DUARTE",
+    "nomeUrna": "PAULO DUARTE",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 2658,
+    "percentual": 58.17,
+    "situacao": "Eleito",
+    "sqcand": "210002113959",
+    "vice": "MARCIA BEATRIZ VEDANA",
+    "viceNomeUrna": "MARCIA VEDANA",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "210002113960",
+    "coligacao": "REPUBLICANOS / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "GELSON ANTONIO POSSAMAI",
+      "nomeUrna": "GELSON POSSAMAI",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 414,
+      "percentual": 9.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002114317"
+    },
+    {
+      "nome": "EUZEBIO LAVRATTI",
+      "nomeUrna": "EUZEBIO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 398,
+      "percentual": 8.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002205454"
+    },
+    {
+      "nome": "GILMAR JOSE ENDERLI",
+      "nomeUrna": "NEGO ENDERLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 344,
+      "percentual": 7.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002114321"
+    },
+    {
+      "nome": "GLAIZETE FATIMA CASANI",
+      "nomeUrna": "GLAIZETE",
+      "partido": "REPUBLICANOS",
+      "numero": "10110",
+      "votos": 321,
+      "percentual": 7.06,
+      "situacao": "Eleito por média",
+      "sqcand": "210002114319"
+    },
+    {
+      "nome": "JUCEMAR LUIZ SIPRANDI",
+      "nomeUrna": "JOCE SIPRANDI",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 271,
+      "percentual": 5.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151732"
+    },
+    {
+      "nome": "IURA GARBIN",
+      "nomeUrna": "IURA GARBIN",
+      "partido": "MDB",
+      "numero": "15690",
+      "votos": 264,
+      "percentual": 5.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002205451"
+    },
+    {
+      "nome": "EUZEBIO CARLOS GIORDANI",
+      "nomeUrna": "TITO",
+      "partido": "PT",
+      "numero": "13313",
+      "votos": 245,
+      "percentual": 5.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002110663"
+    },
+    {
+      "nome": "CLEDIR FATIMA ACADROLI",
+      "nomeUrna": "PROFESSORA CLEDIR ACADROLI",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 164,
+      "percentual": 3.61,
+      "situacao": "Eleito por média",
+      "sqcand": "210002151737"
+    },
+    {
+      "nome": "ENIO BARBOSA PIRES",
+      "nomeUrna": "ENIO PIRES",
+      "partido": "MDB",
+      "numero": "15630",
+      "votos": 115,
+      "percentual": 2.53,
+      "situacao": "Eleito por média",
+      "sqcand": "210002205448"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1777,
+      "percentual": 46.45,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1441,
+      "percentual": 37.66,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 573,
+      "percentual": 14.98,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 797,
+      "percentual": 20.15,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "JORGE ALAN SOUZA",
+      "nomeUrna": "DR. JORGE ALAN",
+      "partido": "PSDB",
+      "numero": "4566",
+      "votos": 469,
+      "percentual": 11.86,
+      "sqcand": "210001620063"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 306,
+      "percentual": 7.74,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 279,
+      "percentual": 7.05,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 244,
+      "percentual": 6.17,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 219,
+      "percentual": 5.54,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 174,
+      "percentual": 4.4,
+      "sqcand": "210001648591"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 974,
+      "percentual": 25.79,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "CELSIO HOLZ",
+      "nomeUrna": "CELSIO HOLZ",
+      "partido": "PTB",
+      "numero": "14123",
+      "votos": 599,
+      "percentual": 15.86,
+      "sqcand": "210001649798"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 308,
+      "percentual": 8.16,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "ROBERTO FANTINEL",
+      "nomeUrna": "BETO FANTINEL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 202,
+      "percentual": 5.35,
+      "sqcand": "210001648003"
+    },
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 201,
+      "percentual": 5.32,
+      "sqcand": "210001647982"
+    },
+    {
+      "nome": "RICARDO HENRIQUE FAVIN",
+      "nomeUrna": "RICARDO FAVIN",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 127,
+      "percentual": 3.36,
+      "sqcand": "210001620192"
+    },
+    {
+      "nome": "GERRI SAWARIS",
+      "nomeUrna": "GERRI SAWARIS",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 118,
+      "percentual": 3.12,
+      "sqcand": "210001610610"
+    }
+  ]
+}

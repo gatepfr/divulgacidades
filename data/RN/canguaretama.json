@@ -1,0 +1,291 @@
+{
+  "populacao": 24767,
+  "votosValidos": 19779,
+  "abstencao": 16.66,
+  "prefeito": {
+    "nome": "LEANDRO VARELA DOS SANTOS",
+    "nomeUrna": "LEANDRO VARELA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 10774,
+    "percentual": 54.47,
+    "situacao": "Eleito",
+    "sqcand": "200002023403",
+    "vice": "ERIVAN DE SOUZA LIMA",
+    "viceNomeUrna": "TATÁ",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "200002257374",
+    "coligacao": "MDB / PRTB / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE ELANIO SOUZA DE LIMA",
+      "nomeUrna": "ELANIO IRMÃO DE GUGA",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 1035,
+      "percentual": 5.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002036953"
+    },
+    {
+      "nome": "VENICIUS RANIERE SOARES DE SANTANA",
+      "nomeUrna": "VENICIUS",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1033,
+      "percentual": 5.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002270134"
+    },
+    {
+      "nome": "FABIO NUNES DA SILVA",
+      "nomeUrna": "FABIO DO GELO",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 943,
+      "percentual": 4.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002270135"
+    },
+    {
+      "nome": "WALESKA ALICE DA SILVA NASCIMENTO",
+      "nomeUrna": "WALESKA ALICE",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 876,
+      "percentual": 4.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002270137"
+    },
+    {
+      "nome": "ISABEL CRISTINA ALVES COSTA",
+      "nomeUrna": "ISABEL DE JOEL",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 833,
+      "percentual": 4.22,
+      "situacao": "Eleito por média",
+      "sqcand": "200002036958"
+    },
+    {
+      "nome": "JOEL EMANOEL ANDRADE DO NASCIMENTO",
+      "nomeUrna": "JOEL DE BAL",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 696,
+      "percentual": 3.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002270139"
+    },
+    {
+      "nome": "MARTA TRAJANO DA SILVA",
+      "nomeUrna": "MARTA DE DR JÚLIO",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 624,
+      "percentual": 3.16,
+      "situacao": "Eleito por média",
+      "sqcand": "200002270142"
+    },
+    {
+      "nome": "JACKSON ADRIANO DA SILVA ABREU",
+      "nomeUrna": "PROF JACKSON ABREU",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 535,
+      "percentual": 2.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002269815"
+    },
+    {
+      "nome": "KARLAS SIMONNE VIEIRA BEZERRA",
+      "nomeUrna": "SIMONE VIEIRA",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 454,
+      "percentual": 2.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002270442"
+    },
+    {
+      "nome": "SEVERINO MANOEL  DO NASCIMENTO JUNIOR",
+      "nomeUrna": "JUNIOR DO FRANGO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 443,
+      "percentual": 2.24,
+      "situacao": "Eleito por média",
+      "sqcand": "200002270448"
+    },
+    {
+      "nome": "ALUÍZIO HERMINIO DE LIMA",
+      "nomeUrna": "ALUÍZIO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 442,
+      "percentual": 2.24,
+      "situacao": "Eleito por média",
+      "sqcand": "200002359589"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 6293,
+      "percentual": 44.32,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 3868,
+      "percentual": 27.24,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 3808,
+      "percentual": 26.82,
+      "sqcand": "200001612334"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO",
+      "nomeUrna": "BETO ROSADO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 3609,
+      "percentual": 23.09,
+      "sqcand": "200001600544"
+    },
+    {
+      "nome": "PAULO EDUARDO DA COSTA FREIRE",
+      "nomeUrna": "PAULINHO FREIRE",
+      "partido": "UNIÃO",
+      "numero": "4488",
+      "votos": 1411,
+      "percentual": 9.03,
+      "sqcand": "200001608801"
+    },
+    {
+      "nome": "LUIZ BENES LEOCÁDIO DE ARAÚJO",
+      "nomeUrna": "BENES LEOCÁDIO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1260,
+      "percentual": 8.06,
+      "sqcand": "200001608805"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 1147,
+      "percentual": 7.34,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "KELPS DE OLIVEIRA LIMA",
+      "nomeUrna": "KELPS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 785,
+      "percentual": 5.02,
+      "sqcand": "200001601303"
+    },
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 595,
+      "percentual": 3.81,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "GARIBALDI ALVES FILHO",
+      "nomeUrna": "GARIBALDI FILHO",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 551,
+      "percentual": 3.53,
+      "sqcand": "200001653701"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAIMUNDO NONATO PESSOA FERNANDES",
+      "nomeUrna": "RAIMUNDO FERNANDES",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 3390,
+      "percentual": 22.12,
+      "sqcand": "200001606005"
+    },
+    {
+      "nome": "EZEQUIEL GALVÃO FERREIRA DE SOUZA",
+      "nomeUrna": "EZEQUIEL FERREIRA",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 1250,
+      "percentual": 8.16,
+      "sqcand": "200001606006"
+    },
+    {
+      "nome": "EUDIANE JANAINA DE MACEDO SILVA",
+      "nomeUrna": "EUDIANE MACEDO",
+      "partido": "PV",
+      "numero": "43666",
+      "votos": 893,
+      "percentual": 5.83,
+      "sqcand": "200001603634"
+    },
+    {
+      "nome": "ADJUTO DIAS DE ARAUJO NETO",
+      "nomeUrna": "ADJUTO DIAS",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 817,
+      "percentual": 5.33,
+      "sqcand": "200001653268"
+    },
+    {
+      "nome": "WENDEL FAGNER CORTEZ DE ALMEIDA",
+      "nomeUrna": "WENDEL LAGARTIXA",
+      "partido": "PL",
+      "numero": "22762",
+      "votos": 628,
+      "percentual": 4.1,
+      "sqcand": "200001604709"
+    },
+    {
+      "nome": "CRISTIANE BEZERRA DE SOUZA DANTAS",
+      "nomeUrna": "CRISTIANE DANTAS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 573,
+      "percentual": 3.74,
+      "sqcand": "200001604203"
+    },
+    {
+      "nome": "ROBSON RICARDO MACHADO LIMA DE CARVALHO",
+      "nomeUrna": "ROBSON CARVALHO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 533,
+      "percentual": 3.48,
+      "sqcand": "200001652898"
+    }
+  ]
+}

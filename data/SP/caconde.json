@@ -1,0 +1,271 @@
+{
+  "populacao": 13379,
+  "votosValidos": 9354,
+  "abstencao": 23.02,
+  "prefeito": {
+    "nome": "JOSÉ AFONSO DE PAIVA",
+    "nomeUrna": "ZÉ AFONSO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 5528,
+    "percentual": 59.1,
+    "situacao": "Eleito",
+    "sqcand": "250002299427",
+    "vice": "JOSÉ EDUARDO MONTEIRO MIRANDA",
+    "viceNomeUrna": "ZÉ MIRANDA",
+    "partidoVice": "PODE",
+    "sqcandVice": "250002299428",
+    "coligacao": "MDB / PODE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "EDSON DO NASCIMENTO",
+      "nomeUrna": "EDINHO DA AMBULÂNCIA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1037,
+      "percentual": 10.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002298360"
+    },
+    {
+      "nome": "ADILSON SEVERINO DE SOUZA",
+      "nomeUrna": "TOTI CONTADOR",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 428,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002300904"
+    },
+    {
+      "nome": "RICHARD SILVA FERFOGLIA MAGUIM",
+      "nomeUrna": "RICHARD MAGUIM",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 398,
+      "percentual": 4.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002270647"
+    },
+    {
+      "nome": "ELIZABETE BIONDI",
+      "nomeUrna": "BETH BIONDI",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 345,
+      "percentual": 3.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002225584"
+    },
+    {
+      "nome": "DANIEL FELICIANO",
+      "nomeUrna": "DANIEL CABELEIREIRO",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 323,
+      "percentual": 3.37,
+      "situacao": "Eleito por média",
+      "sqcand": "250002300906"
+    },
+    {
+      "nome": "PAULO SERGIO COTRIM GUEDES",
+      "nomeUrna": "PAULO COTRIM",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 297,
+      "percentual": 3.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002283826"
+    },
+    {
+      "nome": "DANILO LIMA CIPOLLINI",
+      "nomeUrna": "DANILO ALEMÃO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 291,
+      "percentual": 3.03,
+      "situacao": "Eleito por média",
+      "sqcand": "250002283827"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS XAVIER MONTEIRO",
+      "nomeUrna": "FRANK DE ASSIS",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 246,
+      "percentual": 2.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002301539"
+    },
+    {
+      "nome": "DAVID ANTÔNIO TEIXEIRA JÚNIOR",
+      "nomeUrna": "DAVIZINHO",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 242,
+      "percentual": 2.52,
+      "situacao": "Eleito por média",
+      "sqcand": "250002301536"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4125,
+      "percentual": 48.3,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 2994,
+      "percentual": 35.05,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1141,
+      "percentual": 13.36,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 1483,
+      "percentual": 16.19,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "MATHEUS DE OLIVEIRA PINTO",
+      "nomeUrna": "MATHEUS MAFEPI",
+      "partido": "PL",
+      "numero": "2202",
+      "votos": 754,
+      "percentual": 8.23,
+      "sqcand": "250001611356"
+    },
+    {
+      "nome": "LUIZ PAULO TEIXEIRA FERREIRA",
+      "nomeUrna": "PAULO TEIXEIRA",
+      "partido": "PT",
+      "numero": "1398",
+      "votos": 629,
+      "percentual": 6.87,
+      "sqcand": "250001610668"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 502,
+      "percentual": 5.48,
+      "sqcand": "250001612102"
+    },
+    {
+      "nome": "JONAS DONIZETTE FERREIRA",
+      "nomeUrna": "JONAS DONIZETTE",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 432,
+      "percentual": 4.72,
+      "sqcand": "250001620296"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 330,
+      "percentual": 3.6,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "ALENCAR SANTANA BRAGA",
+      "nomeUrna": "ALENCAR SANTANA",
+      "partido": "PT",
+      "numero": "1358",
+      "votos": 314,
+      "percentual": 3.43,
+      "sqcand": "250001610663"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JORGE LUIS CARUSO",
+      "nomeUrna": "CARUSO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1285,
+      "percentual": 15.05,
+      "sqcand": "250001609973"
+    },
+    {
+      "nome": "JOSE ANTONIO BARROS MUNHOZ",
+      "nomeUrna": "BARROS MUNHOZ",
+      "partido": "PSDB",
+      "numero": "45545",
+      "votos": 1006,
+      "percentual": 11.78,
+      "sqcand": "250001611434"
+    },
+    {
+      "nome": "RAFAEL FERNANDO ZIMBALDI",
+      "nomeUrna": "RAFA ZIMBALDI",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 813,
+      "percentual": 9.52,
+      "sqcand": "250001611460"
+    },
+    {
+      "nome": "LUIZ FERNANDO TEIXEIRA FERREIRA",
+      "nomeUrna": "LUIZ FERNANDO",
+      "partido": "PT",
+      "numero": "13134",
+      "votos": 581,
+      "percentual": 6.8,
+      "sqcand": "250001611733"
+    },
+    {
+      "nome": "ANDRE LUIS DO PRADO",
+      "nomeUrna": "ANDRÉ DO PRADO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 364,
+      "percentual": 4.26,
+      "sqcand": "250001610161"
+    },
+    {
+      "nome": "ISRAEL ALEXANDRE DE SOUZA",
+      "nomeUrna": "ISRAEL ALEXANDRE",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 332,
+      "percentual": 3.89,
+      "sqcand": "250001611454"
+    },
+    {
+      "nome": "SIMÃO PEDRO CHIOVETTI",
+      "nomeUrna": "SIMÃO PEDRO",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 281,
+      "percentual": 3.29,
+      "sqcand": "250001611807"
+    }
+  ]
+}

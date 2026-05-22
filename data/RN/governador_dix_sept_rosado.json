@@ -1,0 +1,271 @@
+{
+  "populacao": 12228,
+  "votosValidos": 10160,
+  "abstencao": 11.9,
+  "prefeito": {
+    "nome": "ARTUR RODRIGUES DO VALE COSTA",
+    "nomeUrna": "ARTUR VALE",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 6714,
+    "percentual": 66.08,
+    "situacao": "Eleito",
+    "sqcand": "200002006963",
+    "vice": "DÉBORA KARLA TRIGUEIRO LIMA",
+    "viceNomeUrna": "DEBORA DE BREJEIRINHO",
+    "partidoVice": "PL",
+    "sqcandVice": "200002006964",
+    "coligacao": "PP / PODE / PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "ADONIAS FRANCISCO DE MELO",
+      "nomeUrna": "ADONIAS MELO",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 756,
+      "percentual": 7.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002006708"
+    },
+    {
+      "nome": "LUARA TAYANE FAGUNDES DE OLIVEIRA",
+      "nomeUrna": "LUARA DE ZÉ EMÍDIO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 699,
+      "percentual": 6.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002006707"
+    },
+    {
+      "nome": "STEPHERSON JAIME DA SILVA VALE",
+      "nomeUrna": "STEPHERSON JAIME",
+      "partido": "PODE",
+      "numero": "20111",
+      "votos": 687,
+      "percentual": 6.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002001181"
+    },
+    {
+      "nome": "ANTONIA LARISSA DE MACEDO VALE",
+      "nomeUrna": "LARISSA MACEDO",
+      "partido": "MDB",
+      "numero": "15699",
+      "votos": 522,
+      "percentual": 5.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002132885"
+    },
+    {
+      "nome": "MARCOS AURÉLIO DE MORAIS MEDEIROS",
+      "nomeUrna": "MARCOS MEDEIROS",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 501,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002001428"
+    },
+    {
+      "nome": "SIMARA DANTAS DE OLIVEIRA",
+      "nomeUrna": "SIMARA DANTAS",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 455,
+      "percentual": 4.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "200001999740"
+    },
+    {
+      "nome": "FRANCISCO DAS CHAGAS CRUZ",
+      "nomeUrna": "PROFESSOR CHAGAS CRUZ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 412,
+      "percentual": 3.96,
+      "situacao": "Eleito por média",
+      "sqcand": "200002001425"
+    },
+    {
+      "nome": "MARISTELA DE ALMEIDA CARDOSO",
+      "nomeUrna": "MARISTELA CARDOSO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 399,
+      "percentual": 3.84,
+      "situacao": "Eleito por média",
+      "sqcand": "200001999742"
+    },
+    {
+      "nome": "THALIS GOMES DE FREITAS",
+      "nomeUrna": "THALIS DA PEDRA",
+      "partido": "PSDB",
+      "numero": "45632",
+      "votos": 354,
+      "percentual": 3.4,
+      "situacao": "Eleito por média",
+      "sqcand": "200002107013"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2549,
+      "percentual": 37.46,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 2326,
+      "percentual": 34.18,
+      "sqcand": "200001612334"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 1837,
+      "percentual": 26.99,
+      "sqcand": "200001638556"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO",
+      "nomeUrna": "BETO ROSADO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 2178,
+      "percentual": 27.38,
+      "sqcand": "200001600544"
+    },
+    {
+      "nome": "KALINE CRISTIANE FERREIRA DE ANDRADE AMORIM",
+      "nomeUrna": "KALINE DE DR BERNARDO",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 1180,
+      "percentual": 14.83,
+      "sqcand": "200001653699"
+    },
+    {
+      "nome": "INÁCIO BRILHANTE DE ARAÚJO FILHO",
+      "nomeUrna": "MAJOR BRILHANTE",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 814,
+      "percentual": 10.23,
+      "sqcand": "200001600545"
+    },
+    {
+      "nome": "LAWRENCE CARLOS AMORIM DE ARAUJO",
+      "nomeUrna": "LAWRENCE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7778",
+      "votos": 661,
+      "percentual": 8.31,
+      "sqcand": "200001601298"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 590,
+      "percentual": 7.42,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "PABLO ANGLESON DA SILVA AIRES",
+      "nomeUrna": "PABLO AIRES",
+      "partido": "PSB",
+      "numero": "4050",
+      "votos": 527,
+      "percentual": 6.62,
+      "sqcand": "200001612240"
+    },
+    {
+      "nome": "HILKEA CARLA DE SOUZA MEDEIROS LIMA",
+      "nomeUrna": "CARLA DICKSON",
+      "partido": "UNIÃO",
+      "numero": "4411",
+      "votos": 378,
+      "percentual": 4.75,
+      "sqcand": "200001608803"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANAXIMANDRO RODRIGUES DO VALE COSTA",
+      "nomeUrna": "DR. ANAX",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 4224,
+      "percentual": 51.37,
+      "sqcand": "200001652908"
+    },
+    {
+      "nome": "BERNARDO CÉSAR CARLOS BELARMINO DE AMORIM",
+      "nomeUrna": "DR BERNARDO AMORIM",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 1268,
+      "percentual": 15.42,
+      "sqcand": "200001605989"
+    },
+    {
+      "nome": "ANTONIO FREIRE DE SOUZA FILHO",
+      "nomeUrna": "ANTONIO BOLOTA",
+      "partido": "AVANTE",
+      "numero": "70678",
+      "votos": 788,
+      "percentual": 9.58,
+      "sqcand": "200001604167"
+    },
+    {
+      "nome": "MARIA ISOLDA DANTAS DE MOURA",
+      "nomeUrna": "ISOLDA DANTAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 337,
+      "percentual": 4.1,
+      "sqcand": "200001603626"
+    },
+    {
+      "nome": "TONY MAGNO FERNANDES NASCIMENTO",
+      "nomeUrna": "TONY FERNANDES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77555",
+      "votos": 181,
+      "percentual": 2.2,
+      "sqcand": "200001604195"
+    },
+    {
+      "nome": "CLAYTON JADSON SILVA ROLIM",
+      "nomeUrna": "JADSON",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77677",
+      "votos": 125,
+      "percentual": 1.52,
+      "sqcand": "200001604202"
+    },
+    {
+      "nome": "FRANCISCO ASSIS DE MEDEIROS",
+      "nomeUrna": "FRANCISCO DO PT",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 114,
+      "percentual": 1.39,
+      "sqcand": "200001603618"
+    }
+  ]
+}

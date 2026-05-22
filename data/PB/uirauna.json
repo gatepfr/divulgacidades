@@ -1,0 +1,291 @@
+{
+  "populacao": 13110,
+  "votosValidos": 10923,
+  "abstencao": 12.5,
+  "prefeito": {
+    "nome": "MARIA SULENE DANTAS SARMENTO",
+    "nomeUrna": "LENINHA ROMÃO",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 8719,
+    "percentual": 79.82,
+    "situacao": "Eleito",
+    "sqcand": "150001981082",
+    "vice": "MÁRLON ARTHUR MOREIRA BASTOS",
+    "viceNomeUrna": "DR MARLON ARTHUR",
+    "partidoVice": "PL",
+    "sqcandVice": "150001981081",
+    "coligacao": "REPUBLICANOS / PSB / PL / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ROMERITO MIGUEL SARMENTO DE OLIVEIRA",
+      "nomeUrna": "ROMERITO SARMENTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 938,
+      "percentual": 8.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002004353"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS OLÍMPIO DA CRUZ",
+      "nomeUrna": "TOINHO MAGALHÃES",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 905,
+      "percentual": 8.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002004348"
+    },
+    {
+      "nome": "FRANCISCO BENEVENUTO CLAUDINO DE ALMEIDA",
+      "nomeUrna": "BENEVENUTO CLAUDINO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 858,
+      "percentual": 7.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001984709"
+    },
+    {
+      "nome": "RENAN GUILHERME OLÍMPIO TOMAZ",
+      "nomeUrna": "RENAN MAGALHÃES",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 854,
+      "percentual": 7.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001984714"
+    },
+    {
+      "nome": "CIRO FIGUEIREDO BARBOSA",
+      "nomeUrna": "CIRO FIGUEIREDO",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 699,
+      "percentual": 6.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001984710"
+    },
+    {
+      "nome": "JOAQUIM MARCELINO DE LIRA NETO",
+      "nomeUrna": "NETO DE MARO",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 690,
+      "percentual": 6.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002004347"
+    },
+    {
+      "nome": "ANA AMÉLIA DA FONSECA PINHEIRO DE SÁ",
+      "nomeUrna": "AMÉLIA FONSECA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 682,
+      "percentual": 6.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001984712"
+    },
+    {
+      "nome": "MARIA DOS REMEDIOS MARTINS DE OLIVEIRA",
+      "nomeUrna": "DOS REMÉDIOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 659,
+      "percentual": 6.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002004349"
+    },
+    {
+      "nome": "THIAGO SILVA SANTIAGO",
+      "nomeUrna": "THIAGO DE AZULÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 649,
+      "percentual": 5.92,
+      "situacao": "Eleito por média",
+      "sqcand": "150002004352"
+    },
+    {
+      "nome": "FRANCISCO ALVES DE QUEIROZ",
+      "nomeUrna": "CHICO BACATELA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 511,
+      "percentual": 4.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001981375"
+    },
+    {
+      "nome": "ANA BEATRIZ LIRA DE FREITAS",
+      "nomeUrna": "BEATRIZ DE CARNEIRINHO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 323,
+      "percentual": 2.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001981376"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "BRUNO FIGUEIREDO ROBERTO",
+      "nomeUrna": "BRUNO ROBERTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4846,
+      "percentual": 55.84,
+      "sqcand": "150001718240"
+    },
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 2663,
+      "percentual": 30.69,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 596,
+      "percentual": 6.87,
+      "sqcand": "150001643372"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ WELLINGTON ROBERTO",
+      "nomeUrna": "WELLINGTON ROBERTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 5059,
+      "percentual": 55.08,
+      "sqcand": "150001718233"
+    },
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 1549,
+      "percentual": 16.87,
+      "sqcand": "150001619544"
+    },
+    {
+      "nome": "JOSÉ WILSON SANTIAGO",
+      "nomeUrna": "WILSON SANTIAGO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 1527,
+      "percentual": 16.63,
+      "sqcand": "150001619548"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 101,
+      "percentual": 1.1,
+      "sqcand": "150001619538"
+    },
+    {
+      "nome": "ANTONIO RIBEIRO",
+      "nomeUrna": "FREI ANASTÁCIO",
+      "partido": "PT",
+      "numero": "1345",
+      "votos": 86,
+      "percentual": 0.94,
+      "sqcand": "150001619539"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 81,
+      "percentual": 0.88,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "FRANCISCO FERNANDES PINHEIRO",
+      "nomeUrna": "PROF ASSIS PINHEIRO",
+      "partido": "PSC",
+      "numero": "2055",
+      "votos": 61,
+      "percentual": 0.66,
+      "sqcand": "150001725481"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PAULA FRANCINETE LACERDA CAVALCANTI DE ALMEIDA",
+      "nomeUrna": "DR. PAULA ",
+      "partido": "PP",
+      "numero": "11666",
+      "votos": 4651,
+      "percentual": 52.85,
+      "sqcand": "150001612064"
+    },
+    {
+      "nome": "FRANCISCO GOMES DE ARAUJO JUNIOR",
+      "nomeUrna": "JUNIOR ARAUJO",
+      "partido": "PSB",
+      "numero": "40777",
+      "votos": 1600,
+      "percentual": 18.18,
+      "sqcand": "150001621672"
+    },
+    {
+      "nome": "JOSÉ WILSON SANTIAGO FILHO",
+      "nomeUrna": "WILSON FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10110",
+      "votos": 1165,
+      "percentual": 13.24,
+      "sqcand": "150001619574"
+    },
+    {
+      "nome": "FRANCISCO MENDES CAMPOS",
+      "nomeUrna": "CHICO MENDES",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 270,
+      "percentual": 3.07,
+      "sqcand": "150001621671"
+    },
+    {
+      "nome": "JUTAY MENESES GOMES",
+      "nomeUrna": "JUTAY MENESES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 259,
+      "percentual": 2.94,
+      "sqcand": "150001619558"
+    },
+    {
+      "nome": "ANTONIO RONISMAR DE ANDRADE",
+      "nomeUrna": "PROFESSOR RONISMAR ",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 150,
+      "percentual": 1.7,
+      "sqcand": "150001621373"
+    },
+    {
+      "nome": "JOSÉ AIRTON PIRES DE SOUSA",
+      "nomeUrna": "AIRTON PIRES",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 111,
+      "percentual": 1.26,
+      "sqcand": "150001603137"
+    }
+  ]
+}

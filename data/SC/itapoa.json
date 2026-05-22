@@ -1,0 +1,271 @@
+{
+  "populacao": 20166,
+  "votosValidos": 14664,
+  "abstencao": 23.98,
+  "prefeito": {
+    "nome": "JEFERSON RUBENS GARCIA",
+    "nomeUrna": "JEFINHO GARCIA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 7669,
+    "percentual": 52.3,
+    "situacao": "Eleito",
+    "sqcand": "240002031689",
+    "vice": "JOSÉ MARIA CALDEIRA",
+    "viceNomeUrna": "CALDEIRA",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "240002031690",
+    "coligacao": "REPUBLICANOS / MDB / PP / PODE / UNIÃO / PSD / PSB / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "ADEMAR RIBAS DO VALLE FILHO",
+      "nomeUrna": "ADEMARZINHO",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 685,
+      "percentual": 4.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002075033"
+    },
+    {
+      "nome": "IVAN PINTO DA LUZ",
+      "nomeUrna": "IVAN DA LUZ",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 535,
+      "percentual": 3.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002075034"
+    },
+    {
+      "nome": "ODINEI DA SILVA",
+      "nomeUrna": "NEI DO KALANGA",
+      "partido": "MDB",
+      "numero": "15215",
+      "votos": 459,
+      "percentual": 3.14,
+      "situacao": "Eleito por média",
+      "sqcand": "240002075042"
+    },
+    {
+      "nome": "MARTA FERREIRA DA LUZ",
+      "nomeUrna": "MARTA ",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 454,
+      "percentual": 3.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002234823"
+    },
+    {
+      "nome": "DIEGO ANGELO ANTUNES",
+      "nomeUrna": "DIEGO ANTUNES",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 430,
+      "percentual": 2.95,
+      "situacao": "Eleito por média",
+      "sqcand": "240002234824"
+    },
+    {
+      "nome": "VALDECIR ANTÔNIO LUIZ DA SILVA",
+      "nomeUrna": "VALDECIR FOFO",
+      "partido": "AVANTE",
+      "numero": "70222",
+      "votos": 400,
+      "percentual": 2.74,
+      "situacao": "Eleito por média",
+      "sqcand": "240002171418"
+    },
+    {
+      "nome": "JESSICA LANA LEMONIE",
+      "nomeUrna": "JESSICA LEMONIE",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 388,
+      "percentual": 2.66,
+      "situacao": "Eleito por média",
+      "sqcand": "240002234829"
+    },
+    {
+      "nome": "MARCIO JOSE PUGLIA DE MELO",
+      "nomeUrna": "MARCIO MELO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 347,
+      "percentual": 2.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002171319"
+    },
+    {
+      "nome": "DANIEL SILVANO WEBER",
+      "nomeUrna": "DANIEL WEBER",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 342,
+      "percentual": 2.34,
+      "situacao": "Eleito por média",
+      "sqcand": "240002298350"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 5970,
+      "percentual": 53.18,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 1653,
+      "percentual": 14.72,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1626,
+      "percentual": 14.48,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 3106,
+      "percentual": 27.7,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "RODRIGO COELHO",
+      "nomeUrna": "RODRIGO COELHO",
+      "partido": "PODE",
+      "numero": "1922",
+      "votos": 568,
+      "percentual": 5.07,
+      "sqcand": "240001610855"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 541,
+      "percentual": 4.83,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 445,
+      "percentual": 3.97,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS NUNES",
+      "nomeUrna": "ASSIS",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 422,
+      "percentual": 3.76,
+      "sqcand": "240001645206"
+    },
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 386,
+      "percentual": 3.44,
+      "sqcand": "240001611938"
+    },
+    {
+      "nome": "ANA PAULA DE SOUZA LIMA",
+      "nomeUrna": "ANA PAULA LIMA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 348,
+      "percentual": 3.1,
+      "sqcand": "240001645213"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAURICIO JOSE ESKUDLARK",
+      "nomeUrna": "MAURICIO ESKUDLARK",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 2946,
+      "percentual": 26.0,
+      "sqcand": "240001614331"
+    },
+    {
+      "nome": "IVAN PINTO DA LUZ",
+      "nomeUrna": "IVAN DA LUZ",
+      "partido": "UNIÃO",
+      "numero": "44017",
+      "votos": 1196,
+      "percentual": 10.56,
+      "sqcand": "240001616207"
+    },
+    {
+      "nome": "JOSÉ ANTONIO STOKLOSA",
+      "nomeUrna": "SARGENTO STOKLOSA",
+      "partido": "PSD",
+      "numero": "55345",
+      "votos": 958,
+      "percentual": 8.45,
+      "sqcand": "240001614374"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 669,
+      "percentual": 5.9,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "FERNANDO KRELLING",
+      "nomeUrna": "FERNANDO KRELLING",
+      "partido": "MDB",
+      "numero": "15655",
+      "votos": 403,
+      "percentual": 3.56,
+      "sqcand": "240001605919"
+    },
+    {
+      "nome": "CARLOS HENRIQUE DE LIMA",
+      "nomeUrna": "SARGENTO LIMA",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 337,
+      "percentual": 2.97,
+      "sqcand": "240001614329"
+    },
+    {
+      "nome": "JULIO CESAR RONCONI",
+      "nomeUrna": "JULIO RONCONI",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 252,
+      "percentual": 2.22,
+      "sqcand": "240001698424"
+    }
+  ]
+}

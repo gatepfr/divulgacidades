@@ -1,0 +1,271 @@
+{
+  "populacao": 10003,
+  "votosValidos": 7753,
+  "abstencao": 18.11,
+  "prefeito": {
+    "nome": "MÔNICA BORGES DE SOUSA",
+    "nomeUrna": "MÔNICA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 4397,
+    "percentual": 56.71,
+    "situacao": "Eleito",
+    "sqcand": "130002160131",
+    "vice": "RICARDO DO AMARAL RIBEIRO",
+    "viceNomeUrna": "RICARDINHO DA ACADEMIA",
+    "partidoVice": "PSDB",
+    "sqcandVice": "130002160132",
+    "coligacao": "REPUBLICANOS / AVANTE / PL / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ANDERSON FABRICIO TEODORO",
+      "nomeUrna": "FABRICIO DA SAÚDE",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 558,
+      "percentual": 7.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002028941"
+    },
+    {
+      "nome": "VICENTE FERNANDES DE ALMEIDA",
+      "nomeUrna": "DUNGA DO RIACHO",
+      "partido": "REDE",
+      "numero": "18652",
+      "votos": 441,
+      "percentual": 5.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002029187"
+    },
+    {
+      "nome": "SILVANA APARECIDA BARRETO DE OLIVEIRA",
+      "nomeUrna": "SILVANA DO NELSON",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 372,
+      "percentual": 4.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002160959"
+    },
+    {
+      "nome": "ANTONIO CLARET PEREIRA",
+      "nomeUrna": "TONINHO DO INTER",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 345,
+      "percentual": 4.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002160960"
+    },
+    {
+      "nome": "LEONARDO JOSÉ DE ASSIS",
+      "nomeUrna": "LÉO CRUZ",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 281,
+      "percentual": 3.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002160536"
+    },
+    {
+      "nome": "EDUARDO SILVA PIASSI",
+      "nomeUrna": "EDUARDO PIASSI",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 278,
+      "percentual": 3.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002028944"
+    },
+    {
+      "nome": "PRISCILA PIASSI BORGES",
+      "nomeUrna": "PRISCILA PIASSI BORGES PITTY",
+      "partido": "PL",
+      "numero": "22888",
+      "votos": 278,
+      "percentual": 3.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002160541"
+    },
+    {
+      "nome": "EDUARDO AUGUSTO EVANGELISTA",
+      "nomeUrna": "GUTO",
+      "partido": "REDE",
+      "numero": "18999",
+      "votos": 270,
+      "percentual": 3.48,
+      "situacao": "Eleito por média",
+      "sqcand": "130002029184"
+    },
+    {
+      "nome": "WILLIAN ANTONIO DE OLIVEIRA",
+      "nomeUrna": "WILLIAN DOS CAMPOS",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 176,
+      "percentual": 2.27,
+      "situacao": "Eleito por média",
+      "sqcand": "130002160279"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 3232,
+      "percentual": 51.68,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2481,
+      "percentual": 39.67,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 450,
+      "percentual": 7.2,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO ABI-ACKEL",
+      "nomeUrna": "PAULO ABI-ACKEL",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 950,
+      "percentual": 14.47,
+      "sqcand": "130001613373"
+    },
+    {
+      "nome": "VILSON LUIZ DA SILVA",
+      "nomeUrna": "VILSON DA FETAEMG",
+      "partido": "PSB",
+      "numero": "4057",
+      "votos": 795,
+      "percentual": 12.11,
+      "sqcand": "130001613225"
+    },
+    {
+      "nome": "DOMINGOS SÁVIO CAMPOS RESENDE",
+      "nomeUrna": "DOMINGOS SÁVIO",
+      "partido": "PL",
+      "numero": "2260",
+      "votos": 603,
+      "percentual": 9.18,
+      "sqcand": "130001611016"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 582,
+      "percentual": 8.86,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "GREYCE DE QUEIROZ ELIAS",
+      "nomeUrna": "GREYCE ELIAS",
+      "partido": "AVANTE",
+      "numero": "7011",
+      "votos": 568,
+      "percentual": 8.65,
+      "sqcand": "130001603592"
+    },
+    {
+      "nome": "FABIANO GALLETTI TOLENTINO",
+      "nomeUrna": "FABIANO TOLENTINO",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 483,
+      "percentual": 7.36,
+      "sqcand": "130001671762"
+    },
+    {
+      "nome": "SAMUEL JOSÉ RODRIGUES DE VIANA",
+      "nomeUrna": "SAMUEL VIANA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 465,
+      "percentual": 7.08,
+      "sqcand": "130001611024"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCAS LASMAR DE MOURA COSTA RESENDE",
+      "nomeUrna": "LUCAS LASMAR",
+      "partido": "REDE",
+      "numero": "18900",
+      "votos": 2246,
+      "percentual": 35.65,
+      "sqcand": "130001673951"
+    },
+    {
+      "nome": "CASSIO ANTONIO FERREIRA SOARES",
+      "nomeUrna": "CASSIO SOARES",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1037,
+      "percentual": 16.46,
+      "sqcand": "130001604379"
+    },
+    {
+      "nome": "GUSTAVO DA CUNHA PEREIRA VALADARES",
+      "nomeUrna": "GUSTAVO VALADARES",
+      "partido": "PMN",
+      "numero": "33333",
+      "votos": 478,
+      "percentual": 7.59,
+      "sqcand": "130001605805"
+    },
+    {
+      "nome": "MARCELO GONÇALVES DE QUEIROZ",
+      "nomeUrna": "MARCELO QUEIROZ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 436,
+      "percentual": 6.92,
+      "sqcand": "130001615598"
+    },
+    {
+      "nome": "LOHANNA SOUZA FRANÇA MOREIRA DE OLIVEIRA",
+      "nomeUrna": "LOHANNA",
+      "partido": "PV",
+      "numero": "43500",
+      "votos": 196,
+      "percentual": 3.11,
+      "sqcand": "130001607412"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 182,
+      "percentual": 2.89,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "EDUARDO HENRIQUE DE AZEVEDO",
+      "nomeUrna": "EDUARDO AZEVEDO",
+      "partido": "PSC",
+      "numero": "20200",
+      "votos": 166,
+      "percentual": 2.63,
+      "sqcand": "130001671880"
+    }
+  ]
+}

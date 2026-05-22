@@ -1,0 +1,271 @@
+{
+  "populacao": 3211,
+  "votosValidos": 2872,
+  "abstencao": 8.91,
+  "prefeito": {
+    "nome": "HELIO MARCELO OLENKA",
+    "nomeUrna": "TIKE",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1733,
+    "percentual": 60.34,
+    "situacao": "Eleito",
+    "sqcand": "240002029790",
+    "vice": "JAIMIR RODRIGUES",
+    "viceNomeUrna": "JAIMIR",
+    "partidoVice": "PP",
+    "sqcandVice": "240002029791",
+    "coligacao": "MDB / PP / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "CAROLINE MARIA SCHUH",
+      "nomeUrna": "CAROL",
+      "partido": "PP",
+      "numero": "11678",
+      "votos": 252,
+      "percentual": 8.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002173095"
+    },
+    {
+      "nome": "JOÃO ANTONIO MEDEIROS DA ROSA",
+      "nomeUrna": "JOAO MEDEIROS",
+      "partido": "MDB",
+      "numero": "15520",
+      "votos": 222,
+      "percentual": 7.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002069477"
+    },
+    {
+      "nome": "GIOSANE MOREIRA DE ALMEIDA",
+      "nomeUrna": "ENFERMEIRA GI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 199,
+      "percentual": 6.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002069478"
+    },
+    {
+      "nome": "MARCIO GUZZI",
+      "nomeUrna": "MARCIO GUZZI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 164,
+      "percentual": 5.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002173094"
+    },
+    {
+      "nome": "ROBERTO CARLOS CAMPAGNARO",
+      "nomeUrna": "ROBERTO",
+      "partido": "PP",
+      "numero": "11345",
+      "votos": 161,
+      "percentual": 5.58,
+      "situacao": "Eleito por média",
+      "sqcand": "240002173102"
+    },
+    {
+      "nome": "EDGAR ANSCHAU SANTIEL",
+      "nomeUrna": "EDGAR SANTIEL",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 140,
+      "percentual": 4.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002268725"
+    },
+    {
+      "nome": "JHONATAN CÍCERO KLEIN",
+      "nomeUrna": "CICERO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 136,
+      "percentual": 4.71,
+      "situacao": "Eleito por média",
+      "sqcand": "240002069476"
+    },
+    {
+      "nome": "CLÁUDIA RICHTER DOS SANTOS",
+      "nomeUrna": "CLAUDIA RICHTER",
+      "partido": "MDB",
+      "numero": "15515",
+      "votos": 87,
+      "percentual": 3.01,
+      "situacao": "Eleito por média",
+      "sqcand": "240002069471"
+    },
+    {
+      "nome": "SILVESTRE FRANCISCO KOCH",
+      "nomeUrna": "SILVESTRE",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 85,
+      "percentual": 2.94,
+      "situacao": "Eleito por média",
+      "sqcand": "240002268726"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 679,
+      "percentual": 32.68,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 667,
+      "percentual": 32.1,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 348,
+      "percentual": 16.75,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 947,
+      "percentual": 42.56,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 317,
+      "percentual": 14.25,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "RAFAEL PEZENTI",
+      "nomeUrna": "RAFAEL PEZENTI",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 216,
+      "percentual": 9.71,
+      "sqcand": "240001602681"
+    },
+    {
+      "nome": "ANA PAULA DE SOUZA LIMA",
+      "nomeUrna": "ANA PAULA LIMA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 128,
+      "percentual": 5.75,
+      "sqcand": "240001645213"
+    },
+    {
+      "nome": "PAULO ROBERTO BARRETO BORNHAUSEN",
+      "nomeUrna": "PAULO BORNHAUSEN",
+      "partido": "PSD",
+      "numero": "5570",
+      "votos": 106,
+      "percentual": 4.76,
+      "sqcand": "240001611143"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 80,
+      "percentual": 3.6,
+      "sqcand": "240001611140"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 49,
+      "percentual": 2.2,
+      "sqcand": "240001610977"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FERNANDO KRELLING",
+      "nomeUrna": "FERNANDO KRELLING",
+      "partido": "MDB",
+      "numero": "15655",
+      "votos": 569,
+      "percentual": 26.83,
+      "sqcand": "240001605919"
+    },
+    {
+      "nome": "SAULO SPEROTTO",
+      "nomeUrna": "SAULO SPEROTTO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 265,
+      "percentual": 12.49,
+      "sqcand": "240001612494"
+    },
+    {
+      "nome": "RAUL RIBAS NETO",
+      "nomeUrna": "PROFESSOR RAUL RIBAS",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 178,
+      "percentual": 8.39,
+      "sqcand": "240001679633"
+    },
+    {
+      "nome": "ALTAIR DA SILVA",
+      "nomeUrna": "ALTAIR SILVA",
+      "partido": "PP",
+      "numero": "11130",
+      "votos": 161,
+      "percentual": 7.59,
+      "sqcand": "240001644767"
+    },
+    {
+      "nome": "ANA PAULA DA SILVA",
+      "nomeUrna": "PAULINHA",
+      "partido": "PODE",
+      "numero": "19010",
+      "votos": 145,
+      "percentual": 6.84,
+      "sqcand": "240001610824"
+    },
+    {
+      "nome": "RODRIGO MINOTTO",
+      "nomeUrna": "RODRIGO MINOTTO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 116,
+      "percentual": 5.47,
+      "sqcand": "240001644398"
+    },
+    {
+      "nome": "PEDRO BALDISSERA",
+      "nomeUrna": "PADRE PEDRO",
+      "partido": "PT",
+      "numero": "13987",
+      "votos": 112,
+      "percentual": 5.28,
+      "sqcand": "240001679648"
+    }
+  ]
+}

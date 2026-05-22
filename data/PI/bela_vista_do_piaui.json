@@ -1,0 +1,271 @@
+{
+  "populacao": 3416,
+  "votosValidos": 2325,
+  "abstencao": 7.11,
+  "prefeito": {
+    "nome": "FRANCISCO DE SOUSA NETO",
+    "nomeUrna": "NETO",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 2325,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "180002108714",
+    "vice": "GILVAN TOLENTINO",
+    "viceNomeUrna": "GILVAN TOLENTINO",
+    "partidoVice": "MDB",
+    "sqcandVice": "180002108713",
+    "coligacao": "MDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "CLEIDINALDO CARVALHO REIS",
+      "nomeUrna": "CLEIDIM CARVALHO",
+      "partido": "PT",
+      "numero": "13999",
+      "votos": 323,
+      "percentual": 10.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002109032"
+    },
+    {
+      "nome": "ERICO VALDIR COELHO",
+      "nomeUrna": "ERICO VALDIR",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 284,
+      "percentual": 9.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002121420"
+    },
+    {
+      "nome": "EDUARDO COELHO MENDES",
+      "nomeUrna": "EDUARDO MENDES",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 266,
+      "percentual": 8.61,
+      "situacao": "Eleito por média",
+      "sqcand": "180001885261"
+    },
+    {
+      "nome": "FRANCISCO RODRIGUES DE SOUSA",
+      "nomeUrna": "FRANCISCO DE DELFINA",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 258,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002109029"
+    },
+    {
+      "nome": "PAULO REGIS CARVALHO COELHO",
+      "nomeUrna": "PAULO REGIS",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 256,
+      "percentual": 8.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002109033"
+    },
+    {
+      "nome": "JOSÉ LUIZ DE SOUSA COÊLHO",
+      "nomeUrna": "ZÉ LUIZ",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 254,
+      "percentual": 8.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002109034"
+    },
+    {
+      "nome": "ANA PAULA NERY DOS SANTOS",
+      "nomeUrna": "PAULINHA NERY",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 248,
+      "percentual": 8.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002109026"
+    },
+    {
+      "nome": "LARISSE LOPES COELHO",
+      "nomeUrna": "LARISSE",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 247,
+      "percentual": 8.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002109027"
+    },
+    {
+      "nome": "FRANCISCO ANTONIO BARBOSA",
+      "nomeUrna": "CHICO",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 190,
+      "percentual": 6.15,
+      "situacao": "Eleito por média",
+      "sqcand": "180002121421"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1540,
+      "percentual": 60.85,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 955,
+      "percentual": 37.73,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "ANTONIO JOSÉ FONTINELE DA SILVA",
+      "nomeUrna": "PROFESSOR AJOSÉ",
+      "partido": "PMN",
+      "numero": "333",
+      "votos": 30,
+      "percentual": 1.19,
+      "sqcand": "180001714361"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MERLONG SOLANO NOGUEIRA",
+      "nomeUrna": "MERLONG SOLANO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 627,
+      "percentual": 23.21,
+      "sqcand": "180001610763"
+    },
+    {
+      "nome": "JULIO CÉSAR DE CARVALHO LIMA",
+      "nomeUrna": "JULIO CÉSAR",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 414,
+      "percentual": 15.32,
+      "sqcand": "180001602553"
+    },
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 380,
+      "percentual": 14.06,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "JULIO FERRAZ ARCOVERDE",
+      "nomeUrna": "JULIO ARCOVERDE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 323,
+      "percentual": 11.95,
+      "sqcand": "180001602515"
+    },
+    {
+      "nome": "FLORENTINO ALVES VERAS NETO",
+      "nomeUrna": "FLORENTINO NETO",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 312,
+      "percentual": 11.55,
+      "sqcand": "180001610762"
+    },
+    {
+      "nome": "MARGARETE DE CASTRO COELHO",
+      "nomeUrna": "MARGARETE COELHO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 220,
+      "percentual": 8.14,
+      "sqcand": "180001602512"
+    },
+    {
+      "nome": "MARINA SANTOS BATISTA DIAS",
+      "nomeUrna": "DRA MARINA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 153,
+      "percentual": 5.66,
+      "sqcand": "180001608866"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PABLO DANTAS DE MOURA SANTOS",
+      "nomeUrna": "DR PABLO SANTOS",
+      "partido": "MDB",
+      "numero": "15199",
+      "votos": 1240,
+      "percentual": 46.13,
+      "sqcand": "180001605769"
+    },
+    {
+      "nome": "GEORGIANO FERNANDES LIMA NETO",
+      "nomeUrna": "GEORGIANO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 436,
+      "percentual": 16.22,
+      "sqcand": "180001605763"
+    },
+    {
+      "nome": "THALES COELHO PIMENTEL",
+      "nomeUrna": "DR. THALES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 319,
+      "percentual": 11.87,
+      "sqcand": "180001604044"
+    },
+    {
+      "nome": "FIRMINO SOARES PAULO",
+      "nomeUrna": "FIRMINO PAULO",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 251,
+      "percentual": 9.34,
+      "sqcand": "180001605687"
+    },
+    {
+      "nome": "GIL CARLOS MODESTO ALVES",
+      "nomeUrna": "DR. GIL CARLOS ",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 197,
+      "percentual": 7.33,
+      "sqcand": "180001605680"
+    },
+    {
+      "nome": "MARDEN LUIS BRITO CAVALCANTE E MENESES",
+      "nomeUrna": "MARDEN MENEZES",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 38,
+      "percentual": 1.41,
+      "sqcand": "180001604051"
+    },
+    {
+      "nome": "ELISANGELA MARIA DOS SANTOS MOURA",
+      "nomeUrna": "ELISANGELA MOURA",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 37,
+      "percentual": 1.38,
+      "sqcand": "180001605697"
+    }
+  ]
+}

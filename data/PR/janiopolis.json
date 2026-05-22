@@ -1,0 +1,271 @@
+{
+  "populacao": 5112,
+  "votosValidos": 3998,
+  "abstencao": 18.35,
+  "prefeito": {
+    "nome": "EIDES GUEDES",
+    "nomeUrna": "EIDES GUEDES",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2298,
+    "percentual": 57.48,
+    "situacao": "Eleito",
+    "sqcand": "160001989786",
+    "vice": "SUZIANE FAQUIM GUIMARÃES",
+    "viceNomeUrna": "PROFESSORA SUZI",
+    "partidoVice": "MDB",
+    "sqcandVice": "160001989787",
+    "coligacao": "PP / MDB / PL / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "EVERTON JUNIOR NESPOLO DA SILVA",
+      "nomeUrna": "JUNIOR DA MADEIREIRA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 260,
+      "percentual": 6.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002271568"
+    },
+    {
+      "nome": "INGRID TEIXEIRA CARDOSO DE OLIVEIRA",
+      "nomeUrna": "INGRID ADVOGADA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 230,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002065060"
+    },
+    {
+      "nome": "JOSÉ MARIO AGOSTINHO SOUZA",
+      "nomeUrna": "JORGE",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 224,
+      "percentual": 5.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002271574"
+    },
+    {
+      "nome": "SILVIA FERREIRA DE SOUZA POERA",
+      "nomeUrna": "SILVINHA POERA",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 214,
+      "percentual": 5.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002068190"
+    },
+    {
+      "nome": "JOÃO RODRIGUES FERREIRA",
+      "nomeUrna": "JOÃO FERREIRA",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 175,
+      "percentual": 4.33,
+      "situacao": "Eleito por média",
+      "sqcand": "160002272288"
+    },
+    {
+      "nome": "ELIAS VELOSO BRAGA",
+      "nomeUrna": "ELIAS VELOSO",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 169,
+      "percentual": 4.18,
+      "situacao": "Eleito por média",
+      "sqcand": "160002068188"
+    },
+    {
+      "nome": "ODAIR BARBOSA",
+      "nomeUrna": "ODAIR BARBOSA",
+      "partido": "PSD",
+      "numero": "55600",
+      "votos": 161,
+      "percentual": 3.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002068316"
+    },
+    {
+      "nome": "CLAUDEMIR DORIGON",
+      "nomeUrna": "TICO",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 156,
+      "percentual": 3.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002064769"
+    },
+    {
+      "nome": "PEDRO FLORIANO DOS SANTOS",
+      "nomeUrna": "PEDRÃO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 125,
+      "percentual": 3.09,
+      "situacao": "Eleito por média",
+      "sqcand": "160002068317"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1168,
+      "percentual": 36.05,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 997,
+      "percentual": 30.77,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 685,
+      "percentual": 21.14,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HERMES PARCIANELLO",
+      "nomeUrna": "HERMES FRANGAO PARCIANELLO",
+      "partido": "MDB",
+      "numero": "1540",
+      "votos": 834,
+      "percentual": 24.15,
+      "sqcand": "160001614542"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 504,
+      "percentual": 14.59,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 445,
+      "percentual": 12.88,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "DILCEU JOÃO SPERAFICO",
+      "nomeUrna": "DILCEU SPERAFICO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 260,
+      "percentual": 7.53,
+      "sqcand": "160001603297"
+    },
+    {
+      "nome": "LUIZ HILOSHI NISHIMORI",
+      "nomeUrna": "LUIZ NISHIMORI",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 214,
+      "percentual": 6.2,
+      "sqcand": "160001622293"
+    },
+    {
+      "nome": "LUCIANO DUCCI",
+      "nomeUrna": "LUCIANO DUCCI",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 188,
+      "percentual": 5.44,
+      "sqcand": "160001621821"
+    },
+    {
+      "nome": "RUBENS BUENO",
+      "nomeUrna": "RUBENS BUENO",
+      "partido": "CIDADANIA",
+      "numero": "2300",
+      "votos": 148,
+      "percentual": 4.28,
+      "sqcand": "160001603722"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 818,
+      "percentual": 25.51,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 519,
+      "percentual": 16.18,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "MARIA VICTORIA BORGHETTI BARROS",
+      "nomeUrna": "MARIA VICTORIA",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 514,
+      "percentual": 16.03,
+      "sqcand": "160001603357"
+    },
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 324,
+      "percentual": 10.1,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "JOÃO DOUGLAS FABRÍCIO",
+      "nomeUrna": "DOUGLAS FABRICIO",
+      "partido": "CIDADANIA",
+      "numero": "23600",
+      "votos": 293,
+      "percentual": 9.14,
+      "sqcand": "160001612410"
+    },
+    {
+      "nome": "ANGELA MARIA MOREIRA KRAUS",
+      "nomeUrna": "ANGELA KRAUS",
+      "partido": "PP",
+      "numero": "11044",
+      "votos": 87,
+      "percentual": 2.71,
+      "sqcand": "160001603361"
+    },
+    {
+      "nome": "EDNA MARA VEIGA ALVES",
+      "nomeUrna": "EDNA DA SAÚDE",
+      "partido": "PATRIOTA",
+      "numero": "51008",
+      "votos": 79,
+      "percentual": 2.46,
+      "sqcand": "160001716152"
+    }
+  ]
+}

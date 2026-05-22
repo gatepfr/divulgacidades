@@ -1,0 +1,351 @@
+{
+  "populacao": 69438,
+  "votosValidos": 51150,
+  "abstencao": 23.23,
+  "prefeito": {
+    "nome": "EDUARDO ESGAIB CAMPOS",
+    "nomeUrna": "EDUARDO CAMPOS",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 26473,
+    "percentual": 51.76,
+    "situacao": "Eleito",
+    "sqcand": "120002072292",
+    "vice": "PATRICK CARVALHO DERZI",
+    "viceNomeUrna": "DR PATRICK DERZI",
+    "partidoVice": "PP",
+    "sqcandVice": "120002072291",
+    "coligacao": "REPUBLICANOS / PP / MDB / PRD / PSB / UNIÃO / PSD / AVANTE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "REINALDO FERNANDES ROMUALDO",
+      "nomeUrna": "REINALDO JALASCA",
+      "partido": "PSDB",
+      "numero": "45321",
+      "votos": 3033,
+      "percentual": 5.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002155137"
+    },
+    {
+      "nome": "NATALIA VELASQUES DA SILVA",
+      "nomeUrna": "NATALIA VELASQUES",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 2126,
+      "percentual": 4.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002155134"
+    },
+    {
+      "nome": "AGNALDO PEREIRA LIMA",
+      "nomeUrna": "AGNALDO MIUDINHO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 1851,
+      "percentual": 3.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002155129"
+    },
+    {
+      "nome": "MARIA DE LOURDES MONTEIRO GODOY",
+      "nomeUrna": "PROFESSORA LOURDES MONTEIRO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 1718,
+      "percentual": 3.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "120001990494"
+    },
+    {
+      "nome": "JELSON BERNABÉ DE OLIVEIRA",
+      "nomeUrna": "JELSON BERNABÉ",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 1237,
+      "percentual": 2.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002171476"
+    },
+    {
+      "nome": "WALDECIR FERNANDES GONÇALVES",
+      "nomeUrna": "WALDECIR FERNANDES",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 1175,
+      "percentual": 2.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002223119"
+    },
+    {
+      "nome": "ANGELA GAMARRA RODRIGUES DERZI",
+      "nomeUrna": "ANGELA DERZI",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 1154,
+      "percentual": 2.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002155122"
+    },
+    {
+      "nome": "EDER ADELINO FERNANDES QUINTANA",
+      "nomeUrna": "EDINHO QUINTANA",
+      "partido": "PT",
+      "numero": "13999",
+      "votos": 1149,
+      "percentual": 2.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002291554"
+    },
+    {
+      "nome": "CARLOS ALEXANDRE BORDÃO",
+      "nomeUrna": "CARLOS BORDÃO",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 1010,
+      "percentual": 1.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002155124"
+    },
+    {
+      "nome": "KLEBER AQUINO ORTIZ",
+      "nomeUrna": "KLEBER ORTIZ",
+      "partido": "PSDB",
+      "numero": "45457",
+      "votos": 974,
+      "percentual": 1.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002155133"
+    },
+    {
+      "nome": "MARCELINO NUNES DE OLIVEIRA",
+      "nomeUrna": "MARCELINO NUNES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 965,
+      "percentual": 1.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002220068"
+    },
+    {
+      "nome": "THIAGO EUGENIO VEDANA",
+      "nomeUrna": "THIAGO VEDANA",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 958,
+      "percentual": 1.89,
+      "situacao": "Eleito por média",
+      "sqcand": "120002155128"
+    },
+    {
+      "nome": "JOSÉ MENINO MOREIRA JUNIOR",
+      "nomeUrna": "JOSÉ MENINO JR",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 958,
+      "percentual": 1.89,
+      "situacao": "Eleito por média",
+      "sqcand": "120002155126"
+    },
+    {
+      "nome": "NELI APARECIDA SOUZA ABDULAHAD",
+      "nomeUrna": "NELI",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 943,
+      "percentual": 1.86,
+      "situacao": "Eleito por média",
+      "sqcand": "120002223117"
+    },
+    {
+      "nome": "DANIEL VALDEZ GODOY",
+      "nomeUrna": "PUKA VALDEZ",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 892,
+      "percentual": 1.76,
+      "situacao": "Eleito por média",
+      "sqcand": "120002155132"
+    },
+    {
+      "nome": "LEANDRO BITENCOURT DA SILVA",
+      "nomeUrna": "LEANDRO LELE",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 661,
+      "percentual": 1.3,
+      "situacao": "Eleito por média",
+      "sqcand": "120002171480"
+    },
+    {
+      "nome": "DIONALDO MORINIGO",
+      "nomeUrna": "SUBTENENTE MORINIGO",
+      "partido": "PDT",
+      "numero": "12888",
+      "votos": 653,
+      "percentual": 1.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002236355"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 30569,
+      "percentual": 66.88,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "ODILON DE OLIVEIRA",
+      "nomeUrna": "JUIZ ODILON",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 5174,
+      "percentual": 11.32,
+      "sqcand": "120001649892"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 4815,
+      "percentual": 10.53,
+      "sqcand": "120001609096"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARIA DE LOURDES MONTEIRO GODOY",
+      "nomeUrna": "LOURDES MONTEIRO",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 8716,
+      "percentual": 18.58,
+      "sqcand": "120001636653"
+    },
+    {
+      "nome": "APARECIDO CARLOS BERNARDO",
+      "nomeUrna": "CARLOS BERNARDO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 4826,
+      "percentual": 10.29,
+      "sqcand": "120001636652"
+    },
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 3485,
+      "percentual": 7.43,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "VANDER LUIZ DOS SANTOS LOUBET",
+      "nomeUrna": "VANDER LOUBET",
+      "partido": "PT",
+      "numero": "1331",
+      "votos": 2648,
+      "percentual": 5.64,
+      "sqcand": "120001652595"
+    },
+    {
+      "nome": "LUANA RUIZ SILVA DE FIGUEIREDO",
+      "nomeUrna": "LUANA RUIZ",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 2368,
+      "percentual": 5.05,
+      "sqcand": "120001614254"
+    },
+    {
+      "nome": "NELI APARECIDA SOUZA ABDULAHAD",
+      "nomeUrna": "NELI",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 2328,
+      "percentual": 4.96,
+      "sqcand": "120001609243"
+    },
+    {
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nomeUrna": "DR. GERALDO RESENDE",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 2273,
+      "percentual": 4.84,
+      "sqcand": "120001612324"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAURO ORTIZ NEVES",
+      "nomeUrna": "PASTOR MAURO ORTIZ",
+      "partido": "UNIÃO",
+      "numero": "44544",
+      "votos": 3470,
+      "percentual": 7.76,
+      "sqcand": "120001609601"
+    },
+    {
+      "nome": "NATÁLIA VELASQUES DA SILVA",
+      "nomeUrna": "NATALIA VELASQUES",
+      "partido": "PSDB",
+      "numero": "45556",
+      "votos": 3467,
+      "percentual": 7.75,
+      "sqcand": "120001613599"
+    },
+    {
+      "nome": "PAULO JOSÉ ARAÚJO CORRÊA",
+      "nomeUrna": "PAULO CORRÊA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 3385,
+      "percentual": 7.57,
+      "sqcand": "120001613595"
+    },
+    {
+      "nome": "RHIAD ABDULAHAD",
+      "nomeUrna": "RHIAD",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 2808,
+      "percentual": 6.28,
+      "sqcand": "120001609604"
+    },
+    {
+      "nome": "ROSANE APARECIDA DA SILVA",
+      "nomeUrna": "ROSANE MAZETTO",
+      "partido": "PL",
+      "numero": "22067",
+      "votos": 2206,
+      "percentual": 4.93,
+      "sqcand": "120001614720"
+    },
+    {
+      "nome": "JOSÉ ORCÍRIO MIRANDA DOS SANTOS",
+      "nomeUrna": "ZECA DO PT",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 2098,
+      "percentual": 4.69,
+      "sqcand": "120001652312"
+    },
+    {
+      "nome": "RODRIGO DOMINGUES CONCEIÇÃO",
+      "nomeUrna": "RODRIGO COBRA",
+      "partido": "PL",
+      "numero": "22762",
+      "votos": 1868,
+      "percentual": 4.18,
+      "sqcand": "120001614725"
+    }
+  ]
+}

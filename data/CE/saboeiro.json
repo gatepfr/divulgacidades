@@ -1,0 +1,271 @@
+{
+  "populacao": 12762,
+  "votosValidos": 10922,
+  "abstencao": 11.35,
+  "prefeito": {
+    "nome": "ANTONIO FRANCISCO DE LIMA",
+    "nomeUrna": "TONTONHO DE ZÉ DE LIMA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 5988,
+    "percentual": 54.83,
+    "situacao": "Eleito",
+    "sqcand": "60002116548",
+    "vice": "HILQUIAS GONÇALVES DE FREITAS",
+    "viceNomeUrna": "HILQUIAS",
+    "partidoVice": "PSD",
+    "sqcandVice": "60002116547",
+    "coligacao": "MDB / PSD / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "APOENIO FLORENTINO TEIXEIRA DE SOUSA",
+      "nomeUrna": "APOENIO FLORENTINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 833,
+      "percentual": 7.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002217299"
+    },
+    {
+      "nome": "LUCAS MATIAS SILVA",
+      "nomeUrna": "LUCAS MATIAS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 741,
+      "percentual": 6.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002217621"
+    },
+    {
+      "nome": "LUIS CARLOS DE OLIVEIRA",
+      "nomeUrna": "CARLINHOS",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 723,
+      "percentual": 6.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002115892"
+    },
+    {
+      "nome": "JOSE GICISLANDE PEREIRA",
+      "nomeUrna": "GILSON DA BARRINHA",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 701,
+      "percentual": 6.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002115890"
+    },
+    {
+      "nome": "JAVA CARMO GUERREIRO",
+      "nomeUrna": "JAVA DO PERBOYRE",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 633,
+      "percentual": 5.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002115891"
+    },
+    {
+      "nome": "JOSÉ REIJANILDO DA SILVA MACIEL",
+      "nomeUrna": "BODIM",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 593,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002217257"
+    },
+    {
+      "nome": "ARNOBIO COSTA DOS SANTOS JUNIOR",
+      "nomeUrna": "ARNÓBIO JUNIOR",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 581,
+      "percentual": 5.33,
+      "situacao": "Eleito por média",
+      "sqcand": "60002115895"
+    },
+    {
+      "nome": "MANUEL ERNANI PEREIRA JUNIOR",
+      "nomeUrna": "ERNANI JUNIOR",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 509,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002217258"
+    },
+    {
+      "nome": "FABRÍCIA OLINDA FEITOSA TEIXEIRA",
+      "nomeUrna": "FABRICIA OLINDA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 336,
+      "percentual": 3.08,
+      "situacao": "Eleito por média",
+      "sqcand": "60002217300"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 7231,
+      "percentual": 87.22,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 945,
+      "percentual": 11.4,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 115,
+      "percentual": 1.39,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSE NOBRE GUIMARAES",
+      "nomeUrna": "GUIMARÃES DO PT",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 3060,
+      "percentual": 36.28,
+      "sqcand": "60001619124"
+    },
+    {
+      "nome": "FRANCISCA ELIANE BRAZ DE CARVALHO",
+      "nomeUrna": "ELIANE BRAZ",
+      "partido": "PSD",
+      "numero": "5588",
+      "votos": 1733,
+      "percentual": 20.55,
+      "sqcand": "60001601192"
+    },
+    {
+      "nome": "MATHEUS SOARES NORONHA",
+      "nomeUrna": "MATHEUS NORONHA",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 590,
+      "percentual": 7.0,
+      "sqcand": "60001614168"
+    },
+    {
+      "nome": "YURY BRUNO ALENCAR ARAÚJO",
+      "nomeUrna": "YURY DO PAREDÃO",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 426,
+      "percentual": 5.05,
+      "sqcand": "60001614155"
+    },
+    {
+      "nome": "ADAIL FERNANDES VIEIRA JUNIOR",
+      "nomeUrna": "ADAIL JR",
+      "partido": "PDT",
+      "numero": "1277",
+      "votos": 274,
+      "percentual": 3.25,
+      "sqcand": "60001603487"
+    },
+    {
+      "nome": "JAZIEL PEREIRA DE SOUSA",
+      "nomeUrna": "DR JAZIEL",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 238,
+      "percentual": 2.82,
+      "sqcand": "60001614163"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 200,
+      "percentual": 2.37,
+      "sqcand": "60001603469"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FRANCISCO LEITÃO MOURA",
+      "nomeUrna": "DOUTOR LEITÃO",
+      "partido": "CIDADANIA",
+      "numero": "23333",
+      "votos": 1642,
+      "percentual": 20.65,
+      "sqcand": "60001723726"
+    },
+    {
+      "nome": "ANTONIO VALDENIZO DA COSTA",
+      "nomeUrna": "NIZO ",
+      "partido": "PT",
+      "numero": "13777",
+      "votos": 1596,
+      "percentual": 20.07,
+      "sqcand": "60001633657"
+    },
+    {
+      "nome": "DAVID NEY GONÇALVES DE MACÊDO",
+      "nomeUrna": "DAVI DE RAIMUNDÃO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 1374,
+      "percentual": 17.28,
+      "sqcand": "60001635812"
+    },
+    {
+      "nome": "MARCOS MARCEL RODRIGUES SOBREIRA",
+      "nomeUrna": "MARCOS SOBREIRA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 686,
+      "percentual": 8.63,
+      "sqcand": "60001603545"
+    },
+    {
+      "nome": "FERNANDO MATOS SANTANA",
+      "nomeUrna": "FERNANDO SANTANA",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 513,
+      "percentual": 6.45,
+      "sqcand": "60001633655"
+    },
+    {
+      "nome": "MOISES BRAZ RICARDO",
+      "nomeUrna": "MOISES BRAZ",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 358,
+      "percentual": 4.5,
+      "sqcand": "60001633642"
+    },
+    {
+      "nome": "JULIANA DE HOLANDA LUCENA RODRIGUES",
+      "nomeUrna": "JULIANA LUCENA",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 351,
+      "percentual": 4.41,
+      "sqcand": "60001633675"
+    }
+  ]
+}

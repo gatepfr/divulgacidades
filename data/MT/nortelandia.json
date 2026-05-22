@@ -1,0 +1,271 @@
+{
+  "populacao": 5130,
+  "votosValidos": 4170,
+  "abstencao": 16.59,
+  "prefeito": {
+    "nome": "MARIANO GOMES MIRANDA",
+    "nomeUrna": "MARIANO GOMES",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1742,
+    "percentual": 41.77,
+    "situacao": "Eleito",
+    "sqcand": "110002210706",
+    "vice": "RUBILAN NUNES DE OLIVEIRA",
+    "viceNomeUrna": "RUBILAN",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "110002210707",
+    "coligacao": "UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "ANDREY ALVES DE OLIVEIRA",
+      "nomeUrna": "ANDREY OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 285,
+      "percentual": 6.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002200663"
+    },
+    {
+      "nome": "ELIEZER ALVARO PINHEIRO BENEVIDES",
+      "nomeUrna": "NETAO BENEVIDES",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 283,
+      "percentual": 6.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002043595"
+    },
+    {
+      "nome": "ELKA BEATRIZ MONTEIRO E MAYER",
+      "nomeUrna": "ELKA MAYER",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 247,
+      "percentual": 5.93,
+      "situacao": "Eleito por média",
+      "sqcand": "110002043588"
+    },
+    {
+      "nome": "DELAMAR APARECIDO SOUZA SILVA",
+      "nomeUrna": "DELAMAR",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 245,
+      "percentual": 5.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002200666"
+    },
+    {
+      "nome": "REGIS DE OLIVEIRA",
+      "nomeUrna": "REGIS OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 230,
+      "percentual": 5.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002200664"
+    },
+    {
+      "nome": "FLAVIO VINICIUS FONSECA DE SA",
+      "nomeUrna": "FLÁVIO DE SÁ",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 225,
+      "percentual": 5.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002256037"
+    },
+    {
+      "nome": "LUIZ GARCIA TABORDA",
+      "nomeUrna": "LUIZ GARCIA",
+      "partido": "PRD",
+      "numero": "25255",
+      "votos": 210,
+      "percentual": 5.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002041020"
+    },
+    {
+      "nome": "DOMIVAL RODRIGUES SILVA JUNIOR",
+      "nomeUrna": "DOMIVAL JUNIOR",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 186,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002256041"
+    },
+    {
+      "nome": "RENAN NUNES OLIVEIRA",
+      "nomeUrna": "RENAN OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 171,
+      "percentual": 4.1,
+      "situacao": "Eleito por média",
+      "sqcand": "110002200667"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1891,
+      "percentual": 82.43,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 248,
+      "percentual": 10.81,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "KÁSSIO EDUARDO DA SILVA COELHO",
+      "nomeUrna": "KÁSSIO COELHO",
+      "partido": "PATRIOTA",
+      "numero": "510",
+      "votos": 112,
+      "percentual": 4.88,
+      "sqcand": "110001595899"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JEFERSON WAGNER RAMOS",
+      "nomeUrna": "WAGNER RAMOS",
+      "partido": "UNIÃO",
+      "numero": "4499",
+      "votos": 473,
+      "percentual": 14.2,
+      "sqcand": "110001612769"
+    },
+    {
+      "nome": "FÁBIO PAULINO GARCIA",
+      "nomeUrna": "FÁBIO GARCIA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 440,
+      "percentual": 13.21,
+      "sqcand": "110001612770"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 411,
+      "percentual": 12.33,
+      "sqcand": "110001675052"
+    },
+    {
+      "nome": "TÚLIO AURÉLIO CAMPOS FONTES",
+      "nomeUrna": "TÚLIO FONTES",
+      "partido": "PSB",
+      "numero": "4011",
+      "votos": 407,
+      "percentual": 12.21,
+      "sqcand": "110001601580"
+    },
+    {
+      "nome": "EMANUEL PINHEIRO DA SILVA PRIMO TEIXEIRA",
+      "nomeUrna": "EMANUELZINHO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 191,
+      "percentual": 5.73,
+      "sqcand": "110001623300"
+    },
+    {
+      "nome": "LEONARDO RIBEIRO ALBUQUERQUE",
+      "nomeUrna": "DR LEONARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 159,
+      "percentual": 4.77,
+      "sqcand": "110001618183"
+    },
+    {
+      "nome": "JOSÉ ANTÔNIO DOS SANTOS MEDEIROS",
+      "nomeUrna": "JOSÉ MEDEIROS",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 152,
+      "percentual": 4.56,
+      "sqcand": "110001612757"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ EDUARDO BOTELHO",
+      "nomeUrna": "BOTELHO",
+      "partido": "UNIÃO",
+      "numero": "44650",
+      "votos": 439,
+      "percentual": 13.26,
+      "sqcand": "110001612930"
+    },
+    {
+      "nome": "JANAÍNA GREYCE RIVA FAGUNDES",
+      "nomeUrna": "JANAÍNA RIVA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 407,
+      "percentual": 12.3,
+      "sqcand": "110001623186"
+    },
+    {
+      "nome": "PAULO ROBERTO ARAUJO",
+      "nomeUrna": "PAULO ARAUJO",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 398,
+      "percentual": 12.02,
+      "sqcand": "110001621200"
+    },
+    {
+      "nome": "DILMAR DAL BOSCO",
+      "nomeUrna": "DILMAR DAL BOSCO",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 282,
+      "percentual": 8.52,
+      "sqcand": "110001612944"
+    },
+    {
+      "nome": "JOÃO JOSÉ DE MATOS",
+      "nomeUrna": "DR. JOÃO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 166,
+      "percentual": 5.02,
+      "sqcand": "110001623194"
+    },
+    {
+      "nome": "FAISSAL JORGE CALIL FILHO",
+      "nomeUrna": "FAISSAL",
+      "partido": "CIDADANIA",
+      "numero": "23444",
+      "votos": 157,
+      "percentual": 4.74,
+      "sqcand": "110001655607"
+    },
+    {
+      "nome": "JOÃO BATISTA PEREIRA DE SOUZA",
+      "nomeUrna": "JOÃO BATISTA DO SINDSPEN",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 144,
+      "percentual": 4.35,
+      "sqcand": "110001621202"
+    }
+  ]
+}

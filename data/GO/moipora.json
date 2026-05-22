@@ -1,0 +1,271 @@
+{
+  "populacao": 2587,
+  "votosValidos": 2278,
+  "abstencao": 10.13,
+  "prefeito": {
+    "nome": "WILSON JOSÉ FERREIRA",
+    "nomeUrna": "ZÉ WILSON",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 1532,
+    "percentual": 67.25,
+    "situacao": "Eleito",
+    "sqcand": "90002078050",
+    "vice": "PAULO VITOR FERREIRA",
+    "viceNomeUrna": "PAULO VITOR",
+    "partidoVice": "PP",
+    "sqcandVice": "90002078051",
+    "coligacao": "PL / PSD / PP / PRD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "BRENIO DE OLIVEIRA BARBOSA",
+      "nomeUrna": "BRENIO",
+      "partido": "PP",
+      "numero": "11620",
+      "votos": 264,
+      "percentual": 11.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002078043"
+    },
+    {
+      "nome": "ISRAEL PAULO DA SILVA",
+      "nomeUrna": "ISRAEL XODÓ",
+      "partido": "PSD",
+      "numero": "55600",
+      "votos": 185,
+      "percentual": 8.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002077945"
+    },
+    {
+      "nome": "SEBASTIÃO PAULO COSTA",
+      "nomeUrna": "SEBASTIÃO PAULO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 182,
+      "percentual": 7.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002077946"
+    },
+    {
+      "nome": "ALDEIR SOUZA RODRIGUES",
+      "nomeUrna": "ALDEIR GOLEIRO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 178,
+      "percentual": 7.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002078042"
+    },
+    {
+      "nome": "LUIZ ANTÔNIO FERNANDES",
+      "nomeUrna": "LUIZ BOMBEIRO",
+      "partido": "PP",
+      "numero": "11193",
+      "votos": 163,
+      "percentual": 7.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002078048"
+    },
+    {
+      "nome": "CÉLIO NAPOLITANO JÚNIOR",
+      "nomeUrna": "CÉLIO JÚNIOR",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 145,
+      "percentual": 6.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002077941"
+    },
+    {
+      "nome": "VALDIVINO FRANCISCO DA SILVA",
+      "nomeUrna": "PIXUCA",
+      "partido": "PSD",
+      "numero": "55512",
+      "votos": 120,
+      "percentual": 5.25,
+      "situacao": "Eleito por média",
+      "sqcand": "90002077949"
+    },
+    {
+      "nome": "PAULO HENRIQUE DIAS DA SILVA",
+      "nomeUrna": "PAULO HENRIQUE",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 116,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002078044"
+    },
+    {
+      "nome": "AULIZABETE ANTONIO DE SOUZA",
+      "nomeUrna": "BETINHO",
+      "partido": "AGIR",
+      "numero": "36222",
+      "votos": 78,
+      "percentual": 3.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002317535"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 473,
+      "percentual": 29.58,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 419,
+      "percentual": 26.2,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 331,
+      "percentual": 20.7,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 531,
+      "percentual": 31.93,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+      "nomeUrna": "JOSÉ NELTO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 149,
+      "percentual": 8.96,
+      "sqcand": "90001700974"
+    },
+    {
+      "nome": "ISMAEL ALEXANDRINO JUNIOR",
+      "nomeUrna": "DR ISMAEL ALEXANDRINO ",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 119,
+      "percentual": 7.16,
+      "sqcand": "90001651581"
+    },
+    {
+      "nome": "FELIPE SOARES CECÍLIO",
+      "nomeUrna": "FELIPE CECÍLIO",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 109,
+      "percentual": 6.55,
+      "sqcand": "90001621105"
+    },
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 79,
+      "percentual": 4.75,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "LUCAS DE CASTRO SANTOS",
+      "nomeUrna": "LUCAS VERGÍLIO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 68,
+      "percentual": 4.09,
+      "sqcand": "90001615694"
+    },
+    {
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nomeUrna": "MARUSSA BOLDRIN",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 61,
+      "percentual": 3.67,
+      "sqcand": "90001621102"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CAIRO SALIM MARCELINO LOPES",
+      "nomeUrna": "CAIRO SALIM",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 541,
+      "percentual": 33.88,
+      "sqcand": "90001695741"
+    },
+    {
+      "nome": "SERGIO DE SOUZA BRAVO",
+      "nomeUrna": "SERGIO BRAVO",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 152,
+      "percentual": 9.52,
+      "sqcand": "90001605409"
+    },
+    {
+      "nome": "JOAQUIM ANTONIO MONTEIRO",
+      "nomeUrna": "JOAQUIM MONTEIRO",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 77,
+      "percentual": 4.82,
+      "sqcand": "90001611929"
+    },
+    {
+      "nome": "LUCAS PINHEIRO BRANDÃO CALIL",
+      "nomeUrna": "LUCAS CALIL",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 65,
+      "percentual": 4.07,
+      "sqcand": "90001653166"
+    },
+    {
+      "nome": "ANTÔNIO PEREIRA CARNEIRO NETO",
+      "nomeUrna": "ANTÔNIO CARNEIRO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 47,
+      "percentual": 2.94,
+      "sqcand": "90001643077"
+    },
+    {
+      "nome": "HENRIQUE PAULISTA ARANTES",
+      "nomeUrna": "HENRIQUE ARANTES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 33,
+      "percentual": 2.07,
+      "sqcand": "90001653185"
+    },
+    {
+      "nome": "APARECIDO CORREIA DE ALMEIDA",
+      "nomeUrna": "CORONEL ALMEIDA",
+      "partido": "AGIR",
+      "numero": "36022",
+      "votos": 33,
+      "percentual": 2.07,
+      "sqcand": "90001614651"
+    }
+  ]
+}

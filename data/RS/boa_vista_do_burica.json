@@ -1,0 +1,271 @@
+{
+  "populacao": 5724,
+  "votosValidos": 4882,
+  "abstencao": 10.87,
+  "prefeito": {
+    "nome": "JOÃO RUDINEI SEHNEM",
+    "nomeUrna": "JOÃOZINHO SEHNEM",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3743,
+    "percentual": 76.67,
+    "situacao": "Eleito",
+    "sqcand": "210002056446",
+    "vice": "CLARICE MARIA SCHMITT",
+    "viceNomeUrna": "CLARICE",
+    "partidoVice": "PSDB",
+    "sqcandVice": "210002056447",
+    "coligacao": "CIDADANIA / PSDB / MDB / PL / PP / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "BERENICE MARIA CLASSMANN",
+      "nomeUrna": "BERENICE CLASSMANN",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 537,
+      "percentual": 10.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002152888"
+    },
+    {
+      "nome": "ANTONIO SERGIO DE VARGAS MOTA",
+      "nomeUrna": "ANTONIO MOTA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 487,
+      "percentual": 9.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002238115"
+    },
+    {
+      "nome": "CLEUDIR FERNANDO MEYRER",
+      "nomeUrna": "CLEU",
+      "partido": "UNIÃO",
+      "numero": "44500",
+      "votos": 442,
+      "percentual": 8.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002152886"
+    },
+    {
+      "nome": "WAGNER KLOCKNER",
+      "nomeUrna": "WAGNER KLOCKNER",
+      "partido": "PP",
+      "numero": "11633",
+      "votos": 422,
+      "percentual": 8.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002055917"
+    },
+    {
+      "nome": "AURI FRANCISCO LEIDEMER",
+      "nomeUrna": "GAROTO",
+      "partido": "MDB",
+      "numero": "15630",
+      "votos": 298,
+      "percentual": 5.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002055732"
+    },
+    {
+      "nome": "MIGUEL HENRIQUE SIMON",
+      "nomeUrna": "MIGUEL SIMON",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 294,
+      "percentual": 5.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002055731"
+    },
+    {
+      "nome": "MARINÊS PENZ",
+      "nomeUrna": "MARINÊS",
+      "partido": "UNIÃO",
+      "numero": "44400",
+      "votos": 245,
+      "percentual": 4.93,
+      "situacao": "Eleito por média",
+      "sqcand": "210002152887"
+    },
+    {
+      "nome": "LEANDRO LUÍS FERNANTES",
+      "nomeUrna": "LEANDRO FERNANTES",
+      "partido": "MDB",
+      "numero": "15400",
+      "votos": 208,
+      "percentual": 4.18,
+      "situacao": "Eleito por média",
+      "sqcand": "210002055733"
+    },
+    {
+      "nome": "ROSELI DE OLIVEIRA REIZES HAHN",
+      "nomeUrna": "ZICA HAHN",
+      "partido": "PT",
+      "numero": "13300",
+      "votos": 132,
+      "percentual": 2.65,
+      "situacao": "Eleito por média",
+      "sqcand": "210002238114"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2097,
+      "percentual": 49.49,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1358,
+      "percentual": 32.05,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 741,
+      "percentual": 17.49,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 848,
+      "percentual": 19.34,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nomeUrna": "DANRLEI DE DEUS GOLEIRO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 772,
+      "percentual": 17.61,
+      "sqcand": "210001613990"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 694,
+      "percentual": 15.83,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 317,
+      "percentual": 7.23,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "MARLON ARATOR SANTOS DA ROSA",
+      "nomeUrna": "MARLON SANTOS",
+      "partido": "PL",
+      "numero": "2234",
+      "votos": 271,
+      "percentual": 6.18,
+      "sqcand": "210001648574"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 185,
+      "percentual": 4.22,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 150,
+      "percentual": 3.42,
+      "sqcand": "210001601877"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALOISIO TALSO CLASSMANN",
+      "nomeUrna": "CLASSMANN",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 1460,
+      "percentual": 33.41,
+      "sqcand": "210001601953"
+    },
+    {
+      "nome": "MAURI LUIS MELLA",
+      "nomeUrna": "LILICO MELLA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 825,
+      "percentual": 18.88,
+      "sqcand": "210001601644"
+    },
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 475,
+      "percentual": 10.87,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "VANICE HELENA ANDRADE DE MATOS",
+      "nomeUrna": "VANICE DE MATOS",
+      "partido": "MDB",
+      "numero": "15122",
+      "votos": 238,
+      "percentual": 5.45,
+      "sqcand": "210001647984"
+    },
+    {
+      "nome": "DIMAS SOUZA DA COSTA",
+      "nomeUrna": "DIMAS",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 219,
+      "percentual": 5.01,
+      "sqcand": "210001696191"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 193,
+      "percentual": 4.42,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "RICARDO HENRIQUE FAVIN",
+      "nomeUrna": "RICARDO FAVIN",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 117,
+      "percentual": 2.68,
+      "sqcand": "210001620192"
+    }
+  ]
+}

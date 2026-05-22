@@ -1,0 +1,271 @@
+{
+  "populacao": 10016,
+  "votosValidos": 7029,
+  "abstencao": 26.37,
+  "prefeito": {
+    "nome": "ARTHUR DI CARLO FERREIRA E SILVA",
+    "nomeUrna": "DR ARTHUR",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 4066,
+    "percentual": 57.85,
+    "situacao": "Eleito",
+    "sqcand": "130001905088",
+    "vice": "LUCIMAR CASSIMIRO DE OLIVEIRA",
+    "viceNomeUrna": "LÚCIO CASSIMIRO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "130001905087",
+    "coligacao": "REPUBLICANOS / MDB / PODE / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "MACKSON SANTOS RIBEIRO",
+      "nomeUrna": "MACKSON DESPACHANTE",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 460,
+      "percentual": 6.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001905024"
+    },
+    {
+      "nome": "VILMAR ANGELO ALVES",
+      "nomeUrna": "VILMAR",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 424,
+      "percentual": 5.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001905023"
+    },
+    {
+      "nome": "JOSÉ PASCELLI DE ARAUJO",
+      "nomeUrna": "PASCELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 410,
+      "percentual": 5.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001909871"
+    },
+    {
+      "nome": "VALDIR DIAS BELÍCIO",
+      "nomeUrna": "VALDIR BELÍCIO",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 357,
+      "percentual": 5.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001909843"
+    },
+    {
+      "nome": "MARIA MARGARIDA DE OLIVEIRA",
+      "nomeUrna": "GAÍDA ZAPE",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 354,
+      "percentual": 4.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002032900"
+    },
+    {
+      "nome": "PAULO FELLIPE BENTO DE SOUZA",
+      "nomeUrna": "PAULO FELLIPE",
+      "partido": "REPUBLICANOS",
+      "numero": "10900",
+      "votos": 339,
+      "percentual": 4.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001909869"
+    },
+    {
+      "nome": "SEBASTIÃO COELHO DE LIMA",
+      "nomeUrna": "TIÃO GENEROSO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 323,
+      "percentual": 4.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002161394"
+    },
+    {
+      "nome": "MÁRCIO JOSÉ MARCIANO",
+      "nomeUrna": "NEGÃO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 293,
+      "percentual": 4.1,
+      "situacao": "Eleito por média",
+      "sqcand": "130002032902"
+    },
+    {
+      "nome": "VICTOR FIDELIS GOMES",
+      "nomeUrna": "VICTOR FIDELIS",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 258,
+      "percentual": 3.61,
+      "situacao": "Eleito por média",
+      "sqcand": "130001909846"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2542,
+      "percentual": 43.42,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 2372,
+      "percentual": 40.51,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 875,
+      "percentual": 14.94,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "EUCLYDES MARCOS PETTERSEN NETO",
+      "nomeUrna": "EUCLYDES PETTERSEN",
+      "partido": "PSC",
+      "numero": "2015",
+      "votos": 1275,
+      "percentual": 20.58,
+      "sqcand": "130001671754"
+    },
+    {
+      "nome": "MAURO RIBEIRO LOPES",
+      "nomeUrna": "MAURO LOPES",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 954,
+      "percentual": 15.4,
+      "sqcand": "130001615428"
+    },
+    {
+      "nome": "JOSÉ LEONARDO COSTA MONTEIRO",
+      "nomeUrna": "LEONARDO MONTEIRO",
+      "partido": "PT",
+      "numero": "1363",
+      "votos": 805,
+      "percentual": 12.99,
+      "sqcand": "130001607248"
+    },
+    {
+      "nome": "MIGUEL ÂNGELO MONTEIRO ANDRADE",
+      "nomeUrna": "MIGUEL ÂNGELO",
+      "partido": "PT",
+      "numero": "1339",
+      "votos": 550,
+      "percentual": 8.88,
+      "sqcand": "130001607253"
+    },
+    {
+      "nome": "HERCILIO ARAUJO DINIZ FILHO",
+      "nomeUrna": "HERCILIO COELHO DINIZ",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 475,
+      "percentual": 7.67,
+      "sqcand": "130001668912"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 460,
+      "percentual": 7.42,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "PAULO ABI-ACKEL",
+      "nomeUrna": "PAULO ABI-ACKEL",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 338,
+      "percentual": 5.46,
+      "sqcand": "130001613373"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCOS JOSERALDO LEMOS",
+      "nomeUrna": "MARQUINHO LEMOS",
+      "partido": "PT",
+      "numero": "13139",
+      "votos": 1069,
+      "percentual": 18.58,
+      "sqcand": "130001607427"
+    },
+    {
+      "nome": "ENES CANDIDO DAMACENA JUNIOR",
+      "nomeUrna": "ENES CANDIDO",
+      "partido": "PMN",
+      "numero": "33500",
+      "votos": 1056,
+      "percentual": 18.36,
+      "sqcand": "130001605840"
+    },
+    {
+      "nome": "JAMIR CALILI RIBEIRO",
+      "nomeUrna": "JAMIR CALILI RIBEIRO",
+      "partido": "PP",
+      "numero": "11033",
+      "votos": 1050,
+      "percentual": 18.25,
+      "sqcand": "130001615618"
+    },
+    {
+      "nome": "JOÃO LÚCIO MAGALHÃES BIFANO",
+      "nomeUrna": "JOÃO MAGALHÃES",
+      "partido": "MDB",
+      "numero": "15133",
+      "votos": 552,
+      "percentual": 9.59,
+      "sqcand": "130001678188"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 341,
+      "percentual": 5.93,
+      "sqcand": "130001607392"
+    },
+    {
+      "nome": "JOSÉ LAVIOLA NETO DE LIRA",
+      "nomeUrna": "ZÉ LAVIOLA",
+      "partido": "NOVO",
+      "numero": "30011",
+      "votos": 189,
+      "percentual": 3.29,
+      "sqcand": "130001598589"
+    },
+    {
+      "nome": "ELISA MARIA COSTA",
+      "nomeUrna": "ELISA  COSTA",
+      "partido": "PT",
+      "numero": "13680",
+      "votos": 152,
+      "percentual": 2.64,
+      "sqcand": "130001607372"
+    }
+  ]
+}

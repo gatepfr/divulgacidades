@@ -1,0 +1,271 @@
+{
+  "populacao": 8581,
+  "votosValidos": 6693,
+  "abstencao": 17.95,
+  "prefeito": {
+    "nome": "ELVIS PRESLEY MOREIRA GONÇALVES",
+    "nomeUrna": "ELVIS PRESLEY",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 6257,
+    "percentual": 93.49,
+    "situacao": "Eleito",
+    "sqcand": "130002198701",
+    "vice": "ROMAR GONÇALVES RIBEIRO",
+    "viceNomeUrna": "ROMAR GONÇALVES",
+    "partidoVice": "PSD",
+    "sqcandVice": "130002198700",
+    "coligacao": "PDT / MDB / UNIÃO / PC do B / PT / PV / AVANTE / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "JÚNIOR HUMBERTO VICENTE",
+      "nomeUrna": "JUNINHO DE BETINHO",
+      "partido": "PV",
+      "numero": "43111",
+      "votos": 416,
+      "percentual": 6.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002230944"
+    },
+    {
+      "nome": "WANDER WALDEZ AMORIM",
+      "nomeUrna": "WANDINHO DA BOA VISTA",
+      "partido": "PSD",
+      "numero": "55013",
+      "votos": 272,
+      "percentual": 4.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002198697"
+    },
+    {
+      "nome": "ANTÔNIO ROBERTO RODRIGUES DOS SANTOS",
+      "nomeUrna": "ANTÔNIO PÉ QUEIMADO",
+      "partido": "AVANTE",
+      "numero": "70170",
+      "votos": 257,
+      "percentual": 3.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002292591"
+    },
+    {
+      "nome": "ANA CRISTINA PEREIRA SILVA DE AVILA",
+      "nomeUrna": "ANA AVILA",
+      "partido": "AVANTE",
+      "numero": "70555",
+      "votos": 253,
+      "percentual": 3.76,
+      "situacao": "Eleito por média",
+      "sqcand": "130002292597"
+    },
+    {
+      "nome": "ALESSANDRO ALVES DE OLIVEIRA",
+      "nomeUrna": "ALESSANDRO DE CLEUCIO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 249,
+      "percentual": 3.7,
+      "situacao": "Eleito por média",
+      "sqcand": "130002292196"
+    },
+    {
+      "nome": "WELBSON FRANCISCO DA SILVA",
+      "nomeUrna": "PRETINHO MOTORISTA",
+      "partido": "MDB",
+      "numero": "15610",
+      "votos": 225,
+      "percentual": 3.35,
+      "situacao": "Eleito por média",
+      "sqcand": "130002292211"
+    },
+    {
+      "nome": "DARWIN DIEGO DE SOUZA RAMOS",
+      "nomeUrna": "DARWIN RAMOS",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 215,
+      "percentual": 3.2,
+      "situacao": "Eleito por média",
+      "sqcand": "130002292596"
+    },
+    {
+      "nome": "CRISTIANI ANGÉLICA DE ARAÚJO MOREIRA SATHLER",
+      "nomeUrna": "CRIS DA SAÚDE",
+      "partido": "PSD",
+      "numero": "55455",
+      "votos": 181,
+      "percentual": 2.69,
+      "situacao": "Eleito por média",
+      "sqcand": "130002198696"
+    },
+    {
+      "nome": "SIDNEY VICENTE DE DEUS",
+      "nomeUrna": "SID CONTADOR",
+      "partido": "PDT",
+      "numero": "12212",
+      "votos": 164,
+      "percentual": 2.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002199280"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 2244,
+      "percentual": 41.38,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1539,
+      "percentual": 28.38,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1503,
+      "percentual": 27.72,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+      "nomeUrna": "DIEGO ANDRADE",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1699,
+      "percentual": 29.66,
+      "sqcand": "130001604337"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 883,
+      "percentual": 15.41,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "LUIS HENRIQUE DE OLIVEIRA RESENDE",
+      "nomeUrna": "LUIS TIBÉ",
+      "partido": "AVANTE",
+      "numero": "7070",
+      "votos": 374,
+      "percentual": 6.53,
+      "sqcand": "130001603563"
+    },
+    {
+      "nome": "FREDERICO BORGES DA COSTA",
+      "nomeUrna": "FRED COSTA",
+      "partido": "PATRIOTA",
+      "numero": "5133",
+      "votos": 320,
+      "percentual": 5.59,
+      "sqcand": "130001596009"
+    },
+    {
+      "nome": "PAULO ABI-ACKEL",
+      "nomeUrna": "PAULO ABI-ACKEL",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 313,
+      "percentual": 5.46,
+      "sqcand": "130001613373"
+    },
+    {
+      "nome": "GILBERTO APARECIDO ABRAMO",
+      "nomeUrna": "GILBERTO ABRAMO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 158,
+      "percentual": 2.76,
+      "sqcand": "130001619779"
+    },
+    {
+      "nome": "LUCAS DE VASCONCELOS GONZALEZ",
+      "nomeUrna": "LUCAS GONZALEZ",
+      "partido": "NOVO",
+      "numero": "3022",
+      "votos": 93,
+      "percentual": 1.62,
+      "sqcand": "130001598359"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTONIO DIVINO DE SOUZA",
+      "nomeUrna": "ANTONIO DIVINO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 2751,
+      "percentual": 48.04,
+      "sqcand": "130001615636"
+    },
+    {
+      "nome": "ROBERTO DIAS DE ANDRADE",
+      "nomeUrna": "ROBERTO ANDRADE",
+      "partido": "PATRIOTA",
+      "numero": "51222",
+      "votos": 759,
+      "percentual": 13.26,
+      "sqcand": "130001596287"
+    },
+    {
+      "nome": "RUBENS GONÇALVES DE BRITO",
+      "nomeUrna": "BIM DA AMBULÂNCIA",
+      "partido": "AVANTE",
+      "numero": "70193",
+      "votos": 225,
+      "percentual": 3.93,
+      "sqcand": "130001603688"
+    },
+    {
+      "nome": "JEFERSON DOUGLAS SOARES ESTANISLAU",
+      "nomeUrna": "DOUGLAS MELO",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 209,
+      "percentual": 3.65,
+      "sqcand": "130001604374"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 174,
+      "percentual": 3.04,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "WILSON ROBERTO BATISTA",
+      "nomeUrna": "DOUTOR WILSON BATISTA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 147,
+      "percentual": 2.57,
+      "sqcand": "130001604376"
+    },
+    {
+      "nome": "CHARLES DOS SANTOS",
+      "nomeUrna": "CHARLES SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 138,
+      "percentual": 2.41,
+      "sqcand": "130001634030"
+    }
+  ]
+}

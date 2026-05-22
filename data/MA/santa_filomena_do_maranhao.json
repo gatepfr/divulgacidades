@@ -1,0 +1,271 @@
+{
+  "populacao": 6466,
+  "votosValidos": 5678,
+  "abstencao": 10.49,
+  "prefeito": {
+    "nome": "SALOMÃO BARBOSA DE SOUSA",
+    "nomeUrna": "SALOMÃO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3073,
+    "percentual": 54.12,
+    "situacao": "Eleito",
+    "sqcand": "100001958106",
+    "vice": "NITERRAN SOARES DE LIMA",
+    "viceNomeUrna": "NITERRAN",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "100001958105",
+    "coligacao": "SOLIDARIEDADE / UNIÃO / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "WIDGLAN GOMES RODRIGUES",
+      "nomeUrna": "WIDGLAN GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 703,
+      "percentual": 12.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001966871"
+    },
+    {
+      "nome": "WANDERSON DE OLIVEIRA LIMA",
+      "nomeUrna": "HUGUINHO DO TELEMA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 544,
+      "percentual": 9.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002076143"
+    },
+    {
+      "nome": "CLAUDIONEY GOMES SUBRIM",
+      "nomeUrna": "NEY ERNESTO",
+      "partido": "UNIÃO",
+      "numero": "44300",
+      "votos": 405,
+      "percentual": 7.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002076147"
+    },
+    {
+      "nome": "DUANES SOUSA MENDONÇA",
+      "nomeUrna": "DRA DUANES MENDONÇA",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 394,
+      "percentual": 6.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002076144"
+    },
+    {
+      "nome": "JOAQUIM GOMES DA COSTA NETO",
+      "nomeUrna": "JOAQUIM NETO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 336,
+      "percentual": 5.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002192861"
+    },
+    {
+      "nome": "MARIA ILSA DE OLIVEIRA BANDEIRA MOURÃO",
+      "nomeUrna": "MARIA ILSA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 319,
+      "percentual": 5.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001967327"
+    },
+    {
+      "nome": "ANDRESSA CARVALHO DE SOUZA",
+      "nomeUrna": "ANDRESSA DO NAZARÉ",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77800",
+      "votos": 314,
+      "percentual": 5.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002192860"
+    },
+    {
+      "nome": "NADIA ROMÊNIA DA COSTA FERREIRA",
+      "nomeUrna": "ROMÊNIA MOURÃO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 307,
+      "percentual": 5.4,
+      "situacao": "Eleito por média",
+      "sqcand": "100002076146"
+    },
+    {
+      "nome": "ANTONIA KARLLA BANDEIRA DE SOUSA",
+      "nomeUrna": "KARLLA DO MUNDIN",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 275,
+      "percentual": 4.83,
+      "situacao": "Eleito por média",
+      "sqcand": "100001966530"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 2237,
+      "percentual": 52.44,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 2014,
+      "percentual": 47.21,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 7,
+      "percentual": 0.16,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "EDILÁZIO GOMES DA SILVA JUNIOR",
+      "nomeUrna": "EDILÁZIO JÚNIOR",
+      "partido": "PSD",
+      "numero": "5533",
+      "votos": 1937,
+      "percentual": 43.8,
+      "sqcand": "100001602261"
+    },
+    {
+      "nome": "FÁBIO HENRIQUE DIAS DE MACEDO",
+      "nomeUrna": "FÁBIO MACEDO",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 1448,
+      "percentual": 32.75,
+      "sqcand": "100001614966"
+    },
+    {
+      "nome": "CLAYTON NOLETO SILVA",
+      "nomeUrna": "CLAYTON NOLETO",
+      "partido": "PSB",
+      "numero": "4011",
+      "votos": 236,
+      "percentual": 5.34,
+      "sqcand": "100001607054"
+    },
+    {
+      "nome": "JURAN CARVALHO DE SOUZA",
+      "nomeUrna": "JURAN CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 99,
+      "percentual": 2.24,
+      "sqcand": "100001602013"
+    },
+    {
+      "nome": "REMY ALVES SOARES FILHO",
+      "nomeUrna": "REMY SOARES",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 76,
+      "percentual": 1.72,
+      "sqcand": "100001608072"
+    },
+    {
+      "nome": "FLAVIA MARIA GOMES PARENTE ALVES MACIEL",
+      "nomeUrna": "FLAVIA ALVES",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 69,
+      "percentual": 1.56,
+      "sqcand": "100001613706"
+    },
+    {
+      "nome": "GILDENEMIR DE LIMA SOUSA",
+      "nomeUrna": "PASTOR  GIL",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 67,
+      "percentual": 1.52,
+      "sqcand": "100001603099"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CIRO EVANGELISTA DE SOUZA NETO",
+      "nomeUrna": "CIRO NETO",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 1618,
+      "percentual": 37.23,
+      "sqcand": "100001599575"
+    },
+    {
+      "nome": "ABIGAIL CUNHA DE ALMEIDA SOUSA",
+      "nomeUrna": "ABIGAIL",
+      "partido": "PL",
+      "numero": "22200",
+      "votos": 1597,
+      "percentual": 36.75,
+      "sqcand": "100001603152"
+    },
+    {
+      "nome": "WELLRYK OLIVEIRA COSTA DA SILVA",
+      "nomeUrna": "ERIC COSTA",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 454,
+      "percentual": 10.45,
+      "sqcand": "100001607118"
+    },
+    {
+      "nome": "CLEOMAR TEMA CARVALHO CUNHA",
+      "nomeUrna": "TEMA  CUNHA",
+      "partido": "PODE",
+      "numero": "19000",
+      "votos": 247,
+      "percentual": 5.68,
+      "sqcand": "100001614794"
+    },
+    {
+      "nome": "JOÃO BATISTA GONCALVES DE CASTRO SEGUNDO",
+      "nomeUrna": "JOÃO BATISTA SEGUNDO",
+      "partido": "PATRIOTA",
+      "numero": "51333",
+      "votos": 49,
+      "percentual": 1.13,
+      "sqcand": "100001608118"
+    },
+    {
+      "nome": "DANIELLA JADÃO MENESES",
+      "nomeUrna": "DANIELLA",
+      "partido": "PSB",
+      "numero": "40258",
+      "votos": 41,
+      "percentual": 0.94,
+      "sqcand": "100001607072"
+    },
+    {
+      "nome": "MICAL SILVA DAMASCENO",
+      "nomeUrna": "MICAL DAMASCENO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 34,
+      "percentual": 0.78,
+      "sqcand": "100001607113"
+    }
+  ]
+}

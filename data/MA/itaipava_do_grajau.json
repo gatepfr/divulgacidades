@@ -1,0 +1,271 @@
+{
+  "populacao": 11513,
+  "votosValidos": 9729,
+  "abstencao": 14.61,
+  "prefeito": {
+    "nome": "JOVALDO CARDOSO OLIVEIRA JUNIOR",
+    "nomeUrna": "JUNIOR DO POSTO",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 5872,
+    "percentual": 60.36,
+    "situacao": "Eleito",
+    "sqcand": "100002291500",
+    "vice": "ALDECY VIEIRA ROCHA",
+    "viceNomeUrna": "DECY ROCHA ",
+    "partidoVice": "PSB",
+    "sqcandVice": "100002291501",
+    "coligacao": "PDT / PSB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "LUZENILDE TORRES DO CARMO",
+      "nomeUrna": "CAÇULA DO ZE MARIA",
+      "partido": "PC do B",
+      "numero": "65000",
+      "votos": 951,
+      "percentual": 9.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002296669"
+    },
+    {
+      "nome": "ELIELTON DE SOUSA MARQUES PEREIRA",
+      "nomeUrna": "GALEGO DO EDMAR",
+      "partido": "PC do B",
+      "numero": "65555",
+      "votos": 807,
+      "percentual": 8.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002296671"
+    },
+    {
+      "nome": "JOSE DE SOUZA SILVA",
+      "nomeUrna": "ZE LOPES",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 612,
+      "percentual": 6.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002295537"
+    },
+    {
+      "nome": "JOCIEL CARDOSO ALVES",
+      "nomeUrna": "JOCIEL",
+      "partido": "PDT",
+      "numero": "12555",
+      "votos": 573,
+      "percentual": 5.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002295534"
+    },
+    {
+      "nome": "AURICELIO SANTANA RODRIGUES",
+      "nomeUrna": "AURICÉLIO DO PARAÍBA",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 548,
+      "percentual": 5.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002116150"
+    },
+    {
+      "nome": "THIAGO CONCEIÇÃO SILVA",
+      "nomeUrna": "THIAGO DO CRIULIZÃO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 528,
+      "percentual": 5.44,
+      "situacao": "Eleito por média",
+      "sqcand": "100002116154"
+    },
+    {
+      "nome": "ABIMAEL GOMES GUAJAJARA",
+      "nomeUrna": "ABIMAEL GUAJAJARA ",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 527,
+      "percentual": 5.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002295531"
+    },
+    {
+      "nome": "VALDIR AMORIM DA SILVA",
+      "nomeUrna": "VALDIR DO COCO",
+      "partido": "PC do B",
+      "numero": "65111",
+      "votos": 491,
+      "percentual": 5.06,
+      "situacao": "Eleito por média",
+      "sqcand": "100002296666"
+    },
+    {
+      "nome": "RONILSON DE ARAUJO SOUSA",
+      "nomeUrna": "RONILSON DO FRANCIMAR",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 428,
+      "percentual": 4.41,
+      "situacao": "Eleito por média",
+      "sqcand": "100002395173"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 5411,
+      "percentual": 74.2,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 1770,
+      "percentual": 24.27,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "IVO NOGUEIRA",
+      "nomeUrna": "PASTOR IVO NOGUEIRA",
+      "partido": "DC",
+      "numero": "277",
+      "votos": 90,
+      "percentual": 1.23,
+      "sqcand": "100001613450"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GILLIANO FRED NASCIMENTO CUTRIM",
+      "nomeUrna": "GIL CUTRIM",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 3089,
+      "percentual": 40.91,
+      "sqcand": "100001602010"
+    },
+    {
+      "nome": "PEDRO LUCAS ANDRADE FERNANDES RIBEIRO",
+      "nomeUrna": "PEDRO LUCAS FERNANDES",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 2008,
+      "percentual": 26.6,
+      "sqcand": "100001610559"
+    },
+    {
+      "nome": "JOSÉ JUSCELINO DOS SANTOS REZENDE FILHO",
+      "nomeUrna": "JUSCELINO FILHO",
+      "partido": "UNIÃO",
+      "numero": "4410",
+      "votos": 440,
+      "percentual": 5.83,
+      "sqcand": "100001610561"
+    },
+    {
+      "nome": "JOSIVALDO DOS SANTOS MELO",
+      "nomeUrna": "JOSIVALDO JP",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 418,
+      "percentual": 5.54,
+      "sqcand": "100001602275"
+    },
+    {
+      "nome": "JURAN CARVALHO DE SOUZA",
+      "nomeUrna": "JURAN CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 211,
+      "percentual": 2.79,
+      "sqcand": "100001602013"
+    },
+    {
+      "nome": "JOSÉ ALVES CAVALCANTE",
+      "nomeUrna": "PASTOR CAVALCANTE",
+      "partido": "PSD",
+      "numero": "5522",
+      "votos": 167,
+      "percentual": 2.21,
+      "sqcand": "100001602270"
+    },
+    {
+      "nome": "PAULO FACUNDO NETO",
+      "nomeUrna": "PAULO FACUNDO",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 132,
+      "percentual": 1.75,
+      "sqcand": "100001602272"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "WELLRYK OLIVEIRA COSTA DA SILVA",
+      "nomeUrna": "ERIC COSTA",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 3282,
+      "percentual": 44.61,
+      "sqcand": "100001607118"
+    },
+    {
+      "nome": "ABIGAIL CUNHA DE ALMEIDA SOUSA",
+      "nomeUrna": "ABIGAIL",
+      "partido": "PL",
+      "numero": "22200",
+      "votos": 2012,
+      "percentual": 27.35,
+      "sqcand": "100001603152"
+    },
+    {
+      "nome": "RICARDO JOSÉ SÁ FORTES DE ARRUDA",
+      "nomeUrna": "RICARDO ARRUDA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 532,
+      "percentual": 7.23,
+      "sqcand": "100001606625"
+    },
+    {
+      "nome": "ANDREIA LOPES MARTINS REZENDE",
+      "nomeUrna": "ANDREIA MARTINS REZENDE",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 405,
+      "percentual": 5.5,
+      "sqcand": "100001607086"
+    },
+    {
+      "nome": "CIRO EVANGELISTA DE SOUZA NETO",
+      "nomeUrna": "CIRO NETO",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 273,
+      "percentual": 3.71,
+      "sqcand": "100001599575"
+    },
+    {
+      "nome": "DANIEL VIEIRA DE LIMA",
+      "nomeUrna": "PASTOR DANIEL VIEIRA",
+      "partido": "PSC",
+      "numero": "20020",
+      "votos": 85,
+      "percentual": 1.16,
+      "sqcand": "100001620075"
+    },
+    {
+      "nome": "RAIMUNDO FLORÊNCIO MONTEIRO NETO",
+      "nomeUrna": "FLORÊNCIO NETO",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 67,
+      "percentual": 0.91,
+      "sqcand": "100001607077"
+    }
+  ]
+}

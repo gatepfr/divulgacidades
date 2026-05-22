@@ -1,0 +1,271 @@
+{
+  "populacao": 11424,
+  "votosValidos": 9005,
+  "abstencao": 16.98,
+  "prefeito": {
+    "nome": "SERGIO LUIZ ANEQUIM",
+    "nomeUrna": "CAMARÃO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 5275,
+    "percentual": 58.58,
+    "situacao": "Eleito",
+    "sqcand": "80001992093",
+    "vice": "JOSE MARCOS DE CASTRO",
+    "viceNomeUrna": "ZÉ MARCOS",
+    "partidoVice": "PSDB",
+    "sqcandVice": "80001992094",
+    "coligacao": "REPUBLICANOS / PP / PL / AGIR / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCELO ASSIS VALIM",
+      "nomeUrna": "BARRELA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 475,
+      "percentual": 5.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001991421"
+    },
+    {
+      "nome": "TIAGO FERNANDES DA COSTA",
+      "nomeUrna": "TIAGO DA FARMÁCIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 415,
+      "percentual": 4.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001973272"
+    },
+    {
+      "nome": "RONIE VON NERY",
+      "nomeUrna": "RONIE VON",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 365,
+      "percentual": 4.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002337291"
+    },
+    {
+      "nome": "EROS PRUCOLI",
+      "nomeUrna": "DR. EROS PRUCOLI",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 327,
+      "percentual": 3.58,
+      "situacao": "Eleito por média",
+      "sqcand": "80002337290"
+    },
+    {
+      "nome": "NÉLIO DE OLIVEIRA",
+      "nomeUrna": "NÉLIO DA ALIANÇA",
+      "partido": "PL",
+      "numero": "22234",
+      "votos": 291,
+      "percentual": 3.19,
+      "situacao": "Eleito por média",
+      "sqcand": "80001991417"
+    },
+    {
+      "nome": "RONI ALVES ROSA",
+      "nomeUrna": "BOZÓ",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 289,
+      "percentual": 3.16,
+      "situacao": "Eleito por média",
+      "sqcand": "80001991418"
+    },
+    {
+      "nome": "MARCO ANTONIO MORSELLI",
+      "nomeUrna": "MARQUIM BOLONHA",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 236,
+      "percentual": 2.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "80001973144"
+    },
+    {
+      "nome": "JOSÉ MARTINS FILHO",
+      "nomeUrna": "ZINHO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 230,
+      "percentual": 2.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002327463"
+    },
+    {
+      "nome": "ISAIAS MONTEIRO MELONI",
+      "nomeUrna": "ZAZA MELONI",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 229,
+      "percentual": 2.51,
+      "situacao": "Eleito por média",
+      "sqcand": "80002342092"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 3613,
+      "percentual": 47.46,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3006,
+      "percentual": 39.49,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 861,
+      "percentual": 11.31,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSE CARLOS CORRÊA CARDOSO JUNIOR",
+      "nomeUrna": "JUNIOR CORRÊA",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 1826,
+      "percentual": 23.12,
+      "sqcand": "80001615731"
+    },
+    {
+      "nome": "JOAO BATISTA CONTI",
+      "nomeUrna": "TED CONTI",
+      "partido": "PSB",
+      "numero": "4080",
+      "votos": 794,
+      "percentual": 10.05,
+      "sqcand": "80001620976"
+    },
+    {
+      "nome": "NORMA AYUB ALVES",
+      "nomeUrna": "NORMA AYUB",
+      "partido": "PP",
+      "numero": "1125",
+      "votos": 626,
+      "percentual": 7.93,
+      "sqcand": "80001650193"
+    },
+    {
+      "nome": "HELDER IGNÁCIO SALOMÃO",
+      "nomeUrna": "HELDER SALOMÃO",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 476,
+      "percentual": 6.03,
+      "sqcand": "80001719429"
+    },
+    {
+      "nome": "SORAYA DE SOUZA MANNATO",
+      "nomeUrna": "SORAYA MANATO",
+      "partido": "PTB",
+      "numero": "1422",
+      "votos": 402,
+      "percentual": 5.09,
+      "sqcand": "80001723280"
+    },
+    {
+      "nome": "PAULO ROBERTO FOLETTO",
+      "nomeUrna": "PAULO FOLETTO",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 368,
+      "percentual": 4.66,
+      "sqcand": "80001620975"
+    },
+    {
+      "nome": "AMARO ROCHA NASCIMENTO NETO",
+      "nomeUrna": "AMARO NETO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 349,
+      "percentual": 4.42,
+      "sqcand": "80001604531"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BRUNO DA COSTA RESENDE",
+      "nomeUrna": "DR BRUNO RESENDE",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 1023,
+      "percentual": 13.42,
+      "sqcand": "80001609916"
+    },
+    {
+      "nome": "THEODORICO DE ASSIS FERRAÇO",
+      "nomeUrna": "FERRAÇO",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 687,
+      "percentual": 9.01,
+      "sqcand": "80001649877"
+    },
+    {
+      "nome": "WELLINGTON CALLEGARI",
+      "nomeUrna": "CALLEGARI",
+      "partido": "PL",
+      "numero": "22004",
+      "votos": 481,
+      "percentual": 6.31,
+      "sqcand": "80001648804"
+    },
+    {
+      "nome": "IRINY NICOLAU CORRES LOPES",
+      "nomeUrna": "IRINY LOPES",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 459,
+      "percentual": 6.02,
+      "sqcand": "80001719701"
+    },
+    {
+      "nome": "DARY ALVES PAGUNG",
+      "nomeUrna": "DARY PAGUNG",
+      "partido": "PSB",
+      "numero": "40569",
+      "votos": 325,
+      "percentual": 4.26,
+      "sqcand": "80001621151"
+    },
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 268,
+      "percentual": 3.52,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "TYAGO RIBEIRO HOFFMANN",
+      "nomeUrna": "TYAGO HOFFMANN",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 247,
+      "percentual": 3.24,
+      "sqcand": "80001621155"
+    }
+  ]
+}

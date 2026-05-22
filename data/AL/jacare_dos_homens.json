@@ -1,0 +1,271 @@
+{
+  "populacao": 5451,
+  "votosValidos": 4520,
+  "abstencao": 15.19,
+  "prefeito": {
+    "nome": "MARIA DO SOCORRO MELO DA SILVA",
+    "nomeUrna": "SOCORRINHO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2574,
+    "percentual": 56.95,
+    "situacao": "Eleito",
+    "sqcand": "20001968966",
+    "vice": "FRANKLIN DANTAS CORREIA CAJÉ",
+    "viceNomeUrna": "FRANKLIN DANTAS",
+    "partidoVice": "PSB",
+    "sqcandVice": "20001968965",
+    "coligacao": "MDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "TIAGO SILVA DE MELO",
+      "nomeUrna": "TIAGO DAS BAIXAS",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 471,
+      "percentual": 10.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001979724"
+    },
+    {
+      "nome": "ALYNE ROSE SILVA MELO LEÃO",
+      "nomeUrna": "ALYNE LEÃO",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 450,
+      "percentual": 10.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001969907"
+    },
+    {
+      "nome": "JOSE CLAUDENICIO DOS SANTOS SOUZA",
+      "nomeUrna": "KAL DA AMARGOSA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 419,
+      "percentual": 9.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001969906"
+    },
+    {
+      "nome": "DENIS GHUIARONE SILVA LESSA",
+      "nomeUrna": "GUIARONE",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 410,
+      "percentual": 9.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001979722"
+    },
+    {
+      "nome": "ANTÔNIO TORRES",
+      "nomeUrna": "TONHO TORRES",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 406,
+      "percentual": 9.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001979725"
+    },
+    {
+      "nome": "DAVI ANDRADE RODRIGUES",
+      "nomeUrna": "DAVI DE GAZO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 293,
+      "percentual": 6.52,
+      "situacao": "Eleito por média",
+      "sqcand": "20001969905"
+    },
+    {
+      "nome": "GINALDO DO CARMO LIMA",
+      "nomeUrna": "GINALDO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 283,
+      "percentual": 6.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002097027"
+    },
+    {
+      "nome": "GUILHERME SOARES MELO",
+      "nomeUrna": "GUILHERME DE AURELIO",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 271,
+      "percentual": 6.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002097025"
+    },
+    {
+      "nome": "LEANDRO ANDRADE DOS SANTOS",
+      "nomeUrna": "LEANDRO ANDRADE",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 245,
+      "percentual": 5.45,
+      "situacao": "Eleito por média",
+      "sqcand": "20001979723"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSÉ RENAN VASCONCELOS CALHEIROS FILHO",
+      "nomeUrna": "RENAN FILHO",
+      "partido": "MDB",
+      "numero": "151",
+      "votos": 2467,
+      "percentual": 73.91,
+      "sqcand": "20001698127"
+    },
+    {
+      "nome": "DAVID CABRAL DAVINO FILHO",
+      "nomeUrna": "DAVI DAVINO FILHO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 854,
+      "percentual": 25.58,
+      "sqcand": "20001653095"
+    },
+    {
+      "nome": "MARIO AGRA JÚNIOR",
+      "nomeUrna": "MARIO AGRA",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 17,
+      "percentual": 0.51,
+      "sqcand": "20001611211"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ARTHUR CESAR PEREIRA DE LIRA",
+      "nomeUrna": "ARTHUR LIRA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1717,
+      "percentual": 48.92,
+      "sqcand": "20001614175"
+    },
+    {
+      "nome": "LUCIANO SURUAGY DO AMARAL FILHO",
+      "nomeUrna": "LUCIANO AMARAL",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 379,
+      "percentual": 10.8,
+      "sqcand": "20001610335"
+    },
+    {
+      "nome": "ISNALDO BULHÕES BARROS JÚNIOR",
+      "nomeUrna": "ISNALDO BULHÕES JR",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 338,
+      "percentual": 9.63,
+      "sqcand": "20001653892"
+    },
+    {
+      "nome": "MARX BELTRÃO LIMA SIQUEIRA",
+      "nomeUrna": "MARX BELTRÃO",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 269,
+      "percentual": 7.66,
+      "sqcand": "20001614180"
+    },
+    {
+      "nome": "NIVALDO FERREIRA DE ALBUQUERQUE NETO",
+      "nomeUrna": "NIVALDO ALBUQUERQUE",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 118,
+      "percentual": 3.36,
+      "sqcand": "20001652450"
+    },
+    {
+      "nome": "JOÃO ANTÔNIO HOLANDA CALDAS",
+      "nomeUrna": "DR JHC",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 113,
+      "percentual": 3.22,
+      "sqcand": "20001652750"
+    },
+    {
+      "nome": "SEVERINO DE LIRA PESSOA",
+      "nomeUrna": "SEVERINO PESSOA",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 96,
+      "percentual": 2.74,
+      "sqcand": "20001653894"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CARLA DANTAS LIMA E SILVA",
+      "nomeUrna": "CARLA DANTAS",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 1554,
+      "percentual": 47.05,
+      "sqcand": "20001653515"
+    },
+    {
+      "nome": "JOSÉ WANDERLEY NETO",
+      "nomeUrna": "DR WANDERLEY",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 461,
+      "percentual": 13.96,
+      "sqcand": "20001653521"
+    },
+    {
+      "nome": "BRUNO ALBUQUERQUE TOLEDO",
+      "nomeUrna": "BRUNO TOLEDO",
+      "partido": "MDB",
+      "numero": "15155",
+      "votos": 205,
+      "percentual": 6.21,
+      "sqcand": "20001653525"
+    },
+    {
+      "nome": "YVAN REIS BELTRÃO SIQUEIRA",
+      "nomeUrna": "YVAN BELTRÃO",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 176,
+      "percentual": 5.33,
+      "sqcand": "20001653509"
+    },
+    {
+      "nome": "DAVID MAIA DE VASCONCELOS LIMA",
+      "nomeUrna": "DAVI MAIA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 117,
+      "percentual": 3.54,
+      "sqcand": "20001612386"
+    },
+    {
+      "nome": "ANTONIO RIBEIRO DE ALBUQUERQUE",
+      "nomeUrna": "ANTONIO ALBUQUERQUE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 101,
+      "percentual": 3.06,
+      "sqcand": "20001652534"
+    },
+    {
+      "nome": "FABIANA CAVALCANTE PESSOA",
+      "nomeUrna": "FABIANA PESSOA",
+      "partido": "AVANTE",
+      "numero": "70111",
+      "votos": 67,
+      "percentual": 2.03,
+      "sqcand": "20001638566"
+    }
+  ]
+}

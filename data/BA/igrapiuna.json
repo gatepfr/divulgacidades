@@ -1,0 +1,271 @@
+{
+  "populacao": 9181,
+  "votosValidos": 7349,
+  "abstencao": 15.89,
+  "prefeito": {
+    "nome": "MANOEL RIBEIRO DOS SANTOS",
+    "nomeUrna": "MANOEL RIBEIRO",
+    "partido": "AVANTE",
+    "numero": "70",
+    "votos": 3678,
+    "percentual": 50.05,
+    "situacao": "Eleito",
+    "sqcand": "50002016183",
+    "vice": "NILDO DA SILVA SOUZA",
+    "viceNomeUrna": "NILDO DO MST",
+    "partidoVice": "PT",
+    "sqcandVice": "50002016182",
+    "coligacao": "AVANTE / PODE / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "CRISTOVAO ALVES CRUZ",
+      "nomeUrna": "CRISTOVÃO",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 495,
+      "percentual": 6.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002168233"
+    },
+    {
+      "nome": "PAULO RICARDO BONFIM",
+      "nomeUrna": "RICARDO ELETRICISTA",
+      "partido": "PT",
+      "numero": "13110",
+      "votos": 421,
+      "percentual": 5.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002085596"
+    },
+    {
+      "nome": "CECÍLIA ANDRÉA PAULO MENDES",
+      "nomeUrna": "CECÍLIA DE ROGÉRIO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 390,
+      "percentual": 5.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002085593"
+    },
+    {
+      "nome": "IONEI SILVA BOMFIM",
+      "nomeUrna": "NEY CORRERIA",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 380,
+      "percentual": 5.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002000495"
+    },
+    {
+      "nome": "PERCIVALDO ROBÉLIO OLIVEIRA MENDES",
+      "nomeUrna": "VEREADOR PERCINHO",
+      "partido": "AVANTE",
+      "numero": "70456",
+      "votos": 363,
+      "percentual": 5.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002000500"
+    },
+    {
+      "nome": "NEILTON JOSÉ DA ASSUNÇÃO SANTANA",
+      "nomeUrna": "NEU DE NENEU",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 339,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002233774"
+    },
+    {
+      "nome": "VALDEK SALES",
+      "nomeUrna": "VALDEK SALES",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 331,
+      "percentual": 4.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002233778"
+    },
+    {
+      "nome": "JOSE AUGUSTO ROSA VIEIRA",
+      "nomeUrna": "JOSÉ AUGUSTO ELETRICISTA",
+      "partido": "AVANTE",
+      "numero": "70111",
+      "votos": 297,
+      "percentual": 4.09,
+      "situacao": "Eleito por média",
+      "sqcand": "50002000499"
+    },
+    {
+      "nome": "JOABE SOUZA DE JESUS",
+      "nomeUrna": "JOABE ROMA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 217,
+      "percentual": 2.99,
+      "situacao": "Eleito por média",
+      "sqcand": "50002168234"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 3105,
+      "percentual": 56.37,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1779,
+      "percentual": 32.3,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 585,
+      "percentual": 10.62,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MÁRIO SÍLVIO MENDES NEGROMONTE JÚNIOR",
+      "nomeUrna": "MÁRIO NEGROMONTE JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1021,
+      "percentual": 17.0,
+      "sqcand": "50001621035"
+    },
+    {
+      "nome": "ELMAR JOSE VIEIRA NASCIMENTO",
+      "nomeUrna": "ELMAR NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 674,
+      "percentual": 11.22,
+      "sqcand": "50001634583"
+    },
+    {
+      "nome": "RAIMUNDO MAGALHÃES COSTA",
+      "nomeUrna": "RAIMUNDO COSTA",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 516,
+      "percentual": 8.59,
+      "sqcand": "50001615380"
+    },
+    {
+      "nome": "VALMIR CARLOS DA ASSUNÇÃO",
+      "nomeUrna": "VALMIR ASSUNÇÃO",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 488,
+      "percentual": 8.13,
+      "sqcand": "50001605371"
+    },
+    {
+      "nome": "ORLANDO SULZ DE ALMEIDA NETO",
+      "nomeUrna": "NETO CARLETTO",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 317,
+      "percentual": 5.28,
+      "sqcand": "50001621029"
+    },
+    {
+      "nome": "ALEX MARCO SANTANA SOUSA",
+      "nomeUrna": "ALEX SANTANA",
+      "partido": "REPUBLICANOS",
+      "numero": "1023",
+      "votos": 256,
+      "percentual": 4.26,
+      "sqcand": "50001619864"
+    },
+    {
+      "nome": "LEONARDO SILVA PRATES",
+      "nomeUrna": "LÉO PRATES",
+      "partido": "PDT",
+      "numero": "1244",
+      "votos": 251,
+      "percentual": 4.18,
+      "sqcand": "50001620881"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARIA DEL CARMEN FIDALGO SANCHEZ PUGA",
+      "nomeUrna": "MARIA DEL CARMEN",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 585,
+      "percentual": 10.81,
+      "sqcand": "50001606396"
+    },
+    {
+      "nome": "MARCIO EVANGELISTA DE OLIVEIRA",
+      "nomeUrna": "MARCINHO OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 505,
+      "percentual": 9.33,
+      "sqcand": "50001648293"
+    },
+    {
+      "nome": "JOSAFÁ MARINHO DE AGUIAR",
+      "nomeUrna": "JOSAFÁ MARINHO",
+      "partido": "PATRIOTA",
+      "numero": "51222",
+      "votos": 383,
+      "percentual": 7.07,
+      "sqcand": "50001610375"
+    },
+    {
+      "nome": "VERA LÚCIA DA CRUZ BARBOSA",
+      "nomeUrna": "LUCINHA DO MST",
+      "partido": "PT",
+      "numero": "13100",
+      "votos": 355,
+      "percentual": 6.56,
+      "sqcand": "50001606399"
+    },
+    {
+      "nome": "LUCIANO SIMOES DE CASTRO BARBOSA FILHO",
+      "nomeUrna": "LUCIANO SIMÕES",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 315,
+      "percentual": 5.82,
+      "sqcand": "50001648313"
+    },
+    {
+      "nome": "EDUARDO SEIXAS DE SALLES",
+      "nomeUrna": "EDUARDO SALLES",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 284,
+      "percentual": 5.25,
+      "sqcand": "50001647028"
+    },
+    {
+      "nome": "SOANE GALVÃO BARBOSA",
+      "nomeUrna": "SOANE GALVÃO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 249,
+      "percentual": 4.6,
+      "sqcand": "50001605984"
+    }
+  ]
+}

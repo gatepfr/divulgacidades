@@ -1,0 +1,271 @@
+{
+  "populacao": 4190,
+  "votosValidos": 3337,
+  "abstencao": 16.59,
+  "prefeito": {
+    "nome": "PEDRO DOS SANTOS",
+    "nomeUrna": "PEDRINHO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 1850,
+    "percentual": 55.44,
+    "situacao": "Eleito",
+    "sqcand": "210002074059",
+    "vice": "MARCIELI DOS REIS LIMA",
+    "viceNomeUrna": "MARCIELI REIS",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002074060",
+    "coligacao": "REPUBLICANOS / PDT / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ADEMAR OLIVEIRA DE AGUIAR",
+      "nomeUrna": "AGUIAR",
+      "partido": "PDT",
+      "numero": "12789",
+      "votos": 285,
+      "percentual": 8.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001946680"
+    },
+    {
+      "nome": "AIRTON JOSE GUEDES",
+      "nomeUrna": "GUEDES",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 225,
+      "percentual": 6.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001965445"
+    },
+    {
+      "nome": "JOSE CARLOS DE ARAUJO",
+      "nomeUrna": "JUCA ARAUJO",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 207,
+      "percentual": 6.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001965449"
+    },
+    {
+      "nome": "MARCOS ANDRE MORAES",
+      "nomeUrna": "MARCOS MORAES",
+      "partido": "PDT",
+      "numero": "12100",
+      "votos": 187,
+      "percentual": 5.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001946689"
+    },
+    {
+      "nome": "ELIANI DOS SANTOS DORNELLES",
+      "nomeUrna": "ELIANE",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 167,
+      "percentual": 4.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001965451"
+    },
+    {
+      "nome": "FERNANDA BRESOLIN VIEIRA",
+      "nomeUrna": "FERNANDA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 162,
+      "percentual": 4.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001980245"
+    },
+    {
+      "nome": "PAULO CESAR BUENO",
+      "nomeUrna": "PAULINHO DOCE MEL",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 129,
+      "percentual": 3.79,
+      "situacao": "Eleito por média",
+      "sqcand": "210001946685"
+    },
+    {
+      "nome": "TAMARA CORREA GONZATTO",
+      "nomeUrna": "TAMARA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 128,
+      "percentual": 3.76,
+      "situacao": "Eleito por média",
+      "sqcand": "210001965454"
+    },
+    {
+      "nome": "GESSI CONSTANTINO NUNES",
+      "nomeUrna": "GESSI",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 124,
+      "percentual": 3.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001979939"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1311,
+      "percentual": 46.97,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1106,
+      "percentual": 39.63,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 332,
+      "percentual": 11.9,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 399,
+      "percentual": 14.26,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 324,
+      "percentual": 11.58,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "UBIRATAN ANTUNES SANDERSON",
+      "nomeUrna": "SANDERSON",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 222,
+      "percentual": 7.93,
+      "sqcand": "210001648581"
+    },
+    {
+      "nome": "FRANCIANE ABADE BAYER MULLER",
+      "nomeUrna": "FRANCIANE BAYER",
+      "partido": "REPUBLICANOS",
+      "numero": "1012",
+      "votos": 212,
+      "percentual": 7.57,
+      "sqcand": "210001601591"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 203,
+      "percentual": 7.25,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 128,
+      "percentual": 4.57,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "JULIANA BRIZOLA",
+      "nomeUrna": "JULIANA BRIZOLA",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 100,
+      "percentual": 3.57,
+      "sqcand": "210001621265"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 289,
+      "percentual": 10.6,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "ALOISIO TALSO CLASSMANN",
+      "nomeUrna": "CLASSMANN",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 265,
+      "percentual": 9.72,
+      "sqcand": "210001601953"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 213,
+      "percentual": 7.81,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "RICARDO HENRIQUE FAVIN",
+      "nomeUrna": "RICARDO FAVIN",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 206,
+      "percentual": 7.55,
+      "sqcand": "210001620192"
+    },
+    {
+      "nome": "PAULO ROBERTO DA SILVA",
+      "nomeUrna": "PAULO OPUSDEI",
+      "partido": "PSC",
+      "numero": "20222",
+      "votos": 163,
+      "percentual": 5.98,
+      "sqcand": "210001605741"
+    },
+    {
+      "nome": "ELIANA DO NASCIMENTO NARVAIS BAYER",
+      "nomeUrna": "ELIANA BAYER",
+      "partido": "REPUBLICANOS",
+      "numero": "10120",
+      "votos": 162,
+      "percentual": 5.94,
+      "sqcand": "210001601632"
+    },
+    {
+      "nome": "ZILÁ MARIA BREITENBACH",
+      "nomeUrna": "ZILÁ BREITENBACH",
+      "partido": "PSDB",
+      "numero": "45345",
+      "votos": 122,
+      "percentual": 4.47,
+      "sqcand": "210001620208"
+    }
+  ]
+}

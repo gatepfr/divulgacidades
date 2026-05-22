@@ -1,0 +1,291 @@
+{
+  "populacao": 21163,
+  "votosValidos": 14463,
+  "abstencao": 27.72,
+  "prefeito": {
+    "nome": "TIAGO MACIEL BALTT",
+    "nomeUrna": "TIAGO BALTT",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 10690,
+    "percentual": 73.91,
+    "situacao": "Eleito",
+    "sqcand": "240002038600",
+    "vice": "FABIANO JOSÉ ALVES",
+    "viceNomeUrna": "DR. FABIANO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "240002038601",
+    "coligacao": "MDB / PRD / AGIR / REPUBLICANOS / PL / PP / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "MATHEUS ALEXANDRE ISENSEE DA CUNHA",
+      "nomeUrna": "MATHEUS CUNHA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1195,
+      "percentual": 8.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002121839"
+    },
+    {
+      "nome": "UBIRATAN DE ANDRADE JUNIOR",
+      "nomeUrna": "BIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 719,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002121834"
+    },
+    {
+      "nome": "MAIKON RODRIGUES",
+      "nomeUrna": "MAIKON DO ITACOLOMI",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 715,
+      "percentual": 4.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002038889"
+    },
+    {
+      "nome": "ROBSON BATISTA",
+      "nomeUrna": "BIGO",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 671,
+      "percentual": 4.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002038890"
+    },
+    {
+      "nome": "LUCAS FERNANDO DA MAIA",
+      "nomeUrna": "LUCAS MAIA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 649,
+      "percentual": 4.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002121836"
+    },
+    {
+      "nome": "ADRIANA ANA FORTUNATO LINHARES",
+      "nomeUrna": "ADRIANA DRICA",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 615,
+      "percentual": 4.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002250014"
+    },
+    {
+      "nome": "JORGE LUIZ DA SILVA",
+      "nomeUrna": "RADIALISTA JORGE",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 565,
+      "percentual": 3.91,
+      "situacao": "Eleito por média",
+      "sqcand": "240002121835"
+    },
+    {
+      "nome": "SANDRO RAIMUNDO",
+      "nomeUrna": "SANDRO IRMÃO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 536,
+      "percentual": 3.71,
+      "situacao": "Eleito por média",
+      "sqcand": "240002121841"
+    },
+    {
+      "nome": "DALVA CRISTIANE TEIXEIRA DOS SANTOS",
+      "nomeUrna": "DALVA",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 430,
+      "percentual": 2.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002263710"
+    },
+    {
+      "nome": "JOÃO VICTOR BACHMANN FORTE",
+      "nomeUrna": "JOÃO FORTE",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 382,
+      "percentual": 2.64,
+      "situacao": "Eleito por média",
+      "sqcand": "240002250017"
+    },
+    {
+      "nome": "GLEBER FABIANO PIRES SILVEIRA",
+      "nomeUrna": "GLEBER SILVEIRA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 310,
+      "percentual": 2.15,
+      "situacao": "Eleito por média",
+      "sqcand": "240002038882"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 6400,
+      "percentual": 51.9,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1566,
+      "percentual": 12.7,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 1433,
+      "percentual": 11.62,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 1178,
+      "percentual": 9.54,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "ANA PAULA DE SOUZA LIMA",
+      "nomeUrna": "ANA PAULA LIMA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 892,
+      "percentual": 7.22,
+      "sqcand": "240001645213"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 782,
+      "percentual": 6.33,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 743,
+      "percentual": 6.01,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "MARCOS ANTONIO PEREIRA GOMES",
+      "nomeUrna": "ZÉ TROVÃO",
+      "partido": "PL",
+      "numero": "2220",
+      "votos": 581,
+      "percentual": 4.7,
+      "sqcand": "240001610976"
+    },
+    {
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nomeUrna": "JULIA ZANATTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 461,
+      "percentual": 3.73,
+      "sqcand": "240001610974"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 433,
+      "percentual": 3.51,
+      "sqcand": "240001611140"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 1263,
+      "percentual": 10.37,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "CARLOS HUMBERTO METZNER SILVA",
+      "nomeUrna": "CARLOS HUMBERTO",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 825,
+      "percentual": 6.77,
+      "sqcand": "240001614337"
+    },
+    {
+      "nome": "IVAN NAATZ",
+      "nomeUrna": "IVAN NAATZ",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 765,
+      "percentual": 6.28,
+      "sqcand": "240001614356"
+    },
+    {
+      "nome": "ANA PAULA DA SILVA",
+      "nomeUrna": "PAULINHA",
+      "partido": "PODE",
+      "numero": "19010",
+      "votos": 729,
+      "percentual": 5.98,
+      "sqcand": "240001610824"
+    },
+    {
+      "nome": "JERRY EDSON COMPER",
+      "nomeUrna": "JERRY COMPER",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 669,
+      "percentual": 5.49,
+      "sqcand": "240001605920"
+    },
+    {
+      "nome": "NAPOLEÃO BERNARDES NETO",
+      "nomeUrna": "NAPOLEÃO BERNARDES",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 518,
+      "percentual": 4.25,
+      "sqcand": "240001614384"
+    },
+    {
+      "nome": "FERNANDO KRELLING",
+      "nomeUrna": "FERNANDO KRELLING",
+      "partido": "MDB",
+      "numero": "15655",
+      "votos": 385,
+      "percentual": 3.16,
+      "sqcand": "240001605919"
+    }
+  ]
+}

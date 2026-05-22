@@ -1,0 +1,271 @@
+{
+  "populacao": 7395,
+  "votosValidos": 6047,
+  "abstencao": 15.81,
+  "prefeito": {
+    "nome": "GERALDO DOS REIS OLIVEIRA",
+    "nomeUrna": "GERALDO REIS",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3731,
+    "percentual": 61.7,
+    "situacao": "Eleito",
+    "sqcand": "90001912739",
+    "vice": "CELSO RESENDE SILVA",
+    "viceNomeUrna": "CELSO RESENDE",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "90001912740",
+    "coligacao": "MDB / UNIÃO / SOLIDARIEDADE / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "ISMAEL RICARDO PEREIRA",
+      "nomeUrna": "ISMAEL CABELINHO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 660,
+      "percentual": 10.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001912821"
+    },
+    {
+      "nome": "ANELIM BARBOSA DOS SANTOS",
+      "nomeUrna": "ANELIM BARBOSA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 461,
+      "percentual": 7.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001912829"
+    },
+    {
+      "nome": "WALTER CHIQUIM DE AMORIM",
+      "nomeUrna": "WALTER CHIQUIM",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 420,
+      "percentual": 6.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001929795"
+    },
+    {
+      "nome": "ILIER JOSE DA SILVA",
+      "nomeUrna": "ILIER CASSIMIRO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 368,
+      "percentual": 6.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001929793"
+    },
+    {
+      "nome": "CRISTIANO MARTINS FERREIRA DE CASTRO",
+      "nomeUrna": "CRISTIANO DO DOCA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77888",
+      "votos": 325,
+      "percentual": 5.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001912824"
+    },
+    {
+      "nome": "EDIMAR BERNARDINO NOGUEIRA",
+      "nomeUrna": "EDIMAR DO OVIDIO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 272,
+      "percentual": 4.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002278690"
+    },
+    {
+      "nome": "CLEUSMAR ANTÔNIO COUTINHO",
+      "nomeUrna": "CLEOSMAR DO MOTO SERRA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 236,
+      "percentual": 3.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002033104"
+    },
+    {
+      "nome": "BATISTA RODRIGUES DOS SANTOS",
+      "nomeUrna": "BATISTA RODRIGUES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77444",
+      "votos": 215,
+      "percentual": 3.55,
+      "situacao": "Eleito por média",
+      "sqcand": "90001912830"
+    },
+    {
+      "nome": "LUDIGERO RODRIGUES DA SILVA",
+      "nomeUrna": "LUDIGERO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 203,
+      "percentual": 3.35,
+      "situacao": "Eleito por média",
+      "sqcand": "90002033099"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1257,
+      "percentual": 26.39,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1243,
+      "percentual": 26.09,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 1008,
+      "percentual": 21.16,
+      "sqcand": "90001615126"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+      "nomeUrna": "JOSÉ NELTO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 857,
+      "percentual": 17.2,
+      "sqcand": "90001700974"
+    },
+    {
+      "nome": "MAGDA MOFATTO HON",
+      "nomeUrna": "MAGDA MOFATTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 752,
+      "percentual": 15.09,
+      "sqcand": "90001652511"
+    },
+    {
+      "nome": "RUBENS OTONI GOMIDE",
+      "nomeUrna": "RUBENS OTONI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 425,
+      "percentual": 8.53,
+      "sqcand": "90001648112"
+    },
+    {
+      "nome": "HUMBERTO TEÓFILO DE MENEZES NETO",
+      "nomeUrna": "DELEGADO HUMBERTO TEÓFILO",
+      "partido": "PATRIOTA",
+      "numero": "5122",
+      "votos": 340,
+      "percentual": 6.82,
+      "sqcand": "90001650884"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 272,
+      "percentual": 5.46,
+      "sqcand": "90001614055"
+    },
+    {
+      "nome": "SAMUEL JOSÉ DOS SANTOS",
+      "nomeUrna": "SAMUEL DUPLA DANIEL E SAMUEL",
+      "partido": "PSC",
+      "numero": "2090",
+      "votos": 254,
+      "percentual": 5.1,
+      "sqcand": "90001614057"
+    },
+    {
+      "nome": "SABRINA GARCEZ HENRIQUE SILVA",
+      "nomeUrna": "SABRINA GARCEZ",
+      "partido": "REPUBLICANOS",
+      "numero": "1033",
+      "votos": 223,
+      "percentual": 4.48,
+      "sqcand": "90001651348"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BRUNO REGIANY PEIXOTO PIMENTA",
+      "nomeUrna": "BRUNO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 972,
+      "percentual": 20.16,
+      "sqcand": "90001648400"
+    },
+    {
+      "nome": "WAGNER CAMARGO NETO",
+      "nomeUrna": "WAGNER NETO",
+      "partido": "PRTB",
+      "numero": "28123",
+      "votos": 726,
+      "percentual": 15.06,
+      "sqcand": "90001644216"
+    },
+    {
+      "nome": "LINCOLN GRAZIANI PEREIRA DA ROCHA TEJOTA",
+      "nomeUrna": "LINCOLN TEJOTA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 422,
+      "percentual": 8.75,
+      "sqcand": "90001648385"
+    },
+    {
+      "nome": "TALLES ALVES BARRETO",
+      "nomeUrna": "TALLES BARRETO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 349,
+      "percentual": 7.24,
+      "sqcand": "90001648411"
+    },
+    {
+      "nome": "HENRIQUE CÉSAR PEREIRA",
+      "nomeUrna": "HENRIQUE CÉSAR",
+      "partido": "PSC",
+      "numero": "20100",
+      "votos": 221,
+      "percentual": 4.58,
+      "sqcand": "90001645561"
+    },
+    {
+      "nome": "DINO CARLO BARRETO AYRES",
+      "nomeUrna": "DINO AYRES",
+      "partido": "PRTB",
+      "numero": "28025",
+      "votos": 173,
+      "percentual": 3.59,
+      "sqcand": "90001644189"
+    },
+    {
+      "nome": "FRANCISCO SOBRINHO DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 117,
+      "percentual": 2.43,
+      "sqcand": "90001653178"
+    }
+  ]
+}

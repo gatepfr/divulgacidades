@@ -1,0 +1,271 @@
+{
+  "populacao": 5010,
+  "votosValidos": 3508,
+  "abstencao": 25.73,
+  "prefeito": {
+    "nome": "CARLOS HENRIQUE DA SILVA SEGOVIA",
+    "nomeUrna": "CARLOS SEGOVIA",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1682,
+    "percentual": 47.95,
+    "situacao": "Eleito",
+    "sqcand": "210001913998",
+    "vice": "VALDACI PADÃO GARCIA CAMPOS",
+    "viceNomeUrna": "VALDA",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "210001913999",
+    "coligacao": "PP / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "ALENCAR ROCHA BORGES",
+      "nomeUrna": "ALENCAR BORGES",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 557,
+      "percentual": 15.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001914606"
+    },
+    {
+      "nome": "ELISANGELA CAETANO MARTINEZ",
+      "nomeUrna": "ELISANGELA CAETANO",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 408,
+      "percentual": 11.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001914605"
+    },
+    {
+      "nome": "FATIMA ZIADEH NASSAR",
+      "nomeUrna": "FATIMA NASSAR",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 232,
+      "percentual": 6.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001966056"
+    },
+    {
+      "nome": "FRANCIELE DOS SANTOS CUSTODIO",
+      "nomeUrna": "FRAN SANTOS",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 165,
+      "percentual": 4.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001966053"
+    },
+    {
+      "nome": "LUIS ALBERTO DA CONCEIÇÃO SOARES",
+      "nomeUrna": "LUIS DESPACHANTE",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 153,
+      "percentual": 4.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001914607"
+    },
+    {
+      "nome": "PATRICIA VASQUES RODRIGUES BARBOSA MENA",
+      "nomeUrna": "PATHY VASQUES",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 152,
+      "percentual": 4.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001912255"
+    },
+    {
+      "nome": "ALEX IVAN ALVAREZ VEIGA",
+      "nomeUrna": "ALEX VEIGA",
+      "partido": "PP",
+      "numero": "11711",
+      "votos": 136,
+      "percentual": 3.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001914608"
+    },
+    {
+      "nome": "RICARDO ERNESTO DA ROSA POSE",
+      "nomeUrna": "RICARDO DO POSTO",
+      "partido": "UNIÃO",
+      "numero": "44440",
+      "votos": 112,
+      "percentual": 3.15,
+      "situacao": "Eleito por média",
+      "sqcand": "210001912254"
+    },
+    {
+      "nome": "HUGO DAVID GONZALEZ BORGES",
+      "nomeUrna": "HUGO DAVID",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 102,
+      "percentual": 2.87,
+      "situacao": "Eleito por média",
+      "sqcand": "210001914603"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1542,
+      "percentual": 59.79,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 633,
+      "percentual": 24.54,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 363,
+      "percentual": 14.08,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 536,
+      "percentual": 19.48,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 492,
+      "percentual": 17.88,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "ALEXANDRE DUARTE LINDENMEYER",
+      "nomeUrna": "ALEXANDRE LINDENMEYER",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 445,
+      "percentual": 16.18,
+      "sqcand": "210001604656"
+    },
+    {
+      "nome": "DANIEL TRZECIAK DUARTE",
+      "nomeUrna": "DANIEL TRZECIAK  DANIEL DA TV ",
+      "partido": "PSDB",
+      "numero": "4500",
+      "votos": 217,
+      "percentual": 7.89,
+      "sqcand": "210001620060"
+    },
+    {
+      "nome": "DANIEL PETTERLE SILVEIRA MUSSI",
+      "nomeUrna": "DANIEL MUSSI",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 112,
+      "percentual": 4.07,
+      "sqcand": "210001614002"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 67,
+      "percentual": 2.44,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "FÁBIA ALMEIDA RICHTER",
+      "nomeUrna": "ENFERMEIRA FÁBIA RICHTER",
+      "partido": "PSD",
+      "numero": "5540",
+      "votos": 55,
+      "percentual": 2.0,
+      "sqcand": "210001613998"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "KATIA CILENE DE QUADROS DUARTE",
+      "nomeUrna": "KATIA DUARTE",
+      "partido": "PT",
+      "numero": "13799",
+      "votos": 470,
+      "percentual": 17.88,
+      "sqcand": "210001610625"
+    },
+    {
+      "nome": "THIAGO PEREIRA DUARTE",
+      "nomeUrna": "DR THIAGO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 385,
+      "percentual": 14.65,
+      "sqcand": "210001601925"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 341,
+      "percentual": 12.98,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "HALLEY LINO DE SOUZA",
+      "nomeUrna": "HALLEY",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 335,
+      "percentual": 12.75,
+      "sqcand": "210001610612"
+    },
+    {
+      "nome": "JOSÉ SIDNEY NUNES DE ALMEIDA",
+      "nomeUrna": "ZÉ NUNES",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 142,
+      "percentual": 5.4,
+      "sqcand": "210001610623"
+    },
+    {
+      "nome": "JULIANO FRANCZAK",
+      "nomeUrna": "GAÚCHO DA GERAL",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 94,
+      "percentual": 3.58,
+      "sqcand": "210001696192"
+    },
+    {
+      "nome": "MARCUS VINÍCIUS VIEIRA DE ALMEIDA",
+      "nomeUrna": "MARCUS VINÍCIUS",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 72,
+      "percentual": 2.74,
+      "sqcand": "210001647184"
+    }
+  ]
+}

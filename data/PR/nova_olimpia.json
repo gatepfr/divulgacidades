@@ -1,0 +1,271 @@
+{
+  "populacao": 4856,
+  "votosValidos": 3927,
+  "abstencao": 15.98,
+  "prefeito": {
+    "nome": "LUIZ LAZARO SORVOS",
+    "nomeUrna": "LUIZ SORVOS",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2428,
+    "percentual": 61.83,
+    "situacao": "Eleito",
+    "sqcand": "160001975216",
+    "vice": "JOÃO CARLOS MORETO RAMOS",
+    "viceNomeUrna": "CARLINHOS",
+    "partidoVice": "PSD",
+    "sqcandVice": "160001975217",
+    "coligacao": "PP / PL / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "NILDO PEREIRA DOS REIS",
+      "nomeUrna": "NILDO DA SERRARIA",
+      "partido": "PL",
+      "numero": "22185",
+      "votos": 271,
+      "percentual": 6.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001947504"
+    },
+    {
+      "nome": "JOSE DA SILVA GUERRA",
+      "nomeUrna": "ZE GORDO",
+      "partido": "PP",
+      "numero": "11660",
+      "votos": 270,
+      "percentual": 6.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001975403"
+    },
+    {
+      "nome": "ENEIAS PIRES COELHO",
+      "nomeUrna": "ENEIAS",
+      "partido": "PL",
+      "numero": "22680",
+      "votos": 254,
+      "percentual": 6.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001947502"
+    },
+    {
+      "nome": "JOEBERSON DA COSTA SOLEDADE",
+      "nomeUrna": "JOEBER",
+      "partido": "PSB",
+      "numero": "40110",
+      "votos": 240,
+      "percentual": 6.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002206044"
+    },
+    {
+      "nome": "ERASMO CARDOSO SANTANA",
+      "nomeUrna": "ERASMO SANTANA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 236,
+      "percentual": 5.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002206045"
+    },
+    {
+      "nome": "JOSÉ DE ALMEIDA NETO",
+      "nomeUrna": "ZÉ NETO",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 234,
+      "percentual": 5.92,
+      "situacao": "Eleito por média",
+      "sqcand": "160002206040"
+    },
+    {
+      "nome": "MARIA MACIEL LIMA GRIFFO",
+      "nomeUrna": "MARIA MACIEL",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 234,
+      "percentual": 5.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001975409"
+    },
+    {
+      "nome": "SERGIO APARECIDO PEREIRA DA CRUZ",
+      "nomeUrna": "TIJUCA",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 230,
+      "percentual": 5.82,
+      "situacao": "Eleito por média",
+      "sqcand": "160001975406"
+    },
+    {
+      "nome": "IRISVALDO ALCANTARA DOS SANTOS",
+      "nomeUrna": "IRISVALDO ALCANTARA",
+      "partido": "PL",
+      "numero": "22341",
+      "votos": 170,
+      "percentual": 4.3,
+      "situacao": "Eleito por média",
+      "sqcand": "160001947507"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1112,
+      "percentual": 32.51,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1055,
+      "percentual": 30.85,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 769,
+      "percentual": 22.49,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HERMES PARCIANELLO",
+      "nomeUrna": "HERMES FRANGAO PARCIANELLO",
+      "partido": "MDB",
+      "numero": "1540",
+      "votos": 1077,
+      "percentual": 30.51,
+      "sqcand": "160001614542"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 508,
+      "percentual": 14.39,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 454,
+      "percentual": 12.86,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "SEBASTIÃO HENRIQUE DE MEDEIROS",
+      "nomeUrna": "TIÃO MEDEIROS",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 428,
+      "percentual": 12.12,
+      "sqcand": "160001603306"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 124,
+      "percentual": 3.51,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "CARLOS EDUARDO NERES LOURENÇO",
+      "nomeUrna": "PASTOR CARLOS EDUARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 83,
+      "percentual": 2.35,
+      "sqcand": "160001654832"
+    },
+    {
+      "nome": "GILSON CARDOSO FAHUR",
+      "nomeUrna": "SARGENTO FAHUR",
+      "partido": "PSD",
+      "numero": "5590",
+      "votos": 82,
+      "percentual": 2.32,
+      "sqcand": "160001622298"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 1110,
+      "percentual": 33.45,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 545,
+      "percentual": 16.43,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 346,
+      "percentual": 10.43,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "SERGIO PEREIRA JUNIOR",
+      "nomeUrna": "SERGINHO",
+      "partido": "PSB",
+      "numero": "40231",
+      "votos": 224,
+      "percentual": 6.75,
+      "sqcand": "160001621871"
+    },
+    {
+      "nome": "VANDERLEI CORDEIRO DE LIMA",
+      "nomeUrna": "VANDERLEI CORDEIRO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 131,
+      "percentual": 3.95,
+      "sqcand": "160001603342"
+    },
+    {
+      "nome": "MARILEI DE SOUZA LIMA",
+      "nomeUrna": "CANTORA MARA LIMA",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 92,
+      "percentual": 2.77,
+      "sqcand": "160001716141"
+    },
+    {
+      "nome": "CRISTIANE GIMENES DA SILVA",
+      "nomeUrna": "CRIS DAS FRUTAS",
+      "partido": "PSD",
+      "numero": "55200",
+      "votos": 85,
+      "percentual": 2.56,
+      "sqcand": "160001623117"
+    }
+  ]
+}

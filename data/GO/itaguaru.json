@@ -1,0 +1,271 @@
+{
+  "populacao": 5440,
+  "votosValidos": 4800,
+  "abstencao": 9.78,
+  "prefeito": {
+    "nome": "JOAQUIM FERNANDO MOREIRA ARAÚJO",
+    "nomeUrna": "FERNANDO ARAÚJO",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 2744,
+    "percentual": 57.17,
+    "situacao": "Eleito",
+    "sqcand": "90002024896",
+    "vice": "CÉLIA PIRES DE BARROS",
+    "viceNomeUrna": "CÉLIA PIRES",
+    "partidoVice": "PSD",
+    "sqcandVice": "90002024895",
+    "coligacao": "PDT / PSD / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JESUS GABRIEL SILVA FIDELES",
+      "nomeUrna": "JESUS GABRIEL",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77444",
+      "votos": 360,
+      "percentual": 7.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002104099"
+    },
+    {
+      "nome": "JOÃOMAR PAULO GONÇALVES PEREIRA",
+      "nomeUrna": "JOÃOMAR",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 263,
+      "percentual": 5.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001976318"
+    },
+    {
+      "nome": "WAGNER AUGUSTO DA VEIGA",
+      "nomeUrna": "WAGNER DA VEIGA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77222",
+      "votos": 254,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002104095"
+    },
+    {
+      "nome": "LINDOVAGNO MOREIRA DAMASCENO",
+      "nomeUrna": "LINDOVAGNO MOREIRA TIBÓIA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 242,
+      "percentual": 5.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001976326"
+    },
+    {
+      "nome": "IVAIR ANTONIO DE LIMA",
+      "nomeUrna": "LEGUINHO DO SR NICO",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 233,
+      "percentual": 4.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002017015"
+    },
+    {
+      "nome": "DARCIMEIRE FERNANDES DE LIMA",
+      "nomeUrna": "DARCIMEIRE FERNANDES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 226,
+      "percentual": 4.68,
+      "situacao": "Eleito por média",
+      "sqcand": "90002104098"
+    },
+    {
+      "nome": "DAITON MOREIRA DE OLIVEIRA",
+      "nomeUrna": "DAITON MOREIRA",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 223,
+      "percentual": 4.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002017019"
+    },
+    {
+      "nome": "VALBIRENE DA COSTA NUNES",
+      "nomeUrna": "VALBIRENE NUNES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 216,
+      "percentual": 4.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002241518"
+    },
+    {
+      "nome": "LUIZ MENDES DE CARVALHO JUNIOR",
+      "nomeUrna": "LUIZ JUNIOR ",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 185,
+      "percentual": 3.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002214446"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 1088,
+      "percentual": 28.56,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 839,
+      "percentual": 22.03,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "ALEXANDRE BALDY DE SANT ANNA BRAGA",
+      "nomeUrna": "ALEXANDRE BALDY",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 825,
+      "percentual": 21.66,
+      "sqcand": "90001609092"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 1087,
+      "percentual": 27.27,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 580,
+      "percentual": 14.55,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "BRENO LEITE SANTOS",
+      "nomeUrna": "DOUTOR BRENO LEITE",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 318,
+      "percentual": 7.98,
+      "sqcand": "90001675694"
+    },
+    {
+      "nome": "CÉLIO ANTÔNIO DA SILVEIRA",
+      "nomeUrna": "CÉLIO SILVEIRA",
+      "partido": "MDB",
+      "numero": "1599",
+      "votos": 299,
+      "percentual": 7.5,
+      "sqcand": "90001621109"
+    },
+    {
+      "nome": "RUBENS OTONI GOMIDE",
+      "nomeUrna": "RUBENS OTONI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 187,
+      "percentual": 4.69,
+      "sqcand": "90001648112"
+    },
+    {
+      "nome": "FRANCISCO RODRIGUES VALE JUNIOR",
+      "nomeUrna": "FRANCISCO JR",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 138,
+      "percentual": 3.46,
+      "sqcand": "90001651580"
+    },
+    {
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nomeUrna": "GUSTAVO GAYER",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 117,
+      "percentual": 2.94,
+      "sqcand": "90001652508"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LINEU OLIMPIO DE SOUZA",
+      "nomeUrna": "LINEU OLIMPIO",
+      "partido": "MDB",
+      "numero": "15044",
+      "votos": 915,
+      "percentual": 23.47,
+      "sqcand": "90001653187"
+    },
+    {
+      "nome": "WAGNER CAMARGO NETO",
+      "nomeUrna": "WAGNER NETO",
+      "partido": "PRTB",
+      "numero": "28123",
+      "votos": 771,
+      "percentual": 19.78,
+      "sqcand": "90001644216"
+    },
+    {
+      "nome": "TALLES ALVES BARRETO",
+      "nomeUrna": "TALLES BARRETO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 412,
+      "percentual": 10.57,
+      "sqcand": "90001648411"
+    },
+    {
+      "nome": "ADAILTON FLORENTINO DO NASCIMENTO",
+      "nomeUrna": "CORONEL ADAILTON",
+      "partido": "PRTB",
+      "numero": "28190",
+      "votos": 354,
+      "percentual": 9.08,
+      "sqcand": "90001644205"
+    },
+    {
+      "nome": "THIAGO ALBERNAZ PEREIRA",
+      "nomeUrna": "THIAGO ALBERNAZ",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 180,
+      "percentual": 4.62,
+      "sqcand": "90001653172"
+    },
+    {
+      "nome": "FABRICIO PRIMO BRAGANÇA",
+      "nomeUrna": "FABRICIO BRAGANÇA",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 122,
+      "percentual": 3.13,
+      "sqcand": "90001712198"
+    },
+    {
+      "nome": "GUSTAVO KOPPAN FAIAD SEBBA",
+      "nomeUrna": "GUSTAVO SEBBA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 115,
+      "percentual": 2.95,
+      "sqcand": "90001647430"
+    }
+  ]
+}

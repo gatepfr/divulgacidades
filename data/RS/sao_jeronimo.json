@@ -1,0 +1,291 @@
+{
+  "populacao": 16135,
+  "votosValidos": 12303,
+  "abstencao": 19.75,
+  "prefeito": {
+    "nome": "JÚLIO CESAR PRATES CUNHA",
+    "nomeUrna": "JULIÃO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 5841,
+    "percentual": 47.48,
+    "situacao": "Eleito",
+    "sqcand": "210002214595",
+    "vice": "FILIPE ALMEIDA DE SOUZA",
+    "viceNomeUrna": "FILIPE PICO",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002214596",
+    "coligacao": "CIDADANIA / PSDB / PDT / MDB / REPUBLICANOS / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "RENATO DA SILVA FERREIRA",
+      "nomeUrna": "RENATO FERREIRA",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 502,
+      "percentual": 4.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002214585"
+    },
+    {
+      "nome": "FERNANDO CAIRUGA CAMBOIM",
+      "nomeUrna": "RATINHO DA ILUMINAÇÃO",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 492,
+      "percentual": 3.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002214593"
+    },
+    {
+      "nome": "CLAITON CHAGAS DORNELLES",
+      "nomeUrna": "CLAITON DORNELLES",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 477,
+      "percentual": 3.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002214590"
+    },
+    {
+      "nome": "ELISA MARA ROCKE DE SOUZA",
+      "nomeUrna": "ELISA MARA",
+      "partido": "PSDB",
+      "numero": "45615",
+      "votos": 465,
+      "percentual": 3.74,
+      "situacao": "Eleito por média",
+      "sqcand": "210002214588"
+    },
+    {
+      "nome": "DANRLEI DOS SANTOS MASSENA",
+      "nomeUrna": "DANRLEI MASSENA",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 399,
+      "percentual": 3.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002043455"
+    },
+    {
+      "nome": "PAULO SERGIO DOS SANTOS VIEIRA",
+      "nomeUrna": "PAULO SERGIO",
+      "partido": "PP",
+      "numero": "11144",
+      "votos": 398,
+      "percentual": 3.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002167453"
+    },
+    {
+      "nome": "EVANDRO DE OLIVEIRA",
+      "nomeUrna": "EVANDRO DO DEPÓSITO",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 393,
+      "percentual": 3.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001909382"
+    },
+    {
+      "nome": "AMARO JERONIMO VANTI DE AZEVEDO",
+      "nomeUrna": "AMARO DA MARÉ",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 351,
+      "percentual": 2.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002043458"
+    },
+    {
+      "nome": "ROGER DA SILVA MARQUES",
+      "nomeUrna": "ROGER DA SAÚDE",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 350,
+      "percentual": 2.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001909380"
+    },
+    {
+      "nome": "LENI SAMPAIO RIBEIRO",
+      "nomeUrna": "PROFESSORA LENI",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 227,
+      "percentual": 1.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001944531"
+    },
+    {
+      "nome": "ANTONIO PAULO MACHADO",
+      "nomeUrna": "MACHADO BANHA",
+      "partido": "PL",
+      "numero": "22190",
+      "votos": 221,
+      "percentual": 1.78,
+      "situacao": "Eleito por média",
+      "sqcand": "210001944529"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 4669,
+      "percentual": 43.0,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 3655,
+      "percentual": 33.66,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2428,
+      "percentual": 22.36,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 2633,
+      "percentual": 23.89,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 789,
+      "percentual": 7.16,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "MARCELO PIRES MORAES",
+      "nomeUrna": "MARCELO MORAES",
+      "partido": "PL",
+      "numero": "2214",
+      "votos": 562,
+      "percentual": 5.1,
+      "sqcand": "210001648576"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 495,
+      "percentual": 4.49,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "DANIEL TRZECIAK DUARTE",
+      "nomeUrna": "DANIEL TRZECIAK  DANIEL DA TV ",
+      "partido": "PSDB",
+      "numero": "4500",
+      "votos": 420,
+      "percentual": 3.81,
+      "sqcand": "210001620060"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 396,
+      "percentual": 3.59,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "ANTONIO CARLOS GOMES DA SILVA",
+      "nomeUrna": "CARLOS GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 359,
+      "percentual": 3.26,
+      "sqcand": "210001601602"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "PEDRO OZORIO PEREIRA",
+      "nomeUrna": "PEDRO PEREIRA ",
+      "partido": "PSDB",
+      "numero": "45600",
+      "votos": 1301,
+      "percentual": 12.28,
+      "sqcand": "210001620221"
+    },
+    {
+      "nome": "DANIELA ARAÚJO DA SILVA",
+      "nomeUrna": "DANY ARAÚJO",
+      "partido": "REPUBLICANOS",
+      "numero": "10180",
+      "votos": 591,
+      "percentual": 5.58,
+      "sqcand": "210001601670"
+    },
+    {
+      "nome": "NEIVA TERESINHA MARQUES",
+      "nomeUrna": "KELLY MORAES",
+      "partido": "PL",
+      "numero": "22214",
+      "votos": 474,
+      "percentual": 4.47,
+      "sqcand": "210001648951"
+    },
+    {
+      "nome": "EMANUEL HASSEN DE JESUS",
+      "nomeUrna": "MANECO HASSEN",
+      "partido": "PT",
+      "numero": "13700",
+      "votos": 456,
+      "percentual": 4.3,
+      "sqcand": "210001610603"
+    },
+    {
+      "nome": "DEISI SILVEIRA REINALDO",
+      "nomeUrna": "DEISI MARANATA",
+      "partido": "PDT",
+      "numero": "12122",
+      "votos": 363,
+      "percentual": 3.43,
+      "sqcand": "210001621318"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 267,
+      "percentual": 2.52,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "JOSÉ FRANCISCO SOARES SPEROTTO",
+      "nomeUrna": " SPEROTTO",
+      "partido": "PSDB",
+      "numero": "45645",
+      "votos": 259,
+      "percentual": 2.44,
+      "sqcand": "210001620201"
+    }
+  ]
+}

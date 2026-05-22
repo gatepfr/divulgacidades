@@ -1,0 +1,271 @@
+{
+  "populacao": 39549,
+  "votosValidos": 26821,
+  "abstencao": 27.1,
+  "prefeito": {
+    "nome": "FERNANDO AUGUSTO ALVES DE ANDRADE",
+    "nomeUrna": "FERNANDO ANDRADE",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 6330,
+    "percentual": 23.6,
+    "situacao": "Eleito",
+    "sqcand": "130001906525",
+    "vice": "LUIZ CARLOS SEVERIANO COELHO",
+    "viceNomeUrna": "DR LUIZ",
+    "partidoVice": "PSD",
+    "sqcandVice": "130001906526",
+    "coligacao": "PSD / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "RODRIGO AUGUSTO COSTA LELES",
+      "nomeUrna": "RODRIGO CHAPOLA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 2260,
+      "percentual": 8.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001906623"
+    },
+    {
+      "nome": "IGOR SOARES SILVA",
+      "nomeUrna": "IGOR SOARES",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 1329,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001906602"
+    },
+    {
+      "nome": "ELTON CLAUDIO PIMENTEL GONTIJO",
+      "nomeUrna": "ELTINHO",
+      "partido": "PRD",
+      "numero": "25500",
+      "votos": 1314,
+      "percentual": 5.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002072726"
+    },
+    {
+      "nome": "MAIQUE APARECIDO ALVES",
+      "nomeUrna": "MAIQUE DA EDUCAÇÃO",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 1041,
+      "percentual": 4.02,
+      "situacao": "Eleito por média",
+      "sqcand": "130001906628"
+    },
+    {
+      "nome": "BRENO ALEXANDRE DE ORLEANS SOARES",
+      "nomeUrna": "BRENO ORLEANS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 956,
+      "percentual": 3.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002285069"
+    },
+    {
+      "nome": "JOÃO CARLOS FERREIRA",
+      "nomeUrna": "JOÃO DA LOTAÇÃO",
+      "partido": "PSB",
+      "numero": "40040",
+      "votos": 865,
+      "percentual": 3.34,
+      "situacao": "Eleito por média",
+      "sqcand": "130001906601"
+    },
+    {
+      "nome": "JOÃO EDUARDO CAMPOS",
+      "nomeUrna": "JOÃO EDUARDO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 804,
+      "percentual": 3.1,
+      "situacao": "Eleito por média",
+      "sqcand": "130001906627"
+    },
+    {
+      "nome": "EDUARDO JOSÉ DA SILVA",
+      "nomeUrna": "EDUARDO ESTRUTURAS",
+      "partido": "AGIR",
+      "numero": "36700",
+      "votos": 772,
+      "percentual": 2.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002031302"
+    },
+    {
+      "nome": "JOSE WILSON SOARES JUNIOR",
+      "nomeUrna": "CHIBIL",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 741,
+      "percentual": 2.86,
+      "situacao": "Eleito por média",
+      "sqcand": "130002072729"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 16769,
+      "percentual": 68.44,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4742,
+      "percentual": 19.35,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2456,
+      "percentual": 10.02,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 5885,
+      "percentual": 23.45,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "HAROLDO DE SOUSA QUEIROZ",
+      "nomeUrna": "HAROLDO QUEIROZ",
+      "partido": "AVANTE",
+      "numero": "7090",
+      "votos": 4288,
+      "percentual": 17.09,
+      "sqcand": "130001603594"
+    },
+    {
+      "nome": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+      "nomeUrna": "DIEGO ANDRADE",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1267,
+      "percentual": 5.05,
+      "sqcand": "130001604337"
+    },
+    {
+      "nome": "DUDA SALABERT ROSA",
+      "nomeUrna": "DUDA SALABERT",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 756,
+      "percentual": 3.01,
+      "sqcand": "130001606697"
+    },
+    {
+      "nome": "EDUARDO LUIZ BARROS BARBOSA",
+      "nomeUrna": "EDUARDO BARBOSA",
+      "partido": "PSDB",
+      "numero": "4535",
+      "votos": 717,
+      "percentual": 2.86,
+      "sqcand": "130001613364"
+    },
+    {
+      "nome": "DOMINGOS SÁVIO CAMPOS RESENDE",
+      "nomeUrna": "DOMINGOS SÁVIO",
+      "partido": "PL",
+      "numero": "2260",
+      "votos": 710,
+      "percentual": 2.83,
+      "sqcand": "130001611016"
+    },
+    {
+      "nome": "LAFAYETTE LUIZ DOORGAL DE ANDRADA",
+      "nomeUrna": "LAFAYETTE ANDRADA",
+      "partido": "REPUBLICANOS",
+      "numero": "1080",
+      "votos": 557,
+      "percentual": 2.22,
+      "sqcand": "130001619781"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FABIO JOSE DE OLIVEIRA",
+      "nomeUrna": "FÁBIO AVELAR",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 5245,
+      "percentual": 20.94,
+      "sqcand": "130001603664"
+    },
+    {
+      "nome": "WENDEL CRISTIANO SOARES DE MESQUITA",
+      "nomeUrna": "PROFESSOR WENDEL MESQUITA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 4561,
+      "percentual": 18.21,
+      "sqcand": "130001613029"
+    },
+    {
+      "nome": "JULIANA JABER QUEIROZ",
+      "nomeUrna": "JULIANA JABER",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 2982,
+      "percentual": 11.9,
+      "sqcand": "130001678194"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 1660,
+      "percentual": 6.63,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "ANTONIO CARLOS ARANTES",
+      "nomeUrna": "ANTONIO CARLOS ARANTES",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 1607,
+      "percentual": 6.41,
+      "sqcand": "130001619030"
+    },
+    {
+      "nome": "DOMINGOS SAVIO DE MENDONÇA",
+      "nomeUrna": "CEL MENDONÇA",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 1172,
+      "percentual": 4.68,
+      "sqcand": "130001634034"
+    },
+    {
+      "nome": "LOHANNA SOUZA FRANÇA MOREIRA DE OLIVEIRA",
+      "nomeUrna": "LOHANNA",
+      "partido": "PV",
+      "numero": "43500",
+      "votos": 751,
+      "percentual": 3.0,
+      "sqcand": "130001607412"
+    }
+  ]
+}

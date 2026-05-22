@@ -1,0 +1,271 @@
+{
+  "populacao": 7276,
+  "votosValidos": 5524,
+  "abstencao": 20.79,
+  "prefeito": {
+    "nome": "WILTON LEITE MADUREIRA",
+    "nomeUrna": "WILTON MADUREIRA",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 2981,
+    "percentual": 53.96,
+    "situacao": "Eleito",
+    "sqcand": "130002285001",
+    "vice": "CARLOS EVANGELISTA MARTINS ROCHA",
+    "viceNomeUrna": "CARLÃO DO BARREIRO",
+    "partidoVice": "SOLIDARIEDADE",
+    "sqcandVice": "130002285000",
+    "coligacao": "PC do B / PT / PV / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "JOÃO FRANCISCO SOBRINHO DINIZ",
+      "nomeUrna": "JOÃO DE DEILSON ",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 404,
+      "percentual": 7.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002234196"
+    },
+    {
+      "nome": "HORACIO MIRANDA DA SILVA",
+      "nomeUrna": "HORACIO DO SAMU",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 404,
+      "percentual": 7.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002317029"
+    },
+    {
+      "nome": "LEONARDO ALVES MARTINS",
+      "nomeUrna": "LÉO DE CHÚ ",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 332,
+      "percentual": 5.92,
+      "situacao": "Eleito por média",
+      "sqcand": "130002234193"
+    },
+    {
+      "nome": "ROMILDO ESPOSO BARBOSA",
+      "nomeUrna": "RAMOS DA LIMEIRA",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 305,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002038279"
+    },
+    {
+      "nome": "ADILA MARTA DE ARAUJO MIRANDA MATOS",
+      "nomeUrna": "ADILA DE HARLEY MATOS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 296,
+      "percentual": 5.28,
+      "situacao": "Eleito por média",
+      "sqcand": "130002317031"
+    },
+    {
+      "nome": "GUTEMBERG DE CASSIO SILVA MENDES",
+      "nomeUrna": "GUDIM FILHO DE ZÉ GATO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 263,
+      "percentual": 4.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002285176"
+    },
+    {
+      "nome": "TALLIS AVELANY SOARES SANTOS",
+      "nomeUrna": "TALLIS AVELANY ",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 240,
+      "percentual": 4.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002318281"
+    },
+    {
+      "nome": "IRAN GONÇALVES DOS SANTOS",
+      "nomeUrna": "IRAN DO AMARGOSO ",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 234,
+      "percentual": 4.17,
+      "situacao": "Eleito por média",
+      "sqcand": "130002285177"
+    },
+    {
+      "nome": "JURANDIR FERREIRA DA SILVA",
+      "nomeUrna": "NÊGO DO BAR ",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 214,
+      "percentual": 3.82,
+      "situacao": "Eleito por média",
+      "sqcand": "130002318280"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2214,
+      "percentual": 52.27,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1072,
+      "percentual": 25.31,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 932,
+      "percentual": 22.0,
+      "sqcand": "130001671677"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+      "nomeUrna": "DIEGO ANDRADE",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1840,
+      "percentual": 41.06,
+      "sqcand": "130001604337"
+    },
+    {
+      "nome": "PAULO JOSÉ CARLOS GUEDES",
+      "nomeUrna": "PAULO GUEDES",
+      "partido": "PT",
+      "numero": "1378",
+      "votos": 1189,
+      "percentual": 26.53,
+      "sqcand": "130001607265"
+    },
+    {
+      "nome": "JOSÉ SILVA SOARES",
+      "nomeUrna": "ZÉ SILVA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 194,
+      "percentual": 4.33,
+      "sqcand": "130001612991"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 112,
+      "percentual": 2.5,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "EDMARCIO MOURA LEAL",
+      "nomeUrna": "EDMARCIO LEAL",
+      "partido": "PODE",
+      "numero": "1920",
+      "votos": 108,
+      "percentual": 2.41,
+      "sqcand": "130001634128"
+    },
+    {
+      "nome": "EUCLYDES MARCOS PETTERSEN NETO",
+      "nomeUrna": "EUCLYDES PETTERSEN",
+      "partido": "PSC",
+      "numero": "2015",
+      "votos": 104,
+      "percentual": 2.32,
+      "sqcand": "130001671754"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 98,
+      "percentual": 2.19,
+      "sqcand": "130001608227"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ TADEU MARTINS LEITE",
+      "nomeUrna": "TADEUZINHO",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 2004,
+      "percentual": 47.02,
+      "sqcand": "130001678167"
+    },
+    {
+      "nome": "SILVANEI BATISTA SANTOS",
+      "nomeUrna": "SILVANEI BATISTA",
+      "partido": "PV",
+      "numero": "43789",
+      "votos": 751,
+      "percentual": 17.62,
+      "sqcand": "130001607417"
+    },
+    {
+      "nome": "DERLAN MIRANDA DOS REIS",
+      "nomeUrna": "CABO DERLAN MIRANDA",
+      "partido": "AVANTE",
+      "numero": "70190",
+      "votos": 340,
+      "percentual": 7.98,
+      "sqcand": "130001603678"
+    },
+    {
+      "nome": "ALENCAR MAGALHAES DA SILVEIRA JÚNIOR",
+      "nomeUrna": "ALENCAR DA SILVEIRA JR",
+      "partido": "PDT",
+      "numero": "12212",
+      "votos": 206,
+      "percentual": 4.83,
+      "sqcand": "130001606717"
+    },
+    {
+      "nome": "JOSÉ LAVIOLA NETO DE LIRA",
+      "nomeUrna": "ZÉ LAVIOLA",
+      "partido": "NOVO",
+      "numero": "30011",
+      "votos": 157,
+      "percentual": 3.68,
+      "sqcand": "130001598589"
+    },
+    {
+      "nome": "GUSTAVO DE VASCONCELLOS MOREIRA",
+      "nomeUrna": "GUSTAVO SANTANA",
+      "partido": "PL",
+      "numero": "22800",
+      "votos": 133,
+      "percentual": 3.12,
+      "sqcand": "130001619055"
+    },
+    {
+      "nome": "KLEBER EDUARDO DE SOUSA REZENDE",
+      "nomeUrna": "KLEBINHO REZENDE",
+      "partido": "PROS",
+      "numero": "90123",
+      "votos": 60,
+      "percentual": 1.41,
+      "sqcand": "130001607517"
+    }
+  ]
+}

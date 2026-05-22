@@ -1,0 +1,271 @@
+{
+  "populacao": 9866,
+  "votosValidos": 7689,
+  "abstencao": 18.07,
+  "prefeito": {
+    "nome": "ADRIANE PERIN DE OLIVEIRA",
+    "nomeUrna": "ADRIANE",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 5025,
+    "percentual": 65.35,
+    "situacao": "Eleito",
+    "sqcand": "210002045111",
+    "vice": "DÉCIMO PEDRO VASSOLER DE MELO",
+    "viceNomeUrna": "DECIMO MELO",
+    "partidoVice": "PL",
+    "sqcandVice": "210002045110",
+    "coligacao": "PP / MDB / CIDADANIA / PSDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "LUCIANA ZANOVELLO",
+      "nomeUrna": "LU ZANOVELLO",
+      "partido": "PP",
+      "numero": "11122",
+      "votos": 608,
+      "percentual": 7.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002134752"
+    },
+    {
+      "nome": "PAULO ROBERTO DA ROSA",
+      "nomeUrna": "PAULO PAIAKAN",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 542,
+      "percentual": 6.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002134754"
+    },
+    {
+      "nome": "PAULO RODRIGUES",
+      "nomeUrna": "PAULO RODRIGUES",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 433,
+      "percentual": 5.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002134758"
+    },
+    {
+      "nome": "JILDO NEI DE BORBA",
+      "nomeUrna": "NEI BORBA",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 406,
+      "percentual": 5.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002166629"
+    },
+    {
+      "nome": "JOZOE RIBEIRO DE MELO",
+      "nomeUrna": "DR JOZOE MELO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 365,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002166631"
+    },
+    {
+      "nome": "ANTONIA LINDJÁ PATTE",
+      "nomeUrna": "ANTONIA PATTE",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 355,
+      "percentual": 4.55,
+      "situacao": "Eleito por média",
+      "sqcand": "210002134757"
+    },
+    {
+      "nome": "MARTA REGINA PREDEBON CARESIA",
+      "nomeUrna": "MARTA REGINA",
+      "partido": "PP",
+      "numero": "11600",
+      "votos": 349,
+      "percentual": 4.47,
+      "situacao": "Eleito por média",
+      "sqcand": "210002134753"
+    },
+    {
+      "nome": "CARLOS GOSCH",
+      "nomeUrna": "TILO GOSCH",
+      "partido": "PL",
+      "numero": "22344",
+      "votos": 331,
+      "percentual": 4.24,
+      "situacao": "Eleito por média",
+      "sqcand": "210002166626"
+    },
+    {
+      "nome": "MARCELE CASIA CAZAROTTO",
+      "nomeUrna": "MARCELE DA RADIO SUL",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 232,
+      "percentual": 2.97,
+      "situacao": "Eleito por média",
+      "sqcand": "210002292066"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2763,
+      "percentual": 43.65,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2747,
+      "percentual": 43.4,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 741,
+      "percentual": 11.71,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 951,
+      "percentual": 14.18,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 944,
+      "percentual": 14.07,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 874,
+      "percentual": 13.03,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 778,
+      "percentual": 11.6,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 336,
+      "percentual": 5.01,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 318,
+      "percentual": 4.74,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 304,
+      "percentual": 4.53,
+      "sqcand": "210001646689"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SALMO DIAS DE OLIVEIRA",
+      "nomeUrna": "SALMO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 3928,
+      "percentual": 59.31,
+      "sqcand": "210001647178"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 337,
+      "percentual": 5.09,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "GERRI SAWARIS",
+      "nomeUrna": "GERRI SAWARIS",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 235,
+      "percentual": 3.55,
+      "sqcand": "210001610610"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 204,
+      "percentual": 3.08,
+      "sqcand": "210001621326"
+    },
+    {
+      "nome": "SÉRGIO ANTÔNIO GÖRGEN",
+      "nomeUrna": "FREI SÉRGIO",
+      "partido": "PT",
+      "numero": "13690",
+      "votos": 167,
+      "percentual": 2.52,
+      "sqcand": "210001610588"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 114,
+      "percentual": 1.72,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "MAURO ROBERTO PINHEIRO",
+      "nomeUrna": "MAURO PINHEIRO",
+      "partido": "PL",
+      "numero": "22007",
+      "votos": 104,
+      "percentual": 1.57,
+      "sqcand": "210001648953"
+    }
+  ]
+}

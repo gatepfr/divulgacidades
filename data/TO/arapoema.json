@@ -1,0 +1,271 @@
+{
+  "populacao": 4767,
+  "votosValidos": 3814,
+  "abstencao": 17.35,
+  "prefeito": {
+    "nome": "PAULO ANTÔNIO PEDREIRA",
+    "nomeUrna": "PAULO DA BARRA BONITA",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 2476,
+    "percentual": 64.92,
+    "situacao": "Eleito",
+    "sqcand": "270002235772",
+    "vice": "JESUS DOS SANTOS GONÇALVES",
+    "viceNomeUrna": "IRMAO DO HOTEL",
+    "partidoVice": "MDB",
+    "sqcandVice": "270002235773",
+    "coligacao": "REPUBLICANOS / MDB / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSIMAR PEREIRA DA SILVA",
+      "nomeUrna": "JOSIMAR DO HOSPITAL",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 294,
+      "percentual": 7.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002235930"
+    },
+    {
+      "nome": "CELIA CRISTINA DUVIRGEM CASTRO FRAGOSO",
+      "nomeUrna": "CÉLIA",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 244,
+      "percentual": 6.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002322195"
+    },
+    {
+      "nome": "ALDO ARAÚJO",
+      "nomeUrna": "ALDIM",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 242,
+      "percentual": 6.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002233193"
+    },
+    {
+      "nome": "RICARDO CARLOS DA SILVA",
+      "nomeUrna": "RICARDO DA LOJA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 217,
+      "percentual": 5.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002235924"
+    },
+    {
+      "nome": "GENIVALDO RODRIGUES DA SILVA",
+      "nomeUrna": "GENI DO GÁS",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 212,
+      "percentual": 5.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002322198"
+    },
+    {
+      "nome": "REINALDO FERNANDES DA SILVA",
+      "nomeUrna": "GORDINHO DO AÇOUGUE",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 200,
+      "percentual": 5.26,
+      "situacao": "Eleito por média",
+      "sqcand": "270002322193"
+    },
+    {
+      "nome": "WALLOKS RODRIGUES AZEVEDO",
+      "nomeUrna": "WALLOKS AZEVEDO",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 185,
+      "percentual": 4.87,
+      "situacao": "Eleito por média",
+      "sqcand": "270002263388"
+    },
+    {
+      "nome": "ALTAIR ROSA DA SILVA",
+      "nomeUrna": "TRAÍRA",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 177,
+      "percentual": 4.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002235933"
+    },
+    {
+      "nome": "JOSÉ CARLOS MENDES DA SILVA",
+      "nomeUrna": "JUNIN MENDES",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 117,
+      "percentual": 3.08,
+      "situacao": "Eleito por média",
+      "sqcand": "270002233190"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA AUXILIADORA SEABRA REZENDE",
+      "nomeUrna": "PROFESSORA DORINHA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1422,
+      "percentual": 42.35,
+      "sqcand": "270001649254"
+    },
+    {
+      "nome": "KATIA REGINA DE ABREU GOMES",
+      "nomeUrna": "KATIA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1340,
+      "percentual": 39.9,
+      "sqcand": "270001713170"
+    },
+    {
+      "nome": "CARLOS ENRIQUE FRANCO AMASTHA",
+      "nomeUrna": "CARLOS AMASTHA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 217,
+      "percentual": 6.46,
+      "sqcand": "270001644061"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DULCE FERREIRA PAGANI MIRANDA",
+      "nomeUrna": "DULCE MIRANDA",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 915,
+      "percentual": 27.08,
+      "sqcand": "270001700074"
+    },
+    {
+      "nome": "LAZARO BOTELHO MARTINS",
+      "nomeUrna": "LAZARO BOTELHO",
+      "partido": "PP",
+      "numero": "1145",
+      "votos": 429,
+      "percentual": 12.7,
+      "sqcand": "270001643406"
+    },
+    {
+      "nome": "RICARDO AYRES DE CARVALHO",
+      "nomeUrna": "RICARDO AYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 251,
+      "percentual": 7.43,
+      "sqcand": "270001654164"
+    },
+    {
+      "nome": "TIAGO DIMAS BRAGA PEREIRA",
+      "nomeUrna": "TIAGO DIMAS",
+      "partido": "PODE",
+      "numero": "1988",
+      "votos": 229,
+      "percentual": 6.78,
+      "sqcand": "270001642303"
+    },
+    {
+      "nome": "CARLOS HENRIQUE AMORIM",
+      "nomeUrna": "CARLOS GAGUIM",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 211,
+      "percentual": 6.24,
+      "sqcand": "270001643519"
+    },
+    {
+      "nome": "JOSÉ ALEXANDRE DOMINGUES GUIMARÃES",
+      "nomeUrna": "ALEXANDRE GUIMARÃES",
+      "partido": "REPUBLICANOS",
+      "numero": "1088",
+      "votos": 200,
+      "percentual": 5.92,
+      "sqcand": "270001654160"
+    },
+    {
+      "nome": "FILIPE MARTINS DOS SANTOS",
+      "nomeUrna": "FILIPE MARTINS",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 154,
+      "percentual": 4.56,
+      "sqcand": "270001643553"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ISSAM SAADO",
+      "nomeUrna": "ISSAM SAADO",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 822,
+      "percentual": 24.8,
+      "sqcand": "270001654150"
+    },
+    {
+      "nome": "EDUARDO BONAGURA",
+      "nomeUrna": "EDUARDO DO DERTINS",
+      "partido": "CIDADANIA",
+      "numero": "23222",
+      "votos": 550,
+      "percentual": 16.59,
+      "sqcand": "270001643143"
+    },
+    {
+      "nome": "MAURO ANTONIO ALVARA LACERDA",
+      "nomeUrna": "MAURO LACERDA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 346,
+      "percentual": 10.44,
+      "sqcand": "270001676105"
+    },
+    {
+      "nome": "VALDEREZ CASTELO BRANCO MARTINS",
+      "nomeUrna": "VALDEREZ CASTELO BRANCO",
+      "partido": "REPUBLICANOS",
+      "numero": "10145",
+      "votos": 314,
+      "percentual": 9.47,
+      "sqcand": "270001654145"
+    },
+    {
+      "nome": "WANDERLEY CLAUDINO MILHOMENS",
+      "nomeUrna": "WANDERLEY MILHOMEM",
+      "partido": "PSD",
+      "numero": "55010",
+      "votos": 171,
+      "percentual": 5.16,
+      "sqcand": "270001697339"
+    },
+    {
+      "nome": "EDUARDO MANTOAN",
+      "nomeUrna": "EDUARDO MANTOAN",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 169,
+      "percentual": 5.1,
+      "sqcand": "270001643135"
+    },
+    {
+      "nome": "MARCUS MARCELO DE BARROS ARAUJO",
+      "nomeUrna": "MARCUS MARCELO",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 166,
+      "percentual": 5.01,
+      "sqcand": "270001643572"
+    }
+  ]
+}

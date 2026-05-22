@@ -1,0 +1,271 @@
+{
+  "populacao": 10878,
+  "votosValidos": 8346,
+  "abstencao": 19.81,
+  "prefeito": {
+    "nome": "JULIANO VIGILATO GUIRO",
+    "nomeUrna": "JULIANO GUIRO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 3472,
+    "percentual": 41.6,
+    "situacao": "Eleito",
+    "sqcand": "250002300365",
+    "vice": "FREDERICO MARQUEZIM GONÇALVES",
+    "viceNomeUrna": "FREDERICO MARQUEZIM",
+    "partidoVice": "PSD",
+    "sqcandVice": "250002300364",
+    "coligacao": "PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "GISELI MORAES",
+      "nomeUrna": "GISELI MORAES",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 489,
+      "percentual": 5.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002355180"
+    },
+    {
+      "nome": "LAERCIO LEANDRO DA SILVA",
+      "nomeUrna": "DR LAÉRCIO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 400,
+      "percentual": 4.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002355371"
+    },
+    {
+      "nome": "JOSE SILVEIRA",
+      "nomeUrna": "ZEZINHO DO OASIS",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 399,
+      "percentual": 4.79,
+      "situacao": "Eleito por média",
+      "sqcand": "250002355185"
+    },
+    {
+      "nome": "PAULO EDSON BOMPADRE",
+      "nomeUrna": "PADRECO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 363,
+      "percentual": 4.36,
+      "situacao": "Eleito por média",
+      "sqcand": "250002301283"
+    },
+    {
+      "nome": "ROSIMEIRE BENITES MORGADO",
+      "nomeUrna": "MEIRE BENITES",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 324,
+      "percentual": 3.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002302541"
+    },
+    {
+      "nome": "MOISES CORREIA",
+      "nomeUrna": "MOISES BORRACHA",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 268,
+      "percentual": 3.22,
+      "situacao": "Eleito por média",
+      "sqcand": "250002302548"
+    },
+    {
+      "nome": "JOSE MARIA BOMPADRE",
+      "nomeUrna": "FOFÃO",
+      "partido": "PSD",
+      "numero": "55171",
+      "votos": 219,
+      "percentual": 2.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002300417"
+    },
+    {
+      "nome": "LUIS CARLOS DE OLIVEIRA",
+      "nomeUrna": "DIRETOR LUIS CARLOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 200,
+      "percentual": 2.4,
+      "situacao": "Eleito por média",
+      "sqcand": "250002355367"
+    },
+    {
+      "nome": "GILMAR FERRO DE ALMEIDA",
+      "nomeUrna": "GILMAR FERRO",
+      "partido": "PSD",
+      "numero": "55007",
+      "votos": 192,
+      "percentual": 2.31,
+      "situacao": "Eleito por média",
+      "sqcand": "250002300410"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4089,
+      "percentual": 54.56,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1835,
+      "percentual": 24.48,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1414,
+      "percentual": 18.87,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 1007,
+      "percentual": 13.07,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "REINALDO DE SOUZA ALGUZ",
+      "nomeUrna": "REINALDO ALGUZ",
+      "partido": "UNIÃO",
+      "numero": "4436",
+      "votos": 768,
+      "percentual": 9.96,
+      "sqcand": "250001602077"
+    },
+    {
+      "nome": "FERNANDO JOSE DE SOUZA MARANGONI",
+      "nomeUrna": "MARANGONI",
+      "partido": "UNIÃO",
+      "numero": "4440",
+      "votos": 545,
+      "percentual": 7.07,
+      "sqcand": "250001602079"
+    },
+    {
+      "nome": "ARLINDO CHIGNALIA JUNIOR",
+      "nomeUrna": "ARLINDO CHINAGLIA",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 481,
+      "percentual": 6.24,
+      "sqcand": "250001610712"
+    },
+    {
+      "nome": "GUILHERME PIAI SILVA FILIZZOLA",
+      "nomeUrna": "GUILHERME PIAI",
+      "partido": "REPUBLICANOS",
+      "numero": "1018",
+      "votos": 479,
+      "percentual": 6.22,
+      "sqcand": "250001611903"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 430,
+      "percentual": 5.58,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 270,
+      "percentual": 3.5,
+      "sqcand": "250001611315"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JORGE LUIS CARUSO",
+      "nomeUrna": "CARUSO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 969,
+      "percentual": 13.16,
+      "sqcand": "250001609973"
+    },
+    {
+      "nome": "JORGE TADEU MUDALEN",
+      "nomeUrna": "JORGE TADEU",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 804,
+      "percentual": 10.92,
+      "sqcand": "250001602084"
+    },
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 317,
+      "percentual": 4.3,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "ATAIDE TERUEL PEREZ",
+      "nomeUrna": "ATAIDE TERUEL",
+      "partido": "PODE",
+      "numero": "19001",
+      "votos": 310,
+      "percentual": 4.21,
+      "sqcand": "250001610453"
+    },
+    {
+      "nome": "TANIA CRISTINA FRUCHI",
+      "nomeUrna": "TÂNIA FRUCHI",
+      "partido": "UNIÃO",
+      "numero": "44363",
+      "votos": 294,
+      "percentual": 3.99,
+      "sqcand": "250001602159"
+    },
+    {
+      "nome": "TEONÍLIO MONTEIRO DA COSTA",
+      "nomeUrna": "BARBA",
+      "partido": "PT",
+      "numero": "13110",
+      "votos": 269,
+      "percentual": 3.65,
+      "sqcand": "250001611768"
+    },
+    {
+      "nome": "RAFAEL ELIAS MACHADO PEREIRA ANTUNES",
+      "nomeUrna": "RAFAEL CHUBÃO",
+      "partido": "UNIÃO",
+      "numero": "44400",
+      "votos": 207,
+      "percentual": 2.81,
+      "sqcand": "250001602093"
+    }
+  ]
+}

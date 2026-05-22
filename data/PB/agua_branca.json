@@ -1,0 +1,271 @@
+{
+  "populacao": 8450,
+  "votosValidos": 6930,
+  "abstencao": 15.47,
+  "prefeito": {
+    "nome": "MARLUCE PEREIRA VERAS DE BRITO",
+    "nomeUrna": "MARLUCE VERAS",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 3476,
+    "percentual": 50.16,
+    "situacao": "Eleito",
+    "sqcand": "150001899276",
+    "vice": "JOSE NICOLAU PEREIRA",
+    "viceNomeUrna": "DR. ZEZINHO",
+    "partidoVice": "MDB",
+    "sqcandVice": "150001899277",
+    "coligacao": "REPUBLICANOS / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LUCIANO GONÇALVES DA SILVA",
+      "nomeUrna": "LUCIANO DE NIVA DA LAGOINHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 650,
+      "percentual": 9.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001899340"
+    },
+    {
+      "nome": "JOSE ALEX QUIRINO DOS SANTOS",
+      "nomeUrna": "PORQUIM",
+      "partido": "UNIÃO",
+      "numero": "44666",
+      "votos": 553,
+      "percentual": 8.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002309548"
+    },
+    {
+      "nome": "PEDRO JORGE OLIVEIRA GAMA",
+      "nomeUrna": "PEDRO JORGE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 531,
+      "percentual": 7.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002309551"
+    },
+    {
+      "nome": "ANTÔNIO CALDEIRA DO SANTO",
+      "nomeUrna": "ANTONIO CALDEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10610",
+      "votos": 484,
+      "percentual": 7.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001899342"
+    },
+    {
+      "nome": "SUELI CORREIA CHAVES",
+      "nomeUrna": "SUELI DO HOSPITAL",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 447,
+      "percentual": 6.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001899349"
+    },
+    {
+      "nome": "IOLANDA FREITAS DA SILVA",
+      "nomeUrna": "IOLANDA DE JOANITA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 436,
+      "percentual": 6.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001899344"
+    },
+    {
+      "nome": "MARIA DO DESTERRO SOUZA OLIVEIRA DE ALMEIDA",
+      "nomeUrna": "MARIA DE DAMIÃO",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 406,
+      "percentual": 5.89,
+      "situacao": "Eleito por média",
+      "sqcand": "150002309544"
+    },
+    {
+      "nome": "GUSTAVO GOUVEIA DE ALMEIDA",
+      "nomeUrna": "GUSTAVO GOUVEIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 404,
+      "percentual": 5.86,
+      "situacao": "Eleito por média",
+      "sqcand": "150001899345"
+    },
+    {
+      "nome": "MIRACI DE SOUSA MARTINS",
+      "nomeUrna": "MIRA DE PEBA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 380,
+      "percentual": 5.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002039753"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 3931,
+      "percentual": 78.12,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 758,
+      "percentual": 15.06,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 148,
+      "percentual": 2.94,
+      "sqcand": "150001718470"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HUGO MOTTA WANDERLEY DA NOBREGA",
+      "nomeUrna": "HUGO MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 3204,
+      "percentual": 60.09,
+      "sqcand": "150001619545"
+    },
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 1043,
+      "percentual": 19.56,
+      "sqcand": "150001619544"
+    },
+    {
+      "nome": "LEONARDO DE MELO GADELHA",
+      "nomeUrna": "LÉO GADELHA",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 216,
+      "percentual": 4.05,
+      "sqcand": "150001612080"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 197,
+      "percentual": 3.69,
+      "sqcand": "150001619538"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 64,
+      "percentual": 1.2,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "CAIO MARCIO ANGELO DE SOUSA",
+      "nomeUrna": "POLICIAL CAIO",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 50,
+      "percentual": 0.94,
+      "sqcand": "150001718235"
+    },
+    {
+      "nome": "ANTONIO RIBEIRO",
+      "nomeUrna": "FREI ANASTÁCIO",
+      "partido": "PT",
+      "numero": "1345",
+      "votos": 46,
+      "percentual": 0.86,
+      "sqcand": "150001619539"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FRANCISCA GOMES ARAÚJO MOTA",
+      "nomeUrna": "FRANCISCA MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 2410,
+      "percentual": 47.37,
+      "sqcand": "150001619570"
+    },
+    {
+      "nome": "GILBERTO TOLENTINO LEITE JUNIOR",
+      "nomeUrna": "GILBERTINHO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 916,
+      "percentual": 18.0,
+      "sqcand": "150001603138"
+    },
+    {
+      "nome": "JOSÉ ALEDSON DE SOUSA MOURA",
+      "nomeUrna": "DR. ALEDSON MOURA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 603,
+      "percentual": 11.85,
+      "sqcand": "150001603136"
+    },
+    {
+      "nome": "TACIANO LUIS BARBOSA DINIZ",
+      "nomeUrna": "TACIANO DINIZ",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 549,
+      "percentual": 10.79,
+      "sqcand": "150001603129"
+    },
+    {
+      "nome": "EDJANE SILVA ALVINO PANTA",
+      "nomeUrna": "DR. JANE PANTA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 66,
+      "percentual": 1.3,
+      "sqcand": "150001612058"
+    },
+    {
+      "nome": "ROMUALDO ANTONIO QUIRINO DE SOUSA",
+      "nomeUrna": "DR ROMUALDO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 40,
+      "percentual": 0.79,
+      "sqcand": "150001718095"
+    },
+    {
+      "nome": "WALLBER VIRGOLINO DA SILVA FERREIRA",
+      "nomeUrna": "WALLBER VIRGOLINO",
+      "partido": "PL",
+      "numero": "22190",
+      "votos": 38,
+      "percentual": 0.75,
+      "sqcand": "150001718216"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 46521,
+  "votosValidos": 34990,
+  "abstencao": 18.99,
+  "prefeito": {
+    "nome": "CLÁUDIO JOSÉ SCHOODER",
+    "nomeUrna": "LEITINHO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 21565,
+    "percentual": 61.63,
+    "situacao": "Eleito",
+    "sqcand": "250002061454",
+    "vice": "ALESSANDRO MIRANDA DA SILVA",
+    "viceNomeUrna": "MINEIRINHO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "250002061455",
+    "coligacao": "PSD / PSB / UNIÃO / PP / PDT / AVANTE / AGIR / PRD / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "OSEIAS DOMINGOS JORGE",
+      "nomeUrna": "OSEIAS JORGE",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 1272,
+      "percentual": 3.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002135984"
+    },
+    {
+      "nome": "PAULO HENRIQUE MIRANDA PORTO DO NASCIMENTO",
+      "nomeUrna": "PAULO PORTO",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 1162,
+      "percentual": 3.37,
+      "situacao": "Eleito por média",
+      "sqcand": "250002135987"
+    },
+    {
+      "nome": "RODINEI APARECIDO RODRIGUES",
+      "nomeUrna": "LICO RODRIGUES",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1147,
+      "percentual": 3.33,
+      "situacao": "Eleito por média",
+      "sqcand": "250002135990"
+    },
+    {
+      "nome": "ELVIS RICARDO MAURÍCIO GARCIA",
+      "nomeUrna": "PELÉ",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 882,
+      "percentual": 2.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002210710"
+    },
+    {
+      "nome": "ANDRÉ FERNANDO FAGANELLO",
+      "nomeUrna": "ANDRÉ FAGANELLO OREIA",
+      "partido": "PODE",
+      "numero": "20888",
+      "votos": 874,
+      "percentual": 2.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001949557"
+    },
+    {
+      "nome": "MARCIA REBESCHINI PATELLA DA SILVA",
+      "nomeUrna": "MÁRCIA REBESCHINI",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 849,
+      "percentual": 2.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002157785"
+    },
+    {
+      "nome": "MARCELO DOS SANTOS MELLO",
+      "nomeUrna": "MARCELO MAITO",
+      "partido": "UNIÃO",
+      "numero": "44321",
+      "votos": 848,
+      "percentual": 2.46,
+      "situacao": "Eleito por média",
+      "sqcand": "250002157779"
+    },
+    {
+      "nome": "PRISCILA MARESTONI PETERLEVITZ LEAL",
+      "nomeUrna": "PRISCILA PETERLEVITZ",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 839,
+      "percentual": 2.43,
+      "situacao": "Eleito por média",
+      "sqcand": "250002157782"
+    },
+    {
+      "nome": "PAULO HENRIQUE BICHOF",
+      "nomeUrna": "PAULO BICHOF",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 772,
+      "percentual": 2.24,
+      "situacao": "Eleito por média",
+      "sqcand": "250001949554"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 17933,
+      "percentual": 57.61,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 8762,
+      "percentual": 28.15,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 2648,
+      "percentual": 8.51,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VANDERLEI MACRIS",
+      "nomeUrna": "VANDERLEI MACRIS",
+      "partido": "PSDB",
+      "numero": "4551",
+      "votos": 4473,
+      "percentual": 13.67,
+      "sqcand": "250001612091"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 1854,
+      "percentual": 5.66,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "HENRIQUE STEIN SCIASCIO",
+      "nomeUrna": "HENRIQUE DO PARAISO",
+      "partido": "REPUBLICANOS",
+      "numero": "1023",
+      "votos": 1810,
+      "percentual": 5.53,
+      "sqcand": "250001611856"
+    },
+    {
+      "nome": "MÁRCIA REBESCHINI PATELLA DA SILVA",
+      "nomeUrna": "MÁRCIA REBESCHINI",
+      "partido": "PV",
+      "numero": "4377",
+      "votos": 1756,
+      "percentual": 5.37,
+      "sqcand": "250001610659"
+    },
+    {
+      "nome": "DENIS EDUARDO ANDIA",
+      "nomeUrna": "DENIS ANDIA",
+      "partido": "MDB",
+      "numero": "1540",
+      "votos": 1745,
+      "percentual": 5.33,
+      "sqcand": "250001611274"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1217,
+      "percentual": 3.72,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "MARIA GIOVANA LUCHIARI PISONI DUARTE FORTUNATO",
+      "nomeUrna": "MARIA GIOVANA",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 1031,
+      "percentual": 3.15,
+      "sqcand": "250001643751"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RICARDO MOLINA DIAS",
+      "nomeUrna": "RICARDO MOLINA",
+      "partido": "REPUBLICANOS",
+      "numero": "10999",
+      "votos": 5133,
+      "percentual": 16.85,
+      "sqcand": "250001639548"
+    },
+    {
+      "nome": "JOSE ANTONIO BARROS MUNHOZ",
+      "nomeUrna": "BARROS MUNHOZ",
+      "partido": "PSDB",
+      "numero": "45545",
+      "votos": 2291,
+      "percentual": 7.52,
+      "sqcand": "250001611434"
+    },
+    {
+      "nome": "ANTONIO DIRCEU DALBEN",
+      "nomeUrna": "DALBEN",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 2257,
+      "percentual": 7.41,
+      "sqcand": "250001611436"
+    },
+    {
+      "nome": "MARIA IZABEL AZEVEDO NORONHA",
+      "nomeUrna": "PROFESSORA BEBEL",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1361,
+      "percentual": 4.47,
+      "sqcand": "250001611800"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 1156,
+      "percentual": 3.79,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "ISRAEL ALEXANDRE DE SOUZA",
+      "nomeUrna": "ISRAEL ALEXANDRE",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 814,
+      "percentual": 2.67,
+      "sqcand": "250001611454"
+    },
+    {
+      "nome": "MARTA MARIA FREIRE DA COSTA",
+      "nomeUrna": "MARTA COSTA",
+      "partido": "PSD",
+      "numero": "55400",
+      "votos": 673,
+      "percentual": 2.21,
+      "sqcand": "250001605001"
+    }
+  ]
+}

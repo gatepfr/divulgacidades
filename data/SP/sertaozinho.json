@@ -1,0 +1,371 @@
+{
+  "populacao": 92910,
+  "votosValidos": 66925,
+  "abstencao": 22.42,
+  "prefeito": {
+    "nome": "JOSÉ ALBERTO GIMENEZ",
+    "nomeUrna": "ZEZINHO GIMENEZ",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 57354,
+    "percentual": 85.7,
+    "situacao": "Eleito",
+    "sqcand": "250002316021",
+    "vice": "CÁSSIA GUARNEIRE SOARES DANEZE",
+    "viceNomeUrna": "CÁSSIA SOARES",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002316020",
+    "coligacao": "MDB / REPUBLICANOS / PP / PODE / PRTB / PSB / AVANTE / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "ROGERIO MAGRINI DOS SANTOS",
+      "nomeUrna": "ZEZINHO ATRAPALHADO",
+      "partido": "REPUBLICANOS",
+      "numero": "10661",
+      "votos": 3164,
+      "percentual": 4.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002293546"
+    },
+    {
+      "nome": "ACACIO AUGUSTO TOBIAS VIEIRA",
+      "nomeUrna": "DR. ACÁCIO TOBIAS",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 1942,
+      "percentual": 2.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002297183"
+    },
+    {
+      "nome": "FERNANDO FRANCISCO DA SILVA",
+      "nomeUrna": "BABÁ DA FARMÁCIA DE MADUREIRA",
+      "partido": "PODE",
+      "numero": "20023",
+      "votos": 1825,
+      "percentual": 2.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002293038"
+    },
+    {
+      "nome": "MARCELO ORLANDO DOMENICI",
+      "nomeUrna": "MARCELO DOMENICI BORRACHEIRO",
+      "partido": "PODE",
+      "numero": "20456",
+      "votos": 1673,
+      "percentual": 2.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002293056"
+    },
+    {
+      "nome": "ANTÔNIO CÉSAR PEGHINI",
+      "nomeUrna": "CESINHA",
+      "partido": "PL",
+      "numero": "22120",
+      "votos": 1593,
+      "percentual": 2.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002133199"
+    },
+    {
+      "nome": "RENATO APARECIDO SCHIAVINATO",
+      "nomeUrna": "RENATINHO SCHIAVINATO",
+      "partido": "PRTB",
+      "numero": "28000",
+      "votos": 1346,
+      "percentual": 2.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002299239"
+    },
+    {
+      "nome": "WILLIAM DA SILVA DOMINGOS",
+      "nomeUrna": "WILLIAM DOMINGOS",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1342,
+      "percentual": 2.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002291380"
+    },
+    {
+      "nome": "NILTON CESAR TEIXEIRA",
+      "nomeUrna": "NILTINHO",
+      "partido": "PP",
+      "numero": "11023",
+      "votos": 1258,
+      "percentual": 1.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002298877"
+    },
+    {
+      "nome": "ROGÉRIO SILVA DOS SANTOS",
+      "nomeUrna": "MORTADELA GÁS",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1168,
+      "percentual": 1.79,
+      "situacao": "Eleito por média",
+      "sqcand": "250002298889"
+    },
+    {
+      "nome": "INACIO DE ALMEIDA LUZ",
+      "nomeUrna": "INACIO",
+      "partido": "AVANTE",
+      "numero": "70456",
+      "votos": 1093,
+      "percentual": 1.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002317569"
+    },
+    {
+      "nome": "FIRMO LEÃO ULIAN",
+      "nomeUrna": "FIRMO LEÃO ULIAN",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 1072,
+      "percentual": 1.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002318789"
+    },
+    {
+      "nome": "DUILIO SOARES MACHADO",
+      "nomeUrna": "DUILIO MACHADO",
+      "partido": "UNIÃO",
+      "numero": "44633",
+      "votos": 1064,
+      "percentual": 1.63,
+      "situacao": "Eleito por média",
+      "sqcand": "250002318785"
+    },
+    {
+      "nome": "MARÍLIA GABRIELA FERNANDES DA SILVA",
+      "nomeUrna": "MARÍLIA PROTETORA",
+      "partido": "PODE",
+      "numero": "20190",
+      "votos": 1037,
+      "percentual": 1.59,
+      "situacao": "Eleito por média",
+      "sqcand": "250002293053"
+    },
+    {
+      "nome": "JUAN LUIS FLORES BERTUSO",
+      "nomeUrna": "JUAN BERTUSO",
+      "partido": "MDB",
+      "numero": "15318",
+      "votos": 1025,
+      "percentual": 1.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002291377"
+    },
+    {
+      "nome": "EDUARDO SILVA DUTRA",
+      "nomeUrna": "EDUARDO DA SEGURANÇA",
+      "partido": "PRTB",
+      "numero": "28250",
+      "votos": 916,
+      "percentual": 1.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002299223"
+    },
+    {
+      "nome": "ANTONIO CARLOS MARCOLINO",
+      "nomeUrna": "ANTONIO MARCOLINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 887,
+      "percentual": 1.36,
+      "situacao": "Eleito por média",
+      "sqcand": "250002293556"
+    },
+    {
+      "nome": "LEONARDO LIMA DIAS MEIRA",
+      "nomeUrna": "DR. LÉO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 864,
+      "percentual": 1.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002291378"
+    },
+    {
+      "nome": "JOSÉ ANDRÉ ROBERTO MAZER",
+      "nomeUrna": "NANICO MAZER",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 843,
+      "percentual": 1.29,
+      "situacao": "Eleito por média",
+      "sqcand": "250002291376"
+    },
+    {
+      "nome": "VILMAR DONIZETTI RODRIGUES DA SILVA",
+      "nomeUrna": "VILMAR",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 842,
+      "percentual": 1.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002372868"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 31414,
+      "percentual": 54.34,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 19087,
+      "percentual": 33.01,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 4254,
+      "percentual": 7.36,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+      "nomeUrna": "BALEIA ROSSI",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 15256,
+      "percentual": 24.73,
+      "sqcand": "250001611251"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 2500,
+      "percentual": 4.05,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1820,
+      "percentual": 2.95,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "GUILHERME CASTRO BOULOS",
+      "nomeUrna": "GUILHERME BOULOS",
+      "partido": "PSOL",
+      "numero": "5010",
+      "votos": 1648,
+      "percentual": 2.67,
+      "sqcand": "250001613761"
+    },
+    {
+      "nome": "RICARDO DE AQUINO SALLES",
+      "nomeUrna": "RICARDO SALLES",
+      "partido": "PL",
+      "numero": "2250",
+      "votos": 1489,
+      "percentual": 2.41,
+      "sqcand": "250001611315"
+    },
+    {
+      "nome": "GUILHERME MURARO DERRITE",
+      "nomeUrna": "CAPITÃO DERRITE",
+      "partido": "PL",
+      "numero": "2290",
+      "votos": 1430,
+      "percentual": 2.32,
+      "sqcand": "250001611359"
+    },
+    {
+      "nome": "VINICIUS RAPOZO DE CARVALHO",
+      "nomeUrna": "VINICIUS CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1085",
+      "votos": 1410,
+      "percentual": 2.29,
+      "sqcand": "250001611851"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "OCIMAR DONIZETI LEO OLIVEIRA",
+      "nomeUrna": "LEO OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 17062,
+      "percentual": 29.45,
+      "sqcand": "250001610005"
+    },
+    {
+      "nome": "CLAUDINEI LUIS DA SILVA",
+      "nomeUrna": "DR. CLAUDINEI SILVA ADVOGADO",
+      "partido": "UNIÃO",
+      "numero": "44016",
+      "votos": 4497,
+      "percentual": 7.76,
+      "sqcand": "250001602116"
+    },
+    {
+      "nome": "VIVIANE ROBERTA MATIOLI",
+      "nomeUrna": "VIVIANE MATIOLI",
+      "partido": "PL",
+      "numero": "22045",
+      "votos": 1721,
+      "percentual": 2.97,
+      "sqcand": "250001610195"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 1573,
+      "percentual": 2.72,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "SEBASTIÃO DOS SANTOS FILHO",
+      "nomeUrna": "SEBASTIÃO SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10321",
+      "votos": 1463,
+      "percentual": 2.53,
+      "sqcand": "250001639573"
+    },
+    {
+      "nome": "FABIANA DE LIMA BARROSO",
+      "nomeUrna": "FABIANA B.",
+      "partido": "PL",
+      "numero": "22051",
+      "votos": 1225,
+      "percentual": 2.11,
+      "sqcand": "250001610130"
+    },
+    {
+      "nome": "THAINARA KAROLINE FARIA",
+      "nomeUrna": "THAINARA FARIA",
+      "partido": "PT",
+      "numero": "13016",
+      "votos": 1222,
+      "percentual": 2.11,
+      "sqcand": "250001611769"
+    }
+  ]
+}

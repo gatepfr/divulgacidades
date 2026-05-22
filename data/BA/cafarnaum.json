@@ -1,0 +1,291 @@
+{
+  "populacao": 14302,
+  "votosValidos": 11875,
+  "abstencao": 12.13,
+  "prefeito": {
+    "nome": "CARLAN NOVAIS SENA XAVIER",
+    "nomeUrna": "CARLAN NOVAIS",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 7475,
+    "percentual": 62.95,
+    "situacao": "Eleito",
+    "sqcand": "50001998667",
+    "vice": "ODILEZIO DIAS DE SOUZA",
+    "viceNomeUrna": "LÉO CANAL",
+    "partidoVice": "PT",
+    "sqcandVice": "50001998666",
+    "coligacao": "PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ACACIO ANDRADE DE SOUZA",
+      "nomeUrna": "ACÁCIO ANDRADE",
+      "partido": "PSD",
+      "numero": "55124",
+      "votos": 764,
+      "percentual": 6.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002087645"
+    },
+    {
+      "nome": "CHARLES PEREIRA DE SOUZA",
+      "nomeUrna": "CHARLES DA QUEIMADA",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 730,
+      "percentual": 6.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002087663"
+    },
+    {
+      "nome": "RUMÃO GALDINO SOBRINHO",
+      "nomeUrna": "RUMÃO",
+      "partido": "PSB",
+      "numero": "40028",
+      "votos": 717,
+      "percentual": 5.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002015413"
+    },
+    {
+      "nome": "ANDERSON GOMES NOVAIS",
+      "nomeUrna": "SON NOVAIS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 627,
+      "percentual": 5.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002087666"
+    },
+    {
+      "nome": "MOACY SOUZA SILVA",
+      "nomeUrna": "GALEGO DO GÁS",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 625,
+      "percentual": 5.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002015416"
+    },
+    {
+      "nome": "WILSON PEREIRA DOS SANTOS",
+      "nomeUrna": "WILSON COISA FÁCIL",
+      "partido": "PV",
+      "numero": "43456",
+      "votos": 543,
+      "percentual": 4.5,
+      "situacao": "Eleito por média",
+      "sqcand": "50002087660"
+    },
+    {
+      "nome": "SIMEIA RODRIGUES SOUZA BASTOS",
+      "nomeUrna": "PROFESSORA SIMÉIA",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 467,
+      "percentual": 3.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002087641"
+    },
+    {
+      "nome": "ROSENILTON ALVES DOS SANTOS",
+      "nomeUrna": "NEGÃO FOKA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 456,
+      "percentual": 3.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002087629"
+    },
+    {
+      "nome": "MARIANIZIA PEREIRA DOS ANJOS",
+      "nomeUrna": "BILINHA DE BILAU",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 455,
+      "percentual": 3.77,
+      "situacao": "Eleito por média",
+      "sqcand": "50002087640"
+    },
+    {
+      "nome": "ANA BEATRIZ PEREIRA DO NASCIMENTO",
+      "nomeUrna": "BIA DE JUNHÃO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 408,
+      "percentual": 3.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002087634"
+    },
+    {
+      "nome": "CHARLES PEREIRA DE NOVAIS",
+      "nomeUrna": "CHARLES GUERREIRO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77222",
+      "votos": 397,
+      "percentual": 3.29,
+      "situacao": "Eleito por média",
+      "sqcand": "50002087631"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 5718,
+      "percentual": 63.45,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2217,
+      "percentual": 24.6,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1040,
+      "percentual": 11.54,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CLAUDIO CAJADO SAMPAIO",
+      "nomeUrna": "CLAUDIO CAJADO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 1798,
+      "percentual": 18.55,
+      "sqcand": "50001621019"
+    },
+    {
+      "nome": "AFONSO BANDEIRA FLORENCE",
+      "nomeUrna": "AFONSO FLORENCE",
+      "partido": "PT",
+      "numero": "1301",
+      "votos": 1356,
+      "percentual": 13.99,
+      "sqcand": "50001605378"
+    },
+    {
+      "nome": "LUIZ PIMENTEL SOBRAL",
+      "nomeUrna": "LUIZINHO SOBRAL",
+      "partido": "PSC",
+      "numero": "2044",
+      "votos": 1089,
+      "percentual": 11.23,
+      "sqcand": "50001600782"
+    },
+    {
+      "nome": "ALEX MARCO SANTANA SOUSA",
+      "nomeUrna": "ALEX SANTANA",
+      "partido": "REPUBLICANOS",
+      "numero": "1023",
+      "votos": 875,
+      "percentual": 9.03,
+      "sqcand": "50001619864"
+    },
+    {
+      "nome": "JOSE MARCELO DO NASCIMENTO NILO",
+      "nomeUrna": "MARCELO NILO",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 837,
+      "percentual": 8.63,
+      "sqcand": "50001619849"
+    },
+    {
+      "nome": "ALICE MAZZUCO PORTUGAL",
+      "nomeUrna": "ALICE PORTUGAL",
+      "partido": "PC do B",
+      "numero": "6522",
+      "votos": 823,
+      "percentual": 8.49,
+      "sqcand": "50001605368"
+    },
+    {
+      "nome": "DIEGO HENRIQUE SILVA CERQUEIRA MARTINS",
+      "nomeUrna": "DIEGO CORONEL",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 369,
+      "percentual": 3.81,
+      "sqcand": "50001607221"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANGELO MARIO CORONEL DE AZEVEDO MARTINS II",
+      "nomeUrna": "ANGELO CORONEL FILHO",
+      "partido": "PSD",
+      "numero": "55255",
+      "votos": 1489,
+      "percentual": 16.56,
+      "sqcand": "50001607294"
+    },
+    {
+      "nome": "ROBINSON SANTOS ALMEIDA",
+      "nomeUrna": "ROBINSON",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 1182,
+      "percentual": 13.14,
+      "sqcand": "50001606417"
+    },
+    {
+      "nome": "JOSE CARLOS GOMES FERREIRA",
+      "nomeUrna": "ZE CARLOS DA CEBOLA",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 1125,
+      "percentual": 12.51,
+      "sqcand": "50001613909"
+    },
+    {
+      "nome": "EDICLEY SOUZA BARRETO",
+      "nomeUrna": "CAFU BARRETO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 927,
+      "percentual": 10.31,
+      "sqcand": "50001607305"
+    },
+    {
+      "nome": "KATIA CRISTINA CERQUEIRA OLIVEIRA",
+      "nomeUrna": "KATIA OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44686",
+      "votos": 715,
+      "percentual": 7.95,
+      "sqcand": "50001648299"
+    },
+    {
+      "nome": "JOSE RICARDO RODRIGUES BARBOSA",
+      "nomeUrna": "RICARDO RODRIGUES",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 501,
+      "percentual": 5.57,
+      "sqcand": "50001607297"
+    },
+    {
+      "nome": "FELIPE GABRIEL DUARTE",
+      "nomeUrna": "FELIPE DUARTE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 367,
+      "percentual": 4.08,
+      "sqcand": "50001647074"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 5332,
+  "votosValidos": 4658,
+  "abstencao": 9.62,
+  "prefeito": {
+    "nome": "JOSE ROMERO MARTINS DOS SANTOS",
+    "nomeUrna": "ROMERO MARTINS",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2475,
+    "percentual": 53.13,
+    "situacao": "Eleito",
+    "sqcand": "150002053037",
+    "vice": "EDIVANIA PORTO",
+    "viceNomeUrna": "EDIVANIA",
+    "partidoVice": "PP",
+    "sqcandVice": "150002053036",
+    "coligacao": "PP / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "DAMIÃO PAULO DA SILVA",
+      "nomeUrna": "DAMIÃO DO POVO",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 396,
+      "percentual": 8.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002133793"
+    },
+    {
+      "nome": "VALDEZ FREIRE DE ANDRADE",
+      "nomeUrna": "VALDEZ",
+      "partido": "PP",
+      "numero": "11369",
+      "votos": 303,
+      "percentual": 6.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002133790"
+    },
+    {
+      "nome": "FAGNER JUNIOR DA SILVA",
+      "nomeUrna": "JUNIOR",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 283,
+      "percentual": 6.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002026017"
+    },
+    {
+      "nome": "YURI VERISSIMO DE SOUZA",
+      "nomeUrna": "YURI DE FERNANDO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 277,
+      "percentual": 5.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002025857"
+    },
+    {
+      "nome": "HELIUM LUIZ DA SILVA",
+      "nomeUrna": "HELIUM",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 263,
+      "percentual": 5.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002025858"
+    },
+    {
+      "nome": "ELIANE COSTA DOMINGOS",
+      "nomeUrna": "ELIANE ARTUR",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 232,
+      "percentual": 4.99,
+      "situacao": "Eleito por média",
+      "sqcand": "150002025861"
+    },
+    {
+      "nome": "JOSE MARCOS JUSTINO",
+      "nomeUrna": "MARCOS JUSTINO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 230,
+      "percentual": 4.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002026021"
+    },
+    {
+      "nome": "KATIA PEREIRA DA SILVA",
+      "nomeUrna": "KATIA SILVA",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 225,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "150002026022"
+    },
+    {
+      "nome": "MARIA DA GUIA LIMA DE OLIVEIRA",
+      "nomeUrna": "DAGUIA DE NALDO",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 189,
+      "percentual": 4.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002395169"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1641,
+      "percentual": 51.75,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 655,
+      "percentual": 20.66,
+      "sqcand": "150001643372"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 595,
+      "percentual": 18.76,
+      "sqcand": "150001718470"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ROMERO RODRIGUES VEIGA",
+      "nomeUrna": "ROMERO RODRIGUES",
+      "partido": "PSC",
+      "numero": "2011",
+      "votos": 1775,
+      "percentual": 53.72,
+      "sqcand": "150001612086"
+    },
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 620,
+      "percentual": 18.77,
+      "sqcand": "150001619544"
+    },
+    {
+      "nome": "ISIS RAFAELA RODRIGUES DA SILVA",
+      "nomeUrna": "RAFAELA CAMARAENSE",
+      "partido": "PSB",
+      "numero": "4013",
+      "votos": 129,
+      "percentual": 3.9,
+      "sqcand": "150001621682"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 85,
+      "percentual": 2.57,
+      "sqcand": "150001619538"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 83,
+      "percentual": 2.51,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "ANTONIO RIBEIRO",
+      "nomeUrna": "FREI ANASTÁCIO",
+      "partido": "PT",
+      "numero": "1345",
+      "votos": 64,
+      "percentual": 1.94,
+      "sqcand": "150001619539"
+    },
+    {
+      "nome": "FRANCISCO EMERSON ASSIS DE LUCENA",
+      "nomeUrna": "MERSINHO LUCENA",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 53,
+      "percentual": 1.6,
+      "sqcand": "150001612074"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FABIO RAMALHO DA SILVA",
+      "nomeUrna": "FABIO RAMALHO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 1898,
+      "percentual": 56.74,
+      "sqcand": "150001621377"
+    },
+    {
+      "nome": "SILVIA FERNANDA AIRES BENJAMIN",
+      "nomeUrna": "SILVIA BENJAMIN",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 606,
+      "percentual": 18.12,
+      "sqcand": "150001619562"
+    },
+    {
+      "nome": "ADRIANO CEZAR GALDINO DE ARAÚJO",
+      "nomeUrna": "ADRIANO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 199,
+      "percentual": 5.95,
+      "sqcand": "150001619565"
+    },
+    {
+      "nome": "JOÃO PAULO BARBOSA LEAL SEGUNDO",
+      "nomeUrna": "JOÃO PAULO",
+      "partido": "PP",
+      "numero": "11369",
+      "votos": 128,
+      "percentual": 3.83,
+      "sqcand": "150001612056"
+    },
+    {
+      "nome": "ANDERSON MONTEIRO COSTA",
+      "nomeUrna": "ANDERSON MONTEIRO",
+      "partido": "MDB",
+      "numero": "15147",
+      "votos": 84,
+      "percentual": 2.51,
+      "sqcand": "150001718105"
+    },
+    {
+      "nome": "JOSILENE MARIA DE OLIVEIRA",
+      "nomeUrna": "JÔ OLIVEIRA",
+      "partido": "PC do B",
+      "numero": "65000",
+      "votos": 36,
+      "percentual": 1.08,
+      "sqcand": "150001643189"
+    },
+    {
+      "nome": "JOÃO GOMES DE SOUZA NETO",
+      "nomeUrna": "SARGENTO NETO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 25,
+      "percentual": 0.75,
+      "sqcand": "150001718221"
+    }
+  ]
+}

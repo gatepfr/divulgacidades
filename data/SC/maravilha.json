@@ -1,0 +1,291 @@
+{
+  "populacao": 19942,
+  "votosValidos": 16134,
+  "abstencao": 16.39,
+  "prefeito": {
+    "nome": "VINICIUS VENTURA",
+    "nomeUrna": "VINICIUS VENTURA",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 9090,
+    "percentual": 56.34,
+    "situacao": "Eleito",
+    "sqcand": "240002098086",
+    "vice": "NADIA FRITZEN SIGNOR",
+    "viceNomeUrna": "NADIA SIGNOR",
+    "partidoVice": "PSDB",
+    "sqcandVice": "240002098085",
+    "coligacao": "PP / CIDADANIA / PSDB / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "NATALINO PRANTE",
+      "nomeUrna": "NATALINO PRANTE",
+      "partido": "PP",
+      "numero": "11311",
+      "votos": 1186,
+      "percentual": 7.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002263286"
+    },
+    {
+      "nome": "IRINEU BOURSCHEID",
+      "nomeUrna": "IRINEU CHAMALUX",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 905,
+      "percentual": 5.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002262651"
+    },
+    {
+      "nome": "SERGIO BOURSCHEID",
+      "nomeUrna": "SERGIO BOURSCHEID",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 715,
+      "percentual": 4.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002262655"
+    },
+    {
+      "nome": "ADEMIR CELSO UNSER",
+      "nomeUrna": "GUACHO",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 707,
+      "percentual": 4.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002263291"
+    },
+    {
+      "nome": "DIRCEU JOSE VIEIRA",
+      "nomeUrna": "DIRCEU DO RAIO X",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 670,
+      "percentual": 4.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002015089"
+    },
+    {
+      "nome": "MOZER MATHEUS DE OLIVEIRA",
+      "nomeUrna": "MOZER MATHEUS DE OLIVEIRA",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 609,
+      "percentual": 3.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002262657"
+    },
+    {
+      "nome": "VITOR ALEXANDRE SCHWANKE",
+      "nomeUrna": "VITOR SCHWANKE",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 571,
+      "percentual": 3.59,
+      "situacao": "Eleito por média",
+      "sqcand": "240002263283"
+    },
+    {
+      "nome": "GILMAR FRANCISCO CASTANHA",
+      "nomeUrna": "BAGAI GILMAR CASTANHA",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 510,
+      "percentual": 3.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002191066"
+    },
+    {
+      "nome": "SIMONE NAIR TONELLO",
+      "nomeUrna": "SIMONE NAIR TONELLO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 482,
+      "percentual": 3.03,
+      "situacao": "Eleito por média",
+      "sqcand": "240002015093"
+    },
+    {
+      "nome": "LAÉRCIO JOSÉ FORNASARI",
+      "nomeUrna": "DR LAÉRCIO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 448,
+      "percentual": 2.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002191073"
+    },
+    {
+      "nome": "LUIZ ROBERT",
+      "nomeUrna": "LUIZ ROBERT",
+      "partido": "MDB",
+      "numero": "15060",
+      "votos": 436,
+      "percentual": 2.74,
+      "situacao": "Eleito por média",
+      "sqcand": "240002191068"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 6623,
+      "percentual": 46.42,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4222,
+      "percentual": 29.59,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1526,
+      "percentual": 10.69,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DANIELA CRISTINA REINEHR",
+      "nomeUrna": "DANIELA REINEHR",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 4103,
+      "percentual": 28.59,
+      "sqcand": "240001610968"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 1929,
+      "percentual": 13.44,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 1547,
+      "percentual": 10.78,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 1458,
+      "percentual": 10.16,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "FERNANDO ARGILAR BEILFUSS",
+      "nomeUrna": "FERNANDO BEILFUSS",
+      "partido": "PATRIOTA",
+      "numero": "5100",
+      "votos": 835,
+      "percentual": 5.82,
+      "sqcand": "240001620984"
+    },
+    {
+      "nome": "LEANDRO SORGATO",
+      "nomeUrna": "SORGATTO",
+      "partido": "MDB",
+      "numero": "1544",
+      "votos": 464,
+      "percentual": 3.23,
+      "sqcand": "240001602680"
+    },
+    {
+      "nome": "VALDIR COLATTO",
+      "nomeUrna": "VALDIR COLATTO",
+      "partido": "PL",
+      "numero": "2216",
+      "votos": 298,
+      "percentual": 2.08,
+      "sqcand": "240001610966"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ROSIMAR MALDANER",
+      "nomeUrna": "ROSI MALDANER",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 6148,
+      "percentual": 42.26,
+      "sqcand": "240001605910"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 1703,
+      "percentual": 11.71,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "MAURO DE NADAL",
+      "nomeUrna": "MAURO DE NADAL",
+      "partido": "MDB",
+      "numero": "15220",
+      "votos": 1567,
+      "percentual": 10.77,
+      "sqcand": "240001605913"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 714,
+      "percentual": 4.91,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "LUCIANE MARIA CARMINATTI",
+      "nomeUrna": "LUCIANE CARMINATTI",
+      "partido": "PT",
+      "numero": "13601",
+      "votos": 502,
+      "percentual": 3.45,
+      "sqcand": "240001679643"
+    },
+    {
+      "nome": "ALTAIR DA SILVA",
+      "nomeUrna": "ALTAIR SILVA",
+      "partido": "PP",
+      "numero": "11130",
+      "votos": 464,
+      "percentual": 3.19,
+      "sqcand": "240001644767"
+    },
+    {
+      "nome": "MAURICIO JOSE ESKUDLARK",
+      "nomeUrna": "MAURICIO ESKUDLARK",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 387,
+      "percentual": 2.66,
+      "sqcand": "240001614331"
+    }
+  ]
+}

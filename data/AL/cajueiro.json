@@ -1,0 +1,291 @@
+{
+  "populacao": 15200,
+  "votosValidos": 11090,
+  "abstencao": 23.88,
+  "prefeito": {
+    "nome": "LUCILA RÉGIA ALBUQUERQUE TOLEDO",
+    "nomeUrna": "LUCILA TOLEDO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 5969,
+    "percentual": 53.82,
+    "situacao": "Eleito",
+    "sqcand": "20001909986",
+    "vice": "ANTONIO JORGE DE MELO JUNIOR",
+    "viceNomeUrna": "JUNIOR MELO",
+    "partidoVice": "MDB",
+    "sqcandVice": "20001909985",
+    "coligacao": "MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "EMERSON DE LEMOS RIBEIRO",
+      "nomeUrna": "EMERSON RIBEIRO",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 833,
+      "percentual": 7.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001910032"
+    },
+    {
+      "nome": "ALESSON FERREIRA DE SOUZA",
+      "nomeUrna": "ALESSON FERREIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 818,
+      "percentual": 7.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001910034"
+    },
+    {
+      "nome": "SILVANIO DE LIMA",
+      "nomeUrna": "SILVANIO LIMA",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 760,
+      "percentual": 6.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001910025"
+    },
+    {
+      "nome": "FABIOLA MELO ARAUJO MOURA",
+      "nomeUrna": "FABÍOLA MOURA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 747,
+      "percentual": 6.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001910031"
+    },
+    {
+      "nome": "FERNANDA PEIXOTO DE ALBUQUERQUE CANSANÇÃO",
+      "nomeUrna": "FERNANDA CANSANÇÃO",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 656,
+      "percentual": 5.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001910036"
+    },
+    {
+      "nome": "AURINETE TAVARES BESERRA",
+      "nomeUrna": "NEN DA SAÚDE",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 596,
+      "percentual": 5.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001910030"
+    },
+    {
+      "nome": "MARCELO LIMA NASCIMENTO",
+      "nomeUrna": "MARCELO DO MAURO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 576,
+      "percentual": 5.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002251749"
+    },
+    {
+      "nome": "LUIZ ADRIANO DOS SANTOS",
+      "nomeUrna": "ADRIANO DO TIL",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 551,
+      "percentual": 4.99,
+      "situacao": "Eleito por média",
+      "sqcand": "20001910028"
+    },
+    {
+      "nome": "NEGTTON SILVA ARAÚJO",
+      "nomeUrna": "NETINHO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 537,
+      "percentual": 4.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002335796"
+    },
+    {
+      "nome": "SILVINO VIEIRA DE ALMEIDA NETO",
+      "nomeUrna": "SILVINO ALMEIDA",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 523,
+      "percentual": 4.74,
+      "situacao": "Eleito por média",
+      "sqcand": "20002251750"
+    },
+    {
+      "nome": "LUIS MARQUES DA SILVA",
+      "nomeUrna": "LUIS DA SERRA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 286,
+      "percentual": 2.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "20002254289"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSÉ RENAN VASCONCELOS CALHEIROS FILHO",
+      "nomeUrna": "RENAN FILHO",
+      "partido": "MDB",
+      "numero": "151",
+      "votos": 6130,
+      "percentual": 69.45,
+      "sqcand": "20001698127"
+    },
+    {
+      "nome": "DAVID CABRAL DAVINO FILHO",
+      "nomeUrna": "DAVI DAVINO FILHO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2657,
+      "percentual": 30.1,
+      "sqcand": "20001653095"
+    },
+    {
+      "nome": "MARIO AGRA JÚNIOR",
+      "nomeUrna": "MARIO AGRA",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 40,
+      "percentual": 0.45,
+      "sqcand": "20001611211"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUCIANO SURUAGY DO AMARAL FILHO",
+      "nomeUrna": "LUCIANO AMARAL",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 3094,
+      "percentual": 32.63,
+      "sqcand": "20001610335"
+    },
+    {
+      "nome": "ANTONIO PALMERY MELO NETO",
+      "nomeUrna": "PALMERY",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 1154,
+      "percentual": 12.17,
+      "sqcand": "20001652455"
+    },
+    {
+      "nome": "PEDRO TORRES BRANDAO VILELA",
+      "nomeUrna": "PEDRO VILELA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 596,
+      "percentual": 6.28,
+      "sqcand": "20001716825"
+    },
+    {
+      "nome": "MARX BELTRÃO LIMA SIQUEIRA",
+      "nomeUrna": "MARX BELTRÃO",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 580,
+      "percentual": 6.12,
+      "sqcand": "20001614180"
+    },
+    {
+      "nome": "JOÃO ANTÔNIO HOLANDA CALDAS",
+      "nomeUrna": "DR JHC",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 417,
+      "percentual": 4.4,
+      "sqcand": "20001652750"
+    },
+    {
+      "nome": "PAULO FERNANDO DOS SANTOS",
+      "nomeUrna": "PAULÃO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 414,
+      "percentual": 4.37,
+      "sqcand": "20001610332"
+    },
+    {
+      "nome": "MAURÍCIO QUINTELLA MALTA LESSA",
+      "nomeUrna": "MAURÍCIO QUINTELLA",
+      "partido": "MDB",
+      "numero": "1566",
+      "votos": 398,
+      "percentual": 4.2,
+      "sqcand": "20001653891"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BRUNO ALBUQUERQUE TOLEDO",
+      "nomeUrna": "BRUNO TOLEDO",
+      "partido": "MDB",
+      "numero": "15155",
+      "votos": 4113,
+      "percentual": 44.67,
+      "sqcand": "20001653525"
+    },
+    {
+      "nome": "CIBELE CORADO DE MOURA",
+      "nomeUrna": "CIBELE MOURA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1072,
+      "percentual": 11.64,
+      "sqcand": "20001653516"
+    },
+    {
+      "nome": "JOSÉ RONALDO MEDEIROS",
+      "nomeUrna": "RONALDO MEDEIROS",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 551,
+      "percentual": 5.98,
+      "sqcand": "20001612343"
+    },
+    {
+      "nome": "MARIA DE FÁTIMA MOREIRA CANUTO ROCHA",
+      "nomeUrna": "FÁTIMA CANUTO",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 338,
+      "percentual": 3.67,
+      "sqcand": "20001653514"
+    },
+    {
+      "nome": "ALESSON LOUREIRO CAVALCANTE",
+      "nomeUrna": "LÉO LOUREIRO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 303,
+      "percentual": 3.29,
+      "sqcand": "20001653523"
+    },
+    {
+      "nome": "JOSE FRANCISCO CERQUEIRA TENORIO",
+      "nomeUrna": "FRANCISCO TENORIO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 213,
+      "percentual": 2.31,
+      "sqcand": "20001636046"
+    },
+    {
+      "nome": "JOÃO PAULO CALHEIROS AMORIM SANTOS",
+      "nomeUrna": "JOÃO PAULO DO KLÉCIO",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 194,
+      "percentual": 2.11,
+      "sqcand": "20001612367"
+    }
+  ]
+}

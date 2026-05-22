@@ -1,0 +1,271 @@
+{
+  "populacao": 4486,
+  "votosValidos": 3766,
+  "abstencao": 13.98,
+  "prefeito": {
+    "nome": "JOÃO CARLOS GARBIN",
+    "nomeUrna": "PROFESSOR JOÃO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2078,
+    "percentual": 55.18,
+    "situacao": "Eleito",
+    "sqcand": "160002129540",
+    "vice": "JOSÉ CARLOS PERON",
+    "viceNomeUrna": "JOTA",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002129539",
+    "coligacao": "PP / PSD / PODE / REPUBLICANOS / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JUARES JANES DE LIMA",
+      "nomeUrna": "LIMINHA",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 343,
+      "percentual": 9.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002130373"
+    },
+    {
+      "nome": "ELTON JOSE FALKEMBACK",
+      "nomeUrna": "ELTON",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 246,
+      "percentual": 6.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002261200"
+    },
+    {
+      "nome": "VALDECIR CASTANHA SANTOS",
+      "nomeUrna": "VALDECIR NÊ",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 225,
+      "percentual": 5.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002261206"
+    },
+    {
+      "nome": "NEI DE LIMA",
+      "nomeUrna": "LIMA DA OFICINA",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 223,
+      "percentual": 5.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002261337"
+    },
+    {
+      "nome": "ALEXANDRA APARECIDA DA SILVA ALVES",
+      "nomeUrna": "PROF ALE",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 200,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002129898"
+    },
+    {
+      "nome": "LUIZ DAMASIO DOS SANTOS",
+      "nomeUrna": "DAMÁSIO",
+      "partido": "PP",
+      "numero": "11667",
+      "votos": 191,
+      "percentual": 5.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002130365"
+    },
+    {
+      "nome": "ROZIMBO ANTUNES DE CHAVES",
+      "nomeUrna": "ROZIMBO",
+      "partido": "UNIÃO",
+      "numero": "44761",
+      "votos": 175,
+      "percentual": 4.61,
+      "situacao": "Eleito por média",
+      "sqcand": "160002261205"
+    },
+    {
+      "nome": "EDEVANIA APARECIDA MODESTO DA CRUZ",
+      "nomeUrna": "ENFERMEIRA EDEVANIA",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 160,
+      "percentual": 4.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002130369"
+    },
+    {
+      "nome": "FÁBIO CHIAVEGATTI",
+      "nomeUrna": "FÁBIO CHIAVEGATTI",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 135,
+      "percentual": 3.56,
+      "situacao": "Eleito por média",
+      "sqcand": "160002261332"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1069,
+      "percentual": 33.94,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 796,
+      "percentual": 25.27,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "CLEUSA ROSANE RIBAS FERREIRA",
+      "nomeUrna": "ROSANE FERREIRA",
+      "partido": "PV",
+      "numero": "433",
+      "votos": 716,
+      "percentual": 22.73,
+      "sqcand": "160001615117"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 758,
+      "percentual": 22.88,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "PAULO HENRIQUE COLETTI FERNANDES",
+      "nomeUrna": "PAULO LITRO",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 665,
+      "percentual": 20.07,
+      "sqcand": "160001622301"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 378,
+      "percentual": 11.41,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 301,
+      "percentual": 9.09,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 217,
+      "percentual": 6.55,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "LEANDRE DAL PONTE",
+      "nomeUrna": "LEANDRE",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 187,
+      "percentual": 5.64,
+      "sqcand": "160001622296"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 182,
+      "percentual": 5.49,
+      "sqcand": "160001654655"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ FERNANDO GUERRA FILHO",
+      "nomeUrna": "LUIZ FERNANDO GUERRA",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 807,
+      "percentual": 25.9,
+      "sqcand": "160001716035"
+    },
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 694,
+      "percentual": 22.27,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "LUCIANA GUZELLA RAFAGNIN",
+      "nomeUrna": "LUCIANA RAFAGNIN",
+      "partido": "PT",
+      "numero": "13233",
+      "votos": 320,
+      "percentual": 10.27,
+      "sqcand": "160001615035"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 272,
+      "percentual": 8.73,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "CAROLINE ARNS DE SANTA CRUZ ARRUDA",
+      "nomeUrna": "CAROL ARNS",
+      "partido": "PODE",
+      "numero": "19000",
+      "votos": 160,
+      "percentual": 5.13,
+      "sqcand": "160001622214"
+    },
+    {
+      "nome": "ROMULO QUINTINO",
+      "nomeUrna": "ROMULO QUINTINO",
+      "partido": "PL",
+      "numero": "22522",
+      "votos": 103,
+      "percentual": 3.31,
+      "sqcand": "160001654951"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 85,
+      "percentual": 2.73,
+      "sqcand": "160001614823"
+    }
+  ]
+}

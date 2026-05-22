@@ -1,0 +1,431 @@
+{
+  "populacao": 347207,
+  "votosValidos": 246848,
+  "abstencao": 22.82,
+  "prefeito": {
+    "nome": "MARCIO CORREIA DE OLIVEIRA",
+    "nomeUrna": "MÁRCIO CANELLA",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 155229,
+    "percentual": 62.88,
+    "situacao": "Eleito",
+    "sqcand": "190002028900",
+    "vice": "MARIANA MALTA MONTEIRO DA SILVA",
+    "viceNomeUrna": "MARIANA MALTA",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "190002028899",
+    "coligacao": "UNIÃO / PP / PL / DC / MOBILIZA / AVANTE / CIDADANIA / PSDB / MDB / PRTB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCO AURELIO DE ALMEIDA GANDRA",
+      "nomeUrna": "MARKINHO GANDRA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 5193,
+      "percentual": 2.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002033948"
+    },
+    {
+      "nome": "SIDNEY CORREIA",
+      "nomeUrna": "SIDNEY CANELLA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 4140,
+      "percentual": 1.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002033967"
+    },
+    {
+      "nome": "JULIO CESAR LAURINDO DE LIMA",
+      "nomeUrna": "JULIO PIU",
+      "partido": "AGIR",
+      "numero": "36611",
+      "votos": 4042,
+      "percentual": 1.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001910477"
+    },
+    {
+      "nome": "ALEXANDRO TEIXEIRA SILVA",
+      "nomeUrna": "TEIXEIRA DO CARVÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10242",
+      "votos": 3934,
+      "percentual": 1.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001910609"
+    },
+    {
+      "nome": "HENRIQUE REZENDE PINHEIRO",
+      "nomeUrna": "HENRIQUE FAROFA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 3596,
+      "percentual": 1.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002002309"
+    },
+    {
+      "nome": "ARMANDO ROSA PENÉLIS",
+      "nomeUrna": "ARMANDINHO PENÉLIS",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 3498,
+      "percentual": 1.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001910595"
+    },
+    {
+      "nome": "JOÃO VITOR DA SILVA",
+      "nomeUrna": "VITOR DO GELO",
+      "partido": "PSD",
+      "numero": "55321",
+      "votos": 3268,
+      "percentual": 1.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001895011"
+    },
+    {
+      "nome": "ALVARO CARDOSO JUNIOR",
+      "nomeUrna": "NUNA DO WAGUINHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 3186,
+      "percentual": 1.28,
+      "situacao": "Eleito por média",
+      "sqcand": "190001895010"
+    },
+    {
+      "nome": "RODRIGO FERREIRA FRASCO",
+      "nomeUrna": "RODRIGO COM A FORÇA DO POVO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 3180,
+      "percentual": 1.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002002306"
+    },
+    {
+      "nome": "ROBSON DA SILVA SARMENTO",
+      "nomeUrna": "AMIGO BINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10678",
+      "votos": 3080,
+      "percentual": 1.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001910604"
+    },
+    {
+      "nome": "CARLOS EDUARDO DA SILVA",
+      "nomeUrna": "DUDU CANELLA",
+      "partido": "UNIÃO",
+      "numero": "44456",
+      "votos": 3004,
+      "percentual": 1.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002033973"
+    },
+    {
+      "nome": "MATHEUS RICARDO DA SILVA DE OLIVEIRA",
+      "nomeUrna": "MATHEUS IGUAL A VOCÊ",
+      "partido": "REPUBLICANOS",
+      "numero": "10500",
+      "votos": 2993,
+      "percentual": 1.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001910593"
+    },
+    {
+      "nome": "ANDRÉ DE OLIVEIRA FERREIRA",
+      "nomeUrna": "ANDRÉ FEIJÃO",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 2939,
+      "percentual": 1.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001946832"
+    },
+    {
+      "nome": "MARCELO IRINEU DA SILVA",
+      "nomeUrna": "MARCELO IRINEU",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 2912,
+      "percentual": 1.17,
+      "situacao": "Eleito por média",
+      "sqcand": "190001910601"
+    },
+    {
+      "nome": "LUIS FILIPPE DE JESUS DA SILVA",
+      "nomeUrna": "FILIPPE JESUS",
+      "partido": "PT",
+      "numero": "13777",
+      "votos": 2905,
+      "percentual": 1.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001957476"
+    },
+    {
+      "nome": "TELMO COSTA DA SILVA",
+      "nomeUrna": "TELMINHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 2755,
+      "percentual": 1.11,
+      "situacao": "Eleito por média",
+      "sqcand": "190002002429"
+    },
+    {
+      "nome": "REGINA FERNANDES VIEIRA DIAS",
+      "nomeUrna": "REGINA DO VALTINHO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 2639,
+      "percentual": 1.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002026405"
+    },
+    {
+      "nome": "RODRIGO FERREIRA GOMES",
+      "nomeUrna": "RODRIGO GOMES",
+      "partido": "MDB",
+      "numero": "15662",
+      "votos": 2606,
+      "percentual": 1.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001951621"
+    },
+    {
+      "nome": "ANTÔNIO RUBEM MEDEIROS JUNIOR",
+      "nomeUrna": "TUNINHO MEDEIROS",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 2605,
+      "percentual": 1.05,
+      "situacao": "Eleito por média",
+      "sqcand": "190001910611"
+    },
+    {
+      "nome": "JULIO CESAR PEREIRA DE OLIVEIRA",
+      "nomeUrna": "JUNINHO DO PICA PAU",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77321",
+      "votos": 2483,
+      "percentual": 1.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001968735"
+    },
+    {
+      "nome": "EVERTTON MENESES DA SILVA",
+      "nomeUrna": "DUDINO",
+      "partido": "AGIR",
+      "numero": "36567",
+      "votos": 2483,
+      "percentual": 1.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001910494"
+    },
+    {
+      "nome": "ALEXSANDRO PEREIRA DE SOUZA",
+      "nomeUrna": "ALEX ABENÇOADO",
+      "partido": "AGIR",
+      "numero": "36333",
+      "votos": 2458,
+      "percentual": 0.99,
+      "situacao": "Eleito por média",
+      "sqcand": "190001910483"
+    },
+    {
+      "nome": "ANGELO LUIZ BAPTISTA RAMOS",
+      "nomeUrna": "ANGELO RAMOS ANJINHO",
+      "partido": "UNIÃO",
+      "numero": "44234",
+      "votos": 2452,
+      "percentual": 0.99,
+      "situacao": "Eleito por média",
+      "sqcand": "190002033953"
+    },
+    {
+      "nome": "IGO ALENCAR DE MENEZES",
+      "nomeUrna": "IGO MENEZES",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 2401,
+      "percentual": 0.97,
+      "situacao": "Eleito por média",
+      "sqcand": "190001957454"
+    },
+    {
+      "nome": "LEMUEL RIBEIRO DE SOUZA",
+      "nomeUrna": "RIBEIRO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 1876,
+      "percentual": 0.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002026383"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLARISSA GAROTINHO BARROS ASSED MATHEUS DE OLIVEIRA",
+      "nomeUrna": "CLARISSA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 81274,
+      "percentual": 43.61,
+      "sqcand": "190001645824"
+    },
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 46043,
+      "percentual": 24.71,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 25178,
+      "percentual": 13.51,
+      "sqcand": "190001609504"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DANIELA MOTÉ DE SOUZA CARNEIRO",
+      "nomeUrna": "DANIELA DO WAGUINHO",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 114345,
+      "percentual": 50.01,
+      "sqcand": "190001619522"
+    },
+    {
+      "nome": "SULAMITA DO CARMO DA SILVA",
+      "nomeUrna": "SULA DO CARMO",
+      "partido": "AVANTE",
+      "numero": "7000",
+      "votos": 8453,
+      "percentual": 3.7,
+      "sqcand": "190001609739"
+    },
+    {
+      "nome": "ROSANGELA DE SOUZA GOMES",
+      "nomeUrna": "ROSANGELA GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1033",
+      "votos": 5755,
+      "percentual": 2.52,
+      "sqcand": "190001644815"
+    },
+    {
+      "nome": "FLAVIO CAMPOS FERREIRA",
+      "nomeUrna": "DR FLÁVIO",
+      "partido": "PL",
+      "numero": "2245",
+      "votos": 4320,
+      "percentual": 1.89,
+      "sqcand": "190001596790"
+    },
+    {
+      "nome": "SORAYA ALENCAR DOS SANTOS",
+      "nomeUrna": "SORAYA SANTOS",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 3687,
+      "percentual": 1.61,
+      "sqcand": "190001596770"
+    },
+    {
+      "nome": "OTONI MOURA DE PAULO JUNIOR",
+      "nomeUrna": "OTONI DE PAULA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 3148,
+      "percentual": 1.38,
+      "sqcand": "190001644973"
+    },
+    {
+      "nome": "LUIZ LINDBERGH FARIAS FILHO",
+      "nomeUrna": "LINDBERGH FARIAS",
+      "partido": "PT",
+      "numero": "1300",
+      "votos": 2957,
+      "percentual": 1.29,
+      "sqcand": "190001619207"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCIO CORREIA DE OLIVEIRA",
+      "nomeUrna": "MÁRCIO CANELLA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 108104,
+      "percentual": 48.71,
+      "sqcand": "190001619475"
+    },
+    {
+      "nome": "DANIEL SILVA DE LIMA",
+      "nomeUrna": "DANIELZINHO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 11414,
+      "percentual": 5.14,
+      "sqcand": "190001615311"
+    },
+    {
+      "nome": "DEODALTO JOSE FERREIRA",
+      "nomeUrna": "DR DEODALTO",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 7673,
+      "percentual": 3.46,
+      "sqcand": "190001596733"
+    },
+    {
+      "nome": "CRISTIANO SANTOS HERMOGENES",
+      "nomeUrna": "CRISTIANO SANTOS",
+      "partido": "PL",
+      "numero": "22931",
+      "votos": 6259,
+      "percentual": 2.82,
+      "sqcand": "190001596731"
+    },
+    {
+      "nome": "DANNIEL LIBRELON DIAS DE CASTRO",
+      "nomeUrna": "DANNIEL LIBRELON",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 5835,
+      "percentual": 2.63,
+      "sqcand": "190001636600"
+    },
+    {
+      "nome": "FELIPE RANGEL GARCIA",
+      "nomeUrna": "FELIPINHO RAVIS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77200",
+      "votos": 4024,
+      "percentual": 1.81,
+      "sqcand": "190001601374"
+    },
+    {
+      "nome": "GISELLE LOUISE MONTEIRO DE OLIVEIRA",
+      "nomeUrna": "GISELLE MONTEIRO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 1989,
+      "percentual": 0.9,
+      "sqcand": "190001596739"
+    }
+  ]
+}

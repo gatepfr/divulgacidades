@@ -1,0 +1,271 @@
+{
+  "populacao": 4402,
+  "votosValidos": 4083,
+  "abstencao": 4.93,
+  "prefeito": {
+    "nome": "FRANCISCO MARCIANO MACEDO",
+    "nomeUrna": "MARCIANO MACEDO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2211,
+    "percentual": 54.15,
+    "situacao": "Eleito",
+    "sqcand": "180001985538",
+    "vice": "ZÊNIO NEVES HOLANDA",
+    "viceNomeUrna": "ZÊNIO NEVES",
+    "partidoVice": "PSD",
+    "sqcandVice": "180001985539",
+    "coligacao": "PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ZENIO NEVES HOLANDA FILHO",
+      "nomeUrna": "ZENIM",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 410,
+      "percentual": 10.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002004392"
+    },
+    {
+      "nome": "ROBERTO DE CARVALHO FIGUEIREDO",
+      "nomeUrna": "MAMÔ",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 364,
+      "percentual": 8.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001959102"
+    },
+    {
+      "nome": "REGINALDO LUIZ BEZERRA MENDES EULÁLIO",
+      "nomeUrna": "MANIM DE SILVIA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 356,
+      "percentual": 8.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103061"
+    },
+    {
+      "nome": "LUCIELTON GONÇALVES DE MOURA",
+      "nomeUrna": "LUCIELTON",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 300,
+      "percentual": 7.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103065"
+    },
+    {
+      "nome": "SEBASTIÃO NONATO DA CONCEIÇÃO",
+      "nomeUrna": "LOURO PIO",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 288,
+      "percentual": 7.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002004391"
+    },
+    {
+      "nome": "MARIA ZONEIDE DE MACEDO",
+      "nomeUrna": "ZONEIDE MACEDO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 239,
+      "percentual": 5.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002004395"
+    },
+    {
+      "nome": "FRANCISCO DAS CHAGAS MOURA",
+      "nomeUrna": "CHAGAS",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 231,
+      "percentual": 5.66,
+      "situacao": "Eleito por média",
+      "sqcand": "180002004394"
+    },
+    {
+      "nome": "JOSÉ JOAQUIM FERREIRA",
+      "nomeUrna": "ZÉ GALEGO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 223,
+      "percentual": 5.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002103060"
+    },
+    {
+      "nome": "FRANCISCO BORGES MACEDO",
+      "nomeUrna": "CHICO DE MUNDICO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 212,
+      "percentual": 5.2,
+      "situacao": "Eleito por média",
+      "sqcand": "180002103062"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1558,
+      "percentual": 52.32,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1412,
+      "percentual": 47.41,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "GEORGE MÁGNO CARVALHO CARDOSO",
+      "nomeUrna": "GEORGE MÁGNO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 4,
+      "percentual": 0.13,
+      "sqcand": "180001610857"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 1311,
+      "percentual": 42.8,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "JULIO FERRAZ ARCOVERDE",
+      "nomeUrna": "JULIO ARCOVERDE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 902,
+      "percentual": 29.45,
+      "sqcand": "180001602515"
+    },
+    {
+      "nome": "REJANE RIBEIRO SOUSA DIAS",
+      "nomeUrna": "REJANE DIAS",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 252,
+      "percentual": 8.23,
+      "sqcand": "180001610756"
+    },
+    {
+      "nome": "RAIMUNDO DE SA URTIGA FILHO",
+      "nomeUrna": "RSÁ FILHO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 114,
+      "percentual": 3.72,
+      "sqcand": "180001601223"
+    },
+    {
+      "nome": "WILSON NUNES MARTINS",
+      "nomeUrna": "WILSON MARTINS",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 106,
+      "percentual": 3.46,
+      "sqcand": "180001610757"
+    },
+    {
+      "nome": "JOSÉ DE ANDRADE MAIA FILHO",
+      "nomeUrna": "MAINHA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 50,
+      "percentual": 1.63,
+      "sqcand": "180001601335"
+    },
+    {
+      "nome": "FLORENTINO ALVES VERAS NETO",
+      "nomeUrna": "FLORENTINO NETO",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 41,
+      "percentual": 1.34,
+      "sqcand": "180001610762"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ ICEMAR LAVÔR NÉRI",
+      "nomeUrna": "NERINHO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 1502,
+      "percentual": 49.97,
+      "sqcand": "180001605695"
+    },
+    {
+      "nome": "THALES COELHO PIMENTEL",
+      "nomeUrna": "DR. THALES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1238,
+      "percentual": 41.18,
+      "sqcand": "180001604044"
+    },
+    {
+      "nome": "ALDO GIL DE MEDEIROS",
+      "nomeUrna": "ALDO GIL",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 59,
+      "percentual": 1.96,
+      "sqcand": "180001604053"
+    },
+    {
+      "nome": "SEVERO MARIA EULALIO NETO",
+      "nomeUrna": "SEVERO EULÁLIO",
+      "partido": "MDB",
+      "numero": "15101",
+      "votos": 42,
+      "percentual": 1.4,
+      "sqcand": "180001605756"
+    },
+    {
+      "nome": "PABLO DANTAS DE MOURA SANTOS",
+      "nomeUrna": "DR PABLO SANTOS",
+      "partido": "MDB",
+      "numero": "15199",
+      "votos": 32,
+      "percentual": 1.06,
+      "sqcand": "180001605769"
+    },
+    {
+      "nome": "CARLOS AUGUSTO GOMES DE SOUZA",
+      "nomeUrna": "CEL CARLOS AUGUSTO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 12,
+      "percentual": 0.4,
+      "sqcand": "180001605754"
+    },
+    {
+      "nome": "GUSTAVO SOUSA DE NEIVA",
+      "nomeUrna": "GUSTAVO NEIVA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 8,
+      "percentual": 0.27,
+      "sqcand": "180001604038"
+    }
+  ]
+}

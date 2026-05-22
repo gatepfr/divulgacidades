@@ -1,0 +1,271 @@
+{
+  "populacao": 10315,
+  "votosValidos": 7978,
+  "abstencao": 19.23,
+  "prefeito": {
+    "nome": "FERNANDO CASTRO ROCHA",
+    "nomeUrna": "FERNANDO ROCHA",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 4194,
+    "percentual": 52.57,
+    "situacao": "Eleito",
+    "sqcand": "80002190285",
+    "vice": "VALDEMAR LUIZ HORBELT COUTINHO",
+    "viceNomeUrna": "VAVÁ COUTINHO",
+    "partidoVice": "PSB",
+    "sqcandVice": "80002190286",
+    "coligacao": "PP / PDT / PRD / PSB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCELO FERREIRA LEPAUS",
+      "nomeUrna": "MARCELO LEPAUS",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 410,
+      "percentual": 5.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002189500"
+    },
+    {
+      "nome": "NELSON LICHTENHELD",
+      "nomeUrna": "NELSON DO SINDICATO",
+      "partido": "PSD",
+      "numero": "55500",
+      "votos": 390,
+      "percentual": 4.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002158116"
+    },
+    {
+      "nome": "FLAVIANO BARCELLOS FASSARELLA",
+      "nomeUrna": "FLAVIANO BARCELLOS",
+      "partido": "PODE",
+      "numero": "20456",
+      "votos": 383,
+      "percentual": 4.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002158855"
+    },
+    {
+      "nome": "MARCOS ADRIANO RAUTA",
+      "nomeUrna": "MARQUINHO RAUTA",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 373,
+      "percentual": 4.65,
+      "situacao": "Eleito por média",
+      "sqcand": "80002158861"
+    },
+    {
+      "nome": "VANISIO WALCHER HELMER",
+      "nomeUrna": "VANISIO DO POVO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 336,
+      "percentual": 4.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002189146"
+    },
+    {
+      "nome": "DARLEY JANSEN ESPINDULA",
+      "nomeUrna": "DARLEY ESPINDULA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 325,
+      "percentual": 4.05,
+      "situacao": "Eleito por média",
+      "sqcand": "80002189143"
+    },
+    {
+      "nome": "ROSIMAR JOSE LAHAS",
+      "nomeUrna": "ROSIMAR LAHAS",
+      "partido": "PDT",
+      "numero": "12555",
+      "votos": 281,
+      "percentual": 3.5,
+      "situacao": "Eleito por média",
+      "sqcand": "80002189498"
+    },
+    {
+      "nome": "SÉRGIO ANGELI LAGO",
+      "nomeUrna": "SERGIO LAGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 258,
+      "percentual": 3.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002343797"
+    },
+    {
+      "nome": "ROMI CARLOS FACCO MULLER",
+      "nomeUrna": "ROMI MULLER",
+      "partido": "REPUBLICANOS",
+      "numero": "10500",
+      "votos": 208,
+      "percentual": 2.59,
+      "situacao": "Eleito por média",
+      "sqcand": "80002343803"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 3461,
+      "percentual": 51.34,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2087,
+      "percentual": 30.96,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1094,
+      "percentual": 16.23,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RAFAEL FAVATTO GARCIA",
+      "nomeUrna": "DR RAFAEL FAVATTO",
+      "partido": "PATRIOTA",
+      "numero": "5151",
+      "votos": 902,
+      "percentual": 12.91,
+      "sqcand": "80001620359"
+    },
+    {
+      "nome": "HELDER IGNÁCIO SALOMÃO",
+      "nomeUrna": "HELDER SALOMÃO",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 499,
+      "percentual": 7.14,
+      "sqcand": "80001719429"
+    },
+    {
+      "nome": "GILSON DANIEL BATISTA",
+      "nomeUrna": "GILSON DANIEL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 489,
+      "percentual": 7.0,
+      "sqcand": "80001604734"
+    },
+    {
+      "nome": "MARCUS ANTÔNIO VICENTE",
+      "nomeUrna": "MARCUS VICENTE",
+      "partido": "PP",
+      "numero": "1145",
+      "votos": 436,
+      "percentual": 6.24,
+      "sqcand": "80001650194"
+    },
+    {
+      "nome": "GIVALDO VIEIRA DA SILVA",
+      "nomeUrna": "GIVALDO VIEIRA",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 418,
+      "percentual": 5.98,
+      "sqcand": "80001620974"
+    },
+    {
+      "nome": "PHILIPE ANDRE CORREIA LEMOS",
+      "nomeUrna": "PHILIPE LEMOS",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 356,
+      "percentual": 5.1,
+      "sqcand": "80001651994"
+    },
+    {
+      "nome": "GUSTAVO PEIXOTO SOARES MIGUEL",
+      "nomeUrna": "DR. GUSTAVO PEIXOTO",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 332,
+      "percentual": 4.75,
+      "sqcand": "80001610097"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADILSON ESPINDULA",
+      "nomeUrna": "ADILSON ESPINDULA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 1255,
+      "percentual": 18.36,
+      "sqcand": "80001720062"
+    },
+    {
+      "nome": "VANDERSON ALONSO LEITE",
+      "nomeUrna": "VANDINHO LEITE",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 620,
+      "percentual": 9.07,
+      "sqcand": "80001602777"
+    },
+    {
+      "nome": "JANETE SANTOS DE SA",
+      "nomeUrna": "JANETE DE SÁ",
+      "partido": "PSB",
+      "numero": "40800",
+      "votos": 335,
+      "percentual": 4.9,
+      "sqcand": "80001621165"
+    },
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 335,
+      "percentual": 4.9,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "LENISE MENEZES LOUREIRO",
+      "nomeUrna": "LENISE LOUREIRO",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 330,
+      "percentual": 4.83,
+      "sqcand": "80001602766"
+    },
+    {
+      "nome": "JOSE ESMERALDO DE FREITAS",
+      "nomeUrna": "JOSE ESMERALDO",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 314,
+      "percentual": 4.59,
+      "sqcand": "80001720058"
+    },
+    {
+      "nome": "BRUNO LAMAS SILVA",
+      "nomeUrna": "BRUNO LAMAS",
+      "partido": "PSB",
+      "numero": "40011",
+      "votos": 312,
+      "percentual": 4.56,
+      "sqcand": "80001621156"
+    }
+  ]
+}

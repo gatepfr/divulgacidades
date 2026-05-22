@@ -1,0 +1,271 @@
+{
+  "populacao": 7096,
+  "votosValidos": 5377,
+  "abstencao": 17.64,
+  "prefeito": {
+    "nome": "PAULO ROBERTO MARTINS",
+    "nomeUrna": "PAULO ROBERTO",
+    "partido": "PODE",
+    "numero": "20",
+    "votos": 2967,
+    "percentual": 55.18,
+    "situacao": "Eleito",
+    "sqcand": "250001983256",
+    "vice": "LEIA DO CARMO DA SILVA FILADELFO",
+    "viceNomeUrna": "LEIA",
+    "partidoVice": "PL",
+    "sqcandVice": "250001983257",
+    "coligacao": "PODE / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "JULIANO GABRIEL VENTURELLI",
+      "nomeUrna": "JULIANO ENFERMEIRO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 736,
+      "percentual": 13.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002327617"
+    },
+    {
+      "nome": "EMILIO DA SILVA BLASIO",
+      "nomeUrna": "EMILHÃO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 331,
+      "percentual": 6.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002323513"
+    },
+    {
+      "nome": "CICERO APARECIDO DE BARROS",
+      "nomeUrna": "CICINHO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 278,
+      "percentual": 5.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002327620"
+    },
+    {
+      "nome": "TIAGO APARECIDO BARREIROS",
+      "nomeUrna": "TIAGO BARREIROS",
+      "partido": "PODE",
+      "numero": "20200",
+      "votos": 266,
+      "percentual": 4.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002279053"
+    },
+    {
+      "nome": "RAFAEL PEREIRA DA SILVA",
+      "nomeUrna": "RAFAEL TCHACA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 246,
+      "percentual": 4.47,
+      "situacao": "Eleito por média",
+      "sqcand": "250002327619"
+    },
+    {
+      "nome": "EDIVALDO PELEGRINI",
+      "nomeUrna": "EDIVALDO PELEGRINI",
+      "partido": "UNIÃO",
+      "numero": "44855",
+      "votos": 224,
+      "percentual": 4.07,
+      "situacao": "Eleito por média",
+      "sqcand": "250002327616"
+    },
+    {
+      "nome": "MARCELINA PEREIRA DE MORAES",
+      "nomeUrna": "MARCELINA MOTORISTA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 222,
+      "percentual": 4.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002323512"
+    },
+    {
+      "nome": "LEANDRO FRANCISCO SAMPAIO",
+      "nomeUrna": "LEANDRO SAMPAIO CABELEIREIRO",
+      "partido": "PODE",
+      "numero": "20300",
+      "votos": 211,
+      "percentual": 3.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002279056"
+    },
+    {
+      "nome": "EDILSON GALDINO PEREIRA",
+      "nomeUrna": "DILSINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 201,
+      "percentual": 3.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002333144"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2755,
+      "percentual": 60.55,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1310,
+      "percentual": 28.79,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 373,
+      "percentual": 8.2,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 567,
+      "percentual": 11.51,
+      "sqcand": "250001611345"
+    },
+    {
+      "nome": "JOÃO CURY NETO",
+      "nomeUrna": "JOÃO CURY",
+      "partido": "MDB",
+      "numero": "1550",
+      "votos": 535,
+      "percentual": 10.86,
+      "sqcand": "250001611240"
+    },
+    {
+      "nome": "RODRIGO GAMBALE VIEIRA",
+      "nomeUrna": "RODRIGO GAMBALE",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 250,
+      "percentual": 5.07,
+      "sqcand": "250001610316"
+    },
+    {
+      "nome": "GILBERTO NASCIMENTO SILVA",
+      "nomeUrna": "GILBERTO NASCIMENTO",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 236,
+      "percentual": 4.79,
+      "sqcand": "250001643871"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 216,
+      "percentual": 4.38,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "RICARDO IZAR JUNIOR",
+      "nomeUrna": "RICARDO IZAR",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 213,
+      "percentual": 4.32,
+      "sqcand": "250001611892"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 191,
+      "percentual": 3.88,
+      "sqcand": "250001612102"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "HELIO DONIZETE ZANATTA",
+      "nomeUrna": "HELINHO ZANATTA",
+      "partido": "PSC",
+      "numero": "20123",
+      "votos": 1776,
+      "percentual": 37.73,
+      "sqcand": "250001643762"
+    },
+    {
+      "nome": "RICARDO ROSSI MADALENA",
+      "nomeUrna": "RICARDO MADALENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 586,
+      "percentual": 12.45,
+      "sqcand": "250001610138"
+    },
+    {
+      "nome": "THIAGO REIS AURICCHIO",
+      "nomeUrna": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "numero": "22343",
+      "votos": 277,
+      "percentual": 5.88,
+      "sqcand": "250001610134"
+    },
+    {
+      "nome": "FÁBIO FARIAS DE SÁ",
+      "nomeUrna": "FARIA DE SÁ",
+      "partido": "PODE",
+      "numero": "19252",
+      "votos": 217,
+      "percentual": 4.61,
+      "sqcand": "250001610536"
+    },
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 180,
+      "percentual": 3.82,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "EDSON MUNIS",
+      "nomeUrna": "POLICIAL SKATISTA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77177",
+      "votos": 115,
+      "percentual": 2.44,
+      "sqcand": "250001606232"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 66,
+      "percentual": 1.4,
+      "sqcand": "250001611797"
+    }
+  ]
+}

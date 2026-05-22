@@ -1,0 +1,271 @@
+{
+  "populacao": 11256,
+  "votosValidos": 7692,
+  "abstencao": 29.14,
+  "prefeito": {
+    "nome": "LUCIO MARQUES DE MORAIS",
+    "nomeUrna": "DOUTOR LUCIO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 4622,
+    "percentual": 60.09,
+    "situacao": "Eleito",
+    "sqcand": "80002234704",
+    "vice": "GERALDO MAGELO XAVIER",
+    "viceNomeUrna": "GERALDINHO",
+    "partidoVice": "PP",
+    "sqcandVice": "80002234705",
+    "coligacao": "CIDADANIA / PSDB / PP / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MARTIM JÚNIOR TAVARES",
+      "nomeUrna": "MARTIM DO LAIRINHO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 787,
+      "percentual": 10.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002235183"
+    },
+    {
+      "nome": "LEONARDO REIS MARQUES",
+      "nomeUrna": "LEO DO TICO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 557,
+      "percentual": 7.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002302611"
+    },
+    {
+      "nome": "EUZENI BORGES SOARES KER",
+      "nomeUrna": "ELZA KER",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 519,
+      "percentual": 6.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002263824"
+    },
+    {
+      "nome": "JOSÉ PRATA FILHO",
+      "nomeUrna": "ZÉ MELIM",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 408,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002302606"
+    },
+    {
+      "nome": "ANA PAULA DE OLIVEIRA",
+      "nomeUrna": "ANA PAULA",
+      "partido": "MDB",
+      "numero": "15231",
+      "votos": 384,
+      "percentual": 4.96,
+      "situacao": "Eleito por média",
+      "sqcand": "80002302605"
+    },
+    {
+      "nome": "DENILSON PAIZANTE DA SILVA",
+      "nomeUrna": "DENILSON PAIZANTE",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 332,
+      "percentual": 4.29,
+      "situacao": "Eleito por média",
+      "sqcand": "80002263823"
+    },
+    {
+      "nome": "VALTER NUNES CABRAL",
+      "nomeUrna": "VALTINHO",
+      "partido": "PT",
+      "numero": "13322",
+      "votos": 272,
+      "percentual": 3.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "80002170873"
+    },
+    {
+      "nome": "JOSÉ GOMES PIRES",
+      "nomeUrna": "ZÉ MANTENA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 246,
+      "percentual": 3.18,
+      "situacao": "Eleito por média",
+      "sqcand": "80002235180"
+    },
+    {
+      "nome": "GINAS CARLOS FLORENCIO FERREIRA",
+      "nomeUrna": "GINA PROFESSORA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 227,
+      "percentual": 2.93,
+      "situacao": "Eleito por média",
+      "sqcand": "80002170868"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROSILDA DE FREITAS",
+      "nomeUrna": "ROSE DE FREITAS",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 3801,
+      "percentual": 57.92,
+      "sqcand": "80001720737"
+    },
+    {
+      "nome": "MAGNO PEREIRA MALTA",
+      "nomeUrna": "MAGNO MALTA",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2534,
+      "percentual": 38.61,
+      "sqcand": "80001720164"
+    },
+    {
+      "nome": "ERICK CABRAL MUSSO",
+      "nomeUrna": "ERICK MUSSO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 156,
+      "percentual": 2.38,
+      "sqcand": "80001654081"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RENZO DE VASCONCELOS",
+      "nomeUrna": "RENZO VASCONCELOS",
+      "partido": "PSC",
+      "numero": "2023",
+      "votos": 1311,
+      "percentual": 19.43,
+      "sqcand": "80001615362"
+    },
+    {
+      "nome": "GIVALDO VIEIRA DA SILVA",
+      "nomeUrna": "GIVALDO VIEIRA",
+      "partido": "PSB",
+      "numero": "4020",
+      "votos": 1241,
+      "percentual": 18.4,
+      "sqcand": "80001620974"
+    },
+    {
+      "nome": "JOSIAS MARIO DA VITÓRIA",
+      "nomeUrna": "DA VITÓRIA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1190,
+      "percentual": 17.64,
+      "sqcand": "80001650200"
+    },
+    {
+      "nome": "NEUCIMAR FERREIRA FRAGA",
+      "nomeUrna": "NEUCIMAR FRAGA",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 599,
+      "percentual": 8.88,
+      "sqcand": "80001650197"
+    },
+    {
+      "nome": "LAURIETE RODRIGUES DE JESUS",
+      "nomeUrna": "LAURIETE",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 578,
+      "percentual": 8.57,
+      "sqcand": "80001615363"
+    },
+    {
+      "nome": "EVAIR VIEIRA DE MELO",
+      "nomeUrna": "EVAIR DE MELO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 361,
+      "percentual": 5.35,
+      "sqcand": "80001650199"
+    },
+    {
+      "nome": "HELDER IGNÁCIO SALOMÃO",
+      "nomeUrna": "HELDER SALOMÃO",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 228,
+      "percentual": 3.38,
+      "sqcand": "80001719429"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VANDERSON ALONSO LEITE",
+      "nomeUrna": "VANDINHO LEITE",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 1901,
+      "percentual": 29.61,
+      "sqcand": "80001602777"
+    },
+    {
+      "nome": "ALEXANDRE MARCELO COUTINHO SANTOS",
+      "nomeUrna": "MARCELO SANTOS",
+      "partido": "PODE",
+      "numero": "19123",
+      "votos": 813,
+      "percentual": 12.66,
+      "sqcand": "80001609613"
+    },
+    {
+      "nome": "EDMAR LORENCINI DOS ANJOS",
+      "nomeUrna": "MAZINHO DOS ANJOS",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 682,
+      "percentual": 10.62,
+      "sqcand": "80001602763"
+    },
+    {
+      "nome": "GUSTAVO VIANA LACERDA",
+      "nomeUrna": "GUSTAVO LACERDA",
+      "partido": "PSC",
+      "numero": "20020",
+      "votos": 620,
+      "percentual": 9.66,
+      "sqcand": "80001645497"
+    },
+    {
+      "nome": "SERGIO MENEGUELLI",
+      "nomeUrna": "SERGIO MENEGUELLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 449,
+      "percentual": 6.99,
+      "sqcand": "80001604474"
+    },
+    {
+      "nome": "JULIO CEZAR MENDEL",
+      "nomeUrna": "JULIO DA FETAES",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 198,
+      "percentual": 3.08,
+      "sqcand": "80001719704"
+    },
+    {
+      "nome": "JOÃO CARLOS COSER",
+      "nomeUrna": "JOÃO COSER",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 181,
+      "percentual": 2.82,
+      "sqcand": "80001719711"
+    }
+  ]
+}

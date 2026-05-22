@@ -1,0 +1,271 @@
+{
+  "populacao": 5402,
+  "votosValidos": 4505,
+  "abstencao": 13.88,
+  "prefeito": {
+    "nome": "MARIA ANTONIETA DE ARAUJO ALMEIDA",
+    "nomeUrna": "MARIA ANTONIETA",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2476,
+    "percentual": 54.96,
+    "situacao": "Eleito",
+    "sqcand": "160002357718",
+    "vice": "HELIO OSMAR COSTA",
+    "viceNomeUrna": "HELIO COSTA",
+    "partidoVice": "PL",
+    "sqcandVice": "160002357717",
+    "coligacao": "PSD / PP / CIDADANIA / PSDB / PL / PRD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "JURANDIR JOSE BARBIERI",
+      "nomeUrna": "JURANDIR DICA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 244,
+      "percentual": 5.39,
+      "situacao": "Eleito por média",
+      "sqcand": "160002333114"
+    },
+    {
+      "nome": "FERNANDO MATEUS SANTOS DA ROSA",
+      "nomeUrna": "MATEUS DO CHOPIM",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 228,
+      "percentual": 5.03,
+      "situacao": "Eleito por média",
+      "sqcand": "160002201735"
+    },
+    {
+      "nome": "VALDIR CASTANHA",
+      "nomeUrna": "PROF CASTANHA",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 203,
+      "percentual": 4.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002374316"
+    },
+    {
+      "nome": "NARA MELO LEÃO",
+      "nomeUrna": "PROFESSORA NARA LEÃO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 190,
+      "percentual": 4.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002257328"
+    },
+    {
+      "nome": "ANDERSON IRACI GUIMARÃES",
+      "nomeUrna": "PROF ANDERSON",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 180,
+      "percentual": 3.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002374315"
+    },
+    {
+      "nome": "DANIELE DE OLIVEIRA",
+      "nomeUrna": "DANI DA VILA",
+      "partido": "PT",
+      "numero": "13678",
+      "votos": 179,
+      "percentual": 3.95,
+      "situacao": "Eleito por média",
+      "sqcand": "160002374586"
+    },
+    {
+      "nome": "JOSÉ BERNARDINO DE JESUS",
+      "nomeUrna": "DÉ",
+      "partido": "PL",
+      "numero": "22567",
+      "votos": 135,
+      "percentual": 2.98,
+      "situacao": "Eleito por média",
+      "sqcand": "160002257332"
+    },
+    {
+      "nome": "JOANILSON TAQUES",
+      "nomeUrna": "BRILHANTE",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 121,
+      "percentual": 2.67,
+      "situacao": "Eleito por média",
+      "sqcand": "160002374445"
+    },
+    {
+      "nome": "CLEONICE FRANCA SILVEIRA DOS SANTOS",
+      "nomeUrna": "CLEONICE PRETA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 97,
+      "percentual": 2.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002375584"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 979,
+      "percentual": 28.41,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "CLEUSA ROSANE RIBAS FERREIRA",
+      "nomeUrna": "ROSANE FERREIRA",
+      "partido": "PV",
+      "numero": "433",
+      "votos": 951,
+      "percentual": 27.6,
+      "sqcand": "160001615117"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 732,
+      "percentual": 21.24,
+      "sqcand": "160001621868"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 700,
+      "percentual": 19.36,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "PAULO HENRIQUE COLETTI FERNANDES",
+      "nomeUrna": "PAULO LITRO",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 643,
+      "percentual": 17.78,
+      "sqcand": "160001622301"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 383,
+      "percentual": 10.59,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 322,
+      "percentual": 8.9,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "nomeUrna": "GIACOBO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 281,
+      "percentual": 7.77,
+      "sqcand": "160001622024"
+    },
+    {
+      "nome": "LEANDRE DAL PONTE",
+      "nomeUrna": "LEANDRE",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 229,
+      "percentual": 6.33,
+      "sqcand": "160001622296"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 176,
+      "percentual": 4.87,
+      "sqcand": "160001614512"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ FERNANDO GUERRA FILHO",
+      "nomeUrna": "LUIZ FERNANDO GUERRA",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 447,
+      "percentual": 13.17,
+      "sqcand": "160001716035"
+    },
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 432,
+      "percentual": 12.72,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "ADAO FERNANDES DA SILVA",
+      "nomeUrna": "ADAO FERNANDES LITRO",
+      "partido": "PSD",
+      "numero": "55125",
+      "votos": 391,
+      "percentual": 11.52,
+      "sqcand": "160001739397"
+    },
+    {
+      "nome": "LUCIANA GUZELLA RAFAGNIN",
+      "nomeUrna": "LUCIANA RAFAGNIN",
+      "partido": "PT",
+      "numero": "13233",
+      "votos": 341,
+      "percentual": 10.04,
+      "sqcand": "160001615035"
+    },
+    {
+      "nome": "RODRIGO KOHL RIBEIRO",
+      "nomeUrna": "PEDAGOGO RODRIGO JOÃO PIMENTA",
+      "partido": "PODE",
+      "numero": "19070",
+      "votos": 230,
+      "percentual": 6.77,
+      "sqcand": "160001622235"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 227,
+      "percentual": 6.69,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "MATHEUS VELOSO MARIA",
+      "nomeUrna": "MATHEUS VERMELHO",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 180,
+      "percentual": 5.3,
+      "sqcand": "160001603347"
+    }
+  ]
+}

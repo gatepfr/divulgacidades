@@ -1,0 +1,371 @@
+{
+  "populacao": 99396,
+  "votosValidos": 82276,
+  "abstencao": 12.59,
+  "prefeito": {
+    "nome": "FELIPE SOUZA PINHEIRO",
+    "nomeUrna": "FELIPE PINHEIRO",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 56361,
+    "percentual": 68.5,
+    "situacao": "Eleito",
+    "sqcand": "60002008804",
+    "vice": "ANA PAULA BRAGA VERAS",
+    "viceNomeUrna": "PAULINHA BRAGA",
+    "partidoVice": "PSB",
+    "sqcandVice": "60002008805",
+    "coligacao": "REPUBLICANOS / PP / PDT / MDB / PSB / SOLIDARIEDADE / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ANTONIO SIVANILDO TEIXEIRA DA MOTA",
+      "nomeUrna": "NILDO TEIXEIRA",
+      "partido": "PT",
+      "numero": "13100",
+      "votos": 4469,
+      "percentual": 5.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009290"
+    },
+    {
+      "nome": "JOSE ITAMAR MARQUES ARAUJO",
+      "nomeUrna": "ITAMAR MARQUES",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 3449,
+      "percentual": 4.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009751"
+    },
+    {
+      "nome": "LARISSA JOSELLE BRAGA TEIXEIRA",
+      "nomeUrna": "LARISSA TEIXEIRA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 3395,
+      "percentual": 4.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009742"
+    },
+    {
+      "nome": "PEDRO DE SOUSA FERREIRA NETO",
+      "nomeUrna": "PROFESSOR PEDRO NETO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 3005,
+      "percentual": 3.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009745"
+    },
+    {
+      "nome": "JOSAFA TEIXEIRA DE CASTRO FILHO",
+      "nomeUrna": "JOSA FILHO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 3000,
+      "percentual": 3.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009289"
+    },
+    {
+      "nome": "FRANCISCO ALBERTO SOARES DA MOTA",
+      "nomeUrna": "FRANCISCO ALBERTO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 2970,
+      "percentual": 3.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009749"
+    },
+    {
+      "nome": "LUIS CARLOS FONTOURA GOES",
+      "nomeUrna": "LUIS CARLOS GOES",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 2790,
+      "percentual": 3.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009757"
+    },
+    {
+      "nome": "JOSE EUCARIO BRAGA",
+      "nomeUrna": "EUCARIO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 2632,
+      "percentual": 3.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009741"
+    },
+    {
+      "nome": "CARLOS ANTONIO ARAUJO PIRES",
+      "nomeUrna": "PROFESSOR CARLOS PIRES",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 2602,
+      "percentual": 3.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009291"
+    },
+    {
+      "nome": "ADAMS AMARAL DE CASTRO",
+      "nomeUrna": "ADAMS DE CASTRO",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 2479,
+      "percentual": 2.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009748"
+    },
+    {
+      "nome": "JOSÉ CARLOS FERREIRA ROGÉRIO",
+      "nomeUrna": "ZÉ CARLOS DO ARAPARI",
+      "partido": "PT",
+      "numero": "13033",
+      "votos": 2455,
+      "percentual": 2.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009297"
+    },
+    {
+      "nome": "EZIO DE SOUZA SAMPAIO",
+      "nomeUrna": "EZIO SAMPAIO",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 2424,
+      "percentual": 2.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009756"
+    },
+    {
+      "nome": "ANTÔNIO ALVES MATIAS",
+      "nomeUrna": "PROFESSOR ANTÔNIO ALVES",
+      "partido": "MDB",
+      "numero": "15345",
+      "votos": 2397,
+      "percentual": 2.84,
+      "situacao": "Eleito por média",
+      "sqcand": "60002009750"
+    },
+    {
+      "nome": "FRANCISCO ALAN DINIZ ALENCAR",
+      "nomeUrna": "ALAN DINIZ",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 2237,
+      "percentual": 2.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009292"
+    },
+    {
+      "nome": "MARCOS ANTONIO MOREIRA XAVIER",
+      "nomeUrna": "MARCOS XAVIER",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1897,
+      "percentual": 2.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002009281"
+    },
+    {
+      "nome": "RAIMUNDO DO NASCIMENTO BARBOSA",
+      "nomeUrna": "PROFESSOR RAIMUNDO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 1725,
+      "percentual": 2.05,
+      "situacao": "Eleito por média",
+      "sqcand": "60002009294"
+    },
+    {
+      "nome": "MATHEUS BRAGA BARBOSA",
+      "nomeUrna": "MATHEUS BRAGA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 1570,
+      "percentual": 1.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002181103"
+    },
+    {
+      "nome": "PEDRO SILVA DO NASCIMENTO",
+      "nomeUrna": "PEDRO SILVA",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 1504,
+      "percentual": 1.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002036831"
+    },
+    {
+      "nome": "RENAN BARROSO MONTENEGRO",
+      "nomeUrna": "RENAN BARROSO",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 1256,
+      "percentual": 1.49,
+      "situacao": "Eleito por média",
+      "sqcand": "60002036832"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 56960,
+      "percentual": 79.19,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 14008,
+      "percentual": 19.48,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 958,
+      "percentual": 1.33,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "EUNÍCIO LOPES DE OLIVEIRA",
+      "nomeUrna": "EUNÍCIO",
+      "partido": "MDB",
+      "numero": "1533",
+      "votos": 21012,
+      "percentual": 29.33,
+      "sqcand": "60001643110"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 6571,
+      "percentual": 9.17,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "MARCOS ROBÉRIO RIBEIRO MONTEIRO",
+      "nomeUrna": "ROBÉRIO MONTEIRO",
+      "partido": "PDT",
+      "numero": "1233",
+      "votos": 5941,
+      "percentual": 8.29,
+      "sqcand": "60001603485"
+    },
+    {
+      "nome": "FRANCISCO DANILO BASTOS FORTE",
+      "nomeUrna": "DANILO FORTE",
+      "partido": "UNIÃO",
+      "numero": "4447",
+      "votos": 3449,
+      "percentual": 4.81,
+      "sqcand": "60001608893"
+    },
+    {
+      "nome": "MOSES HAENDEL MELO RODRIGUES",
+      "nomeUrna": "MOSES RODRIGUES",
+      "partido": "UNIÃO",
+      "numero": "4488",
+      "votos": 3158,
+      "percentual": 4.41,
+      "sqcand": "60001608894"
+    },
+    {
+      "nome": "JOSE AIRTON FELIX CIRILO DA SILVA",
+      "nomeUrna": "JOSE AIRTON",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 3064,
+      "percentual": 4.28,
+      "sqcand": "60001619120"
+    },
+    {
+      "nome": "FERNANDA ENEIDA PESSOA CARACAS DE SOUZA",
+      "nomeUrna": "FERNANDA PESSOA",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 2477,
+      "percentual": 3.46,
+      "sqcand": "60001608882"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EVANDRO SÁ BARRETO LEITÃO",
+      "nomeUrna": "EVANDRO LEITÃO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 22708,
+      "percentual": 32.97,
+      "sqcand": "60001603535"
+    },
+    {
+      "nome": "AGENOR GOMES DE ARAUJO NETO",
+      "nomeUrna": "AGENOR NETO",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 5753,
+      "percentual": 8.35,
+      "sqcand": "60001635809"
+    },
+    {
+      "nome": "MICHELE TEIXEIRA XAVIER",
+      "nomeUrna": "MICHELE PACHECO",
+      "partido": "PSD",
+      "numero": "55600",
+      "votos": 4578,
+      "percentual": 6.65,
+      "sqcand": "60001613537"
+    },
+    {
+      "nome": "ELVILO ARAUJO DE OLIVEIRA",
+      "nomeUrna": "GORDIM ARAUJO",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 2975,
+      "percentual": 4.32,
+      "sqcand": "60001723713"
+    },
+    {
+      "nome": "OSCAR SPINDOLA RODRIGUES JUNIOR",
+      "nomeUrna": "DR. OSCAR RODRIGUES",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 2684,
+      "percentual": 3.9,
+      "sqcand": "60001608929"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS DINIZ",
+      "nomeUrna": "DE ASSIS DINIZ",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 2614,
+      "percentual": 3.8,
+      "sqcand": "60001633671"
+    },
+    {
+      "nome": "ANTONIO PINHEIRO GRANJA",
+      "nomeUrna": "ANTONIO GRANJA",
+      "partido": "PDT",
+      "numero": "12100",
+      "votos": 2563,
+      "percentual": 3.72,
+      "sqcand": "60001603541"
+    }
+  ]
+}

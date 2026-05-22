@@ -1,0 +1,271 @@
+{
+  "populacao": 16527,
+  "votosValidos": 13552,
+  "abstencao": 14.58,
+  "prefeito": {
+    "nome": "ALCEU TREVIZANI DA ROSA",
+    "nomeUrna": "ALCEU",
+    "partido": "PRD",
+    "numero": "25",
+    "votos": 7065,
+    "percentual": 52.13,
+    "situacao": "Eleito",
+    "sqcand": "210002126208",
+    "vice": "ARTHUR HENRIQUE KLEIN",
+    "viceNomeUrna": "ARTHUR KLEIN",
+    "partidoVice": "PSDB",
+    "sqcandVice": "210002126209",
+    "coligacao": "CIDADANIA / PSDB / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "LUAN SAMUEL CARDOSO DA SILVA",
+      "nomeUrna": "LUAN CARDOSO",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 923,
+      "percentual": 6.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187418"
+    },
+    {
+      "nome": "ELCIO RICARDO REICHERT",
+      "nomeUrna": "ELCIO REICHERT",
+      "partido": "MDB",
+      "numero": "15640",
+      "votos": 752,
+      "percentual": 5.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002252957"
+    },
+    {
+      "nome": "ELTON PEDRO ARNHOLD",
+      "nomeUrna": "ELTON ARNHOLD",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 734,
+      "percentual": 5.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002252953"
+    },
+    {
+      "nome": "LUCIANO ALTNETER",
+      "nomeUrna": "NICO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 664,
+      "percentual": 4.89,
+      "situacao": "Eleito por média",
+      "sqcand": "210002252951"
+    },
+    {
+      "nome": "GUSTAVO LUIZ MADRUGA DA ROSA",
+      "nomeUrna": "PROF GUSTAVO",
+      "partido": "PSDB",
+      "numero": "45610",
+      "votos": 638,
+      "percentual": 4.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002190901"
+    },
+    {
+      "nome": "JOSE RICARDO GONCALVES",
+      "nomeUrna": "RICARDINHO DA SAUDE",
+      "partido": "PP",
+      "numero": "11112",
+      "votos": 637,
+      "percentual": 4.69,
+      "situacao": "Eleito por média",
+      "sqcand": "210002187410"
+    },
+    {
+      "nome": "EDERSON FAGUNDES",
+      "nomeUrna": "EDINHO DO ROLANTINHO",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 614,
+      "percentual": 4.52,
+      "situacao": "Eleito por média",
+      "sqcand": "210002190900"
+    },
+    {
+      "nome": "VALDIR DE OLIVEIRA",
+      "nomeUrna": "VALDIR OLIVEIRA",
+      "partido": "PRD",
+      "numero": "25111",
+      "votos": 601,
+      "percentual": 4.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002189081"
+    },
+    {
+      "nome": "VALDEMIR GOMES GONCALVES",
+      "nomeUrna": "NECO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 584,
+      "percentual": 4.3,
+      "situacao": "Eleito por média",
+      "sqcand": "210002187409"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 6117,
+      "percentual": 51.66,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 3503,
+      "percentual": 29.58,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1948,
+      "percentual": 16.45,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DALCISO EBERHARDT DE OLIVEIRA",
+      "nomeUrna": "DALCISO OLIVEIRA",
+      "partido": "PSB",
+      "numero": "4040",
+      "votos": 1410,
+      "percentual": 11.58,
+      "sqcand": "210001597001"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 1119,
+      "percentual": 9.19,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 920,
+      "percentual": 7.56,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 733,
+      "percentual": 6.02,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 641,
+      "percentual": 5.27,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 624,
+      "percentual": 5.13,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 566,
+      "percentual": 4.65,
+      "sqcand": "210001647867"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOEL LEANDRO WILHELM",
+      "nomeUrna": "JOEL DE IGREJINHA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1554,
+      "percentual": 13.31,
+      "sqcand": "210001647191"
+    },
+    {
+      "nome": "TITO LIVIO JAEGER FILHO",
+      "nomeUrna": "TITINHO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 802,
+      "percentual": 6.87,
+      "sqcand": "210001601926"
+    },
+    {
+      "nome": "JEFFERSON ALLAN MULLER",
+      "nomeUrna": "JEFF MULLER",
+      "partido": "PSB",
+      "numero": "40400",
+      "votos": 774,
+      "percentual": 6.63,
+      "sqcand": "210001602901"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 703,
+      "percentual": 6.02,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "MÔNICA JULIANA FACIO",
+      "nomeUrna": "MÔNICA",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 615,
+      "percentual": 5.27,
+      "sqcand": "210001610634"
+    },
+    {
+      "nome": "RODRIGO LORENZINI ZUCCO",
+      "nomeUrna": "DELEGADO ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 541,
+      "percentual": 4.63,
+      "sqcand": "210001601638"
+    },
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 489,
+      "percentual": 4.19,
+      "sqcand": "210001647995"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 3649,
+  "votosValidos": 3143,
+  "abstencao": 8.3,
+  "prefeito": {
+    "nome": "GENILSON MEDEIROS MAIA",
+    "nomeUrna": "GENILSON MAIA",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 2007,
+    "percentual": 63.86,
+    "situacao": "Eleito",
+    "sqcand": "200001995821",
+    "vice": "ISAAC ALEXANDRE DOS SANTOS",
+    "viceNomeUrna": "ISAAC ALEXANDRE",
+    "partidoVice": "PT",
+    "sqcandVice": "200001995822",
+    "coligacao": "PC do B / PT / PV / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "MISAEL BRUNO DE ARAÚJO SILVA",
+      "nomeUrna": "BRUNO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 476,
+      "percentual": 14.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002161558"
+    },
+    {
+      "nome": "WELLINGTHON NIVAN DE MEDEIROS",
+      "nomeUrna": "WELLINGTHON",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 429,
+      "percentual": 13.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002161556"
+    },
+    {
+      "nome": "FERNANDA LINS DE MEDEIROS MAIA",
+      "nomeUrna": "FERNANDA LINS",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 423,
+      "percentual": 13.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002161555"
+    },
+    {
+      "nome": "JOSÉ DINOVAN DE ARAÚJO",
+      "nomeUrna": "DINOVAN",
+      "partido": "UNIÃO",
+      "numero": "44999",
+      "votos": 311,
+      "percentual": 9.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002161559"
+    },
+    {
+      "nome": "DIONÍSIO EULÂMPIO DOS SANTOS NETO",
+      "nomeUrna": "DIONISIO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 285,
+      "percentual": 8.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002161561"
+    },
+    {
+      "nome": "FRANCISCO DAS CHAGAS MEDEIROS",
+      "nomeUrna": "CHAGAS",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 275,
+      "percentual": 8.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002192982"
+    },
+    {
+      "nome": "IANNE BRILHANTE DE ARAÚJO",
+      "nomeUrna": "IANNE BRILHANTE",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 246,
+      "percentual": 7.64,
+      "situacao": "Eleito por média",
+      "sqcand": "200002192980"
+    },
+    {
+      "nome": "RUBINALDO DANTAS",
+      "nomeUrna": "RUBINALDO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 232,
+      "percentual": 7.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002161560"
+    },
+    {
+      "nome": "JUBSON SIMOES",
+      "nomeUrna": "BOY",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 183,
+      "percentual": 5.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002161557"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1444,
+      "percentual": 54.18,
+      "sqcand": "200001612334"
+    },
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 850,
+      "percentual": 31.89,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 354,
+      "percentual": 13.28,
+      "sqcand": "200001638556"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "INÁCIO BRILHANTE DE ARAÚJO FILHO",
+      "nomeUrna": "MAJOR BRILHANTE",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 1024,
+      "percentual": 36.57,
+      "sqcand": "200001600545"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 540,
+      "percentual": 19.29,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 362,
+      "percentual": 12.93,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO",
+      "nomeUrna": "BETO ROSADO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 194,
+      "percentual": 6.93,
+      "sqcand": "200001600544"
+    },
+    {
+      "nome": "ROBINSON MESQUITA DE FARIA",
+      "nomeUrna": "ROBINSON FARIA",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 117,
+      "percentual": 4.18,
+      "sqcand": "200001603001"
+    },
+    {
+      "nome": "MARA REJANE SALDANHA DA COSTA",
+      "nomeUrna": "MARA COSTA",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 116,
+      "percentual": 4.14,
+      "sqcand": "200001600539"
+    },
+    {
+      "nome": "JAIME CALADO PEREIRA DOS SANTOS",
+      "nomeUrna": "JAIME CALADO",
+      "partido": "REPUBLICANOS",
+      "numero": "1088",
+      "votos": 100,
+      "percentual": 3.57,
+      "sqcand": "200001603376"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TEREZINHA MAIA DE MEDEIROS",
+      "nomeUrna": "TEREZINHA MAIA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 1657,
+      "percentual": 59.75,
+      "sqcand": "200001604694"
+    },
+    {
+      "nome": "VIVALDO SILVINO DA COSTA",
+      "nomeUrna": "VIVALDO COSTA",
+      "partido": "PV",
+      "numero": "43222",
+      "votos": 270,
+      "percentual": 9.74,
+      "sqcand": "200001603633"
+    },
+    {
+      "nome": "ADJUTO DIAS DE ARAUJO NETO",
+      "nomeUrna": "ADJUTO DIAS",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 219,
+      "percentual": 7.9,
+      "sqcand": "200001653268"
+    },
+    {
+      "nome": "ANDRÉ LUIZ VIEIRA DE AZEVEDO",
+      "nomeUrna": "CORONEL AZEVEDO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 142,
+      "percentual": 5.12,
+      "sqcand": "200001604696"
+    },
+    {
+      "nome": "NELTER LULA DE QUEIROZ SANTOS",
+      "nomeUrna": "NELTER QUEIROZ",
+      "partido": "PSDB",
+      "numero": "45122",
+      "votos": 117,
+      "percentual": 4.22,
+      "sqcand": "200001606001"
+    },
+    {
+      "nome": "ARIANA MAIA SALDANHA",
+      "nomeUrna": "LILIA SALDANHA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77421",
+      "votos": 67,
+      "percentual": 2.42,
+      "sqcand": "200001604201"
+    },
+    {
+      "nome": "FRANCISCO ASSIS DE MEDEIROS",
+      "nomeUrna": "FRANCISCO DO PT",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 49,
+      "percentual": 1.77,
+      "sqcand": "200001603618"
+    }
+  ]
+}

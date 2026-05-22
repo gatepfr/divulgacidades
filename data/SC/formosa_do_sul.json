@@ -1,0 +1,271 @@
+{
+  "populacao": 2664,
+  "votosValidos": 2499,
+  "abstencao": 5.29,
+  "prefeito": {
+    "nome": "DOVALDO PALMORIO",
+    "nomeUrna": "DOVALDO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1286,
+    "percentual": 51.46,
+    "situacao": "Eleito",
+    "sqcand": "240001945422",
+    "vice": "CLEBER JOSE VIAN",
+    "viceNomeUrna": "CLEBER VIAN",
+    "partidoVice": "PL",
+    "sqcandVice": "240001945423",
+    "coligacao": "MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "VILSO CASAGRANDA",
+      "nomeUrna": "VILSO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 251,
+      "percentual": 10.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001987148"
+    },
+    {
+      "nome": "FERNANDO VINICIO CELLA",
+      "nomeUrna": "FERNANDO CELLA",
+      "partido": "PP",
+      "numero": "11610",
+      "votos": 164,
+      "percentual": 6.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002169036"
+    },
+    {
+      "nome": "ARIBERTO BORSOI",
+      "nomeUrna": "ARIBERTO BORSOI",
+      "partido": "CIDADANIA",
+      "numero": "23456",
+      "votos": 160,
+      "percentual": 6.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002168391"
+    },
+    {
+      "nome": "AIMAR EBERLE BIANCHETTI",
+      "nomeUrna": "AIMAR BIANCHETTI",
+      "partido": "PP",
+      "numero": "11660",
+      "votos": 154,
+      "percentual": 6.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002169044"
+    },
+    {
+      "nome": "JANILSON SZCZEPANSKI",
+      "nomeUrna": "JANILSON SZCZEPANSKI",
+      "partido": "PT",
+      "numero": "13313",
+      "votos": 132,
+      "percentual": 5.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002167858"
+    },
+    {
+      "nome": "ANGELO ROBERTO ZATTERA",
+      "nomeUrna": "ANGELO",
+      "partido": "MDB",
+      "numero": "15680",
+      "votos": 106,
+      "percentual": 4.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001987149"
+    },
+    {
+      "nome": "FRANCISCO ALBERTO COZER",
+      "nomeUrna": "FRANCISCO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 99,
+      "percentual": 3.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001987156"
+    },
+    {
+      "nome": "MOACIR MALACARNE",
+      "nomeUrna": "MOACIR",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 98,
+      "percentual": 3.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001970230"
+    },
+    {
+      "nome": "MAURO JOSE MIGLIAVACA",
+      "nomeUrna": "MAURO MIGLIAVACA",
+      "partido": "PP",
+      "numero": "11650",
+      "votos": 95,
+      "percentual": 3.82,
+      "situacao": "Eleito por média",
+      "sqcand": "240002169039"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 661,
+      "percentual": 38.19,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 398,
+      "percentual": 22.99,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 273,
+      "percentual": 15.77,
+      "sqcand": "240001611131"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 595,
+      "percentual": 33.04,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "LEANDRO SORGATO",
+      "nomeUrna": "SORGATTO",
+      "partido": "MDB",
+      "numero": "1544",
+      "votos": 258,
+      "percentual": 14.33,
+      "sqcand": "240001602680"
+    },
+    {
+      "nome": "VALDIR COLATTO",
+      "nomeUrna": "VALDIR COLATTO",
+      "partido": "PL",
+      "numero": "2216",
+      "votos": 108,
+      "percentual": 6.0,
+      "sqcand": "240001610966"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 105,
+      "percentual": 5.83,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 105,
+      "percentual": 5.83,
+      "sqcand": "240001611938"
+    },
+    {
+      "nome": "VALDIR VITAL COBALCHINI",
+      "nomeUrna": "COBALCHINI",
+      "partido": "MDB",
+      "numero": "1560",
+      "votos": 101,
+      "percentual": 5.61,
+      "sqcand": "240001602679"
+    },
+    {
+      "nome": "JAYANA NICARETTA DA SILVA",
+      "nomeUrna": "JAY",
+      "partido": "PP",
+      "numero": "1121",
+      "votos": 93,
+      "percentual": 5.16,
+      "sqcand": "240001644886"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALTAIR DA SILVA",
+      "nomeUrna": "ALTAIR SILVA",
+      "partido": "PP",
+      "numero": "11130",
+      "votos": 339,
+      "percentual": 19.43,
+      "sqcand": "240001644767"
+    },
+    {
+      "nome": "MAURO DE NADAL",
+      "nomeUrna": "MAURO DE NADAL",
+      "partido": "MDB",
+      "numero": "15220",
+      "votos": 321,
+      "percentual": 18.4,
+      "sqcand": "240001605913"
+    },
+    {
+      "nome": "LUCIANE MARIA CARMINATTI",
+      "nomeUrna": "LUCIANE CARMINATTI",
+      "partido": "PT",
+      "numero": "13601",
+      "votos": 314,
+      "percentual": 17.99,
+      "sqcand": "240001679643"
+    },
+    {
+      "nome": "FABIANO DA LUZ",
+      "nomeUrna": "FABIANO DA LUZ",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 120,
+      "percentual": 6.88,
+      "sqcand": "240001679627"
+    },
+    {
+      "nome": "DIRCEU LUIZ DRESCH",
+      "nomeUrna": "DIRCEU DRESCH",
+      "partido": "PT",
+      "numero": "13450",
+      "votos": 107,
+      "percentual": 6.13,
+      "sqcand": "240001679641"
+    },
+    {
+      "nome": "NEODI SARETTA",
+      "nomeUrna": "NEODI SARETTA",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 64,
+      "percentual": 3.67,
+      "sqcand": "240001679646"
+    },
+    {
+      "nome": "LEILA DIONE SCHAEFFER CONCI",
+      "nomeUrna": "LEILA CONCI",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 43,
+      "percentual": 2.46,
+      "sqcand": "240001605912"
+    }
+  ]
+}

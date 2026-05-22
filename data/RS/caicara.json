@@ -1,0 +1,271 @@
+{
+  "populacao": 4380,
+  "votosValidos": 3820,
+  "abstencao": 11.0,
+  "prefeito": {
+    "nome": "ZÍLIO ROGGIA",
+    "nomeUrna": "ZÍLIO ROGGIA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1748,
+    "percentual": 45.76,
+    "situacao": "Eleito",
+    "sqcand": "210002016829",
+    "vice": "DIRCEU BISOGNIN",
+    "viceNomeUrna": "BISOGNIN",
+    "partidoVice": "PL",
+    "sqcandVice": "210002301157",
+    "coligacao": "CIDADANIA / PSDB / MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSANETE STEFANELLO",
+      "nomeUrna": "PROFESSORA JOSANETE",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 342,
+      "percentual": 8.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002344912"
+    },
+    {
+      "nome": "ADENILSON DA ROSA",
+      "nomeUrna": "DECO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 286,
+      "percentual": 7.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002344916"
+    },
+    {
+      "nome": "VALDEMAR ANGELO FRIZON",
+      "nomeUrna": "VALDEMAR FRIZON",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 273,
+      "percentual": 7.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002345432"
+    },
+    {
+      "nome": "OLIVO FRANCISCO BONATTI",
+      "nomeUrna": "OLIVO BONATTI",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 249,
+      "percentual": 6.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002270976"
+    },
+    {
+      "nome": "ANA PAULA STEFANELLO ROGGIA",
+      "nomeUrna": "ANA PAULA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 221,
+      "percentual": 5.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002160211"
+    },
+    {
+      "nome": "MARCOS VENICIUS VEDANA",
+      "nomeUrna": "MARCOS VEDANA",
+      "partido": "MDB",
+      "numero": "15510",
+      "votos": 182,
+      "percentual": 4.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002160210"
+    },
+    {
+      "nome": "JORGE LUIZ RUVIARO",
+      "nomeUrna": "JORGE RUVIARO",
+      "partido": "PDT",
+      "numero": "12688",
+      "votos": 152,
+      "percentual": 3.96,
+      "situacao": "Eleito por média",
+      "sqcand": "210002344914"
+    },
+    {
+      "nome": "CLÁUDIO LUIZ GHESTI",
+      "nomeUrna": "CLÁUDIO GHESTI",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 128,
+      "percentual": 3.34,
+      "situacao": "Eleito por média",
+      "sqcand": "210002160215"
+    },
+    {
+      "nome": "VALDIR MORAES",
+      "nomeUrna": "VALDIR MORAES",
+      "partido": "PP",
+      "numero": "11110",
+      "votos": 120,
+      "percentual": 3.13,
+      "situacao": "Eleito por média",
+      "sqcand": "210002345433"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1351,
+      "percentual": 42.5,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1187,
+      "percentual": 37.34,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 550,
+      "percentual": 17.3,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 399,
+      "percentual": 12.0,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "JORGE ALAN SOUZA",
+      "nomeUrna": "DR. JORGE ALAN",
+      "partido": "PSDB",
+      "numero": "4566",
+      "votos": 376,
+      "percentual": 11.31,
+      "sqcand": "210001620063"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 355,
+      "percentual": 10.68,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 349,
+      "percentual": 10.5,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 287,
+      "percentual": 8.63,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 249,
+      "percentual": 7.49,
+      "sqcand": "210001621256"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 237,
+      "percentual": 7.13,
+      "sqcand": "210001648591"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 459,
+      "percentual": 14.65,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 330,
+      "percentual": 10.53,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 269,
+      "percentual": 8.59,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "RICARDO HENRIQUE FAVIN",
+      "nomeUrna": "RICARDO FAVIN",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 246,
+      "percentual": 7.85,
+      "sqcand": "210001620192"
+    },
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 201,
+      "percentual": 6.42,
+      "sqcand": "210001621320"
+    },
+    {
+      "nome": "RODRIGO MARQUES LORENZONI",
+      "nomeUrna": "RODRIGO LORENZONI",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 136,
+      "percentual": 4.34,
+      "sqcand": "210001648942"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 132,
+      "percentual": 4.21,
+      "sqcand": "210001621326"
+    }
+  ]
+}

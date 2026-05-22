@@ -1,0 +1,271 @@
+{
+  "populacao": 10461,
+  "votosValidos": 7555,
+  "abstencao": 24.68,
+  "prefeito": {
+    "nome": "DARTAGNAN CALIXTO FRAIZ",
+    "nomeUrna": "DARTAGNAN",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 4112,
+    "percentual": 54.43,
+    "situacao": "Eleito",
+    "sqcand": "160002064318",
+    "vice": "RODRIGO LANINI BORGES",
+    "viceNomeUrna": "RODRIGO POWER POINT",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002379823",
+    "coligacao": "PP / PL / PRD / SOLIDARIEDADE / PSD / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "EDUARDO DA CRUZ RIBEIRO",
+      "nomeUrna": "EDUARDO RIBEIRO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 471,
+      "percentual": 6.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002064423"
+    },
+    {
+      "nome": "MARCOS ANTONIO TIMOTEO",
+      "nomeUrna": "MARQUINHO DA VILA",
+      "partido": "PL",
+      "numero": "22580",
+      "votos": 398,
+      "percentual": 5.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002064116"
+    },
+    {
+      "nome": "ISRAEL BARCELOS DE REZENDE",
+      "nomeUrna": "RAÉ DA AMBULÂNCIA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 328,
+      "percentual": 4.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001951521"
+    },
+    {
+      "nome": "MARCO LUCIANO RIBEIRO LEITE",
+      "nomeUrna": "GATO SECO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 321,
+      "percentual": 4.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001951375"
+    },
+    {
+      "nome": "AROLDO FERREIRA LEITE",
+      "nomeUrna": "AROLDO  MATERIAL DE CONSTRUÇÃO",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 292,
+      "percentual": 3.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002064156"
+    },
+    {
+      "nome": "BRUNO DE PAULA OLIVEIRA",
+      "nomeUrna": "PROFESSOR BRUNO",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 258,
+      "percentual": 3.41,
+      "situacao": "Eleito por média",
+      "sqcand": "160002064111"
+    },
+    {
+      "nome": "WILSON ANTUNES",
+      "nomeUrna": "WILSON DA TRIOLÂNDIA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77888",
+      "votos": 254,
+      "percentual": 3.36,
+      "situacao": "Eleito por média",
+      "sqcand": "160002064418"
+    },
+    {
+      "nome": "CARINE BADARO DA SILVEIRA PINTO UTIDA",
+      "nomeUrna": "CARINE ENFERMEIRA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 249,
+      "percentual": 3.29,
+      "situacao": "Eleito por média",
+      "sqcand": "160001951374"
+    },
+    {
+      "nome": "REINALDO TIMOTEO DA SILVA",
+      "nomeUrna": "TUNI",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 231,
+      "percentual": 3.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002064325"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 2273,
+      "percentual": 34.11,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1750,
+      "percentual": 26.26,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "CLEUSA ROSANE RIBAS FERREIRA",
+      "nomeUrna": "ROSANE FERREIRA",
+      "partido": "PV",
+      "numero": "433",
+      "votos": 1230,
+      "percentual": 18.46,
+      "sqcand": "160001615117"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 890,
+      "percentual": 12.73,
+      "sqcand": "160001614525"
+    },
+    {
+      "nome": "ANTONIO WANDSCHEER",
+      "nomeUrna": "TONINHO WANDSCHEER",
+      "partido": "PROS",
+      "numero": "9090",
+      "votos": 809,
+      "percentual": 11.57,
+      "sqcand": "160001621909"
+    },
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 805,
+      "percentual": 11.51,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "NELSON FERNANDO PADOVANI",
+      "nomeUrna": "PADOVANI",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 728,
+      "percentual": 10.41,
+      "sqcand": "160001654666"
+    },
+    {
+      "nome": "EVANDRO ROGERIO ROMAN",
+      "nomeUrna": "ROMAN",
+      "partido": "PP",
+      "numero": "1177",
+      "votos": 426,
+      "percentual": 6.09,
+      "sqcand": "160001603293"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 288,
+      "percentual": 4.12,
+      "sqcand": "160001622297"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 264,
+      "percentual": 3.78,
+      "sqcand": "160001614512"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "BRUNO DE PAULA OLIVEIRA",
+      "nomeUrna": "PROFESSOR BRUNO",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 922,
+      "percentual": 13.59,
+      "sqcand": "160001603330"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 859,
+      "percentual": 12.66,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "JOSÉ TIAGO CAMARGO DO AMARAL",
+      "nomeUrna": "TIAGO AMARAL",
+      "partido": "PSD",
+      "numero": "55155",
+      "votos": 577,
+      "percentual": 8.51,
+      "sqcand": "160001623115"
+    },
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 531,
+      "percentual": 7.83,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "ÁLEFE MATEUS DE OLIVEIRA",
+      "nomeUrna": "ÁLEFE OLIVEIRA E COLETIVO",
+      "partido": "PSOL",
+      "numero": "50222",
+      "votos": 527,
+      "percentual": 7.77,
+      "sqcand": "160001622699"
+    },
+    {
+      "nome": "TERCILIO LUIZ TURINI",
+      "nomeUrna": "TERCILIO TURINI",
+      "partido": "PSD",
+      "numero": "55043",
+      "votos": 446,
+      "percentual": 6.57,
+      "sqcand": "160001623105"
+    },
+    {
+      "nome": "ALISSON ANTHONY WANDSCHEER",
+      "nomeUrna": "ALISSON WANDSCHEER",
+      "partido": "PROS",
+      "numero": "90000",
+      "votos": 341,
+      "percentual": 5.03,
+      "sqcand": "160001622180"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 5273,
+  "votosValidos": 4459,
+  "abstencao": 13.09,
+  "prefeito": {
+    "nome": "OBERDAN LUIS RHODEN",
+    "nomeUrna": "OBERDAN RHODEN",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3387,
+    "percentual": 75.96,
+    "situacao": "Eleito",
+    "sqcand": "210001957195",
+    "vice": "ROQUE ENGROFF",
+    "viceNomeUrna": "ROQUE ENGROFF",
+    "partidoVice": "MDB",
+    "sqcandVice": "210001957194",
+    "coligacao": "PP / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ILMO HENZ",
+      "nomeUrna": "ILMO HENZ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 618,
+      "percentual": 13.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001956392"
+    },
+    {
+      "nome": "MARIA REGINA BUTZEN",
+      "nomeUrna": "REGINA BUTZEN",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 402,
+      "percentual": 8.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001956395"
+    },
+    {
+      "nome": "LEONICE MARIA ROCKENBACH BUTZEN",
+      "nomeUrna": "LEONICE BUTZEN",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 387,
+      "percentual": 8.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001956952"
+    },
+    {
+      "nome": "THALISSON VENZKE",
+      "nomeUrna": "THALISSON VENZKE",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 360,
+      "percentual": 8.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001956953"
+    },
+    {
+      "nome": "CRISTIANE MARSCHALL",
+      "nomeUrna": "CRISTIANE MARCHALL",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 342,
+      "percentual": 7.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001956951"
+    },
+    {
+      "nome": "JULIANE RUWER",
+      "nomeUrna": "JULIANE RUWER",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 315,
+      "percentual": 7.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001956954"
+    },
+    {
+      "nome": "ERICO JOSÉ RAUBER KRACKEKER",
+      "nomeUrna": "ERICO KRACKEKER",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 289,
+      "percentual": 6.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001956391"
+    },
+    {
+      "nome": "VILSON JOSÉ RUWER MÜLLER",
+      "nomeUrna": "VILSON MÜLLER",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 270,
+      "percentual": 6.01,
+      "situacao": "Eleito por média",
+      "sqcand": "210001956394"
+    },
+    {
+      "nome": "TALISSA MAIARA KOTZ LERMEN",
+      "nomeUrna": "TALISSA LERMEN",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 239,
+      "percentual": 5.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002364084"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1713,
+      "percentual": 44.39,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1665,
+      "percentual": 43.15,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 439,
+      "percentual": 11.38,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 639,
+      "percentual": 15.89,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 418,
+      "percentual": 10.39,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "LUCIANO PALMA DE AZEVEDO",
+      "nomeUrna": "LUCIANO AZEVEDO",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 376,
+      "percentual": 9.35,
+      "sqcand": "210001613993"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 318,
+      "percentual": 7.91,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 286,
+      "percentual": 7.11,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "UBIRATAN ANTUNES SANDERSON",
+      "nomeUrna": "SANDERSON",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 248,
+      "percentual": 6.17,
+      "sqcand": "210001648581"
+    },
+    {
+      "nome": "CARLOS ALBERTO BENEDETTI",
+      "nomeUrna": "DR BENEDETTI",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 211,
+      "percentual": 5.25,
+      "sqcand": "210001601594"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 663,
+      "percentual": 17.06,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 436,
+      "percentual": 11.22,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "NIVIO BOELTER BRAZ",
+      "nomeUrna": "NIVIO BRAZ POLICIAL FEDERAL",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 310,
+      "percentual": 7.98,
+      "sqcand": "210001648949"
+    },
+    {
+      "nome": "RAFAEL BRAGA LIBRELOTTO",
+      "nomeUrna": "RAFAEL BRAGA LIBRELOTTO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 304,
+      "percentual": 7.82,
+      "sqcand": "210001648002"
+    },
+    {
+      "nome": "LUIZ FERNANDO MAINARDI",
+      "nomeUrna": "MAINARDI",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 256,
+      "percentual": 6.59,
+      "sqcand": "210001610629"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 242,
+      "percentual": 6.23,
+      "sqcand": "210001621326"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 154,
+      "percentual": 3.96,
+      "sqcand": "210001647164"
+    }
+  ]
+}

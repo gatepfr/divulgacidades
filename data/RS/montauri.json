@@ -1,0 +1,271 @@
+{
+  "populacao": 1543,
+  "votosValidos": 1430,
+  "abstencao": 5.31,
+  "prefeito": {
+    "nome": "NELCIR STEFENON",
+    "nomeUrna": "NELCIR STEFENON",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 757,
+    "percentual": 52.94,
+    "situacao": "Eleito",
+    "sqcand": "210002061413",
+    "vice": "EMANUELE DE VILLA",
+    "viceNomeUrna": "EMANUELE",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002061412",
+    "coligacao": "PDT / UNIÃO / MDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ADILAR FAVARETTO",
+      "nomeUrna": "ADILAR FAVARETTO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 136,
+      "percentual": 9.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002359094"
+    },
+    {
+      "nome": "VOLMIR CESAR MACHADO",
+      "nomeUrna": "VOLMIR",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 121,
+      "percentual": 8.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002147457"
+    },
+    {
+      "nome": "ANDRE MORESCHI",
+      "nomeUrna": "ANDRE MORESCHI",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 120,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002059671"
+    },
+    {
+      "nome": "RAFAEL CUMIN",
+      "nomeUrna": "RAFA CUMIN",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 120,
+      "percentual": 8.35,
+      "situacao": "Eleito por média",
+      "sqcand": "210002359092"
+    },
+    {
+      "nome": "VANDERLEI DE BONA",
+      "nomeUrna": "VANDERLEI BODÃO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 115,
+      "percentual": 8.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002147455"
+    },
+    {
+      "nome": "DIOGO FIORAVANSO NARDI",
+      "nomeUrna": "DIOGO FIORAVANSO NARDI",
+      "partido": "PL",
+      "numero": "22369",
+      "votos": 109,
+      "percentual": 7.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002146132"
+    },
+    {
+      "nome": "JOÃO PAULO SPADA",
+      "nomeUrna": "JOÃO PAULO SPADA",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 105,
+      "percentual": 7.31,
+      "situacao": "Eleito por média",
+      "sqcand": "210002059670"
+    },
+    {
+      "nome": "LUIZ ANTONIO CANOSSA",
+      "nomeUrna": "LUIZ",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 102,
+      "percentual": 7.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002147468"
+    },
+    {
+      "nome": "LEDIMAR JOSÉ SOCCOL",
+      "nomeUrna": "LEDI SOCCOL",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 85,
+      "percentual": 5.92,
+      "situacao": "Eleito por média",
+      "sqcand": "210002362539"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 613,
+      "percentual": 58.38,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 233,
+      "percentual": 22.19,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 198,
+      "percentual": 18.86,
+      "sqcand": "210001619906"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 199,
+      "percentual": 17.8,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 138,
+      "percentual": 12.34,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 106,
+      "percentual": 9.48,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 79,
+      "percentual": 7.07,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 71,
+      "percentual": 6.35,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "LAERCIO ZANCAN",
+      "nomeUrna": "LAÉRCIO ZANCAN - LALÁ",
+      "partido": "PSB",
+      "numero": "4003",
+      "votos": 59,
+      "percentual": 5.28,
+      "sqcand": "210001596982"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 55,
+      "percentual": 4.92,
+      "sqcand": "210001596984"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 517,
+      "percentual": 47.0,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "ANTONIO VALDECI OLIVEIRA DE OLIVEIRA",
+      "nomeUrna": "VALDECI OLIVEIRA",
+      "partido": "PT",
+      "numero": "13713",
+      "votos": 61,
+      "percentual": 5.55,
+      "sqcand": "210001610599"
+    },
+    {
+      "nome": "GUILHERME RECH PASIN",
+      "nomeUrna": "GUILHERME PASIN",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 56,
+      "percentual": 5.09,
+      "sqcand": "210001647169"
+    },
+    {
+      "nome": "MATEUS JOSE DE LIMA WESP",
+      "nomeUrna": "MATEUS WESP",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 49,
+      "percentual": 4.45,
+      "sqcand": "210001620219"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 45,
+      "percentual": 4.09,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "GILMAR SOSSELLA",
+      "nomeUrna": "SOSSELLA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 39,
+      "percentual": 3.55,
+      "sqcand": "210001621287"
+    },
+    {
+      "nome": "ARLINDO ANTONIO LOPES",
+      "nomeUrna": "ARLINDO LOPES",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 33,
+      "percentual": 3.0,
+      "sqcand": "210001647974"
+    }
+  ]
+}

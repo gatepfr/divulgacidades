@@ -1,0 +1,271 @@
+{
+  "populacao": 6722,
+  "votosValidos": 5092,
+  "abstencao": 21.69,
+  "prefeito": {
+    "nome": "CLEONE LIMA RIBEIRO",
+    "nomeUrna": "CLEONE LIMA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2265,
+    "percentual": 44.48,
+    "situacao": "Eleito",
+    "sqcand": "220002072870",
+    "vice": "JOÃO GERALDO FERREIRA",
+    "viceNomeUrna": "JOÃO CUMPRIDO",
+    "partidoVice": "CIDADANIA",
+    "sqcandVice": "220002072871",
+    "coligacao": "MDB / UNIÃO / CIDADANIA / PSDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCIO PEREIRA INACIO",
+      "nomeUrna": "MARCIO DO VALE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 414,
+      "percentual": 8.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002165495"
+    },
+    {
+      "nome": "ROMILDO LEMOS DE MEIRA",
+      "nomeUrna": "ROMILDO LEMOS",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 261,
+      "percentual": 5.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002165498"
+    },
+    {
+      "nome": "ORLANDO DOMINGOS RUFINO",
+      "nomeUrna": "ORLANDO TROPEIRO",
+      "partido": "PP",
+      "numero": "11357",
+      "votos": 261,
+      "percentual": 5.06,
+      "situacao": "Eleito por média",
+      "sqcand": "220002165494"
+    },
+    {
+      "nome": "ROMARIO GERALDO FERREIRA",
+      "nomeUrna": "ROMÁRIO FILHO DA QUITÉRIA",
+      "partido": "CIDADANIA",
+      "numero": "23333",
+      "votos": 204,
+      "percentual": 3.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002206801"
+    },
+    {
+      "nome": "UELITON MACHADO DA SILVA",
+      "nomeUrna": "UELITON POLAQUINHO",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 193,
+      "percentual": 3.74,
+      "situacao": "Eleito por média",
+      "sqcand": "220002178967"
+    },
+    {
+      "nome": "JOZIMAR PACHECO DOS SANTOS",
+      "nomeUrna": "MAZIM DA AGRICULTURA",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 187,
+      "percentual": 3.63,
+      "situacao": "Eleito por média",
+      "sqcand": "220002149829"
+    },
+    {
+      "nome": "EVANDRO FERREIRA DA COSTA",
+      "nomeUrna": "EVANDRO DA SAÚDE",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 178,
+      "percentual": 3.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002149615"
+    },
+    {
+      "nome": "SANTA MAIA ZIMERMANN",
+      "nomeUrna": "SANTA DO POVO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 176,
+      "percentual": 3.41,
+      "situacao": "Eleito por média",
+      "sqcand": "220002149609"
+    },
+    {
+      "nome": "ARIZAI RIBEIRO DE QUEIROZ GUEDES",
+      "nomeUrna": "ARIZAI QUEIROZ",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 119,
+      "percentual": 2.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "220002013627"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIANA FONSECA RIBEIRO CARVALHO DE MORAES",
+      "nomeUrna": "MARIANA CARVALHO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1573,
+      "percentual": 36.08,
+      "sqcand": "220001614361"
+    },
+    {
+      "nome": "JAIME MAXIMINO BAGATTOLI",
+      "nomeUrna": "JAIME BAGATTOLI",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1491,
+      "percentual": 34.2,
+      "sqcand": "220001713729"
+    },
+    {
+      "nome": "DIRLAINE JAQUELINE CASSOL",
+      "nomeUrna": "JAQUELINE CASSOL",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 544,
+      "percentual": 12.48,
+      "sqcand": "220001609385"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUCIO ANTONIO MOSQUINI",
+      "nomeUrna": "LUCIO MOSQUINI",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 1528,
+      "percentual": 34.34,
+      "sqcand": "220001604140"
+    },
+    {
+      "nome": "SÍLVIA CRISTINA AMANCIO CHAGAS",
+      "nomeUrna": "SILVIA CRISTINA",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 797,
+      "percentual": 17.91,
+      "sqcand": "220001643593"
+    },
+    {
+      "nome": "FÁTIMA CLEIDE RODRIGUES DA SILVA",
+      "nomeUrna": "FÁTIMA CLEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 266,
+      "percentual": 5.98,
+      "sqcand": "220001612147"
+    },
+    {
+      "nome": "WIVESLANDO LEONARDO SOUZA NEIVA",
+      "nomeUrna": "WIVESLANDO NEIVA",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 177,
+      "percentual": 3.98,
+      "sqcand": "220001605557"
+    },
+    {
+      "nome": "JOSÉ POCIDÔNIO APARECIDO DA SILVA",
+      "nomeUrna": "PASTOR POCIDÔNIO",
+      "partido": "PSC",
+      "numero": "2033",
+      "votos": 150,
+      "percentual": 3.37,
+      "sqcand": "220001596866"
+    },
+    {
+      "nome": "THIAGO LEITE FLORES PEREIRA",
+      "nomeUrna": "THIAGO FLORES",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 143,
+      "percentual": 3.21,
+      "sqcand": "220001604141"
+    },
+    {
+      "nome": "JIDALIAS DOS ANJOS PINTO",
+      "nomeUrna": "TIZIU JIDALIAS",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 130,
+      "percentual": 2.92,
+      "sqcand": "220001604139"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ISEQUIEL NEIVA DE CARVALHO",
+      "nomeUrna": "EZEQUIEL NEIVA",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 614,
+      "percentual": 14.27,
+      "sqcand": "220001605542"
+    },
+    {
+      "nome": "LUIS EDUARDO SCHINCAGLIA",
+      "nomeUrna": "DR LUIS DO HOSPITAL",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 399,
+      "percentual": 9.27,
+      "sqcand": "220001609488"
+    },
+    {
+      "nome": "EZEQUIEL JUNIOR SANTOS DA COSTA",
+      "nomeUrna": "EZEQUIEL JUNIOR",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 376,
+      "percentual": 8.74,
+      "sqcand": "220001635549"
+    },
+    {
+      "nome": "ISMAEL CRISPIN DIAS",
+      "nomeUrna": "ISMAEL CRISPIN",
+      "partido": "PSB",
+      "numero": "40777",
+      "votos": 319,
+      "percentual": 7.41,
+      "sqcand": "220001614399"
+    },
+    {
+      "nome": "LAZARO APARECIDA DOBRI",
+      "nomeUrna": "LAZINHO DA FETAGRO",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 250,
+      "percentual": 5.81,
+      "sqcand": "220001614402"
+    },
+    {
+      "nome": "ALEX MENDONÇA ALVES",
+      "nomeUrna": "ALEX REDANO",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 206,
+      "percentual": 4.79,
+      "sqcand": "220001635562"
+    },
+    {
+      "nome": "CÁSSIA GOMES DOS SANTOS",
+      "nomeUrna": "CÁSSIA MULETA",
+      "partido": "PODE",
+      "numero": "19200",
+      "votos": 193,
+      "percentual": 4.49,
+      "sqcand": "220001713680"
+    }
+  ]
+}

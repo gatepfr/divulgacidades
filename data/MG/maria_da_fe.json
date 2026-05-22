@@ -1,0 +1,271 @@
+{
+  "populacao": 12285,
+  "votosValidos": 9200,
+  "abstencao": 19.75,
+  "prefeito": {
+    "nome": "ADILSON DOS SANTOS",
+    "nomeUrna": "ADILSON",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 5963,
+    "percentual": 64.82,
+    "situacao": "Eleito",
+    "sqcand": "130002253073",
+    "vice": "VALDECIR DA SILVA",
+    "viceNomeUrna": "BOY",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "130002253074",
+    "coligacao": "CIDADANIA / PSDB / PDT / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "ANA PAULA TORRES SANTOS",
+      "nomeUrna": "ANA PAULA",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 796,
+      "percentual": 8.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002288812"
+    },
+    {
+      "nome": "JOSÉ RICARDO BRITO",
+      "nomeUrna": "RICARDINHO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 462,
+      "percentual": 4.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002288808"
+    },
+    {
+      "nome": "RAFAEL RIBEIRO MARTINS",
+      "nomeUrna": "RAFAEL DO ARMAZÉM",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 454,
+      "percentual": 4.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002334514"
+    },
+    {
+      "nome": "HENRIQUE CÉZAR BERNARDES",
+      "nomeUrna": "HENRIQUE DA FARMÁCIA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 415,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002334606"
+    },
+    {
+      "nome": "ADILSON RODRIGUES DE SOUZA",
+      "nomeUrna": "ADILSON VÉIO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 414,
+      "percentual": 4.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002188837"
+    },
+    {
+      "nome": "PAULO SERGIO BATISTA RIBEIRO",
+      "nomeUrna": "PAULO MOTORISTA",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 360,
+      "percentual": 3.87,
+      "situacao": "Eleito por média",
+      "sqcand": "130002334508"
+    },
+    {
+      "nome": "JOÃO EVANGELISTA MARTINS",
+      "nomeUrna": "JOÃO TOTÓ",
+      "partido": "PSDB",
+      "numero": "45124",
+      "votos": 344,
+      "percentual": 3.7,
+      "situacao": "Eleito por média",
+      "sqcand": "130002334509"
+    },
+    {
+      "nome": "JOCIEL RIBEIRO DA FONSECA",
+      "nomeUrna": "CIEL DOS PINTOS",
+      "partido": "PDT",
+      "numero": "12115",
+      "votos": 281,
+      "percentual": 3.02,
+      "situacao": "Eleito por média",
+      "sqcand": "130002288814"
+    },
+    {
+      "nome": "GUSTAVO JOSÉ CUSTÓDIO DE ALMEIDA",
+      "nomeUrna": "GUSTAVO DO ESPORTE",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 272,
+      "percentual": 2.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002188532"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 3751,
+      "percentual": 44.07,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 3009,
+      "percentual": 35.35,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1625,
+      "percentual": 19.09,
+      "sqcand": "130001713762"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "BRAULIO JOSE TANUS BRAZ",
+      "nomeUrna": "BRAULIO BRAZ",
+      "partido": "PTB",
+      "numero": "1444",
+      "votos": 3663,
+      "percentual": 40.97,
+      "sqcand": "130001610899"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1319,
+      "percentual": 14.75,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "ODAIR JOSÉ DA CUNHA",
+      "nomeUrna": "ODAIR CUNHA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 804,
+      "percentual": 8.99,
+      "sqcand": "130001607254"
+    },
+    {
+      "nome": "DIMAS FABIANO TOLEDO JUNIOR",
+      "nomeUrna": "DIMAS FABIANO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 770,
+      "percentual": 8.61,
+      "sqcand": "130001615433"
+    },
+    {
+      "nome": "RAFAEL TADEU SIMÕES",
+      "nomeUrna": "RAFAEL SIMOES",
+      "partido": "UNIÃO",
+      "numero": "4445",
+      "votos": 440,
+      "percentual": 4.92,
+      "sqcand": "130001607619"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 156,
+      "percentual": 1.74,
+      "sqcand": "130001608227"
+    },
+    {
+      "nome": "EROS FERREIRA BIONDINI",
+      "nomeUrna": "EROS BIONDINI",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 134,
+      "percentual": 1.5,
+      "sqcand": "130001610990"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "THIAGO FELLIPE MOTTA COTA",
+      "nomeUrna": "THIAGO COTA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 3251,
+      "percentual": 38.04,
+      "sqcand": "130001606759"
+    },
+    {
+      "nome": "ULYSSES GOMES DE OLIVEIRA NETO",
+      "nomeUrna": "ULYSSES GOMES",
+      "partido": "PT",
+      "numero": "13077",
+      "votos": 1006,
+      "percentual": 11.77,
+      "sqcand": "130001607390"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 878,
+      "percentual": 10.27,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "ROBERTO GARCIA SORGI",
+      "nomeUrna": "DR. ROBERTO BOB",
+      "partido": "PSC",
+      "numero": "20222",
+      "votos": 689,
+      "percentual": 8.06,
+      "sqcand": "130001671889"
+    },
+    {
+      "nome": "DALMO ROBERTO RIBEIRO SILVA",
+      "nomeUrna": "DALMO RIBEIRO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 432,
+      "percentual": 5.05,
+      "sqcand": "130001613315"
+    },
+    {
+      "nome": "NACIB DUARTE BECHIR",
+      "nomeUrna": "DUARTE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 425,
+      "percentual": 4.97,
+      "sqcand": "130001604390"
+    },
+    {
+      "nome": "ALBERTO PINTO COELHO NETO",
+      "nomeUrna": "BETINHO PINTO COELHO ALBERTO",
+      "partido": "PV",
+      "numero": "43111",
+      "votos": 149,
+      "percentual": 1.74,
+      "sqcand": "130001607407"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 15169,
+  "votosValidos": 11425,
+  "abstencao": 21.75,
+  "prefeito": {
+    "nome": "RILDO EMANOEL LEONARDI",
+    "nomeUrna": "RILDO LEONARDI",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 6973,
+    "percentual": 61.03,
+    "situacao": "Eleito",
+    "sqcand": "160001968769",
+    "vice": "HELYNEZ IZABEL TAQUES SANTOS RIBAS",
+    "viceNomeUrna": "HELY",
+    "partidoVice": "PP",
+    "sqcandVice": "160001968768",
+    "coligacao": "CIDADANIA / PSDB / PP / MDB / UNIÃO / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "LILIAN LORENA SANTOS SCHERAIBER",
+      "nomeUrna": "LORENA ASSISTENTE SOCIAL",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 784,
+      "percentual": 6.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002237823"
+    },
+    {
+      "nome": "RENAN HENRIQUE DE ALMEIDA DE SOUZA",
+      "nomeUrna": "RENAN DE SOUZA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 625,
+      "percentual": 5.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002237824"
+    },
+    {
+      "nome": "MARILENE SERENATO",
+      "nomeUrna": "MANINHA",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 578,
+      "percentual": 5.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001968775"
+    },
+    {
+      "nome": "WILSON SILVA JUNIOR",
+      "nomeUrna": "ENFERMEIRO WILSON",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 548,
+      "percentual": 4.82,
+      "situacao": "Eleito por média",
+      "sqcand": "160002237822"
+    },
+    {
+      "nome": "DANIEL DOS SANTOS",
+      "nomeUrna": "DANIEL SABIÁ",
+      "partido": "UNIÃO",
+      "numero": "44100",
+      "votos": 500,
+      "percentual": 4.4,
+      "situacao": "Eleito por média",
+      "sqcand": "160002237825"
+    },
+    {
+      "nome": "RICARDO MENARIM DE LIMA",
+      "nomeUrna": "CABO MENARIM",
+      "partido": "UNIÃO",
+      "numero": "44190",
+      "votos": 344,
+      "percentual": 3.03,
+      "situacao": "Eleito por média",
+      "sqcand": "160002237821"
+    },
+    {
+      "nome": "ANTONIO BARBOSA QUADRA",
+      "nomeUrna": "TONICO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 341,
+      "percentual": 3.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002294233"
+    },
+    {
+      "nome": "ADRIANO LOPES",
+      "nomeUrna": "ADRIANO PASTOR",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 331,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "160002365132"
+    },
+    {
+      "nome": "VILSON DE LIMA",
+      "nomeUrna": "VILSON DE LIMA",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 327,
+      "percentual": 2.88,
+      "situacao": "Eleito por média",
+      "sqcand": "160001968774"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 3158,
+      "percentual": 32.78,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 2759,
+      "percentual": 28.64,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1233,
+      "percentual": 12.8,
+      "sqcand": "160001621868"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANGELA REGINA MERCER DE MELLO NASSER",
+      "nomeUrna": "ANGELA MERCER DE MELLO",
+      "partido": "PSD",
+      "numero": "5514",
+      "votos": 2021,
+      "percentual": 20.01,
+      "sqcand": "160001622287"
+    },
+    {
+      "nome": "GERALDO GABRIEL MENDES",
+      "nomeUrna": "GERALDO MENDES",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 1180,
+      "percentual": 11.68,
+      "sqcand": "160001654677"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 1049,
+      "percentual": 10.39,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "JOSELITO CANTO",
+      "nomeUrna": "JOCELITO CANTO",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 1041,
+      "percentual": 10.31,
+      "sqcand": "160001603733"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 817,
+      "percentual": 8.09,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 607,
+      "percentual": 6.01,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "PIERPAOLO PETRUZZIELLO",
+      "nomeUrna": "PIER",
+      "partido": "PP",
+      "numero": "1101",
+      "votos": 515,
+      "percentual": 5.1,
+      "sqcand": "160001603312"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 1807,
+      "percentual": 19.41,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "MABEL CORÁ CANTO",
+      "nomeUrna": "MABEL CANTO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 1307,
+      "percentual": 14.04,
+      "sqcand": "160001612405"
+    },
+    {
+      "nome": "PLAUTO MIRÓ GUIMARÃES FILHO",
+      "nomeUrna": "PLAUTO",
+      "partido": "UNIÃO",
+      "numero": "44110",
+      "votos": 1102,
+      "percentual": 11.84,
+      "sqcand": "160001716039"
+    },
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 694,
+      "percentual": 7.45,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "ARILSON MAROLDI CHIORATO",
+      "nomeUrna": "ARILSON CHIORATO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 563,
+      "percentual": 6.05,
+      "sqcand": "160001615010"
+    },
+    {
+      "nome": "MARCELO RANGEL CRUZ DE OLIVEIRA",
+      "nomeUrna": "MARCELO RANGEL",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 354,
+      "percentual": 3.8,
+      "sqcand": "160001623135"
+    },
+    {
+      "nome": "MAURICIO THADEU DE MELLO E SILVA",
+      "nomeUrna": "REQUIÃO FILHO",
+      "partido": "PT",
+      "numero": "13131",
+      "votos": 284,
+      "percentual": 3.05,
+      "sqcand": "160001615006"
+    }
+  ]
+}

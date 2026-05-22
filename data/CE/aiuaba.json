@@ -1,0 +1,271 @@
+{
+  "populacao": 11392,
+  "votosValidos": 9443,
+  "abstencao": 14.97,
+  "prefeito": {
+    "nome": "JOSE MORAES FEITOSA",
+    "nomeUrna": "NETO FEITOSA",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 5175,
+    "percentual": 54.8,
+    "situacao": "Eleito",
+    "sqcand": "60001982850",
+    "vice": "CHRISTIANO AZEVEDO FEITOSA FERRO",
+    "viceNomeUrna": "CRISTIANO FEITOSA",
+    "partidoVice": "PT",
+    "sqcandVice": "60001982849",
+    "coligacao": "PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ANGELLINY BRITO BASTOS FEITOSA",
+      "nomeUrna": "ANGELLINY",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 1032,
+      "percentual": 11.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002039144"
+    },
+    {
+      "nome": "JOÃO NERICE DE OLIVEIRA",
+      "nomeUrna": "JOÃO NERICE",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 789,
+      "percentual": 8.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002185913"
+    },
+    {
+      "nome": "EDUARDO ARAUJO ANDRADE",
+      "nomeUrna": "DUDU DO CLISANTO",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 780,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002039145"
+    },
+    {
+      "nome": "FRANCISCA CLEIDE PEREIRA DE MORAES",
+      "nomeUrna": "CLEIDE PEREIRA",
+      "partido": "PSD",
+      "numero": "55236",
+      "votos": 655,
+      "percentual": 7.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002185915"
+    },
+    {
+      "nome": "BENTO FEITOSA LEITE",
+      "nomeUrna": "BENTO FEITOSA",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 646,
+      "percentual": 6.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002185914"
+    },
+    {
+      "nome": "FRANCISCO RIGOBERTO DE SOUSA",
+      "nomeUrna": "RIGOBERTO",
+      "partido": "PSD",
+      "numero": "55567",
+      "votos": 566,
+      "percentual": 6.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002185907"
+    },
+    {
+      "nome": "GUSTAVO DE CASTRO ALENCAR NETO",
+      "nomeUrna": "GUSTAVO NETO",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 529,
+      "percentual": 5.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002185908"
+    },
+    {
+      "nome": "FRANCISCO JACILDO DE CASTRO FEITOSA",
+      "nomeUrna": "JACILDO",
+      "partido": "PT",
+      "numero": "13649",
+      "votos": 511,
+      "percentual": 5.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002039151"
+    },
+    {
+      "nome": "PATRICIA GONÇALO GRIMAUTH",
+      "nomeUrna": "PROFESSORA PATRICIA",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 466,
+      "percentual": 4.99,
+      "situacao": "Eleito por média",
+      "sqcand": "60002039147"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 6970,
+      "percentual": 92.07,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 500,
+      "percentual": 6.61,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 100,
+      "percentual": 1.32,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MATHEUS SOARES NORONHA",
+      "nomeUrna": "MATHEUS NORONHA",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 3973,
+      "percentual": 51.06,
+      "sqcand": "60001614168"
+    },
+    {
+      "nome": "DENIS ANDERSON DA ROCHA BEZERRA",
+      "nomeUrna": "DENIS BEZERRA",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 1098,
+      "percentual": 14.11,
+      "sqcand": "60001603454"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 373,
+      "percentual": 4.79,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "EDUARDO HENRIQUE MAIA BISMARCK",
+      "nomeUrna": "EDUARDO BISMARCK",
+      "partido": "PDT",
+      "numero": "1214",
+      "votos": 358,
+      "percentual": 4.6,
+      "sqcand": "60001603472"
+    },
+    {
+      "nome": "JOSE NOBRE GUIMARAES",
+      "nomeUrna": "GUIMARÃES DO PT",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 241,
+      "percentual": 3.1,
+      "sqcand": "60001619124"
+    },
+    {
+      "nome": "FRANCISCO DANILO BASTOS FORTE",
+      "nomeUrna": "DANILO FORTE",
+      "partido": "UNIÃO",
+      "numero": "4447",
+      "votos": 162,
+      "percentual": 2.08,
+      "sqcand": "60001608893"
+    },
+    {
+      "nome": "RONDINELLE PEREIRA DE FREITAS",
+      "nomeUrna": "NELINHO",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 162,
+      "percentual": 2.08,
+      "sqcand": "60001643127"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GABRIELLA PEQUENO COSTA GOMES DE AGUIAR",
+      "nomeUrna": "GABRIELLA AGUIAR",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 3826,
+      "percentual": 52.65,
+      "sqcand": "60001613538"
+    },
+    {
+      "nome": "AUDIC CAVALCANTE MOTA DIAS",
+      "nomeUrna": "AUDIC MOTA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 1226,
+      "percentual": 16.87,
+      "sqcand": "60001635804"
+    },
+    {
+      "nome": "JULIANA DE HOLANDA LUCENA RODRIGUES",
+      "nomeUrna": "JULIANA LUCENA",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 380,
+      "percentual": 5.23,
+      "sqcand": "60001633675"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS DINIZ",
+      "nomeUrna": "DE ASSIS DINIZ",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 150,
+      "percentual": 2.06,
+      "sqcand": "60001633671"
+    },
+    {
+      "nome": "DAVID NEY GONÇALVES DE MACÊDO",
+      "nomeUrna": "DAVI DE RAIMUNDÃO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 127,
+      "percentual": 1.75,
+      "sqcand": "60001635812"
+    },
+    {
+      "nome": "FRANCISCO LEITÃO MOURA",
+      "nomeUrna": "DOUTOR LEITÃO",
+      "partido": "CIDADANIA",
+      "numero": "23333",
+      "votos": 123,
+      "percentual": 1.69,
+      "sqcand": "60001723726"
+    },
+    {
+      "nome": "GUILHERME DE FIGUEIREDO SAMPAIO",
+      "nomeUrna": "GUILHERME SAMPAIO",
+      "partido": "PT",
+      "numero": "13234",
+      "votos": 99,
+      "percentual": 1.36,
+      "sqcand": "60001633635"
+    }
+  ]
+}

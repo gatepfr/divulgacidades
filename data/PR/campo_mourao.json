@@ -1,0 +1,311 @@
+{
+  "populacao": 70825,
+  "votosValidos": 51384,
+  "abstencao": 23.23,
+  "prefeito": {
+    "nome": "JOÃO DOUGLAS FABRÍCIO",
+    "nomeUrna": "DOUGLAS FABRÍCIO",
+    "partido": "CIDADANIA",
+    "numero": "23",
+    "votos": 27781,
+    "percentual": 54.07,
+    "situacao": "Eleito",
+    "sqcand": "160001988515",
+    "vice": "MARIA DE FÁTIMA CLARO NUNES",
+    "viceNomeUrna": "FÁTIMA NUNES",
+    "partidoVice": "PSD",
+    "sqcandVice": "160001988516",
+    "coligacao": "REPUBLICANOS / MDB / PSD / PDT / AVANTE / CIDADANIA / PSDB / PRD / UNIÃO / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCIO TOSHIYKI KANEDA MORAES",
+      "nomeUrna": "MARCIO MORAES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 2352,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001969162"
+    },
+    {
+      "nome": "JADIR SOARES",
+      "nomeUrna": "JADIR SOARES (PEPITA)",
+      "partido": "CIDADANIA",
+      "numero": "23100",
+      "votos": 1688,
+      "percentual": 3.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001956168"
+    },
+    {
+      "nome": "EDILSON VEDOVATTI MARTINS",
+      "nomeUrna": "EDILSON MARTINS",
+      "partido": "CIDADANIA",
+      "numero": "23123",
+      "votos": 1685,
+      "percentual": 3.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001956165"
+    },
+    {
+      "nome": "DEVANILDO PARMA BASSI",
+      "nomeUrna": "ESCRIVÃO PARMA",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 1523,
+      "percentual": 2.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001969165"
+    },
+    {
+      "nome": "ELVIRA MARIA SCHEN LIMA",
+      "nomeUrna": "ELVIRA LIMA",
+      "partido": "CIDADANIA",
+      "numero": "23400",
+      "votos": 1497,
+      "percentual": 2.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001956162"
+    },
+    {
+      "nome": "SIDNEI DE SOUZA JARDIM",
+      "nomeUrna": "SIDNEI JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "23405",
+      "votos": 1276,
+      "percentual": 2.48,
+      "situacao": "Eleito por média",
+      "sqcand": "160001956169"
+    },
+    {
+      "nome": "GERALDO AUGUSTO FOLTRAN TEIXEIRA",
+      "nomeUrna": "PROFESSOR GERALDO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 1214,
+      "percentual": 2.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001969429"
+    },
+    {
+      "nome": "HELIO GONÇALVES",
+      "nomeUrna": "HELIO HG",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 1007,
+      "percentual": 1.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001969406"
+    },
+    {
+      "nome": "MARCIO BERBET",
+      "nomeUrna": "MARCIO BERBET",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1005,
+      "percentual": 1.96,
+      "situacao": "Eleito por média",
+      "sqcand": "160001969156"
+    },
+    {
+      "nome": "ELIANE REGINA DA SILVA",
+      "nomeUrna": "ELIANE DO CAFE",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 950,
+      "percentual": 1.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002160413"
+    },
+    {
+      "nome": "CLAUDEMIR MACEDO DE SOUZA",
+      "nomeUrna": "SUBTENENTE MACEDO",
+      "partido": "PRD",
+      "numero": "25190",
+      "votos": 760,
+      "percentual": 1.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001969473"
+    },
+    {
+      "nome": "AMILTON GOMES DE SOUZA",
+      "nomeUrna": "MILTINHO CIDADE NOVA",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 605,
+      "percentual": 1.18,
+      "situacao": "Eleito por média",
+      "sqcand": "160001969414"
+    },
+    {
+      "nome": "JORGE PEREIRA DOS SANTOS",
+      "nomeUrna": "JORGE PEREIRA",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 500,
+      "percentual": 0.97,
+      "situacao": "Eleito por média",
+      "sqcand": "160001969463"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 16514,
+      "percentual": 33.8,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 15214,
+      "percentual": 31.14,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 11635,
+      "percentual": 23.82,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARIA DE FÁTIMA CLARO NUNES",
+      "nomeUrna": "FATIMA NUNES",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 12444,
+      "percentual": 24.98,
+      "sqcand": "160001622284"
+    },
+    {
+      "nome": "RUBENS BUENO",
+      "nomeUrna": "RUBENS BUENO",
+      "partido": "CIDADANIA",
+      "numero": "2300",
+      "votos": 11853,
+      "percentual": 23.79,
+      "sqcand": "160001603722"
+    },
+    {
+      "nome": "GILSON CARDOSO FAHUR",
+      "nomeUrna": "SARGENTO FAHUR",
+      "partido": "PSD",
+      "numero": "5590",
+      "votos": 2985,
+      "percentual": 5.99,
+      "sqcand": "160001622298"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 2644,
+      "percentual": 5.31,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "DELTAN MARTINAZZO DALLAGNOL",
+      "nomeUrna": "DELTAN DALLAGNOL",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 2372,
+      "percentual": 4.76,
+      "sqcand": "160001654827"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 2070,
+      "percentual": 4.16,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 1726,
+      "percentual": 3.46,
+      "sqcand": "160001614512"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOÃO DOUGLAS FABRÍCIO",
+      "nomeUrna": "DOUGLAS FABRICIO",
+      "partido": "CIDADANIA",
+      "numero": "23600",
+      "votos": 14278,
+      "percentual": 29.6,
+      "sqcand": "160001612410"
+    },
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 13971,
+      "percentual": 28.96,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "ALEX SANDRO ALVES NUNES",
+      "nomeUrna": "TIO LECO",
+      "partido": "PP",
+      "numero": "11013",
+      "votos": 3624,
+      "percentual": 7.51,
+      "sqcand": "160001603354"
+    },
+    {
+      "nome": "CÍCERO PEREIRA DE SOUZA",
+      "nomeUrna": "PROFESSOR CÍCERO",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 1779,
+      "percentual": 3.69,
+      "sqcand": "160001615011"
+    },
+    {
+      "nome": "JOSE APARECIDO JACOVOS",
+      "nomeUrna": "DELEGADO JACOVOS",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 1178,
+      "percentual": 2.44,
+      "sqcand": "160001654963"
+    },
+    {
+      "nome": "ADRIANO JOSÉ DA SILVA",
+      "nomeUrna": "SOLDADO ADRIANO JOSÉ",
+      "partido": "PP",
+      "numero": "11900",
+      "votos": 949,
+      "percentual": 1.97,
+      "sqcand": "160001603349"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 910,
+      "percentual": 1.89,
+      "sqcand": "160001615032"
+    }
+  ]
+}

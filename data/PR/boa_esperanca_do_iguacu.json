@@ -1,0 +1,271 @@
+{
+  "populacao": 2305,
+  "votosValidos": 2161,
+  "abstencao": 4.43,
+  "prefeito": {
+    "nome": "GIVANILDO TRUMI",
+    "nomeUrna": "GIVA",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1541,
+    "percentual": 71.31,
+    "situacao": "Eleito",
+    "sqcand": "160002183258",
+    "vice": "ANTONIO BIANCHINI",
+    "viceNomeUrna": "BIANCHINI",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002183259",
+    "coligacao": "PP / PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "GUILHERME MAINARDI",
+      "nomeUrna": "GUILHERME ENFERMEIRO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 298,
+      "percentual": 13.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002182440"
+    },
+    {
+      "nome": "TIAGO DREVES",
+      "nomeUrna": "TIAGO",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 245,
+      "percentual": 11.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002182444"
+    },
+    {
+      "nome": "EDER JEAN ANDREIS",
+      "nomeUrna": "JEAN",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 232,
+      "percentual": 10.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002182436"
+    },
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SERGIO PRETO",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 217,
+      "percentual": 9.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002182439"
+    },
+    {
+      "nome": "LUCAS JÚNIOR BEGNINI DELAZZARI",
+      "nomeUrna": "LUCAS BEGNINI",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 165,
+      "percentual": 7.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002254177"
+    },
+    {
+      "nome": "RUBENS DREVES",
+      "nomeUrna": "RUBENS",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 147,
+      "percentual": 6.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002182443"
+    },
+    {
+      "nome": "ELOI BLAU",
+      "nomeUrna": "ELOI BLAU",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 139,
+      "percentual": 6.4,
+      "situacao": "Eleito por média",
+      "sqcand": "160002254175"
+    },
+    {
+      "nome": "LEONARDO BIAVATI CANDIDO DA SILVA",
+      "nomeUrna": "SALINO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 126,
+      "percentual": 5.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002211036"
+    },
+    {
+      "nome": "JAQUELINE SALETE DE AZEVEDO",
+      "nomeUrna": "JAQUE",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 115,
+      "percentual": 5.29,
+      "situacao": "Eleito por média",
+      "sqcand": "160002182441"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 558,
+      "percentual": 31.96,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 513,
+      "percentual": 29.38,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "CLEUSA ROSANE RIBAS FERREIRA",
+      "nomeUrna": "ROSANE FERREIRA",
+      "partido": "PV",
+      "numero": "433",
+      "votos": 412,
+      "percentual": 23.6,
+      "sqcand": "160001615117"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO HENRIQUE COLETTI FERNANDES",
+      "nomeUrna": "PAULO LITRO",
+      "partido": "PSD",
+      "numero": "5512",
+      "votos": 958,
+      "percentual": 51.23,
+      "sqcand": "160001622301"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 248,
+      "percentual": 13.26,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "NELSI COGUETTO MARIA",
+      "nomeUrna": "VERMELHO",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 159,
+      "percentual": 8.5,
+      "sqcand": "160001622020"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 120,
+      "percentual": 6.42,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "NELSON FERNANDO PADOVANI",
+      "nomeUrna": "PADOVANI",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 103,
+      "percentual": 5.51,
+      "sqcand": "160001654666"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 86,
+      "percentual": 4.6,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "LEANDRE DAL PONTE",
+      "nomeUrna": "LEANDRE",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 38,
+      "percentual": 2.03,
+      "sqcand": "160001622296"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADAO FERNANDES DA SILVA",
+      "nomeUrna": "ADAO FERNANDES LITRO",
+      "partido": "PSD",
+      "numero": "55125",
+      "votos": 612,
+      "percentual": 34.15,
+      "sqcand": "160001739397"
+    },
+    {
+      "nome": "LUCIANA GUZELLA RAFAGNIN",
+      "nomeUrna": "LUCIANA RAFAGNIN",
+      "partido": "PT",
+      "numero": "13233",
+      "votos": 307,
+      "percentual": 17.13,
+      "sqcand": "160001615035"
+    },
+    {
+      "nome": "NELSON LAURO LUERSEN",
+      "nomeUrna": "NELSON LUERSEN",
+      "partido": "UNIÃO",
+      "numero": "44680",
+      "votos": 239,
+      "percentual": 13.34,
+      "sqcand": "160001716022"
+    },
+    {
+      "nome": "LUIS RAIMUNDO CORTI",
+      "nomeUrna": "LUIS CORTI",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 188,
+      "percentual": 10.49,
+      "sqcand": "160001621887"
+    },
+    {
+      "nome": "ADEMAR LUIZ TRAIANO",
+      "nomeUrna": "TRAIANO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 108,
+      "percentual": 6.03,
+      "sqcand": "160001623113"
+    },
+    {
+      "nome": "PEDRO PAULO BAZANA",
+      "nomeUrna": "PEDRO PAULO BAZANA",
+      "partido": "PSD",
+      "numero": "55600",
+      "votos": 42,
+      "percentual": 2.34,
+      "sqcand": "160001623132"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 39,
+      "percentual": 2.18,
+      "sqcand": "160001614823"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 7109,
+  "votosValidos": 6163,
+  "abstencao": 10.82,
+  "prefeito": {
+    "nome": "ANA KESIA DE ALCANTARA SOARES",
+    "nomeUrna": "KESIA",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 3255,
+    "percentual": 52.82,
+    "situacao": "Eleito",
+    "sqcand": "60002005199",
+    "vice": "VICENTE JACKSON FEITOSA DE SOUZA",
+    "viceNomeUrna": "JACKSON",
+    "partidoVice": "MDB",
+    "sqcandVice": "60002005198",
+    "coligacao": "MDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSE NASCELIO VIEIRA",
+      "nomeUrna": "ZÉ DE ZUZA",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 636,
+      "percentual": 10.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002046899"
+    },
+    {
+      "nome": "JANNE MEIRE DUARTE SILVA",
+      "nomeUrna": "JANNE MEIRE",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 538,
+      "percentual": 8.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002046896"
+    },
+    {
+      "nome": "PAULO GEANEO DE MOURA",
+      "nomeUrna": "GEAN",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 524,
+      "percentual": 8.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002046569"
+    },
+    {
+      "nome": "JOAQUIM PAULINO DA SILVA JUNIOR",
+      "nomeUrna": "JÚNIOR DO POVO",
+      "partido": "PT",
+      "numero": "13666",
+      "votos": 510,
+      "percentual": 8.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002046567"
+    },
+    {
+      "nome": "FRANCISCO CLAUDOVINO NOGUEIRA SOARES",
+      "nomeUrna": "DEZA SOARES",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 492,
+      "percentual": 8.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002046571"
+    },
+    {
+      "nome": "ANTONIO NONATO SILVA",
+      "nomeUrna": "PROFESSOR NONATO",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 452,
+      "percentual": 7.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002046570"
+    },
+    {
+      "nome": "PAULO ROBSON LEITE DE OLIVEIRA",
+      "nomeUrna": "PAULO ROBSON",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 438,
+      "percentual": 7.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002046897"
+    },
+    {
+      "nome": "VALMIR DE SOUSA BRASIL",
+      "nomeUrna": "VALMIR BRASIL",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 436,
+      "percentual": 7.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002046902"
+    },
+    {
+      "nome": "ANA MARIA SILVA SOUZA",
+      "nomeUrna": "ANA MARIA",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 422,
+      "percentual": 6.95,
+      "situacao": "Eleito por média",
+      "sqcand": "60002046573"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 4305,
+      "percentual": 94.47,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 201,
+      "percentual": 4.41,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 51,
+      "percentual": 1.12,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS MAURO BENEVIDES FILHO",
+      "nomeUrna": "MAURO FILHO",
+      "partido": "PDT",
+      "numero": "1221",
+      "votos": 2062,
+      "percentual": 45.73,
+      "sqcand": "60001603470"
+    },
+    {
+      "nome": "MATHEUS SOARES NORONHA",
+      "nomeUrna": "MATHEUS NORONHA",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 939,
+      "percentual": 20.83,
+      "sqcand": "60001614168"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 814,
+      "percentual": 18.05,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "YURY BRUNO ALENCAR ARAÚJO",
+      "nomeUrna": "YURY DO PAREDÃO",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 165,
+      "percentual": 3.66,
+      "sqcand": "60001614155"
+    },
+    {
+      "nome": "JOSE NOBRE GUIMARAES",
+      "nomeUrna": "GUIMARÃES DO PT",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 55,
+      "percentual": 1.22,
+      "sqcand": "60001619124"
+    },
+    {
+      "nome": "ANDRÉ FERNANDES DE MOURA",
+      "nomeUrna": "ANDRÉ FERNANDES",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 52,
+      "percentual": 1.15,
+      "sqcand": "60001614161"
+    },
+    {
+      "nome": "CÉLIO STUDART BARBOSA",
+      "nomeUrna": "CÉLIO STUDART",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 43,
+      "percentual": 0.95,
+      "sqcand": "60001601189"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FERNANDO MATOS SANTANA",
+      "nomeUrna": "FERNANDO SANTANA",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 2232,
+      "percentual": 51.31,
+      "sqcand": "60001633655"
+    },
+    {
+      "nome": "GUILHERME SAMPAIO LANDIM",
+      "nomeUrna": "GUILHERME LANDIM",
+      "partido": "PDT",
+      "numero": "12114",
+      "votos": 1168,
+      "percentual": 26.85,
+      "sqcand": "60001603525"
+    },
+    {
+      "nome": "LUCAS GONÇALVES BRASIL",
+      "nomeUrna": "LUCAS BRASIL",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 178,
+      "percentual": 4.09,
+      "sqcand": "60001633645"
+    },
+    {
+      "nome": "REGINAURO SOUSA NASCIMENTO",
+      "nomeUrna": "SARGENTO REGINAURO",
+      "partido": "UNIÃO",
+      "numero": "44190",
+      "votos": 175,
+      "percentual": 4.02,
+      "sqcand": "60001608935"
+    },
+    {
+      "nome": "JACQUELINE FERREIRA GOUVEIA",
+      "nomeUrna": "JACQUELINE GOUVEIA",
+      "partido": "MDB",
+      "numero": "15120",
+      "votos": 98,
+      "percentual": 2.25,
+      "sqcand": "60001635816"
+    },
+    {
+      "nome": "DANILO LOPES FERREIRA LIMA",
+      "nomeUrna": "DANILO LOPES",
+      "partido": "AVANTE",
+      "numero": "70007",
+      "votos": 48,
+      "percentual": 1.1,
+      "sqcand": "60001634412"
+    },
+    {
+      "nome": "ANTONIO VALDENIZO DA COSTA",
+      "nomeUrna": "NIZO ",
+      "partido": "PT",
+      "numero": "13777",
+      "votos": 42,
+      "percentual": 0.97,
+      "sqcand": "60001633657"
+    }
+  ]
+}

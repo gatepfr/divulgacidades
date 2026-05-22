@@ -1,0 +1,291 @@
+{
+  "populacao": 18123,
+  "votosValidos": 14791,
+  "abstencao": 14.25,
+  "prefeito": {
+    "nome": "GIVANILDO DE SOUZA COSTA",
+    "nomeUrna": "GIVANILDO COSTA",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 6540,
+    "percentual": 44.22,
+    "situacao": "Eleito",
+    "sqcand": "260002019308",
+    "vice": "GILVANDO CARDOSO BARBOSA",
+    "viceNomeUrna": "GILVANDO BARBOSA",
+    "partidoVice": "PV",
+    "sqcandVice": "260002338962",
+    "coligacao": "PC do B / PT / PV / SOLIDARIEDADE / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "SILVANO DOS SANTOS",
+      "nomeUrna": "SILVANO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77111",
+      "votos": 804,
+      "percentual": 5.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002082495"
+    },
+    {
+      "nome": "MAFILZA SILVA GOMES",
+      "nomeUrna": "MAFY DE YGOR GOMES",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 689,
+      "percentual": 4.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002017429"
+    },
+    {
+      "nome": "RAIMUNDO FRANCISCO DOS SANTOS JUNIOR",
+      "nomeUrna": "RAIMUNDINHO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 652,
+      "percentual": 4.37,
+      "situacao": "Eleito por média",
+      "sqcand": "260002082491"
+    },
+    {
+      "nome": "TATIANA DE OLIVEIRA RODRIGUES CUSTODIO",
+      "nomeUrna": "TATY DE RAIMUNDÃO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 600,
+      "percentual": 4.02,
+      "situacao": "Eleito por média",
+      "sqcand": "260002023507"
+    },
+    {
+      "nome": "JOSE RIBEIRO DA CRUZ",
+      "nomeUrna": "TEO DO SOFÁ",
+      "partido": "PSDB",
+      "numero": "45456",
+      "votos": 597,
+      "percentual": 4.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002168698"
+    },
+    {
+      "nome": "JUAREZ ANDRADE MORAES",
+      "nomeUrna": "JUAREZ DE ÁGUA FRIA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 534,
+      "percentual": 3.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002022057"
+    },
+    {
+      "nome": "VANDEILSON RIBEIRO PEREIRA",
+      "nomeUrna": "VANDEILSON DA SAÚDE",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 508,
+      "percentual": 3.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002017434"
+    },
+    {
+      "nome": "CARLA PRISCILA REIS MELO",
+      "nomeUrna": "PRISCILA DA CLÍNICA",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 436,
+      "percentual": 2.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002083380"
+    },
+    {
+      "nome": "JOSE CLAUDIO DOS SANTOS",
+      "nomeUrna": "MIMINHO DAS MOENDAS",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 435,
+      "percentual": 2.92,
+      "situacao": "Eleito por média",
+      "sqcand": "260002168700"
+    },
+    {
+      "nome": "AMARAL VALERIANO DA SILVA",
+      "nomeUrna": "AMARAL DE ABÓBORAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 423,
+      "percentual": 2.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002020704"
+    },
+    {
+      "nome": "CARLOS ALVES DE OLIVEIRA",
+      "nomeUrna": "CACÁ DO TOMBO",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 275,
+      "percentual": 1.84,
+      "situacao": "Eleito por média",
+      "sqcand": "260002083387"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO CARLOS VALADARES FILHO",
+      "nomeUrna": "VALADARES FILHO",
+      "partido": "PSB",
+      "numero": "404",
+      "votos": 4427,
+      "percentual": 41.37,
+      "sqcand": "260001666588"
+    },
+    {
+      "nome": "LAERCIO JOSE DE OLIVEIRA",
+      "nomeUrna": "LAÉRCIO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2277,
+      "percentual": 21.28,
+      "sqcand": "260001635426"
+    },
+    {
+      "nome": "EDUARDO ALVES DO AMORIM",
+      "nomeUrna": "DR. EDUARDO AMORIM",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1916,
+      "percentual": 17.9,
+      "sqcand": "260001693738"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ AUGUSTO CARVALHO RIBEIRO FILHO",
+      "nomeUrna": "GUSTINHO RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 2706,
+      "percentual": 23.22,
+      "sqcand": "260001618176"
+    },
+    {
+      "nome": "FABIO DE ALMEIDA REIS",
+      "nomeUrna": "FABIO REIS",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 2628,
+      "percentual": 22.55,
+      "sqcand": "260001619673"
+    },
+    {
+      "nome": "FRANCISCO GUALBERTO DA ROCHA",
+      "nomeUrna": "FRANCISCO GUALBERTO",
+      "partido": "PSD",
+      "numero": "5515",
+      "votos": 1912,
+      "percentual": 16.41,
+      "sqcand": "260001619670"
+    },
+    {
+      "nome": "JOAO SOMARIVA DANIEL",
+      "nomeUrna": "JOAO DANIEL",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 754,
+      "percentual": 6.47,
+      "sqcand": "260001667975"
+    },
+    {
+      "nome": "ELIANE AQUINO CUSTODIO",
+      "nomeUrna": "ELIANE AQUINO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 637,
+      "percentual": 5.47,
+      "sqcand": "260001667976"
+    },
+    {
+      "nome": "YANDRA BARRETO FERREIRA",
+      "nomeUrna": "YANDRA DE ANDRÉ",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 557,
+      "percentual": 4.78,
+      "sqcand": "260001728384"
+    },
+    {
+      "nome": "FABIO HENRIQUE SANTANA DE CARVALHO",
+      "nomeUrna": "FÁBIO HENRIQUE",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 227,
+      "percentual": 1.95,
+      "sqcand": "260001646379"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCELO OLIVEIRA SOBRAL",
+      "nomeUrna": "MARCELO SOBRAL",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 2131,
+      "percentual": 18.62,
+      "sqcand": "260001646921"
+    },
+    {
+      "nome": "JOSEFA AUREA DE SOUZA RIBEIRO",
+      "nomeUrna": "AUREA RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 1806,
+      "percentual": 15.78,
+      "sqcand": "260001618227"
+    },
+    {
+      "nome": "MARIA DAS GRAÇAS SOUZA GARCEZ",
+      "nomeUrna": "GRACINHA GARCEZ",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 1751,
+      "percentual": 15.3,
+      "sqcand": "260001712255"
+    },
+    {
+      "nome": "ABI CUSTODIO DIVINO FILHO",
+      "nomeUrna": "ABY",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 450,
+      "percentual": 3.93,
+      "sqcand": "260001668317"
+    },
+    {
+      "nome": "ARTUR SERGIO DE ALMEIDA REIS",
+      "nomeUrna": "SERGIO REIS",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 344,
+      "percentual": 3.01,
+      "sqcand": "260001636415"
+    },
+    {
+      "nome": "PAULO ROBERTO DE SANTANA JUNIOR",
+      "nomeUrna": "PAULO JR",
+      "partido": "PV",
+      "numero": "43777",
+      "votos": 325,
+      "percentual": 2.84,
+      "sqcand": "260001668327"
+    },
+    {
+      "nome": "LEUDES ALVES DOS SANTOS NETO",
+      "nomeUrna": "NETINHO GUIMARÃES",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 292,
+      "percentual": 2.55,
+      "sqcand": "260001712262"
+    }
+  ]
+}

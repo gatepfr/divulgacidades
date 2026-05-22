@@ -1,0 +1,271 @@
+{
+  "populacao": 10508,
+  "votosValidos": 7821,
+  "abstencao": 21.36,
+  "prefeito": {
+    "nome": "JAURY GONZALES DA CUNHA",
+    "nomeUrna": "JAURY",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3269,
+    "percentual": 41.8,
+    "situacao": "Eleito",
+    "sqcand": "210001919678",
+    "vice": "DARCI RENATO FEITEN",
+    "viceNomeUrna": "RENATO",
+    "partidoVice": "MDB",
+    "sqcandVice": "210001919677",
+    "coligacao": "REPUBLICANOS / PP / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "GABRIELA RADI SILVEIRA",
+      "nomeUrna": "GABRIELA RADI",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 449,
+      "percentual": 5.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002115964"
+    },
+    {
+      "nome": "RICARDO PIRES",
+      "nomeUrna": "RICARDO PIRES",
+      "partido": "PSB",
+      "numero": "40156",
+      "votos": 329,
+      "percentual": 4.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001919772"
+    },
+    {
+      "nome": "FELIPE ATHANÁZIO VIEIRA",
+      "nomeUrna": "FELIPE VIEIRA",
+      "partido": "PDT",
+      "numero": "12656",
+      "votos": 324,
+      "percentual": 4.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002087811"
+    },
+    {
+      "nome": "RITTIELI SOUZA SILVA",
+      "nomeUrna": "RITTI BARRETO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 306,
+      "percentual": 3.91,
+      "situacao": "Eleito por média",
+      "sqcand": "210001919769"
+    },
+    {
+      "nome": "ANGELITA PEREIRA MARTINS",
+      "nomeUrna": "ANGELITA MARTINS",
+      "partido": "PDT",
+      "numero": "12190",
+      "votos": 283,
+      "percentual": 3.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002087806"
+    },
+    {
+      "nome": "NEIDA PUTEN OLIVEIRA DE LIMA",
+      "nomeUrna": "NEIDA LIMA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 258,
+      "percentual": 3.3,
+      "situacao": "Eleito por média",
+      "sqcand": "210002115967"
+    },
+    {
+      "nome": "TIAGO RAMOS DE SOUZA",
+      "nomeUrna": "TIAGO DA SERRALHERIA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 236,
+      "percentual": 3.02,
+      "situacao": "Eleito por média",
+      "sqcand": "210002041376"
+    },
+    {
+      "nome": "JOSÉ HÉLIO RODRIGUES CIFUENTES",
+      "nomeUrna": "JOSÉ HÉLIO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 214,
+      "percentual": 2.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001919696"
+    },
+    {
+      "nome": "MARCO ANTÔNIO CORREA MONTEIRO",
+      "nomeUrna": "MARCO DO TAXI",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 202,
+      "percentual": 2.58,
+      "situacao": "Eleito por média",
+      "sqcand": "210002087804"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 3138,
+      "percentual": 46.53,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2313,
+      "percentual": 34.3,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1148,
+      "percentual": 17.02,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 650,
+      "percentual": 9.73,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 621,
+      "percentual": 9.3,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 418,
+      "percentual": 6.26,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "ANY MACHADO ORTIZ",
+      "nomeUrna": "ANY ORTIZ",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 408,
+      "percentual": 6.11,
+      "sqcand": "210001620037"
+    },
+    {
+      "nome": "MARIA DO ROSÁRIO NUNES",
+      "nomeUrna": "MARIA DO ROSÁRIO",
+      "partido": "PT",
+      "numero": "1370",
+      "votos": 339,
+      "percentual": 5.07,
+      "sqcand": "210001604650"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 305,
+      "percentual": 4.57,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "MARLON ARATOR SANTOS DA ROSA",
+      "nomeUrna": "MARLON SANTOS",
+      "partido": "PL",
+      "numero": "2234",
+      "votos": 257,
+      "percentual": 3.85,
+      "sqcand": "210001648574"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCIANO LEITES ROCHA",
+      "nomeUrna": "PROFESSOR LUCIANO ROCHA",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 1706,
+      "percentual": 25.68,
+      "sqcand": "210001602888"
+    },
+    {
+      "nome": "CLEOMAR SANTOS OLIVEIRA",
+      "nomeUrna": "MARA SANTOS",
+      "partido": "PSDB",
+      "numero": "45987",
+      "votos": 590,
+      "percentual": 8.88,
+      "sqcand": "210001620195"
+    },
+    {
+      "nome": "EMANUEL HASSEN DE JESUS",
+      "nomeUrna": "MANECO HASSEN",
+      "partido": "PT",
+      "numero": "13700",
+      "votos": 222,
+      "percentual": 3.34,
+      "sqcand": "210001610603"
+    },
+    {
+      "nome": "PAULO EUCLIDES GARCIA DE AZEREDO",
+      "nomeUrna": "PAULO AZEREDO",
+      "partido": "PDT",
+      "numero": "12244",
+      "votos": 209,
+      "percentual": 3.15,
+      "sqcand": "210001621298"
+    },
+    {
+      "nome": "GUSTAVO ADOLFO VICTORINO GREHS",
+      "nomeUrna": "GUSTAVO VICTORINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10022",
+      "votos": 200,
+      "percentual": 3.01,
+      "sqcand": "210001601660"
+    },
+    {
+      "nome": "LUIZ FERNANDO MAINARDI",
+      "nomeUrna": "MAINARDI",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 198,
+      "percentual": 2.98,
+      "sqcand": "210001610629"
+    },
+    {
+      "nome": "LUCIANA KREBS GENRO",
+      "nomeUrna": "LUCIANA GENRO",
+      "partido": "PSOL",
+      "numero": "50000",
+      "votos": 142,
+      "percentual": 2.14,
+      "sqcand": "210001598528"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "populacao": 57312,
+  "votosValidos": 48367,
+  "abstencao": 12.22,
+  "prefeito": {
+    "nome": "ELMO ALUIZIO VIEIRA NASCIMENTO",
+    "nomeUrna": "ELMO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 30315,
+    "percentual": 62.68,
+    "situacao": "Eleito",
+    "sqcand": "50001971836",
+    "vice": "JASCI MUNIZ DE SOUZA",
+    "viceNomeUrna": "JASCI MUNIZ",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "50001971835",
+    "coligacao": "UNIÃO / REPUBLICANOS / PP / PL / PRD / PRTB / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MURILO ALBUQUERQUE NASCIMENTO",
+      "nomeUrna": "MURILO NASCIMENTO",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 3801,
+      "percentual": 7.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002076204"
+    },
+    {
+      "nome": "ANDRÉ CUSTÓDIO DE SOUZA",
+      "nomeUrna": "ANDRÉ CUSTÓDIO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 3580,
+      "percentual": 7.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002002776"
+    },
+    {
+      "nome": "MARCIO MUNIZ DE SOUZA",
+      "nomeUrna": "MARCIO MUNIZ (OH GLÓRIA)",
+      "partido": "PRD",
+      "numero": "25777",
+      "votos": 2330,
+      "percentual": 4.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002066431"
+    },
+    {
+      "nome": "FRANCISCO MANOEL DO NASCIMENTO NETO",
+      "nomeUrna": "FRANCISQUINHO NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 2250,
+      "percentual": 4.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002002772"
+    },
+    {
+      "nome": "MATHEUS FERNANDES RIBEIRO CAMACAM",
+      "nomeUrna": "MATHEUS CAMACAM",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 1967,
+      "percentual": 4.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002002775"
+    },
+    {
+      "nome": "BRUNO MEDEIROS SOARES",
+      "nomeUrna": "BRUNO MEDEIROS",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1714,
+      "percentual": 3.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001910649"
+    },
+    {
+      "nome": "HILDA MARIA MONTEIRO DE MENEZES OLIVEIRA",
+      "nomeUrna": "HILDINHA MENEZES",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 1570,
+      "percentual": 3.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001910787"
+    },
+    {
+      "nome": "ARLIVAN CARVALHO GONÇALVES",
+      "nomeUrna": "ARLIVAN GONÇALVES",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 1524,
+      "percentual": 3.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001910783"
+    },
+    {
+      "nome": "ISMAEL JOSE DOS SANTOS",
+      "nomeUrna": "MAEL SANTOS",
+      "partido": "PSD",
+      "numero": "55122",
+      "votos": 1186,
+      "percentual": 2.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001910658"
+    },
+    {
+      "nome": "JARBAS PEREIRA LOPES",
+      "nomeUrna": "NEGO DO GILMAR",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 1168,
+      "percentual": 2.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002002773"
+    },
+    {
+      "nome": "JURACI CUSTODIO DOS SANTOS",
+      "nomeUrna": "JURACI CARA FEIA",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 1152,
+      "percentual": 2.37,
+      "situacao": "Eleito por média",
+      "sqcand": "50001910651"
+    },
+    {
+      "nome": "ADEMIR ARAÚJO DA SILVA",
+      "nomeUrna": "ADEMIR ARAÚJO",
+      "partido": "PSDB",
+      "numero": "45612",
+      "votos": 1124,
+      "percentual": 2.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002076195"
+    },
+    {
+      "nome": "MAGNALDO GOMES FERREIRA",
+      "nomeUrna": "DR MAGNALDO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 1122,
+      "percentual": 2.31,
+      "situacao": "Eleito por média",
+      "sqcand": "50002002778"
+    },
+    {
+      "nome": "ISMAEL PEREIRA DA SILVA",
+      "nomeUrna": "ISMAEL PEREIRA",
+      "partido": "PRD",
+      "numero": "25222",
+      "votos": 1090,
+      "percentual": 2.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002066438"
+    },
+    {
+      "nome": "REIFRAN SILVA LOPES",
+      "nomeUrna": "REIFRAN MARANHÃO",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 1041,
+      "percentual": 2.14,
+      "situacao": "Eleito por média",
+      "sqcand": "50002076205"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 21667,
+      "percentual": 55.87,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 14856,
+      "percentual": 38.31,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2129,
+      "percentual": 5.49,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ELMAR JOSE VIEIRA NASCIMENTO",
+      "nomeUrna": "ELMAR NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 17331,
+      "percentual": 41.66,
+      "sqcand": "50001634583"
+    },
+    {
+      "nome": "GABRIEL JOSE MOURA NUNES SOARES",
+      "nomeUrna": "GABRIEL NUNES",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 12950,
+      "percentual": 31.13,
+      "sqcand": "50001607226"
+    },
+    {
+      "nome": "ANTONIO LUIZ PARANHOS RIBEIRO LEITE DE BRITO",
+      "nomeUrna": "ANTONIO BRITO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 4563,
+      "percentual": 10.97,
+      "sqcand": "50001607229"
+    },
+    {
+      "nome": "MANOEL MESSIAS ALVES DE SOUZA",
+      "nomeUrna": "PROFESSOR MANOEL MESSIAS",
+      "partido": "PC do B",
+      "numero": "6513",
+      "votos": 1336,
+      "percentual": 3.21,
+      "sqcand": "50001605366"
+    },
+    {
+      "nome": "ALEX MARCO SANTANA SOUSA",
+      "nomeUrna": "ALEX SANTANA",
+      "partido": "REPUBLICANOS",
+      "numero": "1023",
+      "votos": 702,
+      "percentual": 1.69,
+      "sqcand": "50001619864"
+    },
+    {
+      "nome": "CHARLES FERNANDES SILVEIRA SANTANA",
+      "nomeUrna": "CHARLES FERNANDES",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 511,
+      "percentual": 1.23,
+      "sqcand": "50001607219"
+    },
+    {
+      "nome": "ELISANGELA DOS SANTOS ARAUJO",
+      "nomeUrna": "ELISANGELA",
+      "partido": "PT",
+      "numero": "1334",
+      "votos": 370,
+      "percentual": 0.89,
+      "sqcand": "50001605364"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADOLFO EMANUEL MONTEIRO DE MENEZES",
+      "nomeUrna": "ADOLFO MENEZES",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 21610,
+      "percentual": 54.18,
+      "sqcand": "50001607292"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS NASCIMENTO JUNIOR",
+      "nomeUrna": "JUNIOR NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 15486,
+      "percentual": 38.83,
+      "sqcand": "50001648300"
+    },
+    {
+      "nome": "SAMUEL SANTANA COUTO JUNIOR",
+      "nomeUrna": "SAMUEL JUNIOR",
+      "partido": "REPUBLICANOS",
+      "numero": "10133",
+      "votos": 512,
+      "percentual": 1.28,
+      "sqcand": "50001619261"
+    },
+    {
+      "nome": "JORDAVIO ALEXANDRE ESPINOLA RAMOS",
+      "nomeUrna": "JORDAVIO RAMOS",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 197,
+      "percentual": 0.49,
+      "sqcand": "50001613908"
+    },
+    {
+      "nome": "MARCELINO ANTÔNIO MARTINS GALO",
+      "nomeUrna": "MARCELINO GALO",
+      "partido": "PT",
+      "numero": "13140",
+      "votos": 140,
+      "percentual": 0.35,
+      "sqcand": "50001606398"
+    },
+    {
+      "nome": "RAIMUNDO NONATO TAVARES DA SILVA",
+      "nomeUrna": "BOBÔ",
+      "partido": "PC do B",
+      "numero": "65888",
+      "votos": 106,
+      "percentual": 0.27,
+      "sqcand": "50001606413"
+    },
+    {
+      "nome": "JOSE RICARDO RODRIGUES BARBOSA",
+      "nomeUrna": "RICARDO RODRIGUES",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 84,
+      "percentual": 0.21,
+      "sqcand": "50001607297"
+    }
+  ]
+}

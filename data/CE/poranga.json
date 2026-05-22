@@ -1,0 +1,271 @@
+{
+  "populacao": 10042,
+  "votosValidos": 7979,
+  "abstencao": 17.31,
+  "prefeito": {
+    "nome": "ANTONIO ROBERTO UCHOA DE ALMEIDA",
+    "nomeUrna": "ROBERTO UCHÔA",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 4227,
+    "percentual": 52.98,
+    "situacao": "Eleito",
+    "sqcand": "60002232344",
+    "vice": "QUELMA MARIA DE ABREU FELÍCIO",
+    "viceNomeUrna": "QUELMA ABREU",
+    "partidoVice": "PT",
+    "sqcandVice": "60002232345",
+    "coligacao": "PC do B / PT / PV / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "ANTONIO BEZERRA GOMES",
+      "nomeUrna": "ANTONIO BEZERRA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 824,
+      "percentual": 10.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114377"
+    },
+    {
+      "nome": "SAMARA GOMES MARINHO",
+      "nomeUrna": "SAMARA MARINHO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 712,
+      "percentual": 8.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114407"
+    },
+    {
+      "nome": "LIDUINA MARIA PINHO ARAÚJO",
+      "nomeUrna": "LIDUÍNA DO PIAL",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 592,
+      "percentual": 7.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114405"
+    },
+    {
+      "nome": "ANTONIA TATIELLE CARREIRO DA SILVA FEITOSA",
+      "nomeUrna": "TATIELLE CARREIRO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 464,
+      "percentual": 5.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114379"
+    },
+    {
+      "nome": "MARIA ELIANE DA SILVA GOMES",
+      "nomeUrna": "ELIANE TABAJARA",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 440,
+      "percentual": 5.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002059166"
+    },
+    {
+      "nome": "CICERO ALVES DE ASSUNÇÃO",
+      "nomeUrna": "CÍCERO CONRADO",
+      "partido": "PT",
+      "numero": "13611",
+      "votos": 433,
+      "percentual": 5.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114402"
+    },
+    {
+      "nome": "JOSE GENTIL CAVALCANTE FILHO",
+      "nomeUrna": "DR GENTIL",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 359,
+      "percentual": 4.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002058688"
+    },
+    {
+      "nome": "MANOEL ALMEIDA PINHO",
+      "nomeUrna": "TIBIJU",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 288,
+      "percentual": 3.6,
+      "situacao": "Eleito por média",
+      "sqcand": "60002114409"
+    },
+    {
+      "nome": "ETEVALDO GOMES LIMA",
+      "nomeUrna": "ETEVALDO",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 270,
+      "percentual": 3.38,
+      "situacao": "Eleito por média",
+      "sqcand": "60002059164"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 5853,
+      "percentual": 87.51,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 686,
+      "percentual": 10.26,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 149,
+      "percentual": 2.23,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANTONIO JOSÉ AGUIAR ALBUQUERQUE",
+      "nomeUrna": "AJ ALBUQUERQUE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 2152,
+      "percentual": 31.19,
+      "sqcand": "60001619170"
+    },
+    {
+      "nome": "DOMINGOS GOMES DE AGUIAR NETO",
+      "nomeUrna": "DOMINGOS NETO",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 985,
+      "percentual": 14.28,
+      "sqcand": "60001601183"
+    },
+    {
+      "nome": "CARLOS MAURO BENEVIDES FILHO",
+      "nomeUrna": "MAURO FILHO",
+      "partido": "PDT",
+      "numero": "1221",
+      "votos": 831,
+      "percentual": 12.04,
+      "sqcand": "60001603470"
+    },
+    {
+      "nome": "DENIS ANDERSON DA ROCHA BEZERRA",
+      "nomeUrna": "DENIS BEZERRA",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 342,
+      "percentual": 4.96,
+      "sqcand": "60001603454"
+    },
+    {
+      "nome": "LUIZIANNE DE OLIVEIRA LINS",
+      "nomeUrna": "LUIZIANNE LINS",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 334,
+      "percentual": 4.84,
+      "sqcand": "60001619128"
+    },
+    {
+      "nome": "JOSE NOBRE GUIMARAES",
+      "nomeUrna": "GUIMARÃES DO PT",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 292,
+      "percentual": 4.23,
+      "sqcand": "60001619124"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 288,
+      "percentual": 4.17,
+      "sqcand": "60001603469"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "AGOSTINHO FREDERICO TIN CARMO GOMES",
+      "nomeUrna": "TIN GOMES",
+      "partido": "PDT",
+      "numero": "12600",
+      "votos": 2324,
+      "percentual": 36.63,
+      "sqcand": "60001603539"
+    },
+    {
+      "nome": "JOSÉ JEOVÁ SOUTO MOTA",
+      "nomeUrna": "JEOVÁ MOTA",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 1160,
+      "percentual": 18.28,
+      "sqcand": "60001603522"
+    },
+    {
+      "nome": "JULIANA ALVES",
+      "nomeUrna": "CACIKA IRÊ",
+      "partido": "PC do B",
+      "numero": "65234",
+      "votos": 422,
+      "percentual": 6.65,
+      "sqcand": "60001633664"
+    },
+    {
+      "nome": "AUDIC CAVALCANTE MOTA DIAS",
+      "nomeUrna": "AUDIC MOTA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 329,
+      "percentual": 5.19,
+      "sqcand": "60001635804"
+    },
+    {
+      "nome": "LEONARDO ARAÚJO DE SOUZA",
+      "nomeUrna": "LEONARDO ARAÚJO",
+      "partido": "MDB",
+      "numero": "15151",
+      "votos": 307,
+      "percentual": 4.84,
+      "sqcand": "60001635807"
+    },
+    {
+      "nome": "MOISES BRAZ RICARDO",
+      "nomeUrna": "MOISES BRAZ",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 294,
+      "percentual": 4.63,
+      "sqcand": "60001633642"
+    },
+    {
+      "nome": "FRANCISCO CLAUDIO PINTO PINHO",
+      "nomeUrna": "CLÁUDIO PINHO",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 293,
+      "percentual": 4.62,
+      "sqcand": "60001603529"
+    }
+  ]
+}

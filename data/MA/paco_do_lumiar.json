@@ -1,0 +1,371 @@
+{
+  "populacao": 83535,
+  "votosValidos": 67161,
+  "abstencao": 14.14,
+  "prefeito": {
+    "nome": "FREDERICO DE ABREU SILVA CAMPOS",
+    "nomeUrna": "FRED CAMPOS",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 46957,
+    "percentual": 69.92,
+    "situacao": "Eleito",
+    "sqcand": "100001918326",
+    "vice": "MARIANA BRAIDE BRANDÃO CARVALHO",
+    "viceNomeUrna": "MARIANA BRANDÃO",
+    "partidoVice": "MDB",
+    "sqcandVice": "100001918327",
+    "coligacao": "REPUBLICANOS / PP / PDT / MDB / PODE / PRD / PSB / UNIÃO / PSD / AVANTE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "PAULO HENRIQUE PINHEIRO CASTRO",
+      "nomeUrna": "PAULO HENRIQUE",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 1996,
+      "percentual": 2.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918751"
+    },
+    {
+      "nome": "FERNANDO JOSÉ SANTOS FEITOSA",
+      "nomeUrna": "FERNANDO FEITOSA",
+      "partido": "PODE",
+      "numero": "20789",
+      "votos": 1844,
+      "percentual": 2.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918491"
+    },
+    {
+      "nome": "LEANDRO FURTADO FRANÇA",
+      "nomeUrna": "LEANDRO DE ORLETE",
+      "partido": "AGIR",
+      "numero": "36111",
+      "votos": 1609,
+      "percentual": 2.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002075218"
+    },
+    {
+      "nome": "BIANCA HELLAINNE MENDES",
+      "nomeUrna": "BIANCA MENDES",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 1590,
+      "percentual": 2.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918514"
+    },
+    {
+      "nome": "CARLOS RAFAEL NEVES PEREIRA",
+      "nomeUrna": "RAFAEL NEVES",
+      "partido": "PRD",
+      "numero": "25333",
+      "votos": 1511,
+      "percentual": 2.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918629"
+    },
+    {
+      "nome": "MAURO ROBERTO RABELO",
+      "nomeUrna": "MAURO MULTIBANCOS",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 1486,
+      "percentual": 2.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918708"
+    },
+    {
+      "nome": "FERNANDO SANTOS SILVA",
+      "nomeUrna": "FERNANDINHO",
+      "partido": "PMB",
+      "numero": "35888",
+      "votos": 1310,
+      "percentual": 1.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002184964"
+    },
+    {
+      "nome": "KERLON DE OLIVEIRA ASEVEDO",
+      "nomeUrna": "MIAU OLIVEIRA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 1222,
+      "percentual": 1.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002018168"
+    },
+    {
+      "nome": "ANA LÚCIA SILVA FONTES PEREIRA",
+      "nomeUrna": "ANA LÚCIA",
+      "partido": "PSD",
+      "numero": "55022",
+      "votos": 1197,
+      "percentual": 1.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001919114"
+    },
+    {
+      "nome": "ELIAS GEOVANIO PEREIRA DE ABREU",
+      "nomeUrna": "GEOVANE ABREU",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 1169,
+      "percentual": 1.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918558"
+    },
+    {
+      "nome": "SILVESTRE BATISTA BOTÃO NETO",
+      "nomeUrna": "NETO BOTÃO",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 1104,
+      "percentual": 1.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918573"
+    },
+    {
+      "nome": "ELLEN LARYZA DE SOUSA SILVEIRA",
+      "nomeUrna": "ELLEN DO BIGODE",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 1077,
+      "percentual": 1.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918510"
+    },
+    {
+      "nome": "EDER SANTOS DE ALENCAR",
+      "nomeUrna": "EDER ALENCAR",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 1036,
+      "percentual": 1.5,
+      "situacao": "Eleito por média",
+      "sqcand": "100001918552"
+    },
+    {
+      "nome": "WELLINGTON FRANCISCO SOUSA",
+      "nomeUrna": "WELLINGTON SOUSA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 993,
+      "percentual": 1.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918738"
+    },
+    {
+      "nome": "KAMILLA RHAFYLLA PEREIRA DA SILVA",
+      "nomeUrna": "KAMILLA",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 988,
+      "percentual": 1.43,
+      "situacao": "Eleito por média",
+      "sqcand": "100001918628"
+    },
+    {
+      "nome": "JOELISON REIS",
+      "nomeUrna": "JOEL DO CHURRASCO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 942,
+      "percentual": 1.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "100001918700"
+    },
+    {
+      "nome": "CARMEN AROSO CASSAS",
+      "nomeUrna": "PROFESSORA CARMEN AROSO",
+      "partido": "PODE",
+      "numero": "20456",
+      "votos": 908,
+      "percentual": 1.31,
+      "situacao": "Eleito por média",
+      "sqcand": "100001918490"
+    },
+    {
+      "nome": "LEONARDO PEQUENO DE OLIVEIRA",
+      "nomeUrna": "LEONARDO LACI",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 771,
+      "percentual": 1.11,
+      "situacao": "Eleito por média",
+      "sqcand": "100001918742"
+    },
+    {
+      "nome": "MARY JANNE FERREIRA GOMES",
+      "nomeUrna": "MARY DO MOJÓ",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 743,
+      "percentual": 1.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002017654"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 34680,
+      "percentual": 62.52,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 18801,
+      "percentual": 33.9,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 956,
+      "percentual": 1.72,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HILDELIS SILVA DUARTE JUNIOR",
+      "nomeUrna": "DUARTE",
+      "partido": "PSB",
+      "numero": "4010",
+      "votos": 5121,
+      "percentual": 8.96,
+      "sqcand": "100001607052"
+    },
+    {
+      "nome": "RUBENS PEREIRA E SILVA JUNIOR",
+      "nomeUrna": "RUBENS PEREIRA JR",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 4265,
+      "percentual": 7.46,
+      "sqcand": "100001613704"
+    },
+    {
+      "nome": "ROSEANA SARNEY MURAD",
+      "nomeUrna": "ROSEANA SARNEY",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 3888,
+      "percentual": 6.8,
+      "sqcand": "100001599082"
+    },
+    {
+      "nome": "MARCIO JERRY SARAIVA BARROSO",
+      "nomeUrna": "MARCIO JERRY",
+      "partido": "PC do B",
+      "numero": "6513",
+      "votos": 3645,
+      "percentual": 6.38,
+      "sqcand": "100001613708"
+    },
+    {
+      "nome": "GUILHERME HENRIQUE BRANCO DE OLIVEIRA",
+      "nomeUrna": "GUILHERME OLIVEIRA",
+      "partido": "CIDADANIA",
+      "numero": "2324",
+      "votos": 2306,
+      "percentual": 4.03,
+      "sqcand": "100001618097"
+    },
+    {
+      "nome": "UBIRAJARA DO PINDARÉ ALMEIDA SOUSA",
+      "nomeUrna": "BIRA DO PINDARÉ",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 2272,
+      "percentual": 3.97,
+      "sqcand": "100001607048"
+    },
+    {
+      "nome": "CLEBER VERDE CORDEIRO MENDES",
+      "nomeUrna": "CLEBER VERDE",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 2129,
+      "percentual": 3.72,
+      "sqcand": "100001602015"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTONIO JOSE BITTENCOURT DE ALBUQUERQUE JUNIOR",
+      "nomeUrna": "CATULÉ JUNIOR",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 3166,
+      "percentual": 5.65,
+      "sqcand": "100001608091"
+    },
+    {
+      "nome": "YGLESIO LUCIANO MOYSES SILVA DE SOUZA",
+      "nomeUrna": "DR. YGLÉSIO",
+      "partido": "PSB",
+      "numero": "40321",
+      "votos": 2541,
+      "percentual": 4.53,
+      "sqcand": "100001607076"
+    },
+    {
+      "nome": "CARLOS EDUARDO DE OLIVEIRA LULA",
+      "nomeUrna": "CARLOS LULA",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 2476,
+      "percentual": 4.41,
+      "sqcand": "100001607073"
+    },
+    {
+      "nome": "HELENA MARIA DUAILIBE FERREIRA",
+      "nomeUrna": "DR. HELENA DUAILIBE",
+      "partido": "PP",
+      "numero": "11135",
+      "votos": 2226,
+      "percentual": 3.97,
+      "sqcand": "100001608103"
+    },
+    {
+      "nome": "IRACEMA CRISTINA VALE LIMA",
+      "nomeUrna": "IRACEMA VALE",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 2130,
+      "percentual": 3.8,
+      "sqcand": "100001607060"
+    },
+    {
+      "nome": "KARLOS PARABUCU SANTOS FIGUEIREDO DOS ANJOS",
+      "nomeUrna": "PARÁ FIGUEIREDO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 2022,
+      "percentual": 3.61,
+      "sqcand": "100001603171"
+    },
+    {
+      "nome": "RODRIGO PIRES FERREIRA LAGO",
+      "nomeUrna": "RODRIGO LAGO",
+      "partido": "PC do B",
+      "numero": "65400",
+      "votos": 1569,
+      "percentual": 2.8,
+      "sqcand": "100001613741"
+    }
+  ]
+}

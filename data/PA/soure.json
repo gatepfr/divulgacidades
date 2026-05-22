@@ -1,0 +1,291 @@
+{
+  "populacao": 22733,
+  "votosValidos": 18862,
+  "abstencao": 15.09,
+  "prefeito": {
+    "nome": "PAULO VICTOR SILVA DE LIMA",
+    "nomeUrna": "PAULO VICTOR",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 10799,
+    "percentual": 57.25,
+    "situacao": "Eleito",
+    "sqcand": "140002276549",
+    "vice": "FERNANDO TOBIAS SANTOS GONÇALVES",
+    "viceNomeUrna": "TOBIAS",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "140002276550",
+    "coligacao": "CIDADANIA / PSDB / REPUBLICANOS / PP / MDB / PSB / UNIÃO / PSD / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "RENAN CAVALCANTE SILVA",
+      "nomeUrna": "RUGE",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 1232,
+      "percentual": 6.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002225680"
+    },
+    {
+      "nome": "MAX VICTOR ABDON NASCIMENTO",
+      "nomeUrna": "VICTOR ABDON",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 1143,
+      "percentual": 6.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002117865"
+    },
+    {
+      "nome": "ULISSES MOURA GOMES",
+      "nomeUrna": "LICINHO MOURA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 1077,
+      "percentual": 5.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002225682"
+    },
+    {
+      "nome": "JORGE PEIXOTO RAMOS",
+      "nomeUrna": "JORGE RAMOS",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 1004,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002117863"
+    },
+    {
+      "nome": "ALCINDO DE LIMA ABDON JUNIOR",
+      "nomeUrna": "JUNIOR GOUVEA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 686,
+      "percentual": 3.6,
+      "situacao": "Eleito por média",
+      "sqcand": "140002117862"
+    },
+    {
+      "nome": "SILVIA BRITO LEAL",
+      "nomeUrna": "SILVIA LEAL",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 630,
+      "percentual": 3.3,
+      "situacao": "Eleito por média",
+      "sqcand": "140002225685"
+    },
+    {
+      "nome": "BRENDA CRISTINA MONTEIRO ABDON",
+      "nomeUrna": "BRENDA GOUVEA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 573,
+      "percentual": 3.01,
+      "situacao": "Eleito por média",
+      "sqcand": "140002225683"
+    },
+    {
+      "nome": "JOSE MARIA DE ARAUJO MORAES JUNIOR",
+      "nomeUrna": "ZEMINHA MORAES",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 570,
+      "percentual": 2.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002151254"
+    },
+    {
+      "nome": "EDVALDO DIAS BATISTA",
+      "nomeUrna": "PACHECO DA ÁGUA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 570,
+      "percentual": 2.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002272139"
+    },
+    {
+      "nome": "GENIVALDO FARIAS CAMPOS",
+      "nomeUrna": "VALDO CAMPOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 447,
+      "percentual": 2.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002323620"
+    },
+    {
+      "nome": "AMANDA CRISTINA DIAS SEABRA",
+      "nomeUrna": "AMANDA DIAS",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 407,
+      "percentual": 2.14,
+      "situacao": "Eleito por média",
+      "sqcand": "140002253012"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 7095,
+      "percentual": 46.98,
+      "sqcand": "140001611661"
+    },
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 5785,
+      "percentual": 38.3,
+      "sqcand": "140001600249"
+    },
+    {
+      "nome": "FERNANDO DE SOUZA FLEXA RIBEIRO",
+      "nomeUrna": "FLEXA RIBEIRO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1152,
+      "percentual": 7.63,
+      "sqcand": "140001611666"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LENA RIBEIRO PINTO DE OLIVEIRA",
+      "nomeUrna": "LENA PINTO",
+      "partido": "PSDB",
+      "numero": "4590",
+      "votos": 3161,
+      "percentual": 19.97,
+      "sqcand": "140001615715"
+    },
+    {
+      "nome": "CRISTIANO DUTRA VALE",
+      "nomeUrna": "CRISTIANO VALE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 2229,
+      "percentual": 14.08,
+      "sqcand": "140001611646"
+    },
+    {
+      "nome": "ALESSANDRA HABER CARVALHO SANTOS",
+      "nomeUrna": "DRA ALESSANDRA HABER",
+      "partido": "MDB",
+      "numero": "1567",
+      "votos": 1238,
+      "percentual": 7.82,
+      "sqcand": "140001621346"
+    },
+    {
+      "nome": "ANDREIA BRITO GONÇALVES SIQUEIRA",
+      "nomeUrna": "ANDREIA SIQUEIRA",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 938,
+      "percentual": 5.92,
+      "sqcand": "140001621339"
+    },
+    {
+      "nome": "DILVANDA FURTADO FARO",
+      "nomeUrna": "DILVANDA FARO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 885,
+      "percentual": 5.59,
+      "sqcand": "140001620897"
+    },
+    {
+      "nome": "KENISTON DE JESUS REGO BRAGA",
+      "nomeUrna": "KENISTON",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 847,
+      "percentual": 5.35,
+      "sqcand": "140001621344"
+    },
+    {
+      "nome": "PAULO EDUARDO MAESTRI BENGTSON",
+      "nomeUrna": "PAULO BENGTSON",
+      "partido": "PTB",
+      "numero": "1456",
+      "votos": 637,
+      "percentual": 4.02,
+      "sqcand": "140001615571"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "IRAN ATAIDE DE LIMA",
+      "nomeUrna": "IRAN LIMA",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 4143,
+      "percentual": 26.41,
+      "sqcand": "140001676901"
+    },
+    {
+      "nome": "OTÁVIO DA SILVA NASCIMENTO JÚNIOR",
+      "nomeUrna": "NIC JÚNIOR  VOZES MARAJOARAS ",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 3337,
+      "percentual": 21.27,
+      "sqcand": "140001676629"
+    },
+    {
+      "nome": "CILENE LISBOA COUTO MARQUES",
+      "nomeUrna": "CILENE COUTO",
+      "partido": "PSDB",
+      "numero": "45112",
+      "votos": 1037,
+      "percentual": 6.61,
+      "sqcand": "140001615505"
+    },
+    {
+      "nome": "WANDERLAN AUGUSTO BRANDAO QUARESMA",
+      "nomeUrna": "DR. WANDERLAN",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 807,
+      "percentual": 5.14,
+      "sqcand": "140001676886"
+    },
+    {
+      "nome": "HELOISA MARIA MELO E SILVA GUIMARÃES",
+      "nomeUrna": "DRA. HELOISA",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 705,
+      "percentual": 4.49,
+      "sqcand": "140001615520"
+    },
+    {
+      "nome": "MARCO ADRIANO ALBUQUERQUE COELHO",
+      "nomeUrna": "ADRIANO COELHO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 631,
+      "percentual": 4.02,
+      "sqcand": "140001621060"
+    },
+    {
+      "nome": "ANA MARIA DO SOCORRO MAGNO CUNHA",
+      "nomeUrna": "ANA CUNHA",
+      "partido": "PSDB",
+      "numero": "45130",
+      "votos": 602,
+      "percentual": 3.84,
+      "sqcand": "140001615530"
+    }
+  ]
+}

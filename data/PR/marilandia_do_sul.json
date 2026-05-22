@@ -1,0 +1,271 @@
+{
+  "populacao": 7358,
+  "votosValidos": 5726,
+  "abstencao": 19.23,
+  "prefeito": {
+    "nome": "WALMIR PERES",
+    "nomeUrna": "WALMIR PERES",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 3499,
+    "percentual": 61.11,
+    "situacao": "Eleito",
+    "sqcand": "160002122610",
+    "vice": "IVONEI GOMES DA SILVA",
+    "viceNomeUrna": "PROFESSOR IVONEI",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002122611",
+    "coligacao": "PSD / PP / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "TATIANE GEORGIA MARTINEZ SERESSUELA",
+      "nomeUrna": "TATI MARTINEZ",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 383,
+      "percentual": 6.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002210275"
+    },
+    {
+      "nome": "JOÃO CARLOS PARRA GRANADA",
+      "nomeUrna": "JOÃO CARLINHOS",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 376,
+      "percentual": 6.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002210815"
+    },
+    {
+      "nome": "JEAN CARLOS MOMENTE BUENO",
+      "nomeUrna": "JEAN BUENO",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 340,
+      "percentual": 5.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002210810"
+    },
+    {
+      "nome": "EDMILTON CARLOS DA SILVA",
+      "nomeUrna": "EDMILTON FELICIANO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 329,
+      "percentual": 5.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002210804"
+    },
+    {
+      "nome": "MILTON DIEIME BERNARDES",
+      "nomeUrna": "GAIOLINHA DA SAUDE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 314,
+      "percentual": 5.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002210807"
+    },
+    {
+      "nome": "JUCELINO GERALDO VILAÇA",
+      "nomeUrna": "VILAÇA",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 294,
+      "percentual": 5.14,
+      "situacao": "Eleito por média",
+      "sqcand": "160002210817"
+    },
+    {
+      "nome": "ROBSON ALONSO GARCIA",
+      "nomeUrna": "ROBSON ALONSO",
+      "partido": "PP",
+      "numero": "11500",
+      "votos": 291,
+      "percentual": 5.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002210277"
+    },
+    {
+      "nome": "WILLIAM BARBOSA DA SILVA",
+      "nomeUrna": "WILLIAM DA SAUDE",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 258,
+      "percentual": 4.51,
+      "situacao": "Eleito por média",
+      "sqcand": "160002210809"
+    },
+    {
+      "nome": "ANDERLÉIA BUENO MILESKI",
+      "nomeUrna": "ANDERLÉIA BUENO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 180,
+      "percentual": 3.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002123118"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1926,
+      "percentual": 38.52,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1357,
+      "percentual": 27.14,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1233,
+      "percentual": 24.66,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 1848,
+      "percentual": 35.33,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 691,
+      "percentual": 13.21,
+      "sqcand": "160001622297"
+    },
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 322,
+      "percentual": 6.16,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 306,
+      "percentual": 5.85,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "MARCO AURELIO RIBEIRO",
+      "nomeUrna": "MARCO BRASIL",
+      "partido": "PP",
+      "numero": "1155",
+      "votos": 263,
+      "percentual": 5.03,
+      "sqcand": "160001603313"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 220,
+      "percentual": 4.21,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 213,
+      "percentual": 4.07,
+      "sqcand": "160001614512"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARTAGÃO DE MATTOS LEÃO JÚNIOR",
+      "nomeUrna": "ARTAGÃO JÚNIOR",
+      "partido": "PSD",
+      "numero": "55015",
+      "votos": 1782,
+      "percentual": 35.24,
+      "sqcand": "160001623107"
+    },
+    {
+      "nome": "JOSE APARECIDO JACOVOS",
+      "nomeUrna": "DELEGADO JACOVOS",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 708,
+      "percentual": 14.0,
+      "sqcand": "160001654963"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 451,
+      "percentual": 8.92,
+      "sqcand": "160001623099"
+    },
+    {
+      "nome": "JOSÉ TIAGO CAMARGO DO AMARAL",
+      "nomeUrna": "TIAGO AMARAL",
+      "partido": "PSD",
+      "numero": "55155",
+      "votos": 298,
+      "percentual": 5.89,
+      "sqcand": "160001623115"
+    },
+    {
+      "nome": "ARILSON MAROLDI CHIORATO",
+      "nomeUrna": "ARILSON CHIORATO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 240,
+      "percentual": 4.75,
+      "sqcand": "160001615010"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 186,
+      "percentual": 3.68,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "RODOLFO MOTA DA SILVA",
+      "nomeUrna": "RODOLFO MOTA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 147,
+      "percentual": 2.91,
+      "sqcand": "160001716027"
+    }
+  ]
+}

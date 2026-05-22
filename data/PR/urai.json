@@ -1,0 +1,271 @@
+{
+  "populacao": 8734,
+  "votosValidos": 6774,
+  "abstencao": 18.86,
+  "prefeito": {
+    "nome": "ANGELO TARANTINI FILHO",
+    "nomeUrna": "TARANTINI",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 5674,
+    "percentual": 83.76,
+    "situacao": "Eleito",
+    "sqcand": "160002253348",
+    "vice": "WILLIAM XAVIER",
+    "viceNomeUrna": "WILLIAM XAVIER",
+    "partidoVice": "PL",
+    "sqcandVice": "160002253349",
+    "coligacao": "PL / PRD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "DONIZETE RUIZ PINHA",
+      "nomeUrna": "DONIZETE DA SAÚDE",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 760,
+      "percentual": 11.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002253574"
+    },
+    {
+      "nome": "FERNANDO VITORIO NARANTE",
+      "nomeUrna": "PELINHO DA SERRA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 448,
+      "percentual": 6.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002253824"
+    },
+    {
+      "nome": "REGINALDO CASTELAR",
+      "nomeUrna": "REGI CASTELAR",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 415,
+      "percentual": 6.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002356877"
+    },
+    {
+      "nome": "ARLETE APARECIDA ROSSI MARTINS SALAMANCA",
+      "nomeUrna": "ARLETE SALAMANCA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 373,
+      "percentual": 5.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002224850"
+    },
+    {
+      "nome": "OSNIR BORGHI",
+      "nomeUrna": "DR OSNIR",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 268,
+      "percentual": 3.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002253576"
+    },
+    {
+      "nome": "RODRIGO LUIZ SAMPAR",
+      "nomeUrna": "RODRIGÃO DA SERRA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 244,
+      "percentual": 3.59,
+      "situacao": "Eleito por média",
+      "sqcand": "160002253827"
+    },
+    {
+      "nome": "LEANDRO APARECIDO DOS SANTOS",
+      "nomeUrna": "PROFESSOR LEANDRO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 223,
+      "percentual": 3.28,
+      "situacao": "Eleito por média",
+      "sqcand": "160002291973"
+    },
+    {
+      "nome": "ROSENETI ANDRADE DA SILVA CIPRIANO",
+      "nomeUrna": "ROSENETI DA SEÇÃO",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 198,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "160002253571"
+    },
+    {
+      "nome": "CRISTIANO RODRIGUES MIRANDA",
+      "nomeUrna": "CRISTIANO MIRANDA",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 159,
+      "percentual": 2.34,
+      "situacao": "Eleito por média",
+      "sqcand": "160002253819"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2067,
+      "percentual": 34.57,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1581,
+      "percentual": 26.44,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1564,
+      "percentual": 26.16,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1239,
+      "percentual": 19.9,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 860,
+      "percentual": 13.82,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 543,
+      "percentual": 8.72,
+      "sqcand": "160001622297"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 398,
+      "percentual": 6.39,
+      "sqcand": "160001654655"
+    },
+    {
+      "nome": "NELSON FERNANDO PADOVANI",
+      "nomeUrna": "PADOVANI",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 320,
+      "percentual": 5.14,
+      "sqcand": "160001654666"
+    },
+    {
+      "nome": "ANTONIO WANDSCHEER",
+      "nomeUrna": "TONINHO WANDSCHEER",
+      "partido": "PROS",
+      "numero": "9090",
+      "votos": 319,
+      "percentual": 5.12,
+      "sqcand": "160001621909"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 302,
+      "percentual": 4.85,
+      "sqcand": "160001614525"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JAIRO TAMURA",
+      "nomeUrna": "JAIRO TAMURA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 1962,
+      "percentual": 32.67,
+      "sqcand": "160001654934"
+    },
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 628,
+      "percentual": 10.46,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "NELSON ROBERTO PLACIDO SILVA JUSTUS",
+      "nomeUrna": "NELSON JUSTUS",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 547,
+      "percentual": 9.11,
+      "sqcand": "160001716017"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 310,
+      "percentual": 5.16,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 279,
+      "percentual": 4.65,
+      "sqcand": "160001623099"
+    },
+    {
+      "nome": "RICARDO ARRUDA NUNES",
+      "nomeUrna": "RICARDO ARRUDA",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 239,
+      "percentual": 3.98,
+      "sqcand": "160001654970"
+    },
+    {
+      "nome": "ALISSON ANTHONY WANDSCHEER",
+      "nomeUrna": "ALISSON WANDSCHEER",
+      "partido": "PROS",
+      "numero": "90000",
+      "votos": 222,
+      "percentual": 3.7,
+      "sqcand": "160001622180"
+    }
+  ]
+}

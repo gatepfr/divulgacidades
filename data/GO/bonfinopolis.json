@@ -1,0 +1,271 @@
+{
+  "populacao": 7874,
+  "votosValidos": 6606,
+  "abstencao": 13.6,
+  "prefeito": {
+    "nome": "LUCAS MOREIRA DE CARVALHO",
+    "nomeUrna": "LUCAS  DO GALDINO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3435,
+    "percentual": 52.0,
+    "situacao": "Eleito",
+    "sqcand": "90002000360",
+    "vice": "DOUGLAS VITOR DINIZ DE AMORIM",
+    "viceNomeUrna": "DOUGLAS DO LIDER",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "90002000361",
+    "coligacao": "MDB / UNIÃO / PRD"
+  },
+  "vereadores": [
+    {
+      "nome": "EDER FERNANDES DA SILVA",
+      "nomeUrna": "EDER FERNANDES",
+      "partido": "PRD",
+      "numero": "25800",
+      "votos": 476,
+      "percentual": 7.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002019105"
+    },
+    {
+      "nome": "VITOR RICARDO TOMAZ OLIVEIRA",
+      "nomeUrna": "VITOR RICARDO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 473,
+      "percentual": 7.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002019087"
+    },
+    {
+      "nome": "RODRIGO ANTONIO LEMES",
+      "nomeUrna": "RODRIGO LEMES",
+      "partido": "PRD",
+      "numero": "25789",
+      "votos": 433,
+      "percentual": 6.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002019104"
+    },
+    {
+      "nome": "MARIA DE FÁTIMA RODRIGUES DE SIQUEIRA",
+      "nomeUrna": "FÁTIMA DA SAÚDE",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 373,
+      "percentual": 5.65,
+      "situacao": "Eleito por média",
+      "sqcand": "90002019098"
+    },
+    {
+      "nome": "WELSON DIAS DA SILVA",
+      "nomeUrna": "ELSINHO WD",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 337,
+      "percentual": 5.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002019089"
+    },
+    {
+      "nome": "HERMES ANTONIO LEMES",
+      "nomeUrna": "HERMES LEMES",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 306,
+      "percentual": 4.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002000378"
+    },
+    {
+      "nome": "GEOVANA GUIMARÃES LUZ",
+      "nomeUrna": "GEOVANA LUZ",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 288,
+      "percentual": 4.37,
+      "situacao": "Eleito por média",
+      "sqcand": "90002019092"
+    },
+    {
+      "nome": "LUCIMEIRE DE FATIMA FREITAS SILVA",
+      "nomeUrna": "LUCIMEIRE DO TENENTE DAVI",
+      "partido": "PP",
+      "numero": "11190",
+      "votos": 228,
+      "percentual": 3.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002188005"
+    },
+    {
+      "nome": "RENATO RODRIGUES DA MATA",
+      "nomeUrna": "SUBTENENTE DA MATA",
+      "partido": "PL",
+      "numero": "22190",
+      "votos": 164,
+      "percentual": 2.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002261703"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1481,
+      "percentual": 31.38,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1209,
+      "percentual": 25.62,
+      "sqcand": "90001652051"
+    },
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 748,
+      "percentual": 15.85,
+      "sqcand": "90001615126"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CÉLIO ANTÔNIO DA SILVEIRA",
+      "nomeUrna": "CÉLIO SILVEIRA",
+      "partido": "MDB",
+      "numero": "1599",
+      "votos": 983,
+      "percentual": 19.7,
+      "sqcand": "90001621109"
+    },
+    {
+      "nome": "SILVYE ALVES DA SILVA",
+      "nomeUrna": "SILVYE ALVES",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 867,
+      "percentual": 17.37,
+      "sqcand": "90001614749"
+    },
+    {
+      "nome": "MAGDA MOFATTO HON",
+      "nomeUrna": "MAGDA MOFATTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 776,
+      "percentual": 15.55,
+      "sqcand": "90001652511"
+    },
+    {
+      "nome": "DANNILLO DA CUNHA PEREIRA",
+      "nomeUrna": "DANNILLO PEREIRA",
+      "partido": "PSD",
+      "numero": "5544",
+      "votos": 197,
+      "percentual": 3.95,
+      "sqcand": "90001651579"
+    },
+    {
+      "nome": "ZACARIAS CALIL HAMU",
+      "nomeUrna": "DR ZACHARIAS CALIL",
+      "partido": "UNIÃO",
+      "numero": "4480",
+      "votos": 168,
+      "percentual": 3.37,
+      "sqcand": "90001614746"
+    },
+    {
+      "nome": "RENATO RODRIGUES DA MATA",
+      "nomeUrna": "SUBTENENTE DA MATA",
+      "partido": "PMN",
+      "numero": "3340",
+      "votos": 161,
+      "percentual": 3.23,
+      "sqcand": "90001712417"
+    },
+    {
+      "nome": "RAFAEL MAGALHAES GOUVEIA",
+      "nomeUrna": "RAFAEL GOUVEIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 155,
+      "percentual": 3.11,
+      "sqcand": "90001651354"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ISSY QUINAN JUNIOR",
+      "nomeUrna": "ISSY QUINAN",
+      "partido": "MDB",
+      "numero": "15900",
+      "votos": 1331,
+      "percentual": 27.96,
+      "sqcand": "90001653197"
+    },
+    {
+      "nome": "SERGIO DE SOUZA BRAVO",
+      "nomeUrna": "SERGIO BRAVO",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 732,
+      "percentual": 15.37,
+      "sqcand": "90001605409"
+    },
+    {
+      "nome": "VIRMONDES BORGES CRUVINEL FILHO",
+      "nomeUrna": "VIRMONDES CRUVINEL",
+      "partido": "UNIÃO",
+      "numero": "44321",
+      "votos": 358,
+      "percentual": 7.52,
+      "sqcand": "90001648401"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS CAETANO DE MORAES",
+      "nomeUrna": "DR. ANTÔNIO",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 348,
+      "percentual": 7.31,
+      "sqcand": "90001648386"
+    },
+    {
+      "nome": "RICARDO QUIRINO DOS SANTOS",
+      "nomeUrna": "QUIRINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 132,
+      "percentual": 2.77,
+      "sqcand": "90001653000"
+    },
+    {
+      "nome": "DIVINO PEREIRA LEMES",
+      "nomeUrna": "DIVINO LEMES",
+      "partido": "PDT",
+      "numero": "12369",
+      "votos": 92,
+      "percentual": 1.93,
+      "sqcand": "90001611925"
+    },
+    {
+      "nome": "CHARLES BENTO EVANGELISTA",
+      "nomeUrna": "CHARLES BENTO",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 85,
+      "percentual": 1.79,
+      "sqcand": "90001653182"
+    }
+  ]
+}

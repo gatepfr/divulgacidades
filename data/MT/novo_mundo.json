@@ -1,0 +1,271 @@
+{
+  "populacao": 5783,
+  "votosValidos": 4313,
+  "abstencao": 23.53,
+  "prefeito": {
+    "nome": "CASCIANO MARTINS REIS",
+    "nomeUrna": "CASCIANO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1833,
+    "percentual": 42.5,
+    "situacao": "Eleito",
+    "sqcand": "110002335264",
+    "vice": "FRANCISCO ADAILTON MARQUES FERNANDES",
+    "viceNomeUrna": "ADAILTON DA CINCO MIL",
+    "partidoVice": "PSD",
+    "sqcandVice": "110002335265",
+    "coligacao": "MDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ROBERTO PIEREZAN",
+      "nomeUrna": "ZICO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 288,
+      "percentual": 6.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002189599"
+    },
+    {
+      "nome": "WANDER SANTOS SOARES",
+      "nomeUrna": "BOMBADO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 245,
+      "percentual": 5.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002335559"
+    },
+    {
+      "nome": "VALERIA DE LIMA VALE",
+      "nomeUrna": "PROF VALERIA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 213,
+      "percentual": 4.95,
+      "situacao": "Eleito por média",
+      "sqcand": "110002335557"
+    },
+    {
+      "nome": "HÉLIO CECCHIN",
+      "nomeUrna": "HÉLIO CECCHIN",
+      "partido": "PRD",
+      "numero": "25789",
+      "votos": 201,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002117256"
+    },
+    {
+      "nome": "GEILSON FRANQUIM PINHEIRO",
+      "nomeUrna": "TESOURO",
+      "partido": "PODE",
+      "numero": "20120",
+      "votos": 200,
+      "percentual": 4.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002286689"
+    },
+    {
+      "nome": "FELIPE LUIZ MACHADO PASSETI",
+      "nomeUrna": "FELIPE PASSETI (PIPA)",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 192,
+      "percentual": 4.46,
+      "situacao": "Eleito por média",
+      "sqcand": "110002117260"
+    },
+    {
+      "nome": "EDEMAR SQUENA",
+      "nomeUrna": "EDEMAR SQUENA",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 147,
+      "percentual": 3.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002336968"
+    },
+    {
+      "nome": "AMADO SANTOS DE OLIVEIRA",
+      "nomeUrna": "AMADO SANTOS",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 138,
+      "percentual": 3.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002361627"
+    },
+    {
+      "nome": "EDEMAR BIAZOTO",
+      "nomeUrna": "EDEMAR BIAZOTO",
+      "partido": "PSD",
+      "numero": "55369",
+      "votos": 126,
+      "percentual": 2.93,
+      "situacao": "Eleito por média",
+      "sqcand": "110002336967"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1666,
+      "percentual": 59.48,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 793,
+      "percentual": 28.31,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "KÁSSIO EDUARDO DA SILVA COELHO",
+      "nomeUrna": "KÁSSIO COELHO",
+      "partido": "PATRIOTA",
+      "numero": "510",
+      "votos": 245,
+      "percentual": 8.75,
+      "sqcand": "110001595899"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "IRAJA REZENDE DE LACERDA",
+      "nomeUrna": "IRAJA LACERDA",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 530,
+      "percentual": 15.11,
+      "sqcand": "110001643558"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 486,
+      "percentual": 13.85,
+      "sqcand": "110001675052"
+    },
+    {
+      "nome": "PEDRO INACIO WIEGERT",
+      "nomeUrna": "PEDRO SATÉLITE",
+      "partido": "PSD",
+      "numero": "5563",
+      "votos": 425,
+      "percentual": 12.12,
+      "sqcand": "110001701631"
+    },
+    {
+      "nome": "CARLOS GOMES BEZERRA",
+      "nomeUrna": "CARLOS BEZERRA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 407,
+      "percentual": 11.6,
+      "sqcand": "110001623294"
+    },
+    {
+      "nome": "NELSON NED PREVIDENTE",
+      "nomeUrna": "NELSON BARBUDO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 210,
+      "percentual": 5.99,
+      "sqcand": "110001612759"
+    },
+    {
+      "nome": "VICTORIO GALLI FILHO",
+      "nomeUrna": "VICTÓRIO GALLI",
+      "partido": "PTB",
+      "numero": "1422",
+      "votos": 171,
+      "percentual": 4.87,
+      "sqcand": "110001618201"
+    },
+    {
+      "nome": "JUAREZ ALVES DA COSTA",
+      "nomeUrna": "JUAREZ COSTA",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 165,
+      "percentual": 4.7,
+      "sqcand": "110001623293"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VALTER MIOTTO FERREIRA",
+      "nomeUrna": "VALTINHO MIOTTO",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 772,
+      "percentual": 22.51,
+      "sqcand": "110001623187"
+    },
+    {
+      "nome": "DILMAR DAL BOSCO",
+      "nomeUrna": "DILMAR DAL BOSCO",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 685,
+      "percentual": 19.97,
+      "sqcand": "110001612944"
+    },
+    {
+      "nome": "VALDIR MENDES BARRANCO",
+      "nomeUrna": "VALDIR BARRANCO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 461,
+      "percentual": 13.44,
+      "sqcand": "110001719771"
+    },
+    {
+      "nome": "DIEGO ARRUDA VAZ GUIMARÃES",
+      "nomeUrna": "DIEGO GUIMARÃES",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 302,
+      "percentual": 8.8,
+      "sqcand": "110001635657"
+    },
+    {
+      "nome": "ONDANIR BORTOLINI",
+      "nomeUrna": "NININHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 285,
+      "percentual": 8.31,
+      "sqcand": "110001643417"
+    },
+    {
+      "nome": "SEBASTIÃO MACHADO REZENDE",
+      "nomeUrna": "ENG. SEBASTIÃO MACHADO REZENDE",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 214,
+      "percentual": 6.24,
+      "sqcand": "110001612939"
+    },
+    {
+      "nome": "GILBERTO MOACIR CATTANI",
+      "nomeUrna": "GILBERTO CATTANI",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 143,
+      "percentual": 4.17,
+      "sqcand": "110001620557"
+    }
+  ]
+}

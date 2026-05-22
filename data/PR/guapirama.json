@@ -1,0 +1,271 @@
+{
+  "populacao": 4185,
+  "votosValidos": 3479,
+  "abstencao": 14.1,
+  "prefeito": {
+    "nome": "PEDRO DE OLIVEIRA",
+    "nomeUrna": "PEDRO BANZÉ",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2282,
+    "percentual": 65.59,
+    "situacao": "Eleito",
+    "sqcand": "160001920672",
+    "vice": "JUSANDRO BUBNA",
+    "viceNomeUrna": "SANDRO",
+    "partidoVice": "PP",
+    "sqcandVice": "160001920673",
+    "coligacao": "PP / MDB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "AGUINALDO DA COSTA RODRIGUES",
+      "nomeUrna": "COZINHO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 245,
+      "percentual": 7.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001990167"
+    },
+    {
+      "nome": "WALMOR CHAGAS FERMINO DE OLIVEIRA",
+      "nomeUrna": "PROFESSOR WALMOR",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 188,
+      "percentual": 5.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001990279"
+    },
+    {
+      "nome": "VALDIR FOLERINI",
+      "nomeUrna": "CUTI",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 182,
+      "percentual": 5.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002296250"
+    },
+    {
+      "nome": "FERNANDO CEZAR DE SOUZA",
+      "nomeUrna": "FERNANDO DO HOSPITAL",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 178,
+      "percentual": 5.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001990274"
+    },
+    {
+      "nome": "SIDNEY APARECIDO PEREIRA",
+      "nomeUrna": "SIDNEY DA GRANJA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 172,
+      "percentual": 4.95,
+      "situacao": "Eleito por média",
+      "sqcand": "160002296251"
+    },
+    {
+      "nome": "DENISE DE MELLO",
+      "nomeUrna": "DENISE DO SERGINHO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 156,
+      "percentual": 4.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002259691"
+    },
+    {
+      "nome": "RIVERLEI CESAR DA SILVA",
+      "nomeUrna": "RIVERLEI",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 147,
+      "percentual": 4.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002305942"
+    },
+    {
+      "nome": "JULIANO BUBNA",
+      "nomeUrna": "JULIANO BUBNA",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 131,
+      "percentual": 3.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001990170"
+    },
+    {
+      "nome": "EDESIO HENRIQUE DE OLIVEIRA",
+      "nomeUrna": "EDESIO HENRIQUE",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 127,
+      "percentual": 3.66,
+      "situacao": "Eleito por média",
+      "sqcand": "160002305945"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 919,
+      "percentual": 34.73,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 721,
+      "percentual": 27.25,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 676,
+      "percentual": 25.55,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 775,
+      "percentual": 27.8,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 608,
+      "percentual": 21.81,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 271,
+      "percentual": 9.72,
+      "sqcand": "160001614525"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 239,
+      "percentual": 8.57,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "NELSON FERNANDO PADOVANI",
+      "nomeUrna": "PADOVANI",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 142,
+      "percentual": 5.09,
+      "sqcand": "160001654666"
+    },
+    {
+      "nome": "DIEGO ALEXSANDER GONÇALO PAULA GARCIA",
+      "nomeUrna": "DIEGO GARCIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 140,
+      "percentual": 5.02,
+      "sqcand": "160001654834"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 126,
+      "percentual": 4.52,
+      "sqcand": "160001614510"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 882,
+      "percentual": 32.67,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 783,
+      "percentual": 29.0,
+      "sqcand": "160001623099"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 225,
+      "percentual": 8.33,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "MAURO RAFAEL MORAES E SILVA",
+      "nomeUrna": "MAURO MORAES",
+      "partido": "UNIÃO",
+      "numero": "44655",
+      "votos": 217,
+      "percentual": 8.04,
+      "sqcand": "160001716038"
+    },
+    {
+      "nome": "MICHELE CAPUTO NETO",
+      "nomeUrna": "MICHELE CAPUTO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 156,
+      "percentual": 5.78,
+      "sqcand": "160001612430"
+    },
+    {
+      "nome": "PAULO HUMBERTO PORTO BORGES",
+      "nomeUrna": "PAULO PORTO",
+      "partido": "PT",
+      "numero": "13513",
+      "votos": 30,
+      "percentual": 1.11,
+      "sqcand": "160001615018"
+    },
+    {
+      "nome": "JOSÉ TIAGO CAMARGO DO AMARAL",
+      "nomeUrna": "TIAGO AMARAL",
+      "partido": "PSD",
+      "numero": "55155",
+      "votos": 26,
+      "percentual": 0.96,
+      "sqcand": "160001623115"
+    }
+  ]
+}

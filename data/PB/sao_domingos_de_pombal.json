@@ -1,0 +1,271 @@
+{
+  "populacao": 3401,
+  "votosValidos": 2996,
+  "abstencao": 10.03,
+  "prefeito": {
+    "nome": "ADEILZA SOARES FREIRES",
+    "nomeUrna": "ADEILZA SOARES",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 1597,
+    "percentual": 53.3,
+    "situacao": "Eleito",
+    "sqcand": "150001924030",
+    "vice": "LEONARDO ALVES DA NOBREGA",
+    "viceNomeUrna": "LEONARDO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "150001924029",
+    "coligacao": "PSB / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "VALDERAN DE ALMEIDA QUEIROGA",
+      "nomeUrna": "VALDERAN",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 347,
+      "percentual": 11.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001904733"
+    },
+    {
+      "nome": "ANTONIO NÓBREGA ALMEIDA",
+      "nomeUrna": "TOINHO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 295,
+      "percentual": 9.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001904610"
+    },
+    {
+      "nome": "ALBANIZA RIBEIRO DA SILVA",
+      "nomeUrna": "ALBA",
+      "partido": "PL",
+      "numero": "22444",
+      "votos": 265,
+      "percentual": 8.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001904608"
+    },
+    {
+      "nome": "VALDY QUEIROGA DE SÁ MARTINS",
+      "nomeUrna": "VALDY QUEIROGA",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 251,
+      "percentual": 8.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001904612"
+    },
+    {
+      "nome": "CLAUDEMIR ARAÚJO DE SÁ",
+      "nomeUrna": "CLÁUDIO DE DEMIR",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 250,
+      "percentual": 8.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001904611"
+    },
+    {
+      "nome": "ADRIANA LIMA DA SILVA",
+      "nomeUrna": "ADRIANA DE JUNIOR",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 225,
+      "percentual": 7.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001904737"
+    },
+    {
+      "nome": "WAGNER SANTANA DA SILVA",
+      "nomeUrna": "WAGNER",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 218,
+      "percentual": 7.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001904735"
+    },
+    {
+      "nome": "VICENTE PAULO DE SOUZA NETO",
+      "nomeUrna": "NENETO",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 209,
+      "percentual": 7.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "150001904734"
+    },
+    {
+      "nome": "IRISMAR RODRIGUES XAVIER COSME",
+      "nomeUrna": "GALEGA DA CARNAÚBA",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 164,
+      "percentual": 5.52,
+      "situacao": "Eleito por média",
+      "sqcand": "150001904732"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "BRUNO FIGUEIREDO ROBERTO",
+      "nomeUrna": "BRUNO ROBERTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1231,
+      "percentual": 52.65,
+      "sqcand": "150001718240"
+    },
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 930,
+      "percentual": 39.78,
+      "sqcand": "150001718470"
+    },
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 107,
+      "percentual": 4.58,
+      "sqcand": "150001621390"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ WELLINGTON ROBERTO",
+      "nomeUrna": "WELLINGTON ROBERTO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1463,
+      "percentual": 60.18,
+      "sqcand": "150001718233"
+    },
+    {
+      "nome": "JOSÉ WILSON SANTIAGO",
+      "nomeUrna": "WILSON SANTIAGO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 579,
+      "percentual": 23.82,
+      "sqcand": "150001619548"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 116,
+      "percentual": 4.77,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "HUGO MOTTA WANDERLEY DA NOBREGA",
+      "nomeUrna": "HUGO MOTTA",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 53,
+      "percentual": 2.18,
+      "sqcand": "150001619545"
+    },
+    {
+      "nome": "LEONARDO DE MELO GADELHA",
+      "nomeUrna": "LÉO GADELHA",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 29,
+      "percentual": 1.19,
+      "sqcand": "150001612080"
+    },
+    {
+      "nome": "FRANCISCO EMERSON ASSIS DE LUCENA",
+      "nomeUrna": "MERSINHO LUCENA",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 28,
+      "percentual": 1.15,
+      "sqcand": "150001612074"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 20,
+      "percentual": 0.82,
+      "sqcand": "150001619538"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CAIO FIGUEIREDO ROBERTO",
+      "nomeUrna": "CAIO ROBERTO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 1362,
+      "percentual": 59.14,
+      "sqcand": "150001718195"
+    },
+    {
+      "nome": "LINDOLFO PIRES NETO",
+      "nomeUrna": "LINDOLFO PIRES",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 613,
+      "percentual": 26.62,
+      "sqcand": "150001612054"
+    },
+    {
+      "nome": "GILBERTO TOLENTINO LEITE JUNIOR",
+      "nomeUrna": "GILBERTINHO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 51,
+      "percentual": 2.21,
+      "sqcand": "150001603138"
+    },
+    {
+      "nome": "ANDRE AVELINO DE PAIVA GADELHA NETO",
+      "nomeUrna": "ANDRE GADELHA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 42,
+      "percentual": 1.82,
+      "sqcand": "150001718098"
+    },
+    {
+      "nome": "MARCIO ROBERTO DA SILVA",
+      "nomeUrna": "MARCIO ROBERTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10234",
+      "votos": 33,
+      "percentual": 1.43,
+      "sqcand": "150001619559"
+    },
+    {
+      "nome": "JUTAY MENESES GOMES",
+      "nomeUrna": "JUTAY MENESES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 30,
+      "percentual": 1.3,
+      "sqcand": "150001619558"
+    },
+    {
+      "nome": "JOSÉ CELIO DE FIGUEIREDO",
+      "nomeUrna": "DR ZÉ CÉLIO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 19,
+      "percentual": 0.83,
+      "sqcand": "150001603124"
+    }
+  ]
+}

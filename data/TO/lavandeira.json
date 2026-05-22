@@ -1,0 +1,271 @@
+{
+  "populacao": 2053,
+  "votosValidos": 1883,
+  "abstencao": 6.48,
+  "prefeito": {
+    "nome": "DENNINSSON PERICLES PEREIRA ALMEIDA",
+    "nomeUrna": "DENISON",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1001,
+    "percentual": 53.16,
+    "situacao": "Eleito",
+    "sqcand": "270002188288",
+    "vice": "FLAVIO HENRIQUE FRANCA DE OLIVEIRA",
+    "viceNomeUrna": "FLÁVIO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "270002188287",
+    "coligacao": "PSD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "EPAMINONDAS ALVES VIEIRA",
+      "nomeUrna": "NONA",
+      "partido": "REPUBLICANOS",
+      "numero": "10680",
+      "votos": 211,
+      "percentual": 11.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "270001961492"
+    },
+    {
+      "nome": "RUBENS TADEU FERREIRA DA COSTA",
+      "nomeUrna": "RUBENS",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 178,
+      "percentual": 9.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "270001961495"
+    },
+    {
+      "nome": "ROSIMEIRE LENI DE CASTRO SILVA",
+      "nomeUrna": "MEIRINHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 133,
+      "percentual": 7.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "270001961496"
+    },
+    {
+      "nome": "MARZIEL GONÇALVES LOPES",
+      "nomeUrna": "ZIEL",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 118,
+      "percentual": 6.25,
+      "situacao": "Eleito por média",
+      "sqcand": "270001961494"
+    },
+    {
+      "nome": "GERVALINO PEREIRA DA SILVA",
+      "nomeUrna": "LINO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 116,
+      "percentual": 6.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002188333"
+    },
+    {
+      "nome": "ELIELTO BASTOS DOS SANTOS",
+      "nomeUrna": "ELIELTO BASTOS",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 112,
+      "percentual": 5.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002188331"
+    },
+    {
+      "nome": "MANOEL JUNIOR DE OLIVEIRA",
+      "nomeUrna": "JUNINHO",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 99,
+      "percentual": 5.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002218226"
+    },
+    {
+      "nome": "EDILSON DA ROCHA PEREIRA",
+      "nomeUrna": "DIXIM",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 94,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002218227"
+    },
+    {
+      "nome": "IOLANDA ROSA SANTANA",
+      "nomeUrna": "IOLANDA",
+      "partido": "MDB",
+      "numero": "15120",
+      "votos": 67,
+      "percentual": 3.55,
+      "situacao": "Eleito por média",
+      "sqcand": "270002188728"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA AUXILIADORA SEABRA REZENDE",
+      "nomeUrna": "PROFESSORA DORINHA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 812,
+      "percentual": 63.59,
+      "sqcand": "270001649254"
+    },
+    {
+      "nome": "ATAIDES DE OLIVEIRA",
+      "nomeUrna": "ATAÍDES DE OLIVEIRA",
+      "partido": "PROS",
+      "numero": "900",
+      "votos": 226,
+      "percentual": 17.7,
+      "sqcand": "270001609016"
+    },
+    {
+      "nome": "KATIA REGINA DE ABREU GOMES",
+      "nomeUrna": "KATIA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 129,
+      "percentual": 10.1,
+      "sqcand": "270001713170"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DULCE FERREIRA PAGANI MIRANDA",
+      "nomeUrna": "DULCE MIRANDA",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 375,
+      "percentual": 28.87,
+      "sqcand": "270001700074"
+    },
+    {
+      "nome": "RICARDO AYRES DE CARVALHO",
+      "nomeUrna": "RICARDO AYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 221,
+      "percentual": 17.01,
+      "sqcand": "270001654164"
+    },
+    {
+      "nome": "ROBERVAL PAULO DE CASTRO",
+      "nomeUrna": "ROBERVAL CASTRO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 154,
+      "percentual": 11.86,
+      "sqcand": "270001654161"
+    },
+    {
+      "nome": "OSIRES RODRIGUES DAMASO",
+      "nomeUrna": "OSIRES DAMASO",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 152,
+      "percentual": 11.7,
+      "sqcand": "270001672961"
+    },
+    {
+      "nome": "CÉLIO ALVES DE MOURA",
+      "nomeUrna": "CÉLIO MOURA",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 118,
+      "percentual": 9.08,
+      "sqcand": "270001612026"
+    },
+    {
+      "nome": "JURIMAR JOSÉ TRINDADE JÚNIOR",
+      "nomeUrna": "JÚNIOR TRINDADE",
+      "partido": "PODE",
+      "numero": "1922",
+      "votos": 44,
+      "percentual": 3.39,
+      "sqcand": "270001642307"
+    },
+    {
+      "nome": "ANTONIO POINCARE ANDRADE FILHO",
+      "nomeUrna": "TOINHO ANDRADE",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 38,
+      "percentual": 2.93,
+      "sqcand": "270001654159"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUANA MATILDE RIBEIRO LIMA",
+      "nomeUrna": "LUANA RIBEIRO",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 455,
+      "percentual": 35.8,
+      "sqcand": "270001620123"
+    },
+    {
+      "nome": "CLEITON CARDOSO DE ALMEIDA",
+      "nomeUrna": "CLEITON CARDOSO",
+      "partido": "REPUBLICANOS",
+      "numero": "10700",
+      "votos": 230,
+      "percentual": 18.1,
+      "sqcand": "270001654142"
+    },
+    {
+      "nome": "AMELIO CAYRES DE ALMEIDA",
+      "nomeUrna": "AMELIO CAYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 128,
+      "percentual": 10.07,
+      "sqcand": "270001654140"
+    },
+    {
+      "nome": "ANTÔNIO MARCOS NUNES BANDEIRA",
+      "nomeUrna": "ANTÔNIO MARCOS",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 39,
+      "percentual": 3.07,
+      "sqcand": "270001620116"
+    },
+    {
+      "nome": "ROGERIO DE FREITAS LEDA BARROS",
+      "nomeUrna": "ROGÉRIO FREITAS",
+      "partido": "PSD",
+      "numero": "55500",
+      "votos": 37,
+      "percentual": 2.91,
+      "sqcand": "270001697341"
+    },
+    {
+      "nome": "MANOEL DIAMANTINO DE SOUZA JUNIOR",
+      "nomeUrna": "JÚNIOR DIAMANTINO",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 37,
+      "percentual": 2.91,
+      "sqcand": "270001697322"
+    },
+    {
+      "nome": "CLAUDIA TELLES DE MENEZES PIRES MARTINS LELIS",
+      "nomeUrna": "CLAUDIA LELIS",
+      "partido": "PV",
+      "numero": "43123",
+      "votos": 37,
+      "percentual": 2.91,
+      "sqcand": "270001620107"
+    }
+  ]
+}

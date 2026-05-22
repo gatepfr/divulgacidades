@@ -1,0 +1,271 @@
+{
+  "populacao": 2760,
+  "votosValidos": 2369,
+  "abstencao": 12.61,
+  "prefeito": {
+    "nome": "JUVENAL CONSOLARO",
+    "nomeUrna": "JUVENAL CONSOLARO",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 1038,
+    "percentual": 43.82,
+    "situacao": "Eleito",
+    "sqcand": "120002009703",
+    "vice": "JORGE ROBERTO MORTARI",
+    "viceNomeUrna": "JORGE ENFERMEIRO",
+    "partidoVice": "PSDB",
+    "sqcandVice": "120002009704",
+    "coligacao": "CIDADANIA / PSDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "RONIS DA SILVA MOREIRA",
+      "nomeUrna": "RONI SILVA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 205,
+      "percentual": 8.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002153990"
+    },
+    {
+      "nome": "LUCIENE TEODORA DA SILVA",
+      "nomeUrna": "LUCIENE TEODORA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 170,
+      "percentual": 7.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002153986"
+    },
+    {
+      "nome": "VAGNEY MOREIRA FERNANDES",
+      "nomeUrna": "VAGNEY FERNANDES",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 166,
+      "percentual": 7.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002153991"
+    },
+    {
+      "nome": "EDEGAR JOSÉ DE LIMA",
+      "nomeUrna": "EDEGAR LIMA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 160,
+      "percentual": 6.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002247818"
+    },
+    {
+      "nome": "THIAGO INÁCIO D PAULA FURTADO",
+      "nomeUrna": "THIAGO INÁCIO",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 149,
+      "percentual": 6.32,
+      "situacao": "Eleito por média",
+      "sqcand": "120002153985"
+    },
+    {
+      "nome": "JANIO FLAVIO DE ASSIS",
+      "nomeUrna": "JANIO RADINHO",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 124,
+      "percentual": 5.26,
+      "situacao": "Eleito por média",
+      "sqcand": "120002247821"
+    },
+    {
+      "nome": "IVAN MOREIRA LIMA",
+      "nomeUrna": "IVAN",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 110,
+      "percentual": 4.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002122382"
+    },
+    {
+      "nome": "DENIVAN BARBOSA FERREIRA",
+      "nomeUrna": "DENIVAN BARBOSA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 98,
+      "percentual": 4.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "120002059458"
+    },
+    {
+      "nome": "KELLY KARINE BERNARDES ALVES",
+      "nomeUrna": "KELLY BERNARDES",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 84,
+      "percentual": 3.56,
+      "situacao": "Eleito por média",
+      "sqcand": "120002153988"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+      "nomeUrna": "TEREZA CRISTINA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1067,
+      "percentual": 58.18,
+      "sqcand": "120001651640"
+    },
+    {
+      "nome": "LUIZ HENRIQUE MANDETTA",
+      "nomeUrna": "MANDETTA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 434,
+      "percentual": 23.66,
+      "sqcand": "120001609096"
+    },
+    {
+      "nome": "ODILON DE OLIVEIRA",
+      "nomeUrna": "JUIZ ODILON",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 216,
+      "percentual": 11.78,
+      "sqcand": "120001649892"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "APARECIDO CARLOS BERNARDO",
+      "nomeUrna": "CARLOS BERNARDO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 293,
+      "percentual": 15.93,
+      "sqcand": "120001636652"
+    },
+    {
+      "nome": "HUMBERTO REZENDE PEREIRA",
+      "nomeUrna": "BETO PEREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 272,
+      "percentual": 14.79,
+      "sqcand": "120001612323"
+    },
+    {
+      "nome": "FÁBIO RICARDO TRAD",
+      "nomeUrna": "FÁBIO TRAD",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 195,
+      "percentual": 10.6,
+      "sqcand": "120001650734"
+    },
+    {
+      "nome": "LUIZ ALBERTO OVANDO",
+      "nomeUrna": "DR. LUIZ OVANDO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 120,
+      "percentual": 6.53,
+      "sqcand": "120001645933"
+    },
+    {
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nomeUrna": "DR. GERALDO RESENDE",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 117,
+      "percentual": 6.36,
+      "sqcand": "120001612324"
+    },
+    {
+      "nome": "WALDEMIR MOKA MIRANDA DE BRITTO",
+      "nomeUrna": "MOKA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 117,
+      "percentual": 6.36,
+      "sqcand": "120001636657"
+    },
+    {
+      "nome": "WALTER BENEDITO CARNEIRO JUNIOR",
+      "nomeUrna": "WALTER CARNEIRO JR",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 93,
+      "percentual": 5.06,
+      "sqcand": "120001645938"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARA ELISA NAVACCHI CASEIRO",
+      "nomeUrna": "MARA CASEIRO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 284,
+      "percentual": 15.96,
+      "sqcand": "120001613592"
+    },
+    {
+      "nome": "PAULO JOSÉ ARAÚJO CORRÊA",
+      "nomeUrna": "PAULO CORRÊA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 173,
+      "percentual": 9.72,
+      "sqcand": "120001613595"
+    },
+    {
+      "nome": "JAMILSON LOPES NAME",
+      "nomeUrna": "JAMILSON NAME",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 168,
+      "percentual": 9.44,
+      "sqcand": "120001613597"
+    },
+    {
+      "nome": "LONDRES MACHADO",
+      "nomeUrna": "LONDRES MACHADO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 163,
+      "percentual": 9.16,
+      "sqcand": "120001645383"
+    },
+    {
+      "nome": "OSWALDO MOCHI JUNIOR",
+      "nomeUrna": "JUNIOR MOCHI",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 153,
+      "percentual": 8.6,
+      "sqcand": "120001643162"
+    },
+    {
+      "nome": "RINALDO MODESTO DE OLIVEIRA",
+      "nomeUrna": "PROFESSOR RINALDO MODESTO",
+      "partido": "PODE",
+      "numero": "19019",
+      "votos": 95,
+      "percentual": 5.34,
+      "sqcand": "120001615778"
+    },
+    {
+      "nome": "FABRICIO VENTUROLI LUNARDI",
+      "nomeUrna": "FABRICIO VENTUROLI",
+      "partido": "UNIÃO",
+      "numero": "44144",
+      "votos": 88,
+      "percentual": 4.94,
+      "sqcand": "120001609599"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "populacao": 30128,
+  "votosValidos": 24777,
+  "abstencao": 15.39,
+  "prefeito": {
+    "nome": "HENRIQUE SANDRO LOPES DA CUNHA",
+    "nomeUrna": "SANDRO CUNHA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 12374,
+    "percentual": 49.94,
+    "situacao": "Eleito",
+    "sqcand": "140002229041",
+    "vice": "NILTON PAES CARDOSO",
+    "viceNomeUrna": "NILTON PAES",
+    "partidoVice": "PSD",
+    "sqcandVice": "140002229040",
+    "coligacao": "MDB / PSD / CIDADANIA / PSDB / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "EDNA MARIA FERREIRA GARCIA",
+      "nomeUrna": "EDNA FERREIRA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 1225,
+      "percentual": 4.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002304401"
+    },
+    {
+      "nome": "ROLDÃO DE ALMEIDA LOBATO FILHO",
+      "nomeUrna": "ROLDÃO FILHO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 986,
+      "percentual": 3.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002304406"
+    },
+    {
+      "nome": "MARIA NUBIA DE SOUZA LACERDA",
+      "nomeUrna": "NUBIA LACERDA",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 856,
+      "percentual": 3.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002235154"
+    },
+    {
+      "nome": "MICHELE DE OLIVEIRA DA SILVA",
+      "nomeUrna": "MICHELE OLIVEIRA",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 824,
+      "percentual": 3.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002233621"
+    },
+    {
+      "nome": "ALENILDO OLIVEIRA LACERDA",
+      "nomeUrna": "NIDE LACERDA",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 795,
+      "percentual": 3.17,
+      "situacao": "Eleito por média",
+      "sqcand": "140002236947"
+    },
+    {
+      "nome": "NERCILENE MACEDO SANCHES",
+      "nomeUrna": "NERCILENE SANCHES",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 793,
+      "percentual": 3.16,
+      "situacao": "Eleito por média",
+      "sqcand": "140002235144"
+    },
+    {
+      "nome": "RONDINELI DE ALMEIDA COSTA",
+      "nomeUrna": "RONDINELI COSTA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 734,
+      "percentual": 2.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002304678"
+    },
+    {
+      "nome": "SEBASTIAO BAIA SANTANA",
+      "nomeUrna": "SABA SANTANA",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 730,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "140002233624"
+    },
+    {
+      "nome": "ROMARIO SENA LACERDA",
+      "nomeUrna": "ROMARIO LACERDA",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 682,
+      "percentual": 2.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002227191"
+    },
+    {
+      "nome": "MAURILIO DO MONTE PEREIRA",
+      "nomeUrna": "MAURILIO MONTE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 651,
+      "percentual": 2.6,
+      "situacao": "Eleito por média",
+      "sqcand": "140002227190"
+    },
+    {
+      "nome": "ANA MARIA VAZ LOBATO",
+      "nomeUrna": "ANA VAZ",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 617,
+      "percentual": 2.46,
+      "situacao": "Eleito por média",
+      "sqcand": "140002304399"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FERNANDO DE SOUZA FLEXA RIBEIRO",
+      "nomeUrna": "FLEXA RIBEIRO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 10185,
+      "percentual": 53.79,
+      "sqcand": "140001611666"
+    },
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 6392,
+      "percentual": 33.76,
+      "sqcand": "140001611661"
+    },
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2167,
+      "percentual": 11.45,
+      "sqcand": "140001600249"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+      "nomeUrna": "JOAQUIM PASSARINHO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 7845,
+      "percentual": 39.4,
+      "sqcand": "140001598308"
+    },
+    {
+      "nome": "JOÃO FERRARI JÚNIOR",
+      "nomeUrna": "JÚNIOR FERRARI",
+      "partido": "PSD",
+      "numero": "5588",
+      "votos": 2604,
+      "percentual": 13.08,
+      "sqcand": "140001620797"
+    },
+    {
+      "nome": "PAULO EDUARDO MAESTRI BENGTSON",
+      "nomeUrna": "PAULO BENGTSON",
+      "partido": "PTB",
+      "numero": "1456",
+      "votos": 2348,
+      "percentual": 11.79,
+      "sqcand": "140001615571"
+    },
+    {
+      "nome": "ALESSANDRA HABER CARVALHO SANTOS",
+      "nomeUrna": "DRA ALESSANDRA HABER",
+      "partido": "MDB",
+      "numero": "1567",
+      "votos": 1615,
+      "percentual": 8.11,
+      "sqcand": "140001621346"
+    },
+    {
+      "nome": "KENISTON DE JESUS REGO BRAGA",
+      "nomeUrna": "KENISTON",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 1442,
+      "percentual": 7.24,
+      "sqcand": "140001621344"
+    },
+    {
+      "nome": "JOSE BENITO PRIANTE JUNIOR",
+      "nomeUrna": "PRIANTE",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 695,
+      "percentual": 3.49,
+      "sqcand": "140001621340"
+    },
+    {
+      "nome": "DILVANDA FURTADO FARO",
+      "nomeUrna": "DILVANDA FARO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 496,
+      "percentual": 2.49,
+      "sqcand": "140001620897"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CARLOS VINICIOS DE MELO VIEIRA",
+      "nomeUrna": "CARLOS VINICIOS",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 5261,
+      "percentual": 28.35,
+      "sqcand": "140001676889"
+    },
+    {
+      "nome": "LUIZ FURTADO REBELO FILHO",
+      "nomeUrna": "LUTH REBELO",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 3748,
+      "percentual": 20.2,
+      "sqcand": "140001611628"
+    },
+    {
+      "nome": "IRAN ATAIDE DE LIMA",
+      "nomeUrna": "IRAN LIMA",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 2143,
+      "percentual": 11.55,
+      "sqcand": "140001676901"
+    },
+    {
+      "nome": "ANDREIA SERRA MELO",
+      "nomeUrna": "ANDREIA XARÃO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 2038,
+      "percentual": 10.98,
+      "sqcand": "140001676907"
+    },
+    {
+      "nome": "RENATO MACEDO SANCHES",
+      "nomeUrna": "RENATO SANCHES",
+      "partido": "PL",
+      "numero": "22200",
+      "votos": 1709,
+      "percentual": 9.21,
+      "sqcand": "140001601802"
+    },
+    {
+      "nome": "ORLANDO PALHETA LOBATO",
+      "nomeUrna": "ORLANDO LOBATO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 746,
+      "percentual": 4.02,
+      "sqcand": "140001650087"
+    },
+    {
+      "nome": "MICHELE BEGOT OLIVEIRA BISCARO",
+      "nomeUrna": "MICHELE BEGOT",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 557,
+      "percentual": 3.0,
+      "sqcand": "140001650085"
+    }
+  ]
+}

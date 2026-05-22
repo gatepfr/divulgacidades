@@ -1,0 +1,271 @@
+{
+  "populacao": 2892,
+  "votosValidos": 2394,
+  "abstencao": 13.24,
+  "prefeito": {
+    "nome": "CARLOS ALBERTO DE CASTRO  PEREIRA",
+    "nomeUrna": "BETO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 817,
+    "percentual": 34.13,
+    "situacao": "Eleito",
+    "sqcand": "130002267911",
+    "vice": "EDNEI DE OLIVEIRA ARAÚJO",
+    "viceNomeUrna": "DINEI",
+    "partidoVice": "PP",
+    "sqcandVice": "130002267912",
+    "coligacao": "PP / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "JOÃO PAULO INÁCIO",
+      "nomeUrna": "JOÃO PAULO DOS CRIMINOSOS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 256,
+      "percentual": 10.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001920388"
+    },
+    {
+      "nome": "FÁBIO ANTÔNIO RODRIGUES",
+      "nomeUrna": "FÁBIO DA SAÚDE",
+      "partido": "PRD",
+      "numero": "25000",
+      "votos": 153,
+      "percentual": 6.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001920399"
+    },
+    {
+      "nome": "NISCELINO GONÇALVES",
+      "nomeUrna": "LEPÁ",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77888",
+      "votos": 110,
+      "percentual": 4.55,
+      "situacao": "Eleito por média",
+      "sqcand": "130001920390"
+    },
+    {
+      "nome": "JOSIEL PEDRO FERREIRA GENEROSO",
+      "nomeUrna": "JOSIEL DO VICENTE",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 105,
+      "percentual": 4.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001920407"
+    },
+    {
+      "nome": "CLAUDIO OLIVEIRA ANTUNES",
+      "nomeUrna": "CLAUDINHO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 98,
+      "percentual": 4.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002267654"
+    },
+    {
+      "nome": "JONAS TADEU ROCHA",
+      "nomeUrna": "PROFESSOR JONAS ROCHA",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 98,
+      "percentual": 4.05,
+      "situacao": "Eleito por média",
+      "sqcand": "130001920401"
+    },
+    {
+      "nome": "WILSON JOSE LAMIN",
+      "nomeUrna": "WILSON BIQUINHO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 87,
+      "percentual": 3.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002271643"
+    },
+    {
+      "nome": "SELMA APARECIDA TEODORO",
+      "nomeUrna": "SELMA TEODORO",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 82,
+      "percentual": 3.39,
+      "situacao": "Eleito por média",
+      "sqcand": "130001920413"
+    },
+    {
+      "nome": "MAURO MARCELO DE OLIVEIRA ROSA",
+      "nomeUrna": "CECELO",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 71,
+      "percentual": 2.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002051715"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 874,
+      "percentual": 51.17,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 464,
+      "percentual": 27.17,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 355,
+      "percentual": 20.78,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ODAIR JOSÉ DA CUNHA",
+      "nomeUrna": "ODAIR CUNHA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 889,
+      "percentual": 48.58,
+      "sqcand": "130001607254"
+    },
+    {
+      "nome": "DIMAS FABIANO TOLEDO JUNIOR",
+      "nomeUrna": "DIMAS FABIANO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 428,
+      "percentual": 23.39,
+      "sqcand": "130001615433"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 98,
+      "percentual": 5.36,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "GERALDO JUNIO DO AMARAL",
+      "nomeUrna": "JUNIO AMARAL",
+      "partido": "PL",
+      "numero": "2238",
+      "votos": 52,
+      "percentual": 2.84,
+      "sqcand": "130001610992"
+    },
+    {
+      "nome": "FABIANO LOPES FERREIRA",
+      "nomeUrna": "FABIANO CAZECA",
+      "partido": "PATRIOTA",
+      "numero": "5154",
+      "votos": 48,
+      "percentual": 2.62,
+      "sqcand": "130001596001"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 35,
+      "percentual": 1.91,
+      "sqcand": "130001608227"
+    },
+    {
+      "nome": "EDUARDO LUIZ BARROS BARBOSA",
+      "nomeUrna": "EDUARDO BARBOSA",
+      "partido": "PSDB",
+      "numero": "4535",
+      "votos": 30,
+      "percentual": 1.64,
+      "sqcand": "130001613364"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ULYSSES GOMES DE OLIVEIRA NETO",
+      "nomeUrna": "ULYSSES GOMES",
+      "partido": "PT",
+      "numero": "13077",
+      "votos": 856,
+      "percentual": 50.12,
+      "sqcand": "130001607390"
+    },
+    {
+      "nome": "NACIB DUARTE BECHIR",
+      "nomeUrna": "DUARTE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 379,
+      "percentual": 22.19,
+      "sqcand": "130001604390"
+    },
+    {
+      "nome": "OSVALDO LOPES DE OLIVEIRA JUNIOR",
+      "nomeUrna": "OSVALDO LOPES",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 96,
+      "percentual": 5.62,
+      "sqcand": "130001604372"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 48,
+      "percentual": 2.81,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "CRISTIANO CAPOREZZO ARAUJO PIRES FERREIRA",
+      "nomeUrna": "CAPOREZZO",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 29,
+      "percentual": 1.7,
+      "sqcand": "130001619031"
+    },
+    {
+      "nome": "CARLOS EDUARDO DA SILVA",
+      "nomeUrna": "KADU EVENTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10035",
+      "votos": 26,
+      "percentual": 1.52,
+      "sqcand": "130001634079"
+    },
+    {
+      "nome": "CLEITON DE OLIVEIRA",
+      "nomeUrna": "PROFESSOR CLEITON (CLEITINHO)",
+      "partido": "PV",
+      "numero": "43700",
+      "votos": 20,
+      "percentual": 1.17,
+      "sqcand": "130001607410"
+    }
+  ]
+}

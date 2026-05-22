@@ -1,0 +1,271 @@
+{
+  "populacao": 4553,
+  "votosValidos": 4080,
+  "abstencao": 8.37,
+  "prefeito": {
+    "nome": "JEAN CARLOS BRAGA RIBEIRO",
+    "nomeUrna": "JEAN CARLOS",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 2042,
+    "percentual": 50.05,
+    "situacao": "Eleito",
+    "sqcand": "180002182335",
+    "vice": "VITAL CIRILO DE FRANÇA",
+    "viceNomeUrna": "VITAL FRANÇA",
+    "partidoVice": "PSD",
+    "sqcandVice": "180002182336",
+    "coligacao": "PP / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "NOÉ RIBEIRO DOS SANTOS",
+      "nomeUrna": "NOÉ SANTOS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 424,
+      "percentual": 10.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002181941"
+    },
+    {
+      "nome": "CARLA BEATRIZ LIMA MATA",
+      "nomeUrna": "BIA DA MATA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 400,
+      "percentual": 9.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001976012"
+    },
+    {
+      "nome": "SALETE BRAGA RIBEIRO",
+      "nomeUrna": "SALETE BRAGA",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 360,
+      "percentual": 8.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002181945"
+    },
+    {
+      "nome": "GENESIO PASCOAL RIBEIRO",
+      "nomeUrna": "GENISIO PASCOAL",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 345,
+      "percentual": 8.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001976009"
+    },
+    {
+      "nome": "NAYARA TORRES DOS SANTOS",
+      "nomeUrna": "NAYARA TORRES",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 321,
+      "percentual": 7.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001976013"
+    },
+    {
+      "nome": "VINÍCIUS RIBEIRO FRANÇA",
+      "nomeUrna": "VÍTOR FRANÇA",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 274,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "180002181940"
+    },
+    {
+      "nome": "SILVANO DE OLIVEIRA FEITOSA",
+      "nomeUrna": "SILVANO OLIVEIRA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 255,
+      "percentual": 6.28,
+      "situacao": "Eleito por média",
+      "sqcand": "180002181944"
+    },
+    {
+      "nome": "VALDIVINO JOSÉ RIBEIRO",
+      "nomeUrna": "PROF. VALDIVINO JOSE",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 224,
+      "percentual": 5.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001976014"
+    },
+    {
+      "nome": "REINALDO GOMES DE MORAIS",
+      "nomeUrna": "REINALDO MORAIS",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 214,
+      "percentual": 5.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "180001976016"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSE WELLINGTON BARROSO DE ARAUJO DIAS",
+      "nomeUrna": "WELLINGTON DIAS",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1982,
+      "percentual": 58.07,
+      "sqcand": "180001605662"
+    },
+    {
+      "nome": "JOEL RODRIGUES DA SILVA",
+      "nomeUrna": "JOEL RODRIGUES",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1424,
+      "percentual": 41.72,
+      "sqcand": "180001600654"
+    },
+    {
+      "nome": "ANTONIO JOSÉ FONTINELE DA SILVA",
+      "nomeUrna": "PROFESSOR AJOSÉ",
+      "partido": "PMN",
+      "numero": "333",
+      "votos": 7,
+      "percentual": 0.21,
+      "sqcand": "180001714361"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ DIAS DE CASTRO NETO",
+      "nomeUrna": "CASTRO NETO",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 1248,
+      "percentual": 36.31,
+      "sqcand": "180001602552"
+    },
+    {
+      "nome": "JULIO FERRAZ ARCOVERDE",
+      "nomeUrna": "JULIO ARCOVERDE",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 1218,
+      "percentual": 35.44,
+      "sqcand": "180001602515"
+    },
+    {
+      "nome": "MERLONG SOLANO NOGUEIRA",
+      "nomeUrna": "MERLONG SOLANO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 402,
+      "percentual": 11.7,
+      "sqcand": "180001610763"
+    },
+    {
+      "nome": "REJANE RIBEIRO SOUSA DIAS",
+      "nomeUrna": "REJANE DIAS",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 277,
+      "percentual": 8.06,
+      "sqcand": "180001610756"
+    },
+    {
+      "nome": "MARGARETE DE CASTRO COELHO",
+      "nomeUrna": "MARGARETE COELHO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 77,
+      "percentual": 2.24,
+      "sqcand": "180001602512"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS DE OLIVEIRA COSTA",
+      "nomeUrna": "DR. FRANCISCO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 41,
+      "percentual": 1.19,
+      "sqcand": "180001610755"
+    },
+    {
+      "nome": "WILSON NUNES MARTINS",
+      "nomeUrna": "WILSON MARTINS",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 31,
+      "percentual": 0.9,
+      "sqcand": "180001610757"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ ICEMAR LAVÔR NÉRI",
+      "nomeUrna": "NERINHO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 1003,
+      "percentual": 29.72,
+      "sqcand": "180001605695"
+    },
+    {
+      "nome": "THALES COELHO PIMENTEL",
+      "nomeUrna": "DR. THALES",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 996,
+      "percentual": 29.51,
+      "sqcand": "180001604044"
+    },
+    {
+      "nome": "GIL CARLOS MODESTO ALVES",
+      "nomeUrna": "DR. GIL CARLOS ",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 399,
+      "percentual": 11.82,
+      "sqcand": "180001605680"
+    },
+    {
+      "nome": "FIRMINO SOARES PAULO",
+      "nomeUrna": "FIRMINO PAULO",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 398,
+      "percentual": 11.79,
+      "sqcand": "180001605687"
+    },
+    {
+      "nome": "FRANCISCO DAS CHAGAS LIMMA",
+      "nomeUrna": "LIMMA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 258,
+      "percentual": 7.64,
+      "sqcand": "180001605693"
+    },
+    {
+      "nome": "HÉLIO ISAIAS DA SILVA",
+      "nomeUrna": "HÉLIO ISAIAS",
+      "partido": "PT",
+      "numero": "13454",
+      "votos": 133,
+      "percentual": 3.94,
+      "sqcand": "180001605673"
+    },
+    {
+      "nome": "JANAINNA PINTO MARQUES TAVARES",
+      "nomeUrna": "JANAINNA MARQUES",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 19,
+      "percentual": 0.56,
+      "sqcand": "180001605692"
+    }
+  ]
+}

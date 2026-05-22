@@ -1,0 +1,391 @@
+{
+  "populacao": 165504,
+  "votosValidos": 102938,
+  "abstencao": 28.42,
+  "prefeito": {
+    "nome": "RAFAEL BORTOLETTI DALLA NORA",
+    "nomeUrna": "RAFAEL BORTOLETTI",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 49914,
+    "percentual": 48.49,
+    "situacao": "Eleito",
+    "sqcand": "210002151599",
+    "vice": "MARCIEL FAURI BERGMANN",
+    "viceNomeUrna": "MANINHO FAURI",
+    "partidoVice": "PSDB",
+    "sqcandVice": "210002151600",
+    "coligacao": "PODE / PP / UNIÃO / REPUBLICANOS / AGIR / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "MICHELE GALVÃO DA SILVA",
+      "nomeUrna": "ENFERMEIRA MICHELE GALVÃO",
+      "partido": "PSDB",
+      "numero": "45455",
+      "votos": 2717,
+      "percentual": 2.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151163"
+    },
+    {
+      "nome": "LUIS FELIPE ALMADA",
+      "nomeUrna": "FELIPE ALMADA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 2075,
+      "percentual": 1.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002285046"
+    },
+    {
+      "nome": "PLINIO ROGERIO DA SILVA",
+      "nomeUrna": "PLINIO KONIG",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 1888,
+      "percentual": 1.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151160"
+    },
+    {
+      "nome": "LUIS ANTONIO MENEZES DE SOUZA",
+      "nomeUrna": "LUISINHO DO ESPIGÃO",
+      "partido": "PSDB",
+      "numero": "45500",
+      "votos": 1877,
+      "percentual": 1.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151172"
+    },
+    {
+      "nome": "MARCIA ISABEL LOPES CULAU",
+      "nomeUrna": "PROFª MARCIA CULAU",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 1856,
+      "percentual": 1.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151174"
+    },
+    {
+      "nome": "DIEGO RAMOS DOS SANTOS",
+      "nomeUrna": "DIEGUINHO SANTOS",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1817,
+      "percentual": 1.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002321163"
+    },
+    {
+      "nome": "THIAGO RODRIGUES GUTIERRES",
+      "nomeUrna": "THIAGO GUTIERRES",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 1677,
+      "percentual": 1.58,
+      "situacao": "Eleito por média",
+      "sqcand": "210002321179"
+    },
+    {
+      "nome": "LEANDRO ALVES BONATTO",
+      "nomeUrna": "LEANDRO BONATTO",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 1606,
+      "percentual": 1.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002151167"
+    },
+    {
+      "nome": "LUCAS DA SILVA DE SOUZA",
+      "nomeUrna": "LUCAS SOUZA",
+      "partido": "PSDB",
+      "numero": "45800",
+      "votos": 1532,
+      "percentual": 1.45,
+      "situacao": "Eleito por média",
+      "sqcand": "210002151161"
+    },
+    {
+      "nome": "DIEGO DA COSTA PETRY",
+      "nomeUrna": "DIEGO PETRY",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 1496,
+      "percentual": 1.41,
+      "situacao": "Eleito por média",
+      "sqcand": "210002151159"
+    },
+    {
+      "nome": "ALEXANDRE GOMES MELLO",
+      "nomeUrna": "XANDÃO GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "10300",
+      "votos": 1434,
+      "percentual": 1.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002022122"
+    },
+    {
+      "nome": "ALEX SANDER ALVES BOSCAINI",
+      "nomeUrna": "ALEX BOSCAINI",
+      "partido": "PT",
+      "numero": "13040",
+      "votos": 1350,
+      "percentual": 1.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002145261"
+    },
+    {
+      "nome": "MARCO ANTONIO NUNES VIEIRA",
+      "nomeUrna": "MARCO ANTONIO BORREGA",
+      "partido": "PDT",
+      "numero": "12040",
+      "votos": 1345,
+      "percentual": 1.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002021672"
+    },
+    {
+      "nome": "MAURICIO VERA CARRAVETTA",
+      "nomeUrna": "MAURICIO CARRAVETTA",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 1327,
+      "percentual": 1.25,
+      "situacao": "Eleito por média",
+      "sqcand": "210002285047"
+    },
+    {
+      "nome": "RODRIGO POX SILVEIRA DA SILVA",
+      "nomeUrna": "RODRIGO POX",
+      "partido": "PODE",
+      "numero": "20118",
+      "votos": 1235,
+      "percentual": 1.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002023135"
+    },
+    {
+      "nome": "MARCUS VINÍCIUS COSTA ALVES",
+      "nomeUrna": "MARKINHOS DA ESTALAGEM",
+      "partido": "AGIR",
+      "numero": "36321",
+      "votos": 1209,
+      "percentual": 1.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002264545"
+    },
+    {
+      "nome": "WILLIAM RODRIGUES PEREIRA",
+      "nomeUrna": "WILLIAM PEREIRA",
+      "partido": "PODE",
+      "numero": "20040",
+      "votos": 1075,
+      "percentual": 1.02,
+      "situacao": "Eleito por média",
+      "sqcand": "210002023123"
+    },
+    {
+      "nome": "ERALDO ANTONIO ALMEIDA ROGGIA",
+      "nomeUrna": "ERALDO ROGGIA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 1049,
+      "percentual": 0.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002024158"
+    },
+    {
+      "nome": "EDA REGINA DA SILVA GIENDRUCZAK DE GODOY",
+      "nomeUrna": "EDA",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 1038,
+      "percentual": 0.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002021670"
+    },
+    {
+      "nome": "LUCIANO ALVES",
+      "nomeUrna": "LUCIANINHO UNIDOS PELO BEM",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 1024,
+      "percentual": 0.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002262524"
+    },
+    {
+      "nome": "JONAS RODRIGUES SILVA",
+      "nomeUrna": "JONAS RODRIGUES",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 920,
+      "percentual": 0.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002023671"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 49149,
+      "percentual": 45.25,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 36679,
+      "percentual": 33.77,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 20941,
+      "percentual": 19.28,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NELSON MARCHEZAN JÚNIOR",
+      "nomeUrna": "NELSON MARCHEZAN JÚNIOR",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 11582,
+      "percentual": 10.91,
+      "sqcand": "210001620058"
+    },
+    {
+      "nome": "CARLOS AUGUSTO DA SILVA LOPES",
+      "nomeUrna": "GUTO LOPES",
+      "partido": "PT",
+      "numero": "1365",
+      "votos": 8382,
+      "percentual": 7.9,
+      "sqcand": "210001604639"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 7775,
+      "percentual": 7.33,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "FERNANDA MELCHIONNA E SILVA",
+      "nomeUrna": "FERNANDA MELCHIONNA",
+      "partido": "PSOL",
+      "numero": "5050",
+      "votos": 5422,
+      "percentual": 5.11,
+      "sqcand": "210001596928"
+    },
+    {
+      "nome": "ANY MACHADO ORTIZ",
+      "nomeUrna": "ANY ORTIZ",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 4339,
+      "percentual": 4.09,
+      "sqcand": "210001620037"
+    },
+    {
+      "nome": "MARIA DO ROSÁRIO NUNES",
+      "nomeUrna": "MARIA DO ROSÁRIO",
+      "partido": "PT",
+      "numero": "1370",
+      "votos": 4076,
+      "percentual": 3.84,
+      "sqcand": "210001604650"
+    },
+    {
+      "nome": "DAIANA SILVA DOS SANTOS",
+      "nomeUrna": "DAIANA SANTOS",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 3190,
+      "percentual": 3.01,
+      "sqcand": "210001604641"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VALDIR BONATTO",
+      "nomeUrna": "PROFESSOR BONATTO",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 35601,
+      "percentual": 32.77,
+      "sqcand": "210001620198"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 6554,
+      "percentual": 6.03,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "MARTIM TODESCO ADREANI",
+      "nomeUrna": "CAPITÃO MARTIM",
+      "partido": "REPUBLICANOS",
+      "numero": "10122",
+      "votos": 5388,
+      "percentual": 4.96,
+      "sqcand": "210001601642"
+    },
+    {
+      "nome": "ALEX SANDER ALVES BOSCAINI",
+      "nomeUrna": "ALEX BOSCAINI",
+      "partido": "PT",
+      "numero": "13040",
+      "votos": 5080,
+      "percentual": 4.68,
+      "sqcand": "210001610596"
+    },
+    {
+      "nome": "JESSE SANGALLI DE MELLO",
+      "nomeUrna": "JESSE SANGALLI",
+      "partido": "CIDADANIA",
+      "numero": "23200",
+      "votos": 4647,
+      "percentual": 4.28,
+      "sqcand": "210001620232"
+    },
+    {
+      "nome": "MATHEUS PEREIRA GOMES",
+      "nomeUrna": "MATHEUS GOMES",
+      "partido": "PSOL",
+      "numero": "50123",
+      "votos": 2832,
+      "percentual": 2.61,
+      "sqcand": "210001598529"
+    },
+    {
+      "nome": "LUCIANA KREBS GENRO",
+      "nomeUrna": "LUCIANA GENRO",
+      "partido": "PSOL",
+      "numero": "50000",
+      "votos": 2590,
+      "percentual": 2.38,
+      "sqcand": "210001598528"
+    }
+  ]
+}

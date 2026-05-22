@@ -1,0 +1,271 @@
+{
+  "populacao": 4402,
+  "votosValidos": 3691,
+  "abstencao": 13.74,
+  "prefeito": {
+    "nome": "IZABEL CRISTINA  GOMES RODRIGUES VIEIRA",
+    "nomeUrna": "IZABEL DE NOLLET",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1859,
+    "percentual": 50.37,
+    "situacao": "Eleito",
+    "sqcand": "260002052595",
+    "vice": "SHIRLEY GRACIELE LIMA SANTOS",
+    "viceNomeUrna": "GRACI DE SHOWRICA",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "260002052594",
+    "coligacao": "REPUBLICANOS / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "GERALDO ANSELMO DA SILVA SANTOS",
+      "nomeUrna": "GERALDO DE PIABA",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 272,
+      "percentual": 7.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002138158"
+    },
+    {
+      "nome": "MAURÍCIO RAIMUNDO SANTOS",
+      "nomeUrna": "MAURÍCIO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 252,
+      "percentual": 6.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002138555"
+    },
+    {
+      "nome": "CARLOS AUGUSTO SIQUEIRA DE JESUS",
+      "nomeUrna": "BACALHAU",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 243,
+      "percentual": 6.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002138156"
+    },
+    {
+      "nome": "JOELITON SANTOS LIMA",
+      "nomeUrna": "JUCA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 228,
+      "percentual": 6.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002088502"
+    },
+    {
+      "nome": "YURI ARLING ALMEIDA DA CRUZ",
+      "nomeUrna": "YURI DO BOMFIM",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 192,
+      "percentual": 5.19,
+      "situacao": "Eleito por média",
+      "sqcand": "260002138163"
+    },
+    {
+      "nome": "JOSE LADISLAU DOS SANTOS FILHO",
+      "nomeUrna": "BILA",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 168,
+      "percentual": 4.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002288012"
+    },
+    {
+      "nome": "JUSIVALDO DOS SANTOS",
+      "nomeUrna": "VERMELHO",
+      "partido": "PP",
+      "numero": "11112",
+      "votos": 150,
+      "percentual": 4.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002138552"
+    },
+    {
+      "nome": "CLECIO DE OLIVEIRA LIMA",
+      "nomeUrna": "DHYME CLECIO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 141,
+      "percentual": 3.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002288013"
+    },
+    {
+      "nome": "WENISSON SANTOS",
+      "nomeUrna": "ENO",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 135,
+      "percentual": 3.65,
+      "situacao": "Eleito por média",
+      "sqcand": "260002088501"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "LAERCIO JOSE DE OLIVEIRA",
+      "nomeUrna": "LAÉRCIO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1212,
+      "percentual": 46.28,
+      "sqcand": "260001635426"
+    },
+    {
+      "nome": "ANTONIO CARLOS VALADARES FILHO",
+      "nomeUrna": "VALADARES FILHO",
+      "partido": "PSB",
+      "numero": "404",
+      "votos": 651,
+      "percentual": 24.86,
+      "sqcand": "260001666588"
+    },
+    {
+      "nome": "EDUARDO ALVES DO AMORIM",
+      "nomeUrna": "DR. EDUARDO AMORIM",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 519,
+      "percentual": 19.82,
+      "sqcand": "260001693738"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SAMUEL ALVES BARRETO",
+      "nomeUrna": "CAPITÃO SAMUEL",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 817,
+      "percentual": 29.43,
+      "sqcand": "260001633056"
+    },
+    {
+      "nome": "YANDRA BARRETO FERREIRA",
+      "nomeUrna": "YANDRA DE ANDRÉ",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 288,
+      "percentual": 10.37,
+      "sqcand": "260001728384"
+    },
+    {
+      "nome": "JOSÉ DE OLIVEIRA GUIMARÃES",
+      "nomeUrna": "ZEZINHO GUIMARÃES",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 233,
+      "percentual": 8.39,
+      "sqcand": "260001713565"
+    },
+    {
+      "nome": "LUIZ AUGUSTO CARVALHO RIBEIRO FILHO",
+      "nomeUrna": "GUSTINHO RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 231,
+      "percentual": 8.32,
+      "sqcand": "260001618176"
+    },
+    {
+      "nome": "JOAO SOMARIVA DANIEL",
+      "nomeUrna": "JOAO DANIEL",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 219,
+      "percentual": 7.89,
+      "sqcand": "260001667975"
+    },
+    {
+      "nome": "ICARO BARBOSA COSTA",
+      "nomeUrna": "ICARO DE VALMIR",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 179,
+      "percentual": 6.45,
+      "sqcand": "260001737580"
+    },
+    {
+      "nome": "ELIANE AQUINO CUSTODIO",
+      "nomeUrna": "ELIANE AQUINO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 115,
+      "percentual": 4.14,
+      "sqcand": "260001667976"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JEFERSON LUIZ DE ANDRADE",
+      "nomeUrna": "JEFERSON ANDRADE",
+      "partido": "PSD",
+      "numero": "55250",
+      "votos": 441,
+      "percentual": 16.0,
+      "sqcand": "260001636411"
+    },
+    {
+      "nome": "JOSÉ BATALHA DE GOES NETO",
+      "nomeUrna": "NETO BATALHA",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 361,
+      "percentual": 13.09,
+      "sqcand": "260001644221"
+    },
+    {
+      "nome": "LUIZ GARIBALDE RABELO DE MENDONÇA",
+      "nomeUrna": "GARIBALDE",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 266,
+      "percentual": 9.65,
+      "sqcand": "260001669431"
+    },
+    {
+      "nome": "JOSEFA AUREA DE SOUZA RIBEIRO",
+      "nomeUrna": "AUREA RIBEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 190,
+      "percentual": 6.89,
+      "sqcand": "260001618227"
+    },
+    {
+      "nome": "JOSÉ MARCOS MORAIS SANTOS",
+      "nomeUrna": "SARGENTO MORAIS NEGO LAU",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 131,
+      "percentual": 4.75,
+      "sqcand": "260001712250"
+    },
+    {
+      "nome": "LUCIANO AZEVEDO PIMENTEL",
+      "nomeUrna": "LUCIANO PIMENTEL",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 122,
+      "percentual": 4.43,
+      "sqcand": "260001644231"
+    },
+    {
+      "nome": "MARIA DO CARMO PAIVA DA SILVA",
+      "nomeUrna": "CARMINHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10200",
+      "votos": 110,
+      "percentual": 3.99,
+      "sqcand": "260001618237"
+    }
+  ]
+}

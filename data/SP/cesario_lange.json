@@ -1,0 +1,291 @@
+{
+  "populacao": 13984,
+  "votosValidos": 10160,
+  "abstencao": 21.25,
+  "prefeito": {
+    "nome": "RAMIRO DE CAMPOS",
+    "nomeUrna": "RAMIRO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 4613,
+    "percentual": 45.4,
+    "situacao": "Eleito",
+    "sqcand": "250002028874",
+    "vice": "ANDRE LUIZ SOARES DE ARRUDA",
+    "viceNomeUrna": "ANDRÉ CANJICA",
+    "partidoVice": "PSD",
+    "sqcandVice": "250002028875",
+    "coligacao": "REPUBLICANOS / PP / PSB / PSD / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "FELIPE AUGUSTO DE CAMPOS ROCHA",
+      "nomeUrna": "FELIPE ROCHA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 368,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001909351"
+    },
+    {
+      "nome": "HAMILTON GABRIEL VIEIRA DE LIMA",
+      "nomeUrna": "GABRIEL BIANO",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 325,
+      "percentual": 3.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002139690"
+    },
+    {
+      "nome": "ROGERIO TELES DA SILVA",
+      "nomeUrna": "ROGÉRIO DA FARMACIA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 296,
+      "percentual": 2.98,
+      "situacao": "Eleito por média",
+      "sqcand": "250001909354"
+    },
+    {
+      "nome": "CRISTIANO DE JESUS RODRIGUES",
+      "nomeUrna": "CRISTIANO DO MAURO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77007",
+      "votos": 281,
+      "percentual": 2.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002140984"
+    },
+    {
+      "nome": "GUSTAVO BORTOLON DOS SANTOS CAMARGO",
+      "nomeUrna": "GUSTAVO CAMARGO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 263,
+      "percentual": 2.65,
+      "situacao": "Eleito por média",
+      "sqcand": "250002140983"
+    },
+    {
+      "nome": "JOSELIA APARECIDA DE LIMA",
+      "nomeUrna": "JO DA SACOLA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 259,
+      "percentual": 2.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002138916"
+    },
+    {
+      "nome": "ALESSANDRO DONIZETE PAES VIEIRA",
+      "nomeUrna": "ALESSANDRO DA SANTA CASA",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 237,
+      "percentual": 2.38,
+      "situacao": "Eleito por média",
+      "sqcand": "250002139685"
+    },
+    {
+      "nome": "MARCOS VINICIUS DE CAMARGO MOURA",
+      "nomeUrna": "MARQUINHO DO GRÊMIO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 219,
+      "percentual": 2.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002136511"
+    },
+    {
+      "nome": "MARCOS DE JESUS CALAÇA",
+      "nomeUrna": "CALAÇA DO CALAÇAÍ",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 162,
+      "percentual": 1.63,
+      "situacao": "Eleito por média",
+      "sqcand": "250002136510"
+    },
+    {
+      "nome": "JOSÉ MATEUS PEDRO",
+      "nomeUrna": "MATEUS PEDRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 154,
+      "percentual": 1.55,
+      "situacao": "Eleito por média",
+      "sqcand": "250002138914"
+    },
+    {
+      "nome": "DANIELA NUNES FARIAS",
+      "nomeUrna": "DANIELA FARIAS",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 146,
+      "percentual": 1.47,
+      "situacao": "Eleito por média",
+      "sqcand": "250001909245"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 5285,
+      "percentual": 65.85,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1734,
+      "percentual": 21.6,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 721,
+      "percentual": 8.98,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "VITOR LIPPI",
+      "nomeUrna": "VITOR LIPPI",
+      "partido": "PSDB",
+      "numero": "4510",
+      "votos": 987,
+      "percentual": 11.5,
+      "sqcand": "250001612095"
+    },
+    {
+      "nome": "JOSÉ GUILHERME NEGRÃO PEIXOTO",
+      "nomeUrna": "GUIGA PEIXOTO",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 613,
+      "percentual": 7.14,
+      "sqcand": "250001643898"
+    },
+    {
+      "nome": "PAULO ADRIANO LOPES LUCINDA TELHADA",
+      "nomeUrna": "CORONEL TELHADA",
+      "partido": "PP",
+      "numero": "1190",
+      "votos": 534,
+      "percentual": 6.22,
+      "sqcand": "250001612021"
+    },
+    {
+      "nome": "RITA DE CASSIA TRINCA PASSOS",
+      "nomeUrna": "RITA PASSOS",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 509,
+      "percentual": 5.93,
+      "sqcand": "250001611860"
+    },
+    {
+      "nome": "ALEXANDRE LEITE DA SILVA",
+      "nomeUrna": "ALEXANDRE LEITE",
+      "partido": "UNIÃO",
+      "numero": "4425",
+      "votos": 318,
+      "percentual": 3.7,
+      "sqcand": "250001602036"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 270,
+      "percentual": 3.15,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "MOSART ARAGÃO PEREIRA",
+      "nomeUrna": "TENENTE MOSART",
+      "partido": "PL",
+      "numero": "2238",
+      "votos": 257,
+      "percentual": 2.99,
+      "sqcand": "250001611308"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALESSANDRA VIEIRA DE CAMARGO TELES",
+      "nomeUrna": "ALESSANDRA GONZAGA",
+      "partido": "PSDB",
+      "numero": "45122",
+      "votos": 1257,
+      "percentual": 15.77,
+      "sqcand": "250001611479"
+    },
+    {
+      "nome": "RAFAEL HENRIQUE CANO TELHADA",
+      "nomeUrna": "CAPITÃO TELHADA",
+      "partido": "PP",
+      "numero": "11190",
+      "votos": 541,
+      "percentual": 6.79,
+      "sqcand": "250001612252"
+    },
+    {
+      "nome": "DANILO BERTIPAGLIA BARNABÉ",
+      "nomeUrna": "DANILO BARNABÉ",
+      "partido": "PL",
+      "numero": "22223",
+      "votos": 454,
+      "percentual": 5.69,
+      "sqcand": "250001610114"
+    },
+    {
+      "nome": "EDSON DE OLIVEIRA GIRIBONI",
+      "nomeUrna": "EDSON GIRIBONI",
+      "partido": "UNIÃO",
+      "numero": "44001",
+      "votos": 371,
+      "percentual": 4.65,
+      "sqcand": "250001602173"
+    },
+    {
+      "nome": "MARIA LUCIA CARDOSO PINTO AMARY",
+      "nomeUrna": "MARIA LUCIA AMARY",
+      "partido": "PSDB",
+      "numero": "45114",
+      "votos": 309,
+      "percentual": 3.88,
+      "sqcand": "250001611490"
+    },
+    {
+      "nome": "JORGE WILSON GONÇALVES DE MATTOS",
+      "nomeUrna": "JORGE WILSON XERIFE CONSUMIDOR",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 299,
+      "percentual": 3.75,
+      "sqcand": "250001639542"
+    },
+    {
+      "nome": "LUIS DONIZETTI VAZ JUNIOR",
+      "nomeUrna": "JUNIOR VAZ",
+      "partido": "PSC",
+      "numero": "20022",
+      "votos": 298,
+      "percentual": 3.74,
+      "sqcand": "250001643779"
+    }
+  ]
+}

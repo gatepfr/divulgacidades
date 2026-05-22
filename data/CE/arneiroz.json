@@ -1,0 +1,271 @@
+{
+  "populacao": 7088,
+  "votosValidos": 5938,
+  "abstencao": 12.68,
+  "prefeito": {
+    "nome": "ANTONIO MONTEIRO PEDROSA FILHO",
+    "nomeUrna": "MONTEIRO FILHO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 4159,
+    "percentual": 70.04,
+    "situacao": "Eleito",
+    "sqcand": "60001982923",
+    "vice": "LEONARDO ALVES DE ARAÚJO",
+    "viceNomeUrna": "LEONARDO ARAÚJO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "60001982922",
+    "coligacao": "REPUBLICANOS / PSD / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "ANTONIO LUCAS CARLOS DE OLIVEIRA",
+      "nomeUrna": "LUCAS JATO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 588,
+      "percentual": 9.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002039960"
+    },
+    {
+      "nome": "AIRTON OLIVEIRA DE ARAUJO",
+      "nomeUrna": "AIRTON NOVINHO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77666",
+      "votos": 529,
+      "percentual": 8.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "60001983006"
+    },
+    {
+      "nome": "AGLAILDO DE SOUSA EVANGELISTA",
+      "nomeUrna": "DADÁ DO GUSTAVO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 513,
+      "percentual": 8.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "60001983004"
+    },
+    {
+      "nome": "RAIMUNDA HILDA MONTEIRO LIMA",
+      "nomeUrna": "HILDA MONTEIRO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77999",
+      "votos": 505,
+      "percentual": 8.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "60001983005"
+    },
+    {
+      "nome": "NARA RUTHE CAVALCANTE HOLANDA MONTEIRO",
+      "nomeUrna": "NARA RUTHE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77333",
+      "votos": 480,
+      "percentual": 7.98,
+      "situacao": "Eleito por média",
+      "sqcand": "60001983011"
+    },
+    {
+      "nome": "JOÃO MARCELO PETROLA CORDEIRO",
+      "nomeUrna": "JOÃO MARCELO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 474,
+      "percentual": 7.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002286404"
+    },
+    {
+      "nome": "ANTONIO MORAIS SOBRINHO",
+      "nomeUrna": "MORAIS SOBRINHO",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 441,
+      "percentual": 7.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002039956"
+    },
+    {
+      "nome": "ANTONIO IRACILDO VIEIRA GOMES",
+      "nomeUrna": "IRACILDO",
+      "partido": "PSD",
+      "numero": "55610",
+      "votos": 405,
+      "percentual": 6.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002039955"
+    },
+    {
+      "nome": "ERALDO DE SOUSA LIMA",
+      "nomeUrna": "ERALDO",
+      "partido": "PSD",
+      "numero": "55655",
+      "votos": 379,
+      "percentual": 6.3,
+      "situacao": "Eleito por média",
+      "sqcand": "60002039959"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 4006,
+      "percentual": 82.63,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 483,
+      "percentual": 9.96,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 359,
+      "percentual": 7.41,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MATHEUS SOARES NORONHA",
+      "nomeUrna": "MATHEUS NORONHA",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 2497,
+      "percentual": 50.2,
+      "sqcand": "60001614168"
+    },
+    {
+      "nome": "DOMINGOS GOMES DE AGUIAR NETO",
+      "nomeUrna": "DOMINGOS NETO",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1135,
+      "percentual": 22.82,
+      "sqcand": "60001601183"
+    },
+    {
+      "nome": "ANDRÉ PEIXOTO FIGUEIREDO LIMA",
+      "nomeUrna": "ANDRÉ FIGUEIREDO",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 275,
+      "percentual": 5.53,
+      "sqcand": "60001603484"
+    },
+    {
+      "nome": "ANTONIO GUEDES CAVALCANTE JÚNIOR",
+      "nomeUrna": "JÚNIOR GUEDES",
+      "partido": "PATRIOTA",
+      "numero": "5123",
+      "votos": 166,
+      "percentual": 3.34,
+      "sqcand": "60001619141"
+    },
+    {
+      "nome": "EUNÍCIO LOPES DE OLIVEIRA",
+      "nomeUrna": "EUNÍCIO",
+      "partido": "MDB",
+      "numero": "1533",
+      "votos": 112,
+      "percentual": 2.25,
+      "sqcand": "60001643110"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 102,
+      "percentual": 2.05,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "JOSE NOBRE GUIMARAES",
+      "nomeUrna": "GUIMARÃES DO PT",
+      "partido": "PT",
+      "numero": "1322",
+      "votos": 95,
+      "percentual": 1.91,
+      "sqcand": "60001619124"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GABRIELLA PEQUENO COSTA GOMES DE AGUIAR",
+      "nomeUrna": "GABRIELLA AGUIAR",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 2151,
+      "percentual": 45.96,
+      "sqcand": "60001613538"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS DINIZ",
+      "nomeUrna": "DE ASSIS DINIZ",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 1147,
+      "percentual": 24.51,
+      "sqcand": "60001633671"
+    },
+    {
+      "nome": "SIMÃO PEDRO ALVES PEQUENO",
+      "nomeUrna": "SIMÃO PEDRO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 609,
+      "percentual": 13.01,
+      "sqcand": "60001613526"
+    },
+    {
+      "nome": "AUDIC CAVALCANTE MOTA DIAS",
+      "nomeUrna": "AUDIC MOTA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 159,
+      "percentual": 3.4,
+      "sqcand": "60001635804"
+    },
+    {
+      "nome": "PEDRO NETO LOBO SOARES",
+      "nomeUrna": "PEDRO LOBO",
+      "partido": "PT",
+      "numero": "13111",
+      "votos": 95,
+      "percentual": 2.03,
+      "sqcand": "60001633676"
+    },
+    {
+      "nome": "ANTONIO HENRIQUE DA SILVA",
+      "nomeUrna": "ANTONIO HENRIQUE",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 44,
+      "percentual": 0.94,
+      "sqcand": "60001603547"
+    },
+    {
+      "nome": "CARMELO SILVEIRA CARNEIRO LEÃO NETO",
+      "nomeUrna": "CARMELO NETO",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 40,
+      "percentual": 0.85,
+      "sqcand": "60001633791"
+    }
+  ]
+}

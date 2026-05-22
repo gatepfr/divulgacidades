@@ -1,0 +1,451 @@
+{
+  "populacao": 665181,
+  "votosValidos": 459146,
+  "abstencao": 26.15,
+  "prefeito": {
+    "nome": "NELSON RUAS DOS SANTOS",
+    "nomeUrna": "CAPITÃO NELSON",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 387914,
+    "percentual": 84.49,
+    "situacao": "Eleito",
+    "sqcand": "190001883923",
+    "vice": "JOÃO VICTOR DE FIGUEIREDO VENTURA",
+    "viceNomeUrna": "JOÃO VENTURA",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "190001883922",
+    "coligacao": "REPUBLICANOS / PP / MDB / PODE / PL / PRD / UNIÃO / AVANTE / SOLIDARIEDADE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "NELSON RUAS DOS SANTOS FILHO",
+      "nomeUrna": "NELSINHO RUAS",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 11079,
+      "percentual": 2.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886085"
+    },
+    {
+      "nome": "BRUNO PORTO DE ALMEIDA",
+      "nomeUrna": "BRUNO PORTO",
+      "partido": "PL",
+      "numero": "22369",
+      "votos": 6910,
+      "percentual": 1.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886064"
+    },
+    {
+      "nome": "JUAN PATRICK PINHEIRO DE OLIVEIRA",
+      "nomeUrna": "JUAN OLIVEIRA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 6891,
+      "percentual": 1.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886080"
+    },
+    {
+      "nome": "FELIPE BRITO SOARES",
+      "nomeUrna": "FELIPE BRITO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77022",
+      "votos": 6786,
+      "percentual": 1.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886745"
+    },
+    {
+      "nome": "ALECIO BREDA DIAS",
+      "nomeUrna": "LECINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 6433,
+      "percentual": 1.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001901833"
+    },
+    {
+      "nome": "ALCEMIR DE OLIVEIRA MACIEL",
+      "nomeUrna": "ALCEMIR MACIEL",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 6287,
+      "percentual": 1.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886827"
+    },
+    {
+      "nome": "PATRÍCIA HELENA DA SILVA RODRIGUES",
+      "nomeUrna": "PATRÍCIA SILVA",
+      "partido": "PL",
+      "numero": "22228",
+      "votos": 6048,
+      "percentual": 1.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886088"
+    },
+    {
+      "nome": "PEDRO RICARDO DE SOUZA CAMPOS",
+      "nomeUrna": "PEDRO PERICAR",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 5526,
+      "percentual": 1.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886073"
+    },
+    {
+      "nome": "MARCUS VINICIUS ALVES DE MOURA",
+      "nomeUrna": "VINÍCIUS",
+      "partido": "UNIÃO",
+      "numero": "44100",
+      "votos": 5478,
+      "percentual": 1.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886043"
+    },
+    {
+      "nome": "ALINE VASQUES MALDONADO",
+      "nomeUrna": "ALINE CICI MALDONADO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 5189,
+      "percentual": 1.16,
+      "situacao": "Eleito por média",
+      "sqcand": "190001886087"
+    },
+    {
+      "nome": "CLAUDINEI PEÇANHA SIQUEIRA",
+      "nomeUrna": "CLAUDINEI SIQUEIRA",
+      "partido": "PRD",
+      "numero": "25123",
+      "votos": 5175,
+      "percentual": 1.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001901955"
+    },
+    {
+      "nome": "VALMIR SANTOS FILHO",
+      "nomeUrna": "NEM DA PANK MOTOS",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 5006,
+      "percentual": 1.12,
+      "situacao": "Eleito por média",
+      "sqcand": "190001886049"
+    },
+    {
+      "nome": "PIERO DE MATOS CABRAL",
+      "nomeUrna": "PIERO CABRAL",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 4955,
+      "percentual": 1.11,
+      "situacao": "Eleito por média",
+      "sqcand": "190001901831"
+    },
+    {
+      "nome": "ROBERTO NORIVAL FRANCISCO DE CAMPOS",
+      "nomeUrna": "BETO DA SERRARIA",
+      "partido": "PL",
+      "numero": "22233",
+      "votos": 4896,
+      "percentual": 1.1,
+      "situacao": "Eleito por média",
+      "sqcand": "190001886067"
+    },
+    {
+      "nome": "MAGNO JOSÉ DA SILVA",
+      "nomeUrna": "MAGÚ DOS BRINQUEDOS",
+      "partido": "AVANTE",
+      "numero": "70333",
+      "votos": 4785,
+      "percentual": 1.07,
+      "situacao": "Eleito por média",
+      "sqcand": "190001886812"
+    },
+    {
+      "nome": "ARTUR DA CONCEIÇÃO RODRIGUES",
+      "nomeUrna": "ARTUR RODRIGUES",
+      "partido": "PODE",
+      "numero": "20001",
+      "votos": 4603,
+      "percentual": 1.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001886767"
+    },
+    {
+      "nome": "GLAUBER MEDEIROS POUBEL",
+      "nomeUrna": "POUBEL",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77190",
+      "votos": 4563,
+      "percentual": 1.02,
+      "situacao": "Eleito por média",
+      "sqcand": "190001886746"
+    },
+    {
+      "nome": "JULIANO DE FREITAS COSTA",
+      "nomeUrna": "JULIANO FREITAS",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 4414,
+      "percentual": 0.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001931127"
+    },
+    {
+      "nome": "CLÁUDIO LUÍS ABREU DA SILVA",
+      "nomeUrna": "CACAU",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 4256,
+      "percentual": 0.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001885946"
+    },
+    {
+      "nome": "ALEX DE SOUZA LORETI",
+      "nomeUrna": "ALEX LORETI",
+      "partido": "CIDADANIA",
+      "numero": "23021",
+      "votos": 4122,
+      "percentual": 0.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001929355"
+    },
+    {
+      "nome": "FELIPE TAVARES RODRIGUES GUARANY DA SILVA",
+      "nomeUrna": "PROFESSOR FELIPE GUARANY",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 4119,
+      "percentual": 0.92,
+      "situacao": "Eleito por média",
+      "sqcand": "190001885948"
+    },
+    {
+      "nome": "ISAAC SOUZA DA SILVA",
+      "nomeUrna": "ISAAC",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 4073,
+      "percentual": 0.91,
+      "situacao": "Eleito por média",
+      "sqcand": "190001931124"
+    },
+    {
+      "nome": "NATAM DA SILVA FERREIRA",
+      "nomeUrna": "NATAN",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 4051,
+      "percentual": 0.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001901897"
+    },
+    {
+      "nome": "VALDINEI RENATO MARINS",
+      "nomeUrna": "DINEY MARINS",
+      "partido": "PODE",
+      "numero": "20777",
+      "votos": 3800,
+      "percentual": 0.85,
+      "situacao": "Eleito por média",
+      "sqcand": "190001886788"
+    },
+    {
+      "nome": "ALAN JORGE GONÇALVES RODRIGUES FIGUEIREDO",
+      "nomeUrna": "ALAN RODRIGUES",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 3791,
+      "percentual": 0.85,
+      "situacao": "Eleito por média",
+      "sqcand": "190001901916"
+    },
+    {
+      "nome": "SEBASTIÃO VICTOR GONÇALVES PEREIRA",
+      "nomeUrna": "TIÃO NANCI",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 3583,
+      "percentual": 0.8,
+      "situacao": "Eleito por média",
+      "sqcand": "190001929351"
+    },
+    {
+      "nome": "DEJORGE PATRICIO DA SILVA",
+      "nomeUrna": "DEJORGE PATRICIO",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 3351,
+      "percentual": 0.75,
+      "situacao": "Eleito por média",
+      "sqcand": "190001971818"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 145529,
+      "percentual": 41.11,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 78067,
+      "percentual": 22.05,
+      "sqcand": "190001609504"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CECILIANO",
+      "nomeUrna": "ANDRE CECILIANO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 61086,
+      "percentual": 17.25,
+      "sqcand": "190001614199"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALTINEU CORTES FREITAS COUTINHO",
+      "nomeUrna": "ALTINEU CORTES",
+      "partido": "PL",
+      "numero": "2269",
+      "votos": 75793,
+      "percentual": 17.65,
+      "sqcand": "190001596785"
+    },
+    {
+      "nome": "DIMAS DE PAIVA GADELHA JUNIOR",
+      "nomeUrna": "DIMAS GADELHA",
+      "partido": "PT",
+      "numero": "1301",
+      "votos": 30719,
+      "percentual": 7.16,
+      "sqcand": "190001619193"
+    },
+    {
+      "nome": "RICARDO DE SOUZA COSTA",
+      "nomeUrna": "RICARDO PERICAR",
+      "partido": "PL",
+      "numero": "2232",
+      "votos": 24738,
+      "percentual": 5.76,
+      "sqcand": "190001596774"
+    },
+    {
+      "nome": "WASHINGTON LUIZ CARDOSO SIQUEIRA",
+      "nomeUrna": "WASHINGTON QUAQUÁ",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 21369,
+      "percentual": 4.98,
+      "sqcand": "190001619235"
+    },
+    {
+      "nome": "GLAUBER MEDEIROS POUBEL",
+      "nomeUrna": "GLAUBER POUBEL",
+      "partido": "PROS",
+      "numero": "9022",
+      "votos": 14299,
+      "percentual": 3.33,
+      "sqcand": "190001606555"
+    },
+    {
+      "nome": "TALÍRIA PETRONE SOARES",
+      "nomeUrna": "TALIRIA PETRONE",
+      "partido": "PSOL",
+      "numero": "5077",
+      "votos": 12237,
+      "percentual": 2.85,
+      "sqcand": "190001600487"
+    },
+    {
+      "nome": "LUIS CARLOS GOMES DA SILVA",
+      "nomeUrna": "LUIS CARLOS GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 10928,
+      "percentual": 2.55,
+      "sqcand": "190001644819"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DOUGLAS RUAS DOS SANTOS",
+      "nomeUrna": "DOUGLAS RUAS",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 149576,
+      "percentual": 35.27,
+      "sqcand": "190001596741"
+    },
+    {
+      "nome": "JOSEMAR PINHEIRO DE CARVALHO",
+      "nomeUrna": "PROF JOSEMAR",
+      "partido": "PSOL",
+      "numero": "50500",
+      "votos": 19323,
+      "percentual": 4.56,
+      "sqcand": "190001600402"
+    },
+    {
+      "nome": "DEJORGE PATRICIO DA SILVA",
+      "nomeUrna": "DEJORGE PATRÍCIO",
+      "partido": "PATRIOTA",
+      "numero": "51789",
+      "votos": 18863,
+      "percentual": 4.45,
+      "sqcand": "190001649559"
+    },
+    {
+      "nome": "FILIPPE MEDEIROS POUBEL",
+      "nomeUrna": "FILIPPE POUBEL",
+      "partido": "PL",
+      "numero": "22622",
+      "votos": 12778,
+      "percentual": 3.01,
+      "sqcand": "190001596738"
+    },
+    {
+      "nome": "WALCYSNEU CARLOS MACEDO DE OLIVEIRA",
+      "nomeUrna": "CARLOS MACEDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 10389,
+      "percentual": 2.45,
+      "sqcand": "190001638495"
+    },
+    {
+      "nome": "RENATO DA COSTA MACHADO",
+      "nomeUrna": "RENATO MACHADO",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 9787,
+      "percentual": 2.31,
+      "sqcand": "190001620529"
+    },
+    {
+      "nome": "ROSÂNGELA DE OLIVEIRA ZEIDAN",
+      "nomeUrna": "ZEIDAN",
+      "partido": "PT",
+      "numero": "13103",
+      "votos": 7962,
+      "percentual": 1.88,
+      "sqcand": "190001620484"
+    }
+  ]
+}

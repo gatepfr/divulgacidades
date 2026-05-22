@@ -1,0 +1,271 @@
+{
+  "populacao": 4112,
+  "votosValidos": 3608,
+  "abstencao": 10.43,
+  "prefeito": {
+    "nome": "GISELY PORFIRIO CAVALCANTE",
+    "nomeUrna": "GISELY PORFIRIO",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 2268,
+    "percentual": 62.86,
+    "situacao": "Eleito",
+    "sqcand": "200002038500",
+    "vice": "CICERO GOMES DE FREITAS",
+    "viceNomeUrna": "CICERO GOMES",
+    "partidoVice": "PSDB",
+    "sqcandVice": "200002038499",
+    "coligacao": "UNIÃO / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "GENIOSMO PINHEIRO CAMPOS DE MORAIS",
+      "nomeUrna": "GENIOSMO PINHEIRO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 447,
+      "percentual": 12.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002038503"
+    },
+    {
+      "nome": "RAIMUNDO SOUZA DA SILVA",
+      "nomeUrna": "RAIMUNDO DA FARMACIA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 300,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002038507"
+    },
+    {
+      "nome": "FRANCISCO HERICO SOARES MAIA",
+      "nomeUrna": "HERICO SOARES",
+      "partido": "UNIÃO",
+      "numero": "44666",
+      "votos": 300,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002038502"
+    },
+    {
+      "nome": "RAIMUNDO NONATO DOS SANTOS JUNIOR",
+      "nomeUrna": "JUNIOR ALEXANDRE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 288,
+      "percentual": 8.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002038508"
+    },
+    {
+      "nome": "MARIA JUBERLANGIA DA SILVA",
+      "nomeUrna": "PRETINHA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 260,
+      "percentual": 7.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002038506"
+    },
+    {
+      "nome": "ANTONIO GESSE DE FREITAS",
+      "nomeUrna": "GESSE",
+      "partido": "PP",
+      "numero": "11144",
+      "votos": 249,
+      "percentual": 6.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002246241"
+    },
+    {
+      "nome": "JOELMA MATIAS SOUZA SANTOS",
+      "nomeUrna": "JOELMA MATIAS",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 242,
+      "percentual": 6.74,
+      "situacao": "Eleito por média",
+      "sqcand": "200002038509"
+    },
+    {
+      "nome": "VALCIMAR FERREIRA DE PAIVA",
+      "nomeUrna": "VALCIMAR FERREIRA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 218,
+      "percentual": 6.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002246240"
+    },
+    {
+      "nome": "ANTONIO MARCOS LEITE",
+      "nomeUrna": "KADISSE",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 213,
+      "percentual": 5.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002246238"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 1054,
+      "percentual": 42.35,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1029,
+      "percentual": 41.34,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 381,
+      "percentual": 15.31,
+      "sqcand": "200001612334"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PIO X FERNANDES",
+      "nomeUrna": "DR PIO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 1584,
+      "percentual": 55.44,
+      "sqcand": "200001653695"
+    },
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 347,
+      "percentual": 12.15,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "LEONARDO NUNES REGO",
+      "nomeUrna": "LEONARDO REGO",
+      "partido": "UNIÃO",
+      "numero": "4425",
+      "votos": 205,
+      "percentual": 7.18,
+      "sqcand": "200001608804"
+    },
+    {
+      "nome": "INÁCIO BRILHANTE DE ARAÚJO FILHO",
+      "nomeUrna": "MAJOR BRILHANTE",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 135,
+      "percentual": 4.73,
+      "sqcand": "200001600545"
+    },
+    {
+      "nome": "FERNANDO WANDERLEY VARGAS DA SILVA",
+      "nomeUrna": "MINEIRO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 104,
+      "percentual": 3.64,
+      "sqcand": "200001603645"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 73,
+      "percentual": 2.56,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "KALINE CRISTIANE FERREIRA DE ANDRADE AMORIM",
+      "nomeUrna": "KALINE DE DR BERNARDO",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 46,
+      "percentual": 1.61,
+      "sqcand": "200001653699"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "RAIMUNDO NONATO PESSOA FERNANDES",
+      "nomeUrna": "RAIMUNDO FERNANDES",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 940,
+      "percentual": 33.72,
+      "sqcand": "200001606005"
+    },
+    {
+      "nome": "BERNARDO CÉSAR CARLOS BELARMINO DE AMORIM",
+      "nomeUrna": "DR BERNARDO AMORIM",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 550,
+      "percentual": 19.73,
+      "sqcand": "200001605989"
+    },
+    {
+      "nome": "JOSÉ GALENO DIÓGENES TORQUATO",
+      "nomeUrna": "GALENO TORQUATO",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 328,
+      "percentual": 11.76,
+      "sqcand": "200001605995"
+    },
+    {
+      "nome": "GETÚLIO NUNES DO RÊGO",
+      "nomeUrna": "GETULIO REGO",
+      "partido": "PSDB",
+      "numero": "45110",
+      "votos": 242,
+      "percentual": 8.68,
+      "sqcand": "200001606003"
+    },
+    {
+      "nome": "GILTON SAMPAIO DE SOUZA",
+      "nomeUrna": "GILTON SAMPAIO",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 107,
+      "percentual": 3.84,
+      "sqcand": "200001603620"
+    },
+    {
+      "nome": "ANAXIMANDRO RODRIGUES DO VALE COSTA",
+      "nomeUrna": "DR. ANAX",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 91,
+      "percentual": 3.26,
+      "sqcand": "200001652908"
+    },
+    {
+      "nome": "KERGINALDO JACOME DA COSTA",
+      "nomeUrna": "DR KEGINALDO JACOME",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 67,
+      "percentual": 2.4,
+      "sqcand": "200001605992"
+    }
+  ]
+}

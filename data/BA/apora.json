@@ -1,0 +1,291 @@
+{
+  "populacao": 13968,
+  "votosValidos": 11606,
+  "abstencao": 12.0,
+  "prefeito": {
+    "nome": "CARINE DANTAS DE MENEZES",
+    "nomeUrna": "CARINE DE ATAIDE",
+    "partido": "AVANTE",
+    "numero": "70",
+    "votos": 6089,
+    "percentual": 52.46,
+    "situacao": "Eleito",
+    "sqcand": "50002215606",
+    "vice": "PABLO OTTO MENDES DE SANTANA",
+    "viceNomeUrna": "DR. PABLO",
+    "partidoVice": "PSD",
+    "sqcandVice": "50002215607",
+    "coligacao": "AVANTE / PP / PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCOS DA SILVA SANTOS",
+      "nomeUrna": "MARCOS DE ANTÔNIO DE CHIQUINHO",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 784,
+      "percentual": 6.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002075993"
+    },
+    {
+      "nome": "JOEL PEREIRA DOS SANTOS",
+      "nomeUrna": "JOEL",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 722,
+      "percentual": 6.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002076006"
+    },
+    {
+      "nome": "ANTONIO SANTANA LIMA",
+      "nomeUrna": "TONHÃO DAS CAVALGADAS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 707,
+      "percentual": 6.0,
+      "situacao": "Eleito por média",
+      "sqcand": "50002076003"
+    },
+    {
+      "nome": "MARIVALDO SILVA SANTOS",
+      "nomeUrna": "VAL DO CAMINHÃO",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 694,
+      "percentual": 5.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002273391"
+    },
+    {
+      "nome": "JOSÉ NERIS BRITO",
+      "nomeUrna": "NERIS BRITO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 615,
+      "percentual": 5.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002292335"
+    },
+    {
+      "nome": "JOSENILDO CELESTINO DE ALMEIDA",
+      "nomeUrna": "ZELITO",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 613,
+      "percentual": 5.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002307839"
+    },
+    {
+      "nome": "ALISSON MOREIRA DOS SANTOS",
+      "nomeUrna": "ALISSON DO BANCO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 567,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002249672"
+    },
+    {
+      "nome": "THIAGO DA COSTA BRAZ",
+      "nomeUrna": "THIAGO DE JONATAS",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 557,
+      "percentual": 4.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002075990"
+    },
+    {
+      "nome": "IDARLAN DE SOUZA ARAUJO",
+      "nomeUrna": "IDARLAN ARAUJO",
+      "partido": "AVANTE",
+      "numero": "70555",
+      "votos": 528,
+      "percentual": 4.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002273393"
+    },
+    {
+      "nome": "DIEGO SILVA MENDES",
+      "nomeUrna": "DIEGO DE ZÉ PAETA",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 486,
+      "percentual": 4.13,
+      "situacao": "Eleito por média",
+      "sqcand": "50002075997"
+    },
+    {
+      "nome": "BRUNO DE SOUZA MAIA",
+      "nomeUrna": "BRUNO DE NENEN",
+      "partido": "AVANTE",
+      "numero": "70222",
+      "votos": 445,
+      "percentual": 3.78,
+      "situacao": "Eleito por média",
+      "sqcand": "50002273388"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4436,
+      "percentual": 51.19,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 3738,
+      "percentual": 43.13,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 467,
+      "percentual": 5.39,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ORLANDO SULZ DE ALMEIDA NETO",
+      "nomeUrna": "NETO CARLETTO",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 2554,
+      "percentual": 27.66,
+      "sqcand": "50001621029"
+    },
+    {
+      "nome": "JOSEILDO RIBEIRO RAMOS",
+      "nomeUrna": "JOSEILDO RAMOS",
+      "partido": "PT",
+      "numero": "1361",
+      "votos": 2180,
+      "percentual": 23.61,
+      "sqcand": "50001605369"
+    },
+    {
+      "nome": "PAULO VELLOSO DANTAS AZI",
+      "nomeUrna": "PAULO AZI",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 942,
+      "percentual": 10.2,
+      "sqcand": "50001634593"
+    },
+    {
+      "nome": "FELIX DE ALMEIDA MENDONCA JUNIOR",
+      "nomeUrna": "FELIX  MENDONÇA",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 534,
+      "percentual": 5.78,
+      "sqcand": "50001620846"
+    },
+    {
+      "nome": "IVONEIDE SOUZA CAETANO",
+      "nomeUrna": "IVONEIDE CAETANO",
+      "partido": "PT",
+      "numero": "1300",
+      "votos": 403,
+      "percentual": 4.36,
+      "sqcand": "50001605353"
+    },
+    {
+      "nome": "LEONARDO SILVA PRATES",
+      "nomeUrna": "LÉO PRATES",
+      "partido": "PDT",
+      "numero": "1244",
+      "votos": 397,
+      "percentual": 4.3,
+      "sqcand": "50001620881"
+    },
+    {
+      "nome": "MARCELO DE OLIVEIRA GUIMARAES FILHO",
+      "nomeUrna": "MARCELO GUIMARÃES FILHO",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 370,
+      "percentual": 4.01,
+      "sqcand": "50001634585"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "OSNI CARDOSO DE ARAÚJO",
+      "nomeUrna": "OSNI",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 1739,
+      "percentual": 20.22,
+      "sqcand": "50001606428"
+    },
+    {
+      "nome": "JOÃO VITOR DE CASTRO LINO BONFIM",
+      "nomeUrna": "VITOR BONFIM",
+      "partido": "PV",
+      "numero": "43700",
+      "votos": 1541,
+      "percentual": 17.92,
+      "sqcand": "50001606406"
+    },
+    {
+      "nome": "MARCIO EVANGELISTA DE OLIVEIRA",
+      "nomeUrna": "MARCINHO OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 699,
+      "percentual": 8.13,
+      "sqcand": "50001648293"
+    },
+    {
+      "nome": "ANGELO MARIO CORONEL DE AZEVEDO MARTINS II",
+      "nomeUrna": "ANGELO CORONEL FILHO",
+      "partido": "PSD",
+      "numero": "55255",
+      "votos": 658,
+      "percentual": 7.65,
+      "sqcand": "50001607294"
+    },
+    {
+      "nome": "LUDMILLA FONSECA FISCINA",
+      "nomeUrna": "LUDMILLA FISCINA",
+      "partido": "PV",
+      "numero": "43444",
+      "votos": 637,
+      "percentual": 7.41,
+      "sqcand": "50001606389"
+    },
+    {
+      "nome": "MIRELA DE OLIVEIRA MACEDO NEIVA",
+      "nomeUrna": "MIRELA MACEDO",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 479,
+      "percentual": 5.57,
+      "sqcand": "50001648320"
+    },
+    {
+      "nome": "EMERSON PENALVA LOPES DOS SANTOS",
+      "nomeUrna": "EMERSON PENALVA",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 416,
+      "percentual": 4.84,
+      "sqcand": "50001620926"
+    }
+  ]
+}

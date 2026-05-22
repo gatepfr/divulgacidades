@@ -1,0 +1,271 @@
+{
+  "populacao": 11858,
+  "votosValidos": 9592,
+  "abstencao": 14.75,
+  "prefeito": {
+    "nome": "EDDY EDGARD EIPPER",
+    "nomeUrna": "NININHO EIPPER",
+    "partido": "NOVO",
+    "numero": "30",
+    "votos": 4106,
+    "percentual": 42.81,
+    "situacao": "Eleito",
+    "sqcand": "240002091807",
+    "vice": "FELIPE RAFAELI RODRIGUES",
+    "viceNomeUrna": "PROFESSOR FELIPE",
+    "partidoVice": "PSDB",
+    "sqcandVice": "240002375934",
+    "coligacao": "NOVO / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ÉDER DEOCAR FINTA",
+      "nomeUrna": "EDER FINTA",
+      "partido": "NOVO",
+      "numero": "30999",
+      "votos": 740,
+      "percentual": 7.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002092036"
+    },
+    {
+      "nome": "CHARLES ADRIANO BEHLING PAREY",
+      "nomeUrna": "CHARLES PAREY",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 483,
+      "percentual": 5.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002056153"
+    },
+    {
+      "nome": "ALEXANDRE ALBERTO SCHULTZ",
+      "nomeUrna": "ALEXANDRE ALBERTO SCHULTZ",
+      "partido": "NOVO",
+      "numero": "30222",
+      "votos": 353,
+      "percentual": 3.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002092031"
+    },
+    {
+      "nome": "WILSON JEAN GESSNER",
+      "nomeUrna": "WILSON GESSNER",
+      "partido": "MDB",
+      "numero": "15622",
+      "votos": 345,
+      "percentual": 3.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002006910"
+    },
+    {
+      "nome": "VERÍSSIMO JOSÉ GARCIA",
+      "nomeUrna": "VERÍSSIMO GARCIA",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 299,
+      "percentual": 3.16,
+      "situacao": "Eleito por média",
+      "sqcand": "240002006908"
+    },
+    {
+      "nome": "ANA PAULA SCHULZE",
+      "nomeUrna": "ANA PAULA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 291,
+      "percentual": 3.07,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001921547"
+    },
+    {
+      "nome": "KATIA SUELI PEZZATTI ROBERTI",
+      "nomeUrna": "KATIA",
+      "partido": "NOVO",
+      "numero": "30333",
+      "votos": 278,
+      "percentual": 2.94,
+      "situacao": "Eleito por média",
+      "sqcand": "240002092034"
+    },
+    {
+      "nome": "CÉSAR ANTÔNIO RABOCK",
+      "nomeUrna": "CÉSAR RABOCK",
+      "partido": "PL",
+      "numero": "22722",
+      "votos": 269,
+      "percentual": 2.84,
+      "situacao": "Eleito por média",
+      "sqcand": "240001921551"
+    },
+    {
+      "nome": "ALAOR DUARTE",
+      "nomeUrna": "ALAOR DUARTE JAE",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 225,
+      "percentual": 2.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "240001980057"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3923,
+      "percentual": 47.44,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1741,
+      "percentual": 21.05,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 916,
+      "percentual": 11.08,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 2968,
+      "percentual": 35.36,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 450,
+      "percentual": 5.36,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "MARCOS ANTONIO PEREIRA GOMES",
+      "nomeUrna": "ZÉ TROVÃO",
+      "partido": "PL",
+      "numero": "2220",
+      "votos": 429,
+      "percentual": 5.11,
+      "sqcand": "240001610976"
+    },
+    {
+      "nome": "GEOVANIA DE SA",
+      "nomeUrna": "GEOVANIA DE SÁ",
+      "partido": "PSDB",
+      "numero": "4577",
+      "votos": 421,
+      "percentual": 5.02,
+      "sqcand": "240001611940"
+    },
+    {
+      "nome": "SILVIO DREVECK",
+      "nomeUrna": "SILVIO DREVECK",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 418,
+      "percentual": 4.98,
+      "sqcand": "240001644885"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 415,
+      "percentual": 4.94,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "LUIZ ARMANDO SCHROEDER REIS",
+      "nomeUrna": "CORONEL ARMANDO",
+      "partido": "PL",
+      "numero": "2262",
+      "votos": 370,
+      "percentual": 4.41,
+      "sqcand": "240001610967"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTIDIO ALEIXO LUNELLI",
+      "nomeUrna": "ANTÍDIO LUNELLI",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 3618,
+      "percentual": 41.83,
+      "sqcand": "240001605916"
+    },
+    {
+      "nome": "VICENTE AUGUSTO CAROPRESO",
+      "nomeUrna": "DR. VICENTE",
+      "partido": "PSDB",
+      "numero": "45999",
+      "votos": 1900,
+      "percentual": 21.97,
+      "sqcand": "240001612510"
+    },
+    {
+      "nome": "FERNANDO KRELLING",
+      "nomeUrna": "FERNANDO KRELLING",
+      "partido": "MDB",
+      "numero": "15655",
+      "votos": 685,
+      "percentual": 7.92,
+      "sqcand": "240001605919"
+    },
+    {
+      "nome": "JEFERSON CARDOZO",
+      "nomeUrna": "JEFERSON CARDOZO CANAL ATALAIA",
+      "partido": "PL",
+      "numero": "22033",
+      "votos": 276,
+      "percentual": 3.19,
+      "sqcand": "240001614333"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 185,
+      "percentual": 2.14,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "ANA PAULA DA SILVA",
+      "nomeUrna": "PAULINHA",
+      "partido": "PODE",
+      "numero": "19010",
+      "votos": 112,
+      "percentual": 1.29,
+      "sqcand": "240001610824"
+    },
+    {
+      "nome": "CARLOS HENRIQUE DE LIMA",
+      "nomeUrna": "SARGENTO LIMA",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 110,
+      "percentual": 1.27,
+      "sqcand": "240001614329"
+    }
+  ]
+}

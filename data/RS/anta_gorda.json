@@ -1,0 +1,271 @@
+{
+  "populacao": 4901,
+  "votosValidos": 4282,
+  "abstencao": 9.94,
+  "prefeito": {
+    "nome": "FRANCISCO DAVID FRIGHETTO",
+    "nomeUrna": "XICO FRIGHETTO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 2627,
+    "percentual": 61.35,
+    "situacao": "Eleito",
+    "sqcand": "210002187977",
+    "vice": "NADIR VALDAMERI",
+    "viceNomeUrna": "VALDAMERI",
+    "partidoVice": "PODE",
+    "sqcandVice": "210002187976",
+    "coligacao": "REPUBLICANOS / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "FERNANDO LOCATELLI",
+      "nomeUrna": "FERNANDO LOCATELLI FRINTCHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 617,
+      "percentual": 14.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187674"
+    },
+    {
+      "nome": "PAULO CESAR BETTONI",
+      "nomeUrna": "PAULINHO BETTONI",
+      "partido": "REPUBLICANOS",
+      "numero": "10150",
+      "votos": 576,
+      "percentual": 13.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187676"
+    },
+    {
+      "nome": "PAULO SERGIO TERRA",
+      "nomeUrna": "GORDO TERRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 315,
+      "percentual": 7.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187671"
+    },
+    {
+      "nome": "ROBLEDO SANSON ANDREOLI",
+      "nomeUrna": "ROBLEDO BARROSINHO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 302,
+      "percentual": 7.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002222144"
+    },
+    {
+      "nome": "CLEONIR GUARNIERI",
+      "nomeUrna": "TITO CLEONIR GUARNIERI",
+      "partido": "REPUBLICANOS",
+      "numero": "10200",
+      "votos": 301,
+      "percentual": 7.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187672"
+    },
+    {
+      "nome": "MARTA HELENA DALPASQUALE",
+      "nomeUrna": "MARTA HELENA",
+      "partido": "PP",
+      "numero": "11888",
+      "votos": 263,
+      "percentual": 6.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002312228"
+    },
+    {
+      "nome": "NICASIO ORLANDO MALAGGI",
+      "nomeUrna": "NICASIO MALAGGI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 248,
+      "percentual": 5.8,
+      "situacao": "Eleito por média",
+      "sqcand": "210002312229"
+    },
+    {
+      "nome": "ALVIMAR PAULO TREMEA",
+      "nomeUrna": "TREMEA",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 219,
+      "percentual": 5.12,
+      "situacao": "Eleito por média",
+      "sqcand": "210002219256"
+    },
+    {
+      "nome": "CIRIO FRANCISCO DE FREITAS",
+      "nomeUrna": "CIRIO CIGANO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 199,
+      "percentual": 4.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002187677"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2326,
+      "percentual": 67.75,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 604,
+      "percentual": 17.59,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 433,
+      "percentual": 12.61,
+      "sqcand": "210001619906"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 804,
+      "percentual": 21.37,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 467,
+      "percentual": 12.41,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 336,
+      "percentual": 8.93,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 316,
+      "percentual": 8.4,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 291,
+      "percentual": 7.74,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 193,
+      "percentual": 5.13,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "ANTONIO CARLOS GOMES DA SILVA",
+      "nomeUrna": "CARLOS GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 162,
+      "percentual": 4.31,
+      "sqcand": "210001601602"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GILBERTO CAPOANI",
+      "nomeUrna": "GILBERTO CAPOANI",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 546,
+      "percentual": 15.23,
+      "sqcand": "210001647990"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 295,
+      "percentual": 8.23,
+      "sqcand": "210001602904"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 277,
+      "percentual": 7.73,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "APARECIDO MACEDO",
+      "nomeUrna": "CAPITÃO MACEDO PROFESSOR",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 269,
+      "percentual": 7.5,
+      "sqcand": "210001648961"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 202,
+      "percentual": 5.63,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "RONALDO SANTINI",
+      "nomeUrna": "SANTINI",
+      "partido": "PODE",
+      "numero": "19777",
+      "votos": 178,
+      "percentual": 4.97,
+      "sqcand": "210001596147"
+    },
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 174,
+      "percentual": 4.85,
+      "sqcand": "210001647995"
+    }
+  ]
+}

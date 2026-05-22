@@ -1,0 +1,271 @@
+{
+  "populacao": 7433,
+  "votosValidos": 5601,
+  "abstencao": 20.03,
+  "prefeito": {
+    "nome": "JOÃO CARLOS ALVES BARROS",
+    "nomeUrna": "CAL",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 3616,
+    "percentual": 64.56,
+    "situacao": "Eleito",
+    "sqcand": "250002286829",
+    "vice": "CARLOS ROBERTO DA COSTA",
+    "viceNomeUrna": "ROBERTINHO ENFERMEIRO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "250002286828",
+    "coligacao": "PSD / REPUBLICANOS / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "ROBSON DE OLIVEIRA",
+      "nomeUrna": "ROBSON DO GENTIL",
+      "partido": "REPUBLICANOS",
+      "numero": "10625",
+      "votos": 447,
+      "percentual": 7.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002249211"
+    },
+    {
+      "nome": "ANGELA MARIA CORAÇÃO GREGÓRIO",
+      "nomeUrna": "ANGELA",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 426,
+      "percentual": 7.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002249206"
+    },
+    {
+      "nome": "EDUARDO BERTIN",
+      "nomeUrna": "EDUARDO BERTIN",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 338,
+      "percentual": 6.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002342228"
+    },
+    {
+      "nome": "ADEMIR DOMINGUES",
+      "nomeUrna": "ADEMIR DO ATAIDE",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 300,
+      "percentual": 5.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001916657"
+    },
+    {
+      "nome": "BRUNO AUGUSTO ROSA",
+      "nomeUrna": "BRUNO DENTISTA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 242,
+      "percentual": 4.3,
+      "situacao": "Eleito por média",
+      "sqcand": "250002249205"
+    },
+    {
+      "nome": "JARDELINO DE QUEIROZ SAMPAIO FILHO",
+      "nomeUrna": "JARDELINO DO MANACÁ",
+      "partido": "PP",
+      "numero": "11620",
+      "votos": 195,
+      "percentual": 3.47,
+      "situacao": "Eleito por média",
+      "sqcand": "250001916656"
+    },
+    {
+      "nome": "GERSON JOSEMAR MIRANDA",
+      "nomeUrna": "TATU MECANICO",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 145,
+      "percentual": 2.58,
+      "situacao": "Eleito por média",
+      "sqcand": "250001911328"
+    },
+    {
+      "nome": "RICARDO PROENÇA DA SILVA",
+      "nomeUrna": "RICARDO SURDO",
+      "partido": "PODE",
+      "numero": "20100",
+      "votos": 133,
+      "percentual": 2.36,
+      "situacao": "Eleito por média",
+      "sqcand": "250002344567"
+    },
+    {
+      "nome": "CLAUDETE OLIVEIRA SILVA",
+      "nomeUrna": "CLAUDETE OLIVEIRA",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 132,
+      "percentual": 2.35,
+      "situacao": "Eleito por média",
+      "sqcand": "250002375126"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2351,
+      "percentual": 52.7,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1247,
+      "percentual": 27.95,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 716,
+      "percentual": 16.05,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ADRIANO ELI CORREA",
+      "nomeUrna": "ELI CORRÊA FILHO",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 530,
+      "percentual": 11.15,
+      "sqcand": "250001602066"
+    },
+    {
+      "nome": "JOÃO CURY NETO",
+      "nomeUrna": "JOÃO CURY",
+      "partido": "MDB",
+      "numero": "1550",
+      "votos": 429,
+      "percentual": 9.03,
+      "sqcand": "250001611240"
+    },
+    {
+      "nome": "JOSÉ GUILHERME NEGRÃO PEIXOTO",
+      "nomeUrna": "GUIGA PEIXOTO",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 325,
+      "percentual": 6.84,
+      "sqcand": "250001643898"
+    },
+    {
+      "nome": "RITA DE CASSIA TRINCA PASSOS",
+      "nomeUrna": "RITA PASSOS",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 244,
+      "percentual": 5.13,
+      "sqcand": "250001611860"
+    },
+    {
+      "nome": "ARNALDO CALIL PEREIRA JARDIM",
+      "nomeUrna": "ARNALDO JARDIM",
+      "partido": "CIDADANIA",
+      "numero": "2345",
+      "votos": 193,
+      "percentual": 4.06,
+      "sqcand": "250001612102"
+    },
+    {
+      "nome": "LUIZ MARINHO",
+      "nomeUrna": "LUIZ MARINHO",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 149,
+      "percentual": 3.14,
+      "sqcand": "250001610678"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 147,
+      "percentual": 3.09,
+      "sqcand": "250001611365"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FERNANDO HENRIQUE CURY",
+      "nomeUrna": "FERNANDO CURY",
+      "partido": "UNIÃO",
+      "numero": "44456",
+      "votos": 639,
+      "percentual": 14.51,
+      "sqcand": "250001602134"
+    },
+    {
+      "nome": "EDMIR JOSE ABI CHEDID",
+      "nomeUrna": "EDMIR CHEDID",
+      "partido": "UNIÃO",
+      "numero": "44118",
+      "votos": 384,
+      "percentual": 8.72,
+      "sqcand": "250001602151"
+    },
+    {
+      "nome": "ALESSANDRA VIEIRA DE CAMARGO TELES",
+      "nomeUrna": "ALESSANDRA GONZAGA",
+      "partido": "PSDB",
+      "numero": "45122",
+      "votos": 268,
+      "percentual": 6.08,
+      "sqcand": "250001611479"
+    },
+    {
+      "nome": "LUIS DONIZETTI VAZ JUNIOR",
+      "nomeUrna": "JUNIOR VAZ",
+      "partido": "PSC",
+      "numero": "20022",
+      "votos": 195,
+      "percentual": 4.43,
+      "sqcand": "250001643779"
+    },
+    {
+      "nome": "EDSON DE OLIVEIRA GIRIBONI",
+      "nomeUrna": "EDSON GIRIBONI",
+      "partido": "UNIÃO",
+      "numero": "44001",
+      "votos": 187,
+      "percentual": 4.25,
+      "sqcand": "250001602173"
+    },
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 135,
+      "percentual": 3.06,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "ANDRE LUIS DO PRADO",
+      "nomeUrna": "ANDRÉ DO PRADO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 118,
+      "percentual": 2.68,
+      "sqcand": "250001610161"
+    }
+  ]
+}

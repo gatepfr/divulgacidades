@@ -1,0 +1,271 @@
+{
+  "populacao": 6128,
+  "votosValidos": 4982,
+  "abstencao": 14.69,
+  "prefeito": {
+    "nome": "VALDIR ZANELLA",
+    "nomeUrna": "ZANELLA",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3339,
+    "percentual": 67.02,
+    "situacao": "Eleito",
+    "sqcand": "240002310884",
+    "vice": "VOLNEI ANTONIO SCHMIDT",
+    "viceNomeUrna": "NEI",
+    "partidoVice": "MDB",
+    "sqcandVice": "240002310885",
+    "coligacao": "PP / MDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ADRIANA DE PINHO TIEPO",
+      "nomeUrna": "ENFERMEIRA ADRIANA",
+      "partido": "PSD",
+      "numero": "55620",
+      "votos": 336,
+      "percentual": 6.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002264430"
+    },
+    {
+      "nome": "JOSÉ CARLOS GUBERT",
+      "nomeUrna": "KIKO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 277,
+      "percentual": 5.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002274570"
+    },
+    {
+      "nome": "CLODOMAR CARLOS ZANELLA",
+      "nomeUrna": "CLODO",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 269,
+      "percentual": 5.3,
+      "situacao": "Eleito por média",
+      "sqcand": "240002274566"
+    },
+    {
+      "nome": "DEONIR JOSE AGAZZI",
+      "nomeUrna": "DIRO",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 262,
+      "percentual": 5.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002311461"
+    },
+    {
+      "nome": "ANDRE ADEMIR MERTINS",
+      "nomeUrna": "ANDRE  MERTINS",
+      "partido": "MDB",
+      "numero": "15125",
+      "votos": 232,
+      "percentual": 4.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002276657"
+    },
+    {
+      "nome": "EDSON LUIZ SCALCO",
+      "nomeUrna": "TITI SCALCO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 224,
+      "percentual": 4.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002276664"
+    },
+    {
+      "nome": "MARILETE LUCIA PRAMIO BORTOLI",
+      "nomeUrna": "MARI BORTOLI",
+      "partido": "PT",
+      "numero": "13147",
+      "votos": 214,
+      "percentual": 4.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002264744"
+    },
+    {
+      "nome": "ROSELEI REGERT",
+      "nomeUrna": "PROFESSORA ROSE",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 194,
+      "percentual": 3.82,
+      "situacao": "Eleito por média",
+      "sqcand": "240002276663"
+    },
+    {
+      "nome": "SEVERINO PADIA",
+      "nomeUrna": "VÉIO PADIA",
+      "partido": "PT",
+      "numero": "13130",
+      "votos": 190,
+      "percentual": 3.74,
+      "situacao": "Eleito por média",
+      "sqcand": "240002264743"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1547,
+      "percentual": 37.79,
+      "sqcand": "240001679865"
+    },
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1077,
+      "percentual": 26.31,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 555,
+      "percentual": 13.56,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 1547,
+      "percentual": 35.81,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 369,
+      "percentual": 8.54,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "VALDIR COLATTO",
+      "nomeUrna": "VALDIR COLATTO",
+      "partido": "PL",
+      "numero": "2216",
+      "votos": 315,
+      "percentual": 7.29,
+      "sqcand": "240001610966"
+    },
+    {
+      "nome": "FABIANO FRANCISCO CAITANO",
+      "nomeUrna": "FABIANO CAITANO",
+      "partido": "PSDB",
+      "numero": "4569",
+      "votos": 315,
+      "percentual": 7.29,
+      "sqcand": "240001611939"
+    },
+    {
+      "nome": "LEANDRO SORGATO",
+      "nomeUrna": "SORGATTO",
+      "partido": "MDB",
+      "numero": "1544",
+      "votos": 207,
+      "percentual": 4.79,
+      "sqcand": "240001602680"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 190,
+      "percentual": 4.4,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "EDGAR LOPES DA COSTA NETO",
+      "nomeUrna": "POLICIAL FEDERAL EDGAR LOPES",
+      "partido": "PTB",
+      "numero": "1477",
+      "votos": 178,
+      "percentual": 4.12,
+      "sqcand": "240001610777"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "NEODI SARETTA",
+      "nomeUrna": "NEODI SARETTA",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 1277,
+      "percentual": 30.05,
+      "sqcand": "240001679646"
+    },
+    {
+      "nome": "EDILSON MASSOCCO",
+      "nomeUrna": "MASSOCCO",
+      "partido": "PL",
+      "numero": "22150",
+      "votos": 636,
+      "percentual": 14.96,
+      "sqcand": "240001614342"
+    },
+    {
+      "nome": "ANTONIO TOLDO",
+      "nomeUrna": "PROFESSOR TOLDO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 328,
+      "percentual": 7.72,
+      "sqcand": "240001605924"
+    },
+    {
+      "nome": "ALTAIR DA SILVA",
+      "nomeUrna": "ALTAIR SILVA",
+      "partido": "PP",
+      "numero": "11130",
+      "votos": 256,
+      "percentual": 6.02,
+      "sqcand": "240001644767"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 209,
+      "percentual": 4.92,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "THIAGO DA SILVA MORASTONI",
+      "nomeUrna": "THIAGO MORASTONI",
+      "partido": "PODE",
+      "numero": "19111",
+      "votos": 208,
+      "percentual": 4.89,
+      "sqcand": "240001610826"
+    },
+    {
+      "nome": "LUCIANE MARIA CARMINATTI",
+      "nomeUrna": "LUCIANE CARMINATTI",
+      "partido": "PT",
+      "numero": "13601",
+      "votos": 180,
+      "percentual": 4.24,
+      "sqcand": "240001679643"
+    }
+  ]
+}

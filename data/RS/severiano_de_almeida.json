@@ -1,0 +1,271 @@
+{
+  "populacao": 3461,
+  "votosValidos": 3142,
+  "abstencao": 7.71,
+  "prefeito": {
+    "nome": "JAIR KAMMLER",
+    "nomeUrna": "JAIR KAMMLER",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1687,
+    "percentual": 53.69,
+    "situacao": "Eleito",
+    "sqcand": "210002278493",
+    "vice": "LEONEL DARIO LANIUS JUNIOR",
+    "viceNomeUrna": "JUNIOR",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002278492",
+    "coligacao": "MDB / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "VALMOR LUIZ FERRARI",
+      "nomeUrna": "FERRARI",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 277,
+      "percentual": 8.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002293272"
+    },
+    {
+      "nome": "RAFAEL LUCINI",
+      "nomeUrna": "RAFA LUCINI",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 268,
+      "percentual": 8.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002267702"
+    },
+    {
+      "nome": "HILARIO ANTONIO FARIKOSKI",
+      "nomeUrna": "HILARIO FARIKOSKI",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 242,
+      "percentual": 7.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002383492"
+    },
+    {
+      "nome": "RICARDO ZANELLA",
+      "nomeUrna": "ZANELLA",
+      "partido": "PT",
+      "numero": "13213",
+      "votos": 201,
+      "percentual": 6.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002295454"
+    },
+    {
+      "nome": "VERONICE KUBIAK",
+      "nomeUrna": "VERO KUBIAK",
+      "partido": "MDB",
+      "numero": "15915",
+      "votos": 177,
+      "percentual": 5.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002293278"
+    },
+    {
+      "nome": "CAMILA PARCIANELLO",
+      "nomeUrna": "CAMILA PARCIANELLO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 168,
+      "percentual": 5.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002293271"
+    },
+    {
+      "nome": "NERÍ BORRE",
+      "nomeUrna": "BORRE",
+      "partido": "PT",
+      "numero": "13100",
+      "votos": 168,
+      "percentual": 5.38,
+      "situacao": "Eleito por média",
+      "sqcand": "210002295456"
+    },
+    {
+      "nome": "MOACIR DECONTO",
+      "nomeUrna": "DECONTO",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 160,
+      "percentual": 5.13,
+      "situacao": "Eleito por média",
+      "sqcand": "210002293275"
+    },
+    {
+      "nome": "RENAN KOZERSKI SADOWSKI",
+      "nomeUrna": "RENAN SADOWSKI",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 142,
+      "percentual": 4.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002276267"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 915,
+      "percentual": 38.49,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 810,
+      "percentual": 34.08,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 619,
+      "percentual": 26.04,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 489,
+      "percentual": 19.43,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "ANACLETO ZANELLA",
+      "nomeUrna": "ANACLETO ZANELLA",
+      "partido": "PT",
+      "numero": "1340",
+      "votos": 206,
+      "percentual": 8.18,
+      "sqcand": "210001604637"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 195,
+      "percentual": 7.75,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "ALEXANDRE DUARTE LINDENMEYER",
+      "nomeUrna": "ALEXANDRE LINDENMEYER",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 155,
+      "percentual": 6.16,
+      "sqcand": "210001604656"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 149,
+      "percentual": 5.92,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 142,
+      "percentual": 5.64,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 116,
+      "percentual": 4.61,
+      "sqcand": "210001648591"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 442,
+      "percentual": 18.09,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "IVAR PAVAN",
+      "nomeUrna": "IVAR PAVAN",
+      "partido": "PT",
+      "numero": "13240",
+      "votos": 415,
+      "percentual": 16.98,
+      "sqcand": "210001610618"
+    },
+    {
+      "nome": "GILBERTO CAPOANI",
+      "nomeUrna": "GILBERTO CAPOANI",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 345,
+      "percentual": 14.12,
+      "sqcand": "210001647990"
+    },
+    {
+      "nome": "MATEUS JOSE DE LIMA WESP",
+      "nomeUrna": "MATEUS WESP",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 199,
+      "percentual": 8.14,
+      "sqcand": "210001620219"
+    },
+    {
+      "nome": "LUCIANO DA SILVA SILVEIRA",
+      "nomeUrna": "LUCIANO SILVEIRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 193,
+      "percentual": 7.9,
+      "sqcand": "210001647995"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 188,
+      "percentual": 7.69,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 110,
+      "percentual": 4.5,
+      "sqcand": "210001621326"
+    }
+  ]
+}

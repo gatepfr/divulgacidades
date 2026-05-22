@@ -1,0 +1,391 @@
+{
+  "populacao": 141802,
+  "votosValidos": 110824,
+  "abstencao": 18.47,
+  "prefeito": {
+    "nome": "AUGUSTO NARCISO CASTRO",
+    "nomeUrna": "AUGUSTO CASTRO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 65329,
+    "percentual": 58.95,
+    "situacao": "Eleito",
+    "sqcand": "50002056170",
+    "vice": "JOSUE DE SOUZA BRANDÃO JUNIOR",
+    "viceNomeUrna": "JUNIOR BRANDÃO",
+    "partidoVice": "PV",
+    "sqcandVice": "50002056169",
+    "coligacao": "PC do B / PT / PV / PP / REPUBLICANOS / PODE / PRTB / AGIR / CIDADANIA / PSDB / PSD / AVANTE / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "MANOEL CARLOS DE JESUS PORFÍRIO",
+      "nomeUrna": "MANOEL PORFIRIO",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 3485,
+      "percentual": 3.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002056406"
+    },
+    {
+      "nome": "JOSÉ ERASMO ÁVILA MARTINS",
+      "nomeUrna": "ERASMO ÁVILA",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 2872,
+      "percentual": 2.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002056192"
+    },
+    {
+      "nome": "WILMACI DE OLIVEIRA",
+      "nomeUrna": "WILMA",
+      "partido": "PC do B",
+      "numero": "65789",
+      "votos": 2770,
+      "percentual": 2.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002056408"
+    },
+    {
+      "nome": "THALES RODRIGUES DA SILVA",
+      "nomeUrna": "THALES SILVA",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 2381,
+      "percentual": 2.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001946743"
+    },
+    {
+      "nome": "SIVALDO NASCIMENTO DOS REIS",
+      "nomeUrna": "SIVALDO REIS",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 2157,
+      "percentual": 1.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002056191"
+    },
+    {
+      "nome": "LUIZ ALBERTO DO NASCIMENTO ROZA",
+      "nomeUrna": "LUIZ JUNIOR DA SAUDE",
+      "partido": "PSDB",
+      "numero": "45192",
+      "votos": 1967,
+      "percentual": 1.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002002364"
+    },
+    {
+      "nome": "JOSÉ CARLOS SILVA SANTOS",
+      "nomeUrna": "JOSÉ CARLOS DA SAÚDE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 1896,
+      "percentual": 1.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002178976"
+    },
+    {
+      "nome": "SILAS SANTOS ARAÚJO",
+      "nomeUrna": "SILAS DA SAÚDE",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 1614,
+      "percentual": 1.45,
+      "situacao": "Eleito por média",
+      "sqcand": "50002056187"
+    },
+    {
+      "nome": "JOSÉ ALBERTO DE LIMA FILHO",
+      "nomeUrna": "ZÉ ALBERTO",
+      "partido": "PSB",
+      "numero": "40140",
+      "votos": 1527,
+      "percentual": 1.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001998094"
+    },
+    {
+      "nome": "PAULO EDUARDO SANTANA DA SILVA",
+      "nomeUrna": "PAULINHO DO BANCO",
+      "partido": "PC do B",
+      "numero": "65611",
+      "votos": 1497,
+      "percentual": 1.35,
+      "situacao": "Eleito por média",
+      "sqcand": "50002056399"
+    },
+    {
+      "nome": "RICARDO DANTAS XAVIER",
+      "nomeUrna": "RICARDO XAVIER",
+      "partido": "CIDADANIA",
+      "numero": "23000",
+      "votos": 1476,
+      "percentual": 1.33,
+      "situacao": "Eleito por média",
+      "sqcand": "50002002352"
+    },
+    {
+      "nome": "RONALDO GERALDO DOS SANTOS",
+      "nomeUrna": "RONALDÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 1408,
+      "percentual": 1.27,
+      "situacao": "Eleito por média",
+      "sqcand": "50001946736"
+    },
+    {
+      "nome": "JOSE ERIVANIO SOBREIRA DOS SANTOS",
+      "nomeUrna": "BABÀ CEARENSE",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1376,
+      "percentual": 1.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001998009"
+    },
+    {
+      "nome": "ELDON ALMEIDA DOS SANTOS",
+      "nomeUrna": "ELDON ORÊA",
+      "partido": "AVANTE",
+      "numero": "70055",
+      "votos": 1330,
+      "percentual": 1.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001973183"
+    },
+    {
+      "nome": "BRUNO FERREIRA ALVES",
+      "nomeUrna": "BRUNO BILECO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 1313,
+      "percentual": 1.18,
+      "situacao": "Eleito por média",
+      "sqcand": "50001998109"
+    },
+    {
+      "nome": "JOSÉ BOAVENTURA DOS SANTOS",
+      "nomeUrna": "KAIA DA SAÚDE",
+      "partido": "PP",
+      "numero": "11321",
+      "votos": 1155,
+      "percentual": 1.04,
+      "situacao": "Eleito por média",
+      "sqcand": "50001998008"
+    },
+    {
+      "nome": "DENILTON DE JESUS SANTOS",
+      "nomeUrna": "DENILTON SANTOS",
+      "partido": "AVANTE",
+      "numero": "70456",
+      "votos": 1133,
+      "percentual": 1.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "50001973192"
+    },
+    {
+      "nome": "DANILO FREITAS SANTOS",
+      "nomeUrna": "DANILO DA NOVA ITABUNA",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 1129,
+      "percentual": 1.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002007916"
+    },
+    {
+      "nome": "ADILSON PEREIRA BORGES",
+      "nomeUrna": "ZÓI AMIGO DE ITABUNA",
+      "partido": "AVANTE",
+      "numero": "70444",
+      "votos": 1102,
+      "percentual": 0.99,
+      "situacao": "Eleito por média",
+      "sqcand": "50001973186"
+    },
+    {
+      "nome": "ROBSON ALVES RIGAUD",
+      "nomeUrna": "ROBSON RIGAUD",
+      "partido": "DC",
+      "numero": "27777",
+      "votos": 845,
+      "percentual": 0.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002056131"
+    },
+    {
+      "nome": "CLODOVIL MOREIRA SOARES",
+      "nomeUrna": "DELEGADO CLODOVIL",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 817,
+      "percentual": 0.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002118963"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 43668,
+      "percentual": 43.53,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 32151,
+      "percentual": 32.05,
+      "sqcand": "50001605325"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 21237,
+      "percentual": 21.17,
+      "sqcand": "50001615121"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ENDERSON BRUNO DOS SANTOS",
+      "nomeUrna": "GUINHO",
+      "partido": "UNIÃO",
+      "numero": "4489",
+      "votos": 12410,
+      "percentual": 12.04,
+      "sqcand": "50001634606"
+    },
+    {
+      "nome": "ISAAC JOSE NETO NERY DOS SANTOS",
+      "nomeUrna": "DR. ISAAC NERY",
+      "partido": "REPUBLICANOS",
+      "numero": "1070",
+      "votos": 11460,
+      "percentual": 11.12,
+      "sqcand": "50001619843"
+    },
+    {
+      "nome": "JOSÉ NILTON AZEVEDO LEAL",
+      "nomeUrna": "CAPITÃO AZEVEDO",
+      "partido": "PDT",
+      "numero": "1225",
+      "votos": 10428,
+      "percentual": 10.12,
+      "sqcand": "50001620877"
+    },
+    {
+      "nome": "ANTÔNIO MANGABEIRA FRANÇA",
+      "nomeUrna": "DR MANGABEIRA",
+      "partido": "PL",
+      "numero": "2236",
+      "votos": 6174,
+      "percentual": 5.99,
+      "sqcand": "50001609335"
+    },
+    {
+      "nome": "PAULO SÉRGIO PARANHOS DE MAGALHÃES",
+      "nomeUrna": "PAULO MAGALHÃES",
+      "partido": "PSD",
+      "numero": "5529",
+      "votos": 5375,
+      "percentual": 5.21,
+      "sqcand": "50001607232"
+    },
+    {
+      "nome": "ALICE MAZZUCO PORTUGAL",
+      "nomeUrna": "ALICE PORTUGAL",
+      "partido": "PC do B",
+      "numero": "6522",
+      "votos": 3534,
+      "percentual": 3.43,
+      "sqcand": "50001605368"
+    },
+    {
+      "nome": "JOSEILDO RIBEIRO RAMOS",
+      "nomeUrna": "JOSEILDO RAMOS",
+      "partido": "PT",
+      "numero": "1361",
+      "votos": 3431,
+      "percentual": 3.33,
+      "sqcand": "50001605369"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FABRICIO DIAS NUNES DA SILVA",
+      "nomeUrna": "PANCADINHA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77044",
+      "votos": 23531,
+      "percentual": 23.86,
+      "sqcand": "50001620017"
+    },
+    {
+      "nome": "JOSE ALBERTO DE LIMA FILHO",
+      "nomeUrna": "ZÉ ALBERTO",
+      "partido": "PSB",
+      "numero": "40140",
+      "votos": 16905,
+      "percentual": 17.14,
+      "sqcand": "50001605980"
+    },
+    {
+      "nome": "MARCONE AMARAL COSTA JUNIOR",
+      "nomeUrna": "MARCONE AMARAL",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 6421,
+      "percentual": 6.51,
+      "sqcand": "50001607304"
+    },
+    {
+      "nome": "ROSEMBERG EVANGELISTA PINTO",
+      "nomeUrna": "ROSEMBERG",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 3524,
+      "percentual": 3.57,
+      "sqcand": "50001606402"
+    },
+    {
+      "nome": "OSNI CARDOSO DE ARAÚJO",
+      "nomeUrna": "OSNI",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 3041,
+      "percentual": 3.08,
+      "sqcand": "50001606428"
+    },
+    {
+      "nome": "JOSE DE ARIMATEIA CORIOLANO DE PAIVA",
+      "nomeUrna": "JOSE DE ARIMATEIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 2899,
+      "percentual": 2.94,
+      "sqcand": "50001619281"
+    },
+    {
+      "nome": "SOANE GALVÃO BARBOSA",
+      "nomeUrna": "SOANE GALVÃO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 2418,
+      "percentual": 2.45,
+      "sqcand": "50001605984"
+    }
+  ]
+}

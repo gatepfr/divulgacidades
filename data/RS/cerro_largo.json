@@ -1,0 +1,271 @@
+{
+  "populacao": 10192,
+  "votosValidos": 8219,
+  "abstencao": 16.16,
+  "prefeito": {
+    "nome": "PROTÁSIO PEDRO BUTZEN",
+    "nomeUrna": "PEDRO BUTZEN",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3331,
+    "percentual": 40.53,
+    "situacao": "Eleito",
+    "sqcand": "210002075695",
+    "vice": "AMBRÓSIO TEN CATEN",
+    "viceNomeUrna": "AMBROSIO TEN CATEN",
+    "partidoVice": "PT",
+    "sqcandVice": "210002075696",
+    "coligacao": "PP / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ANDERSON KESSLER",
+      "nomeUrna": "ANDER KESSLER",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 885,
+      "percentual": 10.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002160976"
+    },
+    {
+      "nome": "PEDRO VALDIR MÜNCHEN",
+      "nomeUrna": "VALDIR MÜNCHEN",
+      "partido": "MDB",
+      "numero": "15515",
+      "votos": 442,
+      "percentual": 5.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002160985"
+    },
+    {
+      "nome": "JORGE ANDRÉ PIRES LUBAS",
+      "nomeUrna": "ANDRÉ LUBAS",
+      "partido": "PT",
+      "numero": "13144",
+      "votos": 431,
+      "percentual": 5.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002074144"
+    },
+    {
+      "nome": "NEIVO JOSÉ SCHMIDT",
+      "nomeUrna": "NEIVO JOSÉ SCHMIDT",
+      "partido": "PP",
+      "numero": "11611",
+      "votos": 406,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002195738"
+    },
+    {
+      "nome": "JOSÉ ANDREI MACHADO",
+      "nomeUrna": "ANDREI MACHADO",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 378,
+      "percentual": 4.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002195737"
+    },
+    {
+      "nome": "ARTÊMIO WINTER",
+      "nomeUrna": "ARTÊMIO WINTER",
+      "partido": "PP",
+      "numero": "11220",
+      "votos": 312,
+      "percentual": 3.83,
+      "situacao": "Eleito por média",
+      "sqcand": "210002195734"
+    },
+    {
+      "nome": "JOSÉ EMIR RAMME",
+      "nomeUrna": "TENENTE RAMME",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 309,
+      "percentual": 3.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002291532"
+    },
+    {
+      "nome": "VANDERLEI DE CASTRO",
+      "nomeUrna": "VANDERLEI DE CASTRO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 268,
+      "percentual": 3.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002160981"
+    },
+    {
+      "nome": "VALDEMAR PINTO KILCA",
+      "nomeUrna": "VALDEMAR PINTO KILCA  BOCA",
+      "partido": "MDB",
+      "numero": "15205",
+      "votos": 257,
+      "percentual": 3.16,
+      "situacao": "Eleito por média",
+      "sqcand": "210002160977"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 3644,
+      "percentual": 49.55,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2843,
+      "percentual": 38.66,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 821,
+      "percentual": 11.16,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALBERTO FRANTZ JÚNIOR",
+      "nomeUrna": "JÚNIOR FRANTZ",
+      "partido": "PDT",
+      "numero": "1261",
+      "votos": 1267,
+      "percentual": 16.75,
+      "sqcand": "210001621245"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 1266,
+      "percentual": 16.74,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 1001,
+      "percentual": 13.23,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 578,
+      "percentual": 7.64,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 495,
+      "percentual": 6.54,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "UBIRATAN ANTUNES SANDERSON",
+      "nomeUrna": "SANDERSON",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 425,
+      "percentual": 5.62,
+      "sqcand": "210001648581"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 423,
+      "percentual": 5.59,
+      "sqcand": "210001604668"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JEFERSON OLIVEIRA FERNANDES",
+      "nomeUrna": "JEFERSON FERNANDES",
+      "partido": "PT",
+      "numero": "13120",
+      "votos": 1143,
+      "percentual": 15.7,
+      "sqcand": "210001610620"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 914,
+      "percentual": 12.56,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 687,
+      "percentual": 9.44,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "EDUARDO DEBACCO LOUREIRO",
+      "nomeUrna": "EDUARDO LOUREIRO",
+      "partido": "PDT",
+      "numero": "12412",
+      "votos": 606,
+      "percentual": 8.33,
+      "sqcand": "210001621320"
+    },
+    {
+      "nome": "ANTONIO VALDECI OLIVEIRA DE OLIVEIRA",
+      "nomeUrna": "VALDECI OLIVEIRA",
+      "partido": "PT",
+      "numero": "13713",
+      "votos": 387,
+      "percentual": 5.32,
+      "sqcand": "210001610599"
+    },
+    {
+      "nome": "NIVIO BOELTER BRAZ",
+      "nomeUrna": "NIVIO BRAZ POLICIAL FEDERAL",
+      "partido": "PL",
+      "numero": "22100",
+      "votos": 335,
+      "percentual": 4.6,
+      "sqcand": "210001648949"
+    },
+    {
+      "nome": "EDIMILSON ANGER DA VEIGA",
+      "nomeUrna": "EDIMILSON ANGER DA VEIGA",
+      "partido": "MDB",
+      "numero": "15670",
+      "votos": 277,
+      "percentual": 3.81,
+      "sqcand": "210001647988"
+    }
+  ]
+}

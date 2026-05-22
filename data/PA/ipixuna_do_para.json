@@ -1,0 +1,311 @@
+{
+  "populacao": 24976,
+  "votosValidos": 20599,
+  "abstencao": 14.67,
+  "prefeito": {
+    "nome": "ARTEMES SILVA DE OLIVEIRA",
+    "nomeUrna": "ARTEMES OLIVEIRA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 12095,
+    "percentual": 58.72,
+    "situacao": "Eleito",
+    "sqcand": "140002167757",
+    "vice": "ROBSON MONTEIRO SANTIAGO",
+    "viceNomeUrna": "ROBSON SANTIAGO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "140002380801",
+    "coligacao": "REPUBLICANOS / MDB / PODE / UNIÃO / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ISAAC DOS SANTOS FARIAS",
+      "nomeUrna": "DR ISAAC",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 1001,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002168762"
+    },
+    {
+      "nome": "MARDONIO JHONES MARTINS DUARTE",
+      "nomeUrna": "MARDONIO JHONES",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 850,
+      "percentual": 4.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002168765"
+    },
+    {
+      "nome": "LUIZ RIBEIRO DE SOUZA",
+      "nomeUrna": "LUIZ DO TOMÁS",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 678,
+      "percentual": 3.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002248373"
+    },
+    {
+      "nome": "EVANDRO DE LIMA SOUZA",
+      "nomeUrna": "EVANDRO DO OITENTA E OITO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 671,
+      "percentual": 3.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002086356"
+    },
+    {
+      "nome": "ADAILTON DA SILVA REIS",
+      "nomeUrna": "ADAILTON REIS",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 609,
+      "percentual": 2.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001958165"
+    },
+    {
+      "nome": "CLAUDIA ARTEMIZE NASCIMENTO DA SILVA",
+      "nomeUrna": "CLAUDIA DA ARLENE",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 578,
+      "percentual": 2.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002195872"
+    },
+    {
+      "nome": "ELEILDO OLIVEIRA SIMIAO",
+      "nomeUrna": "CACHAÇA",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 545,
+      "percentual": 2.62,
+      "situacao": "Eleito por média",
+      "sqcand": "140002086354"
+    },
+    {
+      "nome": "SERGIO DA SILVA COSTA",
+      "nomeUrna": "SERGIO COSTA",
+      "partido": "PV",
+      "numero": "43000",
+      "votos": 525,
+      "percentual": 2.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002195881"
+    },
+    {
+      "nome": "LUCIANO GONCALVES RODRIGUES",
+      "nomeUrna": "PROFESSOR LUCIANO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 460,
+      "percentual": 2.21,
+      "situacao": "Eleito por média",
+      "sqcand": "140002248371"
+    },
+    {
+      "nome": "ADNA GOMES MARTINS",
+      "nomeUrna": "ADNA MARTINS",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 441,
+      "percentual": 2.12,
+      "situacao": "Eleito por média",
+      "sqcand": "140002195880"
+    },
+    {
+      "nome": "RAILTON DA SILVA",
+      "nomeUrna": "RAILTON SILVA",
+      "partido": "REPUBLICANOS",
+      "numero": "10700",
+      "votos": 408,
+      "percentual": 1.96,
+      "situacao": "Eleito por média",
+      "sqcand": "140002248364"
+    },
+    {
+      "nome": "JOSÉ ELISSANDRO BEZERRA DA SILVA",
+      "nomeUrna": "NANY DA BALALAICA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 392,
+      "percentual": 1.89,
+      "situacao": "Eleito por média",
+      "sqcand": "140002168758"
+    },
+    {
+      "nome": "CLAUDENOR ALVES DA SILVA",
+      "nomeUrna": "CACAU",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 334,
+      "percentual": 1.61,
+      "situacao": "Eleito por média",
+      "sqcand": "140001958171"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 7485,
+      "percentual": 47.12,
+      "sqcand": "140001611661"
+    },
+    {
+      "nome": "MANOEL CARLOS ANTUNES",
+      "nomeUrna": "PIONEIRO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 5042,
+      "percentual": 31.74,
+      "sqcand": "140001650188"
+    },
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 3114,
+      "percentual": 19.6,
+      "sqcand": "140001600249"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+      "nomeUrna": "JOAQUIM PASSARINHO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 3888,
+      "percentual": 23.27,
+      "sqcand": "140001598308"
+    },
+    {
+      "nome": "ANTONIO LEOCADIO DOS SANTOS",
+      "nomeUrna": "ANTONIO DOIDO",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 2100,
+      "percentual": 12.57,
+      "sqcand": "140001621342"
+    },
+    {
+      "nome": "HÉLIO LEITE DA SILVA",
+      "nomeUrna": "HÉLIO LEITE",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 1406,
+      "percentual": 8.41,
+      "sqcand": "140001604543"
+    },
+    {
+      "nome": "DILVANDA FURTADO FARO",
+      "nomeUrna": "DILVANDA FARO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 1239,
+      "percentual": 7.41,
+      "sqcand": "140001620897"
+    },
+    {
+      "nome": "ELCIONE THEREZINHA ZAHLUTH BARBALHO",
+      "nomeUrna": "ELCIONE",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 1204,
+      "percentual": 7.21,
+      "sqcand": "140001621343"
+    },
+    {
+      "nome": "JOÃO FERRARI JÚNIOR",
+      "nomeUrna": "JÚNIOR FERRARI",
+      "partido": "PSD",
+      "numero": "5588",
+      "votos": 733,
+      "percentual": 4.39,
+      "sqcand": "140001620797"
+    },
+    {
+      "nome": "JOSE EDUARDO PEREIRA DA COSTA",
+      "nomeUrna": "EDUARDO COSTA",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 591,
+      "percentual": 3.54,
+      "sqcand": "140001620799"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "WENDERSON AZEVEDO CHAMON",
+      "nomeUrna": "CHAMONZINHO",
+      "partido": "MDB",
+      "numero": "15100",
+      "votos": 3983,
+      "percentual": 25.24,
+      "sqcand": "140001676888"
+    },
+    {
+      "nome": "NEIL DUARTE DE SOUZA",
+      "nomeUrna": "CORONEL NEIL",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 2273,
+      "percentual": 14.41,
+      "sqcand": "140001601793"
+    },
+    {
+      "nome": "IGOR WANDER CENTENO NORMANDO",
+      "nomeUrna": "IGOR NORMANDO",
+      "partido": "PODE",
+      "numero": "19111",
+      "votos": 1317,
+      "percentual": 8.35,
+      "sqcand": "140001651435"
+    },
+    {
+      "nome": "JAQUES DA SILVA NEVES",
+      "nomeUrna": "DR JAQUES",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 829,
+      "percentual": 5.25,
+      "sqcand": "140001611698"
+    },
+    {
+      "nome": "CARLOS ALBERTO BARROS BORDALO",
+      "nomeUrna": "BORDALO",
+      "partido": "PT",
+      "numero": "13130",
+      "votos": 737,
+      "percentual": 4.67,
+      "sqcand": "140001676604"
+    },
+    {
+      "nome": "CARLOS VINICIOS DE MELO VIEIRA",
+      "nomeUrna": "CARLOS VINICIOS",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 702,
+      "percentual": 4.45,
+      "sqcand": "140001676889"
+    },
+    {
+      "nome": "ANGELO AUGUSTO DE OLIVEIRA FERRARI",
+      "nomeUrna": "ANGELO FERRARI",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 609,
+      "percentual": 3.86,
+      "sqcand": "140001676890"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 3292,
+  "votosValidos": 2777,
+  "abstencao": 12.24,
+  "prefeito": {
+    "nome": "JOÃO ANTONIO FULONI",
+    "nomeUrna": "JOÃO DA TAPERA",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 1242,
+    "percentual": 44.72,
+    "situacao": "Eleito",
+    "sqcand": "250001964382",
+    "vice": "ALESSANDRO JOSE DE LOVA",
+    "viceNomeUrna": "ALESSANDRO GANGO",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "250001964381",
+    "coligacao": "PL / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "BENEDITO RAIMUNDO DE PAULA",
+      "nomeUrna": "BODINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 214,
+      "percentual": 7.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002316201"
+    },
+    {
+      "nome": "RODRIGO BIAJONE BATISTA GUILHERME",
+      "nomeUrna": "RODRIGO BONGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 173,
+      "percentual": 6.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002316208"
+    },
+    {
+      "nome": "CARLOS FABIANO GASPERONI RIATO",
+      "nomeUrna": "FABIANO",
+      "partido": "PODE",
+      "numero": "20999",
+      "votos": 171,
+      "percentual": 6.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002194667"
+    },
+    {
+      "nome": "ISAIAS ROBERTO ANTUNES",
+      "nomeUrna": "ISAIAS ANTUNES",
+      "partido": "PODE",
+      "numero": "20000",
+      "votos": 160,
+      "percentual": 5.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002194665"
+    },
+    {
+      "nome": "DIEGO APARECIDO ALHER DE GOES",
+      "nomeUrna": "DIEGO ALHER",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 136,
+      "percentual": 4.89,
+      "situacao": "Eleito por média",
+      "sqcand": "250002195658"
+    },
+    {
+      "nome": "PAULO HENRIQUE DA SILVA",
+      "nomeUrna": "PAULINHO SILVA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 130,
+      "percentual": 4.67,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002315607"
+    },
+    {
+      "nome": "RODRIGO DULICIA FULONI",
+      "nomeUrna": "RODRIGO FULONI",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 128,
+      "percentual": 4.6,
+      "situacao": "Eleito por média",
+      "sqcand": "250002316210"
+    },
+    {
+      "nome": "DIEGO AFONSO NUNES BASSO",
+      "nomeUrna": "DIEGO DA JOSELI",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 110,
+      "percentual": 3.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002314512"
+    },
+    {
+      "nome": "VALMIR APARECIDO CARDOSO",
+      "nomeUrna": "PELÉ CARDOSO",
+      "partido": "PODE",
+      "numero": "20789",
+      "votos": 104,
+      "percentual": 3.74,
+      "situacao": "Eleito por média",
+      "sqcand": "250002194659"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1019,
+      "percentual": 50.47,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 851,
+      "percentual": 42.15,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 121,
+      "percentual": 5.99,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOÃO CURY NETO",
+      "nomeUrna": "JOÃO CURY",
+      "partido": "MDB",
+      "numero": "1550",
+      "votos": 281,
+      "percentual": 12.99,
+      "sqcand": "250001611240"
+    },
+    {
+      "nome": "SAMUEL MOREIRA DA SILVA JUNIOR",
+      "nomeUrna": "SAMUEL MOREIRA",
+      "partido": "PSDB",
+      "numero": "4580",
+      "votos": 245,
+      "percentual": 11.33,
+      "sqcand": "250001612140"
+    },
+    {
+      "nome": "MARCOS ANTONIO PEREIRA",
+      "nomeUrna": "MARCOS PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 175,
+      "percentual": 8.09,
+      "sqcand": "250001611863"
+    },
+    {
+      "nome": "LUIZ MARINHO",
+      "nomeUrna": "LUIZ MARINHO",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 173,
+      "percentual": 8.0,
+      "sqcand": "250001610678"
+    },
+    {
+      "nome": "PAULO PEREIRA DA SILVA",
+      "nomeUrna": "PAULINHO DA FORÇA",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 166,
+      "percentual": 7.67,
+      "sqcand": "250001606095"
+    },
+    {
+      "nome": "ARNALDO SALVETTI PALACIO JUNIOR",
+      "nomeUrna": "ARNALDO SALVETTI",
+      "partido": "MDB",
+      "numero": "1587",
+      "votos": 145,
+      "percentual": 6.7,
+      "sqcand": "250001611258"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 96,
+      "percentual": 4.44,
+      "sqcand": "250001611357"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTONIO CARLOS DE CAMPOS MACHADO",
+      "nomeUrna": "CAMPOS MACHADO",
+      "partido": "AVANTE",
+      "numero": "70140",
+      "votos": 410,
+      "percentual": 20.13,
+      "sqcand": "250001621735"
+    },
+    {
+      "nome": "ANA LUCIA LIPPAUS PERUGINI",
+      "nomeUrna": "ANA PERUGINI",
+      "partido": "PT",
+      "numero": "13121",
+      "votos": 331,
+      "percentual": 16.25,
+      "sqcand": "250001611809"
+    },
+    {
+      "nome": "RICARDO ROSSI MADALENA",
+      "nomeUrna": "RICARDO MADALENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 265,
+      "percentual": 13.01,
+      "sqcand": "250001610138"
+    },
+    {
+      "nome": "FERNANDO HENRIQUE CURY",
+      "nomeUrna": "FERNANDO CURY",
+      "partido": "UNIÃO",
+      "numero": "44456",
+      "votos": 132,
+      "percentual": 6.48,
+      "sqcand": "250001602134"
+    },
+    {
+      "nome": "LETICIA AGUIAR RESENDE ALVES",
+      "nomeUrna": "LETÍCIA AGUIAR",
+      "partido": "PP",
+      "numero": "11022",
+      "votos": 99,
+      "percentual": 4.86,
+      "sqcand": "250001612280"
+    },
+    {
+      "nome": "DANILO MASCARENHAS DE BALAS",
+      "nomeUrna": "AGENTE FEDERAL DANILO BALAS",
+      "partido": "PL",
+      "numero": "22007",
+      "votos": 88,
+      "percentual": 4.32,
+      "sqcand": "250001610117"
+    },
+    {
+      "nome": "VITOR ALEXANDRE RODRIGUES",
+      "nomeUrna": "VITÃO DO CACHORRÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 80,
+      "percentual": 3.93,
+      "sqcand": "250001639551"
+    }
+  ]
+}

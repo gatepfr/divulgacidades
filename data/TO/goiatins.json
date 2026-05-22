@@ -1,0 +1,271 @@
+{
+  "populacao": 8783,
+  "votosValidos": 7272,
+  "abstencao": 14.24,
+  "prefeito": {
+    "nome": "MANOEL NATALINO PEREIRA SOARES",
+    "nomeUrna": "MANOEL NATALINO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 3644,
+    "percentual": 50.11,
+    "situacao": "Eleito",
+    "sqcand": "270002199835",
+    "vice": "JOSÉ AMÉRICO AQUINO SOUSA FILHO",
+    "viceNomeUrna": "ZÉ AMÉRICO FILHO ",
+    "partidoVice": "PDT",
+    "sqcandVice": "270002199834",
+    "coligacao": "REPUBLICANOS / PDT / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "CESAR OLIVEIRA DA SILVA",
+      "nomeUrna": "CESAR OLIVEIRA",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 527,
+      "percentual": 7.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002040210"
+    },
+    {
+      "nome": "MURILLO PORTO ALENCAR",
+      "nomeUrna": "MURILLO ALENCAR",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 451,
+      "percentual": 6.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002128889"
+    },
+    {
+      "nome": "EDIVALDO DE SOUSA SILVA",
+      "nomeUrna": "MODEBA DA VAN",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77888",
+      "votos": 430,
+      "percentual": 5.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002040231"
+    },
+    {
+      "nome": "RUBENS FERREIRA DE ARAÚJO",
+      "nomeUrna": "RUBENS ARAÚJO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 408,
+      "percentual": 5.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002128883"
+    },
+    {
+      "nome": "REGINALDO MENEZES DA SILVA",
+      "nomeUrna": "REGINALDO MENEZES",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 394,
+      "percentual": 5.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002040212"
+    },
+    {
+      "nome": "JOSIEIDES SOARES DIAS",
+      "nomeUrna": "JOSIEIDES SOARES",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 358,
+      "percentual": 4.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002040233"
+    },
+    {
+      "nome": "ANA CLAUDIA GOMES DA LUZ",
+      "nomeUrna": "PRETINHA BORÁ",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 341,
+      "percentual": 4.66,
+      "situacao": "Eleito por média",
+      "sqcand": "270002040209"
+    },
+    {
+      "nome": "LILIAN MARIA RODRIGUES RIBEIRO",
+      "nomeUrna": "ENFERMEIRA LILIAN MARIA",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 270,
+      "percentual": 3.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "270002128890"
+    },
+    {
+      "nome": "EDIMILÇON FERNANDES DA LUZ",
+      "nomeUrna": "EDIMILÇON DO CARTUCHO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77111",
+      "votos": 266,
+      "percentual": 3.63,
+      "situacao": "Eleito por média",
+      "sqcand": "270002040230"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIA AUXILIADORA SEABRA REZENDE",
+      "nomeUrna": "PROFESSORA DORINHA",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 3188,
+      "percentual": 54.3,
+      "sqcand": "270001649254"
+    },
+    {
+      "nome": "KATIA REGINA DE ABREU GOMES",
+      "nomeUrna": "KATIA",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1110,
+      "percentual": 18.91,
+      "sqcand": "270001713170"
+    },
+    {
+      "nome": "ATAIDES DE OLIVEIRA",
+      "nomeUrna": "ATAÍDES DE OLIVEIRA",
+      "partido": "PROS",
+      "numero": "900",
+      "votos": 976,
+      "percentual": 16.62,
+      "sqcand": "270001609016"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANTONIO POINCARE ANDRADE FILHO",
+      "nomeUrna": "TOINHO ANDRADE",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 1061,
+      "percentual": 17.41,
+      "sqcand": "270001654159"
+    },
+    {
+      "nome": "OSIRES RODRIGUES DAMASO",
+      "nomeUrna": "OSIRES DAMASO",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 1044,
+      "percentual": 17.13,
+      "sqcand": "270001672961"
+    },
+    {
+      "nome": "CARLOS HENRIQUE AMORIM",
+      "nomeUrna": "CARLOS GAGUIM",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 882,
+      "percentual": 14.47,
+      "sqcand": "270001643519"
+    },
+    {
+      "nome": "ELI DIAS BORGES",
+      "nomeUrna": "ELI BORGES",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 802,
+      "percentual": 13.16,
+      "sqcand": "270001643551"
+    },
+    {
+      "nome": "RICARDO AYRES DE CARVALHO",
+      "nomeUrna": "RICARDO AYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 440,
+      "percentual": 7.22,
+      "sqcand": "270001654164"
+    },
+    {
+      "nome": "CÉLIO ALVES DE MOURA",
+      "nomeUrna": "CÉLIO MOURA",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 334,
+      "percentual": 5.48,
+      "sqcand": "270001612026"
+    },
+    {
+      "nome": "JOSÉ ALEXANDRE DOMINGUES GUIMARÃES",
+      "nomeUrna": "ALEXANDRE GUIMARÃES",
+      "partido": "REPUBLICANOS",
+      "numero": "1088",
+      "votos": 211,
+      "percentual": 3.46,
+      "sqcand": "270001654160"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JORGE FREDERICO",
+      "nomeUrna": "JORGE FREDERICO",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 1704,
+      "percentual": 29.51,
+      "sqcand": "270001654141"
+    },
+    {
+      "nome": "AMELIO CAYRES DE ALMEIDA",
+      "nomeUrna": "AMELIO CAYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 1024,
+      "percentual": 17.73,
+      "sqcand": "270001654140"
+    },
+    {
+      "nome": "VILMAR ALVES DE OLIVEIRA",
+      "nomeUrna": "VILMAR",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77700",
+      "votos": 1000,
+      "percentual": 17.32,
+      "sqcand": "270001651895"
+    },
+    {
+      "nome": "IVORY DE LIRA AGUIAR CUNHA",
+      "nomeUrna": "IVORY DE LIRA",
+      "partido": "PC do B",
+      "numero": "65000",
+      "votos": 252,
+      "percentual": 4.36,
+      "sqcand": "270001620118"
+    },
+    {
+      "nome": "MANOEL DIAMANTINO DE SOUZA JUNIOR",
+      "nomeUrna": "JÚNIOR DIAMANTINO",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 210,
+      "percentual": 3.64,
+      "sqcand": "270001697322"
+    },
+    {
+      "nome": "ELENIL DA PENHA ALVES DE BRITO",
+      "nomeUrna": "ELENIL",
+      "partido": "MDB",
+      "numero": "15115",
+      "votos": 179,
+      "percentual": 3.1,
+      "sqcand": "270001700076"
+    },
+    {
+      "nome": "JOÃO OLIVEIRA DE SOUSA",
+      "nomeUrna": "JOÃO OLIVEIRA",
+      "partido": "CIDADANIA",
+      "numero": "23333",
+      "votos": 165,
+      "percentual": 2.86,
+      "sqcand": "270001643141"
+    }
+  ]
+}

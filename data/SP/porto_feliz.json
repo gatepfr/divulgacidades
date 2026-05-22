@@ -1,0 +1,291 @@
+{
+  "populacao": 40691,
+  "votosValidos": 28853,
+  "abstencao": 22.38,
+  "prefeito": {
+    "nome": "CÉLIO PEIXOTO DOS SANTOS",
+    "nomeUrna": "CÉLIO PEIXOTO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 13357,
+    "percentual": 46.29,
+    "situacao": "Eleito",
+    "sqcand": "250002013868",
+    "vice": "LUCAS APARECIDO RODRIGUES",
+    "viceNomeUrna": "LUCAS RODRIGUES",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002013869",
+    "coligacao": "REPUBLICANOS / PP / MDB / PODE / PL / PSB / AVANTE / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "PAULO ADRIANO BENEDETTI",
+      "nomeUrna": "PAULO BENEDETTI",
+      "partido": "REPUBLICANOS",
+      "numero": "10987",
+      "votos": 1105,
+      "percentual": 3.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002206812"
+    },
+    {
+      "nome": "LUIS ANTONIO GUTIERRE RUIZ",
+      "nomeUrna": "TEKO",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 1070,
+      "percentual": 3.71,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002207357"
+    },
+    {
+      "nome": "MARCELO TUANI",
+      "nomeUrna": "PROFESSOR MARCELO TUANI",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 816,
+      "percentual": 2.83,
+      "situacao": "Eleito por média",
+      "sqcand": "250002186745"
+    },
+    {
+      "nome": "LUCIA DE FATIMA CABALLERO",
+      "nomeUrna": "LU CABALLERO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 810,
+      "percentual": 2.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "250001966705"
+    },
+    {
+      "nome": "LUIS HENRIQUE DE OLIVEIRA DINIZ",
+      "nomeUrna": "DR LUÍS DINIZ",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 790,
+      "percentual": 2.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002118599"
+    },
+    {
+      "nome": "ADILSON DE JESUS CASAGRANDE",
+      "nomeUrna": "ADILSON CASAGRANDE",
+      "partido": "UNIÃO",
+      "numero": "44500",
+      "votos": 528,
+      "percentual": 1.83,
+      "situacao": "Eleito por média",
+      "sqcand": "250001966707"
+    },
+    {
+      "nome": "PASCOAL LATURRAGUE",
+      "nomeUrna": "NINO LATURRAGUE",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 474,
+      "percentual": 1.64,
+      "situacao": "Eleito por média",
+      "sqcand": "250002207354"
+    },
+    {
+      "nome": "ANDRE ROGERIO BIZAN DE OLIVEIRA",
+      "nomeUrna": "DR ANDRÉ BIZAN",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 441,
+      "percentual": 1.53,
+      "situacao": "Eleito por média",
+      "sqcand": "250002121274"
+    },
+    {
+      "nome": "ROSELENE MARIA DE SOUZA DOS SANTOS",
+      "nomeUrna": "PASTORA ROSELENE",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 366,
+      "percentual": 1.27,
+      "situacao": "Eleito por média",
+      "sqcand": "250002224094"
+    },
+    {
+      "nome": "ODELIO LEITE DOS SANTOS",
+      "nomeUrna": "ODELIO LEITE",
+      "partido": "DC",
+      "numero": "27800",
+      "votos": 359,
+      "percentual": 1.24,
+      "situacao": "Eleito por média",
+      "sqcand": "250001961621"
+    },
+    {
+      "nome": "ANA PAULA MELO DOS SANTOS",
+      "nomeUrna": "DRA ANA PAULA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 311,
+      "percentual": 1.08,
+      "situacao": "Eleito por média",
+      "sqcand": "250002187387"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 17633,
+      "percentual": 67.56,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 6285,
+      "percentual": 24.08,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1098,
+      "percentual": 4.21,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GUILHERME MURARO DERRITE",
+      "nomeUrna": "CAPITÃO DERRITE",
+      "partido": "PL",
+      "numero": "2290",
+      "votos": 11609,
+      "percentual": 41.79,
+      "sqcand": "250001611359"
+    },
+    {
+      "nome": "JILMAR AUGUSTINHO TATTO",
+      "nomeUrna": "JILMAR TATTO",
+      "partido": "PT",
+      "numero": "1380",
+      "votos": 863,
+      "percentual": 3.11,
+      "sqcand": "250001610654"
+    },
+    {
+      "nome": "JEFFERSON ALVES DE CAMPOS",
+      "nomeUrna": "JEFFERSON CAMPOS",
+      "partido": "PL",
+      "numero": "2274",
+      "votos": 623,
+      "percentual": 2.24,
+      "sqcand": "250001611329"
+    },
+    {
+      "nome": "RITA DE CASSIA TRINCA PASSOS",
+      "nomeUrna": "RITA PASSOS",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 622,
+      "percentual": 2.24,
+      "sqcand": "250001611860"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 579,
+      "percentual": 2.08,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "BRUNO MARCELLO DE OLIVEIRA LIMA",
+      "nomeUrna": "DELEGADO BRUNO LIMA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 567,
+      "percentual": 2.04,
+      "sqcand": "250001611973"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 505,
+      "percentual": 1.82,
+      "sqcand": "250001611365"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "TIAGO FINESSI",
+      "nomeUrna": "FINA FINESSI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 2429,
+      "percentual": 9.6,
+      "sqcand": "250001610189"
+    },
+    {
+      "nome": "ROGERIO NOGUEIRA LOPES CRUZ",
+      "nomeUrna": "ROGÉRIO NOGUEIRA",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 1616,
+      "percentual": 6.39,
+      "sqcand": "250001611431"
+    },
+    {
+      "nome": "CARLOS CEZAR DA SILVA",
+      "nomeUrna": "CARLOS CEZAR",
+      "partido": "PL",
+      "numero": "22112",
+      "votos": 1049,
+      "percentual": 4.14,
+      "sqcand": "250001610158"
+    },
+    {
+      "nome": "DANILO MASCARENHAS DE BALAS",
+      "nomeUrna": "AGENTE FEDERAL DANILO BALAS",
+      "partido": "PL",
+      "numero": "22007",
+      "votos": 1047,
+      "percentual": 4.14,
+      "sqcand": "250001610117"
+    },
+    {
+      "nome": "JORGE DO CARMO SILVA",
+      "nomeUrna": "DR. JORGE DO CARMO",
+      "partido": "PT",
+      "numero": "13800",
+      "votos": 825,
+      "percentual": 3.26,
+      "sqcand": "250001611773"
+    },
+    {
+      "nome": "ROBERVAL CONTE LOPES LIMA",
+      "nomeUrna": "CAPITÃO CONTE LOPES",
+      "partido": "PL",
+      "numero": "22138",
+      "votos": 734,
+      "percentual": 2.9,
+      "sqcand": "250001610141"
+    },
+    {
+      "nome": "DAMARIS DIAS MOURA KUO",
+      "nomeUrna": "DRA DAMARIS MOURA",
+      "partido": "PSDB",
+      "numero": "45245",
+      "votos": 690,
+      "percentual": 2.73,
+      "sqcand": "250001611428"
+    }
+  ]
+}

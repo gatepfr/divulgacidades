@@ -1,0 +1,271 @@
+{
+  "populacao": 2700,
+  "votosValidos": 2426,
+  "abstencao": 8.78,
+  "prefeito": {
+    "nome": "BRÁULIO SCHERER",
+    "nomeUrna": "BRÁULIO SCHERER",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1321,
+    "percentual": 54.45,
+    "situacao": "Eleito",
+    "sqcand": "210002227862",
+    "vice": "MARCELO JULIANO TRETER",
+    "viceNomeUrna": "MARCELO TRETER",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002227863",
+    "coligacao": "PP / PDT / PL / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "CRISTIANA DOS SANTOS ARNT",
+      "nomeUrna": "CRISTIANA ARNT",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 216,
+      "percentual": 8.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002172670"
+    },
+    {
+      "nome": "DOUGLAS VINÍCIOS LIMA DOS ANJOS",
+      "nomeUrna": "DOUGLAS DOS ANJOS  DUQUINHA",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 189,
+      "percentual": 7.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002166773"
+    },
+    {
+      "nome": "FRANCISCO OSCAR PLETSCH",
+      "nomeUrna": "CHICO PLETSCH",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 155,
+      "percentual": 6.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002027110"
+    },
+    {
+      "nome": "MAIC MOTA RODRIGUES",
+      "nomeUrna": "MAIC MOTA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 150,
+      "percentual": 6.16,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002027117"
+    },
+    {
+      "nome": "GILBERTO SEBASTIAO FRACARO",
+      "nomeUrna": "FRACARO",
+      "partido": "MDB",
+      "numero": "15852",
+      "votos": 149,
+      "percentual": 6.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002027114"
+    },
+    {
+      "nome": "ALCEU SANTONI",
+      "nomeUrna": "CASCÃO",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 142,
+      "percentual": 5.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002230036"
+    },
+    {
+      "nome": "ÉLTON KRONBAUER",
+      "nomeUrna": "ELTON KRONBAUER",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 138,
+      "percentual": 5.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002230037"
+    },
+    {
+      "nome": "LUCAS JAIR WOTTRICH",
+      "nomeUrna": "LUCAS WOTTRICH",
+      "partido": "PDT",
+      "numero": "12012",
+      "votos": 118,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "210002166775"
+    },
+    {
+      "nome": "THALES RAUBER FIGUEIRÓ",
+      "nomeUrna": "THALES FIGUEIRÓ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 118,
+      "percentual": 4.84,
+      "situacao": "Eleito por média",
+      "sqcand": "210002230035"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 986,
+      "percentual": 49.28,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 607,
+      "percentual": 30.33,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 381,
+      "percentual": 19.04,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 342,
+      "percentual": 16.81,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 338,
+      "percentual": 16.62,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 277,
+      "percentual": 13.62,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 167,
+      "percentual": 8.21,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 126,
+      "percentual": 6.19,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 106,
+      "percentual": 5.21,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 81,
+      "percentual": 3.98,
+      "sqcand": "210001597011"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ALOISIO TALSO CLASSMANN",
+      "nomeUrna": "CLASSMANN",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 380,
+      "percentual": 18.94,
+      "sqcand": "210001601953"
+    },
+    {
+      "nome": "GERSON BURMANN",
+      "nomeUrna": "GERSON BURMANN",
+      "partido": "PDT",
+      "numero": "12312",
+      "votos": 348,
+      "percentual": 17.35,
+      "sqcand": "210001621326"
+    },
+    {
+      "nome": "JORGE GILMAR AMARAL DE OLIVEIRA",
+      "nomeUrna": "DR JORGE AMARAL",
+      "partido": "PP",
+      "numero": "11440",
+      "votos": 226,
+      "percentual": 11.27,
+      "sqcand": "210001647195"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 224,
+      "percentual": 11.17,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "ADALBERTO DE OLIVEIRA NORONHA",
+      "nomeUrna": "BETO NORONHA",
+      "partido": "PT",
+      "numero": "13313",
+      "votos": 156,
+      "percentual": 7.78,
+      "sqcand": "210001610592"
+    },
+    {
+      "nome": "MARCOS CÉSAR BARRIQUELLO",
+      "nomeUrna": "BARRIQUELLO",
+      "partido": "PL",
+      "numero": "22111",
+      "votos": 85,
+      "percentual": 4.24,
+      "sqcand": "210001648966"
+    },
+    {
+      "nome": "UBIRAJARA MACHADO TEIXEIRA",
+      "nomeUrna": "BIRA TEIXEIRA",
+      "partido": "PT",
+      "numero": "13285",
+      "votos": 66,
+      "percentual": 3.29,
+      "sqcand": "210001610591"
+    }
+  ]
+}

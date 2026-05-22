@@ -1,0 +1,291 @@
+{
+  "populacao": 20339,
+  "votosValidos": 15203,
+  "abstencao": 20.82,
+  "prefeito": {
+    "nome": "TIAGO TORRES FREITAS",
+    "nomeUrna": "TIAGO FREITAS",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 11565,
+    "percentual": 76.07,
+    "situacao": "Eleito",
+    "sqcand": "20001990690",
+    "vice": "JOSE VICENTE RODRIGUES",
+    "viceNomeUrna": "ZÉ VICENTE",
+    "partidoVice": "PDT",
+    "sqcandVice": "20001990691",
+    "coligacao": "PDT / MDB / PSB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "LAURA GONZAGA RODRIGUES",
+      "nomeUrna": "LAURA DE ZÉ VICENTE",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 912,
+      "percentual": 5.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001990031"
+    },
+    {
+      "nome": "AGILSON FERREIRA BARROS",
+      "nomeUrna": "XÔXO",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 864,
+      "percentual": 5.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001990028"
+    },
+    {
+      "nome": "MARTA MICHELLE FREIRE DA CUNHA",
+      "nomeUrna": "MICHELLE FIDELIS",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 863,
+      "percentual": 5.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001990024"
+    },
+    {
+      "nome": "MARIA OZANA FERREIRA DA SILVA",
+      "nomeUrna": "OZANA FERREIRA",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 861,
+      "percentual": 5.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001989745"
+    },
+    {
+      "nome": "JULIANO JOSÉ MORAES DA SILVA",
+      "nomeUrna": "GIL MORAIS",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 848,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001989739"
+    },
+    {
+      "nome": "MARIA MARGARIDA PEREIRA DA SILVA",
+      "nomeUrna": "MARGARIDA DE RENATO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 847,
+      "percentual": 5.44,
+      "situacao": "Eleito por média",
+      "sqcand": "20001989736"
+    },
+    {
+      "nome": "EVÂNDIA FLORÊNCIO MONTEIRO VENTURA",
+      "nomeUrna": "EVÂNDIA DE GESSÉ",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 826,
+      "percentual": 5.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001990321"
+    },
+    {
+      "nome": "JOSE SOUZA MELO",
+      "nomeUrna": "ZÉ NETO AUGUSTO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 801,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001990323"
+    },
+    {
+      "nome": "ADMILSON FERREIRA BARROS",
+      "nomeUrna": "CIPÓ",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 553,
+      "percentual": 3.55,
+      "situacao": "Eleito por média",
+      "sqcand": "20001990331"
+    },
+    {
+      "nome": "ANTÔNIO BRÁULIO CAMPOS LISBOA",
+      "nomeUrna": "BRÁULIO CAMPOS",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 504,
+      "percentual": 3.23,
+      "situacao": "Eleito por média",
+      "sqcand": "20001990023"
+    },
+    {
+      "nome": "JOSÉ DA SILVA SANTOS",
+      "nomeUrna": "ZÉ NETO DO MST",
+      "partido": "PT",
+      "numero": "13130",
+      "votos": 441,
+      "percentual": 2.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "20001912166"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOSÉ RENAN VASCONCELOS CALHEIROS FILHO",
+      "nomeUrna": "RENAN FILHO",
+      "partido": "MDB",
+      "numero": "151",
+      "votos": 8404,
+      "percentual": 71.49,
+      "sqcand": "20001698127"
+    },
+    {
+      "nome": "DAVID CABRAL DAVINO FILHO",
+      "nomeUrna": "DAVI DAVINO FILHO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 3299,
+      "percentual": 28.06,
+      "sqcand": "20001653095"
+    },
+    {
+      "nome": "MARIO AGRA JÚNIOR",
+      "nomeUrna": "MARIO AGRA",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 52,
+      "percentual": 0.44,
+      "sqcand": "20001611211"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RAFAEL DE GOES BRITO",
+      "nomeUrna": "RAFAEL BRITO (TIO RAFA)",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 2479,
+      "percentual": 20.13,
+      "sqcand": "20001653888"
+    },
+    {
+      "nome": "MARX BELTRÃO LIMA SIQUEIRA",
+      "nomeUrna": "MARX BELTRÃO",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 2179,
+      "percentual": 17.69,
+      "sqcand": "20001614180"
+    },
+    {
+      "nome": "ARTHUR CESAR PEREIRA DE LIRA",
+      "nomeUrna": "ARTHUR LIRA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 2084,
+      "percentual": 16.92,
+      "sqcand": "20001614175"
+    },
+    {
+      "nome": "BRUNO RODRIGO VALENÇA DE ARAUJO",
+      "nomeUrna": "RODRIGO VALENÇA",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 1724,
+      "percentual": 14.0,
+      "sqcand": "20001611721"
+    },
+    {
+      "nome": "PAULO FERNANDO DOS SANTOS",
+      "nomeUrna": "PAULÃO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 1084,
+      "percentual": 8.8,
+      "sqcand": "20001610332"
+    },
+    {
+      "nome": "GILVAN GOMES BARROS",
+      "nomeUrna": "GILVAN BARROS",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 451,
+      "percentual": 3.66,
+      "sqcand": "20001614177"
+    },
+    {
+      "nome": "MAURÍCIO QUINTELLA MALTA LESSA",
+      "nomeUrna": "MAURÍCIO QUINTELLA",
+      "partido": "MDB",
+      "numero": "1566",
+      "votos": 413,
+      "percentual": 3.35,
+      "sqcand": "20001653891"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "INÁCIO LOIOLA DAMASCENO FREITAS",
+      "nomeUrna": "INÁCIO LOIOLA",
+      "partido": "MDB",
+      "numero": "15345",
+      "votos": 5640,
+      "percentual": 47.91,
+      "sqcand": "20001653526"
+    },
+    {
+      "nome": "JOSE FRANCISCO CERQUEIRA TENORIO",
+      "nomeUrna": "FRANCISCO TENORIO",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1782,
+      "percentual": 15.14,
+      "sqcand": "20001636046"
+    },
+    {
+      "nome": "JOSÉ RONALDO MEDEIROS",
+      "nomeUrna": "RONALDO MEDEIROS",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 447,
+      "percentual": 3.8,
+      "sqcand": "20001612343"
+    },
+    {
+      "nome": "KARLA DAYANNA TAVARES CAVALCANTE SILVA",
+      "nomeUrna": "DRA KARLA",
+      "partido": "AVANTE",
+      "numero": "70777",
+      "votos": 388,
+      "percentual": 3.3,
+      "sqcand": "20001638572"
+    },
+    {
+      "nome": "CLAUDIO ALEXANDRE AYRES DA COSTA",
+      "nomeUrna": "ALEXANDRE AYRES",
+      "partido": "MDB",
+      "numero": "15151",
+      "votos": 292,
+      "percentual": 2.48,
+      "sqcand": "20001653517"
+    },
+    {
+      "nome": "YVAN REIS BELTRÃO SIQUEIRA",
+      "nomeUrna": "YVAN BELTRÃO",
+      "partido": "MDB",
+      "numero": "15999",
+      "votos": 263,
+      "percentual": 2.23,
+      "sqcand": "20001653509"
+    },
+    {
+      "nome": "GUILHERME RESSURREIÇÃO LOPES",
+      "nomeUrna": "GUILHERME LOPES",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 232,
+      "percentual": 1.97,
+      "sqcand": "20001653520"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 2953,
+  "votosValidos": 2310,
+  "abstencao": 16.69,
+  "prefeito": {
+    "nome": "RODRIGO WALDEMAR MARQUES",
+    "nomeUrna": "RODRIGÃO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 1624,
+    "percentual": 70.3,
+    "situacao": "Eleito",
+    "sqcand": "250002001875",
+    "vice": "ODAIR JOSÉ FERREIRA DE SOUZA",
+    "viceNomeUrna": "ODAIR",
+    "partidoVice": "PSD",
+    "sqcandVice": "250002001876",
+    "coligacao": "REPUBLICANOS / PP / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "KAYO ORLANDO BUENO",
+      "nomeUrna": "KAYO BUENO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 219,
+      "percentual": 9.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002001474"
+    },
+    {
+      "nome": "EDUARDO FRANCISCO TEIXEIRA JUNIOR",
+      "nomeUrna": "EDUARDINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 179,
+      "percentual": 7.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002001656"
+    },
+    {
+      "nome": "CELIO ROBERTO DE MELO",
+      "nomeUrna": "CELIO MELO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 161,
+      "percentual": 6.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002001558"
+    },
+    {
+      "nome": "TIAGO DOS SANTOS",
+      "nomeUrna": "TIAGO NECO",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 154,
+      "percentual": 6.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002001658"
+    },
+    {
+      "nome": "AMÉLIO DE OLIVEIRA AZEVEDO",
+      "nomeUrna": "AMELIO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 149,
+      "percentual": 6.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002190345"
+    },
+    {
+      "nome": "LETICIA DE OLIVEIRA SANTOS",
+      "nomeUrna": "LETICIA SAMAMBAIAL",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 148,
+      "percentual": 6.33,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002190349"
+    },
+    {
+      "nome": "ANDREIA APARECIDA CARABANTE",
+      "nomeUrna": "ANDREIA CARABANTE",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 126,
+      "percentual": 5.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002001469"
+    },
+    {
+      "nome": "TIAGO RAFAEL DE SOUZA",
+      "nomeUrna": "TIAGO DA VILA",
+      "partido": "REPUBLICANOS",
+      "numero": "10234",
+      "votos": 119,
+      "percentual": 5.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002001665"
+    },
+    {
+      "nome": "ALDEMIR BENEDITO CUSTÓDIO",
+      "nomeUrna": "MILÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 74,
+      "percentual": 3.17,
+      "situacao": "Eleito por média",
+      "sqcand": "250002001663"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 785,
+      "percentual": 47.03,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 609,
+      "percentual": 36.49,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 236,
+      "percentual": 14.14,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCOS ANTONIO PEREIRA",
+      "nomeUrna": "MARCOS PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 601,
+      "percentual": 32.63,
+      "sqcand": "250001611863"
+    },
+    {
+      "nome": "RICARDO IZAR JUNIOR",
+      "nomeUrna": "RICARDO IZAR",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 294,
+      "percentual": 15.96,
+      "sqcand": "250001611892"
+    },
+    {
+      "nome": "LUIZ PAULO TEIXEIRA FERREIRA",
+      "nomeUrna": "PAULO TEIXEIRA",
+      "partido": "PT",
+      "numero": "1398",
+      "votos": 125,
+      "percentual": 6.79,
+      "sqcand": "250001610668"
+    },
+    {
+      "nome": "MARCIO LUIZ ALVINO DE SOUZA",
+      "nomeUrna": "MARCIO ALVINO",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 121,
+      "percentual": 6.57,
+      "sqcand": "250001611336"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 59,
+      "percentual": 3.2,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 34,
+      "percentual": 1.85,
+      "sqcand": "250001611345"
+    },
+    {
+      "nome": "VINICIUS MARCHESE MARINELLI",
+      "nomeUrna": "VINICIUS MARCHESE",
+      "partido": "PSD",
+      "numero": "5588",
+      "votos": 32,
+      "percentual": 1.74,
+      "sqcand": "250001604963"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GILMACI DOS SANTOS BARBOSA",
+      "nomeUrna": "GILMACI SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 337,
+      "percentual": 19.42,
+      "sqcand": "250001639568"
+    },
+    {
+      "nome": "EDSON DE OLIVEIRA GIRIBONI",
+      "nomeUrna": "EDSON GIRIBONI",
+      "partido": "UNIÃO",
+      "numero": "44001",
+      "votos": 284,
+      "percentual": 16.37,
+      "sqcand": "250001602173"
+    },
+    {
+      "nome": "THIAGO REIS AURICCHIO",
+      "nomeUrna": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "numero": "22343",
+      "votos": 211,
+      "percentual": 12.16,
+      "sqcand": "250001610134"
+    },
+    {
+      "nome": "MARCOS ROBERTO DAMASIO DA SILVA",
+      "nomeUrna": "MARCOS DAMASIO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 168,
+      "percentual": 9.68,
+      "sqcand": "250001610193"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 82,
+      "percentual": 4.73,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "ALESSANDRA VIEIRA DE CAMARGO TELES",
+      "nomeUrna": "ALESSANDRA GONZAGA",
+      "partido": "PSDB",
+      "numero": "45122",
+      "votos": 59,
+      "percentual": 3.4,
+      "sqcand": "250001611479"
+    },
+    {
+      "nome": "PATRÍCIA GAMA DE QUADROS BEZERRA",
+      "nomeUrna": "PATRÍCIA BEZERRA",
+      "partido": "PSDB",
+      "numero": "45180",
+      "votos": 54,
+      "percentual": 3.11,
+      "sqcand": "250001611489"
+    }
+  ]
+}

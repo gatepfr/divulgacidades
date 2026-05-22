@@ -1,0 +1,271 @@
+{
+  "populacao": 20039,
+  "votosValidos": 17282,
+  "abstencao": 11.72,
+  "prefeito": {
+    "nome": "NAZARENO SOUZA MARTINS",
+    "nomeUrna": "GIBE MARTINS",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 14390,
+    "percentual": 83.27,
+    "situacao": "Eleito",
+    "sqcand": "40002086079",
+    "vice": "ANA MARIA FERMIN DE MELO",
+    "viceNomeUrna": "ANA FERMIN",
+    "partidoVice": "PSD",
+    "sqcandVice": "40002086080",
+    "coligacao": "MDB / PSD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "WALKER RIBEIRO MARTINS",
+      "nomeUrna": "WALKER MARTINS",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 1261,
+      "percentual": 7.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002184538"
+    },
+    {
+      "nome": "MARINEZ MOÇAMBITE SEABRA",
+      "nomeUrna": "MARINEZ SEABRA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 976,
+      "percentual": 5.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002184588"
+    },
+    {
+      "nome": "IARA STELLA SILVA RAMOS BARROSO",
+      "nomeUrna": "IARA BARROSO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 905,
+      "percentual": 5.23,
+      "situacao": "Eleito por média",
+      "sqcand": "40002184449"
+    },
+    {
+      "nome": "JORGE ROBERTO LUCAS",
+      "nomeUrna": "JORGE BACU",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 742,
+      "percentual": 4.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002184533"
+    },
+    {
+      "nome": "ALDENOR MAGALHÃES ROCHA",
+      "nomeUrna": "PROF ALDENOR",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 714,
+      "percentual": 4.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002184587"
+    },
+    {
+      "nome": "CHRISTIAN MILLER DE MORAES",
+      "nomeUrna": "LOURINHO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 713,
+      "percentual": 4.12,
+      "situacao": "Eleito por média",
+      "sqcand": "40002184583"
+    },
+    {
+      "nome": "MANUEL MANSUR RAMOS VARGAS",
+      "nomeUrna": "MANSUR VARGAS",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 707,
+      "percentual": 4.09,
+      "situacao": "Eleito por média",
+      "sqcand": "40002184540"
+    },
+    {
+      "nome": "BRODOLONI PEDRO INACIO PINHEIRO",
+      "nomeUrna": "BRODOLONI",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 598,
+      "percentual": 3.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "40002184896"
+    },
+    {
+      "nome": "LEONARDO GOMES MANDUCA NETO",
+      "nomeUrna": "NETINHO",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 571,
+      "percentual": 3.3,
+      "situacao": "Eleito por média",
+      "sqcand": "40002184901"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OMAR JOSÉ ABDEL AZIZ",
+      "nomeUrna": "OMAR AZIZ",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 11343,
+      "percentual": 82.52,
+      "sqcand": "40001618514"
+    },
+    {
+      "nome": "ALFREDO ALEXANDRE DE MENEZES JUNIOR",
+      "nomeUrna": "CORONEL MENEZES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1269,
+      "percentual": 9.23,
+      "sqcand": "40001643710"
+    },
+    {
+      "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+      "nomeUrna": "ARTHUR NETO",
+      "partido": "PSDB",
+      "numero": "451",
+      "votos": 954,
+      "percentual": 6.94,
+      "sqcand": "40001650568"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCELO RAMOS RODRIGUES",
+      "nomeUrna": "MARCELO RAMOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 4264,
+      "percentual": 30.28,
+      "sqcand": "40001609172"
+    },
+    {
+      "nome": "SILAS CÂMARA",
+      "nomeUrna": "SILAS CÂMARA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 1827,
+      "percentual": 12.97,
+      "sqcand": "40001609377"
+    },
+    {
+      "nome": "SIDNEY RICARDO DE OLIVEIRA LEITE",
+      "nomeUrna": "SIDNEY LEITE",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1732,
+      "percentual": 12.3,
+      "sqcand": "40001609236"
+    },
+    {
+      "nome": "ADAIL JOSÉ FIGUEIREDO PINHEIRO",
+      "nomeUrna": "ADAIL FILHO",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 1479,
+      "percentual": 10.5,
+      "sqcand": "40001609376"
+    },
+    {
+      "nome": "ATILA SIDNEY LINS DE ALBUQUERQUE",
+      "nomeUrna": "ATILA LINS",
+      "partido": "PSD",
+      "numero": "5525",
+      "votos": 1303,
+      "percentual": 9.25,
+      "sqcand": "40001609233"
+    },
+    {
+      "nome": "SAULLO VELAME VIANNA",
+      "nomeUrna": "SAULLO VIANNA",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 1229,
+      "percentual": 8.73,
+      "sqcand": "40001618446"
+    },
+    {
+      "nome": "VANESSA GRAZZIOTIN",
+      "nomeUrna": "VANESSA",
+      "partido": "PC do B",
+      "numero": "6513",
+      "votos": 442,
+      "percentual": 3.14,
+      "sqcand": "40001633251"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ABDALA HABIB FRAXE JUNIOR",
+      "nomeUrna": "ABDALA FRAXE",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 4962,
+      "percentual": 36.65,
+      "sqcand": "40001609183"
+    },
+    {
+      "nome": "MAURICIO WILKER DE AZEVEDO BARRETO",
+      "nomeUrna": "WILKER BARRETO",
+      "partido": "CIDADANIA",
+      "numero": "23111",
+      "votos": 1056,
+      "percentual": 7.8,
+      "sqcand": "40001650506"
+    },
+    {
+      "nome": "ALCIMAR MACIEL PEREIRA",
+      "nomeUrna": "CABO MACIEL",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 969,
+      "percentual": 7.16,
+      "sqcand": "40001633325"
+    },
+    {
+      "nome": "ANTONIO MARCOS DE OLIVEIRA APURINÃ",
+      "nomeUrna": "MARCOS APURINÃ",
+      "partido": "PSC",
+      "numero": "20013",
+      "votos": 875,
+      "percentual": 6.46,
+      "sqcand": "40001618659"
+    },
+    {
+      "nome": "DERMILSON CARVALHO DAS CHAGAS",
+      "nomeUrna": "DERMILSON CHAGAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 865,
+      "percentual": 6.39,
+      "sqcand": "40001609314"
+    },
+    {
+      "nome": "WALZENIR DE OLIVEIRA FALCÃO",
+      "nomeUrna": "WALZENIR FALCÃO",
+      "partido": "PATRIOTA",
+      "numero": "51111",
+      "votos": 766,
+      "percentual": 5.66,
+      "sqcand": "40001620702"
+    },
+    {
+      "nome": "SINÉSIO DA SILVA CAMPOS",
+      "nomeUrna": "PROFESSOR SINÉSIO",
+      "partido": "PT",
+      "numero": "13633",
+      "votos": 533,
+      "percentual": 3.94,
+      "sqcand": "40001633265"
+    }
+  ]
+}

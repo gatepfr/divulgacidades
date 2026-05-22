@@ -1,0 +1,271 @@
+{
+  "populacao": 4237,
+  "votosValidos": 3595,
+  "abstencao": 13.59,
+  "prefeito": {
+    "nome": "JOÃO HENRIQUE SILVA",
+    "nomeUrna": "HENRIQUE",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1818,
+    "percentual": 50.57,
+    "situacao": "Eleito",
+    "sqcand": "90002031546",
+    "vice": "OLDAIR ARRUDA DA SILVA",
+    "viceNomeUrna": "OLDAIR ARRUDA",
+    "partidoVice": "PDT",
+    "sqcandVice": "90002031547",
+    "coligacao": "PDT / MDB / PODE / PSB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "PAULO ROBERTO MARTINS DE OLIVEIRA",
+      "nomeUrna": "GALEGO",
+      "partido": "PSB",
+      "numero": "40456",
+      "votos": 303,
+      "percentual": 8.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002172271"
+    },
+    {
+      "nome": "ADÃO MARTINS JÚNIOR",
+      "nomeUrna": "PEZÃO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 247,
+      "percentual": 6.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002172267"
+    },
+    {
+      "nome": "VANUSA DE SOUZA NASCIMENTO",
+      "nomeUrna": "VANUSA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 215,
+      "percentual": 5.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001919045"
+    },
+    {
+      "nome": "JOSÉ DIVINO GOMES",
+      "nomeUrna": "GOMES",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 182,
+      "percentual": 5.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002031491"
+    },
+    {
+      "nome": "PATRICIA PLACIDINA BORGES DOS SANTOS",
+      "nomeUrna": "PATRICIA BORGES",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 178,
+      "percentual": 4.94,
+      "situacao": "Eleito por média",
+      "sqcand": "90001919041"
+    },
+    {
+      "nome": "VITOR VELOSO MENDES",
+      "nomeUrna": "VITOR VELOSO",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 175,
+      "percentual": 4.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "90001919185"
+    },
+    {
+      "nome": "JOSÉ GOULART BRASIL",
+      "nomeUrna": "ZÉ GOULART",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 153,
+      "percentual": 4.24,
+      "situacao": "Eleito por média",
+      "sqcand": "90002172268"
+    },
+    {
+      "nome": "PAULO ROGÉRIO CARNEIRO",
+      "nomeUrna": "PAULINHO DA AMBULÂNCIA",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 130,
+      "percentual": 3.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "90002077402"
+    },
+    {
+      "nome": "MÁRCIA APARECIDA DOS SANTOS CAVALCANTE",
+      "nomeUrna": "MARCINHA",
+      "partido": "PDT",
+      "numero": "12567",
+      "votos": 123,
+      "percentual": 3.41,
+      "situacao": "Eleito por média",
+      "sqcand": "90002077395"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCONI FERREIRA PERILLO JUNIOR",
+      "nomeUrna": "MARCONI PERILLO",
+      "partido": "PSDB",
+      "numero": "456",
+      "votos": 1107,
+      "percentual": 46.07,
+      "sqcand": "90001615126"
+    },
+    {
+      "nome": "WALDIR SOARES DE OLIVEIRA",
+      "nomeUrna": "DELEGADO WALDIR",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 602,
+      "percentual": 25.05,
+      "sqcand": "90001614075"
+    },
+    {
+      "nome": "WILDER PEDRO DE MORAIS",
+      "nomeUrna": "WILDER MORAIS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 432,
+      "percentual": 17.98,
+      "sqcand": "90001652051"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nomeUrna": "FLAVIA MORAIS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 867,
+      "percentual": 34.27,
+      "sqcand": "90001609056"
+    },
+    {
+      "nome": "DANIEL VIEIRA RAMOS",
+      "nomeUrna": "DANIEL AGROBOM",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 438,
+      "percentual": 17.31,
+      "sqcand": "90001652507"
+    },
+    {
+      "nome": "DANNILLO DA CUNHA PEREIRA",
+      "nomeUrna": "DANNILLO PEREIRA",
+      "partido": "PSD",
+      "numero": "5544",
+      "votos": 290,
+      "percentual": 11.46,
+      "sqcand": "90001651579"
+    },
+    {
+      "nome": "GLAUSKSTON BATISTA RIOS",
+      "nomeUrna": "GLAUSTIN DA FOKUS",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 188,
+      "percentual": 7.43,
+      "sqcand": "90001614055"
+    },
+    {
+      "nome": "ALCIDES RODRIGUES FILHO",
+      "nomeUrna": "ALCIDES RODRIGUES",
+      "partido": "PATRIOTA",
+      "numero": "5151",
+      "votos": 125,
+      "percentual": 4.94,
+      "sqcand": "90001650877"
+    },
+    {
+      "nome": "ADRIANO ANTONIO AVELAR",
+      "nomeUrna": "ADRIANO DO BALDY",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 94,
+      "percentual": 3.72,
+      "sqcand": "90001700983"
+    },
+    {
+      "nome": "RAFAEL MAGALHAES GOUVEIA",
+      "nomeUrna": "RAFAEL GOUVEIA",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 93,
+      "percentual": 3.68,
+      "sqcand": "90001651354"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUCAS MARTINS DO VALE",
+      "nomeUrna": "LUCAS DO VALE",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 419,
+      "percentual": 17.42,
+      "sqcand": "90001653165"
+    },
+    {
+      "nome": "GEORGE MORAIS FERREIRA",
+      "nomeUrna": "DR GEORGE MORAIS",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 298,
+      "percentual": 12.39,
+      "sqcand": "90001611924"
+    },
+    {
+      "nome": "HENRIQUE PAULISTA ARANTES",
+      "nomeUrna": "HENRIQUE ARANTES",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 280,
+      "percentual": 11.64,
+      "sqcand": "90001653185"
+    },
+    {
+      "nome": "THIAGO ALBERNAZ PEREIRA",
+      "nomeUrna": "THIAGO ALBERNAZ",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 175,
+      "percentual": 7.28,
+      "sqcand": "90001653172"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS CAETANO DE MORAES",
+      "nomeUrna": "DR. ANTÔNIO",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 166,
+      "percentual": 6.9,
+      "sqcand": "90001648386"
+    },
+    {
+      "nome": "CAIRO SALIM MARCELINO LOPES",
+      "nomeUrna": "CAIRO SALIM",
+      "partido": "PSD",
+      "numero": "55100",
+      "votos": 146,
+      "percentual": 6.07,
+      "sqcand": "90001695741"
+    },
+    {
+      "nome": "JOHNATHAN RODRIGUES MEDEIROS",
+      "nomeUrna": "JOHNATHAN MEDEIROS",
+      "partido": "AGIR",
+      "numero": "36123",
+      "votos": 70,
+      "percentual": 2.91,
+      "sqcand": "90001614661"
+    }
+  ]
+}

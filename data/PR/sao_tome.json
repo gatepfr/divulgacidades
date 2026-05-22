@@ -1,0 +1,271 @@
+{
+  "populacao": 5158,
+  "votosValidos": 4290,
+  "abstencao": 13.84,
+  "prefeito": {
+    "nome": "ELIEL HERNANDES ROQUE",
+    "nomeUrna": "LEO DA BOTA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 2342,
+    "percentual": 54.59,
+    "situacao": "Não eleito",
+    "sqcand": "160002209187",
+    "vice": "OSMIR DOS SANTOS",
+    "viceNomeUrna": "OSMIR DOS SANTOA",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "160002209188",
+    "coligacao": "REPUBLICANOS / MDB / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "EVERTON RODRIANO MANZOTTI",
+      "nomeUrna": "EVERTON MANZOTTI",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 389,
+      "percentual": 8.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002329092"
+    },
+    {
+      "nome": "SILVANA DE FÁTIMA COSSI HERNANDES",
+      "nomeUrna": "SILVANA HERNANDES ",
+      "partido": "PP",
+      "numero": "11789",
+      "votos": 236,
+      "percentual": 5.46,
+      "situacao": "Eleito por média",
+      "sqcand": "160002329485"
+    },
+    {
+      "nome": "JOÃO PAULO TRAVASSOS RADDI",
+      "nomeUrna": "JOÃO PAULO  FOGO",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 223,
+      "percentual": 5.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002329099"
+    },
+    {
+      "nome": "ERIVALDO DA CRUZ",
+      "nomeUrna": "NEGUINHO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 209,
+      "percentual": 4.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002209832"
+    },
+    {
+      "nome": "ALLAN ANTONIO MARINHO",
+      "nomeUrna": "ALLAN MARINHO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 192,
+      "percentual": 4.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002210103"
+    },
+    {
+      "nome": "MARCOS EDUARDO LOPES RUIZ",
+      "nomeUrna": "MARCÃO DA SAÚDE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 181,
+      "percentual": 4.18,
+      "situacao": "Eleito por média",
+      "sqcand": "160002210110"
+    },
+    {
+      "nome": "FRANCISCO MARINHO BEZERRA",
+      "nomeUrna": "CHICO BEZERRA",
+      "partido": "PSD",
+      "numero": "55999",
+      "votos": 150,
+      "percentual": 3.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002209530"
+    },
+    {
+      "nome": "ADAILTON DE OLIVEIRA",
+      "nomeUrna": "TUTI DO RODEIO",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 148,
+      "percentual": 3.42,
+      "situacao": "Eleito por média",
+      "sqcand": "160002329085"
+    },
+    {
+      "nome": "JOSÉ MARIA MANSOTTI",
+      "nomeUrna": "ZÉ MARIA MANSOTTI",
+      "partido": "PSD",
+      "numero": "55125",
+      "votos": 140,
+      "percentual": 3.24,
+      "situacao": "Eleito por média",
+      "sqcand": "160002209534"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1118,
+      "percentual": 34.41,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 893,
+      "percentual": 27.49,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 860,
+      "percentual": 26.47,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SEBASTIÃO HENRIQUE DE MEDEIROS",
+      "nomeUrna": "TIÃO MEDEIROS",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 706,
+      "percentual": 20.88,
+      "sqcand": "160001603306"
+    },
+    {
+      "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+      "nomeUrna": "ZECA DIRCEU",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 694,
+      "percentual": 20.52,
+      "sqcand": "160001614527"
+    },
+    {
+      "nome": "NEWTON BONIN",
+      "nomeUrna": "NEWTON BONIN",
+      "partido": "UNIÃO",
+      "numero": "4456",
+      "votos": 391,
+      "percentual": 11.56,
+      "sqcand": "160001654658"
+    },
+    {
+      "nome": "RICARDO JOSÉ MAGALHÃES BARROS",
+      "nomeUrna": "RICARDO BARROS",
+      "partido": "PP",
+      "numero": "1151",
+      "votos": 331,
+      "percentual": 9.79,
+      "sqcand": "160001603317"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 265,
+      "percentual": 7.84,
+      "sqcand": "160001654655"
+    },
+    {
+      "nome": "JOÃO ALEXANDRE TEIXEIRA",
+      "nomeUrna": "JOÃO ALEXANDRE",
+      "partido": "UNIÃO",
+      "numero": "4420",
+      "votos": 148,
+      "percentual": 4.38,
+      "sqcand": "160001654657"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 108,
+      "percentual": 3.19,
+      "sqcand": "160001622297"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SERGIO PEREIRA JUNIOR",
+      "nomeUrna": "SERGINHO",
+      "partido": "PSB",
+      "numero": "40231",
+      "votos": 820,
+      "percentual": 25.43,
+      "sqcand": "160001621871"
+    },
+    {
+      "nome": "MARCIO FERNANDO NUNES",
+      "nomeUrna": "MARCIO NUNES",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 675,
+      "percentual": 20.93,
+      "sqcand": "160001623126"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 426,
+      "percentual": 13.21,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 273,
+      "percentual": 8.47,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "PAULO ROGÉRIO DO CARMO",
+      "nomeUrna": "DO CARMO",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 211,
+      "percentual": 6.54,
+      "sqcand": "160001716000"
+    },
+    {
+      "nome": "MARIA VICTORIA BORGHETTI BARROS",
+      "nomeUrna": "MARIA VICTORIA",
+      "partido": "PP",
+      "numero": "11511",
+      "votos": 163,
+      "percentual": 5.05,
+      "sqcand": "160001603357"
+    },
+    {
+      "nome": "FERNANDO ERNANDES MARTINS",
+      "nomeUrna": "DELEGADO FERNANDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 69,
+      "percentual": 2.14,
+      "sqcand": "160001716127"
+    }
+  ]
+}

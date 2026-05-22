@@ -1,0 +1,271 @@
+{
+  "populacao": 5425,
+  "votosValidos": 4658,
+  "abstencao": 10.01,
+  "prefeito": {
+    "nome": "ANIBAL PEREIRA DE ARAÚJO",
+    "nomeUrna": "ANÍBAL PEREIRA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3129,
+    "percentual": 67.17,
+    "situacao": "Eleito",
+    "sqcand": "200002210221",
+    "vice": "CIPRIANO ALVES DA COSTA NETO",
+    "viceNomeUrna": "GUGU",
+    "partidoVice": "MDB",
+    "sqcandVice": "200002210220",
+    "coligacao": "MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ANDRE LUIZ FERNANDES DE MEDEIROS",
+      "nomeUrna": "ANDRÉ DE LUIZ",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 574,
+      "percentual": 12.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002210214"
+    },
+    {
+      "nome": "PAULO EDUARDO FONSECA MAFRA",
+      "nomeUrna": "PAULO EDUARDO",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 536,
+      "percentual": 11.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002210216"
+    },
+    {
+      "nome": "CARLOS EDUARDO FLORÊNCIO DE MEDEIROS FERNANDES",
+      "nomeUrna": "CADU DE DIDI",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 525,
+      "percentual": 11.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002210218"
+    },
+    {
+      "nome": "APRIGÍO PEREIRA DE ARAÚJO NETO",
+      "nomeUrna": "FUBICA",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 474,
+      "percentual": 9.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002210212"
+    },
+    {
+      "nome": "QUINTINO LIBERALINO DE ARAÚJO",
+      "nomeUrna": "QUINTINO MORORÓ",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 383,
+      "percentual": 8.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002210211"
+    },
+    {
+      "nome": "WILSON PEREIRA MARIZ JÚNIOR",
+      "nomeUrna": "JÚNIOR DE WILSON",
+      "partido": "MDB",
+      "numero": "15688",
+      "votos": 327,
+      "percentual": 6.88,
+      "situacao": "Eleito por média",
+      "sqcand": "200002210217"
+    },
+    {
+      "nome": "RUTENIO HUMBERTO DE ARAUJO MEDEIROS",
+      "nomeUrna": "RUTÊNIO",
+      "partido": "PP",
+      "numero": "11666",
+      "votos": 301,
+      "percentual": 6.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002357116"
+    },
+    {
+      "nome": "ALEX SANDRO ALVES",
+      "nomeUrna": "ALEX SANDRO ",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 238,
+      "percentual": 5.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002357111"
+    },
+    {
+      "nome": "BRAZ ROBSON DE MEDEIROS BRITO",
+      "nomeUrna": "BRAZ BRITO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 234,
+      "percentual": 4.93,
+      "situacao": "Eleito por média",
+      "sqcand": "200002357110"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1680,
+      "percentual": 43.65,
+      "sqcand": "200001612334"
+    },
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1318,
+      "percentual": 34.24,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 825,
+      "percentual": 21.43,
+      "sqcand": "200001638556"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 761,
+      "percentual": 19.28,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "GARIBALDI ALVES FILHO",
+      "nomeUrna": "GARIBALDI FILHO",
+      "partido": "MDB",
+      "numero": "1511",
+      "votos": 678,
+      "percentual": 17.18,
+      "sqcand": "200001653701"
+    },
+    {
+      "nome": "LUIZ BENES LEOCÁDIO DE ARAÚJO",
+      "nomeUrna": "BENES LEOCÁDIO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 359,
+      "percentual": 9.1,
+      "sqcand": "200001608805"
+    },
+    {
+      "nome": "PAULO EDUARDO DA COSTA FREIRE",
+      "nomeUrna": "PAULINHO FREIRE",
+      "partido": "UNIÃO",
+      "numero": "4488",
+      "votos": 263,
+      "percentual": 6.66,
+      "sqcand": "200001608801"
+    },
+    {
+      "nome": "FERNANDO WANDERLEY VARGAS DA SILVA",
+      "nomeUrna": "MINEIRO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 242,
+      "percentual": 6.13,
+      "sqcand": "200001603645"
+    },
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 223,
+      "percentual": 5.65,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "JULIA FERREIRA LOPES",
+      "nomeUrna": "DRA  JULIA FERREIRA",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 205,
+      "percentual": 5.19,
+      "sqcand": "200001620541"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ADJUTO DIAS DE ARAUJO NETO",
+      "nomeUrna": "ADJUTO DIAS",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 1087,
+      "percentual": 27.69,
+      "sqcand": "200001653268"
+    },
+    {
+      "nome": "KERGINALDO JACOME DA COSTA",
+      "nomeUrna": "DR KEGINALDO JACOME",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 482,
+      "percentual": 12.28,
+      "sqcand": "200001605992"
+    },
+    {
+      "nome": "VIVALDO SILVINO DA COSTA",
+      "nomeUrna": "VIVALDO COSTA",
+      "partido": "PV",
+      "numero": "43222",
+      "votos": 448,
+      "percentual": 11.41,
+      "sqcand": "200001603633"
+    },
+    {
+      "nome": "FRANCISCO ASSIS DE MEDEIROS",
+      "nomeUrna": "FRANCISCO DO PT",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 291,
+      "percentual": 7.41,
+      "sqcand": "200001603618"
+    },
+    {
+      "nome": "COSMO MARIZ DE SOUZA MEDEIROS",
+      "nomeUrna": "COSMO MARIZ",
+      "partido": "UNIÃO",
+      "numero": "44120",
+      "votos": 282,
+      "percentual": 7.18,
+      "sqcand": "200001652905"
+    },
+    {
+      "nome": "UBALDO FERNANDES DA SILVA",
+      "nomeUrna": "UBALDO FERNANDES",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 242,
+      "percentual": 6.16,
+      "sqcand": "200001605990"
+    },
+    {
+      "nome": "LUIS EDUARDO BENTO DA SILVA",
+      "nomeUrna": "LUIZ EDUARDO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 180,
+      "percentual": 4.58,
+      "sqcand": "200001604192"
+    }
+  ]
+}

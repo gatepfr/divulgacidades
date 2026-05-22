@@ -1,0 +1,291 @@
+{
+  "populacao": 16792,
+  "votosValidos": 13256,
+  "abstencao": 18.13,
+  "prefeito": {
+    "nome": "JOSUE PINHO DA SILVA JUNIOR",
+    "nomeUrna": "DR JUNIOR",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 10030,
+    "percentual": 75.66,
+    "situacao": "Eleito",
+    "sqcand": "100002199544",
+    "vice": "JHONADISON FERNANDO HIGINO DELGADO",
+    "viceNomeUrna": "PROFESSOR JHONADISON",
+    "partidoVice": "PC do B",
+    "sqcandVice": "100002199545",
+    "coligacao": "REPUBLICANOS / PP / PDT / PODE / PL / PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIA VIEIRA DA SILVA",
+      "nomeUrna": "DONA LURDES",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 1050,
+      "percentual": 7.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002138208"
+    },
+    {
+      "nome": "CRISTIANE RODRIGUES DE CARVALHO",
+      "nomeUrna": "CRISTIANE DO AGAMENOM",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 672,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002138213"
+    },
+    {
+      "nome": "WALDYR COLLARES COSTA NETO SILVA",
+      "nomeUrna": "PROFESSOR WALDYR COLLARES",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 656,
+      "percentual": 4.87,
+      "situacao": "Eleito por média",
+      "sqcand": "100002138216"
+    },
+    {
+      "nome": "CAMILA LIMA DE SOUSA SILVA",
+      "nomeUrna": "CAMILA DO CHICO MIGUEL",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 514,
+      "percentual": 3.81,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002114039"
+    },
+    {
+      "nome": "MACIEL DE SOUSA LIMA",
+      "nomeUrna": "MACIEL LIMA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 465,
+      "percentual": 3.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002172829"
+    },
+    {
+      "nome": "JURENALDO BEZERRA LISBOA",
+      "nomeUrna": "NALDO LISBOA",
+      "partido": "PODE",
+      "numero": "20234",
+      "votos": 458,
+      "percentual": 3.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002247039"
+    },
+    {
+      "nome": "JOÃO PEDRO PACIFICO ALVES",
+      "nomeUrna": "JOÃO PEDRO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 418,
+      "percentual": 3.1,
+      "situacao": "Eleito por média",
+      "sqcand": "100002114034"
+    },
+    {
+      "nome": "PAULO RICARDO SALES DA SILVA",
+      "nomeUrna": "PAULO RICARDO",
+      "partido": "PSD",
+      "numero": "55233",
+      "votos": 391,
+      "percentual": 2.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002172443"
+    },
+    {
+      "nome": "ANTONIO SOUSA DE ARAUJO",
+      "nomeUrna": "MADRUGA",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 380,
+      "percentual": 2.82,
+      "situacao": "Eleito por média",
+      "sqcand": "100002172442"
+    },
+    {
+      "nome": "ANTONIO DENES FERREIRA VERAS ASSUNÇÃO",
+      "nomeUrna": "DENES DO IPIRANGA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 348,
+      "percentual": 2.58,
+      "situacao": "Eleito por média",
+      "sqcand": "100002374280"
+    },
+    {
+      "nome": "ROMARIO DE MESQUITA GARRIDO",
+      "nomeUrna": "ROMARIO GARRIDO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 327,
+      "percentual": 2.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002200173"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 8053,
+      "percentual": 74.25,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 2721,
+      "percentual": 25.09,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 54,
+      "percentual": 0.5,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANDRÉ LUIZ CARVALHO RIBEIRO",
+      "nomeUrna": "ANDRÉ FUFUCA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 3288,
+      "percentual": 28.1,
+      "sqcand": "100001608075"
+    },
+    {
+      "nome": "VANESSA CAMPOS BENÍCIO MURAD",
+      "nomeUrna": "VANESSA MURAD",
+      "partido": "UNIÃO",
+      "numero": "4411",
+      "votos": 1707,
+      "percentual": 14.59,
+      "sqcand": "100001610558"
+    },
+    {
+      "nome": "FÁBIO HENRIQUE DIAS DE MACEDO",
+      "nomeUrna": "FÁBIO MACEDO",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 1160,
+      "percentual": 9.92,
+      "sqcand": "100001614966"
+    },
+    {
+      "nome": "FLAVIA MARIA GOMES PARENTE ALVES MACIEL",
+      "nomeUrna": "FLAVIA ALVES",
+      "partido": "PC do B",
+      "numero": "6565",
+      "votos": 1002,
+      "percentual": 8.56,
+      "sqcand": "100001613706"
+    },
+    {
+      "nome": "JOSIMAR CUNHA RODRIGUES",
+      "nomeUrna": "JOSIMAR MARANHÃOZINHO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 762,
+      "percentual": 6.51,
+      "sqcand": "100001603114"
+    },
+    {
+      "nome": "ALUISIO GUIMARAES MENDES FILHO",
+      "nomeUrna": "ALUISIO MENDES",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 725,
+      "percentual": 6.2,
+      "sqcand": "100001615465"
+    },
+    {
+      "nome": "MARCIO JERRY SARAIVA BARROSO",
+      "nomeUrna": "MARCIO JERRY",
+      "partido": "PC do B",
+      "numero": "6513",
+      "votos": 657,
+      "percentual": 5.62,
+      "sqcand": "100001613708"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FRANCISCO NAGIB BUZAR DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO NAGIB",
+      "partido": "PSB",
+      "numero": "40400",
+      "votos": 3822,
+      "percentual": 34.46,
+      "sqcand": "100001607085"
+    },
+    {
+      "nome": "MARCUS VINICIUS DE OLIVEIRA PEREIRA",
+      "nomeUrna": "VINICIUS LOURO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 1011,
+      "percentual": 9.12,
+      "sqcand": "100001603169"
+    },
+    {
+      "nome": "ANTONIO PEREIRA FILHO",
+      "nomeUrna": "ANTÔNIO PEREIRA",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 995,
+      "percentual": 8.97,
+      "sqcand": "100001607063"
+    },
+    {
+      "nome": "FRANCISCO DE JESUS SILVA",
+      "nomeUrna": "CHICO MIGUEL",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 930,
+      "percentual": 8.39,
+      "sqcand": "100001599574"
+    },
+    {
+      "nome": "LEANDRO BELLO DE SÁ ROSAS COSTA",
+      "nomeUrna": "LEANDRO BELLO",
+      "partido": "PODE",
+      "numero": "19456",
+      "votos": 542,
+      "percentual": 4.89,
+      "sqcand": "100001614815"
+    },
+    {
+      "nome": "PEDRO HENRIQUE PITOMBEIRA NERES",
+      "nomeUrna": "PEDRO NERES",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 489,
+      "percentual": 4.41,
+      "sqcand": "100001607116"
+    },
+    {
+      "nome": "VALERIA MARIA SANTOS MACEDO",
+      "nomeUrna": "VALERIA MACEDO",
+      "partido": "PODE",
+      "numero": "19999",
+      "votos": 363,
+      "percentual": 3.27,
+      "sqcand": "100001614805"
+    }
+  ]
+}

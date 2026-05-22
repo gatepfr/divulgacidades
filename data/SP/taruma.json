@@ -1,0 +1,271 @@
+{
+  "populacao": 11511,
+  "votosValidos": 9300,
+  "abstencao": 16.63,
+  "prefeito": {
+    "nome": "ADRIANA BALEJO PIEDADE DA SILVA",
+    "nomeUrna": "ADRIANA RONCADA",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 4632,
+    "percentual": 49.81,
+    "situacao": "Eleito",
+    "sqcand": "250002398324",
+    "vice": "VALDEMAR GOMES",
+    "viceNomeUrna": "FADUL",
+    "partidoVice": "PL",
+    "sqcandVice": "250002321448",
+    "coligacao": "PSD / PL / MDB / PODE"
+  },
+  "vereadores": [
+    {
+      "nome": "LUIS FELIPE DELIBERADOR RODRIGUES MORO",
+      "nomeUrna": "LUIS FELIPE DELIBERADOR",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 702,
+      "percentual": 7.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002048565"
+    },
+    {
+      "nome": "SOLANGE APARECIDA CARON DA SILVA",
+      "nomeUrna": "SOLANGE CARON",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 442,
+      "percentual": 4.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002359329"
+    },
+    {
+      "nome": "CIDIVALDO DE FREITAS",
+      "nomeUrna": "VADINHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 374,
+      "percentual": 4.04,
+      "situacao": "Eleito por média",
+      "sqcand": "250002048564"
+    },
+    {
+      "nome": "BRUNO REZENDE MONTEIRO",
+      "nomeUrna": "BRUNO DA AMBULÂNCIA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 338,
+      "percentual": 3.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002048542"
+    },
+    {
+      "nome": "LUCIANO RODRIGUES DOS SANTOS",
+      "nomeUrna": "LUCIANO CARNEIRO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 330,
+      "percentual": 3.57,
+      "situacao": "Eleito por média",
+      "sqcand": "250002048538"
+    },
+    {
+      "nome": "MARIA CRISTINA TONI E SILVA",
+      "nomeUrna": "CRISTINA TONI",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 324,
+      "percentual": 3.5,
+      "situacao": "Eleito por média",
+      "sqcand": "250002054523"
+    },
+    {
+      "nome": "KELLY PATRÍCIA BARATELA",
+      "nomeUrna": "KELLY BARATELA",
+      "partido": "PSB",
+      "numero": "40789",
+      "votos": 311,
+      "percentual": 3.36,
+      "situacao": "Eleito por média",
+      "sqcand": "250002048434"
+    },
+    {
+      "nome": "MARCIA SEBASTIANA SILVEIRA",
+      "nomeUrna": "MARCIA SILVEIRA",
+      "partido": "PL",
+      "numero": "22456",
+      "votos": 282,
+      "percentual": 3.05,
+      "situacao": "Eleito por média",
+      "sqcand": "250002359333"
+    },
+    {
+      "nome": "MARCOS PAULO DOS SANTOS",
+      "nomeUrna": "MAROLA",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 228,
+      "percentual": 2.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002359522"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4358,
+      "percentual": 55.26,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1926,
+      "percentual": 24.42,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 1458,
+      "percentual": 18.49,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ CARLOS MOTTA",
+      "nomeUrna": "MOTTA",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 1557,
+      "percentual": 18.8,
+      "sqcand": "250001611345"
+    },
+    {
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "nomeUrna": "CAPITÃO AUGUSTO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 713,
+      "percentual": 8.61,
+      "sqcand": "250001611357"
+    },
+    {
+      "nome": "MARCOS ANTONIO PEREIRA",
+      "nomeUrna": "MARCOS PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 460,
+      "percentual": 5.55,
+      "sqcand": "250001611863"
+    },
+    {
+      "nome": "FERNANDO JOSE DE SOUZA MARANGONI",
+      "nomeUrna": "MARANGONI",
+      "partido": "UNIÃO",
+      "numero": "4440",
+      "votos": 405,
+      "percentual": 4.89,
+      "sqcand": "250001602079"
+    },
+    {
+      "nome": "ROSSIELI SOARES DA SILVA",
+      "nomeUrna": "ROSSIELI SOARES",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 319,
+      "percentual": 3.85,
+      "sqcand": "250001612105"
+    },
+    {
+      "nome": "FERNANDO CAPEZ",
+      "nomeUrna": "FERNANDO CAPEZ",
+      "partido": "UNIÃO",
+      "numero": "4456",
+      "votos": 307,
+      "percentual": 3.71,
+      "sqcand": "250001602045"
+    },
+    {
+      "nome": "SAMUEL MOREIRA DA SILVA JUNIOR",
+      "nomeUrna": "SAMUEL MOREIRA",
+      "partido": "PSDB",
+      "numero": "4580",
+      "votos": 305,
+      "percentual": 3.68,
+      "sqcand": "250001612140"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MAURO BRAGATO",
+      "nomeUrna": "MAURO BRAGATO",
+      "partido": "PSDB",
+      "numero": "45125",
+      "votos": 2101,
+      "percentual": 26.31,
+      "sqcand": "250001611484"
+    },
+    {
+      "nome": "RICARDO ROSSI MADALENA",
+      "nomeUrna": "RICARDO MADALENA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 1755,
+      "percentual": 21.97,
+      "sqcand": "250001610138"
+    },
+    {
+      "nome": "VINICIUS ALMEIDA CAMARINHA",
+      "nomeUrna": "VINICIUS CAMARINHA",
+      "partido": "PSDB",
+      "numero": "45789",
+      "votos": 1384,
+      "percentual": 17.33,
+      "sqcand": "250001611455"
+    },
+    {
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "nomeUrna": "DANI ALONSO",
+      "partido": "PL",
+      "numero": "22322",
+      "votos": 359,
+      "percentual": 4.49,
+      "sqcand": "250001610113"
+    },
+    {
+      "nome": "TANIA CRISTINA FRUCHI",
+      "nomeUrna": "TÂNIA FRUCHI",
+      "partido": "UNIÃO",
+      "numero": "44363",
+      "votos": 160,
+      "percentual": 2.0,
+      "sqcand": "250001602159"
+    },
+    {
+      "nome": "THAINARA KAROLINE FARIA",
+      "nomeUrna": "THAINARA FARIA",
+      "partido": "PT",
+      "numero": "13016",
+      "votos": 160,
+      "percentual": 2.0,
+      "sqcand": "250001611769"
+    },
+    {
+      "nome": "MARTA MARIA FREIRE DA COSTA",
+      "nomeUrna": "MARTA COSTA",
+      "partido": "PSD",
+      "numero": "55400",
+      "votos": 153,
+      "percentual": 1.92,
+      "sqcand": "250001605001"
+    }
+  ]
+}

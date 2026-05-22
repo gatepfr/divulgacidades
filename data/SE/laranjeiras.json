@@ -1,0 +1,291 @@
+{
+  "populacao": 22426,
+  "votosValidos": 16952,
+  "abstencao": 17.89,
+  "prefeito": {
+    "nome": "JOSE DE ARAUJO LEITE NETO",
+    "nomeUrna": "JUCA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 11901,
+    "percentual": 70.2,
+    "situacao": "Eleito",
+    "sqcand": "260002111813",
+    "vice": "LUCIANO DOS SANTOS",
+    "viceNomeUrna": "LUCIANO DA VÁRZEA",
+    "partidoVice": "PSD",
+    "sqcandVice": "260002111814",
+    "coligacao": "MDB / REPUBLICANOS / PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ADRIANO SANTOS CARVALHO",
+      "nomeUrna": "ADRIANO DE PEDRA BRANCA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1125,
+      "percentual": 6.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002112458"
+    },
+    {
+      "nome": "WHORTON LEON CRUZ DE LIMA",
+      "nomeUrna": "DR LEO",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 1033,
+      "percentual": 5.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002170956"
+    },
+    {
+      "nome": "EDVALDO XAVIER ALMEIDA NETO",
+      "nomeUrna": "NEGUINHO DE CARMEN",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 918,
+      "percentual": 5.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002170725"
+    },
+    {
+      "nome": "VALDENIR DA SILVA",
+      "nomeUrna": "VALDENIR BUIÚ",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 840,
+      "percentual": 4.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002112457"
+    },
+    {
+      "nome": "LAERCIO FRANCISCO DE LIMA",
+      "nomeUrna": "LAERCIO DE PEDRA BRANCA",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 725,
+      "percentual": 4.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002170723"
+    },
+    {
+      "nome": "MÔNICA MACEDO SOBRAL MACIEL SILVA",
+      "nomeUrna": "MÔNICA SOBRAL",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 684,
+      "percentual": 3.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002018107"
+    },
+    {
+      "nome": "EMERSON BATISTA ROCHA",
+      "nomeUrna": "EMERSON DA FARMÁCIA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 618,
+      "percentual": 3.5,
+      "situacao": "Eleito por média",
+      "sqcand": "260002238720"
+    },
+    {
+      "nome": "JOSÉ CARLOS SIZINO FRANCO",
+      "nomeUrna": "JOSÉ CARLOS JJ",
+      "partido": "PSD",
+      "numero": "55622",
+      "votos": 600,
+      "percentual": 3.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002170571"
+    },
+    {
+      "nome": "JULIANO SOARES MENEZES",
+      "nomeUrna": "JULIANO SOARES",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 591,
+      "percentual": 3.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "260002112459"
+    },
+    {
+      "nome": "RUSTON LUIZ ZUZARTE DOS SANTOS",
+      "nomeUrna": "RUSTINHO DO LAMBE SUJO",
+      "partido": "PT",
+      "numero": "13456",
+      "votos": 544,
+      "percentual": 3.08,
+      "situacao": "Eleito por média",
+      "sqcand": "260002170952"
+    },
+    {
+      "nome": "ROGÉRIO FONSECA MATOS",
+      "nomeUrna": "ROGERIO DE ERALDO",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 455,
+      "percentual": 2.58,
+      "situacao": "Eleito por média",
+      "sqcand": "260002112461"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "LAERCIO JOSE DE OLIVEIRA",
+      "nomeUrna": "LAÉRCIO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 5038,
+      "percentual": 37.47,
+      "sqcand": "260001635426"
+    },
+    {
+      "nome": "DANIELLE GARCIA ALVES",
+      "nomeUrna": "DELEGADA DANIELLE GARCIA",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 2914,
+      "percentual": 21.67,
+      "sqcand": "260001600752"
+    },
+    {
+      "nome": "EDUARDO ALVES DO AMORIM",
+      "nomeUrna": "DR. EDUARDO AMORIM",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2607,
+      "percentual": 19.39,
+      "sqcand": "260001693738"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FABIO DE ALMEIDA REIS",
+      "nomeUrna": "FABIO REIS",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 3859,
+      "percentual": 26.84,
+      "sqcand": "260001619673"
+    },
+    {
+      "nome": "YANDRA BARRETO FERREIRA",
+      "nomeUrna": "YANDRA DE ANDRÉ",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1873,
+      "percentual": 13.03,
+      "sqcand": "260001728384"
+    },
+    {
+      "nome": "ICARO BARBOSA COSTA",
+      "nomeUrna": "ICARO DE VALMIR",
+      "partido": "PL",
+      "numero": "2244",
+      "votos": 1243,
+      "percentual": 8.65,
+      "sqcand": "260001737580"
+    },
+    {
+      "nome": "ELIANE AQUINO CUSTODIO",
+      "nomeUrna": "ELIANE AQUINO",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 613,
+      "percentual": 4.26,
+      "sqcand": "260001667976"
+    },
+    {
+      "nome": "FABIO HENRIQUE SANTANA DE CARVALHO",
+      "nomeUrna": "FÁBIO HENRIQUE",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 531,
+      "percentual": 3.69,
+      "sqcand": "260001646379"
+    },
+    {
+      "nome": "RODRIGO SANTANA VALADARES",
+      "nomeUrna": "RODRIGO VALADARES",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 476,
+      "percentual": 3.31,
+      "sqcand": "260001646377"
+    },
+    {
+      "nome": "SAMUEL ALVES BARRETO",
+      "nomeUrna": "CAPITÃO SAMUEL",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 471,
+      "percentual": 3.28,
+      "sqcand": "260001633056"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JEFERSON LUIZ DE ANDRADE",
+      "nomeUrna": "JEFERSON ANDRADE",
+      "partido": "PSD",
+      "numero": "55250",
+      "votos": 2619,
+      "percentual": 18.41,
+      "sqcand": "260001636411"
+    },
+    {
+      "nome": "LIDIANE CECILIA AZEVEDO CARVALHO LUCENA",
+      "nomeUrna": "DRA LIDIANE LUCENA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1538,
+      "percentual": 10.81,
+      "sqcand": "260001618235"
+    },
+    {
+      "nome": "ADELSON BARRETO DOS SANTOS",
+      "nomeUrna": "ADELSON BARRETO",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 1206,
+      "percentual": 8.48,
+      "sqcand": "260001669450"
+    },
+    {
+      "nome": "MARIA DO CARMO PAIVA DA SILVA",
+      "nomeUrna": "CARMINHA",
+      "partido": "REPUBLICANOS",
+      "numero": "10200",
+      "votos": 513,
+      "percentual": 3.61,
+      "sqcand": "260001618237"
+    },
+    {
+      "nome": "ARTUR SERGIO DE ALMEIDA REIS",
+      "nomeUrna": "SERGIO REIS",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 376,
+      "percentual": 2.64,
+      "sqcand": "260001636415"
+    },
+    {
+      "nome": "JORGE ARAUJO FILHO",
+      "nomeUrna": "JORGINHO ARAUJO",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 363,
+      "percentual": 2.55,
+      "sqcand": "260001636408"
+    },
+    {
+      "nome": "LUCIANO BISPO DE LIMA",
+      "nomeUrna": "LUCIANO BISPO",
+      "partido": "PSD",
+      "numero": "55015",
+      "votos": 355,
+      "percentual": 2.5,
+      "sqcand": "260001636402"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 1660,
+  "votosValidos": 1075,
+  "abstencao": 11.33,
+  "prefeito": {
+    "nome": "PAULO HENRIQUE MIOTTO",
+    "nomeUrna": "PAULINHO DO AÇOUGUE",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1075,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "250002263215",
+    "vice": "MARCOS CESAR DA SILVA",
+    "viceNomeUrna": "MARQUINHO DO CAFÉ",
+    "partidoVice": "MDB",
+    "sqcandVice": "250002263216",
+    "coligacao": "PSD / MDB / REPUBLICANOS / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "ALEX CABERLIN",
+      "nomeUrna": "ALEX CABERLIN",
+      "partido": "UNIÃO",
+      "numero": "44600",
+      "votos": 209,
+      "percentual": 14.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002263344"
+    },
+    {
+      "nome": "LEONEL CICERO DO AMARAL NETO",
+      "nomeUrna": "LEONEL AMARAL",
+      "partido": "PSDB",
+      "numero": "45650",
+      "votos": 112,
+      "percentual": 7.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002316090"
+    },
+    {
+      "nome": "EDUARDO REIS CARVALHO",
+      "nomeUrna": "TATU",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 111,
+      "percentual": 7.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002315451"
+    },
+    {
+      "nome": "CARLOS SERGIO ALVES BATISTA",
+      "nomeUrna": "SERGIO CABELEIREIRO",
+      "partido": "UNIÃO",
+      "numero": "44016",
+      "votos": 110,
+      "percentual": 7.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002263348"
+    },
+    {
+      "nome": "VANDERSON FERREIRA DA SILVA",
+      "nomeUrna": "AZULÃO",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 103,
+      "percentual": 7.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002315457"
+    },
+    {
+      "nome": "FRANCISCO EDER DE SOUZA",
+      "nomeUrna": "EDINHO DO CABELO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 98,
+      "percentual": 6.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002315448"
+    },
+    {
+      "nome": "CLEZIO APARECIDO DA SILVA",
+      "nomeUrna": "CLEZIO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 85,
+      "percentual": 6.06,
+      "situacao": "Eleito por média",
+      "sqcand": "250002315455"
+    },
+    {
+      "nome": "JOSÉ CARLOS OLHIER",
+      "nomeUrna": "ZÉ CARLOS",
+      "partido": "PSDB",
+      "numero": "45680",
+      "votos": 72,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002316092"
+    },
+    {
+      "nome": "LAURINDO JUSTINO CUSTODIO",
+      "nomeUrna": "LAMBARI",
+      "partido": "UNIÃO",
+      "numero": "44400",
+      "votos": 63,
+      "percentual": 4.49,
+      "situacao": "Eleito por média",
+      "sqcand": "250002263346"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 536,
+      "percentual": 49.58,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 330,
+      "percentual": 30.53,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 202,
+      "percentual": 18.69,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FAUSTO RUY PINATO",
+      "nomeUrna": "FAUSTO PINATO",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 194,
+      "percentual": 17.05,
+      "sqcand": "250001611957"
+    },
+    {
+      "nome": "MARCELO HERCOLIN",
+      "nomeUrna": "MARCELO HERCOLIN",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 84,
+      "percentual": 7.38,
+      "sqcand": "250001653330"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 66,
+      "percentual": 5.8,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "FLÁVIO ROBERTO DE SOUZA SANT ANNA",
+      "nomeUrna": "FLÁVIO SANT ANNA PCD",
+      "partido": "PSB",
+      "numero": "4055",
+      "votos": 59,
+      "percentual": 5.18,
+      "sqcand": "250001620293"
+    },
+    {
+      "nome": "MARCOS ANTONIO PEREIRA",
+      "nomeUrna": "MARCOS PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 50,
+      "percentual": 4.39,
+      "sqcand": "250001611863"
+    },
+    {
+      "nome": "NILTO IGNÁCIO TATTO",
+      "nomeUrna": "NILTO TATTO",
+      "partido": "PT",
+      "numero": "1353",
+      "votos": 47,
+      "percentual": 4.13,
+      "sqcand": "250001610688"
+    },
+    {
+      "nome": "RENATO FERREIRA DA SILVA",
+      "nomeUrna": "DR RENATO SILVA DO HB",
+      "partido": "PATRIOTA",
+      "numero": "5100",
+      "votos": 39,
+      "percentual": 3.43,
+      "sqcand": "250001620737"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CARLOS EDUARDO PIGNATARI",
+      "nomeUrna": "CARLÃO PIGNATARI",
+      "partido": "PSDB",
+      "numero": "45232",
+      "votos": 295,
+      "percentual": 26.62,
+      "sqcand": "250001611488"
+    },
+    {
+      "nome": "ITAMAR FRANCISCO MACHADO BORGES",
+      "nomeUrna": "ITAMAR BORGES",
+      "partido": "MDB",
+      "numero": "15300",
+      "votos": 214,
+      "percentual": 19.31,
+      "sqcand": "250001610018"
+    },
+    {
+      "nome": "PAULO ROBERTO FIORILO",
+      "nomeUrna": "PAULO FIORILO",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 68,
+      "percentual": 6.14,
+      "sqcand": "250001611759"
+    },
+    {
+      "nome": "THIAGO REIS AURICCHIO",
+      "nomeUrna": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "numero": "22343",
+      "votos": 44,
+      "percentual": 3.97,
+      "sqcand": "250001610134"
+    },
+    {
+      "nome": "MARTA MARIA FREIRE DA COSTA",
+      "nomeUrna": "MARTA COSTA",
+      "partido": "PSD",
+      "numero": "55400",
+      "votos": 42,
+      "percentual": 3.79,
+      "sqcand": "250001605001"
+    },
+    {
+      "nome": "HELENA DOS SANTOS REIS",
+      "nomeUrna": "CORONEL HELENA",
+      "partido": "REPUBLICANOS",
+      "numero": "10190",
+      "votos": 38,
+      "percentual": 3.43,
+      "sqcand": "250001639593"
+    },
+    {
+      "nome": "CASSIANO ROSADO CORREIA",
+      "nomeUrna": "CASSIANO ROSADO",
+      "partido": "PSB",
+      "numero": "40650",
+      "votos": 37,
+      "percentual": 3.34,
+      "sqcand": "250001620651"
+    }
+  ]
+}

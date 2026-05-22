@@ -1,0 +1,331 @@
+{
+  "populacao": 36361,
+  "votosValidos": 28059,
+  "abstencao": 16.49,
+  "prefeito": {
+    "nome": "MARIA GISLAINE SANTANA SAMPAIO LANDIM",
+    "nomeUrna": "GISLAINE LANDIM",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 18324,
+    "percentual": 65.31,
+    "situacao": "Eleito",
+    "sqcand": "60002036950",
+    "vice": "SERGIO DE MORAES COSTA",
+    "viceNomeUrna": "SERGIO RUFINO",
+    "partidoVice": "PSB",
+    "sqcandVice": "60002036949",
+    "coligacao": "REPUBLICANOS / PP / MDB / PODE / PSB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "JOÃO PAULO FEITOSA CAITANO",
+      "nomeUrna": "JOÃO PAULO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 1477,
+      "percentual": 5.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114706"
+    },
+    {
+      "nome": "RANILSON TAVARES NEVES JUNIOR",
+      "nomeUrna": "RANILSINHO",
+      "partido": "PSB",
+      "numero": "40666",
+      "votos": 1439,
+      "percentual": 5.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114711"
+    },
+    {
+      "nome": "FRANCISCO MIRANCLEIDE BASÍLIO CAVALCANTE",
+      "nomeUrna": "MIRAN BASÍLIO",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 1424,
+      "percentual": 4.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114702"
+    },
+    {
+      "nome": "EDJANIO TAVARES LUCENA",
+      "nomeUrna": "EDJANIO FELINTO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1239,
+      "percentual": 4.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002186637"
+    },
+    {
+      "nome": "FRANCISCO BEZERRA DE LUCENA FEITOSA",
+      "nomeUrna": "FEITOSINHA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 1209,
+      "percentual": 4.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114710"
+    },
+    {
+      "nome": "FRANCISCO ARNOU PINHEIRO FEIJÓ",
+      "nomeUrna": "ARNOU PINHEIRO FEIJÓ",
+      "partido": "PSB",
+      "numero": "40234",
+      "votos": 1187,
+      "percentual": 4.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114705"
+    },
+    {
+      "nome": "MARIA DO CARMO BEZERRA MARTINS",
+      "nomeUrna": "CARMEM MARTINS",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 1135,
+      "percentual": 3.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114715"
+    },
+    {
+      "nome": "FRANCISCO TAVARES SANTANA",
+      "nomeUrna": "NALDO",
+      "partido": "PSB",
+      "numero": "40122",
+      "votos": 1120,
+      "percentual": 3.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114709"
+    },
+    {
+      "nome": "FRANCISCO DE SOUSA BRAGA",
+      "nomeUrna": "TIQUIM BATISTA",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 1114,
+      "percentual": 3.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114704"
+    },
+    {
+      "nome": "MARCOS ANTONIO CABRAL GONÇALVES",
+      "nomeUrna": "MARCOS CABRAL",
+      "partido": "MDB",
+      "numero": "15114",
+      "votos": 1080,
+      "percentual": 3.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002186628"
+    },
+    {
+      "nome": "MARIA DE FÁTIMA TELES DE SOUSA",
+      "nomeUrna": "FAFÁ TELES",
+      "partido": "PSB",
+      "numero": "40777",
+      "votos": 1070,
+      "percentual": 3.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002114707"
+    },
+    {
+      "nome": "ROMULO RUFINO ALVES FIGUEIREDO",
+      "nomeUrna": "ROMULO RUFINO",
+      "partido": "PSB",
+      "numero": "40333",
+      "votos": 1019,
+      "percentual": 3.55,
+      "situacao": "Eleito por média",
+      "sqcand": "60002114713"
+    },
+    {
+      "nome": "ANDREI DE SOUSA FURTADO",
+      "nomeUrna": "ANDREY FURTADO",
+      "partido": "PV",
+      "numero": "43333",
+      "votos": 982,
+      "percentual": 3.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002187065"
+    },
+    {
+      "nome": "JOSÉ MENDES DE LUCENA",
+      "nomeUrna": "JUCIER MENDES",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 946,
+      "percentual": 3.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002186639"
+    },
+    {
+      "nome": "MARIA SUZIANE ARAUJO DE FIGUEIREDO",
+      "nomeUrna": "SUZY IRMÃ DE SAMUEL",
+      "partido": "PV",
+      "numero": "43580",
+      "votos": 606,
+      "percentual": 2.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002187061"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 21045,
+      "percentual": 83.88,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 3828,
+      "percentual": 15.26,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 216,
+      "percentual": 0.86,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANDRÉ PEIXOTO FIGUEIREDO LIMA",
+      "nomeUrna": "ANDRÉ FIGUEIREDO",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 7396,
+      "percentual": 29.63,
+      "sqcand": "60001603484"
+    },
+    {
+      "nome": "JOSE AIRTON FELIX CIRILO DA SILVA",
+      "nomeUrna": "JOSE AIRTON",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 3700,
+      "percentual": 14.82,
+      "sqcand": "60001619120"
+    },
+    {
+      "nome": "FERNANDA ENEIDA PESSOA CARACAS DE SOUZA",
+      "nomeUrna": "FERNANDA PESSOA",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 2136,
+      "percentual": 8.56,
+      "sqcand": "60001608882"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 1768,
+      "percentual": 7.08,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "MAYRA ISABEL CORREIA PINHEIRO",
+      "nomeUrna": "DRA. MAYRA PINHEIRO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 1210,
+      "percentual": 4.85,
+      "sqcand": "60001614165"
+    },
+    {
+      "nome": "JOSÉ WILSON DE MELO",
+      "nomeUrna": "DR. WILSON MELO",
+      "partido": "AVANTE",
+      "numero": "7013",
+      "votos": 1192,
+      "percentual": 4.78,
+      "sqcand": "60001634105"
+    },
+    {
+      "nome": "ANDRÉ FERNANDES DE MOURA",
+      "nomeUrna": "ANDRÉ FERNANDES",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 892,
+      "percentual": 3.57,
+      "sqcand": "60001614161"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GUILHERME SAMPAIO LANDIM",
+      "nomeUrna": "GUILHERME LANDIM",
+      "partido": "PDT",
+      "numero": "12114",
+      "votos": 16234,
+      "percentual": 65.06,
+      "sqcand": "60001603525"
+    },
+    {
+      "nome": "EUSEBIO FERREIRA DA SILVA",
+      "nomeUrna": "EUSÉBIO FERREIRA",
+      "partido": "PT",
+      "numero": "13513",
+      "votos": 4524,
+      "percentual": 18.13,
+      "sqcand": "60001633673"
+    },
+    {
+      "nome": "ALOÍSIO ANTÔNIO GOMES DE MATOS BRASIL",
+      "nomeUrna": "DR. ALOÍSIO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 809,
+      "percentual": 3.24,
+      "sqcand": "60001608941"
+    },
+    {
+      "nome": "ALCIDES FERNANDES DA SILVA",
+      "nomeUrna": "PR.ALCIDES FERNANDES",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 356,
+      "percentual": 1.43,
+      "sqcand": "60001633829"
+    },
+    {
+      "nome": "AUDIC CAVALCANTE MOTA DIAS",
+      "nomeUrna": "AUDIC MOTA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 290,
+      "percentual": 1.16,
+      "sqcand": "60001635804"
+    },
+    {
+      "nome": "CARMELO SILVEIRA CARNEIRO LEÃO NETO",
+      "nomeUrna": "CARMELO NETO",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 174,
+      "percentual": 0.7,
+      "sqcand": "60001633791"
+    },
+    {
+      "nome": "DAVID DE ALBUQUERQUE DURAND",
+      "nomeUrna": "DAVID DURAND",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 161,
+      "percentual": 0.65,
+      "sqcand": "60001608816"
+    }
+  ]
+}

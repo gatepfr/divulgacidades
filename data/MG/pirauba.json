@@ -1,0 +1,271 @@
+{
+  "populacao": 9824,
+  "votosValidos": 7819,
+  "abstencao": 17.23,
+  "prefeito": {
+    "nome": "ANDRE LUIS SALGADO XAVIER",
+    "nomeUrna": "ANDREZINHO XAVIER",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 4432,
+    "percentual": 56.68,
+    "situacao": "Eleito",
+    "sqcand": "130001912648",
+    "vice": "MARCELO BELIZARIO BALDELIM",
+    "viceNomeUrna": "MARCELO DA LEDA",
+    "partidoVice": "PP",
+    "sqcandVice": "130001912649",
+    "coligacao": "PP / CIDADANIA / PSDB / UNIÃO / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "CELSO RAIMUNDO DE OLIVEIRA PINTO",
+      "nomeUrna": "CELSO DO ALVIM",
+      "partido": "UNIÃO",
+      "numero": "44666",
+      "votos": 455,
+      "percentual": 5.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001912585"
+    },
+    {
+      "nome": "GEOVANI DA ROCHA RODRIGUES",
+      "nomeUrna": "GEOVANI DA CONFECÇÃO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 380,
+      "percentual": 4.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001912617"
+    },
+    {
+      "nome": "SIMONE DOS SANTOS PEREIRA ALVIM",
+      "nomeUrna": "SIMONE SANTOS",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 346,
+      "percentual": 4.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001912589"
+    },
+    {
+      "nome": "EDERSON DE OLIVEIRA COELHO",
+      "nomeUrna": "EDINHO GRAVINA",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 304,
+      "percentual": 3.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001935120"
+    },
+    {
+      "nome": "IVO FLAVIO CABRAL DE ALMEIDA",
+      "nomeUrna": "IVO FLÁVIO CABRAL DE ALMEIDA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 271,
+      "percentual": 3.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001935101"
+    },
+    {
+      "nome": "JOSMAR TOLEDO XAVIER",
+      "nomeUrna": "JOSMAR XAVIER",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 261,
+      "percentual": 3.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001912595"
+    },
+    {
+      "nome": "PANDELIS DE OLIVEIRA COSTA",
+      "nomeUrna": "PANDELIS ENFERMEIRO",
+      "partido": "PL",
+      "numero": "22999",
+      "votos": 226,
+      "percentual": 2.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001935091"
+    },
+    {
+      "nome": "LUIZ FERNANDO MACHADO CONDE",
+      "nomeUrna": "LUIZINHO CONDE",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 215,
+      "percentual": 2.73,
+      "situacao": "Eleito por média",
+      "sqcand": "130001912588"
+    },
+    {
+      "nome": "ROSANGELA MARIA NEIVA LEAO TOLEDO",
+      "nomeUrna": "ROSÂNGELA LEÃO",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 210,
+      "percentual": 2.67,
+      "situacao": "Eleito por média",
+      "sqcand": "130001935104"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 2628,
+      "percentual": 42.87,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 2073,
+      "percentual": 33.82,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1344,
+      "percentual": 21.92,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MISAEL ARTUR FERREIRA VARELLA",
+      "nomeUrna": "MISAEL VARELLA",
+      "partido": "PSD",
+      "numero": "5505",
+      "votos": 1825,
+      "percentual": 26.98,
+      "sqcand": "130001604325"
+    },
+    {
+      "nome": "MARCELO HENRIQUE TEIXEIRA DIAS",
+      "nomeUrna": "MARCELO ÁLVARO ANTÔNIO",
+      "partido": "PL",
+      "numero": "2217",
+      "votos": 1143,
+      "percentual": 16.9,
+      "sqcand": "130001611029"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 505,
+      "percentual": 7.47,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "REGINALDO LÁZARO DE OLIVEIRA LOPES",
+      "nomeUrna": "REGINALDO LOPES",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 449,
+      "percentual": 6.64,
+      "sqcand": "130001607277"
+    },
+    {
+      "nome": "MIGUEL ÂNGELO MONTEIRO ANDRADE",
+      "nomeUrna": "MIGUEL ÂNGELO",
+      "partido": "PT",
+      "numero": "1339",
+      "votos": 290,
+      "percentual": 4.29,
+      "sqcand": "130001607253"
+    },
+    {
+      "nome": "RODRIGO BATISTA DE CASTRO",
+      "nomeUrna": "RODRIGO DE CASTRO",
+      "partido": "UNIÃO",
+      "numero": "4450",
+      "votos": 263,
+      "percentual": 3.89,
+      "sqcand": "130001607620"
+    },
+    {
+      "nome": "CHARLLES THOMACELLI EVANGELISTA",
+      "nomeUrna": "CHARLLES EVANGELISTA",
+      "partido": "PP",
+      "numero": "1132",
+      "votos": 251,
+      "percentual": 3.71,
+      "sqcand": "130001615426"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ISAURO JOSÉ DE CALAIS FILHO",
+      "nomeUrna": "ISAURO CALAIS",
+      "partido": "PSC",
+      "numero": "20580",
+      "votos": 1223,
+      "percentual": 19.83,
+      "sqcand": "130001671882"
+    },
+    {
+      "nome": "CARLOS MAGNO RIBEIRO COSTA",
+      "nomeUrna": "MAGNO",
+      "partido": "PT",
+      "numero": "13450",
+      "votos": 752,
+      "percentual": 12.2,
+      "sqcand": "130001607393"
+    },
+    {
+      "nome": "DOORGAL GUSTAVO SAD LAFAYETTE DE ANDRADA",
+      "nomeUrna": "DOORGAL ANDRADA",
+      "partido": "PATRIOTA",
+      "numero": "51300",
+      "votos": 565,
+      "percentual": 9.16,
+      "sqcand": "130001596308"
+    },
+    {
+      "nome": "IOANNIS KONSTANTINOS GRAMMATIKOPOULOS",
+      "nomeUrna": "GREGO",
+      "partido": "PMN",
+      "numero": "33033",
+      "votos": 382,
+      "percentual": 6.2,
+      "sqcand": "130001605806"
+    },
+    {
+      "nome": "SHEILA APARECIDA PEDROSA DE MELLO OLIVEIRA",
+      "nomeUrna": "DELEGADA SHEILA",
+      "partido": "PL",
+      "numero": "22032",
+      "votos": 309,
+      "percentual": 5.01,
+      "sqcand": "130001619041"
+    },
+    {
+      "nome": "IONE MARIA PINHEIRO",
+      "nomeUrna": "IONE PINHEIRO",
+      "partido": "UNIÃO",
+      "numero": "44141",
+      "votos": 279,
+      "percentual": 4.52,
+      "sqcand": "130001607721"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 273,
+      "percentual": 4.43,
+      "sqcand": "130001619045"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 2018,
+  "votosValidos": 1782,
+  "abstencao": 9.32,
+  "prefeito": {
+    "nome": "JULIANE MARIA BENDER",
+    "nomeUrna": "JULI BENDER",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1069,
+    "percentual": 59.99,
+    "situacao": "Eleito",
+    "sqcand": "210001980808",
+    "vice": "LAERTE ANTONIO JUNGES",
+    "viceNomeUrna": "LAERTE JUNGES",
+    "partidoVice": "PSD",
+    "sqcandVice": "210001980809",
+    "coligacao": "PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ADRIANO JOSE FUHR",
+      "nomeUrna": "ADRIANO JOSÉ FUHR FIA",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 163,
+      "percentual": 9.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001980753"
+    },
+    {
+      "nome": "CAROLINE DA ROSA SCHÜTZ",
+      "nomeUrna": "CAROLINE SCHÜTZ",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 143,
+      "percentual": 8.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001980754"
+    },
+    {
+      "nome": "JANICE BEATRIS WOLF ESCHER",
+      "nomeUrna": "JANICE ESCHER ",
+      "partido": "PP",
+      "numero": "11012",
+      "votos": 120,
+      "percentual": 6.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002118762"
+    },
+    {
+      "nome": "LOURDES MARIA CALSING",
+      "nomeUrna": "LOURDES CALSING",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 116,
+      "percentual": 6.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001980756"
+    },
+    {
+      "nome": "NADIR ALVES MACIEL",
+      "nomeUrna": "NADIR NEGÃO",
+      "partido": "PDT",
+      "numero": "12789",
+      "votos": 109,
+      "percentual": 6.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002011298"
+    },
+    {
+      "nome": "IDA KREMER",
+      "nomeUrna": "IDA KREMER",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 105,
+      "percentual": 5.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002117793"
+    },
+    {
+      "nome": "JACO INACIO RAUBER",
+      "nomeUrna": "JACO RAUBER",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 86,
+      "percentual": 4.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001980758"
+    },
+    {
+      "nome": "TARCISIO ALOISIO FUHR",
+      "nomeUrna": "FIA",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 78,
+      "percentual": 4.37,
+      "situacao": "Eleito por média",
+      "sqcand": "210002011295"
+    },
+    {
+      "nome": "MARIA SIRLEI SCHONS",
+      "nomeUrna": "SIRLEI SCHONS",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 72,
+      "percentual": 4.03,
+      "situacao": "Eleito por média",
+      "sqcand": "210001980755"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 652,
+      "percentual": 42.87,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 629,
+      "percentual": 41.35,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 224,
+      "percentual": 14.73,
+      "sqcand": "210001619906"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nomeUrna": "DANRLEI DE DEUS GOLEIRO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 628,
+      "percentual": 40.2,
+      "sqcand": "210001613990"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 107,
+      "percentual": 6.85,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 85,
+      "percentual": 5.44,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 80,
+      "percentual": 5.12,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 67,
+      "percentual": 4.29,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 62,
+      "percentual": 3.97,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 49,
+      "percentual": 3.14,
+      "sqcand": "210001597011"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JULIANO FRANCZAK",
+      "nomeUrna": "GAÚCHO DA GERAL",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 178,
+      "percentual": 11.82,
+      "sqcand": "210001696192"
+    },
+    {
+      "nome": "TALIS ROMEU POHREN FERREIRA",
+      "nomeUrna": "TALIS FERREIRA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 176,
+      "percentual": 11.69,
+      "sqcand": "210001647174"
+    },
+    {
+      "nome": "DIMAS SOUZA DA COSTA",
+      "nomeUrna": "DIMAS",
+      "partido": "PSD",
+      "numero": "55456",
+      "votos": 169,
+      "percentual": 11.22,
+      "sqcand": "210001696191"
+    },
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 112,
+      "percentual": 7.44,
+      "sqcand": "210001602904"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 85,
+      "percentual": 5.64,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "CAMILA CAROLINA DE OLIVEIRA",
+      "nomeUrna": "CAMILA OLIVEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10077",
+      "votos": 75,
+      "percentual": 4.98,
+      "sqcand": "210001601637"
+    },
+    {
+      "nome": "ALOISIO TALSO CLASSMANN",
+      "nomeUrna": "CLASSMANN",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 65,
+      "percentual": 4.32,
+      "sqcand": "210001601953"
+    }
+  ]
+}

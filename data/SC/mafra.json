@@ -1,0 +1,311 @@
+{
+  "populacao": 42233,
+  "votosValidos": 31574,
+  "abstencao": 20.5,
+  "prefeito": {
+    "nome": "EMERSON MAAS",
+    "nomeUrna": "EMERSON MAAS",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 20951,
+    "percentual": 66.36,
+    "situacao": "Eleito",
+    "sqcand": "240002171164",
+    "vice": "CARLOS ALBERTO NITZ",
+    "viceNomeUrna": "CARLOS NITZ",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "240002171163",
+    "coligacao": "MDB / REPUBLICANOS / PP / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "WAGNER GROSSL RAMOS DE OLIVEIRA",
+      "nomeUrna": "WAGNER GROSSL",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 1183,
+      "percentual": 3.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002063035"
+    },
+    {
+      "nome": "JOSÉ MARCOS WITT",
+      "nomeUrna": "WITINHO",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 1141,
+      "percentual": 3.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002343363"
+    },
+    {
+      "nome": "JOÃO CELSO CARDOSO",
+      "nomeUrna": "CELSO PIZZA",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 1027,
+      "percentual": 3.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002221957"
+    },
+    {
+      "nome": "RONALDO DE MELLO WOLSKI",
+      "nomeUrna": "RONALDO DO POSTO",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 878,
+      "percentual": 2.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002063029"
+    },
+    {
+      "nome": "JONAS HEIDE",
+      "nomeUrna": "JONAS HEIDE",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 810,
+      "percentual": 2.68,
+      "situacao": "Eleito por média",
+      "sqcand": "240002063034"
+    },
+    {
+      "nome": "MIRIAM CLARA SCHLOEGL",
+      "nomeUrna": "MIRIAM CANFOREIRA",
+      "partido": "PRD",
+      "numero": "25888",
+      "votos": 778,
+      "percentual": 2.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002227967"
+    },
+    {
+      "nome": "DIRCELENE DITTRICH PINTO",
+      "nomeUrna": "DIRCE",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 742,
+      "percentual": 2.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002243411"
+    },
+    {
+      "nome": "VANDERLEI PETERS",
+      "nomeUrna": "VANDE DA FARMÁCIA",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 643,
+      "percentual": 2.13,
+      "situacao": "Eleito por média",
+      "sqcand": "240002342837"
+    },
+    {
+      "nome": "JOÃO CARLOS REISER",
+      "nomeUrna": "JOÃO ENFERMEIRO",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 642,
+      "percentual": 2.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002243417"
+    },
+    {
+      "nome": "RAFAEL AUGUSTO CAVALHEIRO",
+      "nomeUrna": "RAFINHA CAVALHEIRO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 637,
+      "percentual": 2.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002221960"
+    },
+    {
+      "nome": "VALDIR  SOKOLSKI JUNIOR",
+      "nomeUrna": "JUNIOR SOKOLSKI",
+      "partido": "REPUBLICANOS",
+      "numero": "10198",
+      "votos": 636,
+      "percentual": 2.11,
+      "situacao": "Eleito por média",
+      "sqcand": "240002243414"
+    },
+    {
+      "nome": "SERGIO LUIZ SEVERINO",
+      "nomeUrna": "SERGINHO ADVOGADO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 569,
+      "percentual": 1.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002342955"
+    },
+    {
+      "nome": "EVERTON DEMETRIO",
+      "nomeUrna": "DEMETRIO CHIPS",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 465,
+      "percentual": 1.54,
+      "situacao": "Eleito por média",
+      "sqcand": "240002221950"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 12659,
+      "percentual": 47.69,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 5272,
+      "percentual": 19.86,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 2939,
+      "percentual": 11.07,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 4555,
+      "percentual": 17.11,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "RODRIGO COELHO",
+      "nomeUrna": "RODRIGO COELHO",
+      "partido": "PODE",
+      "numero": "1922",
+      "votos": 2824,
+      "percentual": 10.61,
+      "sqcand": "240001610855"
+    },
+    {
+      "nome": "ADILSON SABATKE",
+      "nomeUrna": "ADILSON SABATKE",
+      "partido": "UNIÃO",
+      "numero": "4456",
+      "votos": 2065,
+      "percentual": 7.75,
+      "sqcand": "240001604509"
+    },
+    {
+      "nome": "CLAUDIA MARIA BUS",
+      "nomeUrna": "CLAUDIA BUSS",
+      "partido": "PSB",
+      "numero": "4077",
+      "votos": 1574,
+      "percentual": 5.91,
+      "sqcand": "240001647249"
+    },
+    {
+      "nome": "LUIZ ARMANDO SCHROEDER REIS",
+      "nomeUrna": "CORONEL ARMANDO",
+      "partido": "PL",
+      "numero": "2262",
+      "votos": 1248,
+      "percentual": 4.69,
+      "sqcand": "240001610967"
+    },
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 1026,
+      "percentual": 3.85,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 994,
+      "percentual": 3.73,
+      "sqcand": "240001610965"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CELINA DITTRICH VIEIRA",
+      "nomeUrna": "DRA CELINA DITTRICH",
+      "partido": "PODE",
+      "numero": "19105",
+      "votos": 6374,
+      "percentual": 23.4,
+      "sqcand": "240001610827"
+    },
+    {
+      "nome": "MARCIO CARDOSO",
+      "nomeUrna": "MARCIO CARDOSO",
+      "partido": "PL",
+      "numero": "22038",
+      "votos": 4809,
+      "percentual": 17.66,
+      "sqcand": "240001614359"
+    },
+    {
+      "nome": "CELSO JOSÉ STROBEL",
+      "nomeUrna": "CELSO STROBEL",
+      "partido": "NOVO",
+      "numero": "30333",
+      "votos": 3568,
+      "percentual": 13.1,
+      "sqcand": "240001597534"
+    },
+    {
+      "nome": "WELLINGTON ROBERTO BIELECKI",
+      "nomeUrna": "WELLINGTON",
+      "partido": "PSD",
+      "numero": "55321",
+      "votos": 2935,
+      "percentual": 10.78,
+      "sqcand": "240001614386"
+    },
+    {
+      "nome": "CARLOS HENRIQUE DE LIMA",
+      "nomeUrna": "SARGENTO LIMA",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 839,
+      "percentual": 3.08,
+      "sqcand": "240001614329"
+    },
+    {
+      "nome": "LUCIANE MARIA CARMINATTI",
+      "nomeUrna": "LUCIANE CARMINATTI",
+      "partido": "PT",
+      "numero": "13601",
+      "votos": 718,
+      "percentual": 2.64,
+      "sqcand": "240001679643"
+    },
+    {
+      "nome": "MAURICIO JOSE ESKUDLARK",
+      "nomeUrna": "MAURICIO ESKUDLARK",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 655,
+      "percentual": 2.4,
+      "sqcand": "240001614331"
+    }
+  ]
+}

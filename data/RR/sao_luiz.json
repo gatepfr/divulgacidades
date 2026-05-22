@@ -1,0 +1,271 @@
+{
+  "populacao": 6134,
+  "votosValidos": 5158,
+  "abstencao": 13.29,
+  "prefeito": {
+    "nome": "ELIAS BESCHORNER DA SILVA",
+    "nomeUrna": "CHICÃO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 3064,
+    "percentual": 59.4,
+    "situacao": "Eleito",
+    "sqcand": "230001916987",
+    "vice": "FRANCISCO SERVOLO BARBOSA",
+    "viceNomeUrna": "DENAILTON",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "230001916986",
+    "coligacao": "REPUBLICANOS / PP / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "ELDA COELHO XAVIER DE ARAGÃO",
+      "nomeUrna": "PROF ELDA XAVIER",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 384,
+      "percentual": 7.32,
+      "situacao": "Eleito por QP",
+      "sqcand": "230001916947"
+    },
+    {
+      "nome": "BENILSON FREITAS MOREIRA",
+      "nomeUrna": "BENILSON",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 368,
+      "percentual": 7.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "230001916946"
+    },
+    {
+      "nome": "FATIMA SILVA SCHELEDER PINTO",
+      "nomeUrna": "FÁTIMA SILVA",
+      "partido": "PP",
+      "numero": "11007",
+      "votos": 317,
+      "percentual": 6.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "230001916948"
+    },
+    {
+      "nome": "GERSON ALVES OLIVEIRA",
+      "nomeUrna": "GERSON ALVES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 305,
+      "percentual": 5.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "230001947171"
+    },
+    {
+      "nome": "ROBERTO DA ROCHA SILVA",
+      "nomeUrna": "CURIÓ",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 299,
+      "percentual": 5.7,
+      "situacao": "Eleito por média",
+      "sqcand": "230001916944"
+    },
+    {
+      "nome": "JANIELLY SALAZAR PONTES",
+      "nomeUrna": "JANY DO AÇAÍ",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 223,
+      "percentual": 4.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "230001947177"
+    },
+    {
+      "nome": "JUVANE LIMA SALAZAR",
+      "nomeUrna": "JUVANE SALAZAR",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 210,
+      "percentual": 4.0,
+      "situacao": "Eleito por média",
+      "sqcand": "230001947175"
+    },
+    {
+      "nome": "RONALDO SOUZA SANTOS",
+      "nomeUrna": "RONALDO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 185,
+      "percentual": 3.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "230002139717"
+    },
+    {
+      "nome": "JOÃO CARLOS ANTONIO DOS SANTOS",
+      "nomeUrna": "JOÃO MECANICO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 157,
+      "percentual": 2.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "230002032925"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "HIRAN MANUEL GONÇALVES DA SILVA",
+      "nomeUrna": "DR. HIRAN",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2031,
+      "percentual": 46.17,
+      "sqcand": "230001604259"
+    },
+    {
+      "nome": "ROMERO JUCÁ FILHO",
+      "nomeUrna": "ROMERO JUCÁ",
+      "partido": "MDB",
+      "numero": "156",
+      "votos": 1957,
+      "percentual": 44.49,
+      "sqcand": "230001602198"
+    },
+    {
+      "nome": "TELMARIO MOTA DE OLIVEIRA",
+      "nomeUrna": "TELMARIO MOTA",
+      "partido": "PROS",
+      "numero": "903",
+      "votos": 286,
+      "percentual": 6.5,
+      "sqcand": "230001600038"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DUDA BRITO RAMOS",
+      "nomeUrna": "DUDA RAMOS",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 1246,
+      "percentual": 26.12,
+      "sqcand": "230001602809"
+    },
+    {
+      "nome": "JOHNATHAN PEREIRA DE JESUS",
+      "nomeUrna": "JHONATAN DE JESUS",
+      "partido": "REPUBLICANOS",
+      "numero": "1011",
+      "votos": 640,
+      "percentual": 13.42,
+      "sqcand": "230001600111"
+    },
+    {
+      "nome": "JOSÉ FRANCISCO LOPES DE ALBUQUERQUE",
+      "nomeUrna": "ALBUQUERQUE",
+      "partido": "REPUBLICANOS",
+      "numero": "1099",
+      "votos": 314,
+      "percentual": 6.58,
+      "sqcand": "230001600114"
+    },
+    {
+      "nome": "RODRIGO MARTINS DE MELLO",
+      "nomeUrna": "RODRIGO CATARATAS",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 299,
+      "percentual": 6.27,
+      "sqcand": "230001604290"
+    },
+    {
+      "nome": "FRANCISCO EVANGELISTA DOS SANTOS DE ARAUJO",
+      "nomeUrna": "DELEGADO FRANCISCO",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 281,
+      "percentual": 5.89,
+      "sqcand": "230001604226"
+    },
+    {
+      "nome": "GABRIEL MOTA E SILVA",
+      "nomeUrna": "GABRIEL MOTA",
+      "partido": "REPUBLICANOS",
+      "numero": "1000",
+      "votos": 199,
+      "percentual": 4.17,
+      "sqcand": "230001600106"
+    },
+    {
+      "nome": "JEFERSON ALVES",
+      "nomeUrna": "JEFERSON ALVES",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 187,
+      "percentual": 3.92,
+      "sqcand": "230001595284"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "IDAZIO CHAGAS DE LIMA",
+      "nomeUrna": "IDAZIO DA PERFIL",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 947,
+      "percentual": 19.81,
+      "sqcand": "230001602824"
+    },
+    {
+      "nome": "MARCOS JORGE DE LIMA",
+      "nomeUrna": "MARCOS JORGE",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 344,
+      "percentual": 7.2,
+      "sqcand": "230001600062"
+    },
+    {
+      "nome": "JORGE EVERTON BARRETO GUIMARÃES",
+      "nomeUrna": "JORGE EVERTON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 297,
+      "percentual": 6.21,
+      "sqcand": "230001595304"
+    },
+    {
+      "nome": "TAYLA RIBEIRO PERES SILVA",
+      "nomeUrna": "TAYLA PERES",
+      "partido": "REPUBLICANOS",
+      "numero": "10007",
+      "votos": 287,
+      "percentual": 6.0,
+      "sqcand": "230001600049"
+    },
+    {
+      "nome": "JOSÉ HAMILTON GOMES LOUREIRO NETO",
+      "nomeUrna": "NETO LOUREIRO",
+      "partido": "PMB",
+      "numero": "35123",
+      "votos": 248,
+      "percentual": 5.19,
+      "sqcand": "230001600145"
+    },
+    {
+      "nome": "JANE JOSE DA SILVA",
+      "nomeUrna": "XINGU",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 231,
+      "percentual": 4.83,
+      "sqcand": "230001604252"
+    },
+    {
+      "nome": "FRANCISCO MOZART HOLANDA PINHEIRO",
+      "nomeUrna": "CHICO MOZART",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 185,
+      "percentual": 3.87,
+      "sqcand": "230001604241"
+    }
+  ]
+}

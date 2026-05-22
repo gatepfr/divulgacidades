@@ -1,0 +1,271 @@
+{
+  "populacao": 4862,
+  "votosValidos": 2780,
+  "abstencao": 18.37,
+  "prefeito": {
+    "nome": "ERLISSON VITOR LOPES",
+    "nomeUrna": "ERLISSON DO CARLINHOS",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2780,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "130002344078",
+    "vice": "IVAIR CORREA",
+    "viceNomeUrna": "IVAIRZINHO",
+    "partidoVice": "PV",
+    "sqcandVice": "130002344079",
+    "coligacao": "PSD / PL / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "ROSILDO BERNARDO DA ROCHA",
+      "nomeUrna": "ROSILDO ROCHA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 225,
+      "percentual": 6.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002371408"
+    },
+    {
+      "nome": "JUVENAL DE FARIA",
+      "nomeUrna": "JUVENAL",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 170,
+      "percentual": 4.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002344817"
+    },
+    {
+      "nome": "ADRIANA NOGUEIRA DA ROCHA CORREA",
+      "nomeUrna": "ADRIANA DO CHICÃO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 165,
+      "percentual": 4.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002278869"
+    },
+    {
+      "nome": "JONAS MENDES DE SIQUEIRA",
+      "nomeUrna": "JONAS MENDES",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 163,
+      "percentual": 4.41,
+      "situacao": "Eleito por média",
+      "sqcand": "130002344815"
+    },
+    {
+      "nome": "MAURO DOS SANTOS",
+      "nomeUrna": "MAURO DOS SANTOS",
+      "partido": "MDB",
+      "numero": "15112",
+      "votos": 162,
+      "percentual": 4.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002071649"
+    },
+    {
+      "nome": "RODRIGO FELIPE DE SOUZA",
+      "nomeUrna": "RODRIGO DO CHICO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 134,
+      "percentual": 3.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002278872"
+    },
+    {
+      "nome": "ROMEU ROSA MACIEL",
+      "nomeUrna": "ROMEU ROSA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 124,
+      "percentual": 3.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002277567"
+    },
+    {
+      "nome": "ALARCON ANTONIO DELFIM",
+      "nomeUrna": "ALARCON",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 117,
+      "percentual": 3.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002277572"
+    },
+    {
+      "nome": "MARINEIDE SIQUEIRA ARNAUT",
+      "nomeUrna": "MARI DA ELECEL",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 112,
+      "percentual": 3.03,
+      "situacao": "Eleito por média",
+      "sqcand": "130002278871"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1670,
+      "percentual": 53.7,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 913,
+      "percentual": 29.36,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 466,
+      "percentual": 14.98,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIZ FERNANDO RAMOS FARIA",
+      "nomeUrna": "LUIZ FERNANDO",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 1096,
+      "percentual": 32.43,
+      "sqcand": "130001604306"
+    },
+    {
+      "nome": "DIMAS FABIANO TOLEDO JUNIOR",
+      "nomeUrna": "DIMAS FABIANO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 625,
+      "percentual": 18.49,
+      "sqcand": "130001615433"
+    },
+    {
+      "nome": "NEWTON CARDOSO JÚNIOR",
+      "nomeUrna": "NEWTON CARDOSO JR",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 447,
+      "percentual": 13.22,
+      "sqcand": "130001668913"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 265,
+      "percentual": 7.84,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "CÉLIA NUNES CORREA",
+      "nomeUrna": "CÉLIA XAKRIABÁ",
+      "partido": "PSOL",
+      "numero": "5088",
+      "votos": 107,
+      "percentual": 3.17,
+      "sqcand": "130001615168"
+    },
+    {
+      "nome": "ODAIR JOSÉ DA CUNHA",
+      "nomeUrna": "ODAIR CUNHA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 67,
+      "percentual": 1.98,
+      "sqcand": "130001607254"
+    },
+    {
+      "nome": "EROS FERREIRA BIONDINI",
+      "nomeUrna": "EROS BIONDINI",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 60,
+      "percentual": 1.78,
+      "sqcand": "130001610990"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CLEITON DE OLIVEIRA",
+      "nomeUrna": "PROFESSOR CLEITON (CLEITINHO)",
+      "partido": "PV",
+      "numero": "43700",
+      "votos": 1178,
+      "percentual": 36.84,
+      "sqcand": "130001607410"
+    },
+    {
+      "nome": "NACIB DUARTE BECHIR",
+      "nomeUrna": "DUARTE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 820,
+      "percentual": 25.64,
+      "sqcand": "130001604390"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 143,
+      "percentual": 4.47,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "REINALDO GOMES DE SOUZA",
+      "nomeUrna": "REINALDO GOMES PRETO SACOLÃO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 106,
+      "percentual": 3.31,
+      "sqcand": "130001678180"
+    },
+    {
+      "nome": "ULYSSES GOMES DE OLIVEIRA NETO",
+      "nomeUrna": "ULYSSES GOMES",
+      "partido": "PT",
+      "numero": "13077",
+      "votos": 66,
+      "percentual": 2.06,
+      "sqcand": "130001607390"
+    },
+    {
+      "nome": "WASHINGTON FERNANDO RODRIGUES",
+      "nomeUrna": "SARGENTO RODRIGUES",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 47,
+      "percentual": 1.47,
+      "sqcand": "130001619068"
+    },
+    {
+      "nome": "ANA CAROLINA PINTO CARAM GUIMARÃES",
+      "nomeUrna": "CAROL CARAM",
+      "partido": "AVANTE",
+      "numero": "70789",
+      "votos": 41,
+      "percentual": 1.28,
+      "sqcand": "130001603706"
+    }
+  ]
+}

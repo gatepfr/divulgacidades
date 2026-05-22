@@ -1,0 +1,271 @@
+{
+  "populacao": 3222,
+  "votosValidos": 2582,
+  "abstencao": 17.47,
+  "prefeito": {
+    "nome": "SAMUEL FERREIRA DA SILVA",
+    "nomeUrna": "SAMUEL FERREIRA",
+    "partido": "SOLIDARIEDADE",
+    "numero": "77",
+    "votos": 1862,
+    "percentual": 72.11,
+    "situacao": "Eleito",
+    "sqcand": "130001902496",
+    "vice": "AIRTON ANTONIO DO NASCIMENTO",
+    "viceNomeUrna": "AIRTON DA TIA LAURA",
+    "partidoVice": "MDB",
+    "sqcandVice": "130001902497",
+    "coligacao": "SOLIDARIEDADE / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JOAO RIBEIRO FILHO",
+      "nomeUrna": "JOAO CAVALIM",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77777",
+      "votos": 276,
+      "percentual": 10.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001915543"
+    },
+    {
+      "nome": "ARTUR RABELO FILHO",
+      "nomeUrna": "TUTE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 222,
+      "percentual": 8.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001915541"
+    },
+    {
+      "nome": "AGOSTINHO ANTONIO FILHO",
+      "nomeUrna": "TILIM",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 206,
+      "percentual": 8.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001924427"
+    },
+    {
+      "nome": "GILMAR FAUSTINO DA SILVA",
+      "nomeUrna": "GILMAR FAUSTINO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 185,
+      "percentual": 7.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002331089"
+    },
+    {
+      "nome": "MESSIAS FERNANDES",
+      "nomeUrna": "CABO MESSIAS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77789",
+      "votos": 182,
+      "percentual": 7.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001915547"
+    },
+    {
+      "nome": "JACY PERES",
+      "nomeUrna": "JACY PERES",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 156,
+      "percentual": 6.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001924429"
+    },
+    {
+      "nome": "ABEL DE OLIVEIRA SOUZA",
+      "nomeUrna": "BELÃO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 144,
+      "percentual": 5.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002331086"
+    },
+    {
+      "nome": "ADMILSON TAVARES",
+      "nomeUrna": "DIDI TAVARES",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 141,
+      "percentual": 5.51,
+      "situacao": "Eleito por média",
+      "sqcand": "130001924428"
+    },
+    {
+      "nome": "DIRCEU LEANDRO PEREIRA",
+      "nomeUrna": "DIRCEU DO ESPORTE",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77244",
+      "votos": 139,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001915539"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 958,
+      "percentual": 47.47,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 644,
+      "percentual": 31.91,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 402,
+      "percentual": 19.92,
+      "sqcand": "130001713762"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HERCILIO ARAUJO DINIZ FILHO",
+      "nomeUrna": "HERCILIO COELHO DINIZ",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 1317,
+      "percentual": 61.2,
+      "sqcand": "130001668912"
+    },
+    {
+      "nome": "VILSON LUIZ DA SILVA",
+      "nomeUrna": "VILSON DA FETAEMG",
+      "partido": "PSB",
+      "numero": "4057",
+      "votos": 423,
+      "percentual": 19.66,
+      "sqcand": "130001613225"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 158,
+      "percentual": 7.34,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "PAULO ABI-ACKEL",
+      "nomeUrna": "PAULO ABI-ACKEL",
+      "partido": "PSDB",
+      "numero": "4545",
+      "votos": 26,
+      "percentual": 1.21,
+      "sqcand": "130001613373"
+    },
+    {
+      "nome": "JOSÉ LEONARDO COSTA MONTEIRO",
+      "nomeUrna": "LEONARDO MONTEIRO",
+      "partido": "PT",
+      "numero": "1363",
+      "votos": 19,
+      "percentual": 0.88,
+      "sqcand": "130001607248"
+    },
+    {
+      "nome": "EUCLYDES MARCOS PETTERSEN NETO",
+      "nomeUrna": "EUCLYDES PETTERSEN",
+      "partido": "PSC",
+      "numero": "2015",
+      "votos": 19,
+      "percentual": 0.88,
+      "sqcand": "130001671754"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 16,
+      "percentual": 0.74,
+      "sqcand": "130001608227"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOÃO LÚCIO MAGALHÃES BIFANO",
+      "nomeUrna": "JOÃO MAGALHÃES",
+      "partido": "MDB",
+      "numero": "15133",
+      "votos": 1108,
+      "percentual": 55.43,
+      "sqcand": "130001678188"
+    },
+    {
+      "nome": "JOSÉ LAVIOLA NETO DE LIRA",
+      "nomeUrna": "ZÉ LAVIOLA",
+      "partido": "NOVO",
+      "numero": "30011",
+      "votos": 588,
+      "percentual": 29.41,
+      "sqcand": "130001598589"
+    },
+    {
+      "nome": "SANDRO LÚCIO FONSECA",
+      "nomeUrna": "CORONEL SANDRO",
+      "partido": "PL",
+      "numero": "22011",
+      "votos": 35,
+      "percentual": 1.75,
+      "sqcand": "130001619065"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 24,
+      "percentual": 1.2,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "THIAGO FELLIPE MOTTA COTA",
+      "nomeUrna": "THIAGO COTA",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 20,
+      "percentual": 1.0,
+      "sqcand": "130001606759"
+    },
+    {
+      "nome": "ENES CANDIDO DAMACENA JUNIOR",
+      "nomeUrna": "ENES CANDIDO",
+      "partido": "PMN",
+      "numero": "33500",
+      "votos": 20,
+      "percentual": 1.0,
+      "sqcand": "130001605840"
+    },
+    {
+      "nome": "ELISA MARIA COSTA",
+      "nomeUrna": "ELISA  COSTA",
+      "partido": "PT",
+      "numero": "13680",
+      "votos": 14,
+      "percentual": 0.7,
+      "sqcand": "130001607372"
+    }
+  ]
+}

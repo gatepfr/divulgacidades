@@ -1,0 +1,351 @@
+{
+  "populacao": 58484,
+  "votosValidos": 46812,
+  "abstencao": 12.74,
+  "prefeito": {
+    "nome": "ALEX ANDERSON NUNES DA COSTA",
+    "nomeUrna": "ALEX NUNES",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 31126,
+    "percentual": 66.49,
+    "situacao": "Eleito",
+    "sqcand": "60001943184",
+    "vice": "EVANEUDO MENDES DE LIMA",
+    "viceNomeUrna": "VANDO LIMA",
+    "partidoVice": "PSB",
+    "sqcandVice": "60001943183",
+    "coligacao": "PP / REPUBLICANOS / UNIÃO / PSB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "NADIR NUNES",
+      "nomeUrna": "NADIR NUNES",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 2659,
+      "percentual": 5.51,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002037506"
+    },
+    {
+      "nome": "KEILA ARAGÃO FERNADES",
+      "nomeUrna": "KEILA ARAGÃO",
+      "partido": "PSB",
+      "numero": "40777",
+      "votos": 2471,
+      "percentual": 5.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002037515"
+    },
+    {
+      "nome": "JOSÉ LEÔNCIO CARDOSO DE VASCONCELOS",
+      "nomeUrna": "ZÉ LEÔNCIO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 2196,
+      "percentual": 4.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002037516"
+    },
+    {
+      "nome": "NATANAEL DA SILVA PASSOS",
+      "nomeUrna": "NATANAEL PASSOS",
+      "partido": "PSB",
+      "numero": "40111",
+      "votos": 2046,
+      "percentual": 4.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002037514"
+    },
+    {
+      "nome": "ROBERIO COSTA ALBUQUERQUE",
+      "nomeUrna": "ROBÉRIO DO MARACUJÁ",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 1899,
+      "percentual": 3.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002242321"
+    },
+    {
+      "nome": "JOSE MARIA CUNHA DE BRITO",
+      "nomeUrna": "PI MEGA SOM",
+      "partido": "PSB",
+      "numero": "40222",
+      "votos": 1818,
+      "percentual": 3.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002037517"
+    },
+    {
+      "nome": "ELVES RONIELLY CARVALHO DE LIMA",
+      "nomeUrna": "DR ELVES LIMA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1783,
+      "percentual": 3.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002242323"
+    },
+    {
+      "nome": "EMERSON CORDEIRO DE VASCONCELOS",
+      "nomeUrna": "EMERSON VASCONCELOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1775,
+      "percentual": 3.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002183960"
+    },
+    {
+      "nome": "FERNADO ALVES DE MENEZES",
+      "nomeUrna": "FERNANDO",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 1685,
+      "percentual": 3.49,
+      "situacao": "Eleito por média",
+      "sqcand": "60002037510"
+    },
+    {
+      "nome": "RAIMUNDO MARTINS DE SOUZA",
+      "nomeUrna": "RAIMUNDINHO DAS MOTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 1611,
+      "percentual": 3.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002183959"
+    },
+    {
+      "nome": "EUGENIO PORTELA DE LIMA",
+      "nomeUrna": "EUGENIO PORTELA",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 1522,
+      "percentual": 3.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002049418"
+    },
+    {
+      "nome": "ALOISIO ALBERTO DE SÁ FERNANDES",
+      "nomeUrna": "BETÃO",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 1482,
+      "percentual": 3.07,
+      "situacao": "Eleito por média",
+      "sqcand": "60002104888"
+    },
+    {
+      "nome": "JOSÉ CLAUDOHLEDER CARDOSO DE VASCONCELOS",
+      "nomeUrna": "CLAUDOELDER",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 1430,
+      "percentual": 2.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002049415"
+    },
+    {
+      "nome": "FRANCISCO TIAGO DOS SANTOS",
+      "nomeUrna": "TIAGO ZITO",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 1278,
+      "percentual": 2.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002049593"
+    },
+    {
+      "nome": "FRANCISCO CLEBER FONTENELE SILVA",
+      "nomeUrna": "CLEBER DO ADAUTIM",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 1234,
+      "percentual": 2.56,
+      "situacao": "Eleito por média",
+      "sqcand": "60002183954"
+    },
+    {
+      "nome": "NATANAEL DOS SANTOS PORTELA",
+      "nomeUrna": "NATAN PORTELA",
+      "partido": "PP",
+      "numero": "11100",
+      "votos": 1107,
+      "percentual": 2.29,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002242324"
+    },
+    {
+      "nome": "JOSÉ NILTON DA SILVA",
+      "nomeUrna": "ZÉ NILTON",
+      "partido": "PDT",
+      "numero": "12555",
+      "votos": 536,
+      "percentual": 1.11,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002105038"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 25233,
+      "percentual": 66.23,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 10940,
+      "percentual": 28.71,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1928,
+      "percentual": 5.06,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DOMINGOS GOMES DE AGUIAR NETO",
+      "nomeUrna": "DOMINGOS NETO",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 9569,
+      "percentual": 23.75,
+      "sqcand": "60001601183"
+    },
+    {
+      "nome": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "nomeUrna": "IDILVAN",
+      "partido": "PDT",
+      "numero": "1213",
+      "votos": 3673,
+      "percentual": 9.12,
+      "sqcand": "60001603469"
+    },
+    {
+      "nome": "ANTONIO LUIZ RODRIGUES MANO JUNIOR",
+      "nomeUrna": "JÚNIOR MANO",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 3673,
+      "percentual": 9.12,
+      "sqcand": "60001614151"
+    },
+    {
+      "nome": "CARLOS MAURO BENEVIDES FILHO",
+      "nomeUrna": "MAURO FILHO",
+      "partido": "PDT",
+      "numero": "1221",
+      "votos": 2927,
+      "percentual": 7.27,
+      "sqcand": "60001603470"
+    },
+    {
+      "nome": "MOSES HAENDEL MELO RODRIGUES",
+      "nomeUrna": "MOSES RODRIGUES",
+      "partido": "UNIÃO",
+      "numero": "4488",
+      "votos": 2647,
+      "percentual": 6.57,
+      "sqcand": "60001608894"
+    },
+    {
+      "nome": "ANDRÉ FERNANDES DE MOURA",
+      "nomeUrna": "ANDRÉ FERNANDES",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2370,
+      "percentual": 5.88,
+      "sqcand": "60001614161"
+    },
+    {
+      "nome": "FERNANDA ENEIDA PESSOA CARACAS DE SOUZA",
+      "nomeUrna": "FERNANDA PESSOA",
+      "partido": "UNIÃO",
+      "numero": "4477",
+      "votos": 1663,
+      "percentual": 4.13,
+      "sqcand": "60001608882"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GABRIELLA PEQUENO COSTA GOMES DE AGUIAR",
+      "nomeUrna": "GABRIELLA AGUIAR",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 6467,
+      "percentual": 16.94,
+      "sqcand": "60001613538"
+    },
+    {
+      "nome": "OSCAR SPINDOLA RODRIGUES JUNIOR",
+      "nomeUrna": "DR. OSCAR RODRIGUES",
+      "partido": "UNIÃO",
+      "numero": "44888",
+      "votos": 3659,
+      "percentual": 9.59,
+      "sqcand": "60001608929"
+    },
+    {
+      "nome": "FRANCISCO JOSE QUEIROZ MAIA FILHO",
+      "nomeUrna": "QUEIROZ FILHO",
+      "partido": "PDT",
+      "numero": "12300",
+      "votos": 3614,
+      "percentual": 9.47,
+      "sqcand": "60001603536"
+    },
+    {
+      "nome": "JULIO CESAR COSTA LIMA JUNIOR",
+      "nomeUrna": "JULINHO",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 2905,
+      "percentual": 7.61,
+      "sqcand": "60001633659"
+    },
+    {
+      "nome": "ROMEU ALDIGUERI DE ARRUDA COELHO",
+      "nomeUrna": "ROMEU ALDIGUERI",
+      "partido": "PDT",
+      "numero": "12456",
+      "votos": 2226,
+      "percentual": 5.83,
+      "sqcand": "60001603528"
+    },
+    {
+      "nome": "AGENOR GOMES DE ARAUJO NETO",
+      "nomeUrna": "AGENOR NETO",
+      "partido": "MDB",
+      "numero": "15888",
+      "votos": 1976,
+      "percentual": 5.18,
+      "sqcand": "60001635809"
+    },
+    {
+      "nome": "MOISES BRAZ RICARDO",
+      "nomeUrna": "MOISES BRAZ",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 1878,
+      "percentual": 4.92,
+      "sqcand": "60001633642"
+    }
+  ]
+}

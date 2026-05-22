@@ -1,0 +1,291 @@
+{
+  "populacao": 14266,
+  "votosValidos": 10805,
+  "abstencao": 21.94,
+  "prefeito": {
+    "nome": "FERNANDO MARANGONI",
+    "nomeUrna": "FERNANDINHO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 7078,
+    "percentual": 65.51,
+    "situacao": "Eleito",
+    "sqcand": "130002016729",
+    "vice": "WILLIAM GONÇALVES RAMOS",
+    "viceNomeUrna": "WILLIAM PARCEIRO",
+    "partidoVice": "PRD",
+    "sqcandVice": "130002016730",
+    "coligacao": "PRD / UNIÃO / AVANTE / SOLIDARIEDADE / CIDADANIA / PSDB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "LEONARDO ALMEIDA FLORES",
+      "nomeUrna": "LEONARDO FLORES",
+      "partido": "PSD",
+      "numero": "55611",
+      "votos": 780,
+      "percentual": 7.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002077460"
+    },
+    {
+      "nome": "LUCAS FLÁVIO ALVARENGA MARICONI",
+      "nomeUrna": "LUCAS DO CERRADO",
+      "partido": "PMB",
+      "numero": "35100",
+      "votos": 553,
+      "percentual": 5.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002272056"
+    },
+    {
+      "nome": "VINÍCIUS DE FIGUEIREDO BARRETO",
+      "nomeUrna": "VINÍCIUS",
+      "partido": "UNIÃO",
+      "numero": "44800",
+      "votos": 511,
+      "percentual": 4.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002077410"
+    },
+    {
+      "nome": "ANTÔNIO VALDERICO DE MORAIS",
+      "nomeUrna": "VALDERICO",
+      "partido": "PSD",
+      "numero": "55500",
+      "votos": 448,
+      "percentual": 4.2,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002077455"
+    },
+    {
+      "nome": "ALECSANDRO LOURENÇO DOS SANTOS",
+      "nomeUrna": "SANDRO DO SALÃO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 421,
+      "percentual": 3.94,
+      "situacao": "Eleito por média",
+      "sqcand": "130002077454"
+    },
+    {
+      "nome": "CARLOS EDUARDO DORNELAS SILVA",
+      "nomeUrna": "DUDU DO LAVA JATO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 388,
+      "percentual": 3.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002077404"
+    },
+    {
+      "nome": "ORLANDO JÚNIOR ALMEIDA FERREIRA DA CUNHA",
+      "nomeUrna": "ORLANDO JÚNIOR",
+      "partido": "PL",
+      "numero": "22800",
+      "votos": 370,
+      "percentual": 3.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002356005"
+    },
+    {
+      "nome": "JOCIVAN FLOR DE ANDRADE",
+      "nomeUrna": "SABINO DA MACEGA",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 343,
+      "percentual": 3.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002317909"
+    },
+    {
+      "nome": "SILVIO DE OLIVEIRA ALVES",
+      "nomeUrna": "SILVINHO PTC",
+      "partido": "AGIR",
+      "numero": "36123",
+      "votos": 298,
+      "percentual": 2.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002271807"
+    },
+    {
+      "nome": "EURÍPEDES JOEL DE OLIVEIRA",
+      "nomeUrna": "JOEL PINTOR KIKO",
+      "partido": "AGIR",
+      "numero": "36444",
+      "votos": 293,
+      "percentual": 2.74,
+      "situacao": "Eleito por média",
+      "sqcand": "130002271808"
+    },
+    {
+      "nome": "JIVAGO RIBEIRO DE MENEZES SILVA",
+      "nomeUrna": "JIVAGO MENEZES",
+      "partido": "UNIÃO",
+      "numero": "44500",
+      "votos": 276,
+      "percentual": 2.58,
+      "situacao": "Eleito por média",
+      "sqcand": "130002077411"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 4258,
+      "percentual": 50.35,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 2519,
+      "percentual": 29.79,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1574,
+      "percentual": 18.61,
+      "sqcand": "130001713762"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ VITOR DE RESENDE AGUIAR",
+      "nomeUrna": "ZÉ VITOR",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 2828,
+      "percentual": 32.19,
+      "sqcand": "130001610999"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 884,
+      "percentual": 10.06,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "WELITON FERNANDES PRADO",
+      "nomeUrna": "WELITON PRADO",
+      "partido": "PROS",
+      "numero": "9090",
+      "votos": 790,
+      "percentual": 8.99,
+      "sqcand": "130001607568"
+    },
+    {
+      "nome": "GREYCE DE QUEIROZ ELIAS",
+      "nomeUrna": "GREYCE ELIAS",
+      "partido": "AVANTE",
+      "numero": "7011",
+      "votos": 542,
+      "percentual": 6.17,
+      "sqcand": "130001603592"
+    },
+    {
+      "nome": "RAPHAEL RIOS DE OLIVEIRA",
+      "nomeUrna": "RAPHAEL RIOS",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 441,
+      "percentual": 5.02,
+      "sqcand": "130001613358"
+    },
+    {
+      "nome": "AELTON JOSE DE FREITAS",
+      "nomeUrna": "AELTON FREITAS",
+      "partido": "PP",
+      "numero": "1123",
+      "votos": 365,
+      "percentual": 4.15,
+      "sqcand": "130001615435"
+    },
+    {
+      "nome": "ANDRE LUIS GASPAR JANONES",
+      "nomeUrna": "ANDRÉ JANONES",
+      "partido": "AVANTE",
+      "numero": "7040",
+      "votos": 360,
+      "percentual": 4.1,
+      "sqcand": "130001608227"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOÃO BOSCO",
+      "nomeUrna": "BOSCO",
+      "partido": "CIDADANIA",
+      "numero": "23100",
+      "votos": 2061,
+      "percentual": 24.66,
+      "sqcand": "130001613319"
+    },
+    {
+      "nome": "HELI GERALDO DE ANDRADE",
+      "nomeUrna": "DELEGADO HELI GRILO",
+      "partido": "UNIÃO",
+      "numero": "44190",
+      "votos": 1740,
+      "percentual": 20.82,
+      "sqcand": "130001607702"
+    },
+    {
+      "nome": "MARIA CLARA MATOS MARRA",
+      "nomeUrna": "MARIA CLARA MARRA",
+      "partido": "DC",
+      "numero": "27100",
+      "votos": 641,
+      "percentual": 7.67,
+      "sqcand": "130001611596"
+    },
+    {
+      "nome": "ELISMAR FERNANDES PRADO",
+      "nomeUrna": "ELISMAR PRADO",
+      "partido": "PROS",
+      "numero": "90900",
+      "votos": 619,
+      "percentual": 7.41,
+      "sqcand": "130001607547"
+    },
+    {
+      "nome": "ARNALDO SILVA JÚNIOR",
+      "nomeUrna": "ARNALDO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 409,
+      "percentual": 4.89,
+      "sqcand": "130001607673"
+    },
+    {
+      "nome": "PATRICIA CARLA DE MELO",
+      "nomeUrna": "PATRÍCIA MELO",
+      "partido": "PT",
+      "numero": "13180",
+      "votos": 286,
+      "percentual": 3.42,
+      "sqcand": "130001607366"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 285,
+      "percentual": 3.41,
+      "sqcand": "130001619045"
+    }
+  ]
+}

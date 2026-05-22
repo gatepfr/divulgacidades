@@ -1,0 +1,271 @@
+{
+  "populacao": 10627,
+  "votosValidos": 8840,
+  "abstencao": 14.36,
+  "prefeito": {
+    "nome": "JOÃO FRANCISCO JONES FORTES BRAGA",
+    "nomeUrna": "JONES BRAGA",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 5384,
+    "percentual": 60.9,
+    "situacao": "Eleito",
+    "sqcand": "100002036780",
+    "vice": "SÂMARA CORRÊA SÁ",
+    "viceNomeUrna": "SÂMARA CORRÊA",
+    "partidoVice": "PSB",
+    "sqcandVice": "100002036781",
+    "coligacao": "PDT / MDB / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "ARISTONEIDE GARRETO",
+      "nomeUrna": "ARISTONEIDE",
+      "partido": "MDB",
+      "numero": "15800",
+      "votos": 1039,
+      "percentual": 11.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002338126"
+    },
+    {
+      "nome": "JULIANA CASSIA COSTA DE OLIVEIRA",
+      "nomeUrna": "JULIANA CUSTÓDIO",
+      "partido": "MDB",
+      "numero": "15223",
+      "votos": 902,
+      "percentual": 10.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002338131"
+    },
+    {
+      "nome": "WALFREDO CORREA FILHO",
+      "nomeUrna": "WALFREDO",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 675,
+      "percentual": 7.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002331402"
+    },
+    {
+      "nome": "THALYSON BERG DOS SANTOS BEZERRA",
+      "nomeUrna": "THALYSON BERG ",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 666,
+      "percentual": 7.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002088667"
+    },
+    {
+      "nome": "JOSE ERLAN RODRIGUES DE SOUSA",
+      "nomeUrna": "ERLAN",
+      "partido": "PDT",
+      "numero": "12111",
+      "votos": 582,
+      "percentual": 6.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002331398"
+    },
+    {
+      "nome": "ANTONIO TEIXEIRA COSTA GULART FILHO",
+      "nomeUrna": "TOTO",
+      "partido": "MDB",
+      "numero": "15147",
+      "votos": 525,
+      "percentual": 5.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002338135"
+    },
+    {
+      "nome": "JOSE LIMA",
+      "nomeUrna": "ZECA LIMA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 518,
+      "percentual": 5.78,
+      "situacao": "Eleito por média",
+      "sqcand": "100002338129"
+    },
+    {
+      "nome": "RAIMUNDO MARQUES FREITAS",
+      "nomeUrna": "JUNIOR",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 405,
+      "percentual": 4.52,
+      "situacao": "Eleito por média",
+      "sqcand": "100002088671"
+    },
+    {
+      "nome": "JOSEMAR VIEIRA",
+      "nomeUrna": "FOGOIÓ",
+      "partido": "PDT",
+      "numero": "12344",
+      "votos": 397,
+      "percentual": 4.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "100002331401"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "FLÁVIO DINO DE CASTRO E COSTA",
+      "nomeUrna": "FLÁVIO DINO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 5139,
+      "percentual": 75.46,
+      "sqcand": "100001607043"
+    },
+    {
+      "nome": "ROBERTO COELHO ROCHA",
+      "nomeUrna": "ROBERTO ROCHA",
+      "partido": "PTB",
+      "numero": "145",
+      "votos": 1614,
+      "percentual": 23.7,
+      "sqcand": "100001639640"
+    },
+    {
+      "nome": "MARIA ANTONIA TEIXEIRA DIAS",
+      "nomeUrna": "ANTONIA CARIONGO",
+      "partido": "PSOL",
+      "numero": "500",
+      "votos": 30,
+      "percentual": 0.44,
+      "sqcand": "100001713306"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HILDO AUGUSTO DA ROCHA NETO",
+      "nomeUrna": "HILDO ROCHA",
+      "partido": "MDB",
+      "numero": "1516",
+      "votos": 2756,
+      "percentual": 38.16,
+      "sqcand": "100001599078"
+    },
+    {
+      "nome": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+      "nomeUrna": "AMANDA GENTIL ",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 562,
+      "percentual": 7.78,
+      "sqcand": "100001608073"
+    },
+    {
+      "nome": "JOSÉ CARLOS NUNES JÚNIOR",
+      "nomeUrna": "ZÉ CARLOS",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 527,
+      "percentual": 7.3,
+      "sqcand": "100001613717"
+    },
+    {
+      "nome": "ANTONIO DA CRUZ FILGUEIRA NETO",
+      "nomeUrna": "MARRECA FILHO",
+      "partido": "PATRIOTA",
+      "numero": "5122",
+      "votos": 505,
+      "percentual": 6.99,
+      "sqcand": "100001608201"
+    },
+    {
+      "nome": "JOSIMAR CUNHA RODRIGUES",
+      "nomeUrna": "JOSIMAR MARANHÃOZINHO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 439,
+      "percentual": 6.08,
+      "sqcand": "100001603114"
+    },
+    {
+      "nome": "JOSÉ LOURENÇO BONFIM JÚNIOR",
+      "nomeUrna": "JÚNIOR LOURENÇO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 361,
+      "percentual": 5.0,
+      "sqcand": "100001603111"
+    },
+    {
+      "nome": "CLEBER VERDE CORDEIRO MENDES",
+      "nomeUrna": "CLEBER VERDE",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 265,
+      "percentual": 3.67,
+      "sqcand": "100001602015"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "IRACEMA CRISTINA VALE LIMA",
+      "nomeUrna": "IRACEMA VALE",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 2368,
+      "percentual": 34.98,
+      "sqcand": "100001607060"
+    },
+    {
+      "nome": "ALUIZIO DE SOUZA SANTOS",
+      "nomeUrna": "ALUIZIO SANTOS",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 834,
+      "percentual": 12.32,
+      "sqcand": "100001603187"
+    },
+    {
+      "nome": "EDNA SANTOS SILVA",
+      "nomeUrna": "EDNA SILVA",
+      "partido": "PATRIOTA",
+      "numero": "51222",
+      "votos": 756,
+      "percentual": 11.17,
+      "sqcand": "100001608109"
+    },
+    {
+      "nome": "LUIS HENRIQUE SILVA DE SOUSA",
+      "nomeUrna": "LUIZ HENRIQUE LULA",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 467,
+      "percentual": 6.9,
+      "sqcand": "100001613739"
+    },
+    {
+      "nome": "FRANCISCO NAGIB BUZAR DE OLIVEIRA",
+      "nomeUrna": "FRANCISCO NAGIB",
+      "partido": "PSB",
+      "numero": "40400",
+      "votos": 412,
+      "percentual": 6.09,
+      "sqcand": "100001607085"
+    },
+    {
+      "nome": "FABIO HENRIQUE RAMOS BRAGA",
+      "nomeUrna": "FABIO BRAGA",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 396,
+      "percentual": 5.85,
+      "sqcand": "100001608086"
+    },
+    {
+      "nome": "JESUINO CORDEIRO MENDES JUNIOR",
+      "nomeUrna": "JUNIOR VERDE ",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 232,
+      "percentual": 3.43,
+      "sqcand": "100001602646"
+    }
+  ]
+}

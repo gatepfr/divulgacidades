@@ -1,0 +1,291 @@
+{
+  "populacao": 19451,
+  "votosValidos": 15683,
+  "abstencao": 13.25,
+  "prefeito": {
+    "nome": "DIAMERSON COSTA CARDOSO DOURADO",
+    "nomeUrna": "DI CARDOSO",
+    "partido": "PRD",
+    "numero": "25",
+    "votos": 14050,
+    "percentual": 89.59,
+    "situacao": "Eleito",
+    "sqcand": "50002013153",
+    "vice": "CLÉVIA SANTIAGO SILVA CONCEIÇÃO",
+    "viceNomeUrna": "KEL DO RIACHO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "50002013154",
+    "coligacao": "PRD / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "ABIMAEL DOURADO LIMA JUNIOR",
+      "nomeUrna": "JUNINHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 1617,
+      "percentual": 9.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002092406"
+    },
+    {
+      "nome": "SAMUEL PESSOA DE BRITO",
+      "nomeUrna": "SAMUEL DA FLORESTA",
+      "partido": "UNIÃO",
+      "numero": "44321",
+      "votos": 1513,
+      "percentual": 9.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002084306"
+    },
+    {
+      "nome": "ANTONIO CALIXTO DA CONCEIÇÃO",
+      "nomeUrna": "TOINHO DO RIACHO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 1465,
+      "percentual": 8.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002084301"
+    },
+    {
+      "nome": "ROSANGELA CARDOSO DOURADO LOULA",
+      "nomeUrna": "ROSANGELA CARDOSO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 1314,
+      "percentual": 8.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002084300"
+    },
+    {
+      "nome": "MARCOS CARDOSO",
+      "nomeUrna": "MARCOS PARANÁ",
+      "partido": "PRD",
+      "numero": "25123",
+      "votos": 1073,
+      "percentual": 6.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002035220"
+    },
+    {
+      "nome": "ROBERIO DIAS DE SOUZA",
+      "nomeUrna": "BERO DA CEBOLA",
+      "partido": "PRD",
+      "numero": "25444",
+      "votos": 1066,
+      "percentual": 6.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002035223"
+    },
+    {
+      "nome": "VIVIANE VASCONCELOS CASTRO",
+      "nomeUrna": "VIVIANE DA GAMELEIRA",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 904,
+      "percentual": 5.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002084303"
+    },
+    {
+      "nome": "MATATIAS DA SILVA DOURADO NETO",
+      "nomeUrna": "NETÃO DO POVÃO",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 890,
+      "percentual": 5.44,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002084302"
+    },
+    {
+      "nome": "EDUARDO LOULA DOURADO",
+      "nomeUrna": "NEGÃO DE DEGO",
+      "partido": "PRD",
+      "numero": "25111",
+      "votos": 807,
+      "percentual": 4.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002035216"
+    },
+    {
+      "nome": "LAURENITA ALVES NUNES SILVA",
+      "nomeUrna": "NITA DO SINDICATO",
+      "partido": "PRD",
+      "numero": "25333",
+      "votos": 585,
+      "percentual": 3.58,
+      "situacao": "Eleito por média",
+      "sqcand": "50002035214"
+    },
+    {
+      "nome": "DORIAN ARAUJO CORREA BASTOS",
+      "nomeUrna": "DORIAN DO JACÓ",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 558,
+      "percentual": 3.41,
+      "situacao": "Eleito por média",
+      "sqcand": "50002084304"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 6322,
+      "percentual": 48.84,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 4847,
+      "percentual": 37.44,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1738,
+      "percentual": 13.43,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ELMAR JOSE VIEIRA NASCIMENTO",
+      "nomeUrna": "ELMAR NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 3876,
+      "percentual": 28.68,
+      "sqcand": "50001634583"
+    },
+    {
+      "nome": "DIEGO HENRIQUE SILVA CERQUEIRA MARTINS",
+      "nomeUrna": "DIEGO CORONEL",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 2097,
+      "percentual": 15.52,
+      "sqcand": "50001607221"
+    },
+    {
+      "nome": "JOÃO CARLOS PAOLILO BACELAR FILHO",
+      "nomeUrna": "JOÃO CARLOS BACELAR",
+      "partido": "PL",
+      "numero": "2288",
+      "votos": 1253,
+      "percentual": 9.27,
+      "sqcand": "50001609371"
+    },
+    {
+      "nome": "ALICE MAZZUCO PORTUGAL",
+      "nomeUrna": "ALICE PORTUGAL",
+      "partido": "PC do B",
+      "numero": "6522",
+      "votos": 964,
+      "percentual": 7.13,
+      "sqcand": "50001605368"
+    },
+    {
+      "nome": "AFONSO BANDEIRA FLORENCE",
+      "nomeUrna": "AFONSO FLORENCE",
+      "partido": "PT",
+      "numero": "1301",
+      "votos": 606,
+      "percentual": 4.48,
+      "sqcand": "50001605378"
+    },
+    {
+      "nome": "CLAUDIO CAJADO SAMPAIO",
+      "nomeUrna": "CLAUDIO CAJADO",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 533,
+      "percentual": 3.94,
+      "sqcand": "50001621019"
+    },
+    {
+      "nome": "ALDEN JOSÉ LÁZARO DA SILVA",
+      "nomeUrna": "CAPITÃO ALDEN",
+      "partido": "PL",
+      "numero": "2238",
+      "votos": 401,
+      "percentual": 2.97,
+      "sqcand": "50001609344"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSE CARLOS GOMES FERREIRA",
+      "nomeUrna": "ZE CARLOS DA CEBOLA",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 4302,
+      "percentual": 33.19,
+      "sqcand": "50001613909"
+    },
+    {
+      "nome": "JOSE RICARDO RODRIGUES BARBOSA",
+      "nomeUrna": "RICARDO RODRIGUES",
+      "partido": "PSD",
+      "numero": "55777",
+      "votos": 2424,
+      "percentual": 18.7,
+      "sqcand": "50001607297"
+    },
+    {
+      "nome": "EDICLEY SOUZA BARRETO",
+      "nomeUrna": "CAFU BARRETO",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 1237,
+      "percentual": 9.54,
+      "sqcand": "50001607305"
+    },
+    {
+      "nome": "NELSON SOUZA LEAL",
+      "nomeUrna": "NELSON LEAL",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 1130,
+      "percentual": 8.72,
+      "sqcand": "50001647023"
+    },
+    {
+      "nome": "FABIOLA MANSUR DE CARVALHO",
+      "nomeUrna": "DRA FABIOLA MANSUR",
+      "partido": "PSB",
+      "numero": "40040",
+      "votos": 975,
+      "percentual": 7.52,
+      "sqcand": "50001605970"
+    },
+    {
+      "nome": "RAIMUNDO NONATO TAVARES DA SILVA",
+      "nomeUrna": "BOBÔ",
+      "partido": "PC do B",
+      "numero": "65888",
+      "votos": 535,
+      "percentual": 4.13,
+      "sqcand": "50001606413"
+    },
+    {
+      "nome": "MARIO AUGUSTO DE ALMEIDA NETO",
+      "nomeUrna": "JACÓ",
+      "partido": "PT",
+      "numero": "13110",
+      "votos": 361,
+      "percentual": 2.79,
+      "sqcand": "50001606414"
+    }
+  ]
+}

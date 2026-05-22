@@ -1,0 +1,271 @@
+{
+  "populacao": 3306,
+  "votosValidos": 2973,
+  "abstencao": 8.74,
+  "prefeito": {
+    "nome": "ADRIANO TREINATTI",
+    "nomeUrna": "ADRIANO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 1630,
+    "percentual": 54.83,
+    "situacao": "Eleito",
+    "sqcand": "240002344809",
+    "vice": "VILBERTO MULLER SCHOVINDER",
+    "viceNomeUrna": "BETO",
+    "partidoVice": "PL",
+    "sqcandVice": "240002344808",
+    "coligacao": "PL"
+  },
+  "vereadores": [
+    {
+      "nome": "MAURICIO SOARES",
+      "nomeUrna": "MAURICIO SOARES",
+      "partido": "PP",
+      "numero": "11007",
+      "votos": 347,
+      "percentual": 11.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002066310"
+    },
+    {
+      "nome": "EDUARDA CRISTINA ERBS",
+      "nomeUrna": "EDUARDA ERBS",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 305,
+      "percentual": 10.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002346283"
+    },
+    {
+      "nome": "MARCELO TONET",
+      "nomeUrna": "MARCELO TONET",
+      "partido": "PL",
+      "numero": "22677",
+      "votos": 268,
+      "percentual": 9.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002346276"
+    },
+    {
+      "nome": "ROGÉRIO MUGGE",
+      "nomeUrna": "ROGÉRIO MUGGE",
+      "partido": "MDB",
+      "numero": "15020",
+      "votos": 189,
+      "percentual": 6.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002051069"
+    },
+    {
+      "nome": "DORIVAL SCHMOELLER",
+      "nomeUrna": "DORIVAL SCHMOELLER",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 136,
+      "percentual": 4.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002051061"
+    },
+    {
+      "nome": "CRISTIANE GUSTMANN",
+      "nomeUrna": "CRISTIANE",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 136,
+      "percentual": 4.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002066306"
+    },
+    {
+      "nome": "DEIVID JULIANO VALENTE FARIAS",
+      "nomeUrna": "DEIVID VALENTE",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 126,
+      "percentual": 4.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002346278"
+    },
+    {
+      "nome": "DARIO WOELCKER",
+      "nomeUrna": "DARIO WOELCKER",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 121,
+      "percentual": 4.11,
+      "situacao": "Eleito por média",
+      "sqcand": "240002051066"
+    },
+    {
+      "nome": "VALDECIR LEMOS",
+      "nomeUrna": "TIO VARDE",
+      "partido": "PL",
+      "numero": "22555",
+      "votos": 119,
+      "percentual": 4.04,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002346282"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1147,
+      "percentual": 48.25,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 526,
+      "percentual": 22.13,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 272,
+      "percentual": 11.44,
+      "sqcand": "240001620979"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "RAFAEL PEZENTI",
+      "nomeUrna": "RAFAEL PEZENTI",
+      "partido": "MDB",
+      "numero": "1510",
+      "votos": 867,
+      "percentual": 35.59,
+      "sqcand": "240001602681"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 400,
+      "percentual": 16.42,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nomeUrna": "JULIA ZANATTA",
+      "partido": "PL",
+      "numero": "2233",
+      "votos": 123,
+      "percentual": 5.05,
+      "sqcand": "240001610974"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 95,
+      "percentual": 3.9,
+      "sqcand": "240001611140"
+    },
+    {
+      "nome": "RICARDO ZANATTA GUIDI",
+      "nomeUrna": "RICARDO GUIDI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 87,
+      "percentual": 3.57,
+      "sqcand": "240001611144"
+    },
+    {
+      "nome": "NELSON TRENTINI",
+      "nomeUrna": "NELSON TRENTINI",
+      "partido": "PP",
+      "numero": "1128",
+      "votos": 78,
+      "percentual": 3.2,
+      "sqcand": "240001644877"
+    },
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 63,
+      "percentual": 2.59,
+      "sqcand": "240001611938"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "OSCAR GUTZ",
+      "nomeUrna": "OSCAR GUTZ",
+      "partido": "PL",
+      "numero": "22470",
+      "votos": 1022,
+      "percentual": 41.21,
+      "sqcand": "240001614346"
+    },
+    {
+      "nome": "JERRY EDSON COMPER",
+      "nomeUrna": "JERRY COMPER",
+      "partido": "MDB",
+      "numero": "15010",
+      "votos": 668,
+      "percentual": 26.94,
+      "sqcand": "240001605920"
+    },
+    {
+      "nome": "ANGELO SOLANO CATTONI",
+      "nomeUrna": "CATTONI",
+      "partido": "PP",
+      "numero": "11470",
+      "votos": 147,
+      "percentual": 5.93,
+      "sqcand": "240001644776"
+    },
+    {
+      "nome": "JOSÉ MILTON SCHEFFER",
+      "nomeUrna": "ZÉ MILTON",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 65,
+      "percentual": 2.62,
+      "sqcand": "240001644756"
+    },
+    {
+      "nome": "RODRIGO PREIS",
+      "nomeUrna": "RODRIGO PREIS",
+      "partido": "PT",
+      "numero": "13470",
+      "votos": 55,
+      "percentual": 2.22,
+      "sqcand": "240001679658"
+    },
+    {
+      "nome": "MAURICIO JOSE ESKUDLARK",
+      "nomeUrna": "MAURICIO ESKUDLARK",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 51,
+      "percentual": 2.06,
+      "sqcand": "240001614331"
+    },
+    {
+      "nome": "MARCOS SAVIO ZANELLA",
+      "nomeUrna": "MARCOS ZANELLA",
+      "partido": "NOVO",
+      "numero": "30050",
+      "votos": 44,
+      "percentual": 1.77,
+      "sqcand": "240001597554"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "populacao": 20865,
+  "votosValidos": 15328,
+  "abstencao": 22.47,
+  "prefeito": {
+    "nome": "LUCAS MACHADO RIBEIRO",
+    "nomeUrna": "LUCAS MACHADO",
+    "partido": "PODE",
+    "numero": "20",
+    "votos": 9341,
+    "percentual": 60.94,
+    "situacao": "Eleito",
+    "sqcand": "160001971678",
+    "vice": "ANA MARIA PACHALKI KASPRZK",
+    "viceNomeUrna": "ANA MARIA PACHALKI",
+    "partidoVice": "PSD",
+    "sqcandVice": "160001971677",
+    "coligacao": "PODE / PSD / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "ADRIELSON RODRIGUES DE LIMA",
+      "nomeUrna": "FIO DO RIO NOVO",
+      "partido": "MDB",
+      "numero": "15580",
+      "votos": 719,
+      "percentual": 4.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002202800"
+    },
+    {
+      "nome": "VALDINEI SEBASTIÃO DE SOUZA",
+      "nomeUrna": "VALDINEI SOUZA",
+      "partido": "PODE",
+      "numero": "20777",
+      "votos": 718,
+      "percentual": 4.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015438"
+    },
+    {
+      "nome": "FABIANO PILLATI",
+      "nomeUrna": "FABIANO PILLATI",
+      "partido": "UNIÃO",
+      "numero": "44450",
+      "votos": 589,
+      "percentual": 3.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002235916"
+    },
+    {
+      "nome": "BRUNO LEMES DA SILVA",
+      "nomeUrna": "BRUNO LEMES",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 571,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015440"
+    },
+    {
+      "nome": "FERNANDO HORNUNG",
+      "nomeUrna": "FERNANDO HORNUNG",
+      "partido": "UNIÃO",
+      "numero": "44601",
+      "votos": 563,
+      "percentual": 3.65,
+      "situacao": "Eleito por média",
+      "sqcand": "160002235923"
+    },
+    {
+      "nome": "ELEANDRO MARCOS SANTOS",
+      "nomeUrna": "ELEANDRO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 393,
+      "percentual": 2.55,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002052881"
+    },
+    {
+      "nome": "ADRIANO DA SILVA SANTOS",
+      "nomeUrna": "ADRIANO CHAMINÉZINHO",
+      "partido": "PODE",
+      "numero": "20456",
+      "votos": 389,
+      "percentual": 2.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015433"
+    },
+    {
+      "nome": "JOSÉ ROBERTO TAQUES SZEREMETA",
+      "nomeUrna": "ZÉ ROBERTO",
+      "partido": "PODE",
+      "numero": "20789",
+      "votos": 382,
+      "percentual": 2.47,
+      "situacao": "Eleito por média",
+      "sqcand": "160002015441"
+    },
+    {
+      "nome": "FERNANDO LUÍS CASTRO RIBAS BUENO",
+      "nomeUrna": "FERNANDO BUENO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 346,
+      "percentual": 2.24,
+      "situacao": "Eleito por média",
+      "sqcand": "160002052886"
+    },
+    {
+      "nome": "SIMAS BATISTA DE OLIVEIRA",
+      "nomeUrna": "SIMAS",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 323,
+      "percentual": 2.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002026366"
+    },
+    {
+      "nome": "JOVANA CIGOLINI DURANTE",
+      "nomeUrna": "JOVANA ENFERMEIRA",
+      "partido": "PSDB",
+      "numero": "45550",
+      "votos": 312,
+      "percentual": 2.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "160001949476"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 4534,
+      "percentual": 34.8,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 3942,
+      "percentual": 30.26,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2831,
+      "percentual": 21.73,
+      "sqcand": "160001621868"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 2993,
+      "percentual": 21.75,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1894,
+      "percentual": 13.76,
+      "sqcand": "160001622302"
+    },
+    {
+      "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "nomeUrna": "FELIPE FRANCISCHINI",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 1675,
+      "percentual": 12.17,
+      "sqcand": "160001654655"
+    },
+    {
+      "nome": "ALIEL MACHADO BARK",
+      "nomeUrna": "ALIEL MACHADO",
+      "partido": "PV",
+      "numero": "4343",
+      "votos": 1190,
+      "percentual": 8.65,
+      "sqcand": "160001614510"
+    },
+    {
+      "nome": "JOSELITO CANTO",
+      "nomeUrna": "JOCELITO CANTO",
+      "partido": "PSDB",
+      "numero": "4567",
+      "votos": 648,
+      "percentual": 4.71,
+      "sqcand": "160001603733"
+    },
+    {
+      "nome": "GERSON GOMES",
+      "nomeUrna": "GERSINHO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7778",
+      "votos": 572,
+      "percentual": 4.16,
+      "sqcand": "160001614452"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 499,
+      "percentual": 3.63,
+      "sqcand": "160001614512"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "EVANDRO JOSE DA CRUZ ARAUJO",
+      "nomeUrna": "EVANDRO ARAUJO",
+      "partido": "PSD",
+      "numero": "55120",
+      "votos": 2656,
+      "percentual": 20.52,
+      "sqcand": "160001623098"
+    },
+    {
+      "nome": "ALEXANDRE MARANHÃO KHURY",
+      "nomeUrna": "ALEXANDRE CURI",
+      "partido": "PSD",
+      "numero": "55128",
+      "votos": 1683,
+      "percentual": 13.0,
+      "sqcand": "160001623100"
+    },
+    {
+      "nome": "ANTONIO ANNIBELLI NETO",
+      "nomeUrna": "ANIBELLI NETO",
+      "partido": "MDB",
+      "numero": "15190",
+      "votos": 1622,
+      "percentual": 12.53,
+      "sqcand": "160001614823"
+    },
+    {
+      "nome": "RICARDO ALBERTUS ZAMPIERI",
+      "nomeUrna": "RICARDO ZAMPIERI",
+      "partido": "PTB",
+      "numero": "14222",
+      "votos": 837,
+      "percentual": 6.47,
+      "sqcand": "160001723062"
+    },
+    {
+      "nome": "MABEL CORÁ CANTO",
+      "nomeUrna": "MABEL CANTO",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 536,
+      "percentual": 4.14,
+      "sqcand": "160001612405"
+    },
+    {
+      "nome": "LUIS RAIMUNDO CORTI",
+      "nomeUrna": "LUIS CORTI",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 535,
+      "percentual": 4.13,
+      "sqcand": "160001621887"
+    },
+    {
+      "nome": "GILSON DE SOUZA",
+      "nomeUrna": "GILSON DE SOUZA",
+      "partido": "PL",
+      "numero": "22422",
+      "votos": 332,
+      "percentual": 2.57,
+      "sqcand": "160001654944"
+    }
+  ]
+}

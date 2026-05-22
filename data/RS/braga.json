@@ -1,0 +1,271 @@
+{
+  "populacao": 3005,
+  "votosValidos": 1863,
+  "abstencao": 15.07,
+  "prefeito": {
+    "nome": "SADI ENRIQUE DELLA LIBERA",
+    "nomeUrna": "SADI",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1863,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "210002032201",
+    "vice": "MARINÊS CHIELE BALESTRIN",
+    "viceNomeUrna": "MARINÊS",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002032202",
+    "coligacao": "MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "EVERALDO MANGINI",
+      "nomeUrna": "MANGINI",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 312,
+      "percentual": 12.72,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002033828"
+    },
+    {
+      "nome": "INEZ TERESINHA LORENZATTO DELLA LIBERA",
+      "nomeUrna": "INEZ",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 242,
+      "percentual": 9.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002374816"
+    },
+    {
+      "nome": "CARLOS ALBERTO LORENZZATTO",
+      "nomeUrna": "CARLOS LORENZZATTO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 230,
+      "percentual": 9.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002364158"
+    },
+    {
+      "nome": "BOLIVAR JOSE DELLA LIBERA",
+      "nomeUrna": "BOLIVAR",
+      "partido": "PP",
+      "numero": "11678",
+      "votos": 227,
+      "percentual": 9.26,
+      "situacao": "Eleito por média",
+      "sqcand": "210002364157"
+    },
+    {
+      "nome": "ADIMIR WERNER SCHMITT",
+      "nomeUrna": "SCHMITT",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 164,
+      "percentual": 6.69,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002033830"
+    },
+    {
+      "nome": "GENESIO BARTOLOMEU RENZ",
+      "nomeUrna": "GENESIO BARTOLOMEU RENZ",
+      "partido": "PT",
+      "numero": "13789",
+      "votos": 154,
+      "percentual": 6.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002001342"
+    },
+    {
+      "nome": "DORIVAL MATTOS DE MORAIS",
+      "nomeUrna": "BOLA",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 129,
+      "percentual": 5.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001946464"
+    },
+    {
+      "nome": "IVONE AMARAL DA SILVA",
+      "nomeUrna": "IVONE",
+      "partido": "MDB",
+      "numero": "15456",
+      "votos": 124,
+      "percentual": 5.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002033829"
+    },
+    {
+      "nome": "ORLANDO RICARDO TAVARES",
+      "nomeUrna": "ORLANDO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 123,
+      "percentual": 5.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002033833"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1071,
+      "percentual": 55.04,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 544,
+      "percentual": 27.95,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 305,
+      "percentual": 15.67,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GIOVANI BATISTA FELTES",
+      "nomeUrna": "GIOVANI FELTES",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 766,
+      "percentual": 36.1,
+      "sqcand": "210001647867"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 203,
+      "percentual": 9.57,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "OSMAR GASPARINI TERRA",
+      "nomeUrna": "OSMAR TERRA",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 194,
+      "percentual": 9.14,
+      "sqcand": "210001647859"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 160,
+      "percentual": 7.54,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 146,
+      "percentual": 6.88,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "ELVINO JOSÉ BOHN GASS",
+      "nomeUrna": "BOHN GASS",
+      "partido": "PT",
+      "numero": "1320",
+      "votos": 83,
+      "percentual": 3.91,
+      "sqcand": "210001604645"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 81,
+      "percentual": 3.82,
+      "sqcand": "210001596134"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GILBERTO CAPOANI",
+      "nomeUrna": "GILBERTO CAPOANI",
+      "partido": "MDB",
+      "numero": "15160",
+      "votos": 675,
+      "percentual": 33.32,
+      "sqcand": "210001647990"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 226,
+      "percentual": 11.15,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 177,
+      "percentual": 8.74,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 156,
+      "percentual": 7.7,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 108,
+      "percentual": 5.33,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "GILMAR SOSSELLA",
+      "nomeUrna": "SOSSELLA",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 106,
+      "percentual": 5.23,
+      "sqcand": "210001621287"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 85,
+      "percentual": 4.2,
+      "sqcand": "210001647177"
+    }
+  ]
+}

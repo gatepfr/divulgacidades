@@ -1,0 +1,271 @@
+{
+  "populacao": 3782,
+  "votosValidos": 3240,
+  "abstencao": 11.4,
+  "prefeito": {
+    "nome": "PAULO CEZAR MARANGON",
+    "nomeUrna": "PAULÃO",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 1741,
+    "percentual": 53.73,
+    "situacao": "Eleito",
+    "sqcand": "210002173410",
+    "vice": "ELIANA STEFANELLO FACCO",
+    "viceNomeUrna": "TUNI ELIANA STEFANELLO FACCO",
+    "partidoVice": "PP",
+    "sqcandVice": "210002173409",
+    "coligacao": "PP"
+  },
+  "vereadores": [
+    {
+      "nome": "PAULO RICARDO ROSSATO",
+      "nomeUrna": "PAULINHO ROSSATO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 341,
+      "percentual": 10.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002212295"
+    },
+    {
+      "nome": "ANA ELISA DE BORTOLI NOGUEIRA",
+      "nomeUrna": "PROFE NINA",
+      "partido": "PP",
+      "numero": "11666",
+      "votos": 289,
+      "percentual": 8.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002173247"
+    },
+    {
+      "nome": "WILLIAM DE MEDEIROS DA SILVA",
+      "nomeUrna": "WILLIAM",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 264,
+      "percentual": 8.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002173250"
+    },
+    {
+      "nome": "EVANDRO SOARES BATÚ",
+      "nomeUrna": "EVANDRO BATÚ BOZÓ",
+      "partido": "PP",
+      "numero": "11611",
+      "votos": 248,
+      "percentual": 7.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002173253"
+    },
+    {
+      "nome": "FABIO JUNIOR MARTINS",
+      "nomeUrna": "FABIO JUNIOR MARTINS",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 227,
+      "percentual": 6.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002212293"
+    },
+    {
+      "nome": "CLÉBER STEFANELLO FACCO",
+      "nomeUrna": "CLÉBER FACCO",
+      "partido": "PP",
+      "numero": "11699",
+      "votos": 215,
+      "percentual": 6.53,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002173252"
+    },
+    {
+      "nome": "EDUARDA DA SILVA SOARES",
+      "nomeUrna": "EDUARDA SOARES",
+      "partido": "REPUBLICANOS",
+      "numero": "10250",
+      "votos": 183,
+      "percentual": 5.56,
+      "situacao": "Eleito por média",
+      "sqcand": "210002212294"
+    },
+    {
+      "nome": "ERALDO ANDRADE LOPES",
+      "nomeUrna": "ERALDO LOPES",
+      "partido": "PP",
+      "numero": "11633",
+      "votos": 154,
+      "percentual": 4.68,
+      "situacao": "Eleito por média",
+      "sqcand": "210002173248"
+    },
+    {
+      "nome": "AILTO MARANGON",
+      "nomeUrna": "SOZA",
+      "partido": "PDT",
+      "numero": "12605",
+      "votos": 152,
+      "percentual": 4.62,
+      "situacao": "Eleito por média",
+      "sqcand": "210002010369"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1253,
+      "percentual": 45.27,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 994,
+      "percentual": 35.91,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 505,
+      "percentual": 18.24,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 858,
+      "percentual": 29.18,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 604,
+      "percentual": 20.54,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 171,
+      "percentual": 5.82,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 142,
+      "percentual": 4.83,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 134,
+      "percentual": 4.56,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 98,
+      "percentual": 3.33,
+      "sqcand": "210001646696"
+    },
+    {
+      "nome": "MARLON ARATOR SANTOS DA ROSA",
+      "nomeUrna": "MARLON SANTOS",
+      "partido": "PL",
+      "numero": "2234",
+      "votos": 83,
+      "percentual": 2.82,
+      "sqcand": "210001648574"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 856,
+      "percentual": 29.62,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "RAFAEL BRAGA LIBRELOTTO",
+      "nomeUrna": "RAFAEL BRAGA LIBRELOTTO",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 567,
+      "percentual": 19.62,
+      "sqcand": "210001648002"
+    },
+    {
+      "nome": "CLAIR TOMÉ KUHN",
+      "nomeUrna": "CLAIR KUHN",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 550,
+      "percentual": 19.03,
+      "sqcand": "210001647986"
+    },
+    {
+      "nome": "LUIZ FERNANDO MAINARDI",
+      "nomeUrna": "MAINARDI",
+      "partido": "PT",
+      "numero": "13555",
+      "votos": 75,
+      "percentual": 2.6,
+      "sqcand": "210001610629"
+    },
+    {
+      "nome": "REINALDO PEREIRA",
+      "nomeUrna": "REINALDO PEREIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "10380",
+      "votos": 57,
+      "percentual": 1.97,
+      "sqcand": "210001601634"
+    },
+    {
+      "nome": "ELIZANDRO SILVA DE FREITAS SABINO",
+      "nomeUrna": "ELIZANDRO SABINO",
+      "partido": "PTB",
+      "numero": "14777",
+      "votos": 52,
+      "percentual": 1.8,
+      "sqcand": "210001649774"
+    },
+    {
+      "nome": "ADOLFO JOSÉ BRITO",
+      "nomeUrna": "ADOLFO BRITO",
+      "partido": "PP",
+      "numero": "11240",
+      "votos": 48,
+      "percentual": 1.66,
+      "sqcand": "210001647147"
+    }
+  ]
+}

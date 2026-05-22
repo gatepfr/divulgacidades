@@ -1,0 +1,271 @@
+{
+  "populacao": 4379,
+  "votosValidos": 3724,
+  "abstencao": 12.65,
+  "prefeito": {
+    "nome": "IVORI ANTONIO GUASSO JUNIOR",
+    "nomeUrna": "IVORI JUNIOR",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 1927,
+    "percentual": 51.75,
+    "situacao": "Eleito",
+    "sqcand": "210002122337",
+    "vice": "ELTON ODIRLEI SPAGNOLO",
+    "viceNomeUrna": "ELTON SPAGNOLO",
+    "partidoVice": "MDB",
+    "sqcandVice": "210002122336",
+    "coligacao": "PDT / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "RODRIGO PIVOTO",
+      "nomeUrna": "DIGA",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 337,
+      "percentual": 9.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002225004"
+    },
+    {
+      "nome": "LUCIANE LUTZ BRUM",
+      "nomeUrna": "LUCIANE",
+      "partido": "PP",
+      "numero": "11666",
+      "votos": 249,
+      "percentual": 6.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002225011"
+    },
+    {
+      "nome": "MARILIA MARIANO BARTMANN",
+      "nomeUrna": "ENFERMEIRA MARÍLIA",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 237,
+      "percentual": 6.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002256345"
+    },
+    {
+      "nome": "ALCIONE ENGROFF SCHIMIDT",
+      "nomeUrna": "ALCIONE SCHIMIDT",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 233,
+      "percentual": 6.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002256343"
+    },
+    {
+      "nome": "ANTONIO VANDERLEI PIESZAK",
+      "nomeUrna": "VANDERLEI PIESZAK",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 204,
+      "percentual": 5.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002328435"
+    },
+    {
+      "nome": "JANAITA BUZATA COGO",
+      "nomeUrna": "JANA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 188,
+      "percentual": 5.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002225232"
+    },
+    {
+      "nome": "CARLOS RENATO BIASI DA ROSA",
+      "nomeUrna": "CARLOS BIASI",
+      "partido": "PDT",
+      "numero": "12123",
+      "votos": 181,
+      "percentual": 4.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002256346"
+    },
+    {
+      "nome": "MAGNO JULIARDI GABERT",
+      "nomeUrna": "MAGNO GABERTI",
+      "partido": "PL",
+      "numero": "22022",
+      "votos": 176,
+      "percentual": 4.73,
+      "situacao": "Eleito por média",
+      "sqcand": "210002328433"
+    },
+    {
+      "nome": "JOSE CARLOS SAGRILO",
+      "nomeUrna": "CARLINHOS SAGRILO",
+      "partido": "PDT",
+      "numero": "12555",
+      "votos": 169,
+      "percentual": 4.55,
+      "situacao": "Eleito por média",
+      "sqcand": "210002256351"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 1229,
+      "percentual": 43.5,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1081,
+      "percentual": 38.27,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 462,
+      "percentual": 16.35,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "AFONSO ANTUNES DA MOTTA",
+      "nomeUrna": "AFONSO MOTTA",
+      "partido": "PDT",
+      "numero": "1200",
+      "votos": 795,
+      "percentual": 25.66,
+      "sqcand": "210001621256"
+    },
+    {
+      "nome": "MARCOS BRUM PEIXOTO",
+      "nomeUrna": "MARCOS PEIXOTO",
+      "partido": "PP",
+      "numero": "1145",
+      "votos": 465,
+      "percentual": 15.01,
+      "sqcand": "210001646677"
+    },
+    {
+      "nome": "MARLON ARATOR SANTOS DA ROSA",
+      "nomeUrna": "MARLON SANTOS",
+      "partido": "PL",
+      "numero": "2234",
+      "votos": 267,
+      "percentual": 8.62,
+      "sqcand": "210001648574"
+    },
+    {
+      "nome": "MARCELO DE BRUM DA COSTA",
+      "nomeUrna": "MARCELO BRUM A VOZ DO  CAMPO",
+      "partido": "REPUBLICANOS",
+      "numero": "1055",
+      "votos": 262,
+      "percentual": 8.46,
+      "sqcand": "210001601611"
+    },
+    {
+      "nome": "PEDRO BANDARRA WESTPHALEN",
+      "nomeUrna": "PEDRO WESTPHALEN",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 261,
+      "percentual": 8.42,
+      "sqcand": "210001646683"
+    },
+    {
+      "nome": "MARCIO DELLA VALLE BIOLCHI",
+      "nomeUrna": "MARCIO BIOLCHI",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 156,
+      "percentual": 5.04,
+      "sqcand": "210001647870"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 118,
+      "percentual": 3.81,
+      "sqcand": "210001604668"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JULIO CESAR VIERO RUIVO",
+      "nomeUrna": "RUIVO",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 1104,
+      "percentual": 36.82,
+      "sqcand": "210001647158"
+    },
+    {
+      "nome": "TIAGO CADÓ FERNANDES",
+      "nomeUrna": "TIAGO CADÓ",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 668,
+      "percentual": 22.28,
+      "sqcand": "210001621308"
+    },
+    {
+      "nome": "ROBERTO FANTINEL",
+      "nomeUrna": "BETO FANTINEL",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 202,
+      "percentual": 6.74,
+      "sqcand": "210001648003"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 137,
+      "percentual": 4.57,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "ANTONIO VALDECI OLIVEIRA DE OLIVEIRA",
+      "nomeUrna": "VALDECI OLIVEIRA",
+      "partido": "PT",
+      "numero": "13713",
+      "votos": 119,
+      "percentual": 3.97,
+      "sqcand": "210001610599"
+    },
+    {
+      "nome": "NADINE TAGLIARI FARIAS ANFLOR",
+      "nomeUrna": " DELEGADA NADINE",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 114,
+      "percentual": 3.8,
+      "sqcand": "210001620207"
+    },
+    {
+      "nome": "MIGUEL CONSTANTINO ROSSO BIANCHINI",
+      "nomeUrna": "TENENTE BIANCHINI",
+      "partido": "PL",
+      "numero": "22666",
+      "votos": 112,
+      "percentual": 3.74,
+      "sqcand": "210001648952"
+    }
+  ]
+}

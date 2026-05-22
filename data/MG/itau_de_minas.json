@@ -1,0 +1,251 @@
+{
+  "populacao": 12450,
+  "votosValidos": 8894,
+  "abstencao": 23.57,
+  "prefeito": {
+    "nome": "NORIVAL FRANCISCO DE LIMA",
+    "nomeUrna": "NORIVAL LIMA",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 6089,
+    "percentual": 68.46,
+    "situacao": "Eleito",
+    "sqcand": "130001950721",
+    "vice": "MATHEUS VILELA SILVA",
+    "viceNomeUrna": "MATHEUS VILELA",
+    "partidoVice": "AVANTE",
+    "sqcandVice": "130001950722",
+    "coligacao": "PDT / AGIR / UNIÃO / AVANTE / SOLIDARIEDADE"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIA ELENA DE OLIVEIRA FARIA",
+      "nomeUrna": "MARIA ELENA ASSISTENTE SOCIAL",
+      "partido": "AGIR",
+      "numero": "36123",
+      "votos": 408,
+      "percentual": 4.57,
+      "situacao": "Eleito por média",
+      "sqcand": "130001951081"
+    },
+    {
+      "nome": "HELIEL CUSTÓDIO FRANCISCO",
+      "nomeUrna": "HELIEL SEGURANÇA DO BANCO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 330,
+      "percentual": 3.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001950602"
+    },
+    {
+      "nome": "FABIANO GOMES DE LIMA",
+      "nomeUrna": "FABIANO LIMA",
+      "partido": "AVANTE",
+      "numero": "70222",
+      "votos": 320,
+      "percentual": 3.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "130001950814"
+    },
+    {
+      "nome": "DYONATAN CAMILO COSTA",
+      "nomeUrna": "DYONATAN CAMILO ADVOGADO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 318,
+      "percentual": 3.56,
+      "situacao": "Eleito por média",
+      "sqcand": "130002345823"
+    },
+    {
+      "nome": "PATRICK APARECIDO GOULART CAMPOS",
+      "nomeUrna": "PATRIK TIKINHO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 298,
+      "percentual": 3.34,
+      "situacao": "Eleito por média",
+      "sqcand": "130001950605"
+    },
+    {
+      "nome": "RAYAN ALBERT AMORIM SILVEIRA",
+      "nomeUrna": "RAYAN SILVEIRA",
+      "partido": "AVANTE",
+      "numero": "70123",
+      "votos": 273,
+      "percentual": 3.06,
+      "situacao": "Eleito por média",
+      "sqcand": "130001950815"
+    },
+    {
+      "nome": "GEOVAN DOS SANTOS",
+      "nomeUrna": "GEOVAN MAGAIVER",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 260,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "130001950603"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 3919,
+      "percentual": 50.56,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1866,
+      "percentual": 24.07,
+      "sqcand": "130001644285"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1755,
+      "percentual": 22.64,
+      "sqcand": "130001713762"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "EMIDIO ALVES MADEIRA JUNIOR",
+      "nomeUrna": "EMIDINHO MADEIRA",
+      "partido": "PL",
+      "numero": "2240",
+      "votos": 1742,
+      "percentual": 21.63,
+      "sqcand": "130001611018"
+    },
+    {
+      "nome": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+      "nomeUrna": "DIEGO ANDRADE",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1514,
+      "percentual": 18.8,
+      "sqcand": "130001604337"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 998,
+      "percentual": 12.39,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "RENATO BARBOSA DE ANDRADE",
+      "nomeUrna": "RENATO ANDRADE",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 550,
+      "percentual": 6.83,
+      "sqcand": "130001604334"
+    },
+    {
+      "nome": "GREYCE DE QUEIROZ ELIAS",
+      "nomeUrna": "GREYCE ELIAS",
+      "partido": "AVANTE",
+      "numero": "7011",
+      "votos": 368,
+      "percentual": 4.57,
+      "sqcand": "130001603592"
+    },
+    {
+      "nome": "ODAIR JOSÉ DA CUNHA",
+      "nomeUrna": "ODAIR CUNHA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 291,
+      "percentual": 3.61,
+      "sqcand": "130001607254"
+    },
+    {
+      "nome": "HELVIO VIEIRA MAIA",
+      "nomeUrna": "HELVIO MAIA",
+      "partido": "PMN",
+      "numero": "3333",
+      "votos": 252,
+      "percentual": 3.13,
+      "sqcand": "130001606167"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ANTONIO CARLOS ARANTES",
+      "nomeUrna": "ANTONIO CARLOS ARANTES",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 2469,
+      "percentual": 31.14,
+      "sqcand": "130001619030"
+    },
+    {
+      "nome": "CASSIO ANTONIO FERREIRA SOARES",
+      "nomeUrna": "CASSIO SOARES",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1948,
+      "percentual": 24.57,
+      "sqcand": "130001604379"
+    },
+    {
+      "nome": "SEBASTIÃO CALIXTO FILHO",
+      "nomeUrna": "DR SEBASTIÃO",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 672,
+      "percentual": 8.48,
+      "sqcand": "130001619066"
+    },
+    {
+      "nome": "CRISTIANE MARIA DOS REIS SILVA",
+      "nomeUrna": "CRISTIANE REIS",
+      "partido": "NOVO",
+      "numero": "30077",
+      "votos": 607,
+      "percentual": 7.66,
+      "sqcand": "130001598583"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 275,
+      "percentual": 3.47,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "LUIZ ANTONIO DA SILVA",
+      "nomeUrna": "LUIZINHO",
+      "partido": "PT",
+      "numero": "13125",
+      "votos": 167,
+      "percentual": 2.11,
+      "sqcand": "130001607394"
+    },
+    {
+      "nome": "BEATRIZ DA SILVA CERQUEIRA",
+      "nomeUrna": "BEATRIZ CERQUEIRA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 128,
+      "percentual": 1.61,
+      "sqcand": "130001607392"
+    }
+  ]
+}

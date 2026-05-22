@@ -1,0 +1,291 @@
+{
+  "populacao": 18845,
+  "votosValidos": 12962,
+  "abstencao": 25.52,
+  "prefeito": {
+    "nome": "RODRIGO ALVES DE OLIVEIRA",
+    "nomeUrna": "RODRIGÃO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 8728,
+    "percentual": 67.34,
+    "situacao": "Eleito",
+    "sqcand": "130002207151",
+    "vice": "WALDEMAR GOMES DE OLIVEIRA FILHO",
+    "viceNomeUrna": "DR. MAZINHO",
+    "partidoVice": "PSDB",
+    "sqcandVice": "130002207150",
+    "coligacao": "MDB / PSB / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LEANDRO LOPES DE TOLEDO",
+      "nomeUrna": "LEANDRO DO JAGUARY",
+      "partido": "MDB",
+      "numero": "15600",
+      "votos": 595,
+      "percentual": 4.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002268452"
+    },
+    {
+      "nome": "EDIVALDO BATISTA MARQUES",
+      "nomeUrna": "EDIVALDO EIDI",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 573,
+      "percentual": 4.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002218875"
+    },
+    {
+      "nome": "SERGIO ONOFRE DE MORAES TERRA VARGAS JUNIOR",
+      "nomeUrna": "SERGINHO FISIOTERAPEUTA",
+      "partido": "MDB",
+      "numero": "15111",
+      "votos": 573,
+      "percentual": 4.37,
+      "situacao": "Eleito por média",
+      "sqcand": "130002268451"
+    },
+    {
+      "nome": "JOSE AILTON DOS SANTOS SOUSA",
+      "nomeUrna": "AILTON SOUSA",
+      "partido": "PSDB",
+      "numero": "45888",
+      "votos": 527,
+      "percentual": 4.02,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002268629"
+    },
+    {
+      "nome": "JOSE EDUARDO AVELINO",
+      "nomeUrna": "DÚ DE MONTE VERDE",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 521,
+      "percentual": 3.98,
+      "situacao": "Eleito por média",
+      "sqcand": "130002268627"
+    },
+    {
+      "nome": "SILVIO CRISTOVAM DE SOUZA",
+      "nomeUrna": "SILVINHO DA LOJA",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 464,
+      "percentual": 3.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002269016"
+    },
+    {
+      "nome": "SHIRLEY ANDRADE BRANDAO",
+      "nomeUrna": "SHIRLEY ENFERMEIRA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 417,
+      "percentual": 3.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "130002218870"
+    },
+    {
+      "nome": "REGINALDO ANTUNES DE OLIVEIRA",
+      "nomeUrna": "REGINALDO OLIVEIRA",
+      "partido": "PSD",
+      "numero": "55666",
+      "votos": 394,
+      "percentual": 3.01,
+      "situacao": "Eleito por média",
+      "sqcand": "130002218866"
+    },
+    {
+      "nome": "GILMAR PEREIRA",
+      "nomeUrna": "GILMAR PEREIRA",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 332,
+      "percentual": 2.53,
+      "situacao": "Eleito por média",
+      "sqcand": "130002117356"
+    },
+    {
+      "nome": "VALDIR DONIZETTI DA SILVEIRA",
+      "nomeUrna": "VALDIR DONIZETTI",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 287,
+      "percentual": 2.19,
+      "situacao": "Eleito por média",
+      "sqcand": "130002153865"
+    },
+    {
+      "nome": "RODRIGO MESSIAS MOTA PAES",
+      "nomeUrna": "RODRIGO MESSIAS",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 266,
+      "percentual": 2.03,
+      "situacao": "Eleito por média",
+      "sqcand": "130002268376"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CLEITON GONTIJO DE AZEVEDO",
+      "nomeUrna": "CLEITINHO",
+      "partido": "PSC",
+      "numero": "200",
+      "votos": 4641,
+      "percentual": 45.61,
+      "sqcand": "130001671677"
+    },
+    {
+      "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+      "nomeUrna": "ALEXANDRE SILVEIRA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 3333,
+      "percentual": 32.76,
+      "sqcand": "130001713762"
+    },
+    {
+      "nome": "MARCELO GUILHERME DE ARO FERREIRA",
+      "nomeUrna": "MARCELO ARO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 1863,
+      "percentual": 18.31,
+      "sqcand": "130001644285"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ODAIR JOSÉ DA CUNHA",
+      "nomeUrna": "ODAIR CUNHA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 2647,
+      "percentual": 24.11,
+      "sqcand": "130001607254"
+    },
+    {
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nomeUrna": "NIKOLAS FERREIRA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 1675,
+      "percentual": 15.26,
+      "sqcand": "130001611005"
+    },
+    {
+      "nome": "RAFAEL TADEU SIMÕES",
+      "nomeUrna": "RAFAEL SIMOES",
+      "partido": "UNIÃO",
+      "numero": "4445",
+      "votos": 1645,
+      "percentual": 14.98,
+      "sqcand": "130001607619"
+    },
+    {
+      "nome": "DIMAS FABIANO TOLEDO JUNIOR",
+      "nomeUrna": "DIMAS FABIANO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 654,
+      "percentual": 5.96,
+      "sqcand": "130001615433"
+    },
+    {
+      "nome": "GERALDO JUNIO DO AMARAL",
+      "nomeUrna": "JUNIO AMARAL",
+      "partido": "PL",
+      "numero": "2238",
+      "votos": 498,
+      "percentual": 4.54,
+      "sqcand": "130001610992"
+    },
+    {
+      "nome": "MÁRIO LÚCIO HERINGER",
+      "nomeUrna": "DR MÁRIO HERINGER",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 424,
+      "percentual": 3.86,
+      "sqcand": "130001606709"
+    },
+    {
+      "nome": "GILBERTO APARECIDO ABRAMO",
+      "nomeUrna": "GILBERTO ABRAMO",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 326,
+      "percentual": 2.97,
+      "sqcand": "130001619779"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ULYSSES GOMES DE OLIVEIRA NETO",
+      "nomeUrna": "ULYSSES GOMES",
+      "partido": "PT",
+      "numero": "13077",
+      "votos": 2950,
+      "percentual": 28.64,
+      "sqcand": "130001607390"
+    },
+    {
+      "nome": "PAULO VALDIR FERREIRA",
+      "nomeUrna": "DR. PAULO",
+      "partido": "PATRIOTA",
+      "numero": "51051",
+      "votos": 908,
+      "percentual": 8.81,
+      "sqcand": "130001596299"
+    },
+    {
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nomeUrna": "BRUNO ENGLER",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 862,
+      "percentual": 8.37,
+      "sqcand": "130001619045"
+    },
+    {
+      "nome": "ANTONIO CARLOS ARANTES",
+      "nomeUrna": "ANTONIO CARLOS ARANTES",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 751,
+      "percentual": 7.29,
+      "sqcand": "130001619030"
+    },
+    {
+      "nome": "ALBERTO PINTO COELHO NETO",
+      "nomeUrna": "BETINHO PINTO COELHO ALBERTO",
+      "partido": "PV",
+      "numero": "43111",
+      "votos": 620,
+      "percentual": 6.02,
+      "sqcand": "130001607407"
+    },
+    {
+      "nome": "DALMO ROBERTO RIBEIRO SILVA",
+      "nomeUrna": "DALMO RIBEIRO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 473,
+      "percentual": 4.59,
+      "sqcand": "130001613315"
+    },
+    {
+      "nome": "MARCELO HERINGER",
+      "nomeUrna": "DR MARCELO HERINGER",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 412,
+      "percentual": 4.0,
+      "sqcand": "130001606727"
+    }
+  ]
+}

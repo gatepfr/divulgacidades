@@ -1,0 +1,271 @@
+{
+  "populacao": 19461,
+  "votosValidos": 14648,
+  "abstencao": 20.88,
+  "prefeito": {
+    "nome": "LAZARO NOE DA SILVA",
+    "nomeUrna": "GINO DA FARMACIA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 9787,
+    "percentual": 66.81,
+    "situacao": "Eleito",
+    "sqcand": "250002158410",
+    "vice": "ANTONIO CARLOS CANDIDO",
+    "viceNomeUrna": "GORDINHO",
+    "partidoVice": "PP",
+    "sqcandVice": "250002158409",
+    "coligacao": "REPUBLICANOS / PP / UNIÃO / MDB / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "SIVALDO ELIAS",
+      "nomeUrna": "SIVALDO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 1053,
+      "percentual": 7.36,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002334025"
+    },
+    {
+      "nome": "WILLIAN JOSE BENTO",
+      "nomeUrna": "WILLIAN BENTO",
+      "partido": "PL",
+      "numero": "22300",
+      "votos": 968,
+      "percentual": 6.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002329421"
+    },
+    {
+      "nome": "CLAYTON ROBERT SANTOS BARROS",
+      "nomeUrna": "CLAYTON DO ESPETINHO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 955,
+      "percentual": 6.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002335827"
+    },
+    {
+      "nome": "LUIZ APARECIDO BASSO",
+      "nomeUrna": "LUIZ BASSO ",
+      "partido": "PL",
+      "numero": "22609",
+      "votos": 610,
+      "percentual": 4.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002329412"
+    },
+    {
+      "nome": "MARCOS GOMES DE OLIVEIRA",
+      "nomeUrna": "MARCOS DO GÁS",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 485,
+      "percentual": 3.39,
+      "situacao": "Eleito por média",
+      "sqcand": "250002329414"
+    },
+    {
+      "nome": "LUIZ GUILHERME PAIUTA MIRANDA",
+      "nomeUrna": "CASSAPINHA",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 455,
+      "percentual": 3.18,
+      "situacao": "Eleito por média",
+      "sqcand": "250002329418"
+    },
+    {
+      "nome": "WASHINGTON LUIZ PEREIRA",
+      "nomeUrna": "WASHINGTON DOS VASOS",
+      "partido": "PSDB",
+      "numero": "45277",
+      "votos": 446,
+      "percentual": 3.12,
+      "situacao": "Eleito por média",
+      "sqcand": "250002328634"
+    },
+    {
+      "nome": "JOSÉ SILVANIO DA SILVA LUCENA",
+      "nomeUrna": "PASTOR SILVANIO CEARÁ",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 387,
+      "percentual": 2.7,
+      "situacao": "Eleito por média",
+      "sqcand": "250002334029"
+    },
+    {
+      "nome": "REGINALDO PEREIRA DA SILVA",
+      "nomeUrna": "PALHAÇO TOTÓ",
+      "partido": "PODE",
+      "numero": "20222",
+      "votos": 333,
+      "percentual": 2.33,
+      "situacao": "Eleito por média",
+      "sqcand": "250001962378"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 8210,
+      "percentual": 66.42,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 3041,
+      "percentual": 24.6,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 586,
+      "percentual": 4.74,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GLALSON CHAMON DA SILVA",
+      "nomeUrna": "CHAMON",
+      "partido": "PSC",
+      "numero": "2031",
+      "votos": 3245,
+      "percentual": 24.56,
+      "sqcand": "250001643861"
+    },
+    {
+      "nome": "MIGUEL LOMBARDI",
+      "nomeUrna": "MIGUEL LOMBARDI",
+      "partido": "PL",
+      "numero": "2277",
+      "votos": 883,
+      "percentual": 6.68,
+      "sqcand": "250001611371"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 502,
+      "percentual": 3.8,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "JEFFERSON ALVES DE CAMPOS",
+      "nomeUrna": "JEFFERSON CAMPOS",
+      "partido": "PL",
+      "numero": "2274",
+      "votos": 452,
+      "percentual": 3.42,
+      "sqcand": "250001611329"
+    },
+    {
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "nomeUrna": "EDUARDO BOLSONARO",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 445,
+      "percentual": 3.37,
+      "sqcand": "250001611374"
+    },
+    {
+      "nome": "BRUNO MARCELLO DE OLIVEIRA LIMA",
+      "nomeUrna": "DELEGADO BRUNO LIMA",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 409,
+      "percentual": 3.09,
+      "sqcand": "250001611973"
+    },
+    {
+      "nome": "SAULO PEDROSO DE SOUZA",
+      "nomeUrna": "SAULO PEDROSO",
+      "partido": "PSD",
+      "numero": "5515",
+      "votos": 296,
+      "percentual": 2.24,
+      "sqcand": "250001604965"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "HELIO DONIZETE ZANATTA",
+      "nomeUrna": "HELINHO ZANATTA",
+      "partido": "PSC",
+      "numero": "20123",
+      "votos": 1419,
+      "percentual": 11.6,
+      "sqcand": "250001643762"
+    },
+    {
+      "nome": "JOSE ALDO DEMARCHI",
+      "nomeUrna": "ALDO DEMARCHI",
+      "partido": "UNIÃO",
+      "numero": "44122",
+      "votos": 1372,
+      "percentual": 11.22,
+      "sqcand": "250001602169"
+    },
+    {
+      "nome": "MARCOS ROBERTO DAMASIO DA SILVA",
+      "nomeUrna": "MARCOS DAMASIO",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 721,
+      "percentual": 5.9,
+      "sqcand": "250001610193"
+    },
+    {
+      "nome": "ALEXANDER MUNIZ DE OLIVEIRA",
+      "nomeUrna": "ALEX DE MADUREIRA",
+      "partido": "PL",
+      "numero": "22777",
+      "votos": 654,
+      "percentual": 5.35,
+      "sqcand": "250001610129"
+    },
+    {
+      "nome": "CARLOS CEZAR DA SILVA",
+      "nomeUrna": "CARLOS CEZAR",
+      "partido": "PL",
+      "numero": "22112",
+      "votos": 516,
+      "percentual": 4.22,
+      "sqcand": "250001610158"
+    },
+    {
+      "nome": "PAULO ALEXANDRE ZEMUNER MASCARO",
+      "nomeUrna": "PAULO ZEMUNER",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 411,
+      "percentual": 3.36,
+      "sqcand": "250001643672"
+    },
+    {
+      "nome": "MARIA DO CARMO GUILHERME",
+      "nomeUrna": "MARIA DO CARMO",
+      "partido": "MDB",
+      "numero": "15500",
+      "votos": 400,
+      "percentual": 3.27,
+      "sqcand": "250001609994"
+    }
+  ]
+}

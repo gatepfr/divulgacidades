@@ -1,0 +1,271 @@
+{
+  "populacao": 6523,
+  "votosValidos": 5492,
+  "abstencao": 12.77,
+  "prefeito": {
+    "nome": "CARLOS HENRIQUE PEREIRA BALBINO",
+    "nomeUrna": "HENRIQUE",
+    "partido": "PSDB",
+    "numero": "45",
+    "votos": 3232,
+    "percentual": 58.85,
+    "situacao": "Eleito",
+    "sqcand": "150002015204",
+    "vice": "DIEGO BALBINO MARTINS",
+    "viceNomeUrna": "DIEGO",
+    "partidoVice": "MDB",
+    "sqcandVice": "150002015203",
+    "coligacao": "PODE / CIDADANIA / PSDB / MDB"
+  },
+  "vereadores": [
+    {
+      "nome": "ALAN KLEBER ELEUTERIO DA SILVA",
+      "nomeUrna": "ALAN DE CIZINHO",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 492,
+      "percentual": 9.01,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002036351"
+    },
+    {
+      "nome": "JOSIVAN FERREIRA DA ROCHA",
+      "nomeUrna": "JOSIVAN DE ZÉ DE LITA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 392,
+      "percentual": 7.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002036287"
+    },
+    {
+      "nome": "CAMILLA BENJAMIM ALVES",
+      "nomeUrna": "CAMILLA BENJAMIN",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 300,
+      "percentual": 5.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002036289"
+    },
+    {
+      "nome": "MARIA APARECIDA DA SILVA OLIVEIRA SANTOS",
+      "nomeUrna": "CIDINHA DE DIMAS",
+      "partido": "REPUBLICANOS",
+      "numero": "10555",
+      "votos": 299,
+      "percentual": 5.47,
+      "situacao": "Eleito por média",
+      "sqcand": "150002036288"
+    },
+    {
+      "nome": "MARIA REJANE ALVES DA SILVA",
+      "nomeUrna": "GALEGA DO MERCADINHO",
+      "partido": "PODE",
+      "numero": "20555",
+      "votos": 250,
+      "percentual": 4.58,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002036347"
+    },
+    {
+      "nome": "JOSE RONALDO DE SOUZA",
+      "nomeUrna": "RONALDO DE ADILMA",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 249,
+      "percentual": 4.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002036198"
+    },
+    {
+      "nome": "CRISTINA ALVES BALBINO DE SALES",
+      "nomeUrna": "CRISTINA DE ADRIANO",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 240,
+      "percentual": 4.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002036196"
+    },
+    {
+      "nome": "JOSE VALMIR DE ARAUJO",
+      "nomeUrna": "IRMAO VALMIR",
+      "partido": "PSDB",
+      "numero": "45333",
+      "votos": 221,
+      "percentual": 4.05,
+      "situacao": "Eleito por média",
+      "sqcand": "150002036195"
+    },
+    {
+      "nome": "ANSELMO DA COSTA SOUZA",
+      "nomeUrna": "ANSELMO MOTOS",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 157,
+      "percentual": 2.87,
+      "situacao": "Eleito por QP",
+      "sqcand": "150002014888"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "YASNAIA POLLYANNA WERTON DUTRA",
+      "nomeUrna": "POLLYANNA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1386,
+      "percentual": 37.44,
+      "sqcand": "150001718470"
+    },
+    {
+      "nome": "EFRAIM DE ARAÚJO MORAIS FILHO",
+      "nomeUrna": "EFRAIM FILHO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 969,
+      "percentual": 26.18,
+      "sqcand": "150001621390"
+    },
+    {
+      "nome": "RICARDO VIEIRA COUTINHO",
+      "nomeUrna": "RICARDO COUTINHO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 909,
+      "percentual": 24.55,
+      "sqcand": "150001643372"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+      "nomeUrna": "MURILO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "1044",
+      "votos": 1402,
+      "percentual": 35.94,
+      "sqcand": "150001619544"
+    },
+    {
+      "nome": "LEONARDO DE MELO GADELHA",
+      "nomeUrna": "LÉO GADELHA",
+      "partido": "PSC",
+      "numero": "2020",
+      "votos": 821,
+      "percentual": 21.05,
+      "sqcand": "150001612080"
+    },
+    {
+      "nome": "ROMERO RODRIGUES VEIGA",
+      "nomeUrna": "ROMERO RODRIGUES",
+      "partido": "PSC",
+      "numero": "2011",
+      "votos": 283,
+      "percentual": 7.25,
+      "sqcand": "150001612086"
+    },
+    {
+      "nome": "GILBERTO GOMES DA SILVA",
+      "nomeUrna": "CABO GILBERTO SILVA",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 201,
+      "percentual": 5.15,
+      "sqcand": "150001718239"
+    },
+    {
+      "nome": "FRANCISCO EMERSON ASSIS DE LUCENA",
+      "nomeUrna": "MERSINHO LUCENA",
+      "partido": "PP",
+      "numero": "1144",
+      "votos": 196,
+      "percentual": 5.02,
+      "sqcand": "150001612074"
+    },
+    {
+      "nome": "LUIZ ALBUQUERQUE COUTO",
+      "nomeUrna": "LUIZ COUTO",
+      "partido": "PT",
+      "numero": "1312",
+      "votos": 113,
+      "percentual": 2.9,
+      "sqcand": "150001619538"
+    },
+    {
+      "nome": "ESTELIZABEL BEZERRA DE SOUZA",
+      "nomeUrna": "ESTELA BEZERRA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 83,
+      "percentual": 2.13,
+      "sqcand": "150001619530"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SILVIA FERNANDA AIRES BENJAMIN",
+      "nomeUrna": "SILVIA BENJAMIN",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 2389,
+      "percentual": 58.25,
+      "sqcand": "150001619562"
+    },
+    {
+      "nome": "FABIO RAMALHO DA SILVA",
+      "nomeUrna": "FABIO RAMALHO",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 1010,
+      "percentual": 24.63,
+      "sqcand": "150001621377"
+    },
+    {
+      "nome": "ANDERSON MONTEIRO COSTA",
+      "nomeUrna": "ANDERSON MONTEIRO",
+      "partido": "MDB",
+      "numero": "15147",
+      "votos": 229,
+      "percentual": 5.58,
+      "sqcand": "150001718105"
+    },
+    {
+      "nome": "ADRIANO CEZAR GALDINO DE ARAÚJO",
+      "nomeUrna": "ADRIANO GALDINO",
+      "partido": "REPUBLICANOS",
+      "numero": "10444",
+      "votos": 39,
+      "percentual": 0.95,
+      "sqcand": "150001619565"
+    },
+    {
+      "nome": "LUCIANO BRENO CHAVES PEREIRA",
+      "nomeUrna": "PASTOR LUCIANO BRENO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 30,
+      "percentual": 0.73,
+      "sqcand": "150001612062"
+    },
+    {
+      "nome": "JOSILENE MARIA DE OLIVEIRA",
+      "nomeUrna": "JÔ OLIVEIRA",
+      "partido": "PC do B",
+      "numero": "65000",
+      "votos": 26,
+      "percentual": 0.63,
+      "sqcand": "150001643189"
+    },
+    {
+      "nome": "MÁRIO CÉZAR DE SOUSA LIMA",
+      "nomeUrna": "IRMÃO CÉZAR",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77789",
+      "votos": 26,
+      "percentual": 0.63,
+      "sqcand": "150001620825"
+    }
+  ]
+}

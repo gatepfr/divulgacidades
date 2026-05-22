@@ -1,0 +1,351 @@
+{
+  "populacao": 59306,
+  "votosValidos": 46414,
+  "abstencao": 15.68,
+  "prefeito": {
+    "nome": "ANTONIO HENRIQUE CAMARA BEZERRA",
+    "nomeUrna": "ANTONIO HENRIQUE",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 32941,
+    "percentual": 70.97,
+    "situacao": "Eleito",
+    "sqcand": "200002123015",
+    "vice": "MARIA MARGARETH DA SILVA PEREIRA",
+    "viceNomeUrna": "PROFESSORA MARGARETH",
+    "partidoVice": "PSD",
+    "sqcandVice": "200002123016",
+    "coligacao": "PODE / PSD / PRTB / CIDADANIA / PSDB / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "CARLOS MAGNUS RIBEIRO FILHO",
+      "nomeUrna": "CARLOS FILHO",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 3129,
+      "percentual": 6.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002297055"
+    },
+    {
+      "nome": "CARLOS MAGNO DA ROCHA RAMALHO",
+      "nomeUrna": "CARLÃO RAMALHO",
+      "partido": "PSD",
+      "numero": "55999",
+      "votos": 2447,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002297054"
+    },
+    {
+      "nome": "RANDIERE RIBEIRO MARTINS",
+      "nomeUrna": "RANDINHO DE MASSARANDUBA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 2007,
+      "percentual": 4.17,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002297045"
+    },
+    {
+      "nome": "MARCONE DA SILVA BARBOSA",
+      "nomeUrna": "MARCONE BARBOSA",
+      "partido": "PSD",
+      "numero": "55105",
+      "votos": 1678,
+      "percentual": 3.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002297058"
+    },
+    {
+      "nome": "SUELI DE MORAIS COUTINHO",
+      "nomeUrna": "SUELI COUTINHO",
+      "partido": "PSD",
+      "numero": "55500",
+      "votos": 1556,
+      "percentual": 3.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002297047"
+    },
+    {
+      "nome": "ANA CARINA FREITAS SILVA DE FRANÇA",
+      "nomeUrna": "KARINA FREITAS",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 1460,
+      "percentual": 3.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002297044"
+    },
+    {
+      "nome": "ZÉLIA PEREIRA DOS SANTOS",
+      "nomeUrna": "ZÉLIA SANTOS",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 1368,
+      "percentual": 2.84,
+      "situacao": "Eleito por média",
+      "sqcand": "200002297051"
+    },
+    {
+      "nome": "MARCOS ANGELINO DE FARIAS",
+      "nomeUrna": "MARCOS FARIAS",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 1337,
+      "percentual": 2.78,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002298170"
+    },
+    {
+      "nome": "CARLOS RENER DO NASCIMENTO",
+      "nomeUrna": "PROFESSOR RENER",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 1297,
+      "percentual": 2.69,
+      "situacao": "Eleito por média",
+      "sqcand": "200002297056"
+    },
+    {
+      "nome": "CRISTINA SEVERO MARINHO",
+      "nomeUrna": "CRISTINA SEVERO MARINHO",
+      "partido": "CIDADANIA",
+      "numero": "23222",
+      "votos": 1105,
+      "percentual": 2.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002298165"
+    },
+    {
+      "nome": "FRANCISCO GERSON JUSTINO DA TRINDADE",
+      "nomeUrna": "GERSON DO MST",
+      "partido": "PSOL",
+      "numero": "50123",
+      "votos": 1086,
+      "percentual": 2.26,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002147413"
+    },
+    {
+      "nome": "HERIBERTO RIBEIRO PEREIRA",
+      "nomeUrna": "IRMÃO HERIBERTO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 1066,
+      "percentual": 2.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002275294"
+    },
+    {
+      "nome": "ERINEIDE GOMES NETA",
+      "nomeUrna": "PROFESSORA ERINEIDE",
+      "partido": "CIDADANIA",
+      "numero": "23789",
+      "votos": 1031,
+      "percentual": 2.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002298166"
+    },
+    {
+      "nome": "DIOMEDES VITAL NETO",
+      "nomeUrna": "DIOMEDES NETO",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 965,
+      "percentual": 2.01,
+      "situacao": "Eleito por média",
+      "sqcand": "200002298172"
+    },
+    {
+      "nome": "FRANCISCO CÂNDIDO FIRMIANO JÚNIOR",
+      "nomeUrna": "JÚNIOR QUILOMBOLA",
+      "partido": "PSOL",
+      "numero": "50222",
+      "votos": 761,
+      "percentual": 1.58,
+      "situacao": "Eleito por média",
+      "sqcand": "200002147416"
+    },
+    {
+      "nome": "LUZIVAM OLIVEIRA DE AQUINO",
+      "nomeUrna": "VANZINHO DA SAÚDE",
+      "partido": "PODE",
+      "numero": "20456",
+      "votos": 658,
+      "percentual": 1.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002296048"
+    },
+    {
+      "nome": "BRUNO CESAR CASTRO DE AQUINO",
+      "nomeUrna": "BRUNO CÉSAR",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 593,
+      "percentual": 1.23,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002299132"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 16675,
+      "percentual": 44.18,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 16060,
+      "percentual": 42.55,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 4383,
+      "percentual": 11.61,
+      "sqcand": "200001612334"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ROBINSON MESQUITA DE FARIA",
+      "nomeUrna": "ROBINSON FARIA",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 12087,
+      "percentual": 30.65,
+      "sqcand": "200001603001"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 4736,
+      "percentual": 12.01,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "KELPS DE OLIVEIRA LIMA",
+      "nomeUrna": "KELPS",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7777",
+      "votos": 3891,
+      "percentual": 9.87,
+      "sqcand": "200001601303"
+    },
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 2961,
+      "percentual": 7.51,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "FERNANDO WANDERLEY VARGAS DA SILVA",
+      "nomeUrna": "MINEIRO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 2597,
+      "percentual": 6.59,
+      "sqcand": "200001603645"
+    },
+    {
+      "nome": "EVANDRO GONÇALVES DA SILVA JUNIOR",
+      "nomeUrna": "SARGENTO GONÇALVES",
+      "partido": "PL",
+      "numero": "2238",
+      "votos": 1971,
+      "percentual": 5.0,
+      "sqcand": "200001602999"
+    },
+    {
+      "nome": "SAMANDA ALVES DE FREITAS",
+      "nomeUrna": "SAMANDA ",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 1003,
+      "percentual": 2.54,
+      "sqcand": "200001603649"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ DIAS DE SOUZA MARTINS",
+      "nomeUrna": "JOSÉ DIAS",
+      "partido": "PSDB",
+      "numero": "45555",
+      "votos": 12869,
+      "percentual": 32.65,
+      "sqcand": "200001605999"
+    },
+    {
+      "nome": "LUIS EDUARDO BENTO DA SILVA",
+      "nomeUrna": "LUIZ EDUARDO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77123",
+      "votos": 4388,
+      "percentual": 11.13,
+      "sqcand": "200001604192"
+    },
+    {
+      "nome": "WENDEL FAGNER CORTEZ DE ALMEIDA",
+      "nomeUrna": "WENDEL LAGARTIXA",
+      "partido": "PL",
+      "numero": "22762",
+      "votos": 3016,
+      "percentual": 7.65,
+      "sqcand": "200001604709"
+    },
+    {
+      "nome": "ROSANO TAVEIRA DA CUNHA JUNIOR",
+      "nomeUrna": "TAVEIRA JR",
+      "partido": "UNIÃO",
+      "numero": "44100",
+      "votos": 2590,
+      "percentual": 6.57,
+      "sqcand": "200001652912"
+    },
+    {
+      "nome": "MARIA DIVANEIDE BASÍLIO",
+      "nomeUrna": "DIVANEIDE",
+      "partido": "PT",
+      "numero": "13613",
+      "votos": 1817,
+      "percentual": 4.61,
+      "sqcand": "200001603631"
+    },
+    {
+      "nome": "EUDIANE JANAINA DE MACEDO SILVA",
+      "nomeUrna": "EUDIANE MACEDO",
+      "partido": "PV",
+      "numero": "43666",
+      "votos": 1293,
+      "percentual": 3.28,
+      "sqcand": "200001603634"
+    },
+    {
+      "nome": "MARIA ISOLDA DANTAS DE MOURA",
+      "nomeUrna": "ISOLDA DANTAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 928,
+      "percentual": 2.35,
+      "sqcand": "200001603626"
+    }
+  ]
+}

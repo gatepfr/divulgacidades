@@ -1,0 +1,271 @@
+{
+  "populacao": 4175,
+  "votosValidos": 3368,
+  "abstencao": 16.96,
+  "prefeito": {
+    "nome": "ANTONIO  FERREIRA DE OLIVEIRA NETO",
+    "nomeUrna": "TONINHO TIJOLINHO",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 2118,
+    "percentual": 62.89,
+    "situacao": "Eleito",
+    "sqcand": "110002245557",
+    "vice": "DOUGLAS AZILIERO",
+    "viceNomeUrna": "DOUGLAS DA RODOVIÁRIA ",
+    "partidoVice": "REPUBLICANOS",
+    "sqcandVice": "110002245558",
+    "coligacao": "REPUBLICANOS / MDB / PSB / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ANA PAULA TOMIM DA SILVA",
+      "nomeUrna": "PAULA DA SAÚDE",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 247,
+      "percentual": 7.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002245550"
+    },
+    {
+      "nome": "MARCELO MESQUITA",
+      "nomeUrna": "MARCELO DO HOSPITAL",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 205,
+      "percentual": 6.03,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002246283"
+    },
+    {
+      "nome": "THIAGO BONFIM MATHIAS",
+      "nomeUrna": "THIAGO DA CASA DE PESCA",
+      "partido": "REPUBLICANOS",
+      "numero": "10789",
+      "votos": 178,
+      "percentual": 5.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002246039"
+    },
+    {
+      "nome": "VINICIUS BIOTTO",
+      "nomeUrna": "VINNY BIOTTO",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 167,
+      "percentual": 4.91,
+      "situacao": "Eleito por média",
+      "sqcand": "110002119868"
+    },
+    {
+      "nome": "VALDIR MATHIAS",
+      "nomeUrna": "BARBERINHO",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 167,
+      "percentual": 4.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002246278"
+    },
+    {
+      "nome": "PAULO SERGIO LOPES DA SILVA",
+      "nomeUrna": "PAULO MECÂNICO",
+      "partido": "MDB",
+      "numero": "15333",
+      "votos": 152,
+      "percentual": 4.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002245761"
+    },
+    {
+      "nome": "ALESON LUIZ NOTARI",
+      "nomeUrna": "ALI BROW",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 145,
+      "percentual": 4.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002126131"
+    },
+    {
+      "nome": "GILCIMAR DA SILVA",
+      "nomeUrna": "NEGO DO ESPORTE",
+      "partido": "PSB",
+      "numero": "40321",
+      "votos": 141,
+      "percentual": 4.15,
+      "situacao": "Eleito por média",
+      "sqcand": "110002245555"
+    },
+    {
+      "nome": "NARCIZIO RIBEIRO DA COSTA",
+      "nomeUrna": "NARCIZIO",
+      "partido": "PL",
+      "numero": "22234",
+      "votos": 120,
+      "percentual": 3.53,
+      "situacao": "Eleito por média",
+      "sqcand": "110002126126"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1487,
+      "percentual": 63.17,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 527,
+      "percentual": 22.39,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "JORGE YOSHIAKI YANAI",
+      "nomeUrna": "DR. JORGE YANAI",
+      "partido": "DC",
+      "numero": "270",
+      "votos": 242,
+      "percentual": 10.28,
+      "sqcand": "110001643563"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ANA FLÁVIA RODRIGUES RAMIRO",
+      "nomeUrna": "FLAVINHA",
+      "partido": "MDB",
+      "numero": "1521",
+      "votos": 626,
+      "percentual": 23.25,
+      "sqcand": "110001623296"
+    },
+    {
+      "nome": "JUAREZ ALVES DA COSTA",
+      "nomeUrna": "JUAREZ COSTA",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 591,
+      "percentual": 21.95,
+      "sqcand": "110001623293"
+    },
+    {
+      "nome": "FÁBIO PAULINO GARCIA",
+      "nomeUrna": "FÁBIO GARCIA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 198,
+      "percentual": 7.36,
+      "sqcand": "110001612770"
+    },
+    {
+      "nome": "NELSON NED PREVIDENTE",
+      "nomeUrna": "NELSON BARBUDO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 178,
+      "percentual": 6.61,
+      "sqcand": "110001612759"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 167,
+      "percentual": 6.2,
+      "sqcand": "110001675052"
+    },
+    {
+      "nome": "JOÃO PINTO",
+      "nomeUrna": "JOÃO PINTO",
+      "partido": "DC",
+      "numero": "2700",
+      "votos": 95,
+      "percentual": 3.53,
+      "sqcand": "110001728130"
+    },
+    {
+      "nome": "ULYSSES LACERDA MORAES",
+      "nomeUrna": "ULYSSES MORAES",
+      "partido": "PTB",
+      "numero": "1412",
+      "votos": 83,
+      "percentual": 3.08,
+      "sqcand": "110001618206"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JANAÍNA GREYCE RIVA FAGUNDES",
+      "nomeUrna": "JANAÍNA RIVA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 665,
+      "percentual": 25.8,
+      "sqcand": "110001623186"
+    },
+    {
+      "nome": "DILMAR DAL BOSCO",
+      "nomeUrna": "DILMAR DAL BOSCO",
+      "partido": "UNIÃO",
+      "numero": "44125",
+      "votos": 311,
+      "percentual": 12.06,
+      "sqcand": "110001612944"
+    },
+    {
+      "nome": "ALBERTO MACHADO",
+      "nomeUrna": "BETO DOIS A UM",
+      "partido": "PSB",
+      "numero": "40321",
+      "votos": 275,
+      "percentual": 10.67,
+      "sqcand": "110001604930"
+    },
+    {
+      "nome": "VALTER MIOTTO FERREIRA",
+      "nomeUrna": "VALTINHO MIOTTO",
+      "partido": "MDB",
+      "numero": "15150",
+      "votos": 127,
+      "percentual": 4.93,
+      "sqcand": "110001623187"
+    },
+    {
+      "nome": "SERGIO RIBEIRO ARAUJO",
+      "nomeUrna": "DELEGADO DR SERGIO",
+      "partido": "PP",
+      "numero": "11123",
+      "votos": 109,
+      "percentual": 4.23,
+      "sqcand": "110001621194"
+    },
+    {
+      "nome": "VALDIR MENDES BARRANCO",
+      "nomeUrna": "VALDIR BARRANCO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 103,
+      "percentual": 4.0,
+      "sqcand": "110001719771"
+    },
+    {
+      "nome": "SEBASTIÃO MACHADO REZENDE",
+      "nomeUrna": "ENG. SEBASTIÃO MACHADO REZENDE",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 102,
+      "percentual": 3.96,
+      "sqcand": "110001612939"
+    }
+  ]
+}

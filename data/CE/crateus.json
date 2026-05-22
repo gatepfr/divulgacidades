@@ -1,0 +1,331 @@
+{
+  "populacao": 60000,
+  "votosValidos": 47932,
+  "abstencao": 15.86,
+  "prefeito": {
+    "nome": "JANAINA CARLA FARIAS",
+    "nomeUrna": "JANAINA FARIAS",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 26055,
+    "percentual": 54.36,
+    "situacao": "Eleito",
+    "sqcand": "60002153816",
+    "vice": "FRANCISCO JOSE BEZERRA",
+    "viceNomeUrna": "DR  NENZE",
+    "partidoVice": "PSB",
+    "sqcandVice": "60002153815",
+    "coligacao": "REPUBLICANOS / PP / MDB / PODE / PRD / PSD / SOLIDARIEDADE / PC do B / PT / PV / PSB / UNIÃO"
+  },
+  "vereadores": [
+    {
+      "nome": "ADAO KENES RODRIGUES BRAZ",
+      "nomeUrna": "ADAO KENES",
+      "partido": "PSB",
+      "numero": "40630",
+      "votos": 2467,
+      "percentual": 5.06,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002153553"
+    },
+    {
+      "nome": "ANTONIO LUIZ LOPES MOURÃO JUNIOR",
+      "nomeUrna": "ANTONIO LUIZ JÚNIOR",
+      "partido": "PRD",
+      "numero": "25630",
+      "votos": 2406,
+      "percentual": 4.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002256393"
+    },
+    {
+      "nome": "TALES BONFIM CLAUDINO SALES",
+      "nomeUrna": "TALES BONFIM SALES",
+      "partido": "PV",
+      "numero": "43555",
+      "votos": 2124,
+      "percentual": 4.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002154041"
+    },
+    {
+      "nome": "FRANCISCO DEUSIMAR FERREIRA DA PONTE",
+      "nomeUrna": "DEUSIMAR DA PONTE",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 2082,
+      "percentual": 4.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002256445"
+    },
+    {
+      "nome": "JOAQUIM CEZAR DE AZEVEDO",
+      "nomeUrna": "JOAQUINZINHO AZEVEDO",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 1999,
+      "percentual": 4.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002256439"
+    },
+    {
+      "nome": "ANDREZZA MARIA ALMEIDA MELO DA MAIA",
+      "nomeUrna": "ANDREZZA GOMES",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 1832,
+      "percentual": 3.75,
+      "situacao": "Eleito por média",
+      "sqcand": "60002256447"
+    },
+    {
+      "nome": "VIVIANNY PEDROSA DE BRITO CARNEIRO",
+      "nomeUrna": "VIVIANNY PEDROSA",
+      "partido": "PSB",
+      "numero": "40444",
+      "votos": 1794,
+      "percentual": 3.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002153557"
+    },
+    {
+      "nome": "JOÃO DE DEUS FERREIRA",
+      "nomeUrna": "JOÃO DE DEUS",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 1617,
+      "percentual": 3.31,
+      "situacao": "Eleito por média",
+      "sqcand": "60002256392"
+    },
+    {
+      "nome": "PEDRO FERREIRA DE OLIVEIRA NETO",
+      "nomeUrna": "PEDRO NETO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1520,
+      "percentual": 3.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002154052"
+    },
+    {
+      "nome": "EDIVALDO COSTA DOS SANTOS",
+      "nomeUrna": "EDIVALDO COSTA",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 1512,
+      "percentual": 3.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002154049"
+    },
+    {
+      "nome": "JOÃO PAULO DANTAS DE ARAÚJO",
+      "nomeUrna": "JOÃO PAULO DANTAS",
+      "partido": "PDT",
+      "numero": "12333",
+      "votos": 1465,
+      "percentual": 3.0,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002253289"
+    },
+    {
+      "nome": "GABRIEL SOARES EVANGELISTA",
+      "nomeUrna": "GABRIEL EVANGELISTA",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 1410,
+      "percentual": 2.89,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002349237"
+    },
+    {
+      "nome": "MARIA AMELIA GONÇALVES DE SOUSA",
+      "nomeUrna": "PROFESSORA AMÉLIA",
+      "partido": "PC do B",
+      "numero": "65100",
+      "votos": 1354,
+      "percentual": 2.78,
+      "situacao": "Eleito por média",
+      "sqcand": "60002154048"
+    },
+    {
+      "nome": "WASHINGTON SOARES MACHADO",
+      "nomeUrna": "WASHINGTON MACHADO",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 1205,
+      "percentual": 2.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "60002153673"
+    },
+    {
+      "nome": "ESTEFANIO LOPES NETO",
+      "nomeUrna": "ESTEFANIO NETO",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 1159,
+      "percentual": 2.38,
+      "situacao": "Eleito por média",
+      "sqcand": "60002153679"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CAMILO SOBREIRA DE SANTANA",
+      "nomeUrna": "CAMILO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 35748,
+      "percentual": 86.77,
+      "sqcand": "60001633582"
+    },
+    {
+      "nome": "KAMILA CARDOSO DE SOUZA RIBEIRO",
+      "nomeUrna": "KAMILA CARDOSO",
+      "partido": "AVANTE",
+      "numero": "700",
+      "votos": 4976,
+      "percentual": 12.08,
+      "sqcand": "60001633970"
+    },
+    {
+      "nome": "ERIKA GONÇALVES AMORIM",
+      "nomeUrna": "ERIKA AMORIM",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 473,
+      "percentual": 1.15,
+      "sqcand": "60001731829"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MATHEUS SOARES NORONHA",
+      "nomeUrna": "MATHEUS NORONHA",
+      "partido": "PL",
+      "numero": "2299",
+      "votos": 8810,
+      "percentual": 21.44,
+      "sqcand": "60001614168"
+    },
+    {
+      "nome": "ANTONIO LUIZ RODRIGUES MANO JUNIOR",
+      "nomeUrna": "JÚNIOR MANO",
+      "partido": "PL",
+      "numero": "2255",
+      "votos": 8241,
+      "percentual": 20.06,
+      "sqcand": "60001614151"
+    },
+    {
+      "nome": "EUNÍCIO LOPES DE OLIVEIRA",
+      "nomeUrna": "EUNÍCIO",
+      "partido": "MDB",
+      "numero": "1533",
+      "votos": 2857,
+      "percentual": 6.95,
+      "sqcand": "60001643110"
+    },
+    {
+      "nome": "ANDRÉ PEIXOTO FIGUEIREDO LIMA",
+      "nomeUrna": "ANDRÉ FIGUEIREDO",
+      "partido": "PDT",
+      "numero": "1234",
+      "votos": 2519,
+      "percentual": 6.13,
+      "sqcand": "60001603484"
+    },
+    {
+      "nome": "DOMINGOS GOMES DE AGUIAR NETO",
+      "nomeUrna": "DOMINGOS NETO",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 1739,
+      "percentual": 4.23,
+      "sqcand": "60001601183"
+    },
+    {
+      "nome": "DENIS ANDERSON DA ROCHA BEZERRA",
+      "nomeUrna": "DENIS BEZERRA",
+      "partido": "PSB",
+      "numero": "4000",
+      "votos": 1712,
+      "percentual": 4.17,
+      "sqcand": "60001603454"
+    },
+    {
+      "nome": "MOSES HAENDEL MELO RODRIGUES",
+      "nomeUrna": "MOSES RODRIGUES",
+      "partido": "UNIÃO",
+      "numero": "4488",
+      "votos": 1699,
+      "percentual": 4.14,
+      "sqcand": "60001608894"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "FRANCISCO JOSE QUEIROZ MAIA FILHO",
+      "nomeUrna": "QUEIROZ FILHO",
+      "partido": "PDT",
+      "numero": "12300",
+      "votos": 9998,
+      "percentual": 25.83,
+      "sqcand": "60001603536"
+    },
+    {
+      "nome": "JOSÉ JEOVÁ SOUTO MOTA",
+      "nomeUrna": "JEOVÁ MOTA",
+      "partido": "PDT",
+      "numero": "12444",
+      "votos": 6202,
+      "percentual": 16.02,
+      "sqcand": "60001603522"
+    },
+    {
+      "nome": "WALTER LIMA FROTA CAVALCANTE",
+      "nomeUrna": "WALTER CAVALCANTE",
+      "partido": "PV",
+      "numero": "43640",
+      "votos": 3421,
+      "percentual": 8.84,
+      "sqcand": "60001633641"
+    },
+    {
+      "nome": "AUDIC CAVALCANTE MOTA DIAS",
+      "nomeUrna": "AUDIC MOTA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 3385,
+      "percentual": 8.75,
+      "sqcand": "60001635804"
+    },
+    {
+      "nome": "BRUNO TORQUATO PEDROSA",
+      "nomeUrna": "BRUNO PEDROSA",
+      "partido": "PDT",
+      "numero": "12999",
+      "votos": 2051,
+      "percentual": 5.3,
+      "sqcand": "60001603532"
+    },
+    {
+      "nome": "MANOEL MISSIAS BEZERRA",
+      "nomeUrna": "MISSIAS DO MST",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 1579,
+      "percentual": 4.08,
+      "sqcand": "60001633648"
+    },
+    {
+      "nome": "FRANCISCO JOSÉ DE SOUSA CRONEMBERGES",
+      "nomeUrna": "SARGENTO BERG",
+      "partido": "UNIÃO",
+      "numero": "44700",
+      "votos": 1117,
+      "percentual": 2.89,
+      "sqcand": "60001608936"
+    }
+  ]
+}

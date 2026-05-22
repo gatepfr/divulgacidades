@@ -1,0 +1,271 @@
+{
+  "populacao": 10458,
+  "votosValidos": 7734,
+  "abstencao": 23.21,
+  "prefeito": {
+    "nome": "JOÃO FRANCISCO SILVA FEIJO",
+    "nomeUrna": "JOÃO FRANCISCO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 3577,
+    "percentual": 46.25,
+    "situacao": "Eleito",
+    "sqcand": "210002061816",
+    "vice": "KÁTIA OLIZSEWSKI FEIJO",
+    "viceNomeUrna": "KÁTIA",
+    "partidoVice": "PP",
+    "sqcandVice": "210002061817",
+    "coligacao": "MDB / PP / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "LUCAS CAMPOS DA SILVA",
+      "nomeUrna": "LUCAS CAMPOS",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 487,
+      "percentual": 6.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001998369"
+    },
+    {
+      "nome": "VIVIANE LEITE VIEIRA",
+      "nomeUrna": "VIVIANE LEITE",
+      "partido": "MDB",
+      "numero": "15215",
+      "votos": 315,
+      "percentual": 4.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002049298"
+    },
+    {
+      "nome": "PATRÍCIA DA SILVA RAMOS",
+      "nomeUrna": "PATRÍCIA RAMOS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 279,
+      "percentual": 3.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002048929"
+    },
+    {
+      "nome": "ANDREZA ROCHA DE ANTONI BUDELON",
+      "nomeUrna": "DRA. ANDREZA BUDELON",
+      "partido": "PSDB",
+      "numero": "45145",
+      "votos": 265,
+      "percentual": 3.43,
+      "situacao": "Eleito por média",
+      "sqcand": "210001998377"
+    },
+    {
+      "nome": "CLAUDIR DA SILVA",
+      "nomeUrna": "CLAUDIR BUGRE",
+      "partido": "PDT",
+      "numero": "12112",
+      "votos": 227,
+      "percentual": 2.94,
+      "situacao": "Eleito por média",
+      "sqcand": "210001999100"
+    },
+    {
+      "nome": "JULIANO DA SILVA DUARTE",
+      "nomeUrna": "PASTOR JULIANO",
+      "partido": "UNIÃO",
+      "numero": "44777",
+      "votos": 215,
+      "percentual": 2.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "210001999045"
+    },
+    {
+      "nome": "CIRINEU LUIZ IPLINSKI",
+      "nomeUrna": "CIRINEU",
+      "partido": "MDB",
+      "numero": "15777",
+      "votos": 205,
+      "percentual": 2.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002049293"
+    },
+    {
+      "nome": "ROSELÍ NUNES DE SOUZA",
+      "nomeUrna": "PROFESSORA ROSE",
+      "partido": "MDB",
+      "numero": "15012",
+      "votos": 203,
+      "percentual": 2.63,
+      "situacao": "Eleito por média",
+      "sqcand": "210002049294"
+    },
+    {
+      "nome": "ANDREA DE OLIVEIRA RIBEIRO",
+      "nomeUrna": "ANDRÉA CARTEIRA",
+      "partido": "PT",
+      "numero": "13222",
+      "votos": 181,
+      "percentual": 2.35,
+      "situacao": "Eleito por média",
+      "sqcand": "210002020146"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 2689,
+      "percentual": 39.11,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 2651,
+      "percentual": 38.56,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 1463,
+      "percentual": 21.28,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 1406,
+      "percentual": 20.17,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 931,
+      "percentual": 13.36,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "ALEXANDRE DUARTE LINDENMEYER",
+      "nomeUrna": "ALEXANDRE LINDENMEYER",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 402,
+      "percentual": 5.77,
+      "sqcand": "210001604656"
+    },
+    {
+      "nome": "MARIA DO ROSÁRIO NUNES",
+      "nomeUrna": "MARIA DO ROSÁRIO",
+      "partido": "PT",
+      "numero": "1370",
+      "votos": 373,
+      "percentual": 5.35,
+      "sqcand": "210001604650"
+    },
+    {
+      "nome": "ANTONIO CARLOS GOMES DA SILVA",
+      "nomeUrna": "CARLOS GOMES",
+      "partido": "REPUBLICANOS",
+      "numero": "1010",
+      "votos": 267,
+      "percentual": 3.83,
+      "sqcand": "210001601602"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 262,
+      "percentual": 3.76,
+      "sqcand": "210001601587"
+    },
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 209,
+      "percentual": 3.0,
+      "sqcand": "210001604643"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ FRANCISCO SOARES SPEROTTO",
+      "nomeUrna": " SPEROTTO",
+      "partido": "PSDB",
+      "numero": "45645",
+      "votos": 918,
+      "percentual": 13.64,
+      "sqcand": "210001620201"
+    },
+    {
+      "nome": "STELA BEATRIZ FARIAS LOPES",
+      "nomeUrna": "STELA FARIAS",
+      "partido": "PT",
+      "numero": "13113",
+      "votos": 538,
+      "percentual": 7.99,
+      "sqcand": "210001610590"
+    },
+    {
+      "nome": "MARCUS VINÍCIUS VIEIRA DE ALMEIDA",
+      "nomeUrna": "MARCUS VINÍCIUS",
+      "partido": "PP",
+      "numero": "11211",
+      "votos": 496,
+      "percentual": 7.37,
+      "sqcand": "210001647184"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 426,
+      "percentual": 6.33,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "JOSÉ SIDNEY NUNES DE ALMEIDA",
+      "nomeUrna": "ZÉ NUNES",
+      "partido": "PT",
+      "numero": "13500",
+      "votos": 296,
+      "percentual": 4.4,
+      "sqcand": "210001610623"
+    },
+    {
+      "nome": "SERGIO PERES ALOS",
+      "nomeUrna": "SERGIO PERES",
+      "partido": "REPUBLICANOS",
+      "numero": "10300",
+      "votos": 263,
+      "percentual": 3.91,
+      "sqcand": "210001601643"
+    },
+    {
+      "nome": "ELIZANDRO SILVA DE FREITAS SABINO",
+      "nomeUrna": "ELIZANDRO SABINO",
+      "partido": "PTB",
+      "numero": "14777",
+      "votos": 208,
+      "percentual": 3.09,
+      "sqcand": "210001649774"
+    }
+  ]
+}

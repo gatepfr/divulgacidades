@@ -1,0 +1,311 @@
+{
+  "populacao": 21115,
+  "votosValidos": 17532,
+  "abstencao": 13.71,
+  "prefeito": {
+    "nome": "MARIANNA ALMEIDA NASCIMENTO",
+    "nomeUrna": "MARIANNA ALMEIDA",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 11045,
+    "percentual": 63.0,
+    "situacao": "Eleito",
+    "sqcand": "200002108796",
+    "vice": "LARA MARIA VILAÇA DE FIGUEIREDO",
+    "viceNomeUrna": "LARA FIGUEIREDO",
+    "partidoVice": "MDB",
+    "sqcandVice": "200002108797",
+    "coligacao": "PDT / PC do B / PT / PV / MDB / PRD / UNIÃO / PSD / DC"
+  },
+  "vereadores": [
+    {
+      "nome": "JAIME DE CARVALHO COSTA NETO",
+      "nomeUrna": "JAIME DE CARVALHO",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 1249,
+      "percentual": 7.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002111627"
+    },
+    {
+      "nome": "KARIGINA DAYANA MAIA COSTA",
+      "nomeUrna": "KARIGINA MAIA",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 892,
+      "percentual": 5.09,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002111625"
+    },
+    {
+      "nome": "JOSEFA ALDACÉIA CHAGAS DE OLIVEIRA",
+      "nomeUrna": "PROFESSORA ALDACÉIA",
+      "partido": "PT",
+      "numero": "13333",
+      "votos": 859,
+      "percentual": 4.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002321360"
+    },
+    {
+      "nome": "FRANCISCO GUTEMBERG BESSA DE ASSIS",
+      "nomeUrna": "GUGU BESSA",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 761,
+      "percentual": 4.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002111626"
+    },
+    {
+      "nome": "REGINALDO ALVES DA SILVA",
+      "nomeUrna": "REGINALDO ALVES",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 734,
+      "percentual": 4.19,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002292321"
+    },
+    {
+      "nome": "FRANCISCA ITACIRA AIRES NUNES",
+      "nomeUrna": "BOLINHA AIRES",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 719,
+      "percentual": 4.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002111630"
+    },
+    {
+      "nome": "JOSÉ ALVES BENTO",
+      "nomeUrna": "GALEGO DO ALHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 709,
+      "percentual": 4.04,
+      "situacao": "Eleito por média",
+      "sqcand": "200002111631"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS MONTEIRO",
+      "nomeUrna": "SARGENTO MONTEIRO",
+      "partido": "UNIÃO",
+      "numero": "44190",
+      "votos": 641,
+      "percentual": 3.66,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002039046"
+    },
+    {
+      "nome": "FRANCISCO DEUSIVAN DOS SANTOS NASÁRIO",
+      "nomeUrna": "DEUSIVAN SANTOS",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 608,
+      "percentual": 3.47,
+      "situacao": "Eleito por média",
+      "sqcand": "200002111620"
+    },
+    {
+      "nome": "FRANCISCO JOSE FERNANDES DE AQUINO",
+      "nomeUrna": "GORDO DO BAR",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 604,
+      "percentual": 3.45,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002336694"
+    },
+    {
+      "nome": "ALANY SAMUEL LOPES DE FREITAS",
+      "nomeUrna": "ALANY",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 601,
+      "percentual": 3.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "200002039051"
+    },
+    {
+      "nome": "JOSE GILSON REGO GONÇALVES",
+      "nomeUrna": "GILSON REGO",
+      "partido": "PSDB",
+      "numero": "45110",
+      "votos": 535,
+      "percentual": 3.05,
+      "situacao": "Eleito por média",
+      "sqcand": "200002336696"
+    },
+    {
+      "nome": "DOMICIANA MARILAC DE OLIVEIRA LOPES",
+      "nomeUrna": "DOMICIANA LOPES",
+      "partido": "PP",
+      "numero": "11011",
+      "votos": 465,
+      "percentual": 2.65,
+      "situacao": "Eleito por média",
+      "sqcand": "200002292312"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "CARLOS EDUARDO NUNES ALVES",
+      "nomeUrna": "CARLOS EDUARDO",
+      "partido": "PDT",
+      "numero": "123",
+      "votos": 5497,
+      "percentual": 40.45,
+      "sqcand": "200001638556"
+    },
+    {
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "nomeUrna": "ROGÉRIO MARINHO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4129,
+      "percentual": 30.39,
+      "sqcand": "200001603037"
+    },
+    {
+      "nome": "RAFAEL HUETE DA MOTTA",
+      "nomeUrna": "RAFAEL MOTTA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 3827,
+      "percentual": 28.16,
+      "sqcand": "200001612334"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LEONARDO NUNES REGO",
+      "nomeUrna": "LEONARDO REGO",
+      "partido": "UNIÃO",
+      "numero": "4425",
+      "votos": 4672,
+      "percentual": 30.95,
+      "sqcand": "200001608804"
+    },
+    {
+      "nome": "PIO X FERNANDES",
+      "nomeUrna": "DR PIO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 4469,
+      "percentual": 29.6,
+      "sqcand": "200001653695"
+    },
+    {
+      "nome": "JAIME CALADO PEREIRA DOS SANTOS",
+      "nomeUrna": "JAIME CALADO",
+      "partido": "REPUBLICANOS",
+      "numero": "1088",
+      "votos": 1288,
+      "percentual": 8.53,
+      "sqcand": "200001603376"
+    },
+    {
+      "nome": "FERNANDO WANDERLEY VARGAS DA SILVA",
+      "nomeUrna": "MINEIRO",
+      "partido": "PT",
+      "numero": "1333",
+      "votos": 777,
+      "percentual": 5.15,
+      "sqcand": "200001603645"
+    },
+    {
+      "nome": "NATÁLIA BASTOS BONAVIDES",
+      "nomeUrna": "NATÁLIA BONAVIDES",
+      "partido": "PT",
+      "numero": "1311",
+      "votos": 588,
+      "percentual": 3.89,
+      "sqcand": "200001603652"
+    },
+    {
+      "nome": "JOÃO DA SILVA MAIA",
+      "nomeUrna": "JOÃO MAIA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 585,
+      "percentual": 3.87,
+      "sqcand": "200001603000"
+    },
+    {
+      "nome": "INÁCIO BRILHANTE DE ARAÚJO FILHO",
+      "nomeUrna": "MAJOR BRILHANTE",
+      "partido": "PP",
+      "numero": "1199",
+      "votos": 447,
+      "percentual": 2.96,
+      "sqcand": "200001600545"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "GETÚLIO NUNES DO RÊGO",
+      "nomeUrna": "GETULIO REGO",
+      "partido": "PSDB",
+      "numero": "45110",
+      "votos": 4566,
+      "percentual": 31.09,
+      "sqcand": "200001606003"
+    },
+    {
+      "nome": "JOSÉ GALENO DIÓGENES TORQUATO",
+      "nomeUrna": "GALENO TORQUATO",
+      "partido": "PSDB",
+      "numero": "45444",
+      "votos": 3539,
+      "percentual": 24.1,
+      "sqcand": "200001605995"
+    },
+    {
+      "nome": "GILTON SAMPAIO DE SOUZA",
+      "nomeUrna": "GILTON SAMPAIO",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 1418,
+      "percentual": 9.65,
+      "sqcand": "200001603620"
+    },
+    {
+      "nome": "KERGINALDO JACOME DA COSTA",
+      "nomeUrna": "DR KEGINALDO JACOME",
+      "partido": "PSDB",
+      "numero": "45100",
+      "votos": 717,
+      "percentual": 4.88,
+      "sqcand": "200001605992"
+    },
+    {
+      "nome": "MARIA ISOLDA DANTAS DE MOURA",
+      "nomeUrna": "ISOLDA DANTAS",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 696,
+      "percentual": 4.74,
+      "sqcand": "200001603626"
+    },
+    {
+      "nome": "HUGO ALEXANDRE DOS SANTOS",
+      "nomeUrna": "HUGO ALEXANDRE",
+      "partido": "PSD",
+      "numero": "55789",
+      "votos": 518,
+      "percentual": 3.53,
+      "sqcand": "200001598485"
+    },
+    {
+      "nome": "FRANCISCO SALISMAR LOPES CORREIA",
+      "nomeUrna": "DR SALISMAR",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77000",
+      "votos": 461,
+      "percentual": 3.14,
+      "sqcand": "200001604190"
+    }
+  ]
+}

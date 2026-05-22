@@ -1,0 +1,291 @@
+{
+  "populacao": 15230,
+  "votosValidos": 12258,
+  "abstencao": 16.65,
+  "prefeito": {
+    "nome": "MARCELO MACHADO FREIRE",
+    "nomeUrna": "MARCELO DE ALBERTO",
+    "partido": "REPUBLICANOS",
+    "numero": "10",
+    "votos": 8694,
+    "percentual": 70.93,
+    "situacao": "Eleito",
+    "sqcand": "170002156825",
+    "vice": "RAFAEL ANTÔNIO DE ARAUJO",
+    "viceNomeUrna": "DR. RAFAEL ARAUJO",
+    "partidoVice": "AVANTE",
+    "sqcandVice": "170002156826",
+    "coligacao": "REPUBLICANOS / PSB / AVANTE"
+  },
+  "vereadores": [
+    {
+      "nome": "CLENILZIANE MARIA DA SILVA ARAUJO",
+      "nomeUrna": "NINA PAJEÚ",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 1015,
+      "percentual": 8.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002156485"
+    },
+    {
+      "nome": "DARLENE ALANES TIMÓTEO DE ARAUJO",
+      "nomeUrna": "DARLENE TIMÓTEO",
+      "partido": "AVANTE",
+      "numero": "70999",
+      "votos": 1000,
+      "percentual": 8.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002150262"
+    },
+    {
+      "nome": "JOSÉ VIEIRA LIMA",
+      "nomeUrna": "ZÉ DE ALIETA",
+      "partido": "AVANTE",
+      "numero": "70111",
+      "votos": 879,
+      "percentual": 7.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002150258"
+    },
+    {
+      "nome": "ROSIVALDO ANTONIO DOS SANTOS",
+      "nomeUrna": "BESOURO PNEUS",
+      "partido": "REPUBLICANOS",
+      "numero": "10777",
+      "votos": 868,
+      "percentual": 7.05,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002156482"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS NUNES",
+      "nomeUrna": "FRANCISCO DA PADARIA",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 812,
+      "percentual": 6.6,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002153370"
+    },
+    {
+      "nome": "LAFRANK LARANJEIRA DE ARAUJO",
+      "nomeUrna": "LAFRANK",
+      "partido": "AVANTE",
+      "numero": "70000",
+      "votos": 658,
+      "percentual": 5.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002150260"
+    },
+    {
+      "nome": "SAMUEL DE JESUS FILHO",
+      "nomeUrna": "SAMUEL DA BAIXA DA ALEXANDRA",
+      "partido": "AVANTE",
+      "numero": "70555",
+      "votos": 635,
+      "percentual": 5.16,
+      "situacao": "Eleito por média",
+      "sqcand": "170002150268"
+    },
+    {
+      "nome": "PAULA VALERIA TORRES LIMA",
+      "nomeUrna": "PAULINHA DE PAULO HONÓRIO",
+      "partido": "REPUBLICANOS",
+      "numero": "10888",
+      "votos": 625,
+      "percentual": 5.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002156479"
+    },
+    {
+      "nome": "MIQUÉIAS TIAGO DE VASCONCELOS CARVALHO",
+      "nomeUrna": "TIAGO DE LIAZER",
+      "partido": "REPUBLICANOS",
+      "numero": "10333",
+      "votos": 611,
+      "percentual": 4.97,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002156481"
+    },
+    {
+      "nome": "LAURA CAMILI GOMES LIMA",
+      "nomeUrna": "LAURA VAQUEIRA",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 551,
+      "percentual": 4.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "170002153366"
+    },
+    {
+      "nome": "ROBERTO ALVES DOS SANTOS",
+      "nomeUrna": "ROBERTO DE CREUZA",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 348,
+      "percentual": 2.83,
+      "situacao": "Eleito por média",
+      "sqcand": "170002153369"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANDRÉ CARLOS ALVES DE PAULA FILHO",
+      "nomeUrna": "ANDRÉ DE PAULA",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 4253,
+      "percentual": 44.87,
+      "sqcand": "170001610248"
+    },
+    {
+      "nome": "MARIA TERESA LEITÃO DE MELO",
+      "nomeUrna": "TERESA LEITÃO",
+      "partido": "PT",
+      "numero": "130",
+      "votos": 3848,
+      "percentual": 40.6,
+      "sqcand": "170001618130"
+    },
+    {
+      "nome": "GILSON MACHADO GUIMARÃES NETO",
+      "nomeUrna": "GILSON MACHADO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 690,
+      "percentual": 7.28,
+      "sqcand": "170001604083"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "FERNANDO MONTEIRO DE ALBUQUERQUE",
+      "nomeUrna": "FERNANDO MONTEIRO",
+      "partido": "PP",
+      "numero": "1190",
+      "votos": 3669,
+      "percentual": 37.1,
+      "sqcand": "170001618622"
+    },
+    {
+      "nome": "WALDEMAR DE ANDRADA IGNÁCIO DE OLIVEIRA",
+      "nomeUrna": "WALDEMAR OLIVEIRA",
+      "partido": "AVANTE",
+      "numero": "7070",
+      "votos": 1533,
+      "percentual": 15.5,
+      "sqcand": "170001610411"
+    },
+    {
+      "nome": "LUIZ EDUARDO DE QUEIROZ CAMPOS DA FONTE ALBUQUERQUE",
+      "nomeUrna": "LULA DA FONTE",
+      "partido": "PP",
+      "numero": "1100",
+      "votos": 1028,
+      "percentual": 10.4,
+      "sqcand": "170001618620"
+    },
+    {
+      "nome": "RENILDO VASCONCELOS CALHEIROS",
+      "nomeUrna": "RENILDO CALHEIROS",
+      "partido": "PC do B",
+      "numero": "6513",
+      "votos": 776,
+      "percentual": 7.85,
+      "sqcand": "170001609044"
+    },
+    {
+      "nome": "JOÃO LOPES GONÇALVES",
+      "nomeUrna": "DR. JOÃO",
+      "partido": "SOLIDARIEDADE",
+      "numero": "7700",
+      "votos": 358,
+      "percentual": 3.62,
+      "sqcand": "170001610572"
+    },
+    {
+      "nome": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+      "nomeUrna": "IZA ARRUDA",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 302,
+      "percentual": 3.05,
+      "sqcand": "170001613278"
+    },
+    {
+      "nome": "JOSÉ CARLOS VERAS DOS SANTOS",
+      "nomeUrna": "CARLOS VERAS",
+      "partido": "PT",
+      "numero": "1314",
+      "votos": 272,
+      "percentual": 2.75,
+      "sqcand": "170001609028"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DANNILO CAVALCANTE VIEIRA",
+      "nomeUrna": "DANNILO GODOY",
+      "partido": "PSB",
+      "numero": "40234",
+      "votos": 3369,
+      "percentual": 35.23,
+      "sqcand": "170001620384"
+    },
+    {
+      "nome": "FABRIZIO DARIO DE SÁ FERRAZ",
+      "nomeUrna": "FABRIZIO FERRAZ",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77111",
+      "votos": 1365,
+      "percentual": 14.28,
+      "sqcand": "170001610750"
+    },
+    {
+      "nome": "KAIO CESAR DE MOURA MANIÇOBA NOVAES FERRAZ",
+      "nomeUrna": "KAIO MANIÇOBA",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 829,
+      "percentual": 8.67,
+      "sqcand": "170001618737"
+    },
+    {
+      "nome": "WALDEMAR ALBERTO BORGES RODRIGUES NETO",
+      "nomeUrna": "WALDEMAR BORGES",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 674,
+      "percentual": 7.05,
+      "sqcand": "170001620382"
+    },
+    {
+      "nome": "BRUNO GOMES DE OLIVEIRA",
+      "nomeUrna": "BRUNO PEREIRA",
+      "partido": "PATRIOTA",
+      "numero": "51456",
+      "votos": 592,
+      "percentual": 6.19,
+      "sqcand": "170001609880"
+    },
+    {
+      "nome": "RODRIGO CAVALCANTI NOVAES",
+      "nomeUrna": "RODRIGO NOVAES",
+      "partido": "PSB",
+      "numero": "40555",
+      "votos": 426,
+      "percentual": 4.46,
+      "sqcand": "170001620381"
+    },
+    {
+      "nome": "LUCIANO RODRIGUES PACHECO",
+      "nomeUrna": "LUCIANO PACHECO",
+      "partido": "PATRIOTA",
+      "numero": "51789",
+      "votos": 318,
+      "percentual": 3.33,
+      "sqcand": "170001609864"
+    }
+  ]
+}

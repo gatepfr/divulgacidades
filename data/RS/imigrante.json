@@ -1,0 +1,271 @@
+{
+  "populacao": 2836,
+  "votosValidos": 2432,
+  "abstencao": 12.02,
+  "prefeito": {
+    "nome": "GERMANO STEVENS",
+    "nomeUrna": "GERMANO",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 1424,
+    "percentual": 58.55,
+    "situacao": "Eleito",
+    "sqcand": "210002211347",
+    "vice": "FABIANO ACADROLI",
+    "viceNomeUrna": "FABIANO",
+    "partidoVice": "PSDB",
+    "sqcandVice": "210002211346",
+    "coligacao": "MDB / PDT / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JULIANO ZUCHI",
+      "nomeUrna": "JULIANO ZUCHI (PRETO)",
+      "partido": "MDB",
+      "numero": "15666",
+      "votos": 226,
+      "percentual": 9.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002250099"
+    },
+    {
+      "nome": "CELSO HORST",
+      "nomeUrna": "CELO",
+      "partido": "MDB",
+      "numero": "15501",
+      "votos": 177,
+      "percentual": 7.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002250103"
+    },
+    {
+      "nome": "PAULO ROBERTO SILVA DOS SANTOS",
+      "nomeUrna": "PAULO SANTOS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 140,
+      "percentual": 5.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002246788"
+    },
+    {
+      "nome": "JEFERSON RABAIOLI",
+      "nomeUrna": "JEFERSON RABAIOLI (TCHITCHO)",
+      "partido": "PSDB",
+      "numero": "45678",
+      "votos": 129,
+      "percentual": 5.3,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002254006"
+    },
+    {
+      "nome": "CARLOS GUILHERME WAHLBRINCK",
+      "nomeUrna": "CARLOS",
+      "partido": "PP",
+      "numero": "11333",
+      "votos": 125,
+      "percentual": 5.13,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002246790"
+    },
+    {
+      "nome": "JAIRO POTT",
+      "nomeUrna": "JAIRO POTT",
+      "partido": "PSDB",
+      "numero": "45666",
+      "votos": 114,
+      "percentual": 4.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002254003"
+    },
+    {
+      "nome": "ANA PATRICIA FUNKE",
+      "nomeUrna": "ANA PATRÍCIA",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 97,
+      "percentual": 3.98,
+      "situacao": "Eleito por média",
+      "sqcand": "210002254007"
+    },
+    {
+      "nome": "MÁRCIO ROTTOLI",
+      "nomeUrna": "MÁRCIO ROTTOLI",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 96,
+      "percentual": 3.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002250105"
+    },
+    {
+      "nome": "REJANE BIRKHEUER PREDIGER",
+      "nomeUrna": "REJANE B. PREDIGER XANA",
+      "partido": "MDB",
+      "numero": "15615",
+      "votos": 95,
+      "percentual": 3.9,
+      "situacao": "Eleito por média",
+      "sqcand": "210002250104"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 743,
+      "percentual": 43.6,
+      "sqcand": "210001615551"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 585,
+      "percentual": 34.33,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 352,
+      "percentual": 20.66,
+      "sqcand": "210001619906"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ALCEU MOREIRA DA SILVA",
+      "nomeUrna": "ALCEU MOREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 585,
+      "percentual": 32.02,
+      "sqcand": "210001647853"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 323,
+      "percentual": 17.68,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "JOSÉ ALFONSO EBERT HAMM",
+      "nomeUrna": "AFONSO HAMM",
+      "partido": "PP",
+      "numero": "1166",
+      "votos": 93,
+      "percentual": 5.09,
+      "sqcand": "210001646689"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 84,
+      "percentual": 4.6,
+      "sqcand": "210001646697"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 61,
+      "percentual": 3.34,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "MAURICIO BEDIN MARCON",
+      "nomeUrna": "MAURICIO MARCON",
+      "partido": "PODE",
+      "numero": "1922",
+      "votos": 46,
+      "percentual": 2.52,
+      "sqcand": "210001596133"
+    },
+    {
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nomeUrna": "DANRLEI DE DEUS GOLEIRO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 40,
+      "percentual": 2.19,
+      "sqcand": "210001613990"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "VILMAR PERIN ZANCHIN",
+      "nomeUrna": "VILMAR ZANCHIN",
+      "partido": "MDB",
+      "numero": "15444",
+      "votos": 379,
+      "percentual": 21.78,
+      "sqcand": "210001647982"
+    },
+    {
+      "nome": "JUVIR COSTELLA",
+      "nomeUrna": "COSTELLA",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 181,
+      "percentual": 10.4,
+      "sqcand": "210001647993"
+    },
+    {
+      "nome": "MARCIA SCHERER",
+      "nomeUrna": "MÁRCIA SCHERER",
+      "partido": "MDB",
+      "numero": "15069",
+      "votos": 115,
+      "percentual": 6.61,
+      "sqcand": "210001647996"
+    },
+    {
+      "nome": "REGINA MARIA BECKER",
+      "nomeUrna": "REGINA BECKER",
+      "partido": "UNIÃO",
+      "numero": "44560",
+      "votos": 88,
+      "percentual": 5.06,
+      "sqcand": "210001601919"
+    },
+    {
+      "nome": "ERNANI POLO",
+      "nomeUrna": "ERNANI POLO",
+      "partido": "PP",
+      "numero": "11411",
+      "votos": 81,
+      "percentual": 4.66,
+      "sqcand": "210001647164"
+    },
+    {
+      "nome": "SILVANA MARIA FRANCISCATTO COVATTI",
+      "nomeUrna": "SILVANA COVATTI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 73,
+      "percentual": 4.2,
+      "sqcand": "210001647177"
+    },
+    {
+      "nome": "DOUGLAS SANDRI",
+      "nomeUrna": "DOUGLAS SANDRI",
+      "partido": "NOVO",
+      "numero": "30111",
+      "votos": 69,
+      "percentual": 3.97,
+      "sqcand": "210001597029"
+    }
+  ]
+}

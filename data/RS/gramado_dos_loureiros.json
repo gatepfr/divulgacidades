@@ -1,0 +1,271 @@
+{
+  "populacao": 2590,
+  "votosValidos": 2341,
+  "abstencao": 8.15,
+  "prefeito": {
+    "nome": "ARTUR CEREZA",
+    "nomeUrna": "ARTUR CEREZA",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 1389,
+    "percentual": 59.33,
+    "situacao": "Eleito",
+    "sqcand": "210002133256",
+    "vice": "JOAO BATISTA BARCELOS PINHEIRO",
+    "viceNomeUrna": "JOÃO PINHEIRO",
+    "partidoVice": "UNIÃO",
+    "sqcandVice": "210002133257",
+    "coligacao": "REPUBLICANOS / UNIÃO / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "MARCOS NASCIMENTO",
+      "nomeUrna": "MARQUINHOS",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 378,
+      "percentual": 16.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002133658"
+    },
+    {
+      "nome": "ELIZEU TAVARES ALVES",
+      "nomeUrna": "ELIZEU TAVARES",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 239,
+      "percentual": 10.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002131647"
+    },
+    {
+      "nome": "GERSI LUIS MARTINS ALVES",
+      "nomeUrna": "DETE",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 166,
+      "percentual": 7.12,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002133655"
+    },
+    {
+      "nome": "SANDRO PAULO MOTTA",
+      "nomeUrna": "SANDRO MOTTA",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 165,
+      "percentual": 7.08,
+      "situacao": "Eleito por média",
+      "sqcand": "210002024943"
+    },
+    {
+      "nome": "TATIANA GALLI LOUREIRO DE MELO",
+      "nomeUrna": "TATI GALLI",
+      "partido": "REPUBLICANOS",
+      "numero": "10222",
+      "votos": 156,
+      "percentual": 6.69,
+      "situacao": "Eleito por média",
+      "sqcand": "210002013075"
+    },
+    {
+      "nome": "ADIR PAULO LOUREIRO DE MELO",
+      "nomeUrna": "ADIR",
+      "partido": "CIDADANIA",
+      "numero": "23222",
+      "votos": 155,
+      "percentual": 6.65,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002131644"
+    },
+    {
+      "nome": "ANA PAULA CANTON",
+      "nomeUrna": "ANA PAULA CANTON",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 126,
+      "percentual": 5.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002133652"
+    },
+    {
+      "nome": "EVANDRO RIBEIRO PERERA",
+      "nomeUrna": "EVANDRO PERERA",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 120,
+      "percentual": 5.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002133654"
+    },
+    {
+      "nome": "CLOVIS PAULO ALVES",
+      "nomeUrna": "CLÓVIS PAULO ALVES",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 100,
+      "percentual": 4.29,
+      "situacao": "Eleito por média",
+      "sqcand": "210002133660"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 885,
+      "percentual": 55.7,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 467,
+      "percentual": 29.39,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 229,
+      "percentual": 14.41,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DIONILSO MATEUS MARCON",
+      "nomeUrna": "MARCON",
+      "partido": "PT",
+      "numero": "1355",
+      "votos": 416,
+      "percentual": 24.85,
+      "sqcand": "210001604643"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 252,
+      "percentual": 15.05,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 167,
+      "percentual": 9.98,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "GIOVANI CHERINI",
+      "nomeUrna": "GIOVANI CHERINI",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 127,
+      "percentual": 7.59,
+      "sqcand": "210001648591"
+    },
+    {
+      "nome": "FRANCIANE ABADE BAYER MULLER",
+      "nomeUrna": "FRANCIANE BAYER",
+      "partido": "REPUBLICANOS",
+      "numero": "1012",
+      "votos": 101,
+      "percentual": 6.03,
+      "sqcand": "210001601591"
+    },
+    {
+      "nome": "PAULO VICENTE CALEFFI",
+      "nomeUrna": "PAULO CALEFFI",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 66,
+      "percentual": 3.94,
+      "sqcand": "210001614007"
+    },
+    {
+      "nome": "SÉRGIO BERGONSI TURRA",
+      "nomeUrna": "SÉRGIO TURRA",
+      "partido": "PP",
+      "numero": "1133",
+      "votos": 60,
+      "percentual": 3.58,
+      "sqcand": "210001646696"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SALMO DIAS DE OLIVEIRA",
+      "nomeUrna": "SALMO",
+      "partido": "PP",
+      "numero": "11999",
+      "votos": 384,
+      "percentual": 23.82,
+      "sqcand": "210001647178"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 348,
+      "percentual": 21.59,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "ADÃO PRETTO FILHO",
+      "nomeUrna": "ADÃO PRETTO",
+      "partido": "PT",
+      "numero": "13655",
+      "votos": 184,
+      "percentual": 11.41,
+      "sqcand": "210001610593"
+    },
+    {
+      "nome": "GERRI SAWARIS",
+      "nomeUrna": "GERRI SAWARIS",
+      "partido": "PT",
+      "numero": "13888",
+      "votos": 170,
+      "percentual": 10.55,
+      "sqcand": "210001610610"
+    },
+    {
+      "nome": "MATEUS JOSE DE LIMA WESP",
+      "nomeUrna": "MATEUS WESP",
+      "partido": "PSDB",
+      "numero": "45045",
+      "votos": 74,
+      "percentual": 4.59,
+      "sqcand": "210001620219"
+    },
+    {
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "nomeUrna": "PAPARICO BACCHI",
+      "partido": "PL",
+      "numero": "22212",
+      "votos": 48,
+      "percentual": 2.98,
+      "sqcand": "210001648938"
+    },
+    {
+      "nome": "ZILÁ MARIA BREITENBACH",
+      "nomeUrna": "ZILÁ BREITENBACH",
+      "partido": "PSDB",
+      "numero": "45345",
+      "votos": 45,
+      "percentual": 2.79,
+      "sqcand": "210001620208"
+    }
+  ]
+}

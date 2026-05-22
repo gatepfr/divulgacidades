@@ -1,0 +1,271 @@
+{
+  "populacao": 9665,
+  "votosValidos": 7538,
+  "abstencao": 16.32,
+  "prefeito": {
+    "nome": "JOSE APARECIDO DE PAULA E SOUZA",
+    "nomeUrna": "PECINHA",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 5751,
+    "percentual": 76.29,
+    "situacao": "Eleito",
+    "sqcand": "160002015278",
+    "vice": "LUCINEIA DE OLIVEIRA ADEVENTE FERREIRA DA SILVA",
+    "viceNomeUrna": "NEIA",
+    "partidoVice": "PSD",
+    "sqcandVice": "160002015279",
+    "coligacao": "REPUBLICANOS / PL / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "ZOEL CARLOS VERLINCK",
+      "nomeUrna": "ZOEL",
+      "partido": "PL",
+      "numero": "22500",
+      "votos": 694,
+      "percentual": 8.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015315"
+    },
+    {
+      "nome": "VILMAR LUIS ABATTTI",
+      "nomeUrna": "VILMAR ABATTTI",
+      "partido": "PSD",
+      "numero": "55613",
+      "votos": 647,
+      "percentual": 8.35,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015303"
+    },
+    {
+      "nome": "ZELIA TENFEN",
+      "nomeUrna": "ZELIA TENFEN",
+      "partido": "PSD",
+      "numero": "55000",
+      "votos": 595,
+      "percentual": 7.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015304"
+    },
+    {
+      "nome": "CINTIA CRISTINA DO AMARAL FERREIRA",
+      "nomeUrna": "CINTIA DO POSTO",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 460,
+      "percentual": 5.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015310"
+    },
+    {
+      "nome": "ROGERIO PETRONILHO",
+      "nomeUrna": "ROGERIO PETRONILHO",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 433,
+      "percentual": 5.59,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015314"
+    },
+    {
+      "nome": "CLAUDINEI XAVIER DE OLIVEIRA",
+      "nomeUrna": "DR CLAUDINEI",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 417,
+      "percentual": 5.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002015305"
+    },
+    {
+      "nome": "JOSE CARLOS ROVERSI",
+      "nomeUrna": "CATATAU",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 380,
+      "percentual": 4.9,
+      "situacao": "Eleito por média",
+      "sqcand": "160002015308"
+    },
+    {
+      "nome": "VALMOR XAVIER DA SILVA",
+      "nomeUrna": "VALMOR XAVIER",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 358,
+      "percentual": 4.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002281859"
+    },
+    {
+      "nome": "ANGELA MARIA LOVO VOINAROVSKI",
+      "nomeUrna": "ANGELA VOINAROVSKI",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 292,
+      "percentual": 3.77,
+      "situacao": "Eleito por média",
+      "sqcand": "160002269221"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2891,
+      "percentual": 40.35,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 1985,
+      "percentual": 27.7,
+      "sqcand": "160001621846"
+    },
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1572,
+      "percentual": 21.94,
+      "sqcand": "160001614980"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "SERGIO DE SOUZA",
+      "nomeUrna": "SÉRGIO SOUZA",
+      "partido": "MDB",
+      "numero": "1512",
+      "votos": 1517,
+      "percentual": 20.51,
+      "sqcand": "160001614556"
+    },
+    {
+      "nome": "HERMES PARCIANELLO",
+      "nomeUrna": "HERMES FRANGAO PARCIANELLO",
+      "partido": "MDB",
+      "numero": "1540",
+      "votos": 1271,
+      "percentual": 17.18,
+      "sqcand": "160001614542"
+    },
+    {
+      "nome": "EVANDRO ROGERIO ROMAN",
+      "nomeUrna": "ROMAN",
+      "partido": "PP",
+      "numero": "1177",
+      "votos": 529,
+      "percentual": 7.15,
+      "sqcand": "160001603293"
+    },
+    {
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nomeUrna": "FILIPE BARROS",
+      "partido": "PL",
+      "numero": "2201",
+      "votos": 283,
+      "percentual": 3.83,
+      "sqcand": "160001622028"
+    },
+    {
+      "nome": "CARLOS ALBERTO GEBRIM PRETO",
+      "nomeUrna": "BETO PRETO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 279,
+      "percentual": 3.77,
+      "sqcand": "160001622285"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 261,
+      "percentual": 3.53,
+      "sqcand": "160001614525"
+    },
+    {
+      "nome": "WASHINGTON LEE ABE",
+      "nomeUrna": "CORONEL LEE",
+      "partido": "DC",
+      "numero": "2777",
+      "votos": 231,
+      "percentual": 3.12,
+      "sqcand": "160001716203"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "OZIEL LUIZ DE SOUZA",
+      "nomeUrna": "BATATINHA",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 1844,
+      "percentual": 25.56,
+      "sqcand": "160001614852"
+    },
+    {
+      "nome": "MARCEL HENRIQUE MICHELETTO",
+      "nomeUrna": "MARCEL MICHELETTO",
+      "partido": "PL",
+      "numero": "22000",
+      "votos": 1759,
+      "percentual": 24.38,
+      "sqcand": "160001654935"
+    },
+    {
+      "nome": "MARCIO JOSE PACHECO RAMOS",
+      "nomeUrna": "MARCIO PACHECO",
+      "partido": "REPUBLICANOS",
+      "numero": "10100",
+      "votos": 665,
+      "percentual": 9.22,
+      "sqcand": "160001716110"
+    },
+    {
+      "nome": "HUSSEIN BAKRI",
+      "nomeUrna": "HUSSEIN BAKRI",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 516,
+      "percentual": 7.15,
+      "sqcand": "160001623131"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 458,
+      "percentual": 6.35,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "ADELINO RIBEIRO SILVA",
+      "nomeUrna": "ADELINO RIBEIRO",
+      "partido": "PSD",
+      "numero": "55800",
+      "votos": 159,
+      "percentual": 2.2,
+      "sqcand": "160001623130"
+    },
+    {
+      "nome": "ALDINO JORGE BUENO",
+      "nomeUrna": "GUGU BUENO",
+      "partido": "PSD",
+      "numero": "55022",
+      "votos": 145,
+      "percentual": 2.01,
+      "sqcand": "160001623097"
+    }
+  ]
+}

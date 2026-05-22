@@ -1,0 +1,311 @@
+{
+  "populacao": 212345,
+  "votosValidos": 134878,
+  "abstencao": 27.81,
+  "prefeito": {
+    "nome": "DANIEL PLANA BOGALHO",
+    "nomeUrna": "ENGENHEIRO DANIEL",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 89386,
+    "percentual": 66.27,
+    "situacao": "Eleito",
+    "sqcand": "250001995016",
+    "vice": "ERICA TEIXEIRA FRANQUINI",
+    "viceNomeUrna": "ÉRICA FRANQUINI",
+    "partidoVice": "MDB",
+    "sqcandVice": "250001995015",
+    "coligacao": "UNIÃO / REPUBLICANOS / SOLIDARIEDADE / MDB / PP / PRTB / AGIR"
+  },
+  "vereadores": [
+    {
+      "nome": "WANDERLEY BRESSAN",
+      "nomeUrna": "BRESSAN",
+      "partido": "PDT",
+      "numero": "12500",
+      "votos": 5768,
+      "percentual": 3.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002162029"
+    },
+    {
+      "nome": "SANDRO AIRES MACIEL",
+      "nomeUrna": "SANDRO AYRES",
+      "partido": "REPUBLICANOS",
+      "numero": "10456",
+      "votos": 4938,
+      "percentual": 3.28,
+      "situacao": "Eleito por média",
+      "sqcand": "250002024987"
+    },
+    {
+      "nome": "RODNEY ARAUJO OLIVEIRA",
+      "nomeUrna": "ENFERMEIRO RODNEY",
+      "partido": "PODE",
+      "numero": "20400",
+      "votos": 4274,
+      "percentual": 2.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002058565"
+    },
+    {
+      "nome": "MARCOS PAULO DE OLIVEIRA",
+      "nomeUrna": "MARCOS PAULO OU PAULINHO",
+      "partido": "UNIÃO",
+      "numero": "44789",
+      "votos": 4210,
+      "percentual": 2.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002029285"
+    },
+    {
+      "nome": "CELSO RODRIGO DOS SANTOS",
+      "nomeUrna": "CELSO GALLO",
+      "partido": "PDT",
+      "numero": "12001",
+      "votos": 4104,
+      "percentual": 2.73,
+      "situacao": "Eleito por média",
+      "sqcand": "250002162033"
+    },
+    {
+      "nome": "ANDERSON NOBREGA",
+      "nomeUrna": "ANDERSON NOBREGA",
+      "partido": "PSD",
+      "numero": "55671",
+      "votos": 4102,
+      "percentual": 2.73,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002161414"
+    },
+    {
+      "nome": "MANOEL NEZITO GUIMARAES",
+      "nomeUrna": "NEZITO",
+      "partido": "PODE",
+      "numero": "20555",
+      "votos": 3711,
+      "percentual": 2.47,
+      "situacao": "Eleito por média",
+      "sqcand": "250002058568"
+    },
+    {
+      "nome": "RONALDO ONISHI",
+      "nomeUrna": "DR. RONALDO ONISHI",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 3681,
+      "percentual": 2.45,
+      "situacao": "Eleito por média",
+      "sqcand": "250002029297"
+    },
+    {
+      "nome": "EVALDO DE CARVALHO",
+      "nomeUrna": "DIDIO",
+      "partido": "PP",
+      "numero": "11121",
+      "votos": 3613,
+      "percentual": 2.4,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002027836"
+    },
+    {
+      "nome": "CARLOS PEREIRA DA SILVA",
+      "nomeUrna": "CARLINHOS DO LEME",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 3474,
+      "percentual": 2.31,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002020581"
+    },
+    {
+      "nome": "NAJARA LIMA COSTA",
+      "nomeUrna": "PROFESSORA NAJARA COSTA",
+      "partido": "PC do B",
+      "numero": "65123",
+      "votos": 2911,
+      "percentual": 1.93,
+      "situacao": "Eleito por média",
+      "sqcand": "250002159543"
+    },
+    {
+      "nome": "JOICE MARQUES DA SILVA",
+      "nomeUrna": "JOICE SILVA",
+      "partido": "PSD",
+      "numero": "55140",
+      "votos": 2747,
+      "percentual": 1.83,
+      "situacao": "Eleito por média",
+      "sqcand": "250002161409"
+    },
+    {
+      "nome": "DONIZETE SAMUEL SANTANA",
+      "nomeUrna": "DONIZETE",
+      "partido": "PSDB",
+      "numero": "45007",
+      "votos": 2375,
+      "percentual": 1.58,
+      "situacao": "Eleito por média",
+      "sqcand": "250002345638"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 66753,
+      "percentual": 49.94,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 48826,
+      "percentual": 36.53,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 8742,
+      "percentual": 6.54,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "GUILHERME CASTRO BOULOS",
+      "nomeUrna": "GUILHERME BOULOS",
+      "partido": "PSOL",
+      "numero": "5010",
+      "votos": 13787,
+      "percentual": 9.48,
+      "sqcand": "250001613761"
+    },
+    {
+      "nome": "ELIANE DE SOUSA ALVES MACHADO",
+      "nomeUrna": "ELY SANTOS",
+      "partido": "REPUBLICANOS",
+      "numero": "1087",
+      "votos": 12129,
+      "percentual": 8.34,
+      "sqcand": "250001611845"
+    },
+    {
+      "nome": "EVILASIO CAVALCANTE DE FARIAS",
+      "nomeUrna": "DR EVILASIO",
+      "partido": "PSB",
+      "numero": "4045",
+      "votos": 6860,
+      "percentual": 4.72,
+      "sqcand": "250001620276"
+    },
+    {
+      "nome": "RENATA HELLMEISTER DE ABREU MELO",
+      "nomeUrna": "RENATA ABREU",
+      "partido": "PODE",
+      "numero": "1919",
+      "votos": 5208,
+      "percentual": 3.58,
+      "sqcand": "250001610258"
+    },
+    {
+      "nome": "FÁBIO EDUARDO DE OLIVEIRA TERUEL",
+      "nomeUrna": "FABIO TERUEL",
+      "partido": "MDB",
+      "numero": "1580",
+      "votos": 4747,
+      "percentual": 3.26,
+      "sqcand": "250001611254"
+    },
+    {
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "nomeUrna": "CARLA ZAMBELLI",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 4153,
+      "percentual": 2.86,
+      "sqcand": "250001611365"
+    },
+    {
+      "nome": "MILTON VIEIRA PINTO",
+      "nomeUrna": "MILTON VIEIRA",
+      "partido": "REPUBLICANOS",
+      "numero": "1055",
+      "votos": 3703,
+      "percentual": 2.55,
+      "sqcand": "250001611872"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CARLOS EDUARDO NOBREGA",
+      "nomeUrna": "DR EDUARDO NÓBREGA",
+      "partido": "PODE",
+      "numero": "19714",
+      "votos": 29405,
+      "percentual": 21.09,
+      "sqcand": "250001610496"
+    },
+    {
+      "nome": "DANIEL PLANA BOGALHO",
+      "nomeUrna": "ENGENHEIRO DANIEL",
+      "partido": "REPUBLICANOS",
+      "numero": "10870",
+      "votos": 15762,
+      "percentual": 11.31,
+      "sqcand": "250001639602"
+    },
+    {
+      "nome": "ANALICE FERNANDES",
+      "nomeUrna": "ANALICE FERNANDES",
+      "partido": "PSDB",
+      "numero": "45400",
+      "votos": 13581,
+      "percentual": 9.74,
+      "sqcand": "250001611452"
+    },
+    {
+      "nome": "EDUARDO MATARAZZO SUPLICY",
+      "nomeUrna": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "numero": "13133",
+      "votos": 5869,
+      "percentual": 4.21,
+      "sqcand": "250001611797"
+    },
+    {
+      "nome": "MÔNICA CRISTINA SEIXAS BONFIM",
+      "nomeUrna": "MONICA DO MOVIMENTO PRETAS",
+      "partido": "PSOL",
+      "numero": "50900",
+      "votos": 4244,
+      "percentual": 3.04,
+      "sqcand": "250001619379"
+    },
+    {
+      "nome": "RUI ALVES SOUZA JUNIOR",
+      "nomeUrna": "RUI ALVES",
+      "partido": "REPUBLICANOS",
+      "numero": "10111",
+      "votos": 3519,
+      "percentual": 2.52,
+      "sqcand": "250001639572"
+    },
+    {
+      "nome": "EDIANE MARIA DO NASCIMENTO",
+      "nomeUrna": "EDIANE MARIA",
+      "partido": "PSOL",
+      "numero": "50110",
+      "votos": 2952,
+      "percentual": 2.12,
+      "sqcand": "250001619350"
+    }
+  ]
+}

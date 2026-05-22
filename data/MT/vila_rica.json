@@ -1,0 +1,271 @@
+{
+  "populacao": 13680,
+  "votosValidos": 10103,
+  "abstencao": 24.42,
+  "prefeito": {
+    "nome": "JOÃO SALOMÃO PIMENTA",
+    "nomeUrna": "JOÃO DA PÁ",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 5238,
+    "percentual": 51.85,
+    "situacao": "Eleito",
+    "sqcand": "110002040857",
+    "vice": "JULIO ALVES BORGES",
+    "viceNomeUrna": "JULIO BORGES",
+    "partidoVice": "PODE",
+    "sqcandVice": "110002040856",
+    "coligacao": "REPUBLICANOS / MDB / PODE / PL"
+  },
+  "vereadores": [
+    {
+      "nome": "LAZARO GONÇALVES DA SILVA",
+      "nomeUrna": "LÁZARO GONÇALVES",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 610,
+      "percentual": 6.08,
+      "situacao": "Eleito por QP",
+      "sqcand": "110001985306"
+    },
+    {
+      "nome": "ISLEY BORGES DA SILVA",
+      "nomeUrna": "GOIANO DA CERÂMICA",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 581,
+      "percentual": 5.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002207169"
+    },
+    {
+      "nome": "MARIA APARECIDA FERREIRA DOS SANTOS",
+      "nomeUrna": "CIDINHA",
+      "partido": "PL",
+      "numero": "22333",
+      "votos": 449,
+      "percentual": 4.48,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002124321"
+    },
+    {
+      "nome": "VITOR LEANDRO OLIVEIRA LIMA",
+      "nomeUrna": "VITOR LEANDRO",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 394,
+      "percentual": 3.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "110001985302"
+    },
+    {
+      "nome": "CLEBIS LOURENÇO PEREIRA",
+      "nomeUrna": "CLEBINHO",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 362,
+      "percentual": 3.61,
+      "situacao": "Eleito por média",
+      "sqcand": "110002124324"
+    },
+    {
+      "nome": "MARIA CARLEANE ALVES DOS SANTOS",
+      "nomeUrna": "CARLEANE FILHA DO TIRIRICA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 301,
+      "percentual": 3.0,
+      "situacao": "Eleito por média",
+      "sqcand": "110001985303"
+    },
+    {
+      "nome": "FERNANDO ALVES DA SILVA",
+      "nomeUrna": "FERNANDO DA AMBULÂNCIA",
+      "partido": "PODE",
+      "numero": "20999",
+      "votos": 294,
+      "percentual": 2.93,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002206982"
+    },
+    {
+      "nome": "CELIA DE FATIMA COSTA LOPES",
+      "nomeUrna": "CELIA ASSISTENTE SOCIAL",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 292,
+      "percentual": 2.91,
+      "situacao": "Eleito por média",
+      "sqcand": "110002206980"
+    },
+    {
+      "nome": "WELLITJON BONFIM PEREIRA FEITOZA",
+      "nomeUrna": "DR WELLITJON BONFIM",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 281,
+      "percentual": 2.8,
+      "situacao": "Eleito por média",
+      "sqcand": "110002207163"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 4524,
+      "percentual": 63.95,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 2055,
+      "percentual": 29.05,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "KÁSSIO EDUARDO DA SILVA COELHO",
+      "nomeUrna": "KÁSSIO COELHO",
+      "partido": "PATRIOTA",
+      "numero": "510",
+      "votos": 351,
+      "percentual": 4.96,
+      "sqcand": "110001595899"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JUAREZ ALVES DA COSTA",
+      "nomeUrna": "JUAREZ COSTA",
+      "partido": "MDB",
+      "numero": "1520",
+      "votos": 1035,
+      "percentual": 12.07,
+      "sqcand": "110001623293"
+    },
+    {
+      "nome": "ERNANDO CARDOSO",
+      "nomeUrna": "ERNANDO CARDOSO",
+      "partido": "REPUBLICANOS",
+      "numero": "1077",
+      "votos": 1031,
+      "percentual": 12.02,
+      "sqcand": "110001618188"
+    },
+    {
+      "nome": "ROSA NEIDE SANDES DE ALMEIDA",
+      "nomeUrna": "PROFESSORA ROSA NEIDE",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 869,
+      "percentual": 10.14,
+      "sqcand": "110001675052"
+    },
+    {
+      "nome": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+      "nomeUrna": "CORONEL FERNANDA",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 799,
+      "percentual": 9.32,
+      "sqcand": "110001612764"
+    },
+    {
+      "nome": "CARLOS GOMES BEZERRA",
+      "nomeUrna": "CARLOS BEZERRA",
+      "partido": "MDB",
+      "numero": "1515",
+      "votos": 798,
+      "percentual": 9.31,
+      "sqcand": "110001623294"
+    },
+    {
+      "nome": "JOSÉ ANTÔNIO DOS SANTOS MEDEIROS",
+      "nomeUrna": "JOSÉ MEDEIROS",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 559,
+      "percentual": 6.52,
+      "sqcand": "110001612757"
+    },
+    {
+      "nome": "ANTONIO HUMBERTO MARTINS SIQUEIRA DE MELO BOSAIPO",
+      "nomeUrna": "ANTÔNIO BOSAIPO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 399,
+      "percentual": 4.65,
+      "sqcand": "110001612768"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JANOVAN RIOS DE SOUSA",
+      "nomeUrna": "JANOVAN RIOS",
+      "partido": "PSB",
+      "numero": "40678",
+      "votos": 3701,
+      "percentual": 43.37,
+      "sqcand": "110001604915"
+    },
+    {
+      "nome": "JOSÉ JOAQUIM DE SOUZA FILHO",
+      "nomeUrna": "BAIANO FILHO",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 945,
+      "percentual": 11.07,
+      "sqcand": "110001612929"
+    },
+    {
+      "nome": "JOSÉ EUGENIO DE PAIVA",
+      "nomeUrna": "DR. EUGÊNIO",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 381,
+      "percentual": 4.46,
+      "sqcand": "110001604908"
+    },
+    {
+      "nome": "JANAÍNA GREYCE RIVA FAGUNDES",
+      "nomeUrna": "JANAÍNA RIVA",
+      "partido": "MDB",
+      "numero": "15015",
+      "votos": 370,
+      "percentual": 4.34,
+      "sqcand": "110001623186"
+    },
+    {
+      "nome": "VALDIR MENDES BARRANCO",
+      "nomeUrna": "VALDIR BARRANCO",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 318,
+      "percentual": 3.73,
+      "sqcand": "110001719771"
+    },
+    {
+      "nome": "HENRIQUE LOPES DO NASCIMENTO",
+      "nomeUrna": "PROFESSOR HENRIQUE LOPES",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 235,
+      "percentual": 2.75,
+      "sqcand": "110001719773"
+    },
+    {
+      "nome": "CLAUDINEI DE SOUZA LOPES",
+      "nomeUrna": "DELEGADO CLAUDINEI",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 214,
+      "percentual": 2.51,
+      "sqcand": "110001620556"
+    }
+  ]
+}

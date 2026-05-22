@@ -1,0 +1,291 @@
+{
+  "populacao": 16662,
+  "votosValidos": 13229,
+  "abstencao": 15.96,
+  "prefeito": {
+    "nome": "CLEWTON DOMINGUES DE SOUZA",
+    "nomeUrna": "CLEVYN",
+    "partido": "PT",
+    "numero": "13",
+    "votos": 7508,
+    "percentual": 56.75,
+    "situacao": "Eleito",
+    "sqcand": "50002189245",
+    "vice": "AVELINO LOPES DE OLIVEIRA JUNIOR",
+    "viceNomeUrna": "JÚNIOR DA SERCOM",
+    "partidoVice": "PP",
+    "sqcandVice": "50002189246",
+    "coligacao": "PP / PSB / PSD / PC do B / PT / PV"
+  },
+  "vereadores": [
+    {
+      "nome": "MARIA DO ROSARIO SOUZA SILVA SOUSA",
+      "nomeUrna": "ZARINHA DE TONILO",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 633,
+      "percentual": 4.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002278951"
+    },
+    {
+      "nome": "ADAILTON DA SILVA MICLOS",
+      "nomeUrna": "DAI MICLOS",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 606,
+      "percentual": 4.5,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002239869"
+    },
+    {
+      "nome": "SENHORINHO BATISTA DO BOMFIM",
+      "nomeUrna": "SENHORINHO BOMFIM",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 596,
+      "percentual": 4.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002278952"
+    },
+    {
+      "nome": "GREGSON BARBOSA LUZ",
+      "nomeUrna": "GREGSON LUZ",
+      "partido": "PRD",
+      "numero": "25125",
+      "votos": 563,
+      "percentual": 4.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002234372"
+    },
+    {
+      "nome": "IVANA GOUVEIA DA COSTA",
+      "nomeUrna": "IVANA GOUVEIA",
+      "partido": "PSB",
+      "numero": "40888",
+      "votos": 532,
+      "percentual": 3.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002239873"
+    },
+    {
+      "nome": "JOAO PAULO LEAO RIBEIRO",
+      "nomeUrna": "JOÃO PAULO DO PT",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 470,
+      "percentual": 3.49,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002306556"
+    },
+    {
+      "nome": "ERICK BUNGE PEREIRA",
+      "nomeUrna": "ERICK BUNGE",
+      "partido": "PSD",
+      "numero": "55888",
+      "votos": 470,
+      "percentual": 3.49,
+      "situacao": "Eleito por média",
+      "sqcand": "50002278944"
+    },
+    {
+      "nome": "NEILTON LOPES PEREIRA",
+      "nomeUrna": "NEILTON DA EXTREMA",
+      "partido": "PSB",
+      "numero": "40999",
+      "votos": 466,
+      "percentual": 3.46,
+      "situacao": "Eleito por média",
+      "sqcand": "50002239864"
+    },
+    {
+      "nome": "DANIEL VIANA SANTOS",
+      "nomeUrna": "DANIEL DE URIAS",
+      "partido": "PRD",
+      "numero": "25111",
+      "votos": 394,
+      "percentual": 2.92,
+      "situacao": "Eleito por média",
+      "sqcand": "50002234377"
+    },
+    {
+      "nome": "SILVANEI COSTA",
+      "nomeUrna": "NEI DE EDESIO",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 382,
+      "percentual": 2.83,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002275815"
+    },
+    {
+      "nome": "ODENI RIBEIRO DOS SANTOS",
+      "nomeUrna": "DENI DO SITIO",
+      "partido": "PT",
+      "numero": "13444",
+      "votos": 377,
+      "percentual": 2.8,
+      "situacao": "Eleito por QP",
+      "sqcand": "50002306558"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "OTTO ROBERTO MENDONCA DE ALENCAR",
+      "nomeUrna": "OTTO ALENCAR",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 6238,
+      "percentual": 61.32,
+      "sqcand": "50001605790"
+    },
+    {
+      "nome": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+      "nomeUrna": "CACÁ LEÃO",
+      "partido": "PP",
+      "numero": "111",
+      "votos": 3065,
+      "percentual": 30.13,
+      "sqcand": "50001615121"
+    },
+    {
+      "nome": "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "nomeUrna": "DOUTORA RAISSA SOARES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 844,
+      "percentual": 8.3,
+      "sqcand": "50001605325"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "JOSÉ ALVES ROCHA",
+      "nomeUrna": "JOSÉ ROCHA",
+      "partido": "UNIÃO",
+      "numero": "4422",
+      "votos": 5049,
+      "percentual": 45.47,
+      "sqcand": "50001634584"
+    },
+    {
+      "nome": "ELMAR JOSE VIEIRA NASCIMENTO",
+      "nomeUrna": "ELMAR NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "4433",
+      "votos": 1520,
+      "percentual": 13.69,
+      "sqcand": "50001634583"
+    },
+    {
+      "nome": "ARTHUR DE OLIVEIRA MAIA DA SILVA",
+      "nomeUrna": "ARTHUR MAIA",
+      "partido": "UNIÃO",
+      "numero": "4412",
+      "votos": 1224,
+      "percentual": 11.02,
+      "sqcand": "50001634596"
+    },
+    {
+      "nome": "AFONSO BANDEIRA FLORENCE",
+      "nomeUrna": "AFONSO FLORENCE",
+      "partido": "PT",
+      "numero": "1301",
+      "votos": 1124,
+      "percentual": 10.12,
+      "sqcand": "50001605378"
+    },
+    {
+      "nome": "CHARLES FERNANDES SILVEIRA SANTANA",
+      "nomeUrna": "CHARLES FERNANDES",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 454,
+      "percentual": 4.09,
+      "sqcand": "50001607219"
+    },
+    {
+      "nome": "IVONEIDE SOUZA CAETANO",
+      "nomeUrna": "IVONEIDE CAETANO",
+      "partido": "PT",
+      "numero": "1300",
+      "votos": 257,
+      "percentual": 2.31,
+      "sqcand": "50001605353"
+    },
+    {
+      "nome": "MARCELO DE OLIVEIRA GUIMARAES FILHO",
+      "nomeUrna": "MARCELO GUIMARÃES FILHO",
+      "partido": "UNIÃO",
+      "numero": "4455",
+      "votos": 127,
+      "percentual": 1.14,
+      "sqcand": "50001634585"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCELO DANTAS VEIGA",
+      "nomeUrna": "MARCELINHO VEIGA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 4213,
+      "percentual": 41.36,
+      "sqcand": "50001648309"
+    },
+    {
+      "nome": "MANUEL AZEVEDO ROCHA",
+      "nomeUrna": "MANUEL ROCHA",
+      "partido": "UNIÃO",
+      "numero": "44222",
+      "votos": 1967,
+      "percentual": 19.31,
+      "sqcand": "50001648303"
+    },
+    {
+      "nome": "DENIVALDO MUNIZ LOPES JUNIOR",
+      "nomeUrna": "JUNIOR MUNIZ",
+      "partido": "PT",
+      "numero": "13000",
+      "votos": 1362,
+      "percentual": 13.37,
+      "sqcand": "50001606416"
+    },
+    {
+      "nome": "ANTÔNIO CARLOS NASCIMENTO JUNIOR",
+      "nomeUrna": "JUNIOR NASCIMENTO",
+      "partido": "UNIÃO",
+      "numero": "44333",
+      "votos": 1171,
+      "percentual": 11.5,
+      "sqcand": "50001648300"
+    },
+    {
+      "nome": "LEANDRO DE SOUZA QUEIROZ",
+      "nomeUrna": "LÉO VISÃO",
+      "partido": "AVANTE",
+      "numero": "70888",
+      "votos": 280,
+      "percentual": 2.75,
+      "sqcand": "50001603028"
+    },
+    {
+      "nome": "EURES RIBEIRO PEREIRA",
+      "nomeUrna": "EURES RIBEIRO",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 170,
+      "percentual": 1.67,
+      "sqcand": "50001607295"
+    },
+    {
+      "nome": "MARCOS AGUIAR VIANA",
+      "nomeUrna": "MARQUINHO VIANA",
+      "partido": "PV",
+      "numero": "43888",
+      "votos": 157,
+      "percentual": 1.54,
+      "sqcand": "50001606436"
+    }
+  ]
+}

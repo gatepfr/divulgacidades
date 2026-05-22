@@ -1,0 +1,271 @@
+{
+  "populacao": 2705,
+  "votosValidos": 2283,
+  "abstencao": 13.53,
+  "prefeito": {
+    "nome": "GHEYSA MARIA BONFIM BORGATO",
+    "nomeUrna": "GHEYSA BORGATO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 1276,
+    "percentual": 55.89,
+    "situacao": "Eleito",
+    "sqcand": "110002113957",
+    "vice": "EDISON MARTINS DOS SANTOS FILHO",
+    "viceNomeUrna": "GODOI",
+    "partidoVice": "PSD",
+    "sqcandVice": "110002113958",
+    "coligacao": "PSD / MDB / REPUBLICANOS"
+  },
+  "vereadores": [
+    {
+      "nome": "JAIR RODRIGUES DA SILVA",
+      "nomeUrna": "JAIR RODRIGUES",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 190,
+      "percentual": 8.34,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002142226"
+    },
+    {
+      "nome": "JOSE RODRIGUES",
+      "nomeUrna": "NEGUINHO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 169,
+      "percentual": 7.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002116584"
+    },
+    {
+      "nome": "DAGMAR PERPETUA DE FARIA",
+      "nomeUrna": "DAGMAR DO REGI",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 139,
+      "percentual": 6.1,
+      "situacao": "Eleito por média",
+      "sqcand": "110002116583"
+    },
+    {
+      "nome": "DAIANE DA SILVA TEODORO",
+      "nomeUrna": "DAIANE ENFERMEIRA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 134,
+      "percentual": 5.88,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002115775"
+    },
+    {
+      "nome": "GEAN CARLOS ALVES",
+      "nomeUrna": "GEAN DA TABULETA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 130,
+      "percentual": 5.71,
+      "situacao": "Eleito por média",
+      "sqcand": "110002115774"
+    },
+    {
+      "nome": "SEBASTIÃO SÉRGIO PAULANI",
+      "nomeUrna": "BALOI",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 108,
+      "percentual": 4.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002116162"
+    },
+    {
+      "nome": "EDIMAR TEIXEIRA RAMOS",
+      "nomeUrna": "DODO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 105,
+      "percentual": 4.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002142229"
+    },
+    {
+      "nome": "JOÃO BATISTA DE SOUZA",
+      "nomeUrna": "JOÃO",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 105,
+      "percentual": 4.61,
+      "situacao": "Eleito por QP",
+      "sqcand": "110002117002"
+    },
+    {
+      "nome": "AIRTON NUNES DE SOUZA",
+      "nomeUrna": "AIRTON DA ALDEIA",
+      "partido": "MDB",
+      "numero": "15610",
+      "votos": 84,
+      "percentual": 3.69,
+      "situacao": "Eleito por média",
+      "sqcand": "110002117003"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "nomeUrna": "WELLINGTON FAGUNDES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 927,
+      "percentual": 67.32,
+      "sqcand": "110001676176"
+    },
+    {
+      "nome": "ANTONIO GALVAN",
+      "nomeUrna": "ANTÔNIO GALVAN",
+      "partido": "PTB",
+      "numero": "144",
+      "votos": 420,
+      "percentual": 30.5,
+      "sqcand": "110001621186"
+    },
+    {
+      "nome": "KÁSSIO EDUARDO DA SILVA COELHO",
+      "nomeUrna": "KÁSSIO COELHO",
+      "partido": "PATRIOTA",
+      "numero": "510",
+      "votos": 13,
+      "percentual": 0.94,
+      "sqcand": "110001595899"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LEONARDO RIBEIRO ALBUQUERQUE",
+      "nomeUrna": "DR LEONARDO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 310,
+      "percentual": 17.37,
+      "sqcand": "110001618183"
+    },
+    {
+      "nome": "IRAJA REZENDE DE LACERDA",
+      "nomeUrna": "IRAJA LACERDA",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 179,
+      "percentual": 10.03,
+      "sqcand": "110001643558"
+    },
+    {
+      "nome": "EMANUEL PINHEIRO DA SILVA PRIMO TEIXEIRA",
+      "nomeUrna": "EMANUELZINHO",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 144,
+      "percentual": 8.07,
+      "sqcand": "110001623300"
+    },
+    {
+      "nome": "NELSON NED PREVIDENTE",
+      "nomeUrna": "NELSON BARBUDO",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 136,
+      "percentual": 7.62,
+      "sqcand": "110001612759"
+    },
+    {
+      "nome": "GILMAR DONIZETE FABRIS",
+      "nomeUrna": "GILMAR FABRIS",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 129,
+      "percentual": 7.23,
+      "sqcand": "110001643560"
+    },
+    {
+      "nome": "FÁBIO PAULINO GARCIA",
+      "nomeUrna": "FÁBIO GARCIA",
+      "partido": "UNIÃO",
+      "numero": "4400",
+      "votos": 122,
+      "percentual": 6.83,
+      "sqcand": "110001612770"
+    },
+    {
+      "nome": "VALTENIR LUIZ PEREIRA",
+      "nomeUrna": "VALTENIR PEREIRA",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 111,
+      "percentual": 6.22,
+      "sqcand": "110001623299"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ARNALDO XAVIER OLIVEIRA JUNIOR",
+      "nomeUrna": "DR ARNALDO",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 322,
+      "percentual": 18.0,
+      "sqcand": "110001621188"
+    },
+    {
+      "nome": "VALMIR LUIZ MORETTO",
+      "nomeUrna": "VALMIR MORETTO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 221,
+      "percentual": 12.35,
+      "sqcand": "110001635660"
+    },
+    {
+      "nome": "ALBERTO MACHADO",
+      "nomeUrna": "BETO DOIS A UM",
+      "partido": "PSB",
+      "numero": "40321",
+      "votos": 155,
+      "percentual": 8.66,
+      "sqcand": "110001604930"
+    },
+    {
+      "nome": "FRANCIS MARIS CRUZ",
+      "nomeUrna": "FRANCIS MARIS DA COMETA",
+      "partido": "PSDB",
+      "numero": "45222",
+      "votos": 146,
+      "percentual": 8.16,
+      "sqcand": "110001655623"
+    },
+    {
+      "nome": "LUIS AMILTON GIMENEZ",
+      "nomeUrna": "DR. GIMENEZ",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 140,
+      "percentual": 7.83,
+      "sqcand": "110001643418"
+    },
+    {
+      "nome": "JÚLIO JOSÉ DE CAMPOS",
+      "nomeUrna": "JÚLIO CAMPOS",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 106,
+      "percentual": 5.93,
+      "sqcand": "110001612940"
+    },
+    {
+      "nome": "NESTOR FERNANDES FIDELIS",
+      "nomeUrna": "NESTOR FIDELIS",
+      "partido": "PATRIOTA",
+      "numero": "51888",
+      "votos": 79,
+      "percentual": 4.42,
+      "sqcand": "110001595927"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "populacao": 6271,
+  "votosValidos": 4646,
+  "abstencao": 22.45,
+  "prefeito": {
+    "nome": "ARALDO TODESCO",
+    "nomeUrna": "TODESCO",
+    "partido": "PSB",
+    "numero": "40",
+    "votos": 2572,
+    "percentual": 55.36,
+    "situacao": "Eleito",
+    "sqcand": "250002129446",
+    "vice": "PAULO FRANCISCO CAVALCANTE IISE",
+    "viceNomeUrna": "CHIQUINHO",
+    "partidoVice": "PSD",
+    "sqcandVice": "250002129447",
+    "coligacao": "PSB / REPUBLICANOS / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "DENISE APARECIDA CAVALCANTE",
+      "nomeUrna": "DENISE CAVALCANTE",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 455,
+      "percentual": 9.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002128574"
+    },
+    {
+      "nome": "DORIVAL TEODORO BENTO",
+      "nomeUrna": "CHICÃO",
+      "partido": "PSB",
+      "numero": "40147",
+      "votos": 447,
+      "percentual": 9.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002128575"
+    },
+    {
+      "nome": "JOEL DIAS DE MORAES",
+      "nomeUrna": "JOEL COCÃO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 399,
+      "percentual": 8.76,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002196442"
+    },
+    {
+      "nome": "DORVÍLIO ANTONIO FARIA",
+      "nomeUrna": "DORVÍLIO FARIA",
+      "partido": "PSD",
+      "numero": "55122",
+      "votos": 280,
+      "percentual": 6.15,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002196446"
+    },
+    {
+      "nome": "GERSON LUIZ GLASSER",
+      "nomeUrna": "GERSON GLASSER",
+      "partido": "UNIÃO",
+      "numero": "44011",
+      "votos": 265,
+      "percentual": 5.82,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002063904"
+    },
+    {
+      "nome": "NIVALDO FERREIRA DE SOUZA",
+      "nomeUrna": "NIVALDO DA CASA DE RAÇÃO",
+      "partido": "UNIÃO",
+      "numero": "44044",
+      "votos": 262,
+      "percentual": 5.75,
+      "situacao": "Eleito por média",
+      "sqcand": "250002063912"
+    },
+    {
+      "nome": "CESAR ROBERTO DE ARAUJO",
+      "nomeUrna": "CESAR DA LOCADORA",
+      "partido": "PSB",
+      "numero": "40400",
+      "votos": 193,
+      "percentual": 4.24,
+      "situacao": "Eleito por QP",
+      "sqcand": "250002128577"
+    },
+    {
+      "nome": "HUMBERTO PEREIRA DA SILVA",
+      "nomeUrna": "FUMAÇA",
+      "partido": "PSD",
+      "numero": "55333",
+      "votos": 178,
+      "percentual": 3.91,
+      "situacao": "Eleito por média",
+      "sqcand": "250002196445"
+    },
+    {
+      "nome": "JOSÉ PIRES",
+      "nomeUrna": "ZÉ PIRES",
+      "partido": "PSB",
+      "numero": "40211",
+      "votos": 124,
+      "percentual": 2.72,
+      "situacao": "Eleito por média",
+      "sqcand": "250002128570"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARCOS CESAR PONTES",
+      "nomeUrna": "ASTRONAUTA MARCOS PONTES",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2036,
+      "percentual": 52.56,
+      "sqcand": "250001612472"
+    },
+    {
+      "nome": "MÁRCIO LUIZ FRANÇA GOMES",
+      "nomeUrna": "MÁRCIO FRANÇA",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1548,
+      "percentual": 39.96,
+      "sqcand": "250001615891"
+    },
+    {
+      "nome": "EDSON APARECIDO DOS SANTOS",
+      "nomeUrna": "EDSON APARECIDO",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 213,
+      "percentual": 5.5,
+      "sqcand": "250001612459"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "ROSANA DE OLIVEIRA VALLE",
+      "nomeUrna": "ROSANA VALLE",
+      "partido": "PL",
+      "numero": "2227",
+      "votos": 1039,
+      "percentual": 25.67,
+      "sqcand": "250001611311"
+    },
+    {
+      "nome": "ALEXANDRE LEITE DA SILVA",
+      "nomeUrna": "ALEXANDRE LEITE",
+      "partido": "UNIÃO",
+      "numero": "4425",
+      "votos": 460,
+      "percentual": 11.36,
+      "sqcand": "250001602036"
+    },
+    {
+      "nome": "SAMUEL MOREIRA DA SILVA JUNIOR",
+      "nomeUrna": "SAMUEL MOREIRA",
+      "partido": "PSDB",
+      "numero": "4580",
+      "votos": 180,
+      "percentual": 4.45,
+      "sqcand": "250001612140"
+    },
+    {
+      "nome": "JOSÉ OLIMPIO SILVEIRA MORAES",
+      "nomeUrna": "MISSIONÁRIO JOSÉ OLÍMPIO",
+      "partido": "PL",
+      "numero": "2241",
+      "votos": 159,
+      "percentual": 3.93,
+      "sqcand": "250001611328"
+    },
+    {
+      "nome": "VITOR LIPPI",
+      "nomeUrna": "VITOR LIPPI",
+      "partido": "PSDB",
+      "numero": "4510",
+      "votos": 141,
+      "percentual": 3.48,
+      "sqcand": "250001612095"
+    },
+    {
+      "nome": "IARA BERNARDI",
+      "nomeUrna": "IARA BERNARDI COLETIVA ELAS",
+      "partido": "PT",
+      "numero": "1310",
+      "votos": 139,
+      "percentual": 3.43,
+      "sqcand": "250001610701"
+    },
+    {
+      "nome": "ANTONIO GOULART DOS REIS",
+      "nomeUrna": "GOULART",
+      "partido": "UNIÃO",
+      "numero": "4480",
+      "votos": 96,
+      "percentual": 2.37,
+      "sqcand": "250001602046"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CAIO FRANÇA DE GOUVÊA GOMES",
+      "nomeUrna": "CAIO FRANÇA",
+      "partido": "PSB",
+      "numero": "40640",
+      "votos": 1181,
+      "percentual": 31.07,
+      "sqcand": "250001620641"
+    },
+    {
+      "nome": "MILTON LEITE DA SILVA FILHO",
+      "nomeUrna": "MILTON LEITE FILHO",
+      "partido": "UNIÃO",
+      "numero": "44250",
+      "votos": 511,
+      "percentual": 13.44,
+      "sqcand": "250001602142"
+    },
+    {
+      "nome": "RODRIGO AUGUSTO MORAES",
+      "nomeUrna": "RODRIGO MORAES",
+      "partido": "PL",
+      "numero": "22541",
+      "votos": 239,
+      "percentual": 6.29,
+      "sqcand": "250001610140"
+    },
+    {
+      "nome": "LEANDRO CÂNDIDO SOARES",
+      "nomeUrna": "LEANDRO SOARES",
+      "partido": "PT",
+      "numero": "13290",
+      "votos": 169,
+      "percentual": 4.45,
+      "sqcand": "250001611741"
+    },
+    {
+      "nome": "MARIA LUCIA CARDOSO PINTO AMARY",
+      "nomeUrna": "MARIA LUCIA AMARY",
+      "partido": "PSDB",
+      "numero": "45114",
+      "votos": 161,
+      "percentual": 4.24,
+      "sqcand": "250001611490"
+    },
+    {
+      "nome": "JORGE LUIS CARUSO",
+      "nomeUrna": "CARUSO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 131,
+      "percentual": 3.45,
+      "sqcand": "250001609973"
+    },
+    {
+      "nome": "CARLOS CEZAR DA SILVA",
+      "nomeUrna": "CARLOS CEZAR",
+      "partido": "PL",
+      "numero": "22112",
+      "votos": 112,
+      "percentual": 2.95,
+      "sqcand": "250001610158"
+    }
+  ]
+}

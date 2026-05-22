@@ -1,0 +1,271 @@
+{
+  "populacao": 3803,
+  "votosValidos": 3346,
+  "abstencao": 9.83,
+  "prefeito": {
+    "nome": "TIAGO SCHUTZ",
+    "nomeUrna": "TIAGO",
+    "partido": "PL",
+    "numero": "22",
+    "votos": 1900,
+    "percentual": 56.78,
+    "situacao": "Eleito",
+    "sqcand": "240002061457",
+    "vice": "RENATO BUNN",
+    "viceNomeUrna": "RENATO BUNN",
+    "partidoVice": "PSDB",
+    "sqcandVice": "240002061456",
+    "coligacao": "PL / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "JACSON DANIEL WALTRICH",
+      "nomeUrna": "JACSON",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 234,
+      "percentual": 6.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002050311"
+    },
+    {
+      "nome": "MECLET MARIA KAYSER",
+      "nomeUrna": "KETY KAYSER",
+      "partido": "PL",
+      "numero": "22210",
+      "votos": 222,
+      "percentual": 6.56,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002033872"
+    },
+    {
+      "nome": "DANIELA VARELA",
+      "nomeUrna": "DANIELA VARELA",
+      "partido": "PL",
+      "numero": "22345",
+      "votos": 200,
+      "percentual": 5.91,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002033868"
+    },
+    {
+      "nome": "MARIA APARECIDA DA SILVA MELO ABREU",
+      "nomeUrna": "CIDA",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 191,
+      "percentual": 5.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002033869"
+    },
+    {
+      "nome": "JULIANE HASS SCHILLER",
+      "nomeUrna": "JULIA HASS",
+      "partido": "MDB",
+      "numero": "15678",
+      "votos": 191,
+      "percentual": 5.64,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002264590"
+    },
+    {
+      "nome": "SONI GUCKERT",
+      "nomeUrna": "SONI",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 187,
+      "percentual": 5.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002264595"
+    },
+    {
+      "nome": "CELSO SCHAFER FILHO",
+      "nomeUrna": "MURU",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 180,
+      "percentual": 5.32,
+      "situacao": "Eleito por média",
+      "sqcand": "240002033873"
+    },
+    {
+      "nome": "DANIEL MULBERSTEDT",
+      "nomeUrna": "DANIEL",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 157,
+      "percentual": 4.64,
+      "situacao": "Eleito por média",
+      "sqcand": "240002050310"
+    },
+    {
+      "nome": "PEDRO SOARES NETO",
+      "nomeUrna": "PEDRINHO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 109,
+      "percentual": 3.22,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002260165"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 902,
+      "percentual": 39.86,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "CELSO MALDANER",
+      "nomeUrna": "CELSO MALDANER",
+      "partido": "MDB",
+      "numero": "155",
+      "votos": 434,
+      "percentual": 19.18,
+      "sqcand": "240001647359"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 360,
+      "percentual": 15.91,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DANIEL COSTA DE FREITAS",
+      "nomeUrna": "DANIEL FREITAS",
+      "partido": "PL",
+      "numero": "2211",
+      "votos": 370,
+      "percentual": 16.05,
+      "sqcand": "240001610972"
+    },
+    {
+      "nome": "CARLOS ALBERTO CHIODINI",
+      "nomeUrna": "CARLOS CHIODINI",
+      "partido": "MDB",
+      "numero": "1570",
+      "votos": 247,
+      "percentual": 10.72,
+      "sqcand": "240001602683"
+    },
+    {
+      "nome": "LUIZ FERNANDO CARDOSO",
+      "nomeUrna": "VAMPIRO",
+      "partido": "MDB",
+      "numero": "1500",
+      "votos": 210,
+      "percentual": 9.11,
+      "sqcand": "240001602682"
+    },
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 123,
+      "percentual": 5.34,
+      "sqcand": "240001611938"
+    },
+    {
+      "nome": "DARCI DE MATOS",
+      "nomeUrna": "DARCI DE MATOS",
+      "partido": "PSD",
+      "numero": "5500",
+      "votos": 111,
+      "percentual": 4.82,
+      "sqcand": "240001611136"
+    },
+    {
+      "nome": "DANIELA CRISTINA REINEHR",
+      "nomeUrna": "DANIELA REINEHR",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 96,
+      "percentual": 4.16,
+      "sqcand": "240001610968"
+    },
+    {
+      "nome": "BRUNO ANDRÉ DE SOUZA",
+      "nomeUrna": "BRUNO SOUZA",
+      "partido": "NOVO",
+      "numero": "3020",
+      "votos": 87,
+      "percentual": 3.77,
+      "sqcand": "240001597411"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "DIRCE APARECIDA HEIDERSCHEIDT",
+      "nomeUrna": "DIRCE HEIDERSCHEIDT",
+      "partido": "MDB",
+      "numero": "15234",
+      "votos": 674,
+      "percentual": 28.78,
+      "sqcand": "240001605925"
+    },
+    {
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nomeUrna": "ANA CAMPAGNOLO",
+      "partido": "PL",
+      "numero": "22822",
+      "votos": 204,
+      "percentual": 8.71,
+      "sqcand": "240001614348"
+    },
+    {
+      "nome": "LUIZ CARLOS GOEDERT",
+      "nomeUrna": "LUIZINHO DA REGIONAL",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 138,
+      "percentual": 5.89,
+      "sqcand": "240001644755"
+    },
+    {
+      "nome": "CAMILO NAZARENO PAGANI MARTINS",
+      "nomeUrna": "CAMILO MARTINS",
+      "partido": "PODE",
+      "numero": "19369",
+      "votos": 126,
+      "percentual": 5.38,
+      "sqcand": "240001610835"
+    },
+    {
+      "nome": "MARIO PINTO DA MOTTA JUNIOR",
+      "nomeUrna": "MARIO MOTTA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 77,
+      "percentual": 3.29,
+      "sqcand": "240001614375"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 68,
+      "percentual": 2.9,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "JOSÉ MILTON SCHEFFER",
+      "nomeUrna": "ZÉ MILTON",
+      "partido": "PP",
+      "numero": "11234",
+      "votos": 59,
+      "percentual": 2.52,
+      "sqcand": "240001644756"
+    }
+  ]
+}

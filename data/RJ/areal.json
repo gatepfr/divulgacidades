@@ -1,0 +1,271 @@
+{
+  "populacao": 10372,
+  "votosValidos": 8056,
+  "abstencao": 18.01,
+  "prefeito": {
+    "nome": "JOSÉ AUGUSTO BERNARDES LIMA",
+    "nomeUrna": "GUTINHO BERNARDES",
+    "partido": "PP",
+    "numero": "11",
+    "votos": 6506,
+    "percentual": 80.76,
+    "situacao": "Eleito",
+    "sqcand": "190002059203",
+    "vice": "LAERTE CALIL DE FREITAS",
+    "viceNomeUrna": "LAERTE",
+    "partidoVice": "PSD",
+    "sqcandVice": "190002059202",
+    "coligacao": "PP / PSD / UNIÃO / PRD / PDT / PSB"
+  },
+  "vereadores": [
+    {
+      "nome": "LUIS AURÉLIO ZIMBRÃO RIBEIRO",
+      "nomeUrna": "LUIS DA PAPELARIA",
+      "partido": "PRD",
+      "numero": "25123",
+      "votos": 607,
+      "percentual": 7.37,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002022991"
+    },
+    {
+      "nome": "SAMUEL SANSEVERINO SOARES",
+      "nomeUrna": "SAMUEL SANSEVERINO",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 563,
+      "percentual": 6.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001986746"
+    },
+    {
+      "nome": "LUIS FELIPE RABELO BARROS",
+      "nomeUrna": "FELIPINHO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 425,
+      "percentual": 5.16,
+      "situacao": "Eleito por média",
+      "sqcand": "190002022768"
+    },
+    {
+      "nome": "ROBSON RODRIGUES MONTEIRO",
+      "nomeUrna": "ROBINHO DA VILA",
+      "partido": "PRD",
+      "numero": "25222",
+      "votos": 410,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "190002022992"
+    },
+    {
+      "nome": "ITAMAR MEDINA MACHADO",
+      "nomeUrna": "ITAMAR DA AMBULÂNCIA",
+      "partido": "UNIÃO",
+      "numero": "44555",
+      "votos": 393,
+      "percentual": 4.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001986773"
+    },
+    {
+      "nome": "ALVARO LIMA DE FREITAS",
+      "nomeUrna": "ALVARO MATERIAL DE CONSTRUÇÃO",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 385,
+      "percentual": 4.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001986570"
+    },
+    {
+      "nome": "JOSÉ LUIZ SANTANA DE MELLO",
+      "nomeUrna": "SANTANA DA VERDURA",
+      "partido": "PP",
+      "numero": "11650",
+      "votos": 381,
+      "percentual": 4.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "190001969912"
+    },
+    {
+      "nome": "DANILO GOUVÊA DOS SANTOS",
+      "nomeUrna": "DANILO GOUVÊA",
+      "partido": "PRD",
+      "numero": "25555",
+      "votos": 343,
+      "percentual": 4.17,
+      "situacao": "Eleito por média",
+      "sqcand": "190002022990"
+    },
+    {
+      "nome": "VALTER LUIS RODRIGUES FERREIRA",
+      "nomeUrna": "VALTER LUIS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 290,
+      "percentual": 3.52,
+      "situacao": "Eleito por média",
+      "sqcand": "190001969918"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "nomeUrna": "ROMÁRIO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 2528,
+      "percentual": 50.2,
+      "sqcand": "190001612455"
+    },
+    {
+      "nome": "ALESSANDRO LUCCIOLA MOLON",
+      "nomeUrna": "ALESSANDRO MOLON",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 1136,
+      "percentual": 22.56,
+      "sqcand": "190001609504"
+    },
+    {
+      "nome": "ANDRÉ LUIZ CECILIANO",
+      "nomeUrna": "ANDRE CECILIANO",
+      "partido": "PT",
+      "numero": "133",
+      "votos": 574,
+      "percentual": 11.4,
+      "sqcand": "190001614199"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "MARCIO JOSÉ MATOS PONCIO DE SOUZA",
+      "nomeUrna": "MÁRCIO PONCIO",
+      "partido": "PROS",
+      "numero": "9012",
+      "votos": 957,
+      "percentual": 13.86,
+      "sqcand": "190001606539"
+    },
+    {
+      "nome": "MARCUS VINICIUS DE VASCONCELOS FERREIRA",
+      "nomeUrna": "MARCUS VINICIUS NESKAU",
+      "partido": "PTB",
+      "numero": "1484",
+      "votos": 792,
+      "percentual": 11.47,
+      "sqcand": "190001603065"
+    },
+    {
+      "nome": "VINICIUS MEDEIROS FARAH",
+      "nomeUrna": "VINICIUS FARAH",
+      "partido": "UNIÃO",
+      "numero": "4415",
+      "votos": 472,
+      "percentual": 6.83,
+      "sqcand": "190001619495"
+    },
+    {
+      "nome": "HUGO LEAL MELO DA SILVA",
+      "nomeUrna": "HUGO LEAL",
+      "partido": "PSD",
+      "numero": "5510",
+      "votos": 436,
+      "percentual": 6.31,
+      "sqcand": "190001603404"
+    },
+    {
+      "nome": "MAX RODRIGUES LEMOS",
+      "nomeUrna": "MAX",
+      "partido": "PROS",
+      "numero": "9090",
+      "votos": 317,
+      "percentual": 4.59,
+      "sqcand": "190001606579"
+    },
+    {
+      "nome": "FRANCISCO JOSE D ANGELO",
+      "nomeUrna": "CHICO D ANGELO",
+      "partido": "PDT",
+      "numero": "1210",
+      "votos": 313,
+      "percentual": 4.53,
+      "sqcand": "190001640615"
+    },
+    {
+      "nome": "FABIANO OLIVEIRA PEREIRA",
+      "nomeUrna": "FABIANO OLIVEIRA",
+      "partido": "UNIÃO",
+      "numero": "4490",
+      "votos": 243,
+      "percentual": 3.52,
+      "sqcand": "190001619508"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "SÉRGIO LUIZ COSTA AZEVEDO FILHO",
+      "nomeUrna": "DR SERGINHO",
+      "partido": "PL",
+      "numero": "22122",
+      "votos": 689,
+      "percentual": 10.48,
+      "sqcand": "190001596716"
+    },
+    {
+      "nome": "BERNARDO CHIM ROSSI",
+      "nomeUrna": "BERNARDO ROSSI",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77007",
+      "votos": 396,
+      "percentual": 6.02,
+      "sqcand": "190001601350"
+    },
+    {
+      "nome": "EURICO PINHEIRO BERNARDES JÚNIOR",
+      "nomeUrna": "EURICO JÚNIOR",
+      "partido": "PV",
+      "numero": "43126",
+      "votos": 372,
+      "percentual": 5.66,
+      "sqcand": "190001620523"
+    },
+    {
+      "nome": "SARAH PONCIO SILVA DE SOUZA",
+      "nomeUrna": "SARAH PONCIO",
+      "partido": "PROS",
+      "numero": "90123",
+      "votos": 361,
+      "percentual": 5.49,
+      "sqcand": "190001613662"
+    },
+    {
+      "nome": "DANIEL MARCOS BARBIRATTO DE ALMEIDA",
+      "nomeUrna": "DANIEL LUIZ MARTINS",
+      "partido": "UNIÃO",
+      "numero": "44200",
+      "votos": 351,
+      "percentual": 5.34,
+      "sqcand": "190001619459"
+    },
+    {
+      "nome": "RODRIGO DA SILVA BACELLAR",
+      "nomeUrna": "RODRIGO BACELLAR",
+      "partido": "PL",
+      "numero": "22789",
+      "votos": 336,
+      "percentual": 5.11,
+      "sqcand": "190001596728"
+    },
+    {
+      "nome": "YURI LUCAS CARIUS DE MOURA ALMEIDA",
+      "nomeUrna": "YURI",
+      "partido": "PSOL",
+      "numero": "50700",
+      "votos": 279,
+      "percentual": 4.24,
+      "sqcand": "190001600427"
+    }
+  ]
+}

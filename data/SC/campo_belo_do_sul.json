@@ -1,0 +1,271 @@
+{
+  "populacao": 6075,
+  "votosValidos": 5028,
+  "abstencao": 14.95,
+  "prefeito": {
+    "nome": "CÉLIO PEREIRA",
+    "nomeUrna": "CÉLIO PEREIRA",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2954,
+    "percentual": 58.75,
+    "situacao": "Eleito",
+    "sqcand": "240002354907",
+    "vice": "ADEMIR DA GUIA MARTINS",
+    "viceNomeUrna": "ADEMIR DA GUIA TIO ADÊ",
+    "partidoVice": "PODE",
+    "sqcandVice": "240002354908",
+    "coligacao": "MDB / PODE / PSD / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "WILLIAN DEIVIDI PEREIRA",
+      "nomeUrna": "WILLIAN PEREIRA",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 601,
+      "percentual": 11.95,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002358812"
+    },
+    {
+      "nome": "JORCILIANA HEGER DE OLIVEIRA",
+      "nomeUrna": "JORCI",
+      "partido": "PP",
+      "numero": "11444",
+      "votos": 567,
+      "percentual": 11.28,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002353748"
+    },
+    {
+      "nome": "FABIANA DA SILVA",
+      "nomeUrna": "FABI BELAU",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 400,
+      "percentual": 7.96,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002353750"
+    },
+    {
+      "nome": "ANDERSON GIOVANI PEREIRA HOFFER",
+      "nomeUrna": "GIOVANI HOFFER",
+      "partido": "PODE",
+      "numero": "20123",
+      "votos": 383,
+      "percentual": 7.62,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002361125"
+    },
+    {
+      "nome": "CLAUDINEI RIBEIRO DA SILVA",
+      "nomeUrna": "CLAUDINEI CORVO",
+      "partido": "PSD",
+      "numero": "55222",
+      "votos": 348,
+      "percentual": 6.92,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002358811"
+    },
+    {
+      "nome": "CARLOS ANTUNES DE MELO PINTO",
+      "nomeUrna": "CARLOS DA SAÚDE",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 297,
+      "percentual": 5.91,
+      "situacao": "Eleito por média",
+      "sqcand": "240002358814"
+    },
+    {
+      "nome": "GILSEU FERNANDO ROSCH",
+      "nomeUrna": "SHAMPOO",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 275,
+      "percentual": 5.47,
+      "situacao": "Eleito por QP",
+      "sqcand": "240002353747"
+    },
+    {
+      "nome": "LUCIAN BRANCO",
+      "nomeUrna": "LUCIAN BRANCO",
+      "partido": "PP",
+      "numero": "11616",
+      "votos": 238,
+      "percentual": 4.73,
+      "situacao": "Eleito por média",
+      "sqcand": "240002353745"
+    },
+    {
+      "nome": "JOÃO CARLOS PEREIRA BARROS",
+      "nomeUrna": "FORMIGA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 169,
+      "percentual": 3.36,
+      "situacao": "Eleito por média",
+      "sqcand": "240002353749"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "JOÃO RAIMUNDO COLOMBO",
+      "nomeUrna": "RAIMUNDO COLOMBO",
+      "partido": "PSD",
+      "numero": "551",
+      "votos": 1416,
+      "percentual": 35.74,
+      "sqcand": "240001620979"
+    },
+    {
+      "nome": "JORGE SEIF JUNIOR",
+      "nomeUrna": "JORGE SEIF",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1131,
+      "percentual": 28.55,
+      "sqcand": "240001611131"
+    },
+    {
+      "nome": "DARIO ELIAS BERGER",
+      "nomeUrna": "DÁRIO",
+      "partido": "PSB",
+      "numero": "400",
+      "votos": 858,
+      "percentual": 21.66,
+      "sqcand": "240001679865"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+      "nomeUrna": "CARMEN ZANOTTO",
+      "partido": "CIDADANIA",
+      "numero": "2323",
+      "votos": 2466,
+      "percentual": 56.43,
+      "sqcand": "240001611938"
+    },
+    {
+      "nome": "ANA PAULA DE SOUZA LIMA",
+      "nomeUrna": "ANA PAULA LIMA",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 220,
+      "percentual": 5.03,
+      "sqcand": "240001645213"
+    },
+    {
+      "nome": "PEDRO FRANCISCO UCZAI",
+      "nomeUrna": "PROFESSOR PEDRO UCZAI",
+      "partido": "PT",
+      "numero": "1350",
+      "votos": 198,
+      "percentual": 4.53,
+      "sqcand": "240001645211"
+    },
+    {
+      "nome": "SILVIO DREVECK",
+      "nomeUrna": "SILVIO DREVECK",
+      "partido": "PP",
+      "numero": "1122",
+      "votos": 135,
+      "percentual": 3.09,
+      "sqcand": "240001644885"
+    },
+    {
+      "nome": "JORGE GOETTEN DE LIMA",
+      "nomeUrna": "JORGE GOETTEN",
+      "partido": "PL",
+      "numero": "2222",
+      "votos": 119,
+      "percentual": 2.72,
+      "sqcand": "240001610977"
+    },
+    {
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "nomeUrna": "CAROL DE TONI",
+      "partido": "PL",
+      "numero": "2200",
+      "votos": 119,
+      "percentual": 2.72,
+      "sqcand": "240001610965"
+    },
+    {
+      "nome": "ISMAEL DOS SANTOS",
+      "nomeUrna": "ISMAEL",
+      "partido": "PSD",
+      "numero": "5577",
+      "votos": 91,
+      "percentual": 2.08,
+      "sqcand": "240001611140"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "MARCIUS DA SILVA MACHADO",
+      "nomeUrna": "MARCIUS MACHADO",
+      "partido": "PL",
+      "numero": "22123",
+      "votos": 819,
+      "percentual": 20.15,
+      "sqcand": "240001614339"
+    },
+    {
+      "nome": "LAERCIO DEMERVAL SCHUSTER JUNIOR",
+      "nomeUrna": "LAÉRCIO SCHUSTER",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 349,
+      "percentual": 8.59,
+      "sqcand": "240001616189"
+    },
+    {
+      "nome": "LUCAS FELIPE MELO NEVES",
+      "nomeUrna": "LUCAS NEVES",
+      "partido": "PODE",
+      "numero": "19282",
+      "votos": 268,
+      "percentual": 6.59,
+      "sqcand": "240001610819"
+    },
+    {
+      "nome": "MARCOS LUIZ VIEIRA",
+      "nomeUrna": "MARCOS VIEIRA",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 238,
+      "percentual": 5.85,
+      "sqcand": "240001612502"
+    },
+    {
+      "nome": "RODRIGO MINOTTO",
+      "nomeUrna": "RODRIGO MINOTTO",
+      "partido": "PDT",
+      "numero": "12345",
+      "votos": 199,
+      "percentual": 4.9,
+      "sqcand": "240001644398"
+    },
+    {
+      "nome": "SILVIO ALEXANDRE ZANCANARO",
+      "nomeUrna": "SILVIO ALEXANDRE ZANCANARO",
+      "partido": "PSD",
+      "numero": "55444",
+      "votos": 196,
+      "percentual": 4.82,
+      "sqcand": "240001614377"
+    },
+    {
+      "nome": "JULIO CÉSAR GARCIA",
+      "nomeUrna": "JULIO GARCIA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 153,
+      "percentual": 3.76,
+      "sqcand": "240001614390"
+    }
+  ]
+}

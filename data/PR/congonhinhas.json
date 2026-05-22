@@ -1,0 +1,271 @@
+{
+  "populacao": 6845,
+  "votosValidos": 5356,
+  "abstencao": 19.11,
+  "prefeito": {
+    "nome": "JOSE OLEGARIO RIBEIRO LOPES",
+    "nomeUrna": "DR ZÉCO",
+    "partido": "PSD",
+    "numero": "55",
+    "votos": 2845,
+    "percentual": 53.12,
+    "situacao": "Eleito",
+    "sqcand": "160002055637",
+    "vice": "APARECIDO RENATO HONORIO",
+    "viceNomeUrna": "RENATINHO",
+    "partidoVice": "PSB",
+    "sqcandVice": "160002055638",
+    "coligacao": "PSD / PSB / CIDADANIA / PSDB / PP"
+  },
+  "vereadores": [
+    {
+      "nome": "JOELGLERSON RICARDO DE LIMA",
+      "nomeUrna": "JO DA ROSA BESTEIRA",
+      "partido": "PSD",
+      "numero": "55555",
+      "votos": 352,
+      "percentual": 6.54,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002310943"
+    },
+    {
+      "nome": "EVERTON CARLOS MACHADO",
+      "nomeUrna": "EVERTON MACHADO",
+      "partido": "PSB",
+      "numero": "40000",
+      "votos": 303,
+      "percentual": 5.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002311141"
+    },
+    {
+      "nome": "JUARES GABRIEL MARIANO",
+      "nomeUrna": "JUARES MARIANO JUCA",
+      "partido": "REPUBLICANOS",
+      "numero": "10123",
+      "votos": 268,
+      "percentual": 4.98,
+      "situacao": "Eleito por QP",
+      "sqcand": "160002173265"
+    },
+    {
+      "nome": "NILSON RODRIGUES DOS SANTOS",
+      "nomeUrna": "QUERO QUERO",
+      "partido": "PSB",
+      "numero": "40234",
+      "votos": 209,
+      "percentual": 3.88,
+      "situacao": "Eleito por média",
+      "sqcand": "160002311138"
+    },
+    {
+      "nome": "ALOIR MESSIAS",
+      "nomeUrna": "ALOIR",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 180,
+      "percentual": 3.35,
+      "situacao": "Eleito por média",
+      "sqcand": "160002192412"
+    },
+    {
+      "nome": "CHELSE MARCOLINO SIMÕES",
+      "nomeUrna": "CHELSINHO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 179,
+      "percentual": 3.33,
+      "situacao": "Eleito por média",
+      "sqcand": "160002311123"
+    },
+    {
+      "nome": "ROSELI PRADO MORAES",
+      "nomeUrna": "ROSELI PRADO",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 171,
+      "percentual": 3.18,
+      "situacao": "Eleito por média",
+      "sqcand": "160002173261"
+    },
+    {
+      "nome": "ODILON ALVES PENA",
+      "nomeUrna": "NENZINHO DO OITO",
+      "partido": "MDB",
+      "numero": "15000",
+      "votos": 149,
+      "percentual": 2.77,
+      "situacao": "Eleito por média",
+      "sqcand": "160002057886"
+    },
+    {
+      "nome": "VALDEMIR RIBEIRO NARDI",
+      "nomeUrna": "VAL NARDI",
+      "partido": "SOLIDARIEDADE",
+      "numero": "77456",
+      "votos": 131,
+      "percentual": 2.43,
+      "situacao": "Eleito por média",
+      "sqcand": "160002067106"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ALVARO FERNANDES DIAS",
+      "nomeUrna": "ALVARO DIAS",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 1539,
+      "percentual": 35.88,
+      "sqcand": "160001614980"
+    },
+    {
+      "nome": "PAULO EDUARDO LIMA MARTINS",
+      "nomeUrna": "PAULO MARTINS",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 1011,
+      "percentual": 23.57,
+      "sqcand": "160001621868"
+    },
+    {
+      "nome": "SERGIO FERNANDO MORO",
+      "nomeUrna": "SERGIO MORO",
+      "partido": "UNIÃO",
+      "numero": "444",
+      "votos": 857,
+      "percentual": 19.98,
+      "sqcand": "160001621846"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "PEDRO DEBONI LUPION MELLO",
+      "nomeUrna": "PEDRO LUPION",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 830,
+      "percentual": 17.85,
+      "sqcand": "160001603295"
+    },
+    {
+      "nome": "ANTONIO WANDSCHEER",
+      "nomeUrna": "TONINHO WANDSCHEER",
+      "partido": "PROS",
+      "numero": "9090",
+      "votos": 527,
+      "percentual": 11.33,
+      "sqcand": "160001621909"
+    },
+    {
+      "nome": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+      "nomeUrna": "LUÍSA CANZIANI",
+      "partido": "PSD",
+      "numero": "5511",
+      "votos": 457,
+      "percentual": 9.83,
+      "sqcand": "160001622297"
+    },
+    {
+      "nome": "ENIO JOSÉ VERRI",
+      "nomeUrna": "ENIO VERRI",
+      "partido": "PT",
+      "numero": "1330",
+      "votos": 359,
+      "percentual": 7.72,
+      "sqcand": "160001614525"
+    },
+    {
+      "nome": "GLEISI HELENA HOFFMANN",
+      "nomeUrna": "GLEISI",
+      "partido": "PT",
+      "numero": "1313",
+      "votos": 299,
+      "percentual": 6.43,
+      "sqcand": "160001614512"
+    },
+    {
+      "nome": "PIERPAOLO PETRUZZIELLO",
+      "nomeUrna": "PIER",
+      "partido": "PP",
+      "numero": "1101",
+      "votos": 292,
+      "percentual": 6.28,
+      "sqcand": "160001603312"
+    },
+    {
+      "nome": "SANDRO ALEX CRUZ DE OLIVEIRA",
+      "nomeUrna": "SANDRO ALEX",
+      "partido": "PSD",
+      "numero": "5555",
+      "votos": 221,
+      "percentual": 4.75,
+      "sqcand": "160001622302"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "LUIZ CLAUDIO ROMANELLI",
+      "nomeUrna": "ROMANELLI",
+      "partido": "PSD",
+      "numero": "55678",
+      "votos": 812,
+      "percentual": 18.07,
+      "sqcand": "160001623125"
+    },
+    {
+      "nome": "JOSÉ TIAGO CAMARGO DO AMARAL",
+      "nomeUrna": "TIAGO AMARAL",
+      "partido": "PSD",
+      "numero": "55155",
+      "votos": 808,
+      "percentual": 17.98,
+      "sqcand": "160001623115"
+    },
+    {
+      "nome": "ROSELI PRADO MORAES",
+      "nomeUrna": "ROSELI PRADO",
+      "partido": "REPUBLICANOS",
+      "numero": "10010",
+      "votos": 686,
+      "percentual": 15.27,
+      "sqcand": "160001716144"
+    },
+    {
+      "nome": "JOSÉ RODRIGUES LEMOS",
+      "nomeUrna": "PROFESSOR LEMOS",
+      "partido": "PT",
+      "numero": "13013",
+      "votos": 313,
+      "percentual": 6.97,
+      "sqcand": "160001615032"
+    },
+    {
+      "nome": "DEVANIL REGINALDO DA SILVA",
+      "nomeUrna": "COBRA REPÓRTER",
+      "partido": "PSD",
+      "numero": "55055",
+      "votos": 256,
+      "percentual": 5.7,
+      "sqcand": "160001623099"
+    },
+    {
+      "nome": "ALEX CANZIANI SILVEIRA",
+      "nomeUrna": "ALEX CANZIANI",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 204,
+      "percentual": 4.54,
+      "sqcand": "160001623112"
+    },
+    {
+      "nome": "MICHELE CAPUTO NETO",
+      "nomeUrna": "MICHELE CAPUTO",
+      "partido": "PSDB",
+      "numero": "45000",
+      "votos": 191,
+      "percentual": 4.25,
+      "sqcand": "160001612430"
+    }
+  ]
+}

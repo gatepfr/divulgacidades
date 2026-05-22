@@ -1,0 +1,411 @@
+{
+  "populacao": 246326,
+  "votosValidos": 178144,
+  "abstencao": 25.66,
+  "prefeito": {
+    "nome": "JOSÉ MARIA TAPAJÓS",
+    "nomeUrna": "ZÉ MARIA TAPAJÓS",
+    "partido": "MDB",
+    "numero": "15",
+    "votos": 92628,
+    "percentual": 52.0,
+    "situacao": "Eleito",
+    "sqcand": "140002112203",
+    "vice": "CARLOS EDUARDO CARDOSO MARTINS",
+    "viceNomeUrna": "CARLOS MARTINS",
+    "partidoVice": "PT",
+    "sqcandVice": "140002112202",
+    "coligacao": "MDB / PC do B / PT / PV / UNIÃO / REPUBLICANOS / PP / PDT / PODE / PRD / PSB / DC / PSD"
+  },
+  "vereadores": [
+    {
+      "nome": "JOSÉ MARIA JÚNIOR PEREIRA TAPAJÓS",
+      "nomeUrna": "JÚNIOR TAPAJÓS",
+      "partido": "MDB",
+      "numero": "15789",
+      "votos": 5556,
+      "percentual": 2.94,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002111793"
+    },
+    {
+      "nome": "ALEXANDRE ALMEIDA MADURO",
+      "nomeUrna": "ALEXANDRE MADURO",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 5107,
+      "percentual": 2.7,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002111801"
+    },
+    {
+      "nome": "JANDER ILSON REGO PEREIRA",
+      "nomeUrna": "JANDEILSON PEREIRA",
+      "partido": "UNIÃO",
+      "numero": "44123",
+      "votos": 4977,
+      "percentual": 2.63,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002217435"
+    },
+    {
+      "nome": "RENILSON MARINHO ALVES",
+      "nomeUrna": "RENILSON VINTE",
+      "partido": "PSD",
+      "numero": "55520",
+      "votos": 3970,
+      "percentual": 2.1,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001914651"
+    },
+    {
+      "nome": "URIAS PAULO PINGARILHO CASTRO",
+      "nomeUrna": "URIAS PINGARILHO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 3523,
+      "percentual": 1.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002111811"
+    },
+    {
+      "nome": "ERLON PEREIRA ROCHA",
+      "nomeUrna": "ERLON ROCHA",
+      "partido": "MDB",
+      "numero": "15195",
+      "votos": 3519,
+      "percentual": 1.86,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002111792"
+    },
+    {
+      "nome": "JOSÉ ERASMO MAIA COSTA",
+      "nomeUrna": "ERASMO MAIA",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 3492,
+      "percentual": 1.85,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002217425"
+    },
+    {
+      "nome": "DAVID VIANA DE ABREU",
+      "nomeUrna": "DAVID PAIVA",
+      "partido": "REPUBLICANOS",
+      "numero": "10500",
+      "votos": 3178,
+      "percentual": 1.68,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002110712"
+    },
+    {
+      "nome": "ALBERTO PORTELA DE SOUSA",
+      "nomeUrna": "ALBERTO PORTELA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 3101,
+      "percentual": 1.64,
+      "situacao": "Eleito por média",
+      "sqcand": "140002217419"
+    },
+    {
+      "nome": "MARIA ALBANICE LEAL DIAS",
+      "nomeUrna": "ENFERMEIRA ALBA LEAL",
+      "partido": "MDB",
+      "numero": "15555",
+      "votos": 3061,
+      "percentual": 1.62,
+      "situacao": "Eleito por média",
+      "sqcand": "140002111805"
+    },
+    {
+      "nome": "SÉRGIO DOS SANTOS PEREIRA",
+      "nomeUrna": "SÉRGIO PEREIRA",
+      "partido": "PP",
+      "numero": "11500",
+      "votos": 2704,
+      "percentual": 1.43,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002040676"
+    },
+    {
+      "nome": "JOZIEL MARQUES COLARES",
+      "nomeUrna": "ENFERMEIRO JOZIEL",
+      "partido": "PRD",
+      "numero": "25192",
+      "votos": 2659,
+      "percentual": 1.41,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001980225"
+    },
+    {
+      "nome": "ELIELTON REGO LIRA",
+      "nomeUrna": "ELIELTON LIRA",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 2607,
+      "percentual": 1.38,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002179817"
+    },
+    {
+      "nome": "ELITA BELTRÃO DE FREITAS",
+      "nomeUrna": "ELITA BELTRÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "10147",
+      "votos": 2570,
+      "percentual": 1.36,
+      "situacao": "Eleito por média",
+      "sqcand": "140002110721"
+    },
+    {
+      "nome": "GERLANDE CORREA CASTRO",
+      "nomeUrna": "GERLANDE CASTRO",
+      "partido": "PP",
+      "numero": "11000",
+      "votos": 2371,
+      "percentual": 1.25,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002040681"
+    },
+    {
+      "nome": "ALAERCIO MAGALHAES CARDOSO",
+      "nomeUrna": "ALAERCIO CARDOSO",
+      "partido": "PSD",
+      "numero": "55123",
+      "votos": 2298,
+      "percentual": 1.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001914642"
+    },
+    {
+      "nome": "MARCIO ADAMOS LIMA SILVA",
+      "nomeUrna": "BIGA ",
+      "partido": "PT",
+      "numero": "13024",
+      "votos": 2281,
+      "percentual": 1.21,
+      "situacao": "Eleito por QP",
+      "sqcand": "140002325036"
+    },
+    {
+      "nome": "MURILO JOSE TOLENTINO DE MATOS",
+      "nomeUrna": "ENF MURILO TOLENTINO",
+      "partido": "PRD",
+      "numero": "25100",
+      "votos": 2184,
+      "percentual": 1.15,
+      "situacao": "Eleito por média",
+      "sqcand": "140001980223"
+    },
+    {
+      "nome": "ANDREO MARCEO DOS SANTOS RASERA",
+      "nomeUrna": "ANDREO RASERA",
+      "partido": "PL",
+      "numero": "22222",
+      "votos": 2158,
+      "percentual": 1.14,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001937927"
+    },
+    {
+      "nome": "IVANIRA DE SOUSA FIGUEIRA",
+      "nomeUrna": "IVANIRA FIGUEIRA",
+      "partido": "PSD",
+      "numero": "55111",
+      "votos": 1955,
+      "percentual": 1.03,
+      "situacao": "Eleito por média",
+      "sqcand": "140001914643"
+    },
+    {
+      "nome": "BARBARA LUZIA DE OLIVEIRA MATOS",
+      "nomeUrna": "BÁRBARA MATOS",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 1789,
+      "percentual": 0.95,
+      "situacao": "Eleito por média",
+      "sqcand": "140002040685"
+    },
+    {
+      "nome": "MALAQUIAS JOSÉ MOTTIN",
+      "nomeUrna": "MALAQUIAS",
+      "partido": "PL",
+      "numero": "22110",
+      "votos": 1591,
+      "percentual": 0.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001937926"
+    },
+    {
+      "nome": "YANGLYER GLAY SANTOS MATTOS",
+      "nomeUrna": "MANO DADAI",
+      "partido": "PSB",
+      "numero": "40100",
+      "votos": 1497,
+      "percentual": 0.79,
+      "situacao": "Eleito por QP",
+      "sqcand": "140001947998"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "MARIO COUTO FILHO",
+      "nomeUrna": "MARIO COUTO",
+      "partido": "PL",
+      "numero": "222",
+      "votos": 50316,
+      "percentual": 29.23,
+      "sqcand": "140001600249"
+    },
+    {
+      "nome": "JARDEL LUIS CASTRO GUIMARÃES",
+      "nomeUrna": "DELEGADO JARDEL",
+      "partido": "PODE",
+      "numero": "190",
+      "votos": 47193,
+      "percentual": 27.41,
+      "sqcand": "140001648644"
+    },
+    {
+      "nome": "JOSÉ ROBERTO OLIVEIRA FARO",
+      "nomeUrna": "BETO FARO",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 45713,
+      "percentual": 26.55,
+      "sqcand": "140001611661"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "HENDERSON LIRA PINTO",
+      "nomeUrna": "HENDERSON PINTO",
+      "partido": "MDB",
+      "numero": "1522",
+      "votos": 49026,
+      "percentual": 28.0,
+      "sqcand": "140001621349"
+    },
+    {
+      "nome": "MALAQUIAS JOSE MOTTIN",
+      "nomeUrna": "MALAQUIAS MOTTIN",
+      "partido": "PL",
+      "numero": "2210",
+      "votos": 12921,
+      "percentual": 7.38,
+      "sqcand": "140001598306"
+    },
+    {
+      "nome": "AIRTON LUIZ FALEIRO",
+      "nomeUrna": "AIRTON FALEIRO",
+      "partido": "PT",
+      "numero": "1321",
+      "votos": 12458,
+      "percentual": 7.12,
+      "sqcand": "140001620904"
+    },
+    {
+      "nome": "JOÃO FERRARI JÚNIOR",
+      "nomeUrna": "JÚNIOR FERRARI",
+      "partido": "PSD",
+      "numero": "5588",
+      "votos": 9938,
+      "percentual": 5.68,
+      "sqcand": "140001620797"
+    },
+    {
+      "nome": "ALEXANDRE RAIMUNDO DE VASCONCELOS WANGHON",
+      "nomeUrna": "ALEXANDRE VON",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 8411,
+      "percentual": 4.8,
+      "sqcand": "140001615710"
+    },
+    {
+      "nome": "JOSE BENITO PRIANTE JUNIOR",
+      "nomeUrna": "PRIANTE",
+      "partido": "MDB",
+      "numero": "1555",
+      "votos": 6185,
+      "percentual": 3.53,
+      "sqcand": "140001621340"
+    },
+    {
+      "nome": "WELLINGTON DE SOUZA GALDINO",
+      "nomeUrna": "WELLINGTON GALDINO",
+      "partido": "PSC",
+      "numero": "2022",
+      "votos": 5213,
+      "percentual": 2.98,
+      "sqcand": "140001601473"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "CELSA MARIA GOMES DE BRITO SILVA",
+      "nomeUrna": "CELSA",
+      "partido": "MDB",
+      "numero": "15222",
+      "votos": 26076,
+      "percentual": 14.94,
+      "sqcand": "140001676912"
+    },
+    {
+      "nome": "JUSCELINO KUBITSCHEK CAMPOS DE SOUZA",
+      "nomeUrna": "JK DO POVÃO",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 24932,
+      "percentual": 14.29,
+      "sqcand": "140001615535"
+    },
+    {
+      "nome": "JOSÉ MARIA TAPAJÓS",
+      "nomeUrna": "JOSÉ MARIA TAPAJÓS",
+      "partido": "PP",
+      "numero": "11456",
+      "votos": 19949,
+      "percentual": 11.43,
+      "sqcand": "140001611617"
+    },
+    {
+      "nome": "MARIA DO CARMO MARTINS LIMA",
+      "nomeUrna": "MARIA",
+      "partido": "PT",
+      "numero": "13123",
+      "votos": 18810,
+      "percentual": 10.78,
+      "sqcand": "140001676625"
+    },
+    {
+      "nome": "ADRIANA FERREIRA DE ALMEIDA SILVA",
+      "nomeUrna": "ADRIANA ALMEIDA",
+      "partido": "UNIÃO",
+      "numero": "44321",
+      "votos": 12289,
+      "percentual": 7.04,
+      "sqcand": "140001611676"
+    },
+    {
+      "nome": "JOÃO DE NAZARÉ PINGARILHO NETO",
+      "nomeUrna": "JOÃO PINGARILHO",
+      "partido": "PSC",
+      "numero": "20500",
+      "votos": 11923,
+      "percentual": 6.83,
+      "sqcand": "140001600280"
+    },
+    {
+      "nome": "ERLON PEREIRA ROCHA",
+      "nomeUrna": "ERLON ROCHA",
+      "partido": "MDB",
+      "numero": "15195",
+      "votos": 7706,
+      "percentual": 4.42,
+      "sqcand": "140001676897"
+    }
+  ]
+}

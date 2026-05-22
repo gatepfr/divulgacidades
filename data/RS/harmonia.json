@@ -1,0 +1,271 @@
+{
+  "populacao": 4078,
+  "votosValidos": 2517,
+  "abstencao": 13.17,
+  "prefeito": {
+    "nome": "ERNANI JOSÉ FORNECK",
+    "nomeUrna": "ERNANI",
+    "partido": "UNIÃO",
+    "numero": "44",
+    "votos": 2517,
+    "percentual": 100.0,
+    "situacao": "Eleito",
+    "sqcand": "210002087602",
+    "vice": "ANTÔNIO KUNZLER",
+    "viceNomeUrna": "ANTÔNIO TOMATE",
+    "partidoVice": "PSDB",
+    "sqcandVice": "210002087603",
+    "coligacao": "UNIÃO / CIDADANIA / PSDB"
+  },
+  "vereadores": [
+    {
+      "nome": "LEOZILDO RODRIGUES LIRA",
+      "nomeUrna": "LEO LIRA",
+      "partido": "PSDB",
+      "numero": "45690",
+      "votos": 290,
+      "percentual": 8.74,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002072274"
+    },
+    {
+      "nome": "DANIELLI MARCANSONI",
+      "nomeUrna": "DANI MARCANSONI",
+      "partido": "PSDB",
+      "numero": "45245",
+      "votos": 265,
+      "percentual": 7.99,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002072273"
+    },
+    {
+      "nome": "CLEITON GRAFF",
+      "nomeUrna": "CLEITON GRAFF",
+      "partido": "PSDB",
+      "numero": "45699",
+      "votos": 260,
+      "percentual": 7.84,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002072275"
+    },
+    {
+      "nome": "MATEUS ARTHUR SPECHT",
+      "nomeUrna": "MATEUS SPECHT",
+      "partido": "UNIÃO",
+      "numero": "44000",
+      "votos": 251,
+      "percentual": 7.57,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002073134"
+    },
+    {
+      "nome": "MARCO DAHMER",
+      "nomeUrna": "MARQUINHOS",
+      "partido": "PSDB",
+      "numero": "45123",
+      "votos": 246,
+      "percentual": 7.42,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002072276"
+    },
+    {
+      "nome": "ANA CAROLINE LEDUR",
+      "nomeUrna": "ANA LEDUR",
+      "partido": "PSB",
+      "numero": "40123",
+      "votos": 224,
+      "percentual": 6.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002089470"
+    },
+    {
+      "nome": "DIRCEU ERVINO MULLER",
+      "nomeUrna": "DIRCEU MULLER MARATÁ",
+      "partido": "PSDB",
+      "numero": "45336",
+      "votos": 216,
+      "percentual": 6.51,
+      "situacao": "Eleito por média",
+      "sqcand": "210002072279"
+    },
+    {
+      "nome": "PAULO ALFREDO FUHR",
+      "nomeUrna": "CHTIA DA ÁGUA",
+      "partido": "UNIÃO",
+      "numero": "44111",
+      "votos": 212,
+      "percentual": 6.39,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002073132"
+    },
+    {
+      "nome": "JOEL ANDRE KLEINSCHMITT",
+      "nomeUrna": "JOEL DA SAÚDE",
+      "partido": "UNIÃO",
+      "numero": "44567",
+      "votos": 183,
+      "percentual": 5.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002073130"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1568,
+      "percentual": 53.68,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 650,
+      "percentual": 22.25,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 639,
+      "percentual": 21.88,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 610,
+      "percentual": 20.08,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "HEITOR JOSÉ SCHUCH",
+      "nomeUrna": "HEITOR SCHUCH",
+      "partido": "PSB",
+      "numero": "4012",
+      "votos": 476,
+      "percentual": 15.67,
+      "sqcand": "210001596984"
+    },
+    {
+      "nome": "MAURICIO ALEXANDRE DZIEDRICKI",
+      "nomeUrna": "MAURICIO DZIEDRICKI",
+      "partido": "PODE",
+      "numero": "1977",
+      "votos": 303,
+      "percentual": 9.97,
+      "sqcand": "210001596134"
+    },
+    {
+      "nome": "MARCEL VAN HATTEM",
+      "nomeUrna": "MARCEL VAN HATTEM",
+      "partido": "NOVO",
+      "numero": "3030",
+      "votos": 193,
+      "percentual": 6.35,
+      "sqcand": "210001597011"
+    },
+    {
+      "nome": "MAURICIO BEDIN MARCON",
+      "nomeUrna": "MAURICIO MARCON",
+      "partido": "PODE",
+      "numero": "1922",
+      "votos": 165,
+      "percentual": 5.43,
+      "sqcand": "210001596133"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 160,
+      "percentual": 5.27,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "LUCIANO LORENZINI ZUCCO",
+      "nomeUrna": "TENENTE CORONEL ZUCCO",
+      "partido": "REPUBLICANOS",
+      "numero": "1022",
+      "votos": 110,
+      "percentual": 3.62,
+      "sqcand": "210001601587"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "ELTON ROBERTO WEBER",
+      "nomeUrna": "ELTON WEBER",
+      "partido": "PSB",
+      "numero": "40120",
+      "votos": 470,
+      "percentual": 16.11,
+      "sqcand": "210001602904"
+    },
+    {
+      "nome": "RONALDO SANTINI",
+      "nomeUrna": "SANTINI",
+      "partido": "PODE",
+      "numero": "19777",
+      "votos": 415,
+      "percentual": 14.23,
+      "sqcand": "210001596147"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 309,
+      "percentual": 10.59,
+      "sqcand": "210001601942"
+    },
+    {
+      "nome": "ZILÁ MARIA BREITENBACH",
+      "nomeUrna": "ZILÁ BREITENBACH",
+      "partido": "PSDB",
+      "numero": "45345",
+      "votos": 228,
+      "percentual": 7.82,
+      "sqcand": "210001620208"
+    },
+    {
+      "nome": "TALIS ROMEU POHREN FERREIRA",
+      "nomeUrna": "TALIS FERREIRA",
+      "partido": "PP",
+      "numero": "11555",
+      "votos": 139,
+      "percentual": 4.77,
+      "sqcand": "210001647174"
+    },
+    {
+      "nome": "RAMIRO STALLBAUM ROSÁRIO",
+      "nomeUrna": " RAMIRO ROSÁRIO",
+      "partido": "PSDB",
+      "numero": "45200",
+      "votos": 123,
+      "percentual": 4.22,
+      "sqcand": "210001620191"
+    },
+    {
+      "nome": "EVERTON KREMER",
+      "nomeUrna": "EVERTON KREMER BRANQUINHO",
+      "partido": "MDB",
+      "numero": "15123",
+      "votos": 62,
+      "percentual": 2.13,
+      "sqcand": "210001647989"
+    }
+  ]
+}

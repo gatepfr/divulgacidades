@@ -1,0 +1,271 @@
+{
+  "populacao": 3811,
+  "votosValidos": 3149,
+  "abstencao": 13.51,
+  "prefeito": {
+    "nome": "AMARILDO LUIS DA SILVA",
+    "nomeUrna": "AMARILDO",
+    "partido": "PDT",
+    "numero": "12",
+    "votos": 2203,
+    "percentual": 69.96,
+    "situacao": "Eleito",
+    "sqcand": "210002070347",
+    "vice": "PEDRO ANTÔNIO DORNELLES",
+    "viceNomeUrna": "PEDRO DORNELLES",
+    "partidoVice": "PDT",
+    "sqcandVice": "210002070346",
+    "coligacao": "CIDADANIA / PSDB / PDT"
+  },
+  "vereadores": [
+    {
+      "nome": "PAULO DELCIO DE SOUZA",
+      "nomeUrna": "DELCIO SOUZA",
+      "partido": "REPUBLICANOS",
+      "numero": "10000",
+      "votos": 329,
+      "percentual": 10.27,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002294172"
+    },
+    {
+      "nome": "TIAGO DE AZEVEDO LOUNAI",
+      "nomeUrna": "TIAGO",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 253,
+      "percentual": 7.9,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002069457"
+    },
+    {
+      "nome": "NELSON DE QUADROS COSTA",
+      "nomeUrna": "NELSON DE QUADROS MEIO QUILO",
+      "partido": "PDT",
+      "numero": "12666",
+      "votos": 249,
+      "percentual": 7.77,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002069452"
+    },
+    {
+      "nome": "MARCOS ROBERTO DE SOUZA",
+      "nomeUrna": "CODÉCIO",
+      "partido": "PSDB",
+      "numero": "45777",
+      "votos": 241,
+      "percentual": 7.52,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002068290"
+    },
+    {
+      "nome": "PEDRO NORBERTO DOS SANTOS",
+      "nomeUrna": "PEDRINHO PROCÓPIO",
+      "partido": "PSDB",
+      "numero": "45111",
+      "votos": 187,
+      "percentual": 5.84,
+      "situacao": "Eleito por média",
+      "sqcand": "210002068295"
+    },
+    {
+      "nome": "LEO MOTA",
+      "nomeUrna": "LEO MOTA",
+      "partido": "PDT",
+      "numero": "12222",
+      "votos": 175,
+      "percentual": 5.46,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002069455"
+    },
+    {
+      "nome": "ÁLVARO DA SILVA BRANDÃO",
+      "nomeUrna": "ÁLVARO",
+      "partido": "PDT",
+      "numero": "12000",
+      "votos": 166,
+      "percentual": 5.18,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002069459"
+    },
+    {
+      "nome": "CRISTINA APARECIDA DA ROSA",
+      "nomeUrna": "CRIS",
+      "partido": "PDT",
+      "numero": "12386",
+      "votos": 158,
+      "percentual": 4.93,
+      "situacao": "Eleito por média",
+      "sqcand": "210002069451"
+    },
+    {
+      "nome": "SERGIO CENCI SOBRINHO",
+      "nomeUrna": "SERGINHO CENCI",
+      "partido": "PP",
+      "numero": "11111",
+      "votos": 152,
+      "percentual": 4.75,
+      "situacao": "Eleito por QP",
+      "sqcand": "210002162357"
+    }
+  ],
+  "senadores": [
+    {
+      "nome": "ANTONIO HAMILTON MARTINS MOURÃO",
+      "nomeUrna": "HAMILTON MOURÃO",
+      "partido": "REPUBLICANOS",
+      "numero": "100",
+      "votos": 1024,
+      "percentual": 41.78,
+      "sqcand": "210001610438"
+    },
+    {
+      "nome": "OLÍVIO DE OLIVEIRA DUTRA",
+      "nomeUrna": "OLÍVIO DUTRA",
+      "partido": "PT",
+      "numero": "131",
+      "votos": 790,
+      "percentual": 32.23,
+      "sqcand": "210001619906"
+    },
+    {
+      "nome": "ANA AMÉLIA DE LEMOS",
+      "nomeUrna": "ANA AMÉLIA LEMOS",
+      "partido": "PSD",
+      "numero": "555",
+      "votos": 575,
+      "percentual": 23.46,
+      "sqcand": "210001615551"
+    }
+  ],
+  "deputadosFederais": [
+    {
+      "nome": "DARCI POMPEO DE MATTOS",
+      "nomeUrna": "POMPEO DE MATTOS",
+      "partido": "PDT",
+      "numero": "1212",
+      "votos": 387,
+      "percentual": 15.35,
+      "sqcand": "210001621272"
+    },
+    {
+      "nome": "LUCAS BELLO REDECKER",
+      "nomeUrna": "LUCAS REDECKER",
+      "partido": "PSDB",
+      "numero": "4511",
+      "votos": 212,
+      "percentual": 8.41,
+      "sqcand": "210001620059"
+    },
+    {
+      "nome": "PAULO ROBERTO SEVERO PIMENTA",
+      "nomeUrna": "PAULO PIMENTA",
+      "partido": "PT",
+      "numero": "1307",
+      "votos": 128,
+      "percentual": 5.08,
+      "sqcand": "210001604668"
+    },
+    {
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nomeUrna": "DANRLEI DE DEUS GOLEIRO",
+      "partido": "PSD",
+      "numero": "5501",
+      "votos": 113,
+      "percentual": 4.48,
+      "sqcand": "210001613990"
+    },
+    {
+      "nome": "RICARDO WAGNER",
+      "nomeUrna": "RICARDO WAGNER",
+      "partido": "PTB",
+      "numero": "1415",
+      "votos": 108,
+      "percentual": 4.28,
+      "sqcand": "210001649220"
+    },
+    {
+      "nome": "LUIZ CARLOS GHIORZZI BUSATO",
+      "nomeUrna": "BUSATO",
+      "partido": "UNIÃO",
+      "numero": "4444",
+      "votos": 90,
+      "percentual": 3.57,
+      "sqcand": "210001601877"
+    },
+    {
+      "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
+      "nomeUrna": "COVATTI FILHO",
+      "partido": "PP",
+      "numero": "1111",
+      "votos": 89,
+      "percentual": 3.53,
+      "sqcand": "210001646697"
+    }
+  ],
+  "deputadosEstaduais": [
+    {
+      "nome": "JOSÉ ODAIR SCORSATTO",
+      "nomeUrna": "JOSÉ SCORSATTO",
+      "partido": "PDT",
+      "numero": "12777",
+      "votos": 481,
+      "percentual": 19.47,
+      "sqcand": "210001621290"
+    },
+    {
+      "nome": "EMANUEL HASSEN DE JESUS",
+      "nomeUrna": "MANECO HASSEN",
+      "partido": "PT",
+      "numero": "13700",
+      "votos": 305,
+      "percentual": 12.35,
+      "sqcand": "210001610603"
+    },
+    {
+      "nome": "TIAGO DELWING PEDROSO",
+      "nomeUrna": "TIAGO PEDROSO",
+      "partido": "PSC",
+      "numero": "20386",
+      "votos": 161,
+      "percentual": 6.52,
+      "sqcand": "210001605722"
+    },
+    {
+      "nome": "JONATAN BRONSTRUP",
+      "nomeUrna": "JONATAN BRONSTRUP",
+      "partido": "PSDB",
+      "numero": "45215",
+      "votos": 153,
+      "percentual": 6.19,
+      "sqcand": "210001620214"
+    },
+    {
+      "nome": "GLÁUCIA SCHUMACHER",
+      "nomeUrna": "GLÁUCIA SCHUMACHER",
+      "partido": "PP",
+      "numero": "11222",
+      "votos": 115,
+      "percentual": 4.66,
+      "sqcand": "210001647168"
+    },
+    {
+      "nome": "JOÃO AGOSTINHO BRAUN",
+      "nomeUrna": "JOÃO BRAUN",
+      "partido": "PP",
+      "numero": "11777",
+      "votos": 108,
+      "percentual": 4.37,
+      "sqcand": "210001647161"
+    },
+    {
+      "nome": "DIRCEU FRANCISCON",
+      "nomeUrna": "DIRCEU FRANCISCON",
+      "partido": "UNIÃO",
+      "numero": "44444",
+      "votos": 91,
+      "percentual": 3.68,
+      "sqcand": "210001601942"
+    }
+  ]
+}
