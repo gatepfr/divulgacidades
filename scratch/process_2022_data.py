@@ -12,12 +12,25 @@ zip_path = "scratch/votacao_candidato_munzona_2022.zip"
 out_dir = "scratch/parsed_2022"
 os.makedirs(out_dir, exist_ok=True)
 
+import argparse
+
+parser = argparse.ArgumentParser(description="Process 2022 TSE results.")
+parser.add_argument("--uf", help="Comma-separated list of UFs to process (e.g. AC,DF,RR)")
+args = parser.parse_args()
+
+target_ufs = None
+if args.uf:
+    target_ufs = [x.strip().upper() for x in args.uf.split(",")]
+
 print("Starting 2022 TSE results processing...")
 
 with zipfile.ZipFile(zip_path, 'r') as zip_ref:
     for uf, cities in mapped_cities.items():
+        if target_ufs and uf not in target_ufs:
+            continue
         print(f"Processing state {uf}...")
         csv_name = f"votacao_candidato_munzona_2022_{uf}.csv"
+
         
         # Check if the CSV exists inside the ZIP
         if csv_name not in zip_ref.namelist():
@@ -134,9 +147,9 @@ with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                 # Sort by votes descending
                 cand_list.sort(key=lambda x: x["votos"], reverse=True)
                 
-                # Keep top 3 for Senator, top 7 for Federal/State/District Deputies
-                limit = 3 if cargo == 5 else 7
-                city_results[cargo_label] = cand_list[:limit]
+                # Keep all candidates
+                city_results[cargo_label] = cand_list
+
                 
             state_results[city_name] = city_results
             

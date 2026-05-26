@@ -10,3 +10,7 @@ scratch/parsed_2024/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large raw zip files
+scratch/*.zip
+

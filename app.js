@@ -468,15 +468,16 @@ function renderDashboard() {
     document.getElementById("vereadores-count-label").innerText = labelText;
   }
 
-  // 4. Renderiza Senadores
-  renderCandidatesGrid("grid-senadores", data.senadores, "SENADOR");
+  // 4. Renderiza Senadores (apenas top 3 mais votados)
+  renderCandidatesGrid("grid-senadores", (data.senadores || []).slice(0, 3), "SENADOR");
 
-  // 5. Renderiza Deputados Federais
-  renderCandidatesGrid("grid-deputados-federais", data.deputadosFederais, "DEP. FEDERAL");
+  // 5. Renderiza Deputados Federais (apenas top 7 mais votados)
+  renderCandidatesGrid("grid-deputados-federais", (data.deputadosFederais || []).slice(0, 7), "DEP. FEDERAL");
 
-  // 6. Renderiza Deputados Estaduais
+  // 6. Renderiza Deputados Estaduais (apenas top 7 mais votados)
   const cargoEstadual = uf === "DF" ? "DEP. ESTADUAL" : "DEP. ESTADUAL"; // Usado internamente para mapeamento de dados
-  renderCandidatesGrid("grid-deputados-estaduais", data.deputadosEstaduais, cargoEstadual);
+  renderCandidatesGrid("grid-deputados-estaduais", (data.deputadosEstaduais || []).slice(0, 7), cargoEstadual);
+
 }
 
 // Renderiza a aba específica do prefeito

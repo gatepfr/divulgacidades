@@ -79,11 +79,12 @@ def determine_elected_vereadores(cargo_ver_data):
                     official_elected.append(cand_info)
                     
     if len(official_elected) > 0:
-        official_elected.sort(key=lambda x: x['votos'], reverse=True)
-        for c in official_elected:
+        all_cands.sort(key=lambda x: x['votos'], reverse=True)
+        for c in all_cands:
             c.pop('_dvt', None)
             c.pop('_e', None)
-        return official_elected
+        return all_cands
+
         
     # Fallback to local proportional representation calculation
     agrs = {}
@@ -189,19 +190,28 @@ def determine_elected_vereadores(cargo_ver_data):
     for agr_id, a in agrs.items():
         elected.extend(a['allocated_candidates'])
         
-    elected.sort(key=lambda x: x['votos'], reverse=True)
+    elected_map = {c['sqcand']: c['situacao'] for c in elected}
     
-    for c in elected:
+    for c in all_cands:
+        if c['sqcand'] in elected_map:
+            c['situacao'] = elected_map[c['sqcand']]
+        else:
+            if not c.get('situacao'):
+                c['situacao'] = "Suplente" if c['votos'] > 0 else "Não eleito"
+                
+    all_cands.sort(key=lambda x: x['votos'], reverse=True)
+    for c in all_cands:
+        c.pop('_dvt', None)
+        c.pop('_e', None)
         c.pop('_is_valid', None)
         c.pop('_contributes', None)
         
-    return elected
+    return all_cands
 
 def process_city(uf, city_name, tse_code):
     uf_lower = uf.lower()
     out_file = f"scratch/parsed_2024/{uf}_{city_name.replace(' ', '_')}.json"
-    if os.path.exists(out_file):
-        return f"{city_name} - {uf}: Already exists"
+
 
     if uf == "DF":
         # Brasília has no municipal elections in 2024
@@ -321,7 +331,7 @@ def process_city(uf, city_name, tse_code):
                             "sqcand": cand.get('sqcand', '')
                         })
             vereadores.sort(key=lambda x: x['votos'], reverse=True)
-            vereadores = vereadores[:20]
+
         
         city_result = {
             "populacao": electorate, # using electorate as proxy for size

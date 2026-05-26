@@ -85,7 +85,8 @@ def main():
             # Save the consolidated city file
             out_file = os.path.join(state_dir, f"{city_slug}.json")
             with open(out_file, "w", encoding="utf-8") as f_out:
-                json.dump(city_data, f_out, indent=2, ensure_ascii=False)
+                json.dump(city_data, f_out, ensure_ascii=False, separators=(',', ':'))
+
             
         print(f"  Processed cities for state {uf}")
 
