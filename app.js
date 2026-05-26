@@ -357,18 +357,20 @@ function setupSearch() {
 function filterCandidatesOnTab() {
   const query = appState.searchQuery;
   const currentTab = appState.activeTab;
-  
+  const data = appState.cityData;
+  if (!data) return;
+  const uf = appState.selectedState;
+
   if (currentTab === "prefeito") {
     // Para a aba de prefeito, apenas filtramos visualmente a chapa inteira
     const mayorCard = document.getElementById("mayor-card-main");
     const statsPanel = document.querySelector(".mayor-stats-panel");
     
-    // Se os dados de prefeito forem nulos (ex: DF), ignora busca na aba
-    if (!appState.cityData.prefeito) return;
+    if (!data.prefeito) return;
     
-    const matches = appState.cityData.prefeito.nome.toLowerCase().includes(query) || 
-                    appState.cityData.prefeito.partido.toLowerCase().includes(query) ||
-                    appState.cityData.prefeito.vice.toLowerCase().includes(query);
+    const matches = data.prefeito.nome.toLowerCase().includes(query) || 
+                    data.prefeito.partido.toLowerCase().includes(query) ||
+                    (data.prefeito.vice && data.prefeito.vice.toLowerCase().includes(query));
     
     if (matches) {
       if (mayorCard) mayorCard.style.opacity = "1";
@@ -379,46 +381,74 @@ function filterCandidatesOnTab() {
     }
     return;
   }
-  
-  // Para outras abas, filtramos os cards da grid correspondente
-  let gridId = "";
-  if (currentTab === "vereadores") gridId = "grid-vereadores";
-  else if (currentTab === "senadores") gridId = "grid-senadores";
-  else if (currentTab === "deputados-federais") gridId = "grid-deputados-federais";
-  else if (currentTab === "deputados-estaduais") gridId = "grid-deputados-estaduais";
-  
-  const grid = document.getElementById(gridId);
-  const cards = grid.querySelectorAll(".candidate-card");
-  let matchesCount = 0;
-  
-  cards.forEach(card => {
-    const name = card.getAttribute("data-name").toLowerCase();
-    const party = card.getAttribute("data-party").toLowerCase();
-    
-    if (name.includes(query) || party.includes(query)) {
-      card.style.display = "flex";
-      matchesCount++;
-    } else {
-      card.style.display = "none";
-    }
-  });
 
-  // Placa de "nenhum resultado"
-  let noResultsAlert = grid.querySelector(".no-results-alert");
-  if (matchesCount === 0) {
-    if (!noResultsAlert) {
-      noResultsAlert = document.createElement("div");
+  let gridId = "";
+  let fullList = [];
+  let cargoLabel = "";
+  let defaultToShow = [];
+  
+  if (currentTab === "vereadores") {
+    gridId = "grid-vereadores";
+    fullList = data.vereadores || [];
+    cargoLabel = "VEREADOR";
+    const eleitos = fullList.filter(v => v.situacao && v.situacao.toLowerCase().startsWith("eleito"));
+    defaultToShow = eleitos.length > 0 ? eleitos : fullList;
+  } else if (currentTab === "senadores") {
+    gridId = "grid-senadores";
+    fullList = data.senadores || [];
+    cargoLabel = "SENADOR";
+    defaultToShow = fullList.slice(0, 3);
+  } else if (currentTab === "deputados-federais") {
+    gridId = "grid-deputados-federais";
+    fullList = data.deputadosFederais || [];
+    cargoLabel = "DEP. FEDERAL";
+    defaultToShow = fullList.slice(0, 10);
+  } else if (currentTab === "deputados-estaduais") {
+    gridId = "grid-deputados-estaduais";
+    fullList = data.deputadosEstaduais || [];
+    cargoLabel = uf === "DF" ? "DEP. DISTRITAL" : "DEP. ESTADUAL";
+    defaultToShow = fullList.slice(0, 10);
+  }
+
+  const grid = document.getElementById(gridId);
+  if (!grid) return;
+
+  if (query === "") {
+    // Restaura exibição padrão
+    renderCandidatesGrid(gridId, defaultToShow, cargoLabel);
+    
+    // Restaura contagem do subtítulo para vereadores
+    if (currentTab === "vereadores") {
+      const eleitos = fullList.filter(v => v.situacao && v.situacao.toLowerCase().startsWith("eleito"));
+      const labelText = eleitos.length > 0 ? `${eleitos.length} vereadores eleitos` : `${fullList.length} vereadores no painel`;
+      document.getElementById("vereadores-count-label").innerText = labelText;
+    }
+  } else {
+    // Busca dentro da lista completa (JSON completo)
+    const matches = fullList.filter(cand => {
+      const name = (cand.nomeUrna || cand.nome || "").toLowerCase();
+      const party = (cand.partido || "").toLowerCase();
+      return name.includes(query) || party.includes(query);
+    });
+
+    renderCandidatesGrid(gridId, matches, cargoLabel);
+
+    // Atualiza contagem do subtítulo para vereadores durante a busca
+    if (currentTab === "vereadores") {
+      document.getElementById("vereadores-count-label").innerText = `${matches.length} candidatos localizados`;
+    }
+
+    // Exibe mensagem de nenhum resultado se necessário
+    if (matches.length === 0) {
+      const noResultsAlert = document.createElement("div");
       noResultsAlert.className = "no-results-alert";
       noResultsAlert.style.gridColumn = "1 / -1";
       noResultsAlert.style.padding = "2rem";
       noResultsAlert.style.textAlign = "center";
       noResultsAlert.style.color = "var(--text-muted)";
-      noResultsAlert.innerText = "Nenhum candidato localizado com este filtro.";
+      noResultsAlert.innerText = "Nenhum candidato localizado com este filtro no banco de dados da cidade.";
       grid.appendChild(noResultsAlert);
     }
-    noResultsAlert.style.display = "block";
-  } else if (noResultsAlert) {
-    noResultsAlert.style.display = "none";
   }
 }
 
