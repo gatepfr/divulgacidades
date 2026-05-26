@@ -274,7 +274,7 @@ function updateDFTabs() {
     if (tabVer) tabVer.style.display = "none";
     if (tabEst) tabEst.innerText = "Dep. Distritais";
     if (paneEstTitle) paneEstTitle.innerText = "Deputados Distritais Mais Votados";
-    if (paneEstSubtitle) paneEstSubtitle.innerText = "Top 7 candidatos com maior votação nominal no DF";
+    if (paneEstSubtitle) paneEstSubtitle.innerText = "Top 10 candidatos com maior votação nominal no DF";
     
     // Se a aba ativa for prefeito ou vereadores (que não existem no DF), muda para senadores
     if (appState.activeTab === "prefeito" || appState.activeTab === "vereadores") {
@@ -303,7 +303,7 @@ function updateDFTabs() {
     if (tabVer) tabVer.style.display = "block";
     if (tabEst) tabEst.innerText = "Dep. Estaduais";
     if (paneEstTitle) paneEstTitle.innerText = "Deputados Estaduais Mais Votados";
-    if (paneEstSubtitle) paneEstSubtitle.innerText = "Top 7 candidatos com maior votação nominal na cidade";
+    if (paneEstSubtitle) paneEstSubtitle.innerText = "Top 10 candidatos com maior votação nominal na cidade";
   }
 }
 
@@ -471,12 +471,12 @@ function renderDashboard() {
   // 4. Renderiza Senadores (apenas top 3 mais votados)
   renderCandidatesGrid("grid-senadores", (data.senadores || []).slice(0, 3), "SENADOR");
 
-  // 5. Renderiza Deputados Federais (apenas top 7 mais votados)
-  renderCandidatesGrid("grid-deputados-federais", (data.deputadosFederais || []).slice(0, 7), "DEP. FEDERAL");
+  // 5. Renderiza Deputados Federais (apenas top 10 mais votados)
+  renderCandidatesGrid("grid-deputados-federais", (data.deputadosFederais || []).slice(0, 10), "DEP. FEDERAL");
 
-  // 6. Renderiza Deputados Estaduais (apenas top 7 mais votados)
+  // 6. Renderiza Deputados Estaduais (apenas top 10 mais votados)
   const cargoEstadual = uf === "DF" ? "DEP. ESTADUAL" : "DEP. ESTADUAL"; // Usado internamente para mapeamento de dados
-  renderCandidatesGrid("grid-deputados-estaduais", (data.deputadosEstaduais || []).slice(0, 7), cargoEstadual);
+  renderCandidatesGrid("grid-deputados-estaduais", (data.deputadosEstaduais || []).slice(0, 10), cargoEstadual);
 
 }
 

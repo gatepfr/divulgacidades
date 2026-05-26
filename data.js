@@ -5945,7 +5945,7 @@ function getElectionData(state, city) {
     const percent = parseFloat(((votosCand / votosValidos) * 100).toFixed(2));
     const sit = index < 5 ? "Eleito" : "Suplente";
     
-    if (index < 7) { // Apenas top 7 conforme solicitado
+    if (index < 10) { // Apenas top 10 conforme solicitado
       deputadosFederais.push({
         nome: cand.nome,
         partido: cand.partido,
@@ -5977,7 +5977,7 @@ function getElectionData(state, city) {
     const percent = parseFloat(((votosCand / votosValidos) * 100).toFixed(2));
     const sit = index < 6 ? "Eleito" : "Suplente";
     
-    if (index < 7) { // Apenas top 7 conforme solicitado
+    if (index < 10) { // Apenas top 10 conforme solicitado
       deputadosEstaduais.push({
         nome: cand.nome,
         partido: cand.partido,
